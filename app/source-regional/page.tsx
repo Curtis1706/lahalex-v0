@@ -167,19 +167,19 @@ export default function HomePage() {
           <h1 className="text-2xl font-bold text-gray-900 mb-6 lg:mb-8">Textes</h1>
         )}
 
-        {/* Source nationale */}
+        {/* Source régionale */}
         <div className="mb-6 lg:mb-8">
           <h2 className="text-base lg:text-lg font-semibold text-gray-800 mb-3 lg:mb-4">
-            Source nationale
+            Source régionale
           </h2>
           <div className="space-y-1 lg:space-y-2">
-            {categories.map((category) => {
+            {internationalCategories.filter(cat => ['cemac', 'ceeac', 'cedeao', 'uemoa'].includes(cat.key)).map((category) => {
               const IconComponent = category.icon
               const count = categoryCounts[category.key] || 0
               return (
                 <button
                   key={category.key}
-                  onClick={() => handleCategoryClick(category.key, "nationale")}
+                  onClick={() => handleCategoryClick(category.key, "regionale")}
                   className={`w-full flex items-center justify-between px-3 py-2.5 lg:py-2 rounded-md text-sm transition-all duration-200 ${
                     selectedCategory === category.key
                       ? "bg-blue-100 text-blue-700 shadow-sm"
@@ -210,11 +210,11 @@ export default function HomePage() {
           </h2>
           <div className="space-y-1 lg:space-y-2">
             <Link
-              href="/source-regional"
+              href="/"
               className="w-full flex items-center justify-between px-3 py-2.5 lg:py-2 rounded-md text-sm transition-all duration-200 text-gray-700 hover:bg-gray-100 hover:text-gray-900"
             >
               <div className="flex items-center space-x-2 lg:space-x-3 min-w-0">
-                <span className="truncate text-left">Source régionale</span>
+                <span className="truncate text-left">Source nationale</span>
               </div>
               <div className="flex items-center space-x-2 flex-shrink-0">
                 <ChevronRight className="w-4 h-4" />
