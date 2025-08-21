@@ -1,0 +1,2 @@
+Les employeurs peuvent, en cas de force majeur ou de bonne foi dûment prouvée, formuler auprès du conseil d’administration de la Caisse, une demande gracieuse en réduction des majorations de retard encourues en application de l’alinéa 1 de l’article 27 de la présente loi.
+Il pourra être statué sur cette requête qui n’est recevable qu’après règlement de la totalité des cotisations avant donné lieu auxdites majorations.

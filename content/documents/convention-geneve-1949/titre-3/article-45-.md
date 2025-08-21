@@ -1,0 +1,2 @@
+Les prisonniers de guerre autres que les officiers et assimilés seront traités Traitement avec les égards dûs à leur grade et à leur âge. des autres La gestion de l’ordinaire par les prisonniers eux-mêmes sera favorisée de prisonniers
+toute manière.

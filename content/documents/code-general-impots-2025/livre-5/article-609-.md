@@ -1,0 +1,1 @@
+Les frais de poursuites sont dus par le contribuable retardataire dès la date de la notification de la contrainte décernée par le receveur des impôts. Les frais de poursuites et les pénalités de retard sont éventuellement minorés proportionnellement au montant des dégrèvements obtenus sans qu’il y ait lieu de notifier un nouvel acte de poursuites au contribuable intéressé.

@@ -1,0 +1,2 @@
+_Dispositions transitoires_
+_Les entreprises d’assurance disposent d’un délai de 3 ans pour fiabiliser leur système d’information, identifier les assurés et bénéficiaires de contrats d’assurances et payer les sommes dues. A l’échéance de ce délai, les montants frappés de prescription et non versés aux bénéficiaires doivent être reversés à la caisse de dépôts et consignations ou tout organisme assimilé dans un délai maximum de 2 ans._\

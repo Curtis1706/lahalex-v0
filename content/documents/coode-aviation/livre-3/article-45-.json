@@ -1,0 +1,14 @@
+{
+  "id": "article-45-",
+  "title": "Article 45 :",
+  "numero": "45 ",
+  "document": "coode-aviation",
+  "path": [
+    "livre-3"
+  ],
+  "navigation": {
+    "parent": "livre-3",
+    "previous": "article-44-",
+    "next": "article-46-"
+  }
+}

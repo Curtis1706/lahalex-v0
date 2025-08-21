@@ -1,0 +1,1 @@
+Le juge d’instruction examine s’il existe contre l’inculpé des charges constitutives d’infraction à la loi pénale.

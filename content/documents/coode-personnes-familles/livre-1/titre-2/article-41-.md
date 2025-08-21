@@ -1,0 +1,6 @@
+Les actes de reconnaissance sont dressés sur un feuillet du registre des actes de naissance suivant les modalités prévues par la réglementation en vigueur.
+- Les blancs qui n’ont pas été remplis lors de l’établissement des actes sont bétonnés. Les ratures et renvois sont approuvés et signés de la même manière que le corps de l’acte.
+- Les mentions marginales sont signées par l'officier de l’état civil qui les accomplit.
+- Les actes de l’état civil sont rédigés dans la langue officielle. Ils sont établis sur le champ, de feuillet en feuillet, et chacun des trois volets doit être immédiatement rempli et signé.
+- Tout acte de l’état civil énonce l’année, le mois et le jour de son établissement, puis l’année, le mois, le jour et l’heure de l’évènement d’état civil survenu ; les prénoms, noms, professions, domicile, date et lieu de naissance de ceux qui y sont dénommés.
+- L’officier de l’état civil est tenu, à la fin de chaque trimestre, sous peine de sanction, d’adresser au service national des statistiques, un état des naissances, des mariages, des divorces, des décès et des enfants sans vie inscrits au cours du trimestre.

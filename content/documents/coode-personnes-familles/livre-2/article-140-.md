@@ -1,0 +1,1 @@
+Il est délivré aux époux un exemplaire de l’acte de mariage constitué par le volet n°1 de l’acte de mariage et un livret de famille établi conformément aux dispositions de l’article 88.

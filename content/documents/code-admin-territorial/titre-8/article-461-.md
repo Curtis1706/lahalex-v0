@@ -1,0 +1,2 @@
+Les dépenses sont engagées, liquidées et mandatées avant d'être payées dans les conditions prévues par le règlement général sur la comptabilité publique.
+Toutefois, certaines catégories de dépenses limitativement énumérées peuvent, dans les conditions prévues par les lois et règlements, être payées avant mandatement, mais font l'objet d'un mandat de régularisation dans les délais impartis.

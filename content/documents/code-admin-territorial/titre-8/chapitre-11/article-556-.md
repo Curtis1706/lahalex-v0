@@ -1,0 +1,1 @@
+Le compte de gestion et ses annexes sont soumis au contrôle de la juridiction des comptes compétente au plus tard le 31 août de l’année suivant l’exercice considéré.

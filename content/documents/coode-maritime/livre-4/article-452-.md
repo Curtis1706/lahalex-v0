@@ -1,0 +1,1 @@
+En cas d’abordage survenu entre navires ou entre navires et bâtiments de navigation intérieure, les indemnités dues à raison des dommages causés aux navires, aux choses ou aux personnes se trouvant à bord, sont réglées conformément aux dispositions du présent chapitre sans qu’il y ait à tenir compte des eaux où l’abordage s’est produit.

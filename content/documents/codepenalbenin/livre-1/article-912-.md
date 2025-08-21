@@ -1,0 +1,1 @@
+L’emploi d’engrais chimiques ou naturels et de pesticides peut être toléré s’il est pratiqué à une distance de deux cent (200) mètres au moins de toute habitation, à un (01) kilomètre des zones de protection des sources, des captages, transitant les eaux potables et à une distance suffisante, toujours supérieure à mille (1000) mètres des cours d’eau, puits et autres sources.

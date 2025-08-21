@@ -1,0 +1,3 @@
+Tout aéronef civil immatriculé en République du Bénin ou utilisé par un exploitant qui a le siège principal de son exploitation ou sa résidence permanente en République du Bénin :
+1. est employé à des fins compatibles avec les buts de la Convention relative à l'aviation civile internationale ;
+2. respecte en toutes circonstances, notamment en cas d'interception, les ordres et les instructions des autorités militaires et civiles de l'Etat dans lequel il se trouve, si celles-ci ne mettent pas en danger la vie des personnes se trouvant à bord et la sécurité de l'aéronef.

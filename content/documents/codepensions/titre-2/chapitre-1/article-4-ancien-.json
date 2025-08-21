@@ -1,0 +1,15 @@
+{
+  "id": "article-4-ancien-",
+  "title": "Article 4 ancien : Le droit à la pension proportionnelle est acquis :",
+  "numero": "4 ancien ",
+  "document": "codepensions",
+  "path": [
+    "titre-2",
+    "chapitre-1"
+  ],
+  "navigation": {
+    "parent": "chapitre-1",
+    "previous": "article-3-nouveau-4-",
+    "next": "article-4-nouveau-"
+  }
+}

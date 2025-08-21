@@ -1,0 +1,2 @@
+Sauf décision contraire du juge, l’administrateur nommé dans les conditions prévues aux deux articles précédents a, sur les biens de la succession, les mêmes pouvoirs que l’héritier bénéficiaire et il est tenu des mêmes obligations.
+Il doit rendre compte de sa mission aux créanciers et aux légataires ainsi qu’à l’héritier bénéficiaire.

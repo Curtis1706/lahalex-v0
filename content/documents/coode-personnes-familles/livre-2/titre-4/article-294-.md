@@ -1,0 +1,1 @@
+Toutes les fois qu’elles ne sont enfermées par la loi dans des délais plus courts, les actions relatives à la filiation se prescrivent par trente (30) ans à partir du jour où l’individu a été privé de l’état qu’il réclame, ou du jour où il a commencé à jouir de l’état qui lui est contesté.

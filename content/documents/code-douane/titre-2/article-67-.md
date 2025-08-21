@@ -1,0 +1,2 @@
+Les agents des douanes peuvent visiter tous navires
+se trouvant dans la zone maritime du rayon des douanes.

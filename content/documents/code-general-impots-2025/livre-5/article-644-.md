@@ -1,0 +1,1 @@
+Nul ne peut surseoir aux poursuites en recouvrement des impôts et taxes assimilées, pénalités et amendes, sauf versement, au trésor public, par l’opposant, d’une caution valant paiement de 25% du montant total de la somme contestée.

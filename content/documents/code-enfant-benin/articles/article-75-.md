@@ -1,0 +1,3 @@
+Article 75 : Cessation du placement
+Lorsque le placement en vue de l’adoption cesse ou lorsqu’il a été refusé de prononcer l’adoption, les effets du placement sont rétroactivement résolus.
+Le ministère public d’office, lorsque la décision de rejet n’est plus susceptible de voies de recours ou dès qu’il est informé de la fin du placement, prescrit la rectification de la mention marginale opérée sur l’acte de naissance de l’enfant.

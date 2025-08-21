@@ -1,0 +1,3 @@
+Article 382 : Tout attentat à la pudeur sur la personne d’un enfant est puni du double des peines prévues à l’article 380 de la présente loi, lorsqu’il est tenté ou commis, sans violences ni contrainte ni menaces ou surprise soit par un ascendant légitime, naturel ou adoptif de la victime ou par une personne ayant autorité sur elle, soit encore par une personne qui a abusé de l’autorité que lui confèrent ses fonctions.
+SECTION II : DES PEINES CONTRE LA PROSTITUTION, LE
+TOURISME SEXUEL D’ENFANTS ET LA PEDOPORNOGRAPHIE

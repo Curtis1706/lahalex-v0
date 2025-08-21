@@ -1,0 +1,3 @@
+Toute piscine ou toute baignade artificielle fait l'objet d'au moins deux contrôles par an, par les agents de l'hygiène. Ce contrôle porte entre autres sur le fonctionnement des installations et sur la qualité des eaux.
+Les exploitants prennent toutes les précautions pour éviter les dangers d'ordre sanitaire et notamment s'assurer que l'eau des établissements qu'ils exploitent est saine.
+Les exploitants se conforment aux exigences du contrôle sanitaire. A défaut, l'exploitation est mise sous scellés.

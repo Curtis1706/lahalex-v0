@@ -1,0 +1,3 @@
+Article 328-12 : Caducité de l’agrément
+A la demande d’une entreprise s’engageant à ne plus souscrire à l’avenir de nouveaux contrats entrant dans une ou plusieurs branches ou sous-branches, le Ministre en charge du secteur des assurances dans l’Etat membre peut, par décision publiée au Journal Officiel, constater la caducité de l’agrément pour lesdites branches ou sous-branches.
+### CHAPITRE 2 : REGLES DE CONSTITUTION ET DE FONCTIONNEMENT

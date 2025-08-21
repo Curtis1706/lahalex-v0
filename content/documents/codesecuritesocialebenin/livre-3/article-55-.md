@@ -1,0 +1,4 @@
+Est considéré comme accident du travail quelle qu’en soit la cause, l’accident survenu par le fait ou à l’occasion du travail à tous les travailleurs visés à l’article 4 de la présente loi.
+Est également considéré comme accident du travail, l’accident survenu au travailleur :
+pendant le trajet de sa résidence au lieu du travail et viceversa ou pendant le trajet entre le lieu du travail et le lieu où il prend habituellement ses repas et viceversa dans la mesure où le parcours n’a pas été interrompu ou détourné pour des motifs d’ordre personnel ou indépendants de l’emploi ;
+pendant les voyages dont les frais sont à la charge de l’employeur en vertu des dispositions prévues par le Code du travail.

@@ -1,0 +1,1 @@
+Les individus faisant partie de bandes sans y exercer aucun commandement ou emploi sont punis de la détention criminelle à temps de dix (10) ans à vingt (20) ans.

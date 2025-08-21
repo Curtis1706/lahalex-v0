@@ -1,0 +1,2 @@
+Quiconque, dans un périmètre de protection rapprochée d’un point de prélèvement des eaux, réalise des dépôts, construit ou exploite une installation ou exerce une activité en violation d’une interdiction édictée en application des lois et règlements, est puni d’une peine d’emprisonnement de trois (03) mois à six (06) mois et d’une amende de cent mille (100.000) à cinq cent mille (500.000) francs CFA, ou de l’une de ces deux peines seulement.
+En cas de récidive, la peine d’emprisonnement est portée à douze (12) mois et l’amende à un million (1.000.000) de francs CFA.

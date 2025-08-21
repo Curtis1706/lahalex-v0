@@ -1,0 +1,3 @@
+Sous réserve des dispositions de l’article 71, l’instruction préparatoire est obligatoire en matière de crime ; sauf dispositions spéciales, elle est facultative en matière de délit.
+Les dispositions du présent code relatives à la qualité et à la compétence des officiers de police judiciaire, des agents supérieurs de police judiciaire et des agents de police judiciaire sont prescrites à peine de nullité absolue du procès-verbal concerné.
+Il en est de même des dispositions régissant les perquisitions, visites domiciliaires, saisies ainsi que celles relatives au respect du secret de l’enquête.

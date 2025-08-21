@@ -1,0 +1,3 @@
+La juridiction qui prononce une peine peut, dans les cas et selon les conditions prévues ci-après, ordonner qu’il soit sursis à son exécution.
+Le président de la juridiction, après le prononcé de la peine assortie du sursis simple, avertit le condamné, lorsqu’il est présent, des conséquences qu’entraînerait une condamnation pour une nouvelle infraction qui serait commise dans les délais prévus par les articles 103 et 105.
+A- DES CONDITIONS D’OCTROI DU SURSIS SIMPLE

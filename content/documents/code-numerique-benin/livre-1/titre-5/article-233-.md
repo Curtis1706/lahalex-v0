@@ -1,0 +1,6 @@
+Règles applicables aux recours
+Le droit de recours contre toute décision de l’Autorité rendue en matière de règlement de différend s’exerce dans un délai de trente (30) jours à compter de la notification ou de la publication de la décision.
+Ce délai est de dix (10) jours pour les mesures conservatoires.
+Les recours exercés ne sont pas suspensifs. Toutefois, la chambre administrative de la Cour Suprême peut ordonner un sursis à exécution lorsque la décision en cause est susceptible d'entrainer des conséquences manifestement excessives ou irréversibles ou lorsqu’il est survenu, postérieurement à la décision, des faits nouveaux d’une gravité exceptionnelle.
+La chambre administrative de la Cour suprême statue sur le recours en annulation ou en reformation contre les mesures conservatoires conformément aux procédures d’urgence qui sont applicables devant elle en matière administrative.
+Les recours contre les décisions rendues sur la litispendance sont formés et jugés comme en matière d’exception d’incompétence.

@@ -1,0 +1,1 @@
+Les équipements utilisés pour mettre en œuvre les mesures de sûreté sont préalablement homologués par l'organisme national en charge de l’aviation civile.

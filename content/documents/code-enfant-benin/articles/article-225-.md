@@ -1,0 +1,2 @@
+Article 225 : Clauses d'âge entre l'apprenti et le formateur
+Aucun maître, aucun chef de chantier ou d’entreprise, ne peut engager un apprenti de moins de dix-huit (18) ans, s’il n’est âgé de vingt-cinq (25) ans au moins. De même, il ne peut loger chez lui, s’il ne vit en famille, un apprenti de moins de dixhuit (18) ans.

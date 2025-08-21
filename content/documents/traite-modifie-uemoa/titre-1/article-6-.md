@@ -1,0 +1,1 @@
+Les actes arrêtés par les organes de l'Union pour la réalisation des objectifs du présent Traité et conformément aux règles et procédures instituées par celui-ci, sont appliqués dans chaque Etat membre nonobstant toute législation nationale contraire, anterieure ou postérieure.

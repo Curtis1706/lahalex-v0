@@ -1,0 +1,1 @@
+Tout acte de l’état civil des Béninois à l’étranger est valable s’il a été reçu conformément aux lois béninoises, par les agents diplomatiques ou par les consuls. Le double des registres de l’état civil tenu par ces agents est adressé à la fin de chaque année au ministre chargé de l’état civil, par l’entremise du ministre chargé des affaires étrangères.

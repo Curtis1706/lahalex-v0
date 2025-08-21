@@ -1,0 +1,9 @@
+En toute matière, les condamnés à une peine privative de liberté passée en force de chose jugée peuvent bénéficier d'une suspension de l'exécution de leur peine si l’exécution a été entamée et qu'il est établi à leur égard des circonstances de nature à justifier cette mesure.
+Les circonstances visées au paragraphe précédent doivent tenir compte soit de leur bonne conduite, soit de considérations d'ordre social ou humanitaire significatives.
+Les personnes condamnées visées au présent article ou leur avocat adressent une requête aux fins de suspension de l'exécution de leur peine au ministre chargé de la justice qui la soumet pour avis à la commission de surveillance de la prison civile ou de la maison d'arrêt compétente.
+Le ministre chargé de la justice transmet ledit avis accompagné d'un rapport au président de la République.
+La suspension de l’exécution de la peine est accordée par décret du président de la République pour une durée qui ne saurait excéder cinq (5) années civiles, renouvelable une seule fois.
+Aucune suspension de l'exécution de peine ne saurait excéder dix (10) ans. Toutefois, lorsque, après le renouvellement prévu à l'alinéa précédent, la durée de dix (10) années est expirée, la suspension produit les effets d'une grâce présidentielle.
+Lorsque la suspension de l'exécution de la peine est révoquée ou lorsque le renouvellement n'est pas accordé au terme de la première période de cinq (05) années, l'exécution de la peine reprend son cours pour la durée non exécutée sur réquisition du procureur de la République près le tribunal du lieu d'exécution de la peine.
+En aucun cas, la suspension de l'exécution de peine ne s’applique aux amendes.
+Le bénéfice de la mesure de suspension de l'exécution de la peine peut être accordée nonobstant la période de sûreté.

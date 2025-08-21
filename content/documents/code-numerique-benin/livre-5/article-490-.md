@@ -1,0 +1,2 @@
+Délais
+Les différents délais prévus par les dispositions du présent Livre pour permettre à l'Autorité de statuer sont doublés en cas d’exercice par l'Autorité d’un des pouvoirs d’investigation prévus aux articles 487, 488 et 490 du présent code.

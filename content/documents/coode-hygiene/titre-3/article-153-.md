@@ -1,0 +1,1 @@
+Il est interdit d'établir des dépôts de fumier dans les périmètres de protection des sources de captage d'eau, à proximité du rivage des cours d'eau, des conduites d'eau potable et des points d'eau.

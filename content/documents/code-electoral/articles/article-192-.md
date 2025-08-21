@@ -1,0 +1,5 @@
+En vue de leur installation, les membres du conseil communal ou municipal sont convoqués par arrêté de l'autorité de tutelle.
+La désignation ou l'élection du maire et de ses adjoints à lieu lors de la séance d'installation du conseil communal ou municipal dans les quinze (15) jours qui suivent l'annonce des résultats de l'élection communale, nonobstant les recours éventuels.
+La désignation du maire et des adjoints au maire est communiquée à l'autorité de tutelle qui en informe les conseillers.
+En cas d'élection du maire et de ses adjoints, un bureau d'âge conduit le vote. Le bureau d'âge est présidé par le plus âgé des membres du conseil assisté des deux plus jeunes conseillers.
+En tout état de cause, lorsque le conseil communal ou municipal n'est pas installé dans les quinze (15) jours qui suivent la proclamation des résultats, sur saisine d'au moins deux (02) conseillers élus, la Cour suprême se saisit du dossier et procède à l'installation du maire dans les quinze (15) jours de sa saisine.

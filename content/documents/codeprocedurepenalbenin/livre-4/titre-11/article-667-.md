@@ -1,0 +1,1 @@
+Le juge des enfants effectue toutes diligences, toutes investigations, tous actes nécessaires à la manifestation de la vérité. Il peut décerner tous mandats utiles.

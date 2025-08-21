@@ -1,0 +1,2 @@
+Le président et ou les vice-présidents sont élus au 1 tour au scrutin secret et à la majorité absolue des membres, à l'occasion de l'installation du conseil de communauté.
+En l’absence de majorité absolue au 1 tour de scrutin, il est procédé, pour chaque poste, entre les deux premiers candidats ayant obtenu le plus grand nombre de suffrages exprimés, à autant de tours qu'il sera nécessaire pour que le candidat ayant obtenu la majorité relative des voix soit déclaré élu.

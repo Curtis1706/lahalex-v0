@@ -1,0 +1,2 @@
+Les officiers de port prêtent serment devant le tribunal territorialement compétent.
+La formule du serment est la suivante : « je jure et promets de bien et loyalement remplir mes fonctions et d’observer tous les devoirs qu’elles m’imposent ».

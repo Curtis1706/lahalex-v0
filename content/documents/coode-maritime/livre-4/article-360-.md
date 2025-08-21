@@ -1,0 +1,1 @@
+La remise du connaissement original au transporteur ou à son représentant établit la livraison sauf preuve contraire par le destinataire.

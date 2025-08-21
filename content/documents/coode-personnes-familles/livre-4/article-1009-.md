@@ -1,0 +1,1 @@
+En cas de succession portant sur des immeubles et des fonds de commerce, la transmission de la propriété de ceux-ci est régie par la loi de leur situation.

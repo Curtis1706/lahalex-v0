@@ -1,0 +1,6 @@
+Une requête contenant les moyens d’appel peut être remise dans les délais prévus pour la déclaration d’appel au greffe du tribunal ; elle est signée de l’appelant, ou d’un avocat ou d’un fondé de pouvoir spécial.
+La requête ainsi que les pièces de la procédure sont envoyées par le procureur de la République au parquet de la cour d’appel dans un délai de quinze (15) jours à compter de l’appel.
+Lorsqu’un prévenu détenu interjette appel contre une décision du juge correctionnel, le greffier transmet, sous huitaine le dossier concerné au procureur de la République sous peine d’une amende de dix mille (10 000) francs par jour de retard.
+Le président du tribunal saisi par simple requête, prononce et liquide cette amende.
+Si ce retard est du fait du juge ayant rendu la décision, la responsabilité civile et professionnelle de celui-ci sera engagée.
+Le procureur de la République dispose à son tour d’un délai de huit (08) jours pour en saisir le parquet général, sous peine d’engager sa responsabilité civile et professionnelle.

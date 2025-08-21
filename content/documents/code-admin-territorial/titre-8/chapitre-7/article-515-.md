@@ -1,0 +1,1 @@
+Les modalités de mise en œuvre du financement par l'emprunt et par la coopération mentionnée à l'article précédant sont fixées par les lois et règlements.

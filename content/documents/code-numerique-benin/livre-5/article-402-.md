@@ -1,0 +1,6 @@
+Mesures supplémentaires
+Lors du traitement de données à caractère personnel visées aux articles 394 et 395 du présent code, le responsable du traitement doit prendre les mesures supplémentaires suivantes :
+1. les catégories de personnes, ayant accès aux données à caractère personnel, doivent être désignées par le responsable du traitement ou, le cas échéant, par le sous-traitant, avec une description précise de leur fonction par rapport au traitement des données visées ;
+1. la liste des catégories des personnes ainsi désignées doit être tenue à la disposition de l'Autorité par le responsable du traitement ou, le cas échéant, par le sous-traitant ;
+1. il doit veiller à ce que les personnes désignées soient tenues, par une obligation légale ou statutaire, ou par une disposition contractuelle équivalente, au respect du caractère confidentiel des données visées ;
+1. lorsque l'information, due en vertu des articles 415 et 416 du présent code, est communiquée à la personne concernée ou lors de la déclaration visée à l’article 405, alinéa premier du présent code, le responsable du traitement doit mentionner la base légale ou réglementaire autorisant le traitement de données à caractère personnel visées aux articles 394 et 395 du présent code.

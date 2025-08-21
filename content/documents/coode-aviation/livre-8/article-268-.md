@@ -1,0 +1,2 @@
+La composition de l'équipage est déterminée d'après le type de l'aéronef, les caractéristiques et la durée du voyage à effectuer et la nature des opérations auxquelles l'aéronef est affecté.
+L'équipage est déterminé par l'exploitant, conformément à la réglementation en vigueur.

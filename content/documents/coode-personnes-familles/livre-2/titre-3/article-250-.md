@@ -1,0 +1,2 @@
+S’il y a lieu à audition de témoins, ceux-ci seront entendus par le tribunal en présence des époux dûment convoqués.
+Les parents, à l’exception des descendants, et les domestiques des époux peuvent être entendus comme témoins.

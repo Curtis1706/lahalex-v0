@@ -1,0 +1,1 @@
+Les audiences du juge des tutelles ne sont pas publiques. Il ne peut être délivré expédition de ses décisions qu'aux parties, aux personnes investies d’une charge tutélaire ou d’administration légale et au ministère public, sauf autorisation du juge des tutelles.

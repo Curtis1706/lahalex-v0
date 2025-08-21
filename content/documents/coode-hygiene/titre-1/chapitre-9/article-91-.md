@@ -1,0 +1,2 @@
+L'introduction sur le marché de tout additif alimentaire fait l'objet d'un arrêté conjoint du ministre chargé de la santé, du ministre chargé du contrôle des aliments et de la nutrition et du ministre chargé du commerce.
+La violation des dispositions de l'alinéa précédent est sanctionnée conformément aux dispositions de l'article 172 de la présente loi.

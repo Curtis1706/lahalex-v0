@@ -1,0 +1,14 @@
+{
+  "id": "article-45-",
+  "title": "Article 45 :",
+  "numero": "45 ",
+  "document": "convention-geneve-1949",
+  "path": [
+    "titre-3"
+  ],
+  "navigation": {
+    "parent": "titre-3",
+    "previous": "article-44-",
+    "next": "article-46-"
+  }
+}

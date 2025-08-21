@@ -1,0 +1,2 @@
+Sous réserve du paiement de dommages-intérêts en cas de licenciement injustifié, l’armateur peut, à tout moment, congédier le capitaine sans préavis.
+A l’étranger, le congédiement du capitaine n’est pas subordonné à l’autorisation du directeur de la marine marchande.

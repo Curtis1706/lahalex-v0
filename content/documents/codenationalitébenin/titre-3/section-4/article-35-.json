@@ -1,0 +1,15 @@
+{
+  "id": "article-35-",
+  "title": "Article 35 :",
+  "numero": "35 ",
+  "document": "codenationalitébenin",
+  "path": [
+    "titre-3",
+    "section-4"
+  ],
+  "navigation": {
+    "parent": "section-4",
+    "previous": "article-34-",
+    "next": "article-36-"
+  }
+}

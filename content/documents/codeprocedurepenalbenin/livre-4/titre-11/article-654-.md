@@ -1,0 +1,1 @@
+Les mineurs auxquels est imputée une infraction, sont justiciables des juridictions pour enfants.

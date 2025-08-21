@@ -1,0 +1,3 @@
+Une journée de repos hebdomadaire s’entend de vingt-quatre (24) heures consécutives de repos, comptées à partir de l’heure normale de la reprise du travail journalier.
+Tout travail exécuté le jour du repos hebdomadaire en suspend l’effet sauf s’il est nécessité par un cas fortuit, et si sa durée n’excède pas deux (02) heures.
+Tous travaux nécessités par des circonstances dont le capitaine est seul juge, ou par des opérations d’assistance, de force majeure mettant en péril le navire, les personnes embarquées ou la cargaison, circonstances dont le capitaine est seul juge, ou par des opérations d’assistance sont obligatoires et ne sont pas considérés comme portant atteinte à la règle du repos hebdomadaire. 2 n’y a pas lieu à compensation.

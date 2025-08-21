@@ -1,0 +1,2 @@
+La pension et la rente viagère d’invalidité sont payées mensuellement à terme échu le 1er jour de chaque mois ; la mise en paiement portant rappel du jour de l'entrée en jouissance doit inter­venir au plus tard à la fin du trimestre civil suivant celui de cessation de l'activité.
+Toutes dispositions utiles devront être prises pour la liqui­dation définitive de la pension au plus tard deux mois après la cessation d'activité de l'Agent Permanent de l'Etat Civil ou Mili­taire.

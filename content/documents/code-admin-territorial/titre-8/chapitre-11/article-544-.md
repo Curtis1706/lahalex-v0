@@ -1,0 +1,2 @@
+L'ordonnateur élabore le compte administratif au plus tard le 31 mars de l'année suivant l'exercice considéré.
+L'organe délibérant compétent de la commune ou de l'établissement public de coopération intercommunale délibère sur le compte administratif présenté par l'ordonnateur, au plus tard le 31 mai de l’année suivant l'exercice concerné.

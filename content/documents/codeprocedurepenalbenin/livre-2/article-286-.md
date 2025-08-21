@@ -1,0 +1,1 @@
+A chaque accusé assisté d’un avocat commis d’office, il est délivré gratuitement une (01) seule copie des procès-verbaux constatant l’infraction, des déclarations écrites des témoins et des rapports d’expertise.

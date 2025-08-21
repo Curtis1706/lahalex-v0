@@ -1,0 +1,1 @@
+La présente loi est applicable aux personnes physiques ou morales qui mettent à la disposition du public des services en matière d’information et de communication notamment aux professionnels des médias et aux entreprises de presse établies en République du Bénin, sans préjudice de l’application des règles relatives à l’occupation du domaine public.

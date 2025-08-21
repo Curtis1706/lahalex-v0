@@ -1,0 +1,4 @@
+Droit à la fourniture de services de communications électroniques
+Sauf décision prise en application d’une législation et/ou d’une réglementation nationale, toute personne physique ou morale qui remplit les conditions contractuelles et financières proposées par un opérateur ne peut se voir refuser la fourniture de ces services, s'il en a formulé la demande.
+L’opérateur peut néanmoins exiger de l’utilisateur demandeur desdits services un dépôt de garantie dont le montant est préalablement fixé et publié de manière transparente et non discriminatoire.
+Tout utilisateur d’un service de communications électroniques qui respecte les conditions contractuelles et financières souscrites ne peut se voir déconnecter du réseau ou service, à moins qu’il en fasse la demande expresse, sauf en cas d’urgence ou pour des raisons de sécurité publique.

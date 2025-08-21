@@ -1,0 +1,1 @@
+Toute ordonnance rejetant une demande de récusation peut prononcer la condamnation du demandeur à une amende civile qui ne peut être inférieure à deux cent mille (200 000) francs.

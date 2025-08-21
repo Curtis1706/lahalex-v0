@@ -1,0 +1,1 @@
+Le tribunal qui prononce la dissolution de la copropriété en application de l’article 109 ci-dessus, fixe les conditions de la vente du navire.

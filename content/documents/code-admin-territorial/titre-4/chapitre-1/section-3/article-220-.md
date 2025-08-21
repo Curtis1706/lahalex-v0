@@ -1,0 +1,2 @@
+Le chef de village ou de quartier de ville représente sa communauté auprès des pouvoirs publics. Le chef de village ou de quartier de ville relève directement de l'autorité du chef d’arrondissement, à qui il rend compte de ses activités.
+Il est le représentant de l'administration auprès de sa communauté.

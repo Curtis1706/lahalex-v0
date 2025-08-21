@@ -1,0 +1,1 @@
+S’il n’y a pas de tuteur testamentaire ou si celui qui avait été désigné n’accepte pas ou vient à cesser ses fonctions, un tuteur sera donné au mineur par le conseil de famille.

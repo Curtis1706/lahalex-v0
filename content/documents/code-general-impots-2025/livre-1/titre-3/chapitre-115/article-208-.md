@@ -1,0 +1,2 @@
+Le produit de la contribution des patentes est perçu au profit du budget de la commune sur le territoire de laquelle cette contribution est assise, sous déduction de 10% représentant le coût administratif de l’impôt.
+Un arrêté du ministre chargé des finances précise les modalités d’application des présentes dispositions.

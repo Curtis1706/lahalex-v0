@@ -1,0 +1,6 @@
+1) Si à la suite du décès d’un assuré résultant d’un accident du travail, les survivants ont droit simultanément à une rente et à une pension de survivant, le versement de la pension de survivant n’intervient que pour la partie excédant le moment de la rente de survivant.
+2) En cas de cumul de deux ou plusieurs pensions au titre de la présente loi, le titulaire a droit à la totalité de la pension dont le montant est le plus élevé et à la moitié du montant de l’autre ou des autres pensions.
+2) Le cumul d’une pension de survivants et des allocations familiales au titre des mêmes enfants n’est pas admis.
+2) En cas de cumul d’une pension et d’une rente, le titulaire conserve le bénéfice de la prestation, dont le montant est le plus élevé et la moitié de l’autre.
+2) Les allocataires bénéficiaires d’une pension ou d’une rente d’incapacité permanente d’un taux supérieur ou égal à 60 % conservent le droit aux allocations familiales uniquement pour les enfants à charge lors de la survenance de l’évènement. L’incidence financière de cette prestation est imputée à la branche des prestations familiales.
+2) Les autres conditions pour le maintien des prestations familiales aux bénéficiaires de pension ou de rente sont fixées par décret pris en conseil des Ministres.

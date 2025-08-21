@@ -1,0 +1,2 @@
+Est mineure la personne de l’un ou l’autre sexe qui n’a pas encore l’âge de dix- huit (18) ans accomplis.
+La personne du mineur est soumise à l'autorité parentale. La gestion du patrimoine du mineur est assurée suivant les règles de l'administration légale ou de la tutelle.

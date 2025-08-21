@@ -1,0 +1,2 @@
+Dans les relations alimentaires entre collatéraux et entre alliés, le débiteur peut opposer à la prétention du créancier l’absence d’obligation à son égard suivant leur loi nationale commune ou, à défaut de nationalité commune, suivant la loi de son domicile.
+La loi béninoise s’applique lorsque le créancier et le débiteur ont la nationalité béninoise et que le débiteur a son domicile au Bénin.

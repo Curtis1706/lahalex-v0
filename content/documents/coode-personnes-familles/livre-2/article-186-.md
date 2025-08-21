@@ -1,0 +1,2 @@
+Tant à l’égard de son conjoint que des tiers, un époux peut prouver, par tous moyens, qu’il a la propriété d’un bien, sous réserve des dispositions spéciales aux immeubles.
+Cependant, d’après leur nature et leur destination, les biens meubles qui ont un caractère personnel et les droits exclusivement attachés à la personne, sont présumés appartenir à l’un ou à l’autre époux.

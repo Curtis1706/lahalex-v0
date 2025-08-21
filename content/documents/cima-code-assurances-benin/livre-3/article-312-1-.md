@@ -1,0 +1,3 @@
+_(Réglement n°2018-06)_ Publication des sanctions
+La Commission Régionale de Contrôle des Assurances publie les décisions prononçant des sanctions dans le journal officiel de la CIMA. Elle peut également les publier dans un journal habilité à recevoir les annonces légales de l’État membre de l’entreprise sanctionnée ou de l’État membre de l’entreprise du dirigeant sanctionné aux frais de l’entreprise.
+Toutefois, lorsque la publication risque de causer un préjudice disproportionné aux parties en cause ou de perturber la confiance du marché, la décision de la Commission peut prévoir qu’elle sera publiée sous une forme ne permettant pas l’identification des personnes en cause, ou qu’elle ne sera pas publiée.

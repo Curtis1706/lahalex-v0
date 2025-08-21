@@ -1,0 +1,1 @@
+Pour les frais de justice, la durée de la contrainte par corps est fixée forfaitairement dans les limites de trois (03) jours à trois (03) mois, suivant le montant des frais tels qu’ils peuvent être évalués à partir des pièces figurant au dossier au moment du prononcé de la décision.

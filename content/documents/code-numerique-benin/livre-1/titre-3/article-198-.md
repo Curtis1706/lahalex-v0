@@ -1,0 +1,2 @@
+Servitudes administratives en raison des perturbations électromagnétiques
+Afin d’assurer le bon fonctionnement des réceptions radioélectriques effectuées dans tout centre exploité ou contrôlé dans un but d’intérêt général, il est institué des servitudes administratives en raison des perturbations électromagnétiques.

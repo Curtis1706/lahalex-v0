@@ -1,0 +1,3 @@
+Protection des données à caractère personnel
+Toute personne 	exerçant une activité de commerce électronique en République du Bénin ou à destination des utilisateurs établis sur le territoire national, est tenue au respect des dispositions du présent code, relatives à la protection des données à caractère personnel prévues au Livre V.
+Sans préjudice des dispositions du Livre V, les personnes exerçant une activité de commerce électronique en République du Bénin ou à destination des utilisateurs établis sur le territoire national, sont tenues d'informer leurs utilisateurs de tout manquement à la sécurité susceptible d’avoir une incidence sur la confidentialité de leurs données personnelles.

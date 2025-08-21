@@ -1,0 +1,3 @@
+Si la personne contre laquelle a été décerné un mandat d’amener ne peut être découverte, ce mandat est renvoyé au magistrat mandant avec un procès-verbal de recherches infructueuses.
+La personne qui refuse d’obéir au mandat d’amener doit être contrainte par la force.
+Le porteur du mandat d’amener emploie dans ce cas la force publique du lieu le plus voisin. Celle-ci est tenue de déférer à la réquisition contenue dans ce mandat.

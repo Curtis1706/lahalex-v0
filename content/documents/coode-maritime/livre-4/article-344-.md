@@ -1,0 +1,2 @@
+Le fréteur a contre le sous-affréteur, dans la mesure de ce qui lui est dû par l’affréteur, une action directe en paiement du fret encore dû par celui-ci.
+Sous cette seule réserve, le sous-affrètement n’établit pas de relation directe entre le fréteur et le sous-affréteur.

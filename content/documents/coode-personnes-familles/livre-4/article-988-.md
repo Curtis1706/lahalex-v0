@@ -1,0 +1,2 @@
+Les pensions alimentaires après divorce ou séparation de corps sont soumises à la loi régissant le divorce ou la séparation de corps.
+Les effets du divorce ou de la séparation de corps sur le régime matrimonial et les successions sont régis par les lois respectives gouvernant ces institutions.

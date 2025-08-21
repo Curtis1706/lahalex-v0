@@ -1,0 +1,1 @@
+Les paiements de dépenses sont faits par remise d’espèces, de chèques, par virement, ou par d’autres instruments de paiement dans les conditions fixées par les lois et règlements.

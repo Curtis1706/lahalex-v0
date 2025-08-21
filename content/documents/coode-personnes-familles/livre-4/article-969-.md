@@ -1,0 +1,1 @@
+Les jugements et arrêts civils et commerciaux étrangers, patrimoniaux ou extrapatrimoniaux, sont reconnus s’ils sont revêtus de l’exequatur.

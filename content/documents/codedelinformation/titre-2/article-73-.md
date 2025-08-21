@@ -1,0 +1,1 @@
+Les agents peuvent dévoiler et fournir des preuves de tous comportements illicites dans l’administration publique. Sauf dénonciation calomnieuse, ils n’encourent, ce faisant, aucune sanction administrative ou mesure disciplinaire.

@@ -1,0 +1,15 @@
+{
+  "id": "article-78-",
+  "title": "Article 78 : Attribution provisoire",
+  "numero": "78 ",
+  "document": "code-marche-public",
+  "path": [
+    "titre-3",
+    "chapitre-10"
+  ],
+  "navigation": {
+    "parent": "chapitre-10",
+    "previous": "article-77-",
+    "next": "article-79-"
+  }
+}

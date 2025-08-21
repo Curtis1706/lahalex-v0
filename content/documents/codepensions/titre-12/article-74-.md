@@ -1,0 +1,1 @@
+Le Ministre des Finances est chargé, notamment dans le domaine administratif, de l'examen, de la concession, de la liquida­tion des pensions et des rentes, de la révision des pensions concé­dées antérieurement à l'application du présent code, de 1'instruction des demandes de validation des services, des remboursements de retenues, de l'émission des titres de pension.

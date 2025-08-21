@@ -1,0 +1,1 @@
+Le propriétaire du navire peut, dans les mêmes conditions qu’à l’article 140 ci-dessus, limiter sa responsabilité, même envers l’Etat, pour les frais de renflouement ou de démolition du navire, ou de l’épave et de la destruction de la cargaison se trouvant à bord.

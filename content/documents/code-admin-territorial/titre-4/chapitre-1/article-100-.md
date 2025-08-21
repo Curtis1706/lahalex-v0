@@ -1,0 +1,1 @@
+Les membres du conseil de supervision ne bénéficient d'aucune rémunération au titre des fonctions de membre. Ils ont toutefois droit au remboursement des frais de repas et de déplacement à l'occasion de leurs réunions dans les conditions fixées par décret pris en Conseil des ministres, conformément à la loi de finances.

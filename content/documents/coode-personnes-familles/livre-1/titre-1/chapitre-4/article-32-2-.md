@@ -1,0 +1,2 @@
+Le mariage de l'absent est dissous à compter du jour où le jugement déclarant l'absence est devenu définitif.
+Quel que soit le moment où l’absent ou le disparu réapparaît, les enfants cessent d'être soumis au régime de l'administration légale ou de la tutelle. En cas de dissolution du mariage ou de remariage opposable au conjoint qui réapparaît, le juge statuera sur la garde des enfants au mieux de leurs intérêts.

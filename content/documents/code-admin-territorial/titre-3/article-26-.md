@@ -1,0 +1,1 @@
+Les lois portant modification de communes de quelque nature que ce soit en déterminent expressément les conditions, y compris la dévolution des biens.

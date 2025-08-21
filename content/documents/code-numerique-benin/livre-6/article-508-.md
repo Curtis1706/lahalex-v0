@@ -1,0 +1,10 @@
+Atteinte aux données informatiques
+Quiconque  intercepte,  divulgue,  utilise,  altère  ou  détourne  intentionnellement  et sans  droit  par des  moyens techniques, des données informatiques lors de leur transmission non publique à destination, en provenance ou à l’intérieur d’un système informatique, y compris les émissions électromagnétiques provenant d'un système informatique transportant de telles données informatiques, est puni d’un emprisonnement de deux (02) ans à cinq (05) ans et d'une amende de cinq cent mille (500 000) francs CFA à deux millions (2 000 000) de francs CFA.
+Quiconque transfère sans autorisation des données d’un système informatique ou d’un moyen de stockage de données informatique est puni d’un emprisonnement de cinq (05) ans à dix (10) ans et d'une amende de cinq millions (5 000 000) à cent millions (100 000 000) de francs CFA.
+Si l’infraction visée à l’alinéa précédent est commise avec une intention frauduleuse, ou en rapport avec un système informatique connecté à un autre système informatique, ou en contournant les mesures de protection mises en place pour empêcher l'accès au contenu de la transmission non publique, les peines prévues à l’alinéa précédent sont doublées.
+Une personne ne commet pas une infraction au sens du présent article, si :
+1. l’interception est réalisée conformément à un mandat de justice ;
+1. la communication est envoyée par ou est destinée à une personne qui a consenti à l’interception ;
+1. un fonctionnaire habilité estime qu’une interception est nécessaire en cas d’urgence, dans le but de prévenir un décès, une blessure ou un dommage à la santé physique ou mentale d’une personne, ou d’atténuer une blessure ou un dommage à la santé physique ou mentale d’une personne ;
+1. une personne morale ou physique est légalement autorisée pour les besoins de la sécurité publique ou de la défense nationale ; ou
+1. une personne morale ou physique est légalement autorisée en vertu des dispositions du code de procédure pénale.

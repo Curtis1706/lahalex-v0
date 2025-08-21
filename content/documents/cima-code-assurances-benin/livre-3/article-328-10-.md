@@ -1,0 +1,2 @@
+Agrément cessant de plein droit après transfert de portefeuille
+En cas de transfert intervenant en application de l’article 323 ou de l’article 312, et portant sur la totalité des contrats appartenant à une branche ou sous-branche déterminée, l’agrément cesse de plein droit d’être valable pour cette branche ou sous-branche.

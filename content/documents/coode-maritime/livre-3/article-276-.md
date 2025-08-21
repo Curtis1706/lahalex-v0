@@ -1,0 +1,2 @@
+Tout litige individuel entre un armateur et un marin concernant le contrat d’engagement maritime est soumis à tentative de conciliation devant le directeur de la marine marchande.
+En cas d’échec de la tentative de conciliation, le litige est porté devant le tribunal de première instance territorialement compétent statuant en matière sociale, à l’exception du litige concernant le capitaine qui est porté devant le tribunal de commerce territorialement compétent.

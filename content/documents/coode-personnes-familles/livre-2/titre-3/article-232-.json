@@ -1,0 +1,15 @@
+{
+  "id": "article-232-",
+  "title": "Article 232 :",
+  "numero": "232 ",
+  "document": "coode-personnes-familles",
+  "path": [
+    "livre-2",
+    "titre-3"
+  ],
+  "navigation": {
+    "parent": "titre-3",
+    "previous": "article-231-",
+    "next": "article-233-"
+  }
+}

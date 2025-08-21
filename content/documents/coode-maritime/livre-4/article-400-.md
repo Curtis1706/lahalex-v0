@@ -1,0 +1,2 @@
+Le capitaine ne peut pas retenir les bagages à bord mais il peut les faire consigner en mains tierces jusqu’à l’entier paiement des créances nées du contrat de passage.
+Ces créances sont privilégiées sur le prix provenant de la vente des bagages.

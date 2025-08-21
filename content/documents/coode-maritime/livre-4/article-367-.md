@@ -1,0 +1,2 @@
+La convention par laquelle un transporteur maritime s’engage à prendre en charge une marchandise que lui remet le chargeur avec promesse de la délivrer à destination constitue le transport ‘’sous-connaissement’’.
+Cette convention qui ne nécessite pas l’établissement préalable d’une charte-partie donne lieu à l’établissement d’un écrit dit ‘’connaissement’’.

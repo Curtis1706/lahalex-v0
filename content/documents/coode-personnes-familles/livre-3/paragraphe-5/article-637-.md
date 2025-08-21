@@ -1,0 +1,1 @@
+Le tribunal statue sur la demande d’envoi en possession dans un délai de trois (3) mois après deux (2) publications consécutives faites à quinze (15) jours d’intervalle dans un journal d’annonces légales et après affichage au bureau de la circonscription administrative du lieu d’ouverture de la succession après avoir entendu le procureur de la République.

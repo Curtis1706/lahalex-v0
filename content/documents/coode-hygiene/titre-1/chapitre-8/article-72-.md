@@ -1,0 +1,1 @@
+Un acte réglementaire fixe les normes et les conditions que respectent les eaux minérales ou non, mises en bouteilles, en sachets biodégradables, préemballées ou sous d'autres conditionnements pour être consommées comme eau de boisson.

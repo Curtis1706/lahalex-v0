@@ -1,0 +1,1 @@
+Toute action du mineur contre le tuteur et les organes tutélaires relativement aux faits de la tutelle se prescrit par cinq (5) ans à compter de la majorité, lors même qu’il y aurait eu émancipation.

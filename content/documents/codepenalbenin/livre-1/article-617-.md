@@ -1,0 +1,1 @@
+En toute autre matière, le coupable de faux témoignage sera puni d’un emprisonnement de un (01) an à trois (03) ans et d’une amende de cent mille (100.000) francs CFA à cinq cent mille (500.000) francs CFA. Il pourra l’être aussi des peines accessoires mentionnées à l’article précédent.

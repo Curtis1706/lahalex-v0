@@ -1,0 +1,3 @@
+Les mineurs de treize ans et plus sont renvoyés devant la chambre criminelle pour enfant auprès de chaque tribunal de première instance, par ordonnance ou arrêt de mise en accusation en cas de crime.
+La chambre criminelle pour enfant auprès de chaque tribunal de première instance est présidée par le président du tribunal assisté de deux juges dont l'un est obligatoirement un juge des enfants de préférence celui ayant procédé à l’instruction et de deux assesseurs pris sur la liste établis par arrêté du ministre chargé de la justice conformément à l'article 672 du présent code.
+A la cour d'appel, la chambre criminelle pour enfant est présidée par le président de la cour assisté de deux juges.

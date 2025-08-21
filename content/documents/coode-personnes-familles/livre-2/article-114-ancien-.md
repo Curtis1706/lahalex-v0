@@ -1,0 +1,1 @@
+On peut contracter mariage sans avoir auparavant fait célébrer les fiançailles. Lorsqu’il y a fiançailles, cette convention n’oblige pas les fiancés à contracter mariage.

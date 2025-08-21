@@ -1,0 +1,1 @@
+Le maire nomme le secrétaire exécutif après tirage au sort dans le fichier national des principales fonctions administratives des mairies.

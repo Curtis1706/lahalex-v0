@@ -1,0 +1,3 @@
+Les peines portées par un arrêt ou un jugement rendu pour une contravention de police se prescrivent par deux (02) années révolues à compter de la date où cet arrêt ou jugement est devenu définitif.
+Toutefois, les peines prononcées pour une contravention de police connexe à un délit se prescrivent selon les dispositions de l’article 847 du présent code.
+849 : En aucun cas, les condamnés par défaut dont la peine est prescrite, ne peuvent être admis à se présenter pour purger le défaut.

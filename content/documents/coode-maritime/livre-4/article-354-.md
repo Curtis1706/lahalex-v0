@@ -1,0 +1,4 @@
+Les marchandises dangereuses dont la quantité n’a pas été signalée ou explicitée volontairement ou par négligence, et à l’embarquement desquelles le transporteur ou son représentant n’eût pas consenti s’il avait connu leur nature, peuvent à tout moment et en tous lieux être débarquées, détruites ou rendues inoffensives par le transporteur et ce, sans aucune indemnité.
+Le chargeur peut, en sus être rendu responsable de tous dommages et dépenses pouvant résulter de l’embarquement desdites marchandises.
+Par contre, si le transporteur, connaissant la nature de ses marchandises, a autorisé leur embarquement, il ne peut les débarquer, les détruire ou les rendre inoffensives que dans le cas où elles mettraient en danger le navire ou la cargaison.
+Aucune indemnité n’est due sinon à titre d’avaries communes s’il y a lieu.

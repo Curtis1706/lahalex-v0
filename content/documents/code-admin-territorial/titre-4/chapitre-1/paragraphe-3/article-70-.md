@@ -1,0 +1,1 @@
+L’autorité de tutelle est tenue informée des date et heure de toute réunion du conseil communal dans les mêmes délais que les conseillers.

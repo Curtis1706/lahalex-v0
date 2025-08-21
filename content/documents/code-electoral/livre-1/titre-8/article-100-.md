@@ -1,0 +1,5 @@
+Pour le remboursement des frais de campagne électorale aux partis politiques, l'Etat alloue un forfait par candidat élu en ce qui concerne les élections législatives.
+En tout état de cause, le forfait à rembourser ne peut être inférieur à dix millions (10. 000 000) de francs CFA par candidat élu sans toutefois être supérieur au montant total des dépenses mentionné dans le compte de campagne.
+Pour les élections présidentielles, le remboursement forfaitaire est fait à tout candidat ayant obtenu au moins 10% des suffrages exprimés au 1 tour.
+Le montant du remboursement ne saurait être inférieur à 25% du montant total des frais de campagne justifiés. Les candidats venus au second tour bénéficient d'un taux de remboursement qui ne saurait être inférieur à 40%.
+Ces remboursements forfaitaires seront payés, au plus tard, le 31 décembre de l'année des élections aux candidats ou aux partis politiques remplissant les conditions prévues par le présent code.

@@ -1,0 +1,1 @@
+La décision sur la culpabilité et sur l’existence des circonstances aggravantes se forme à la majorité de cinq (05) voix au moins. Les autres décisions sont prises à la majorité simple.

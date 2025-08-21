@@ -1,0 +1,7 @@
+« Quiconque a pratiqué sur une personne de sexe féminin la mutilation génitale ou toutes autres opérations concernant ses organes, est puni d'un emprisonnement de six (06) mois à trois (03) ans et d'une amende de cent mille (100 000) francs CFA à deux millions de (2 000 000) de francs CFA.
+Est qualifiée mutilation génitale, toute intervention incluant l'ablation totale ou partielle des organes génitaux externes ou la lésion des organes génitaux externes pratiquée pour des raisons culturelles ou religieuses ou pour toute autre raison non thérapeutique.
+Lorsque la mutilation génitale est pratiquée sur une mineure, le coupable est puni d'un emprisonnement de trois (03) ans à cinq (05) ans et d'une amende de cinq cent mille (500 000) à trois millions (3 000 000) de francs CFA.
+En cas de décès de la victime, l'auteur est puni de la réclusion criminelle de dix (10) ans à vingt (20) ans et d'une amende de un million (1 000 000) à cinq (5 000 000) de francs CFA.
+L'auteur et ses complices peuvent être interdits de l'exercice de l'un ou de plusieurs des droits prescrits à l'article 48 du présent code.
+La peine est nécessairement assortie de l'interdiction à temps des fonctions ou des charges publiques dont l'auteur ou ses complices sont dépositaires sans préjudice des sanctions disciplinaires et des réparations civiles.
+Pour l'application des présentes dispositions, la victime est toujours présumée n'avoir jamais consenti à la mutilation génitale ».

@@ -1,0 +1,1 @@
+L’action civile peut être portée devant le juge des enfants ou la juridiction pour enfants.

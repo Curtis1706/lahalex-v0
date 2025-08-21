@@ -1,0 +1,1 @@
+Ne peuvent faire partie du tribunal de première instance ou de la cour d'appel statuant en matière criminelle, en qualité de président ou d’assesseur, les magistrats qui, dans l’affaire jugée, ont soit fait un acte de poursuite ou d’instruction, soit participé à l’ordonnance ou à l’arrêt de mise en accusation ou à une décision sur le fond relative à la culpabilité de l’accusé.

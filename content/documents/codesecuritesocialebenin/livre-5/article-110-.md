@@ -1,0 +1,1 @@
+Pour la liquidation des prestations, l’âge à prendre en considération est celui inscrit sur l’acte de naissance ou le jugement supplétif communiqué par l’assuré lors de son affiliation. Il en est de même de l’âge de ses ayants droit.

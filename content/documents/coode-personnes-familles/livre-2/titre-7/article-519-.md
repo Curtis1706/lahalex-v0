@@ -1,0 +1,1 @@
+L’autorisation exigée par l'article 517 pour l'aliénation des biens du mineur ne s’applique point au cas où un jugement aurait ordonné la licitation à la demande d’un co-propriétaire indivis.

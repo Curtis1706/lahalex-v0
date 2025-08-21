@@ -1,0 +1,2 @@
+Pour les amendes n'excédant pas cinquante mille (50 000) FCFA, les infractions à la présente loi peuvent faire l'objet d'une transaction, avant la mise en mouvement de l'action publique.
+Ces amendes sont payées au niveau des recettes du trésor public.

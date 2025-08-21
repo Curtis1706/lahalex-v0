@@ -1,0 +1,1 @@
+Est puni de la même peine que celle prévue pour cette infraction, quiconque a tenté de commettre l’une des infractions prévues par la présente loi, sous réserve que les circonstances qui ont empêché la réalisation ne soient indépendantes de sa volonté.

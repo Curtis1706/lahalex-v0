@@ -1,0 +1,1 @@
+Un arrêté communal ou municipal fixe tous les trois (03) ans, le montant des taxes d’affiches en tenant compte notamment de la surface du panneau, de l’objet de l’affiche et du niveau de vie de la collectivité locale concernée.

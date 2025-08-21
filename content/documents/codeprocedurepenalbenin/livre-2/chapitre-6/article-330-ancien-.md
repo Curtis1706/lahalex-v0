@@ -1,0 +1,1 @@
+Le président ordonne au greffier de lire le dispositif de l’arrêt de renvoi, et fait de l’affaire l’exposé nécessaire à la compréhension des débats.

@@ -1,0 +1,2 @@
+Les assurances cumulatives contractées dans une intention de fraude pour une somme totale supérieure à celle de la valeur assurée sont nulles.
+Contractées sans fraude, elles sont valables à condition que l’assuré les porte à la connaissance de l’assureur à qui il demande son règlement ; chacune d’elles produit ses effets en proportion de la somme à laquelle elle s’applique jusqu’à concurrence de l’entière valeur de la chose assurée.

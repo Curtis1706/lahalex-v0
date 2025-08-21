@@ -1,0 +1,5 @@
+La qualité de membre d'équipage professionnel de l'aéronautique civile est attribuée aux personnes exerçant de façon habituelle et principale, soit pour leur propre compte, soit pour le compte d'autrui, dans un but lucratif ou contre rémunération :
+- le commandement et la conduite des aéronefs ;
+- les services à bord des moteurs, machines et instruments divers nécessaires à la marche et à la navigation d'aéronefs ;
+- les services complémentaires de bord, notamment ceux exercés par le personnel navigant commercial du transport aérien ;
+- les services à bord d'autres matériels montés sur aéronef, notamment les appareils photographiques et météorologiques, les appareils destinés au travail agricole et les appareils destinés à la manœuvre des parachutes et au treuillage du personnel ou le matériel sur les hélicoptères.

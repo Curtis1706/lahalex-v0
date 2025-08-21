@@ -1,0 +1,1 @@
+Un aéronef immatriculé en République du Bénin perd sa nationalité béninoise si les conditions prévues aux articles 14, 15 et 17 de la présente loi ne sont plus remplies.

@@ -1,0 +1,1 @@
+La juridiction peut, en outre, ordonner que le jugement de condamnation soit publié, intégralement ou par extraits, dans les journaux qu’il désigne ou par affichage dans un lieu qu’il indique, notamment aux portes principales des magasins, le tout aux frais de l’intéressé.

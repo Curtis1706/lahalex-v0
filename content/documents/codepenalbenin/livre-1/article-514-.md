@@ -1,0 +1,5 @@
+L’individu qui a volontairement fait des blessures ou porté des coups à ses père ou mère légitimes, naturels ou adoptifs, ou autres ascendants légitimes, est puni :
+- de la réclusion criminelle à temps de cinq (05) ans à dix (10) ans, si les blessures ou les coups n’ont occasionné aucune maladie ou incapacité de travail personnel de l’espèce mentionnée en l’article 509 du présent code ;
+- du maximum de la réclusion criminelle à temps de dix (10) ans, s’il y a eu incapacité de travail personnel pendant plus de huit (08) jours ou préméditation ou guet-apens ;
+- de la réclusion criminelle à temps de dix (10) ans à vingt (20) ans lorsque l’article auquel le cas se référera, prévoit la peine de la réclusion criminelle à temps de cinq (05) ans à dix (10) ans ;
+- de la réclusion criminelle à perpétuité, lorsque l’article prévoit la peine de la réclusion criminelle à temps de dix (10) ans à vingt (20) ans.

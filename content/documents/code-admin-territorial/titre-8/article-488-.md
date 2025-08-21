@@ -1,0 +1,1 @@
+Les modalités de création et de fonctionnement des régies de recettes et des régies d'avances, ainsi que les conditions de nomination des régisseurs sont fixées par les lois et règlements.

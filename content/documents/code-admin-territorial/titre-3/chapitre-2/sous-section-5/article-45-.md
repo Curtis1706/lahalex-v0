@@ -1,0 +1,1 @@
+La commune veille à la promotion des langues nationales en vue de leur utilisation sous forme écrite et orale.

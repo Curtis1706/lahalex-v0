@@ -1,0 +1,16 @@
+{
+  "id": "article-19-",
+  "title": "Article 19 : Neutralité technologique",
+  "numero": "19 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-2"
+  ],
+  "navigation": {
+    "parent": "chapitre-2",
+    "previous": "article-18-",
+    "next": "article-20-"
+  }
+}

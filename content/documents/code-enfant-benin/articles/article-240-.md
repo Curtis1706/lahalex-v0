@@ -1,0 +1,3 @@
+Article 240 : But de la médiation pénale
+La médiation pénale est un mécanisme qui vise à conclure un accord entre l’enfant auteur d’une infraction ou son représentant légal et la victime ou son représentant légal ou ses ayants droit.
+La médiation a pour objectif d’arrêter les effets des poursuites pénales, d’assurer la réparation du dommage causé à la victime, de mettre fin au trouble résultant de l’infraction et de contribuer à la réinsertion sociale de l’auteur de l’infraction.

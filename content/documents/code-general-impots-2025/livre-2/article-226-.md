@@ -1,0 +1,9 @@
+1) Sont assujetties à la taxe sur la valeur ajoutée, les personnes physiques et morales qui réalisent à titre habituel ou occasionnel, et d’une manière indépendante, des opérations imposables entrant dans le champ d’application de la taxe et accomplies dans le cadre d’une activité économique réalisée à titre onéreux.
+Ne sont pas considérés comme indépendants, les salariés qui agissent dans le cadre de  leur  contrat  de  travail  ou  par  tout  autre  rapport  juridique  créant  des  liens  de subordination en ce qui concerne les conditions de travail, les modalités de rémunération et la responsabilité de l’employeur.
+2) Les personnes définies au paragraphe 1 ci-dessus, sont assujetties à la taxe sur la
+valeur ajoutée quels que soient leur statut juridique et leur situation au regard des autres impôts, la forme ou la nature de leurs interventions.
+3) Sont assujetties-redevables, les personnes physiques ou morales qui effectuent des
+opérations  non  exonérées  lorsqu’elles  réalisent  un  chiffre  d’affaires  supérieur  au  seuil d’assujettissement fixé à l’article 228 ci-après.
+Les entreprises dont le chiffre d’affaires s’abaisse au-deSOUS de la limite prévue, continuent d’observer leurs obligations déclaratives et de paiement pendant trois (03) exercices consécutifs. Cependant, lorsqu’en cours d’année, le chiffre d’affaires limite est atteint, l’assujettissement à la taxe sur la valeur ajoutée prend effet à compter du premier jour du mois suivant celui de la réalisation de la condition.
+4) L’État, les collectivités locales, les établissements publics et autres organismes de
+droit public ne sont pas considérés comme assujettis pour les activités qu’ils accomplissent en qualité d’autorité publique. Toutefois, la qualité d’assujetti leur est reconnue pour leurs activités  économiques  réalisées  à  titre  onéreux  suivant  des  moyens  et  méthodes comparables à ceux utilisés par le secteur privé.

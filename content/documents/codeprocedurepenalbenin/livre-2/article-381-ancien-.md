@@ -1,0 +1,5 @@
+Si les accusés visés aux articles 376 et 377 du présent code sont condamnés, leurs biens, s’ils ne font pas l’objet d’une confiscation, sont placés sous séquestre et le compte de séquestre est rendu à qui il appartiendra après que la condamnation est devenue irrévocable par l’expiration du délai donné pour purger la contumace ou par l’acquiescement des condamnés.
+Durant le séquestre, il peut être accordé secours à leurs conjoints, enfants et ascendants, s’ils sont dans le besoin. Il est statué par ordonnance du président du tribunal de première instance de leur domicile après avis du représentant des domaines.
+Extrait de l’arrêt de condamnation est, dans les plus brefs délais, à la diligence du ministère public, inséré dans un journal d’annonces légales. Il est affiché en outre à la porte des mairies des communes où les crimes ont été commis et à celle du prétoire de la cour d’assises.
+Pareil extrait est adressé au représentant des domaines du domicile des condamnés.
+A partir de l’accomplissement des mesures de publicité prescrites par les alinéas 3 et 4 du présent article, les condamnés sont frappés de toutes les déchéances prévues par la loi.

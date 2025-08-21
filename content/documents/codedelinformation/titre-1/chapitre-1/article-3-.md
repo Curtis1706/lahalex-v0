@@ -1,0 +1,1 @@
+Toute personne physique ou toute personne morale possédant une entreprise de presse en République du Bénin et qui prend les décisions relatives à son exploitation en dehors du territoire de la République du Bénin, est tenue de se conformer aux dispositions de la présente loi.

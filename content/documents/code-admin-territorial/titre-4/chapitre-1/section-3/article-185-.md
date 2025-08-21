@@ -1,0 +1,1 @@
+Le préfet, saisi par le maire, réunit le conseil départemental de coordination et de concertation pour prononcer, le cas échéant, la révocation du chef d'arrondissement.

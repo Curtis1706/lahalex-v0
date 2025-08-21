@@ -1,0 +1,2 @@
+_(Règlement 2015-02)_ Les éléments constitutifs de la marge de solvabilité
+Les éléments constitutifs de la marge de solvabilité de la réassurance sont les mêmes que ceux prévus à l’article 337-1 du code des assurances pour les sociétés anonymes d’assurances.

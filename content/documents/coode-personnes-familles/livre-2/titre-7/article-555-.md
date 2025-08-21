@@ -1,0 +1,1 @@
+Une tutelle est ouverte quand un majeur, pour l’une des raisons prévues à l'article 457 a besoin d'être représenté d’une manière continue dans les actes de la vie civile.

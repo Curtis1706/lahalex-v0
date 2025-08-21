@@ -1,0 +1,2 @@
+L’opposition est notifiée par tous moyens au ministère public, à charge par lui d’en aviser la partie civile.
+Dans le cas où l’opposition est limitée aux dispositions civiles du jugement, le prévenu doit signifier directement son opposition à la partie civile.

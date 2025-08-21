@@ -1,0 +1,1 @@
+L'héritier qui a usé de son droit de répudier la succession perd la qualité de liquidateur.

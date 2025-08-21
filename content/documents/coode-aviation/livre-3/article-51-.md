@@ -1,0 +1,1 @@
+L'exemption de saisie conservatoire a lieu dans les conditions prévues par la Convention pour l'unification de certaines règles relatives à la saisie conservatoire des aéronefs.

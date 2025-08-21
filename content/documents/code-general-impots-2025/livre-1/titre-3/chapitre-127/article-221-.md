@@ -1,0 +1,1 @@
+(Modifié  par  la  loi  de  finances  pour  2024)  Il  est  institué  une  taxe d’enlèvement des ordures ménagères (TEOM) due par les occupants des immeubles et propriétés soumis à la taxe foncière unique ou qui en sont exonérés en application de l’article 153 du présent Code.

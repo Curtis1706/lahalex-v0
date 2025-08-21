@@ -1,0 +1,3 @@
+Est puni d’une peine d’emprisonnement de cinq (05) à vingt (20) ans et d’une amende de cinq millions (5.000.000) de francs à cinquante millions (50.000.000) de francs, tout capitaine de navire béninois qui :
+- dans une intention frauduleuse, a détourné à son profit la cargaison ou le navire dont il a la conduite ;
+- volontairement et dans une intention criminelle, a fait fausse route ou détruit sans nécessité tout ou partie de la cargaison du navire dont il assure le commandement.

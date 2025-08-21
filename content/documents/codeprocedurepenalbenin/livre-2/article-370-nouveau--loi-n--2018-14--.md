@@ -1,0 +1,3 @@
+Le tribunal ou la cour peut ordonner d’office, la restitution des objets placés sous main de justice. Toutefois, s'il y a eu condamnation, cette restitution n'est effectuée que si son bénéficiaire justifie que le condamné a laissé passer les délais d’appel ou de pourvoi sans effectuer ce recours ou, s'il a interjeté appel ou s'est pourvu, que l'affaire est définitivement jugée.
+Lorsque la décision du tribunal ou de la cour est devenue définitive, la chambre de l'instruction est compétente pour ordonner, s'il y a lieu, la restitution des objets placés sous main de justice.
+Elle statue sur requête de toute personne qui prétend avoir droit sur l'objet ou à la demande du ministère public.

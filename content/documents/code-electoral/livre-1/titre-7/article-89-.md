@@ -1,0 +1,3 @@
+Immédiatement après le dépouillement, le résultat du scrutin est rendu public et affiché sur les lieux mêmes du vote.
+Dans la publication des résultats issus des postes de vote, la mention de leur caractère provisoire doit être obligatoirement indiquée sous peine des sanctions prévues au code pénal.
+Mention de ce résultat est portée au procès-verbal de déroulement du scrutin rédigé par le président et le secrétaire du poste de vote.

@@ -1,0 +1,1 @@
+Les personnes qui se sont rendues coupables des faits mentionnés aux articles 449, 450 et 452 du présent code sont exemptes de peine si, avant toute poursuite, elles ont révélé aux autorités constituées, l’entente établie ou fait connaître l’existence de l’association.

@@ -1,0 +1,2 @@
+Lorsqu'une vacance isolée se produit par décès, démission, ou empêchement définitif, le candidat suppléant personnel est appelé par le président de l'Assemblée nationale à exercer le mandat pour le reste de sa durée.
+Tout député nommé à une fonction publique ou appelé à une mission nationale ou internationale, incompatible avec l'exercice de son mandat parlementaire, suspend d'office celui-ci. Son suppléant est appelé par le président de l'Assemblée nationale à siéger. Sa suppléance cesse à sa demande.

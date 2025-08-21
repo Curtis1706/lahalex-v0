@@ -1,0 +1,1 @@
+La présente loi, qui abroge la loi n 87-015 du 21 septembre 1987 portant code de l'hygiène publique, sera exécutée comme Loi de l'Etat.

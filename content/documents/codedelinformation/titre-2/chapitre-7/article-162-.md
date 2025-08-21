@@ -1,0 +1,2 @@
+La publicité ne fait pas un usage injustifié ou non autorisé du nom d’une personne, d’une famille ou d’un groupe de personnes.
+Elle ne tire pas non plus indûment profit du renom qui s’attache au nom d’une personne, d’une famille, d’un groupe de personnes ou à la marque et à la raison sociale d’une entreprise ou d’un produit, sans accord préalable.

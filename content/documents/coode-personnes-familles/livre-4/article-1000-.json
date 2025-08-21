@@ -1,0 +1,14 @@
+{
+  "id": "article-1000-",
+  "title": "Article 1000 :",
+  "numero": "1000 ",
+  "document": "coode-personnes-familles",
+  "path": [
+    "livre-4"
+  ],
+  "navigation": {
+    "parent": "livre-4",
+    "previous": "article-999-",
+    "next": "article-1001-"
+  }
+}

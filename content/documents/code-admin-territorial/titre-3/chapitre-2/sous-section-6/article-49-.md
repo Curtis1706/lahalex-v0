@@ -1,0 +1,1 @@
+La commune assure la protection du patrimoine culturel local.

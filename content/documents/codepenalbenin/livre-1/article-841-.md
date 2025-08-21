@@ -1,0 +1,1 @@
+Est considéré comme receleur et puni des peines prévues par l’article 839 du présent code celui qui, ayant autorité sur un mineur qui vit avec lui et se livre habituellement à des crimes ou délits contre les biens d’autrui, ne peut justifier de ressources correspondant à son train de vie.

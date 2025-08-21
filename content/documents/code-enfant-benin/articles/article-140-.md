@@ -1,0 +1,2 @@
+Article 140 : Conception de l'enfant
+Conformément aux dispositions de l'article 3 du code des personnes et de la famille, “l'enfant est présumé conçu pendant la période qui s'étend du 300ème au 180ème jours inclusivement avant la date de naissance”.

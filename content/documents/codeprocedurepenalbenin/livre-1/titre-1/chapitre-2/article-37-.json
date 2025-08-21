@@ -1,0 +1,16 @@
+{
+  "id": "article-37-",
+  "title": "Article 37 :",
+  "numero": "37 ",
+  "document": "codeprocedurepenalbenin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-2"
+  ],
+  "navigation": {
+    "parent": "chapitre-2",
+    "previous": "article-36-",
+    "next": "article-37-nouveau--loi-n--2018-14--"
+  }
+}

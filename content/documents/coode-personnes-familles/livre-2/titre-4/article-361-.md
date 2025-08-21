@@ -1,0 +1,1 @@
+Dans le délai de quinzaine à compter du jour où la décision n’est plus susceptible de voie de recours, le ministère public près la juridiction procède aux diligences de transcription.

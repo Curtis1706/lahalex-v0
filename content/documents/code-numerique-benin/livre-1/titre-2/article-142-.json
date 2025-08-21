@@ -1,0 +1,15 @@
+{
+  "id": "article-142-",
+  "title": "Article 142 : Communication des rapports de contrôle externes",
+  "numero": "142 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-141-",
+    "next": "article-143-"
+  }
+}

@@ -1,0 +1,3 @@
+Article 371 : Est punie d’une amende de cinq cent mille (500 000) à un million cinq cent mille (1 500 000) francs CFA, toute famille hôte, toute structure d’accueil, ou toute institution qui, en dépit de sa défaillance ou du retrait de son agrément, continue d’accueillir des enfants en situation difficile dans le seul but de percevoir l’aide financière.
+CHAPITRE IV : DES MUTILATIONS SEXUELLES, DES MARIAGES PRECOCES ET FORCES, DES AUTRES PRATIQUES TRADITIONNELLES NEFASTES A LA SANTE ET AU MORAL DES ENFANTS
+SECTION I : DES PEINES CONTRE LES MUTILATIONS SEXUELLES

@@ -1,0 +1,1 @@
+La prescription de l'action publique résultant de l'insoumission ou de la désertion ne commence à courir qu'à partir du jour où l'insoumis ou le déserteur aura atteint l'âge d'admission à la retraite.

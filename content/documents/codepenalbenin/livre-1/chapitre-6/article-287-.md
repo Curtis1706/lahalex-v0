@@ -1,0 +1,2 @@
+Quiconque a contrefait, falsifié ou altéré des billets de banque ou des pièces de monnaie autres que d’or ou d’argent ayant ou ayant eu cours légal sur le territoire national ou à l’étranger, est puni d’un emprisonnement de un (01) an à cinq (05) ans et d’une amende de deux millions (2.000.000) à dix millions (10.000.000) de francs CFA ou de l’une de ces deux peines seulement.
+La tentative est punie au même titre que l’infraction.

@@ -1,0 +1,5 @@
+L’autorisation accordée par la Haute Autorité de l’Audiovisuel et de la Communication devient caduque :
+- lorsque le bénéficiaire renonce à poursuivre ses activités ;
+- lorsque la Haute Autorité de l’Audiovisuel et de la Communication décide de sa révocation pour inobservance des dispositions législatives ou réglementaires et des prescriptions contractuelles.
+Les candidatures pour les concessions mises au concours selon l’article 218 sont déposées dans les délais fixés par la Haute Autorité de l’Audiovisuelle et de la Communication.
+Toutefois, il est possible d’adresser à tout moment à la Haute Autorité de l’Audiovisuel et de la Communication des demandes de concession. Lesdites demandes sont prises en compte à l’occasion du prochain appel à candidatures lorsqu’elles portent sur des zones ayant encore des fréquences disponibles.

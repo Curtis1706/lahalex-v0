@@ -1,0 +1,1 @@
+La présente loi, qui abroge toutes dispositions antérieures contraires, notamment celles de la loi n° 2009-18 du 15 juillet 2009, de la loi n° 97-028 du 15 janvier 1999 sera publiée au Journal officiel et exécutée comme loi de l'Etat.

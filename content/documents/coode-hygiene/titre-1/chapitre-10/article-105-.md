@@ -1,0 +1,1 @@
+Les dispositions du présent chapitre s'appliquent sans préjudice de celles relatives aux établissements humains, contenues dans la loi-cadre sur l'environnement en République du Bénin.

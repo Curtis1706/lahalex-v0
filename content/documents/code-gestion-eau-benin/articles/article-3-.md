@@ -1,0 +1,2 @@
+Article 3 : La gestion intégrée des ressources en eau a pour but d’assurer une utilisation équilibrée, une répartition équitable et une exploitation durable de la ressource disponible.
+SECTION III : DU CHAMP D’APPLICATION

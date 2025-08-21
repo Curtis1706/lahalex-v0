@@ -1,0 +1,1 @@
+L’administration  fiscale  ne  peut  effectuer  aucune  rectification concernant une période précédemment vérifiée sur place, sauf réparation d’erreurs ou d’omissions apparaissant au seul examen du dossier.

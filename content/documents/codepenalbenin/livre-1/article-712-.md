@@ -1,0 +1,4 @@
+Est puni des mêmes peines, quiconque :
+- a sciemment fait un usage quelconque d’une marque collective de certification enregistrée dans les conditions autres que celles prescrites au règlement accompagnant le dépôt ;
+- a sciemment vendu ou mis en vente un produit revêtu d’une marque collective de certification irrégulièrement employée ;
+- dans un délai de dix (10) ans à compter de la date à laquelle a pris fin la protection d’une marque collective de certification ayant fait l’objet d’une utilisation, aura sciemment soit fait un usage d’une marque qui en constitue la reproduction ou l’imitation, soit vendu, mis en vente, fourni ou offert de fournir des produits ou des services sous une telle marque.

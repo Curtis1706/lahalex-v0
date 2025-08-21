@@ -1,0 +1,1 @@
+Le régime financier des communes et établissements publics de coopération intercommunale obéit aux principes du droit budgétaire définis dans la loi organique relative aux lois de finances, notamment l'annualité, l'unité, l'universalité, l'antériorité, la sincérité, l'équilibre du budget, la légalité de l'impôt et la spécialité des crédits.

@@ -1,0 +1,1 @@
+Est puni d’un emprisonnement de cinq (05) ans à quinze (15) ans et d’une amende de cinq millions (5.000.000) de francs CFA à dix millions (10.000.000) francs CFA, quiconque importe, exporte des plantes ou substances classées comme stupéfiants ou substances psychotropes ou précurseurs ou leurs préparations, sans les autorisations prescrites par les lois ou les règlements.

@@ -1,0 +1,6 @@
+Sont punis d’un emprisonnement ferme de trois (03) mois à cinq (05) ans et d’une amende allant de cinq cent mille (500.000) francs CFA à un million (1.000.000) de francs CFA ceux qui :
+1. exposent, mettent en vente ou vendent des denrées servant à l’alimentation de l’homme ou des animaux, des produits pharmaceutiques ou considérés comme tels et qu’ils savent être falsifiées, corrompues ou toxiques ;
+2. en dehors des exceptions prévues par les arrêtés portant déclaration d’infection, exposent en vue de la vente, mettront en vente ou vendront des animaux qu’ils sauront être atteints de maladies réputées légalement contagieuses ;
+3. exposent en vue de la vente, mettront en vente, vendront ou livreront à la consommation :
+- la chair d’animaux qu’ils sauront être morts d’une maladie réputée légalement contagieuse ;
+- sans autorisation préalable du service compétent, la chair d’animaux qu’ils sauront avoir été abattus comme atteints ou reconnus atteints après abattage de l’une des maladies réputées légalement contagieuses.

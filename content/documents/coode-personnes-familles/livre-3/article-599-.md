@@ -1,0 +1,3 @@
+L’indignité est personnelle.
+Les enfants de l’indigne, venant à la succession de leur chef et sans le secours de la représentation, ne sont pas exclus pour la faute de leur auteur ; mais celui-ci ne peut en aucun cas réclamer, sur les biens de cette succession, l'usufruit que la loi accorde aux père et mère sur les biens de leurs enfants.
+L’héritier exclu de la succession pour cause d’indignité est tenu de rendre tous les biens, ainsi que les fruits et revenus dont il a eu la jouissance depuis l’ouverture de la succession, sans préjudice de tous les dommages-intérêts s’il y a lieu.

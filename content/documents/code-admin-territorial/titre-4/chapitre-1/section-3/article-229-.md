@@ -1,0 +1,2 @@
+Le chef de village ou de quartier de ville veille à la mobilisation des populations, notamment à l'occasion des opérations d’établissement des registres communaux et d'identification des personnes physiques, des opérations liées à la liste électorale informatisée, des opérations électorales, des calamités naturelles et des campagnes de vaccination, de dépistage de maladies et de soins collectifs.
+Il est, en outre, chargé de toutes autres questions que le conseil d’arrondissement et le conseil communal lui confient.

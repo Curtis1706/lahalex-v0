@@ -1,0 +1,3 @@
+Le cautionnement prévu à l’article précédent est fourni en billets de banque, chèque certifié établi au nom du receveur de l’enregistrement ou autres moyens de paiement en vigueur en République du Bénin.
+Il est versé entre les mains du receveur de l’enregistrement ou, à défaut, du trésorier-payeur ou de ses comptables subordonnés, contre récépissé.
+Sur le vu du récépissé, le ministère public fait exécuter, sur-le-champ, la décision de mise en liberté.

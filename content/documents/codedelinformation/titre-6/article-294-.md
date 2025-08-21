@@ -1,0 +1,1 @@
+En cas de violation des dispositions prévues à l’article 204 de la présente loi, les contrevenants seront passibles d’une amende de cinquante mille (50 000) à cinq cent mille (500 000) francs CFA.

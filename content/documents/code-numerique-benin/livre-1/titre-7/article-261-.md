@@ -1,0 +1,2 @@
+Exercice d’activités sans déclaration
+Est puni d’un emprisonnement d’un (01) mois à six (06) mois et d’une amende de cent mille (100 000) à cinq cent mille (500 000) francs CFA ou de l’une de ces deux peines seulement, quiconque, sans avoir effectué la déclaration prévue à l’article 55 du présent code, acceptée par l’Autorité de régulation, exerce une activité soumise à la réalisation d’une déclaration.

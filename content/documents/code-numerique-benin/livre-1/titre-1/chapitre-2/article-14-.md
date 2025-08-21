@@ -1,0 +1,2 @@
+Accords entre les opérateurs fournissant un accès à internet et les utilisateurs
+Les accords entre les opérateurs fournissant un accès à internet et les utilisateurs sur les conditions commerciales et techniques et les caractéristiques des services d’accès à l’internet, telles que les prix, les volumes de données ou le débit, et toutes pratiques commerciales mises en œuvre par les opérateurs fournissant un accès à internet, ne limitent pas l’exercice par les utilisateurs des droits énoncés à l’article 13.

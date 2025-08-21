@@ -1,0 +1,1 @@
+La tentative ou la complicité des faits visés à l'article 340 de la présente loi est punissable des mêmes peines que l'infraction consommée.

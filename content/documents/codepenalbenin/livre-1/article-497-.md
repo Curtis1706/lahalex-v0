@@ -1,0 +1,2 @@
+Est considéré en état de récidive légale, quiconque ayant été condamné à des peines correctionnelles, en application de la législation sur le contrôle des prix et des stocks a, dans les cinq (05) ans qui suivent la date à laquelle cette condamnation est devenue définitive, commis un nouveau délit tombant sous l’application de la présente loi.
+L’emprisonnement et la publication du jugement prévu doivent alors être prononcés.

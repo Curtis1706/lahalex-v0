@@ -1,0 +1,1 @@
+Les époux se doivent mutuellement fidélité.

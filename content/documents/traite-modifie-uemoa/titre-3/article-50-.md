@@ -1,0 +1,1 @@
+50'Union ne répond pas des engagements des administrations centrales, des autorités locales, des autres autorités publiques, d'autres organismes ou entreprises publiques d'un Etat membre.

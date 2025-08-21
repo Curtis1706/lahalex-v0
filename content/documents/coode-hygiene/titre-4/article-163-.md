@@ -1,0 +1,2 @@
+Les infractions en matière d'hygiène publique sont constatées par procès-verbal établi par les personnels de la police environnementale ou les agents de forces de sécurité publique ou tout agent habilité par les lois en vigueur pour la constatation et la recherche des infractions.
+CHAPITRE II : DES POURSUITES ET DES SANCTIONS

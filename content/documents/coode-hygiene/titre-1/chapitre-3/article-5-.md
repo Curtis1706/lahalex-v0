@@ -1,0 +1,1 @@
+Tout citoyen est astreint au respect des mesures d'hygiène intra ou extra domiciliaires ordonnées par les autorités compétentes.

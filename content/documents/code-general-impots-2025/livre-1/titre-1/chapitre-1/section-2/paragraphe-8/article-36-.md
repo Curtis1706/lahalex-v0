@@ -1,0 +1,1 @@
+Le  montant  des  transactions,  amendes,  confiscations,  pénalités  et sanctions de toute nature mis à la charge des contrevenants à la législation fiscale, douanière et sociale, à la réglementation régissant les prix, le contrôle des changes et d’une manière générale aux lois et règlements de l’État, n’est pas déductible.

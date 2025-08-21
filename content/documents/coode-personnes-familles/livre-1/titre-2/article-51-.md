@@ -1,0 +1,1 @@
+Lorsque l’acte en marge duquel doit être effectuée cette mention, a été dressé ou transcrit dans un autre centre d’état civil, l’avis est adressé, dans le délai de trois (3) jours suivant sa réception, à l’officier de l’état civil de ce centre qui en avise aussitôt, si le double du registre est au greffe, le procureur de la République.

@@ -1,0 +1,1 @@
+S’il  y  a  opposition  individuelle  ou  collective  à  l’assiette  ou  au recouvrement de l’impôt, il peut être fait application des peines prévues aux articles 394 et suivants du code pénal.

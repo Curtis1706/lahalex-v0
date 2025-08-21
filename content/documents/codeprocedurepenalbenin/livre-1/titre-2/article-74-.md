@@ -1,0 +1,4 @@
+En cas de découverte de cadavre, qu’il s’agisse ou non d’une mort violente, mais dont la cause en est inconnue ou suspecte, l’officier de police judiciaire qui en est avisé, informe immédiatement le procureur de la République compétent, se transporte sans délai sur les lieux et procède aux premières constatations.
+Le procureur de la République se rend sur place s’il le juge nécessaire et se fait assister de personnes qualifiées pour apprécier les circonstances du décès. Il peut toutefois déléguer aux mêmes fins un officier de police judiciaire de son choix.
+Les personnes ainsi appelées prêtent, par écrit, serment de donner leur avis en leur honneur et conscience.
+Le procureur de la République peut aussi requérir l’ouverture d’une information pour recherche des causes de la mort.

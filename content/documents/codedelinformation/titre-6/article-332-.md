@@ -1,0 +1,2 @@
+En cas de condamnation, le tribunal ordonne la publication du jugement. Il peut, en outre, ordonner la diffusion, aux frais du condamné, d’une ou de plusieurs annonces rectificatives. Le jugement fixe les termes de ces annonces et les modalités de leur diffusion et impartit au condamné un délai pour y faire procéder.
+En cas de non exécution et sans préjudice des pénalités prévues à cet effet, il est procédé à cette diffusion à la diligence du ministère public aux frais du condamné.

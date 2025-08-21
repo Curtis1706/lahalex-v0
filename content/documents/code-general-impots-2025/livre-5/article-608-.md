@@ -1,0 +1,1 @@
+Aucune mesure de poursuites ne peut être exécutée dans les lieux servant d’habitation les dimanches et les jours fériés ni débutée avant six (6) heures et après vingt et une (21) heures.

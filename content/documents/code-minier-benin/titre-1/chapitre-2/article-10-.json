@@ -1,0 +1,15 @@
+{
+  "id": "article-10-",
+  "title": "ARTICLE 10 : Sont considérées comme carrières, les gîtes naturels de",
+  "numero": "10 ",
+  "document": "code-minier-benin",
+  "path": [
+    "titre-1",
+    "chapitre-2"
+  ],
+  "navigation": {
+    "parent": "chapitre-2",
+    "previous": "article-9-",
+    "next": "article-11-"
+  }
+}

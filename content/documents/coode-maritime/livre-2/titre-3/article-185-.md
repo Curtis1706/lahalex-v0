@@ -1,0 +1,2 @@
+Les marchandises ne peuvent séjourner sur les quais au-delà du délai fixé par l’autorité portuaire. Passé ce délai, ces marchandises peuvent être enlevées d’office aux dépens des propriétaires.
+Toutefois, pour des cas d’encombrement ou de risque d’encombrement, des arrêtés du ministre chargé de la marine marchande peuvent fixer une durée maximum de stationnement sur les quais, terre-pleins et dépendances du port pour toutes les marchandises ou pour certaines catégories de marchandises.

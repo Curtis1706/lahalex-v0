@@ -1,0 +1,5 @@
+L’indemnité journalière est égale au 2/3 du salaire journalière du travailleur.
+Le montant du salaire journalier s’obtient en divisant par trente le total des rémunérations ou gains perçus par l’intéressé et soumis à cotisations au cours du mois précédant celui pendant lequel l’accident est survenu.
+Au cas où la victime n’a pas travaillé pendant toute la durée du mois ou que le début du travail dans l’entreprise où l’accident est survenu remonte à moins d’un mois, la rémunération servant au calcul de l’indemnité journalière est celle que l’accidenté aurait perçue s’il avait travaillé dans les mêmes conditions pendant la période de référence.
+Il en est de même si la victime n’a pas travaillé pendant la durée des 30 jours précédant l’accident en raison soit de maladie, d’accident, de maternité ou de chômage indépendant de sa volonté, de congés payés ou d’absence autorisée.
+L’indemnité journalière est réglée au même intervalle régulier que le salaire. Cet intervalle ne peut toutefois pas être inférieur à une semaine, ni supérieur à un mois.

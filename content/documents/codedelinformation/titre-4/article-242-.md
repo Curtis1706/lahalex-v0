@@ -1,0 +1,2 @@
+Les membres de la Haute Autorité de l’Audiovisuel et de la Communication et les agents mandatés par elle, jouissent d’un droit d’inspection des installations et des programmes de télévisions publiques et privées.
+A la suite desdites inspections, ils établissent un rapport motivé adressé à la Haute Autorité de l’Audiovisuel et de la Communication.

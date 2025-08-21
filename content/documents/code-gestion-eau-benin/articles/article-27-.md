@@ -1,0 +1,2 @@
+Article 27 : Le ministère réalise un inventaire quantitatif et qualitatif de l’eau et en assure le suivi.
+Les données de l’inventaire ainsi que les mesures prévues pour les collecter et les analyser font l’objet d’un réexamen périodique.

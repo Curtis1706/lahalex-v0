@@ -1,0 +1,1 @@
+Lorsque la nationalité béninoise est attribuée ou acquise autrement que par déclaration, naturalisation ou réintégration, la preuve ne peut être faite qu'en établissant l'existence de toutes les conditions requises par la loi.

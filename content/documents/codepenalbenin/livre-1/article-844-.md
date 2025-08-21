@@ -1,0 +1,2 @@
+Est puni d’un emprisonnement de trois (03) mois à un (01) an et d’une amende de cent mille (100.000) francs CFA à un million (1.000.000) de francs CFA ou à l’une de ces deux peines seulement, quiconque se livre d’une façon illicite aux travaux de prospection et d’exploitation des substances de carrière.
+Les substances de carrières extraites illicitement sont saisies et la confiscation est prononcée par la juridiction compétente.

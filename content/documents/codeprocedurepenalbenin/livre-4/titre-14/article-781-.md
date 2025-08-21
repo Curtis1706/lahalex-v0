@@ -1,0 +1,3 @@
+Les dispositions des articles 740 à 746 du présent code sont également applicables si la personne réclamée est poursuivie ou condamnée en République du Bénin pour d’autres chefs que ceux visés par la demande de la cour pénale internationale.
+Toutefois, la personne détenue dans ces conditions ne peut bénéficier d’une mise en liberté au titre des articles 752 alinéa 2 et 754 du présent code.
+La procédure suivie devant la cour pénale internationale suspend, à l’égard de cette personne, la prescription de l’action publique et de la peine.

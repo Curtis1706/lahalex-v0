@@ -1,0 +1,1 @@
+Sont punis de la détention criminelle à temps de cinq (05) ans à dix (10) ans et de cinq (05) ans d’inéligibilité, les faits de haute trahison, d’atteinte à l’honneur et à la probité, tels que définis par la Constitution.

@@ -1,0 +1,1 @@
+La décision doit, dans tous les cas, être motivée.

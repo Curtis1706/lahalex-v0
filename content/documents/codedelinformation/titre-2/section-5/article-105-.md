@@ -1,0 +1,1 @@
+La décision de confirmation a pour effet de mettre définitivement fin à toute autre contestation de la décision de rejet attaquée. La décision portant infirmation permet à la Haute Autorité de l’Audiovisuel et de la Communication de mener des actions de manière à faciliter la jouissance effective d’un droit conféré par la présente loi.

@@ -1,0 +1,3 @@
+La citation précise et qualifie les faits incriminés ; elle indique le texte de loi applicable et en quelle qualité les prévenus sont poursuivis.
+Lorsque la citation est à la requête du plaignant, elle contient élection de domicile dans la ville où siège la juridiction saisie et est notifiée tant au prévenu qu’au ministère public.
+Ces formalités sont observées à peine de nullité de la poursuite, que la citation soit délivrée par le ministère public ou par le plaignant.

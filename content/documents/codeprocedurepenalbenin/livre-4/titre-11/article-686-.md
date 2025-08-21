@@ -1,0 +1,1 @@
+Les fonctions du ministère public sont tenues par le procureur de la République près le tribunal de première instance du siège de la cour d’appel.

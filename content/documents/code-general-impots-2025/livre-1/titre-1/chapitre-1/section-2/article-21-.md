@@ -1,0 +1,1 @@
+Les dépenses de toute nature de montants supérieurs ou égaux à cent mille (100 000) francs CFA ne peuvent pas être réglées en espèce, sous peine des sanctions prévues à l’article 503 du présent code.

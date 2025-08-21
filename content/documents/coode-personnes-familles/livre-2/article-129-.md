@@ -1,0 +1,1 @@
+Lorsque l'un des futurs époux ou les deux sont mineurs, l’officier de l’état civil leur rappelle qu’il ne pourra être procédé à la célébration du mariage que s’il est rapporté préalablement la preuve du consentement de la personne habilitée à le donner ou de l’autorisation judiciaire en tenant lieu.

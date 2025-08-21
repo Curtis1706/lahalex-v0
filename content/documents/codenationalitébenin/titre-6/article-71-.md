@@ -1,0 +1,2 @@
+La preuve d'un décret de naturalisation résulte de la production. soit de l'ampliation de ce décret, soit d'un exemplaire du Journal officiel où le décret a été publié.
+Lorsque ces pièces ne peuvent être produites, le ministre chargé de la justice délivre, à la demande de tout requérant, une copie du décret de naturalisation.

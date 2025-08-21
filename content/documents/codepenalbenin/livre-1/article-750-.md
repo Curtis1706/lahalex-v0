@@ -1,0 +1,2 @@
+Lorsqu’un prêt est usuraire, les perceptions excessives, seront imputées de plein droit sur les intérêts calculés dans les conditions fixées à l’article 743 du présent code, alors échus et pour le surplus, s’il y a lieu, sur le principal capital de la créance.
+Si la créance est éteinte en capital et intérêts, les sommes indûment perçues seront restituées avec intérêts légaux, du jour où elles auront été payées.

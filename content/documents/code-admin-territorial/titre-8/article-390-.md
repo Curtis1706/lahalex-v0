@@ -1,0 +1,7 @@
+Le comptable de la commune ou de l’établissement public de coopération intercommunale est seul chargé :
+- 1. de la prise en charge et du recouvrement des titres de recettes qui lui sont remis par l'ordonnateur ou ses délégués, des créances constatées par un contrat, un titre de propriété ou autre titre dont il assure la conservation ainsi que de l'encaissement des droits au comptant et des recettes de toute nature que la commune ou l’établissement public de coopération intercommunale est habilitée à recevoir, sans préjudice des impôts et taxes recouvrés par la direction générale des impôts ;
+2. du paiement des dépenses, soit sur ordre de l'ordonnateur accrédité, soit au vu des titres présentés par les créanciers ou de sa propre initiative, ainsi que de la suite à donner aux oppositions et autres significations ;
+3. de la garde et de la conservation des fonds et valeurs appartenant ou confiés à la commune ou à l’établissement public de coopération intercommunale :
+4. du maniement des fonds et des mouvements de comptes de disponibilités ;
+5. de la conservation des pièces justificatives des opérations et des documents de comptabilité ;
+6. de la tenue de la comptabilité de la commune ou de l'établissement public de coopération intercommunale.

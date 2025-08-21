@@ -1,0 +1,1 @@
+Les enquêteurs techniques ont accès aux résultats des examens ou des analyses de prélèvements effectués sur les personnes chargées de la conduite et du contrôle de l'aéronef et sur le corps des victimes.

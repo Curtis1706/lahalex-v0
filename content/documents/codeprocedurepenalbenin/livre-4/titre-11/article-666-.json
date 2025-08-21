@@ -1,0 +1,15 @@
+{
+  "id": "article-666-",
+  "title": "Article 666 :",
+  "numero": "666 ",
+  "document": "codeprocedurepenalbenin",
+  "path": [
+    "livre-4",
+    "titre-11"
+  ],
+  "navigation": {
+    "parent": "titre-11",
+    "previous": "article-665-",
+    "next": "article-667-"
+  }
+}

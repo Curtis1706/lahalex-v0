@@ -1,0 +1,2 @@
+Toute personne qui en communiquant une information qu’elle savait être fausse, aura compromis la sécurité d’un aéronef en vol, ou d’un navire, sera puni d’un emprisonnement de un (01) an à cinq (05) ans et d’une amende de cent mille (100.000) à un million (1.000.000) de francs CFA.
+La tentative du délit prévu au présent article sera punie comme le délit lui - même.

@@ -1,0 +1,6 @@
+Le conseil d’administration se réunit sur convocation de son président adressé par écrit 15 jours à l’avance :
+en séance ordinaire au moins une fois par semestre ;
+en séance extraordinaire, chaque fois que l’intérêt de la Caisse l’exige, soit à l’initiative du président, soit à la demande de la moitié de ses membres, soit à la demande des commissaires aux comptes ou du Ministre de tutelle.
+En cas d’urgence, le délai de convocation peut être réduit et ramené à trois jours au minimum par décision du président. Les décisions sont prises à la majorité des voix des membres présents. En cas de partage des voix celle du président est prépondérante. Les membres du conseil d’administration sont tenus au secret professionnel.
+Le directeur général de la Caisse et les commissaires aux comptes assistent aux réunions du conseil d’administration avec voix consultative. Le directeur général se fait assister en cas de besoin par ses collaborateurs.
+Les délibérations du conseil d’administration sont confidentielles. Elles sont consignées dans des procèsverbaux signés par tous les membres présents.

@@ -1,0 +1,1 @@
+Les effets de la donation sont, dans le silence de l’acte, régis par la loi du lieu d’exécution de la libéralité.

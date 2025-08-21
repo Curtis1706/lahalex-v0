@@ -1,0 +1,1 @@
+Les différentes charges de la tutelle peuvent être remplies par toute personne sans distinction de sexe.

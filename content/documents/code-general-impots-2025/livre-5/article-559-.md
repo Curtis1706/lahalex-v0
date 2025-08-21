@@ -1,0 +1,5 @@
+1)  L’administration  fiscale  peut  rectifier  le  prix  ou  l’évaluation  d’un immeuble  ou  d’un  droit  réel  immobilier  ayant  servi  de  base  à  la  perception  d’une imposition lorsque ce prix ou cette évaluation paraît inférieur à la valeur vénale de ces biens.
+2) La rectification correspondante est effectuée suivant la procédure de rectification
+contradictoire, l’administration fiscale étant tenue d’apporter la preuve de l’insuffisance des prix exprimés et des évaluations fournies dans les actes ou déclarations.
+3) Lorsque le différend relatif à l’évaluation de l’immeuble porte sur au moins cinq
+millions (5 000 000) de francs CFA, le contribuable peut soumettre le litige à l’appréciation de la commission de conciliation instituée par l’article 560 ci-deSOUS, en vue de fixer la valeur taxable.

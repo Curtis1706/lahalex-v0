@@ -1,0 +1,1 @@
+Est puni des mêmes peines, celui qui aura fait usage ou tenté de faire usage de la pièce fausse.

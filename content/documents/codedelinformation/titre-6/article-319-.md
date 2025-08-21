@@ -1,0 +1,1 @@
+Les dispositions du code pénal relatives aux circonstances atténuantes sont applicables dans tous les cas prévus par la présente loi.

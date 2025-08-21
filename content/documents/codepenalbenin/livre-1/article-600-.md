@@ -1,0 +1,1 @@
+Si le mineur ainsi enlevé est retrouvé vivant, sain d’esprit et de corps avant le prononcé de la décision de condamnation et ce sur les indications fournies par le ravisseur, la peine applicable sera la réclusion criminelle à temps de dix (10) ans.

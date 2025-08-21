@@ -1,0 +1,1 @@
+L’impôt est dû si les revenus de capitaux mobiliers sont versés par une entreprise exploitée en République du Bénin ou perçus par une entreprise exploitée ou par une personne domiciliée en République du Bénin.

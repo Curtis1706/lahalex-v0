@@ -1,0 +1,5 @@
+Le juge des libertés et de la détention, saisi par une ordonnance du juge d’instruction tendant au placement de l’inculpé en détention provisoire, fait comparaître celui-ci devant lui, assisté de son avocat s’il en a.
+Le juge des libertés et de la détention statue en audience de cabinet, après un débat contradictoire au cours duquel il entend le ministère public en ses réquisitions et les observations de l’inculpé et, le cas échéant, celle de l’avocat.
+Il rend sa décision sur-le-champ.
+Toutefois, le juge des libertés et de la détention peut ordonner immédiatement le placement en détention lorsque l’inculpé ou son avocat sollicite un délai pour préparer sa défense.
+Dans ce cas, il peut, par ordonnance motivée et non susceptible d’appel, prescrire l’incarcération de l’inculpé pour une durée qui ne peut excéder trois (03) jours ouvrables.

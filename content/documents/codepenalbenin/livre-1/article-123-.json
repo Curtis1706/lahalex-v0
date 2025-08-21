@@ -1,0 +1,14 @@
+{
+  "id": "article-123-",
+  "title": "Article 123 : Au cours du délai fixé par la juridiction pour accomplir un travail d’intérêt général, le condamné doit satisfaire, sous le contrôle du juge spécialement désigné, outre l’obligation d’accomplir le travail prescrit, aux mesures de contrôle suivantes :",
+  "numero": "123 ",
+  "document": "codepenalbenin",
+  "path": [
+    "livre-1"
+  ],
+  "navigation": {
+    "parent": "livre-1",
+    "previous": "article-122-",
+    "next": "article-124-"
+  }
+}

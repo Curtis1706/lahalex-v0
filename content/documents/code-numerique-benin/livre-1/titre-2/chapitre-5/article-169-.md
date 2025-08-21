@@ -1,0 +1,4 @@
+Pratiques non sanctionnées
+Ne sont pas sanctionnées les pratiques :
+- qui résultent de l’application d’un texte législatif ou d’un texte règlementaire pris pour son application ;
+- dont les auteurs peuvent justifier qu’elles ont pour effet de contribuer au progrès économique et/ou technique, y compris par la création ou le maintien d’emplois, et qu’elles réservent aux utilisateurs une partie équitable du profit qui en résulte, sans donner aux entreprises intéressées la possibilité d’éliminer la concurrence pour une partie substantielle des biens, produits et services en cause. Ces pratiques ne doivent imposer des restrictions à la concurrence que dans la mesure où elles sont indispensables pour atteindre cet objectif de progrès.

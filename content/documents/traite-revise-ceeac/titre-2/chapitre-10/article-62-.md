@@ -1,0 +1,2 @@
+Circulation des capitaux
+Dès l'entrée en vigueur du présent Traité, la Conférence prend, sur proposition de la Commission, après avis du Parlement Communautaire, des mesures tendant à la coordination progressive des politiques nationales en matière de change en ce qui concerne les mouvements de capitaux entre les Etats membres, et les États tiers.

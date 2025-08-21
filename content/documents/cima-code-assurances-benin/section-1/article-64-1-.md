@@ -1,0 +1,3 @@
+Article 64-1 : Communication des frais prélevés sur les contrats en cas de vie ou de capitalisation
+Les contrats d’assurance en cas de vie (avec ou sans contre-assurance) ou de capitalisation doivent indiquer les frais prélevés par l’entreprise. Ces frais peuvent être libellés dans la monnaie du contrat ou calculés en pourcentage des primes, des provisions mathématiques, du rachat effectué, du capital garanti ou de la rente garantie.
+Les autres contrats comportant des valeurs de rachat doivent indiquer les frais prélevés en cas de rachat.

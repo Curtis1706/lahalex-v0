@@ -1,0 +1,1 @@
+En cas de décès ou de blessures du voyageur et lorsque l’accident est survenu après le moment où le passager monte à bord et avant qu’il n’en descende aux escales ou au port de destination, le transporteur est tenu d’en réparer les suites dommageables s’il est établi qu’il a contrevenu aux obligations prescrites par l’article précédent.

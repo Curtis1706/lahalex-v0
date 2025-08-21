@@ -1,0 +1,1 @@
+Les témoins sont cités ainsi qu’il est dit aux articles 538 et suivants du présent code.

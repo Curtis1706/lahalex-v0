@@ -1,0 +1,3 @@
+Le tribunal ou la cour, sur requête du ministère public ou de la partie intéressée, statue en chambre du conseil après avoir entendu le ministère public, l’avocat de la partie et, s’il échet, la partie elle-même sous réserve des dispositions de l’article 792 du présent code.
+L’exécution de la décision en litige est suspendue si le tribunal ou la cour l’ordonne.
+Le jugement sur l’incident est notifié, à la requête du ministère public, aux parties intéressées.

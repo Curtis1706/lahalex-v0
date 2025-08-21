@@ -1,0 +1,2 @@
+La Haute Autorité de l’Audiovisuel et de la Communication peut soumettre l’utilisateur d’un site d’émission à des obligations particulières en fonction notamment de la rareté des sites d’émission dans une région. Elle peut, en particulier, imposer le regroupement de plusieurs utilisateurs sur un même site.
+La Haute Autorité de l’Audiovisuel et de la Communication détermine le délai maximum dans lequel le titulaire d’une autorisation commence de manière effective à utiliser la fréquence dans les conditions prévues par l’autorisation.

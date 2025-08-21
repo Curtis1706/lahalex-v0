@@ -1,0 +1,3 @@
+Le sursis simple est applicable, en ce qui concerne les personnes physiques, aux condamnations aux peines privatives ou restrictives de droits mentionnées à l’article 38 à l’exception de la confiscation, aux peines complémentaires prévues aux points 1, 2 et 4 de l’article 48 ainsi qu’à la peine complémentaire prévue au premier alinéa de l’article 54. Il est également applicable à l’amende prononcée pour les contraventions punies d’emprisonnement.
+En ce qui concerne les personnes morales, le sursis simple est applicable à la peine d’interdiction d’émettre des chèques ou d’utiliser des cartes de paiement prévue par les articles 41 et 42. Il est également applicable à l’amende prononcée pour les contraventions punies d’emprisonnement.
+B- DES EFFETS DU SURSIS SIMPLE

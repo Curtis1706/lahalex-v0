@@ -1,0 +1,17 @@
+{
+  "id": "article-159-",
+  "title": "Article 159 : Système de comptabilisation des coûts",
+  "numero": "159 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "chapitre-5",
+    "sous-section-5"
+  ],
+  "navigation": {
+    "parent": "sous-section-5",
+    "previous": "article-158-",
+    "next": "article-160-"
+  }
+}

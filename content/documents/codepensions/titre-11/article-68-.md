@@ -1,0 +1,4 @@
+Les pensions de retraites et les pensions d’ayants- cause concédées sous le régime de l'ordonnance n° 63/PR du 29 Décembre 1966 et de l’Office Béninois de Sécurité Sociale sont annulées et remplacées, pour compter du 1er Janvier 1987, par des pensions calculées sur la base du présent régime.
+Ces pensions feront l’objet d'une nouvelle liquidation sur la base de traitements soumis à retenue pour pension en vigueur au 1<sup>er</sup> Janvier 1987 conformément aux articles 16, 17, 18 et 19 visé ci-dessus.
+Toutefois, ces dispositions ne doivent entraîner aucune diminution dans le nouveau calcul. Le cas échéant les intéressés gardent les pensions telles qu'elles leur ont été précédemment concédées.
+Les pensions non liquidées par le Fonds National de Retrait et l’Office Béninois.de Sécurité Sociale à la date du 31 Décembre 1986 seront calculées conformément aux dispositions du présent code et sur la base des traitements en vigueur au 1er Janvier 1987.

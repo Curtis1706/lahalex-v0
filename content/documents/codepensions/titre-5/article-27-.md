@@ -1,0 +1,3 @@
+Les causes, la nature et les suites des blessures ou affections sont Justifiées par les certificats d'origine et les extraits de constatations du Corps de troupe d'appartenance du Militaire. L’invalidité est justifiée par les procès-verbaux et certificats de visite et contre visite des médecins Militaires et du Méde­cin de l’Administration.
+L'intéressé a le droit de prendre connaissance de son dossier et de faire entendre par la commission un médecin de son choix. En cas de partage des voix, le Président de la Commission de Réforme a voix prépondérante,
+Le pouvoir de décision appartient au Ministre de la Défense Nationale après avis de la Commission de Réforme, La décision ne peut être plus défavorable pour l’intéressé que l'avis de la Commission de Réforme.

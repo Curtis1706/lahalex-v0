@@ -1,0 +1,1 @@
+L’adoption confère à l’enfant une filiation qui se substitue à sa filiation d’origine ; l’adopté cesse d’appartenir à sa famille par le sang, sous réserve des prohibitions au mariage.

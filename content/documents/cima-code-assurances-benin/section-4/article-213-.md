@@ -1,0 +1,5 @@
+Article 213 : Attestation d’assurance avec certificat détachable
+Tout conducteur d’un véhicule mentionné à l’article 200 doit, dans les conditions prévues aux articles de la présente section, être en mesure de présenter un document faisant présumer que l’obligation d’assurance a été satisfaite.
+Cette présomption résulte de la production, aux fonctionnaires ou agents chargés de constater les infractions à la police de la circulation, d’un des documents dont les conditions d’établissement et de validité sont fixées par le présent Code.
+Ces documents se composent d’une attestation d’assurance conservée par le propriétaire du véhicule et, détachable de cette attestation, d’un certificat d’assurance obligatoirement apposé sur le véhicule automoteur.
+A défaut de ces documents, la justification est fournie aux autorités judiciaires par tous moyens. Les documents prévus au présent article n’impliquent pas une obligation de garantie de la part de l’assureur.

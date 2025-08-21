@@ -1,0 +1,2 @@
+Article 289 : Régime de liberté surveillée
+La liberté surveillée de l’enfant est le régime sous lequel l’enfant qui est remis à ses parents, son tuteur ou son gardien, est suivi par des travailleurs sociaux. Elle constitue une mesure d’assistance, de protection, de surveillance et d’éducation.

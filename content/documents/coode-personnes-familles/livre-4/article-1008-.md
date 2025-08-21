@@ -1,0 +1,1 @@
+Sont régis par la loi du lieu d’ouverture de la succession, les opérations concernant l’option successorale, la mise en possession des héritiers, l’indivision successorale, le partage de l’actif et le règlement du passif.

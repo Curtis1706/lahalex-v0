@@ -1,0 +1,2 @@
+Les agents chargés d’effectuer des enquêtes maritimes procèdent à l’audition du capitaine et des membres de l’équipage et recueillent leurs dépositions. D’autres témoins peuvent également être entendus s’il apparaît que leurs dépositions sont utiles à la manifestation de la vérité.
+L’inspection du navire et des lieux sur lesquels s’est produit l’événement donnant lieu à enquête peut être également effectuée.

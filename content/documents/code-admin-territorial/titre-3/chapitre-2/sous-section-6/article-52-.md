@@ -1,0 +1,1 @@
+La commune prend toutes mesures de nature à favoriser le tourisme sur le territoire communal et à encourager les acteurs économiques intéressés à entreprendre des activités dans ce domaine.

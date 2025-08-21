@@ -1,0 +1,2 @@
+Obligation de transparence
+L’Autorité de régulation doit publier, dans un délai maximal de cinq (05) jours ouvrés suivant leur adoption ou finalisation, l’ensemble des décisions qu’elle adopte, son règlement intérieur, les licences, autorisations et cahiers des charges assortis des opérateurs, la liste des opérateurs déclarés, le plan national de fréquence à jour, le plan national de numérotation ainsi que son rapport d’activité annuel.

@@ -1,0 +1,2 @@
+Article 79 : Quiconque construit, modifie ou exploite un ouvrage ou une installation, réalise des travaux ou exerce une activité sans avoir souscrit à la déclaration prescrite par l’article 42 de la présente loi, est puni d’une amende de deux cent mille (200 000) à cinq cent mille (500 000) francs CFA.
+En cas de récidive, l’amende est portée au double.

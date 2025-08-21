@@ -1,0 +1,2 @@
+Tout capitaine ou armateur qui a embarqué ou débarqué une personne de l’équipage sans le faire constater sur le rôle d’équipage par l’autorité maritime, est puni, pour chaque personne irrégulièrement embarquée ou débarquée, d’une amende de deux cent cinquante mille (250.000) à un million cinq cent mille (1.500.000) francs.
+Les mêmes peines sont encourues pour chaque passager admis à bord sans avoir été inscrit, sur une liste annexée au rôle d’équipage dont le double est déposé entre les mains de l’autorité maritime.

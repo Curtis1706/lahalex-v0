@@ -1,0 +1,1 @@
+Les accusés en fuite, s’ils ne se présentent pas dans les dix (10) jours de la signification qui leur aura été faite à leur domicile de l'ordonnance ou de l'arrêt de renvoi, sont cités à comparaître dans les formes édictées en matière correctionnelle. Ils sont jugés par le tribunal statuant en matière criminelle ou la cour d’appel de droit commun.

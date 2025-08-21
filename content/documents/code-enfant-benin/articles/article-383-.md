@@ -1,0 +1,1 @@
+Article 383 : Quiconque offre, obtient ou utilise un enfant à des fins sexuelles contre rémunération ou toutes autres formes d’avantages est puni de cinq (05) ans à dix (10) ans d’emprisonnement et d’une amende de deux millions (2 000 000) à cinq millions (5 000 000) de francs CFA.

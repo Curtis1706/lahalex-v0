@@ -1,0 +1,1 @@
+Est puni d’une amende de cinq cent mille (500.000) à cinq millions (5 000 000) de francs, sans préjudice des réparations des dommages y relatifs, tout capitaine ou armateur de navire béninois qui, sans motif légitime, a refusé de déférer à la réquisition de l’autorité maritime pour rapatrier des nationaux béninois.

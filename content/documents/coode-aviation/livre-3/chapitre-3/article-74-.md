@@ -1,0 +1,4 @@
+Aucun appareil de radiotélégraphie ou de radiotéléphonie destiné à assurer les communications du service mobile aéronautique ne peut être installé et utilisé à bord d'un aéronef sans autorisation spéciale. Il en est de même des équipements de radionavigation ou de détection électromagnétique.
+Les aéronefs affectés à un service public de transport de voyageurs sont munis des appareils de radiocommunication nécessaires à la sécurité des vols dans des conditions réglementées.
+Dans tous les cas, les membres de l'équipage ayant à utiliser les appareils de radiotélégraphie ou de radiotéléphonie sont munis d'une licence de radionavigant ou d'une qualification de radiotéléphonie.
+L'utilisation des appareils visés à l’alinéa 3 du présent article est conforme à la réglementation en vigueur.

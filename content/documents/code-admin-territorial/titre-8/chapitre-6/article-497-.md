@@ -1,0 +1,1 @@
+Les mandatements sont constatés distinctement des engagements.

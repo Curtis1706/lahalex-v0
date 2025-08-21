@@ -1,0 +1,5 @@
+Les prévenus en liberté qui résident en dehors de la ville où siège la cour d’appel ont la faculté de déclarer qu’ils renoncent à comparaître.
+Ils font cette déclaration soit au greffier qui reçoit l’acte d’appel soit à l’huissier ou l’agent qui leur délivre la citation. Ils sont obligatoirement interpellés à ce sujet et il est fait mention de leur réponse soit dans l’acte d’appel soit sur l’original de la citation.
+Les prévenus appelants qui ont renoncé à comparaître lors de leur déclaration d’appel reçoivent notification de la date de l’audience, laquelle est fixée sans qu’il y ait à tenir compte des délais de distance.
+Les prévenus qui ont renoncé à comparaître peuvent se faire représenter par un avocat ou produire un mémoire.
+L’arrêt est contradictoire à leur égard s’ils ont été représentés. Il est réputé contradictoire s’ils n’ont pas été représentés.

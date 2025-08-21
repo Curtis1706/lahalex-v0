@@ -1,0 +1,2 @@
+Le partage peut comprendre tous les biens indivis ou une partie seulement de ces biens.
+Le partage d’un immeuble est réputé effectué, même s’il laisse subsister des parties communes impartageables ou destinées à rester dans l’indivision. Dans le silence de l’acte de partage, la quote-part des parties communes indivises afférentes à chaque lot est proportionnelle à la valeur relative de chaque partie privative par rapport à la valeur de l'ensemble desdites parties.

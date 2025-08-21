@@ -1,0 +1,1 @@
+Sont transmis, sans délai, à la bibliothèque nationale, dont ils constituent la propriété, pour y être conservés, les enregistrements, les vidéogrammes, les œuvres cinématographiques et phonographiques déposés auprès de la Haute Autorité de l’Audiovisuel et de la Communication.

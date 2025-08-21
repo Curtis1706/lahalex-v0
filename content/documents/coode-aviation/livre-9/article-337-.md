@@ -1,0 +1,2 @@
+S'il résulte des faits prévus à l'article 336 des blessures ou maladies, la peine encourue est la réclusion criminelle de dix ans à vingt ans.
+S'il est résulté de ces faits, la mort d'une ou de plusieurs personnes, la peine encourue est la réclusion criminelle à perpétuité.

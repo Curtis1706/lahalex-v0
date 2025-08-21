@@ -1,0 +1,6 @@
+Recherche et constatation des actes interdits
+Sans préjudice des compétences et attributions des officiers de police judiciaire, les agents habilités recherchent et constatent les infractions visées au présent chapitre.
+Les procès-verbaux dressés par ces agents font foi jusqu'à preuve du contraire. Une copie est adressée au contrevenant, par envoi recommandé avec accusé de réception, dans les quarante-cinq (45) jours à dater de la constatation des faits.
+Sans préjudice de leur subordination à l'égard de leurs supérieurs dans l'administration, les agents visés à l’alinéa 1 exercent les pouvoirs qui leur sont conférés en vertu du présent article sous la surveillance du procureur général pour ce qui concerne les tâches de recherche et de constatation de délits visés par les dispositions du présent Livre.
+Le procès-verbal visé à l’alinéa 2 du présent article n'est transmis au procureur de la République que lorsqu'il n'a pas été donné suite à l'avertissement.
+En cas d'application de l'article 638, le procès-verbal n'est transmis au procureur de la République que lorsque le contrevenant n'a pas accepté la proposition de transaction.

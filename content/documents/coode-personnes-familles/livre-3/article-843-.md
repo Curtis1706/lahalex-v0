@@ -1,0 +1,1 @@
+Tout contrat portant donation d’immeubles ou de droits immobiliers doit être passé par devant notaire dans la forme ordinaire des contrats ; il en dressera minute sous peine de nullité.

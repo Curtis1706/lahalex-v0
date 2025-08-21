@@ -1,0 +1,1 @@
+Le pilote qui ne s’est pas conformé aux prescriptions de l'article 65 de la présente loi encourt une amende maximale de dix millions (10 000 000) de francs CFA et un emprisonnement maximal d'un an.

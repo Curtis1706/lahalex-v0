@@ -1,0 +1,2 @@
+La commune est démembrée en unités administratives locales sans personnalité juridique ni autonomie financière. Ces unités administratives locales qui prennent les dénominations d'arrondissement, de village ou de quartier de ville sont dotées d'organes infra communaux fixés par la présente loi.
+La commune est divisée en arrondissements. Les arrondissements sont divisés en villages en milieu rural et quartiers de ville, en milieu urbain.

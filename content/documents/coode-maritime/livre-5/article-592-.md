@@ -1,0 +1,1 @@
+Peuvent être tranchés par arbitrage conformément au droit commun, tous litiges relatifs à l’inexactitude des obligations nées du contrat d’assurance et ceux relatifs à une omission ou déclaration inexacte de nature à influencer sensiblement l’opinion des assureurs sur le risque.

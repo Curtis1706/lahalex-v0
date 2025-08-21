@@ -1,0 +1,1 @@
+Le président de la cour ou du tribunal doit, après avoir prononcé la décision de condamnation assortie de sursis total ou partiel, avertir le condamné qu’en cas de nouvelle condamnation, la première peine sera exécutée sans confusion possible avec la seconde et que seront encourues, les peines de la récidive.

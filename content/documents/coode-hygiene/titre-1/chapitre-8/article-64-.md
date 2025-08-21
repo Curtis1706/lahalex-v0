@@ -1,0 +1,2 @@
+Toute personne qualifiée, désignée conjointement par le ministre chargé de la santé, le ministre chargé de l'environnement et le ministre chargé de l'eau, a libre accès à toute installation ou propriété destinée à la production, au stockage ou à la vente d'eau en vue de faire des prélèvements ou des constatations et des contrôles de la qualité de l'eau.
+La violation des dispositions de l'alinéa précédent est sanctionnée conformément aux dispositions de l'article 170 de la présente loi.

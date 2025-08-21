@@ -1,0 +1,4 @@
+Le juge d’instruction, le président de la chambre de l’instruction, le juge des libertés et de la détention, le président de la chambre des libertés et de la détention, le procureur de la République, le procureur général visitent les établissements pénitentiaires.
+De même, toute personne physique ou morale à qui les conventions internationales auxquelles la République du Bénin est partie, donnent pouvoir, a le droit de visiter les établissements pénitentiaires ou tout autre lieu de privation de liberté.
+Auprès de tout établissement pénitentiaire, est instituée une commission de surveillance dont la composition et les attributions sont déterminées par décret.
+Un décret fixe en outre les conditions dans lesquelles certaines personnes physiques ou morales peuvent être admises à visiter les détenus.

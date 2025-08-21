@@ -1,0 +1,2 @@
+Chacun des époux est créancier de tout ce dont il a enrichi la communauté à ses dépens.
+Toutes les fois que l’un des époux a tiré un profit personnel des biens de la communauté, il en doit la récompense.

@@ -1,0 +1,4 @@
+L’arrêté de libération conditionnelle fixe, s’il y a lieu, les modalités d’exécution et les conditions auxquelles l’octroi ou le maintien de la liberté est subordonné, ainsi que la nature et la durée des mesures d’assistance et de contrôle.
+Cette durée ne peut être inférieure à la durée de la peine non subie au moment de la libération s’il s’agit d’une peine temporaire ; elle peut la dépasser pour une période maximum d’un (01) an.
+Toutefois, lorsque la peine en cours d’exécution est une peine perpétuelle, la durée des mesures d’assistance et de contrôle est fixée pour une période qui ne peut être inférieure à cinq (05) années ni supérieure à dix (10) années.
+Pendant toute la durée de la liberté conditionnelle, les dispositions de l’arrêté de libération peuvent être modifiées.

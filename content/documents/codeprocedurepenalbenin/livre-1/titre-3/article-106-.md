@@ -1,0 +1,3 @@
+L’inculpé, la partie civile ou toute autre personne qui prétend avoir droit sur un objet placé sous main de justice, peut en réclamer la restitution au juge d’instruction.
+Si la demande émane de l’inculpé ou de la partie civile, elle est communiquée à l’autre partie ainsi qu’au ministère public. Si elle émane d’un tiers, elle est communiquée à l’inculpé, à la partie civile et au ministère public.
+Les observations qu’elle peut comporter doivent être produites dans les trois (03) jours de cette communication.

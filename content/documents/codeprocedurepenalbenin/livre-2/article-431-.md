@@ -1,0 +1,1 @@
+Les dispositions de l’article 428 alinéas 1<sup>er</sup>, 2 et 4 du présent code, sont applicables chaque fois que le débat sur le fond de la prévention ne doit pas être abordé, et spécialement quand le débat ne doit porter que sur les intérêts civils.

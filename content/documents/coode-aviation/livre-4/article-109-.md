@@ -1,0 +1,1 @@
+L'enquête réalisée conformément aux dispositions de la présente loi est distincte de toute action judiciaire ou administrative visant à déterminer les fautes ou les responsabilités.

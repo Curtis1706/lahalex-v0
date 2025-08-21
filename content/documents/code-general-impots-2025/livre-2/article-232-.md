@@ -1,0 +1,1 @@
+Sont soumises à la taxe sur la valeur ajoutée, toutes les affaires réalisées en République du Bénin, quand bien même le domicile ou le siège social de l’assujetti serait situé en dehors des limites territoriales.

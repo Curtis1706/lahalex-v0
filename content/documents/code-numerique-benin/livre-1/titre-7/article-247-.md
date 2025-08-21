@@ -1,0 +1,2 @@
+Utilisation de services obtenus frauduleusement
+Toute personne qui utilise sciemment les services obtenus au moyen du délit visé à l’article précédent est punie d’un emprisonnement de six (06) mois à vingt-quatre (24) mois et d’une amende de deux millions (2 000 000) à cinq millions (5 000 000) de francs CFA ou de l’une de ces deux peines seulement.

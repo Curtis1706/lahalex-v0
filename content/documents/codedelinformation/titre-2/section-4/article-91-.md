@@ -1,0 +1,1 @@
+Un organisme public peut refuser de laisser consulter ou de communiquer un document administratif dont la consultation ou la communication est susceptible de porter atteinte au secret-défense ou à la politique extérieure de la République du Bénin.

@@ -1,0 +1,4 @@
+Dans le cas où le budget de la commune ou de l'établissement public de coopération intercommunale n'est pas adopté, validé et approuvé avant le 1<sup>er</sup>janvier de l'exercice auquel il s'applique, l'ordonnateur peut, jusqu'à l'adoption de ce budget, mettre en recouvrement les recettes, sur la base des autorisations de l'année précédente.
+En conséquence, il peut mensuellement engager, liquider et mandater les dépenses de la section de fonctionnement dans la limite du douzième de celles inscrites au budget de l'année précédente.
+Il peut mandater les dépenses afférentes au remboursement en capital des annuités de la dette venant à échéance avant le vote du budget.
+Il peut jusqu'à l'adoption du budget ou jusqu'au 31 mars, engager, liquider et mandater des dépenses d'investissement conformément aux dispositions des articles 418 et 419 de la présente loi.

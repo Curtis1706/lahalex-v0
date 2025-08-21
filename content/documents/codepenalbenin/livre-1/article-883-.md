@@ -1,0 +1,5 @@
+Quiconque aura conduit un troupeau dans les parties du domaine forestier non ouvertes au parcours sera condamné à une amende de cinq mille (5.000) francs CFA à cinquante mille (50.000) francs CFA et d’un emprisonnement de trois (03) mois à trois (03) ans ou de l’une de ces deux peines seulement, sans préjudice des dommages-intérêts.
+Au cas où le troupeau est conduit par un mineur, le propriétaire ou l’éleveur sera considéré comme co-auteur.
+Dans tous les cas, les propriétaires ou éleveurs seront civilement responsables des condamnations pécuniaires prononcées contre leurs préposés.
+Les animaux trouvés en pâturage ou au passage irrégulier dans le domaine forestier non ouvert au parcours pourront être mis en fourrière et leur confiscation pourra être ordonnée.
+Si l’infraction est commise de nuit, si elle a lieu sur un terrain reboisé, les peines prévues au présent article seront portées au double.

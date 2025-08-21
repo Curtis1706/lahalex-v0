@@ -1,0 +1,1 @@
+Les dispositions précédentes concernant les droits à la pension d'ancienneté ou proportionnelle ne sont pas applicables aux militaires de réserve rappelés ainsi qu'aux militaires appelés.

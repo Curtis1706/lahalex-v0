@@ -1,0 +1,2 @@
+La béninisation est la formalité administrative qui confère au navire le droit de porter le pavillon béninois avec les privilèges qui s’y rattachent.
+Cette opération administrative est constatée par l’acte de béninisation délivré par l’autorité maritime. Ce document doit se trouver à bord de tout navire béninois prenant la mer.

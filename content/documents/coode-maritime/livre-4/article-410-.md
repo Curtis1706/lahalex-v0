@@ -1,0 +1,1 @@
+Le crédit documentaire fait établir un contrat commercial entre le vendeur/exportateur et l’acheteur/importateur, prévoyant paiement par accréditif.

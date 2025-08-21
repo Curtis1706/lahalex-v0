@@ -1,0 +1,1 @@
+Toute personne qui, ayant assisté à un accouchement, n’a pas fait la déclaration à elle prescrite par les dispositions du code des personnes et de la famille et dans les délais fixés par le même code, est punie d’une amende de cinquante mille (50.000) francs CFA à deux cent cinquante mille (250.000) francs CFA.

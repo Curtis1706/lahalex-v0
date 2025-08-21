@@ -1,0 +1,1 @@
+Les jugements et arrêts civils et commerciaux étrangers, patrimoniaux et extrapatrimoniaux n’ont force exécutoire que s’ils ont été déclarés exécutoires au terme d’une procédure d’exequatur, sous réserve des traités de coopération en matière judiciaire.

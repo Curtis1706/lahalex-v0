@@ -1,0 +1,1 @@
+L'utilisation des attributs, biens ou moyens de l'Etat, d'une personne morale publique, des institutions ou organismes publics aux mêmes fins est et reste interdite un (01) an avant tout scrutin et jusqu'à son terme, notamment ceux des sociétés, offices, projets d'Etat et d'institutions internationales, sous peine des sanctions prévues au code pénal.

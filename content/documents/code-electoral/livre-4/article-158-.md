@@ -1,0 +1,2 @@
+A l'exception des missions des Organisations interparlementaires, le député ne peut accepter une mission temporaire d'un Etat étranger ou d'une Organisation internationale que sur une décision du Bureau de l'Assemblée Nationale après avis consultatif du Chef de l'Etat.
+Les dispositions de l'article 157 ci-dessus lui sont alors applicables.

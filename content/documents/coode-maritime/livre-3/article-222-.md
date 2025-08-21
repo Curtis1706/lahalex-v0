@@ -1,0 +1,2 @@
+Le contrat d’engagement maritime, inscrit ou annexé au rôle d’équipage, est obligatoirement visé par le directeur de la marine marchande.
+Le directeur de la marine marchande ne peut régler les conditions de l’engagement, mais a le droit de refuser son visa lorsque le contrat contient une clause contraire aux dispositions d’ordre public.

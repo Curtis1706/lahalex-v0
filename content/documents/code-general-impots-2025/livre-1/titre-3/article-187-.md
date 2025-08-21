@@ -1,0 +1,1 @@
+Les contribuables soumis à la taxe professionnelle synthétique peuvent bénéficier de l’assistance du médiateur fiscal dans les conditions fixées par arrêté du ministre chargé des finances.

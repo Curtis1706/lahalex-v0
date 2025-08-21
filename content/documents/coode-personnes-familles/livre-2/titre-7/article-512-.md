@@ -1,0 +1,1 @@
+Lors de l’entrée en exercice de toute tutelle, le conseil de famille réglera, par aperçu et selon l'importance des biens du mineur, la somme annuellement disponible pour l’entretien et l’éducation du pupille, les dépenses d’administration et, éventuellement, les indemnités qui pourront être allouées au tuteur.

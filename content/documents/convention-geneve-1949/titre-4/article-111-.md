@@ -1,0 +1,2 @@
+La Puissance détentrice, la Puissance dont dépendent les prisonniers de Internement guerre et une Puissance neutre agréée par ces deux Puissances s’efforceront de en pays conclure des accords qui permettront l’internement des prisonniers de guerre neutre
+sur le territoire de ladite Puissance neutre jusqu’à la cessation des hostilités.

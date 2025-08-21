@@ -1,0 +1,1 @@
+Si la Cour Constitutionnelle déclare que l’exception d’inconstitutionnalité est soulevée manifestement dans un but dilatoire ou de manière abusive, la partie auteur de l’exception peut être condamnée à une amende de deux cent mille (200 000) à cinq cent mille (500 000) francs CFA sans préjudice des dommages-intérêts qui lui seraient réclamés.

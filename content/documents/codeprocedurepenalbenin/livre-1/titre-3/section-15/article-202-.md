@@ -1,0 +1,1 @@
+Lorsqu’il est interjeté appel d’une ordonnance autre qu’une ordonnance de règlement, le juge d’instruction poursuit son information, sauf décision contraire de la chambre de l’instruction.

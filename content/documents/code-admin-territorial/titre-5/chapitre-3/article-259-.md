@@ -1,0 +1,1 @@
+Le contribuable saisit l'autorité de tutelle, par un mémoire détaillé dont il lui est délivré récépissé. L’autorité de tutelle après examen du mémoire dans un délai de trente (30) jours à compter de la date de sa saisine, prend les mesures indiquées à l'article 257 de la présente loi.

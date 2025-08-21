@@ -1,0 +1,2 @@
+Il est créé au sein de l'Union un organe consultatif dénommé Chambre Consulaire Régionale, regroupant les chambres consulaires des Etats membres et dont les modalités de fonctionnement seront fixées par voie d'acte additionnel de la Conférence des Chefs d'Etat et de Gouvernement.
+D'autres organes consultatifs pourront être créés, en tant que de besoin, par voie d'acte additionnel de la Conférence des Chefs d'Etat et de Gouvernement.

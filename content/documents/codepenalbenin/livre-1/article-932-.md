@@ -1,0 +1,1 @@
+Est puni d’un emprisonnement de un (01) mois à trois (03) mois et d’une amende de dix mille (10.000) francs CFA à cinquante mille (50.000) francs CFA ou de l’une de ces deux peines seulement, quiconque, en violation des dispositions du présent code aura procédé au défrichement et à la mise en culture des zones réservées au pâturage.

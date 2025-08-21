@@ -1,0 +1,3 @@
+Article 536 : Autorisation - Décès, Démission
+En cas de décès ou de démission du représentant légal ou du gérant d’une société de courtage, celle-ci doit dans un délai de trois mois, à compter du décès ou de la démission, soumettre à l’approbation du Ministre en charge du secteur des Assurances la candidature d’un nouveau représentant légal ou d’un nouveau gérant.
+### CHAPITRE 3 : RESPONSABILITE PROFESSIONNELLE

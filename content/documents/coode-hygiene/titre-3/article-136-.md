@@ -1,0 +1,1 @@
+Les dispositions du présent chapitre s'appliquent sans préjudice des dispositions relatives au bruit de la loi-cadre sur l'environnement en République du Bénin et de ses règlements d'application.

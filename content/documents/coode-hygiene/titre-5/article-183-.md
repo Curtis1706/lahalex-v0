@@ -1,0 +1,1 @@
+Les établissements déjà existants destinés à la production, à la manipulation ou au stockage des denrées alimentaires disposent d'un délai de trois (03) mois après la promulgation de la présente loi, pour se conformer aux dispositions de l'article 86.

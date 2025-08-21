@@ -1,0 +1,2 @@
+Les infractions aux dispositions de la loi portant règlementation phytosanitaire en République du Bénin relatives aux produits phytopharmaceutiques sont sanctionnées par une amende de deux cent cinquante mille (250.000) francs CFA et d’un emprisonnement de six (06) mois à vingt-quatre (24) mois ou de l’une de ces deux peines seulement.
+En cas de récidive, ces peines seront portées au double des maxima fixés ci-dessus.

@@ -1,0 +1,2 @@
+Ne donnent lieu à aucune indemnité, des blessures ou maladies résultant d’un fait intentionnel du marin qui conserve seulement le droit à la nourriture et aux soins pour compter du jour de la cessation de travail jusqu’à son débarquement.
+Lorsque ce débarquement a lieu à l’étranger, le capitaine doit prendre toutes les dispositions pour faire assurer les soins et le rapatriement du marin. Toutefois, l’armateur dispose d’un droit de recours à l’encontre de ce dernier.

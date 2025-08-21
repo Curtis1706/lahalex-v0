@@ -1,0 +1,1 @@
+Chaque copropriétaire peut hypothéquer sa part dans les conditions et formes prévues aux articles 125 à 139 du présent code.

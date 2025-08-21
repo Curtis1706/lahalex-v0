@@ -1,0 +1,1 @@
+« Le mariage précoce et le mariage forcé sont punis de la réclusion criminelle de dix (10) à vingt (20) ans et d'une amende de (500 000) à deux millions (2 000 000) de francs CFA ».

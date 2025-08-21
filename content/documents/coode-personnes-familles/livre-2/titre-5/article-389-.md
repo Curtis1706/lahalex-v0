@@ -1,0 +1,2 @@
+A la mort de l’époux débiteur, la charge de la pension passe à ses héritiers.
+Cette obligation cesse si le débiteur d’aliments établit qu’il n’a plus de ressources ou si le créancier d’aliments se remarie ou vit en état de concubinage notoire.

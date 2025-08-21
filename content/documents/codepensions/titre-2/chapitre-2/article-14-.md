@@ -1,0 +1,2 @@
+Les hommes de rang des personnels militaires des Forcés Armées Populaires ne pouvant servir au-delà de 20 ans bénéficient d’une bonification du 1/5è du temps de services militaires effectifs.
+Le temps de service accompli au cours d''une guerre ou d'une expédition déclarée campagne de guerre ouvre droit à une bonification égale au double de sa durée, aux militaires placés sous les ordres du Général Commandant en Chef et ayant, en même temps, servi dans la zone des Armées.

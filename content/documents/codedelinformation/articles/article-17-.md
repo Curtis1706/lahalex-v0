@@ -1,0 +1,2 @@
+La Haute Autorité de l’Audiovisuel et de la Communication assure, d’une manière générale, le respect de l’expression pluraliste des courants de pensée et d’opinion dans la presse et la communication audiovisuelle, notamment en ce qui concerne les émissions d’information politique.
+En cas de manquement grave aux obligations, elle adresse des observations aux dirigeants de l’organe de presse défaillant et, le cas échéant, leur inflige des sanctions conformément aux dispositions de la loi organique relative à la Haute Autorité de l’Audiovisuel et de la Communication.

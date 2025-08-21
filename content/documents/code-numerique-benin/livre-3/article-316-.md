@@ -1,0 +1,4 @@
+Responsabilité des titulaires de certificats
+Dès la création des données relatives à la signature ou au cachet électronique, le titulaire du certificat devient responsable de la confidentialité de ces données.
+En cas de doute ou de risque de violation de la confidentialité des données relatives à la signature ou au cachet électronique, ou en cas de défaut de conformité par rapport aux informations contenues dans le certificat, le titulaire est tenu de faire révoquer le certificat.
+Lorsqu'un certificat est arrivé à échéance ou a été révoqué, le titulaire ne peut, après l'expiration du certificat ou après sa révocation, utiliser les données relatives à la signature pour signer ou faire certifier ces données par un autre prestataire de services de confiance.

@@ -1,0 +1,1 @@
+Est puni de la réclusion criminelle à temps de dix (10) ans à vingt (20) ans, quiconque s’est livré ou a participé à une transaction illicite ayant pour objet le prélèvement ou la cession d’organes ou d’ossements humains.

@@ -1,0 +1,1 @@
+Il est institué un fond de roulement commun à l’ensemble des branches du régime ; son montant ne peut être inférieur à trois fois et supérieur à six fois la moyenne mensuelle des dépenses de la Caisse constatée au cours de l’exercice précédent.

@@ -1,0 +1,4 @@
+Article 259 : Délits et crimes
+En cas de délit commis par des mineurs et des majeurs, tous sont renvoyés devant le tribunal pour enfants.
+Lorsqu’il s’agit de crime impliquant des majeurs et des mineurs, le juge d’instruction chargé des mineurs_,_ transmet par ordonnance au procureur général, un des deux exemplaires du dossier, pour que soit suivie contre les majeurs, conformément au code de procédure pénale, la procédure appropriée. L’autre exemplaire du dossier est transmis au tribunal pour enfants.
+Dans le cas prévu à l’alinéa précédent, l’action civile est portée devant la cour d’assises qui statue à la fois à l’encontre des majeurs et des mineurs.

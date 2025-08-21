@@ -1,0 +1,1 @@
+L’ordonnance de placement en détention du juge des libertés et de la détention est susceptible d’appel dans les formes et délai prévus à l’article 200 du présent code.

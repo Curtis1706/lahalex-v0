@@ -1,0 +1,4 @@
+Sessions
+1. La Conférence se réunit en session ordinaire deux (2) fois par an. Elle peut être convoquée en session extraordinaire à l'initiative de son Président ou à la demande d'un Etat Membre, sous réserve de l'approbation de cette demande par la majorité simple des Etats Membres.
+1. La présidence de la Conférence est assurée chaque année par l’un des Chefs d'Etat ou de Gouvernement selon l'ordre alphabétique français de désignation officielle des Etats membres.
+1. En cas d’adhésion de nouveaux Etats à la Communauté, leurs Chefs d’Etat assurent la présidence de la Conférence à la suite de l'Etat membre signataire du présent Traité placé le dernier dans l'ordre alphabétique évoqué ci-dessus.

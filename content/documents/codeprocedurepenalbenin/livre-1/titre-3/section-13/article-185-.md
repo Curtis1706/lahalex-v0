@@ -1,0 +1,5 @@
+S’il apparaît au juge d’instruction ou aux parties qu’un acte ou une pièce de la procédure est frappé de nullité, il saisit la chambre de l’instruction aux fins d’annulation, après avoir pris l’avis du procureur de la République et avoir informé les parties.
+Si le procureur de la République estime qu’une nullité a été commise, il requiert du juge d’instruction communication de la procédure en vue de sa transmission à la chambre de l’instruction, présente une requête aux fins d’annulation à cette chambre et en informe les parties.
+S’il apparaît aux parties ou à leur(s)avocat(s) qu’une nullité a été commise, elles saisissent la chambre de l’instruction par requête motivée dont elles adressent copie au juge d’instruction qui transmet le dossier au président de la chambre de l’instruction.
+La requête doit, à peine d’irrecevabilité, faire l’objet d’une déclaration au greffe de la juridiction compétente ainsi qu’il est procédé en cas d’appel.
+Dans l’un et l’autre cas, la chambre de l’instruction procède comme il est dit à l’article 225 du présent code.

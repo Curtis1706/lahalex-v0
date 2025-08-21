@@ -1,0 +1,1 @@
+Si le juge d’instruction estime que les faits constituent une contravention, il prononce le renvoi de l’affaire devant le tribunal de première instance et le prévenu est mis en liberté.

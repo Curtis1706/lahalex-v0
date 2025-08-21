@@ -1,0 +1,1 @@
+Lorsque le tribunal ou la cour ne fait pas droit aux réquisitions du ministère public ; ni l'instruction, ni le jugement ne sont arrêtés ou suspendus.

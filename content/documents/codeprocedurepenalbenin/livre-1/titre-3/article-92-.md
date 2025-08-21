@@ -1,0 +1,6 @@
+Le juge d’instruction ordonne communication de la plainte ainsi que des pièces au procureur de la République pour que ce magistrat prenne ses réquisitions.
+Le réquisitoire peut être pris contre personne dénommée ou non dénommée.
+Le procureur de la République ne peut saisir le juge d’instruction de réquisition de non informé que si, pour des causes affectant l’action publique elle-même, les faits ne peuvent légalement comporter une poursuite ou si, à supposer ces faits démontrés, ils ne peuvent admettre aucune qualification pénale.
+Dans le cas où le juge d’instruction passe outre, il doit statuer par une ordonnance motivée.
+En cas de plainte insuffisamment motivée ou insuffisamment justifiée par les pièces produites, le juge d’instruction peut aussi être saisi de réquisition tendant à ce qu’il soit provisoirement informé contre toute personne que l’instruction fera connaître.
+Dans ce cas, celui ou ceux qui se trouvent visés par la plainte peuvent être entendus comme témoins par le juge d’instruction, sous réserve des dispositions de l’article 111 dont il devra leur donner connaissance, jusqu’au moment où pourront intervenir des inculpations ou, s’il y a lieu, de nouvelles réquisitions contre personne dénommée.

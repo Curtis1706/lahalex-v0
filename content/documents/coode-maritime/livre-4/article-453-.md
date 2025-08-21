@@ -1,0 +1,1 @@
+Si l’abordage est fortuit, s’il est dû à un cas de force majeure ou s’il y a doute sur les causes de l’accident, les dommages sont supportés par ceux qui les ont subis, sans qu’il y ait à distinguer le cas où les navires, les bâtiments de navigation intérieure ou seulement l’un d’eux a été au mouillage au moment de l’abordage.

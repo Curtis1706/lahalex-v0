@@ -1,0 +1,2 @@
+Les poursuites peuvent être exercées contre l’étranger devant le tribunal, soit du lieu de son domicile, soit du lieu où il a été arrêté, ou du lieu de sa dernière résidence connue en République du Bénin.
+Toutefois, la cour suprême peut, sur réquisitions du procureur général près ladite cour, ordonner le renvoi de l’affaire devant une autre juridiction, dans l’intérêt d’une bonne administration de la justice.

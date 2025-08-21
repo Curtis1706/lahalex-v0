@@ -1,0 +1,1 @@
+Sous réserve des dispositions des articles 344 et 472 du présent code, les infractions commises à l’audience sont jugées d’office ou sur les réquisitions du ministère public, suivant les dispositions ci-après, nonobstant toutes règles spéciales de compétence ou de procédure.

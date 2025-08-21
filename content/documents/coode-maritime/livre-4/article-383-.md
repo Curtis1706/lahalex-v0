@@ -1,0 +1,1 @@
+Toute action contre le transporteur, à raison de pertes ou de dommages est prescrite, dans le cas de perte totale, un (01) an à dater du jour où les marchandises auraient dû être livrées et dans les autres cas, du jour où elles ont été remises ou offertes au destinataire ou à son représentant.

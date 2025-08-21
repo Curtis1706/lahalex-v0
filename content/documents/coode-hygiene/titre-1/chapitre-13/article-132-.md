@@ -1,0 +1,1 @@
+Il est interdit d'ériger une habitation ou de creuser un puits à moins de cent (100) mètres d'un cimetière.

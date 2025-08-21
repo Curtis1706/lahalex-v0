@@ -1,0 +1,14 @@
+{
+  "id": "article-120-",
+  "title": "Article 120 :",
+  "numero": "120 ",
+  "document": "coode-personnes-familles",
+  "path": [
+    "livre-2"
+  ],
+  "navigation": {
+    "parent": "livre-2",
+    "previous": "article-119-nouveau--loi-n-2021-13--",
+    "next": "article-121-"
+  }
+}

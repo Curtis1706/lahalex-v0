@@ -1,0 +1,2 @@
+Les nouvelles et les informations publiées, de bonne foi, doivent être spontanément rectifiées par le journaliste, dès lors que celles-ci se révèlent fausses ou inexactes. Aussi le journaliste se plie-t-il à l’exercice du droit de réponse de l’offensé.
+Il ne peut exercer ni chantage, ni règlement de compte par la publication ou non d’une information.

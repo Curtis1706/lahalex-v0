@@ -1,0 +1,1 @@
+L'arrondissement, subdivision de la commune, est doté d'un organe dénommé Conseil d'arrondissement composé du chef d'arrondissement qui en est le président, des autres Conseillers d'arrondissement élus, des chefs de village et/ou de quartier de ville.

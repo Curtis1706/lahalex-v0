@@ -1,0 +1,2 @@
+La police judiciaire est exercée sous la direction du procureur de la République par les officiers, fonctionnaires et agents désignés au présent titre.
+Elle est placée dans le ressort de chaque cour d’appel, sous la surveillance du procureur général et sous le contrôle de la chambre de l’instruction conformément aux articles 243 et suivants du présent code.

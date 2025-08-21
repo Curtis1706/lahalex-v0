@@ -1,0 +1,14 @@
+{
+  "id": "article-1-",
+  "title": "Article 1 : Définitions",
+  "numero": "1 ",
+  "document": "code-marche-public",
+  "path": [
+    "titre-1",
+    "chapitre-1"
+  ],
+  "navigation": {
+    "parent": "chapitre-1",
+    "next": "article-2-"
+  }
+}

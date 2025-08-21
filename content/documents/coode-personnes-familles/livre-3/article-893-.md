@@ -1,0 +1,2 @@
+Les testaments faits dans un lieu avec lequel toute communication est interrompue à cause de maladies ou tout autre phénomène contagieux, peuvent être faits devant l’un des officiers municipaux de la commune, en présence de deux témoins.
+Cette disposition a lieu tant à l’égard de ceux qui seraient atteints de ces maladies que de ceux qui seraient dans les lieux infectés, encore qu'ils ne fussent pas actuellement malades.

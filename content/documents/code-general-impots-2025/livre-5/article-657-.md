@@ -1,0 +1,6 @@
+1) Les huissiers, greffiers, commissaires-priseurs, notaires, syndics de faillite, séquestres et tous autres dépositaires publics de deniers ne peuvent remettre aux héritiers, créanciers et autres personnes ayant droit de toucher les sommes séquestrées et déposées qu’en justifiant du paiement des impôts sur les revenus dus par les personnes du chef desquelles lesdites sommes seront provenues.
+2) Sont autorisés, en tant que de besoin, lesdits séquestres et dépositaires à payer
+directement les impôts qui se trouveraient dus avant de procéder à la délivrance des deniers.
+3) Ces dispositions s’appliquent également aux liquidateurs de sociétés dissoutes.
+3) Les obligations imposées aux tiers tenus au paiement en vertu des dispositions du
+présent  article  s’étendent,  avant  la  mise  en  recouvrement  des  titres  exécutoires,  au règlement  de  toutes  les  sommes  qui  doivent  être  payées  spontanément  par  les contribuables  au  titre  des  retenues  à  la  source  et  des  versements  à  effectuer  par anticipation ou par acomptes provisionnels ou en vertu de dispositions fiscales particulières.

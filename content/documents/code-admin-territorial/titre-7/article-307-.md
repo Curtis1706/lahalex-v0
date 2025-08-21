@@ -1,0 +1,1 @@
+Toute convocation comporte les points inscrits à l'ordre du jour de la session. Elle est adressée aux conseillers par écrit huit (08) jours avant la tenue de la session. Ce délai est réduit à trois (03) jours en cas d'urgence indiquée par le président.

@@ -1,0 +1,5 @@
+Pour le jugement des délits, est compétent le tribunal du lieu de l’infraction, celui de la résidence du prévenu, celui du lieu d’arrestation ou de détention de ce dernier, même lorsque cette arrestation ou détention a été opérée pour une autre cause.
+Au cas où aucun de ces liens de rattachement prévus à l’alinéa 1<sup>er</sup> n’est déterminé, le tribunal de première instance de Cotonou est compétent.
+Pour le jugement du délit d’abandon de famille, est compétent, le tribunal du domicile ou de la résidence de la personne qui doit recevoir la pension ou bénéficier des subsides.
+La compétence du tribunal s’étend aux délits et contraventions qui forment, avec l’infraction déférée au tribunal, un ensemble indivisible. Elle peut aussi s’étendre aux délits et contraventions connexes au sens de l’article 222 du présent code.
+Sous réserve des dispositions de l’alinéa précédent, la connaissance des contraventions est attribuée exclusivement au tribunal du lieu de l’infraction.

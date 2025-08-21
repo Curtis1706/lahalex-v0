@@ -1,0 +1,16 @@
+{
+  "id": "article-184-",
+  "title": "Article 184 :",
+  "numero": "184 ",
+  "document": "codeprocedurepenalbenin",
+  "path": [
+    "livre-1",
+    "titre-3",
+    "section-13"
+  ],
+  "navigation": {
+    "parent": "section-13",
+    "previous": "article-183-",
+    "next": "article-185-"
+  }
+}

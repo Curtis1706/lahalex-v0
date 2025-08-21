@@ -1,0 +1,1 @@
+Les exploitants de systèmes d’accès sous condition utilisent des procédés techniques permettant aux distributeurs d’offres groupées de services, dans des contextes économiques raisonnables, de distribuer les services par voie de signaux numériques sur le réseau qu’ils utilisent au moyen de systèmes d’accès sous condition de leur choix.

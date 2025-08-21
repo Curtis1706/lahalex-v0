@@ -1,0 +1,1 @@
+Selon l’importance et la faille de l'arrondissement, le secrétaire administratif d'arrondissement est assisté d’un ou de plusieurs agents administratifs placés sous sa subordination hiérarchique.

@@ -1,0 +1,1 @@
+Les communes et les établissements publics de coopération intercommunale peuvent créer, exploiter ou faire exploiter des services publics à caractère industriel et commercial dont les conditions de fonctionnement sont similaires à celles des entreprises privées.

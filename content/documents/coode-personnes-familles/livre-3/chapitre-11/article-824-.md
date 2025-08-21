@@ -1,0 +1,1 @@
+La donation faite avec dispense de rapport à un héritier réservataire s’impute sur la quotité disponible et subsidiairement sur la part de réserve de cet héritier.

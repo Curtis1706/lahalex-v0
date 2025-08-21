@@ -1,0 +1,2 @@
+Dans le cas où le fait qui a procuré les choses recelées a été commis avec une ou plusieurs circonstances aggravantes, le receleur sera puni de la peine attachée par la loi au crime ou au délit et aux circonstances du crime ou du délit dont il aura eu connaissance au temps du recel.
+L’amende prévue par l’article 839 ci-dessus pourra toujours être prononcée.

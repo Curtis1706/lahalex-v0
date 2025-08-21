@@ -1,0 +1,2 @@
+Dans les centres de détention, un lit individuel et une literie appropriée sont mis à la disposition de chaque détenu.
+Le lit et la literie sont entretenus et renouvelés de manière à en assurer la propreté.

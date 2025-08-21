@@ -1,0 +1,3 @@
+_(Règlement 2015-02)_ Contrôle - Principe et étendue
+Sont soumises au contrôle, les entreprises de réassurance dont le siège social se situe sur le territoire d’un État membre de la CIMA, les succursales de réassurance, les bureaux de souscription, de représentation ou de liaison exerçant sur le territoire d’un État membre de la CIMA.
+Les modalités de mise en œuvre du contrôle des entreprises de réassurance multilatérales ou panafricaines auxquelles appartiennent un ou plusieurs États membres font l’objet d’un texte complémentaire.

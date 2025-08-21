@@ -1,0 +1,2 @@
+Chacun des époux a le droit d’exercer la profession de son choix.
+Il peut, seul, pour les besoins de sa profession, souscrire des obligations et aliéner, à l’exclusion des biens communs, ses biens personnels en pleine propriété, même en cas d’exercice d’une profession commerciale.

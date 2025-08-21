@@ -1,0 +1,1 @@
+La décision de la Haute Autorité de l’Audiovisuel et de la Communication (HAAC) est notifiée aux parties et publiée au Journal Officiel.

@@ -1,0 +1,4 @@
+Les actions en réparation de dommages causés par un abordage aux personnes et aux biens se prescrivent par deux (02) ans à compter de l’événement.
+Les actions récursoires se prescrivent par un (01) an à partir du paiement.
+Toute action en paiement d’une rémunération du chef d’assistance ou de sauvetage est prescrite par deux (02) ans à partir du jour où les opérations d’assistance et de sauvetage sont terminées.
+Toute demande en contribution pour avaries communes est prescrite par deux (02) ans après l’arrivée du navire à destination ou au lieu de la rupture du voyage. Elle se prescrit par quinze (15) ans si un répartiteur est désigné.

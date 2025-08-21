@@ -1,0 +1,2 @@
+Les échanges de biens immeubles sont assujettis à un droit de 2%.
+Le droit est perçu sur la valeur d’une des parts, lorsqu’il n’y a aucun retour. S’il y a retour, le droit est payé à raison de 2% sur la moindre portion et comme pour les mutations immobilières à titre onéreux sur le retour ou la soulte.

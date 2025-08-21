@@ -1,0 +1,2 @@
+Les articles 296, 297 et 299 ne sont applicables aux diffamations ou injures dirigées contre la mémoire des morts que dans les cas où les auteurs de ces diffamations ou injures auraient eu l’intention de porter atteinte à l’honneur ou à la considération des héritiers, époux ou légataires universels vivants.
+Ceux-ci pourront user, dans les deux cas, du droit de réponse prévu aux articles 134 à 151.

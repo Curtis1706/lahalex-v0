@@ -1,0 +1,4 @@
+La chambre de l’instruction et la chambre des libertés et de la détention sont des sections de la cour d’appel, composées d’un (01) président et de deux (02) magistrats désignés pour l’année judiciaire par le président de ladite cour.
+Le président est obligatoirement choisi parmi les membres de la cour d’appel.
+En cas d’empêchement du président, il est pourvu à son remplacement par une ordonnance du président de la cour d’appel.
+Les assesseurs empêchés sont remplacés par des magistrats en service à la cour d’appel ou au tribunal de première instance du siège désignés par ordonnance du président de la cour d’appel.

@@ -1,0 +1,1 @@
+2 est interdit à tout navire de rejeter dans les zones maritimes béninoises des hydrocarbures ou des mélanges d’hydrocarbures sauf lorsque se trouvent réunies toutes les conditions prévues par les conventions internationales.

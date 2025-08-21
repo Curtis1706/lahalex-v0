@@ -1,0 +1,4 @@
+Article 59 : Maternité par pratique de mère porteuse
+La maternité de substitution ou la pratique de mère porteuse encore appelée gestation pour autrui n’est admise que si l’épouse est déclarée médicalement inapte à porter une grossesse.
+Les époux qui désirent bénéficier de la maternité de substitution doivent se présenter devant le juge pour signer, avant la conception, un accord avec la mère porteuse.
+Le juge ne peut faire droit à cet accord que si l’enfant sera conçu, avec au minimum, les gamètes de l’un des deux (02) membres du couple et si la mère porteuse a déjà eu au moins deux (02) enfants.

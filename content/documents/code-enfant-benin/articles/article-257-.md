@@ -1,0 +1,4 @@
+Article 257 : Enquête sociale sur l'enfant
+Le juge d’instruction chargé des mineurs recueille, par une enquête sociale, des renseignements sur la situation matérielle et morale de l’enfant poursuivi, sur le caractère, sur les antécédents et la personnalité de l’enfant, sur sa fréquentation scolaire, sur son attitude à l’école, sur les conditions dans lesquelles il a vécu et a été élevé, sur les moyens appropriés à sa rééducation, ainsi que sur la situation morale et matérielle de ses parents.
+Cette enquête est complétée, s’il y a lieu, par un examen médical, médicopsychologique ou psychiatrique.
+Le juge d’instruction chargé des mineurs_,_ en cas de doute, recourt à l’expertise médicale pour déterminer l’âge de l’enfant.

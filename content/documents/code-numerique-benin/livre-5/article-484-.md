@@ -1,0 +1,2 @@
+Obligations d’information
+L'Autorité informe par tous moyens appropriés, les autorités publiques, les organismes privés et les représentants de la société civile, des décisions, et avis qu’elle rend en matière de protection de la vie privée.

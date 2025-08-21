@@ -1,0 +1,2 @@
+Les personnes qui ne sont ni déterminées, ni déterminables ne peuvent recevoir à titre gratuit.
+Néanmoins, est considérée comme faite au profit de bénéficiaires déterminés, l’assurance sur la vie souscrite par le contractant au profit soit de ses enfants et descendants nés ou à naître, soit de ses héritiers, sans indications de nom.

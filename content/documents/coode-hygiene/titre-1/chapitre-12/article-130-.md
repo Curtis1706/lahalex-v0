@@ -1,0 +1,1 @@
+Les conditions de fonctionnement des morgues et de réalisation des opérations mortuaires, notamment l'admission des corps, l'embaumement, et l'autopsie sont précisées par voie réglementaire.

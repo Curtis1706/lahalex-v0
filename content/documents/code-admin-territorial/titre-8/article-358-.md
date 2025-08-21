@@ -1,0 +1,1 @@
+Les crédits de fonctionnement non-engagés au cours de l'exercice budgétaire sont annulés.

@@ -1,0 +1,1 @@
+Une copie de chaque fiche constatant une décision entraînant la privation des droits électoraux est adressée par le greffe compétent à l’autorité chargée d’établir les listes électorales.

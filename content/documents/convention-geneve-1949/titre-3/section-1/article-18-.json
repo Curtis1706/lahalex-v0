@@ -1,0 +1,15 @@
+{
+  "id": "article-18-",
+  "title": "Article 18 :",
+  "numero": "18 ",
+  "document": "convention-geneve-1949",
+  "path": [
+    "titre-3",
+    "section-1"
+  ],
+  "navigation": {
+    "parent": "section-1",
+    "previous": "article-17-",
+    "next": "article-19-"
+  }
+}

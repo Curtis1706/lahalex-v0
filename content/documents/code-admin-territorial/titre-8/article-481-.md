@@ -1,0 +1,1 @@
+Les réductions ou annulations de mandats sont constatées au vu d'un mandat rectificatif établi par l'ordonnateur et comportant les caractéristiques du mandat rectifié et l'indication des motifs et des bases de liquidation de la rectification.

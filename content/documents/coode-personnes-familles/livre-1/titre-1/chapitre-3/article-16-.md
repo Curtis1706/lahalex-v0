@@ -1,0 +1,1 @@
+Si le domicile ne peut être déterminé, la résidence actuelle en produira les effets. A défaut de résidence, l’habitation en tiendra lieu.

@@ -1,0 +1,3 @@
+Créance sur les Réassureurs
+Les provisions techniques relatives aux affaires cédées à un réassureur ne doivent être représentées que par des dépôts en espèce à concurrence du montant garanti.
+Pour la représentation des provisions techniques correspondant aux branches 4 à 7, 11 et 12 de l’article 328, les créances sur les réassureurs sont admises dans la limite de 20 % desdites provisions techniques.

@@ -1,0 +1,2 @@
+Le droit pour un aéronef de survoler les propriétés privées ne peut s’exercer dans des conditions telles qu'il entrave l'exercice des droits du propriétaire.
+En ce qui concerne la pollution sonore, des normes sont fixées par décret pris en Conseil des ministres. Elles sont au moins équivalentes à celles contenues dans l'annexe 16 à la Convention relative à l'aviation civile internationale concernant la protection de l'environnement.

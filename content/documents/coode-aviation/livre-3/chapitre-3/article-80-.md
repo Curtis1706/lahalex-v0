@@ -1,0 +1,2 @@
+La sécurité de la navigation aérienne dans l'espace aérien béninois est assurée par l’Etat.
+Toutefois, l'Etat peut concéder l'exploitation et la gestion des services de sécurité de la navigation aérienne à des organismes spécialisés.

@@ -1,0 +1,15 @@
+{
+  "id": "article-600-",
+  "title": "Article 600 : Contrôles",
+  "numero": "600 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-6",
+    "chapitre-13"
+  ],
+  "navigation": {
+    "parent": "chapitre-13",
+    "previous": "article-599-",
+    "next": "article-601-"
+  }
+}

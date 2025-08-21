@@ -1,0 +1,1 @@
+Les infractions aux dispositions des articles 61 et 69 du présent code sont passibles d’une amende de un million (1.000.000) à dix millions (10.000.000) de francs.

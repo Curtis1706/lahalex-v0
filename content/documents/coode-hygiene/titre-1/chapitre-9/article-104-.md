@@ -1,0 +1,2 @@
+Toute demande d'ouverture d'un établissement destiné à la production, à la manipulation ou au stockage des denrées alimentaires comporte un certificat de salubrité publique dûment établi par les services compétents.
+Un acte réglementaire précise les conditions de délivrance du certificat et de son retrait.

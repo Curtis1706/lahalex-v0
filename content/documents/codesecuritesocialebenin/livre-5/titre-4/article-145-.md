@@ -1,0 +1,1 @@
+Un arrêté du Ministre chargé de la sécurité sociale précise les conditions de la prise en charge par la branche des pensions des prestations en cours et du maintien des droits en cours d’acquisition sous le régime de l’Institut de prévoyance et de retraite de l’Afrique de l’Ouest (IPRAO).

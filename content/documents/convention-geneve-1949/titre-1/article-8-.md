@@ -1,0 +1,5 @@
+Puissances La présente Convention sera appliquée avec le concours et sous le contrôle protectrices des Puissances protectrices chargées de sauvegarder les intérêts des Par-
+ties au conflit. à cet effet, les Puissances protectrices pourront, en dehors de leur personnel diplomatique ou consulaire, désigner des délégués parmi
+leurs propres ressortissants ou parmi les ressortissants d’autres Puissances neutres. Ces délégués devront être soumis à l’agrément de la Puissance au- près de laquelle ils exerceront leur mission.
+Les Parties au conflit faciliteront, dans la plus large mesure possible, la tâche des représentants ou délégués des Puissances protectrices.
+Les représentants ou délégués des Puissances protectrices ne devront en au- cun cas dépasser les limites de leur mission, telle qu’elle ressort de la présente Convention ; ils devront notamment tenir compte des nécessités impérieuses de sécurité de l’état auprès duquel ils exercent leurs fonctions.

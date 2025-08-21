@@ -1,0 +1,1 @@
+En cas de délit commis contre un particulier, la poursuite ne peut être intentée qu’à la requête du ministère public ; elle doit être précédée d’une plainte de la partie offensée ou d’une dénonciation officielle à l’autorité béninoise par l’autorité du pays où le fait a été commis.

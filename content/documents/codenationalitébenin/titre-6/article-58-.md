@@ -1,0 +1,3 @@
+La juridiction civile de droit commun est seule compétente pour connaître des contestations sur la nationalité béninoise ou étrangère des personnes physiques.
+Les questions de nationalité sont préjudicielles devant toute autre juridiction à l'exception des juridictions statuant en matière criminelle.
+Les exceptions de nationalité béninoise et d'extranéité sont d'ordre public et peuvent être relevées d'office par le juge.

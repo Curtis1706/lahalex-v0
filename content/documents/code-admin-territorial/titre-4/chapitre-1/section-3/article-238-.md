@@ -1,0 +1,1 @@
+Le chef de village ou de quartier de ville peut démissionner de ses fonctions. La démission est adressée au maire par voie hiérarchique et transmise par le chef d'arrondissement. Elle prend effet le trentième (30<sup>éme</sup>) jour après son dépôt au secrétariat de l’arrondissement.

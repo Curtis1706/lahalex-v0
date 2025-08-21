@@ -1,0 +1,2 @@
+Il est interdit, sauf autorisation spéciale, le transport, par aéronefs, des explosifs, des armes et des munitions de guerre, des pigeons voyageurs, objets de correspondance compris dans le monopole postal.
+Les conditions de transport des marchandises dangereuses, des cultures microbiennes et des petits animaux infectés dangereux, sont régies par les textes législatifs et réglementaires.

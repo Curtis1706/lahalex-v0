@@ -1,0 +1,2 @@
+Les actions relatives à l’obligation alimentaire légale sont de la compétence du tribunal de première instance.
+Au choix du créancier d’aliments, l’action peut être portée soit devant le président du tribunal de première instance de son domicile ou de sa résidence, soit devant celui du domicile ou de la résidence du débiteur.

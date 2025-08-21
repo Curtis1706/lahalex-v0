@@ -1,0 +1,1 @@
+Les poursuites sont déclenchées à la requête des receveurs des impôts qui décernent contrainte contre les contribuables retardataires.

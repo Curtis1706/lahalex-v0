@@ -1,0 +1,1 @@
+Le maire ou ses adjoints ayant démissionné de leurs fonctions, conserve(nt) leur mandat de Conseiller communal ou municipal sauf incompatibilité.

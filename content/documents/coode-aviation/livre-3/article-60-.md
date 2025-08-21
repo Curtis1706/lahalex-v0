@@ -1,0 +1,1 @@
+La requête de mise aux enchères est signée du créancier et est signifiée à l’acquéreur dans un délai de cinq jours de la notification, augmenté des délais de distance. Elle contient assignation devant la juridiction territorialement compétente pour ordonner qu’il soit procédé aux enchères requises.

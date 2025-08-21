@@ -1,0 +1,1 @@
+Article 378 : Toute personne qui se rend coupable d’exploitation sexuelle, de menaces, de violences ou de contrainte sexuelle sur un enfant, est punie de cinq (05) ans à dix (10) ans d’emprisonnement et d’une amende de cinq cent mille (500 000) francs à cinq millions (5 000 000) de francs CFA.

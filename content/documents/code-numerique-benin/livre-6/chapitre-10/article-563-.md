@@ -1,0 +1,2 @@
+Recel
+Est puni d'un emprisonnement de cinq (05) ans à dix (10) ans et de cinq millions (5 000 000) à dix millions (10 000 000) de francs CFA d'amende, le fait pour toute personne, au préjudice des droits d'autrui, de détenir, d'utiliser ou de transmettre une chose en sachant que celle-ci provient d'une infraction au moyen d’un ou sur un réseau de communication électronique ou un système informatique. Est punie des mêmes peines, le fait pour toute personne, dans les mêmes conditions, de faire office d'intermédiaire afin de transmettre la chose.

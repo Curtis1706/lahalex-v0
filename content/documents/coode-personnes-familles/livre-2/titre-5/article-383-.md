@@ -1,0 +1,1 @@
+Sauf pour les empêchements à mariage et dans les conditions prévues par les articles 120 et 125, l’alliance cesse avec la fin du mariage.

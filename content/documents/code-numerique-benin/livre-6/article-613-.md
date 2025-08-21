@@ -1,0 +1,3 @@
+Coopération
+Pour les infractions relevant de sa compétence définie au 1 alinéa de l'article 609, l’OCRC constitue, pour la République du Bénin, le point de contact central dans les échanges internationaux. Il contribue au niveau national à l'animation et à la coordination des travaux préparatoires nécessaires et participe aux activités des organes et enceintes internationaux.
+Sans préjudice de l'application des conventions internationales, il entretient les liaisons opérationnelles avec les services spécialisés des autres pays et avec les organismes internationaux en vue de rechercher toute information relative aux infractions ainsi qu'à l'identification et à la localisation de leurs auteurs.

@@ -1,0 +1,1 @@
+Article 61 : L’Etat, les collectivités territoriales décentralisées et, le cas échéant, la personne chargée d’assurer la gestion du service public d’approvisionnement en eau potable, sont tenus de fournir aux usagers les informations appropriées concernant la qualité et le prix de l’eau distribuée.

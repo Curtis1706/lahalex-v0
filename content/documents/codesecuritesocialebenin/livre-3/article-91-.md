@@ -1,0 +1,1 @@
+Les employeurs et les travailleurs d’une même branche d’activité doivent s’organiser en comités techniques chargé d’élaborer une politique de prévention propre à leur branche d’activité. L’organisation et le fonctionnement de ces comités qui assistent le conseil d’administration de la Caisse dans la gestion des risques professionnels sont fixés par arrêté.

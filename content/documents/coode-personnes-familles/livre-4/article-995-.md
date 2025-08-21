@@ -1,0 +1,1 @@
+Les effets de l’adoption sont régis par la loi nationale de l’adoptant et lorsqu'elle est consentie par deux époux, par la loi qui gouverne les effets de leur mariage.

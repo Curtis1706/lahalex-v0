@@ -1,0 +1,1 @@
+Les bâtiments publics et les établissements des différents ordres d'enseignement sont construits conformément à la règlementation en vigueur.

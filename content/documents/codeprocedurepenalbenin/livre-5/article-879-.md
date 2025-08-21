@@ -1,0 +1,1 @@
+L’arrêt de la chambre d’accusation peut être déféré à la cour suprême.

@@ -1,0 +1,3 @@
+L’exécution à la requête du ministère public a lieu lorsque la décision est devenue définitive.
+Toutefois, lorsqu’un prévenu non détenu est condamné à l’emprisonnement, l’exécution de la peine peut être immédiatement ordonnée après le jugement ou l’arrêt, si le prévenu y consent expressément. En ce cas, l’exercice des voies de recours est sans effet sur la détention.
+Le délai d’appel accordé au procureur général par l’article 518 ne fait point obstacle à l’exécution de la peine.

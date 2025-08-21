@@ -1,0 +1,3 @@
+Article 14 : Avis d’échéance
+Pour les contrats à tacite reconduction, à chaque échéance de prime, l’assureur est tenu d’aviser à la dernière adresse connue, au moins quarante-cinq jours à l’avance, l’assuré, ou la personne chargée du paiement des primes, de la date d’échéance et du montant dont il est redevable.
+Cet avis matérialisé par une lettre avec accusé de réception ou décharge devra rappeler que le contrat sera résilié de plein droit si la prime de renouvellement n’est pas payée dans les délais prévus à l’article 13.

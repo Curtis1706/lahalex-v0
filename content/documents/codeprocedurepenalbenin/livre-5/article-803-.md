@@ -1,0 +1,2 @@
+Le procureur de la République visite périodiquement tous établissements pénitentiaires, toutes maisons d’arrêt et tous autres centres de détention notamment, commissariats de police, compagnies et brigades de gendarmerie de son ressort.
+Il contrôle l’activité de ces administrations, fait rectifier ou annuler par les autorités judiciaires compétentes, les actes et ordres contraires à la loi et prend toutes mesures utiles y compris la mise en mouvement des procédures pénales et disciplinaires contre les agents en cause.

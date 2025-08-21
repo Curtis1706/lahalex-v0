@@ -1,0 +1,3 @@
+Prescriptions en vue de faire cesser les perturbations
+Tout propriétaire ou tout usager d’une installation radioélectrique, même située hors des zones de servitudes, produisant ou propageant des perturbations gênant l’exploitation d’un centre de réception radioélectrique public ou privé, est tenu de se conformer aux dispositions qui lui sont prescrites, en vue de faire cesser lesdites perturbations. Il se prête notamment aux investigations demandées et réalise les modifications indiquées afin de maintenir les installations en bon état de fonctionnement.
+Lorsque les propriétaires ou les usagers ne procèdent pas d’eux-mêmes aux modifications qui leur sont prescrites, il y est procédé d’office à leurs frais et risques.

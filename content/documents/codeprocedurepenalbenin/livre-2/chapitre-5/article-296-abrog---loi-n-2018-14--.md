@@ -1,0 +1,3 @@
+Si, parmi les jurés présents, il en est qui ne remplissent pas les conditions d’aptitude exigées par l’article 264 du présent code, ou qui se trouvent dans un des cas d’incapacité, d’incompatibilité ou de dispense prévus par les articles 265et 266 du présent code, la cour ordonne que leurs noms soient rayés de la liste.
+Il en est de même en ce qui concerne les noms des jurés décédés.
+Sont également rayés de la liste, les noms des jurés dont il viendrait à la connaissance de la cour qu’ils sont ascendants ou descendants, frères ou sœurs, oncles ou tantes, neveux ou nièces, cousins germains ou alliés aux mêmes degrés, de l’un des accusés devant être jugé au cours de la session.

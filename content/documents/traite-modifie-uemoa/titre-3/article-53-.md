@@ -1,0 +1,2 @@
+50'exercice budgétaire commence le 1er janvier et prend fin le 31 décembre de chaque année.
+Au cas où le budget n'a pas pu être adopté avant le début de l'exercice budgétaire, les dépenses peuvent être effectuées mensuellement dans la limite du 12 des crédits ouverts au titre du budget de l'exercice précédent.

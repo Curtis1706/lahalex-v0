@@ -1,0 +1,14 @@
+{
+  "id": "article-23-",
+  "title": "Article 23 :",
+  "numero": "23 ",
+  "document": "constitution-benin-2019",
+  "path": [
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-22-",
+    "next": "article-24-"
+  }
+}

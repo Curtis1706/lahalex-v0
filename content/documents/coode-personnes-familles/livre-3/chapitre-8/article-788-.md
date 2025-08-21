@@ -1,0 +1,1 @@
+Le partage peut être résolu pour cause de non-paiement d’une soulte.

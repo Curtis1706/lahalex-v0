@@ -1,0 +1,1 @@
+La filiation maternelle résulte du fait même de l’accouchement.

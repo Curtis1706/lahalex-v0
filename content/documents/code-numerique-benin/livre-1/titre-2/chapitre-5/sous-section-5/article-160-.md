@@ -1,0 +1,2 @@
+Asymétrie tarifaire
+L’Autorité de régulation peut décider de l'application de tarifs asymétriques au bénéfice d’un nouvel opérateur qui intègre un marché, ou en cas de déséquilibre significatif des ressources en fréquences au détriment d’un opérateur. Une telle mesure doit être justifiée et doit être limitée dans le temps.

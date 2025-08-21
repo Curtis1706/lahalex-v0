@@ -1,0 +1,15 @@
+{
+  "id": "article-130-",
+  "title": "Article 130 : Pouvoirs et responsabilité du Secrétaire exécutif",
+  "numero": "130 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-129-",
+    "next": "article-131-"
+  }
+}

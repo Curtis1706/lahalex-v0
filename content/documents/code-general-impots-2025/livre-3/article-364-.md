@@ -1,0 +1,3 @@
+1)  Les  droits  d’enregistrement  sont  payés  intégralement  avant l’enregistrement, sous réserve de la possibilité du fractionnement.
+2) Nul ne peut en atténuer ni différer le paiement sous le prétexte de contestation sur la quotité, ni pour quelque autre motif que ce soit, sauf à se pourvoir en restitution s’il y a lieu.
+Toutefois, le ministre chargé des finances peut, dans les cas où l’État est partie, autoriser l’accomplissement de la formalité de l’enregistrement avec un paiement différé des droits. Il peut également déléguer ce pouvoir au directeur général des impôts.

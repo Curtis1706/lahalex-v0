@@ -1,0 +1,3 @@
+1) Les agents des impôts ayant au moins le grade d’inspecteur peuvent effectuer des contrôles ponctuels qui ne constituent pas une vérification de comptabilités.
+2) L’inspecteur ne peut intervenir sur place qu’après en avoir informé le contribuable au moyen d’un avis de contrôle ponctuel à lui notifié deux (2) jours plus tôt, par lettre recommandée ou par remise directe, avec accusé de réception.
+Toutefois, le contrôle ponctuel peut démarrer de manière inopinée le jour de la remise de l’avis de contrôle, dans les conditions prévues à l’article 538 paragraphe 2 du présent code.

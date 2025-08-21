@@ -1,0 +1,16 @@
+{
+  "id": "article-6-",
+  "title": "Article 6 : Principe de liberté d’exercice des activités de communications électroniques",
+  "numero": "6 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-2"
+  ],
+  "navigation": {
+    "parent": "chapitre-2",
+    "previous": "article-5-",
+    "next": "article-7-"
+  }
+}

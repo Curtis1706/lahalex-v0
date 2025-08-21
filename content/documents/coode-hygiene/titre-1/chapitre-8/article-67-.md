@@ -1,0 +1,1 @@
+Dans les agglomérations pourvues d'un réseau de distribution publique d'eau potable, l'installation des bornes fontaines et les branchements individuels se font conformément à la réglementation en vigueur.

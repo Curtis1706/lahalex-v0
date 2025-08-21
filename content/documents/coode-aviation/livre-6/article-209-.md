@@ -1,0 +1,1 @@
+L'organisme national en charge de l'aviation civile met en place des politiques et des obligations en matière de facilitation de l’aviation civile conformes à la réglementation en vigueur et aux dispositions de l'annexe 9 à la Convention relative à l'aviation civile internationale.

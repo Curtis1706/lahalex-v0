@@ -1,0 +1,1 @@
+La diffamation commise par l’un des moyens énoncés à l’article 263 envers les cours et les tribunaux, les forces armées et de sécurité publique, les corps constitués et les administrations publiques, sera punie d’une amende de un million (1 000 000) à dix millions (10 000 000) de francs CFA.

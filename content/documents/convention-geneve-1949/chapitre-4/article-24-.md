@@ -1,0 +1,3 @@
+Protection Le personnel sanitaire exclusivement affecté à la recherche, à l’enlèvement, du personnel au transport ou au traitement des blessés et des malades ou à la prévention
+permanent des maladies, le personnel exclusivement affecté à l’administration des for- mations et établissements sanitaires, ainsi que les aumôniers attachés aux
+forces armées, seront respectés et protégés en toutes circonstances.

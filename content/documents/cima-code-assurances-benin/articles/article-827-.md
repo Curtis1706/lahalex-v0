@@ -1,0 +1,3 @@
+Article 827 : _(Règlement 2015-02)_ Sanctions
+Sont passibles d’un emprisonnement de huit à quinze jours et d’une amende de 18.000 à 360.000 FCFA ou de l’une de ces deux peines seulement les dirigeants d’entreprise qui méconnaissent les obligations ou interdictions résultant des articles 401, 404, 8081 et 815 du code des assurances ou qui font entrave au contrôle.
+En cas de récidive, la peine d’emprisonnement pourra être portée à un mois et celle d’amende de 360.000 à 7.200.000 FCFA.

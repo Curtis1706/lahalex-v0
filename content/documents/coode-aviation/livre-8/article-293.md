@@ -1,0 +1,1 @@
+Les modalités de classement statutaire, d'organisation et de fonctionnement des autres personnels aéronautiques sont fixées par voie réglementaire.

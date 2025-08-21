@@ -1,0 +1,1 @@
+Article 20 : L’investisseur s’oblige au respect des lois et règlements de l’Etat.

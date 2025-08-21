@@ -1,0 +1,1 @@
+Les cartes d’identité sont assujetties soit lors de leur délivrance, soit lors de leur renouvellement, à un timbre de trois cents (300) francs CFA.

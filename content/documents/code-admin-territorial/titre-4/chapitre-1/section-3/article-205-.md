@@ -1,0 +1,1 @@
+Le conseil de village ou de quartier de ville assiste le chef de village ou de quartier de ville pour l’application des lois et règlements, le maintien de l’ordre public, la protection des biens publics et des droits des citoyens. Il suit l'activité des services administratifs, chantiers et projets de l’Etat sur le territoire du village ou du quartier de ville.

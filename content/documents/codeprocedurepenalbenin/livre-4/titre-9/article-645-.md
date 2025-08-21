@@ -1,0 +1,3 @@
+Tout béninois qui s’est rendu coupable de délits et contraventions en matière forestière, rurale, de pêche, de douane, de contributions indirectes, sur le territoire de l’un des Etats limitrophes, peut être poursuivi et jugé en République du
+Bénin d’après les lois béninoises, si cet Etat autorise la poursuite de ses nationaux pour les mêmes faits commis en République du Bénin.
+La réciprocité sera légalement constatée par les traités et accords internationaux.

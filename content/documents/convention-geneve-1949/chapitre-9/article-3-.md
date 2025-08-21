@@ -1,0 +1,1 @@
+La Puissance qui crée une zone sanitaire prendra toutes mesures appropriées pour en inter - dire l’accès à toutes les personnes qui n’ont pas le droit de s’y rendre ou de s’y trouver.

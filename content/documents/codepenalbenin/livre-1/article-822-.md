@@ -1,0 +1,1 @@
+Tout pillage, tout dégât de denrées ou marchandises, effets, propriétés mobilières, commis en réunion ou bande et à force ouverte, sera puni de la réclusion criminelle à temps de dix (10) ans à vingt (20) ans chacun des coupables sera de plus condamné à une amende de cent mille (100.000) francs CFA à cinq cent mille (500.000) francs CFA.

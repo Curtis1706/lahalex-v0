@@ -1,0 +1,1 @@
+Le donataire restituera les fruits de ce qui excédera la portion disponible à compter du jour de la demande.

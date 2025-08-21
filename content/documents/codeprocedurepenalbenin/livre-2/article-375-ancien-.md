@@ -1,0 +1,1 @@
+Les minutes des arrêts rendus par la cour d’assises sont réunies et déposées au greffe de la cour d’appel.

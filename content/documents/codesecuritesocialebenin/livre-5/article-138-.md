@@ -1,0 +1,1 @@
+Les contrôleurs et les inspecteurs des services de la sécurité sociale doivent prêter serment devant les tribunaux compétents avant leur entrée en fonction.

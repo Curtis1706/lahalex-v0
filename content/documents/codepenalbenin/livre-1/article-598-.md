@@ -1,0 +1,1 @@
+Quiconque a, par fraude ou violence enlevé ou fait enlever des mineurs ou les aura entraînés, détournés ou déplacés, ou les aura fait entraîner, détourner ou déplacer des lieux où ils étaient mis par ceux à l’autorité ou à la direction desquels ils étaient soumis ou confiés, est puni de la réclusion criminelle à perpétuité.

@@ -1,0 +1,15 @@
+{
+  "id": "article-117-",
+  "title": "Article 117 :",
+  "numero": "117 ",
+  "document": "coode-hygiene",
+  "path": [
+    "titre-1",
+    "chapitre-10"
+  ],
+  "navigation": {
+    "parent": "chapitre-10",
+    "previous": "article-116-",
+    "next": "article-118-"
+  }
+}

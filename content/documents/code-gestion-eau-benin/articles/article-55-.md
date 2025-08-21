@@ -1,0 +1,3 @@
+Article 55 : Dans les milieux lagunaires et les eaux de transition, des zones de protection peuvent être délimitées selon une procédure définie par décret pris en conseil des ministres, sur proposition du ministre.
+A l’intérieur de ces zones, les activités sont soumises aux dispositions des articles 52 et 53 de la présente loi, ainsi qu’à des règles particulières tendant à la protection des espèces aquatiques, y compris les ressources halieutiques côtières.
+Le décret mentionné au premier alinéa du présent article précise également le régime applicable dans les zones de protection.

@@ -1,0 +1,1 @@
+La présomption légale de paternité s'établit conformément aux dispositions de l’article 3 du présent code.

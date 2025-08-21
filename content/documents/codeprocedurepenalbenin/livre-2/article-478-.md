@@ -1,0 +1,3 @@
+S’il y a lieu de procéder à un supplément d’information, le tribunal commet un de ses membres à cette fin en cas de composition collégiale ou son président en cas de juge unique.
+Ce supplément d’information obéit aux règles édictées par les articles 128 à 131 du présent code. Le juge qui ordonne un supplément d’information en fixe le délai dans lequel il doit être exécuté et ce délai ne saurait excéder un (01) mois renouvelable une seule fois.
+Le procureur de la République peut obtenir, au besoin par voie de réquisitions, la communication du dossier de la procédure à toute époque du supplément d’information, à charge de le rendre dans les vingt-quatre (24) heures.

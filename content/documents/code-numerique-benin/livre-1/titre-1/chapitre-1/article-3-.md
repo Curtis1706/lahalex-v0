@@ -1,0 +1,2 @@
+Activités concernées
+Le présent Livre I régit les activités de communications électroniques conduites par toute personne physique ou morale établissant et/ou exploitant un réseau de communications électroniques ou fournissant des services de communications électroniques sur le territoire de la République du Bénin, quel que soit son statut juridique, sa nationalité, celle des détenteurs de son capital social ou de ses dirigeants, le lieu de son siège social ou de son établissement principal.

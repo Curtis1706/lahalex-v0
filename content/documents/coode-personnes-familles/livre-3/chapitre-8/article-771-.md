@@ -1,0 +1,2 @@
+Les héritiers qui procèdent à un partage amiable composent des lots à leur gré et décident d’un commun accord de leur attribution ou de leur tirage au sort.
+Si les héritiers estiment nécessaire de procéder à la vente des biens à partager ou de certains d’entre eux, ils fixent également, d'un commun accord, les conditions et formes de la vente.

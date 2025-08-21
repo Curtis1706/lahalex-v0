@@ -1,0 +1,1 @@
+Le présent code entrera en vigueur à compter de la date de sa promulgation.

@@ -1,0 +1,2 @@
+Le don manuel est la donation d’un meuble corporel réalisée par simple tradition de l’objet donnée au donataire.
+La tradition est la remise matérielle de la chose donnée, effectuée dans les conditions telles qu’elle assure la dépossession du donateur et assure l’irrévocabilité de la donation.

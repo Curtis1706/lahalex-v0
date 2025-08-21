@@ -1,0 +1,1 @@
+Article 328 : Celui qui, par défaut de précaution ou de prévoyance, cause à une femme enceinte, des lésions corporelles ayant entraîné un avortement, est puni de trois (3) mois à deux (2) ans d’emprisonnement et d’une amende de cent mille (100 000) à deux cent mille (200 000) francs CFA.

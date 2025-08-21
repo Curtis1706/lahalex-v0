@@ -1,0 +1,2 @@
+Les femmes Agents Permanents de l'Etat obtiennent une bonification de service d'une année pour chacun des enfants qu'elles ont eus et qui ont été régulièrement déclarés à l'Etat Civil.
+La prise en compte de cette bonification ne peut avoir pour effet de réduire de plus de 1/5è la durée des services effectifs normalement exigée pour prétendre à une pension d'ancienneté.

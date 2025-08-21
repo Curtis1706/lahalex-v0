@@ -1,0 +1,1 @@
+Lorsque la provocation aura été suivie d’une sédition ou révolte dont la nature aura donné lieu contre un ou plusieurs des coupables à une peine plus forte que celle d’un emprisonnement de cinq (05) ans à dix (10) ans, cette peine, quelle qu’elle soit, sera appliquée au ministre ou à l’autorité religieuse coupable de la provocation.

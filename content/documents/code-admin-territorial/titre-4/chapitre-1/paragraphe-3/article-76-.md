@@ -1,0 +1,2 @@
+Il est dressé, selon l’importance des questions débattues, un procès- verbal et/ou un compte rendu de chaque séance du conseil communal.
+Un relevé des décisions du conseil communal signé du président de séance et du secrétaire exécutif est affiché à la mairie à l'endroit destiné à l'information du public dans les huit (08) jours suivant la séance.

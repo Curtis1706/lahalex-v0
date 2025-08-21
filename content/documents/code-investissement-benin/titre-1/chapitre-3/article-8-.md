@@ -1,0 +1,3 @@
+Article 8 : L’Agence nationale en charge de la promotion des investissements est l’organe technique de l’Etat qui exerce les fonctions de guichet unique en vue de faciliter les formalités administratives relatives à l’agrément des projets attachés au présent Code. Elle veille également au suivi des cahiers des charges des entreprises conformément au présent Code.
+L’Agence nationale en charge de la promotion des investissements bénéficie d’un droit de communication.
+Les attributions, l’organisation et le fonctionnement de l’Agence sont précisés par décret pris en Conseil des Ministres.

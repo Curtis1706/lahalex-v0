@@ -1,0 +1,2 @@
+A défaut de frères ou sœurs ou de descendants de ceux-ci et à défaut d'ascendants dans une ligne, la succession est dévolue en totalité aux ascendants de l'autre ligne ; à défaut d’ascendants dans l’une et l’autre ligne, la succession est dévolue pour moitié aux parents les plus proches dans chaque ligne.
+S’il y a concours de parents collatéraux au même degré, ils partagent par tête.

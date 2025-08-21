@@ -1,0 +1,1 @@
+En cas de transports successifs, chaque transporteur répond de l'exécution de ses obligations pour le parcours qu’il a effectué.

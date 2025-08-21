@@ -1,0 +1,1 @@
+Les délibérations des conseils d'arrondissement, de village ou de quartier de ville sont inscrites par ordre de date sur un registre coté et paraphé par le maire ou son représentant. Elles sont datées et signées par le président et le secrétaire de séance.

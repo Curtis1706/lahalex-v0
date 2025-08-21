@@ -1,0 +1,2 @@
+La création d'un aérodrome destiné à la circulation aérienne publique lorsqu'il n'appartient pas à l'Etat, est subordonnée à la conclusion d'une convention entre le ministre chargé de l'aviation civile et la personne physique ou la personne morale de droit public ou de droit privé qui crée l'aérodrome. Cette convention est visée par le ministre chargé de la tutelle de la collectivité ou de l'établissement public intéressé.
+L'accord du ministre chargé des finances est requis chaque fois qu’une telle convention implique des obligations financières à la charge de l'Etat.

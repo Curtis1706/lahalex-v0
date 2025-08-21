@@ -1,0 +1,1 @@
+La préparation, l'emballage, le transport, le stockage, l'étalage et la conservation des denrées alimentaires s'effectuent de manière à éviter toute contamination ou avarie.

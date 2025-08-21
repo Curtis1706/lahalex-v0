@@ -1,0 +1,15 @@
+{
+  "id": "article-205-",
+  "title": "Article 205 : Non thésaurisation et utilisation optimale des ressources en numérotation",
+  "numero": "205 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-3"
+  ],
+  "navigation": {
+    "parent": "titre-3",
+    "previous": "article-204-",
+    "next": "article-206-"
+  }
+}

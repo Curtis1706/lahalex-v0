@@ -1,0 +1,2 @@
+Le testateur peut donner aux exécuteurs testamentaires la saisine du tout ou seulement d'une partie de ses biens meubles ; mais cette saisine ne peut durer au-delà de l'an et jour à compter de son décès.
+S'il ne leur a pas donné cette saisine, ils ne peuvent l’exiger.

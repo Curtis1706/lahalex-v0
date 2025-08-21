@@ -1,0 +1,2 @@
+Pendant la durée de leur service sous les drapeaux, les Militaires de réserve rappelés ainsi que les Militaires appelés sont soumis aux dispositions du présent titre 5, ainsi qu'à celles des Titres 6 et 7 suivants qui concernent les pensions des ayants-cause.
+C - DISPOSITIONS COIWNES

@@ -1,0 +1,2 @@
+Lorsqu'il n’est pas présumé issu du mariage de sa mère, l’enfant peut être reconnu par son père.
+La déclaration de reconnaissance est faite par le père à l’officier de l’état civil conformément aux dispositions régissant l’état civil après la naissance de l’enfant, ou même dès qu’il est conçu.

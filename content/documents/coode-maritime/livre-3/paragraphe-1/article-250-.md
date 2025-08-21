@@ -1,0 +1,1 @@
+Le marin payé au mois est rétribué proportionnellement à la durée effective de ses services, sauf stipulation contraire expresse des parties.

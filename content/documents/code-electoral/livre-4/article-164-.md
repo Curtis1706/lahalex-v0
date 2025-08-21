@@ -1,0 +1,1 @@
+Il est interdit à tout parlementaire de faire ou de laisser figurer son nom suivi de l'indication de sa qualité dans toute publicité relative à une entreprise financière, industrielle ou commerciale.

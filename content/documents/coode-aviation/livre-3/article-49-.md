@@ -1,0 +1,1 @@
+Les officiers de police judiciaire, les agents des douanes et les agents habilités de l'organisme national en charge de l'aviation civile, ont le droit de faire immobiliser tout aéronef qui ne remplit pas les conditions prévues par la présente loi pour se livrer à la circulation aérienne ou dont le pilote a commis une infraction au sens de la loi.

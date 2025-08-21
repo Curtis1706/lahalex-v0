@@ -1,0 +1,3 @@
+Toute aggravation du risque survenue au cours du contrat entraîne la résiliation dans les trois (03) jours francs où l’assuré en a eu connaissance, à moins que celui-ci n’apporte la preuve de sa bonne foi, auquel cas il est fait application de l’alinéa 3 de l’article précédent.
+Si l’aggravation n’est pas le fait de l’assuré, l’assurance continue, moyennant augmentation de la prime correspondant à l’aggravation survenue.
+Si l’aggravation est le fait de l’assuré, l’assureur doit résilier sans délai le contrat, la prime lui étant acquise, ou exiger une augmentation de prime correspondant à l’aggravation survenue.

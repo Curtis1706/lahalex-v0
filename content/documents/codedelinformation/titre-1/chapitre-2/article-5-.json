@@ -1,0 +1,15 @@
+{
+  "id": "article-5-",
+  "title": "Article 5 : Au sens de la présente loi, on entend par :",
+  "numero": "5 ",
+  "document": "codedelinformation",
+  "path": [
+    "titre-1",
+    "chapitre-2"
+  ],
+  "navigation": {
+    "parent": "chapitre-2",
+    "previous": "article-4-",
+    "next": "article-6-"
+  }
+}

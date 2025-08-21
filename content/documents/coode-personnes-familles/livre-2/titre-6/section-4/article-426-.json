@@ -1,0 +1,16 @@
+{
+  "id": "article-426-",
+  "title": "Article 426 :",
+  "numero": "426 ",
+  "document": "coode-personnes-familles",
+  "path": [
+    "livre-2",
+    "titre-6",
+    "section-4"
+  ],
+  "navigation": {
+    "parent": "section-4",
+    "previous": "article-425-",
+    "next": "article-427-"
+  }
+}

@@ -1,0 +1,4 @@
+Article 110 : Fonctionnement de l’Autorité centrale
+L'Autorité centrale officie sous l'égide d'un bureau de trois (3) membres, présidé par le représentant du ministère en charge de l’enfance. Le Vice-président en est le représentant du ministère en charge des affaires étrangères et le rapporteur, l'un des représentants des organisations de la société civile, choisi par ses pairs.
+Pour son fonctionnement, l'Autorité centrale élabore son budget qui est directement intégré au budget du ministère de tutelle. Les crédits inscrits audit budget sont logés dans un compte du Trésor public, au nom de l'Autorité centrale.
+Les modalités de fonctionnement de l’Autorité centrale sont fixées par décret pris en Conseil des ministres sur proposition du ministre en charge de l’enfance.

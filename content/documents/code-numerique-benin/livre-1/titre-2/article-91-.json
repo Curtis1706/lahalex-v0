@@ -1,0 +1,15 @@
+{
+  "id": "article-91-",
+  "title": "Article 91 : Politique nationale de développement des communications électroniques et de la poste",
+  "numero": "91 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-90-",
+    "next": "article-92-"
+  }
+}

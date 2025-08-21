@@ -1,0 +1,1 @@
+La donation faite en avancement d’hoirie à un héritier réservataire qui accepte la succession s’impute sur la part de réserve de cet héritier et subsidiairement sur la quotité disponible, à charge de faire le rapport pour le tout à la succession dans les conditions prévues au présent code.

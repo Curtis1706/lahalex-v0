@@ -1,0 +1,1 @@
+L'ordonnateur et ses délégués sont responsables des certifications qu'ils délivrent. Les ordonnateurs encourent, en raison de l'exercice de leurs attributions, les responsabilités que prévoient les lois et règlements.

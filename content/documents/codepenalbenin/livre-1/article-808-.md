@@ -1,0 +1,1 @@
+Encourt une peine d’emprisonnement de un (01) an à cinq (05) ans et une amende de un million (1.000.000) de francs CFA à cinq millions (5.000.000) de francs CFA, toute personne qui a, par des manœuvres frauduleuses, privé le créancier nanti de ses droits ou les a diminués.

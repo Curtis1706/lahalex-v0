@@ -1,0 +1,1 @@
+Si des fonctionnaires et agents de l’Etat ont aidé les coupables à faire manquer le service, ils seront punis de la peine de la réclusion criminelle de dix (10) ans à vingt (20) ans, sans préjudice des peines plus fortes en cas d’intelligence avec l’ennemi.

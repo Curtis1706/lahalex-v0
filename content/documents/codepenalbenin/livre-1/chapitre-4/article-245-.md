@@ -1,0 +1,2 @@
+Toutes autres personnes coupables des faits énoncés dans l’article précédent ainsi que leurs complices sont punies d’un emprisonnement de six (06) mois au moins et de deux (02) ans au plus.
+Elles peuvent être privées de leur droit de vote, d’élection et d’éligibilité pendant (05) cinq ans au moins et dix (10) ans au plus.

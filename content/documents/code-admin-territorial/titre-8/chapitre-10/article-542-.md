@@ -1,0 +1,1 @@
+Les juridictions des comptes sont chargées de l'audit et de la certification des comptes des communes et des établissements publics de coopération intercommunale, conformément aux lois et règlements.

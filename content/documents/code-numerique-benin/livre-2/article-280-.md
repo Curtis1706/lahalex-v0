@@ -1,0 +1,3 @@
+Atteinte à la sécurité ou altération du schéma d’identification
+En cas d’atteinte à la sécurité ou d’altération du schéma d’identification électronique affectant la fiabilité de l’authentification de ce schéma, l'autorité compétente suspend ou révoque sans délai cette authentification ou les éléments altérés.
+Lorsqu’il a été remédié à l’atteinte à la sécurité ou à l’altération visée à l’alinéa premier, l'autorité compétente rétablit l’authentification.

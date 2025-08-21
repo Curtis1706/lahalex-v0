@@ -1,0 +1,1 @@
+Le préfet, après examen des observations du conseil communal, prend le cas échéant, les dispositions subséquentes.

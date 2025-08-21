@@ -1,0 +1,1 @@
+Hormis les conventions ayant fait l’objet de dispositions particulières dans le présent code, tout constructeur, armateur, propriétaire ou capitaine qui a enfreint les stipulations des conventions internationales ratifiées par la République du Bénin, est puni d’une amende de dix millions (10.000.000) à cent millions (100.000.000) de francs.

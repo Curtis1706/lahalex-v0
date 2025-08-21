@@ -1,0 +1,1 @@
+Si l’affréteur n’a que la gestion commerciale du navire, les pertes et avaries sont à la charge du fréteur, à moins qu’il ne prouve qu’elles sont dues à la faute de l’affréteur.

@@ -1,0 +1,1 @@
+Article 31 : Il est créé en République du Bénin un établissement public doté de la personnalité juridique appelé fonds national de l’eau.

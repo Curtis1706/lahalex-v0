@@ -1,0 +1,6 @@
+1) Pour les importateurs et/ou exportateurs, le tarif de la contribution des patentes est fixé en fonction du montant des importations et exportations comme suit :
+inférieur ou égal à 80 000 000 : 150 000 francs CFA ;
+supérieur à 80 000 000 et inférieur ou égal à 200 000 000 : 337.500 francs CFA ; supérieur à 200 000 000 et inférieur ou égal à 500 000 000 : 525 000 francs CFA ; supérieur à 500 000 000 et inférieur ou égal à 1 000 000 000 : 675 000 francs CFA ; supérieur à 1 000 000 000 et inférieur ou égal à 2 000 000 000 : 900 000 francs CFA ;
+supérieur à 2 000 000 000 et inférieur ou égal à 10 000 000 000 : 1.125 000 francs CFA ;
+supérieur à 10 000 000 000 : 1.125 000 francs CFA plus 10 000 francs CFA par milliard ou fraction de milliard supplémentaire.
+2) Toute personne, société ou entreprise se livrant de manière habituelle et dans un but lucratif en République du Bénin, à des opérations d’importation et d’exportation, est régulièrement  passible  de  la  contribution  des  patentes  en  qualité  d’importateur- exportateur, encore bien qu’elle n’y disposerait d’aucun établissement local ou autre emplacement commercial, ni d’aucun préposé spécial installé à demeure et se bornerait à utiliser pour l’exercice de sa profession, les services et locaux d’une entreprise spécialisée.

@@ -1,0 +1,5 @@
+Régime des échanges intra-communautaires
+1. Après l’entrée en vigueur du présent Traité, aucun Etat membre ne prélèvera de droits de douane sur les marchandises originaires d'un Etat membre et qui sont expédiées dans un autre Etat membre. Il en est de même des marchandises en provenance d’un pays tiers et qui se trouvent mises en libre pratique dans les Etats membres et transférées d'un Etat membre à un autre État membre.
+1. La définition de cette notion de produits originaires des Etats membres et les règles régissant l'application du présent article figurent dans le protocole annexé au présent Traité.
+1. Sont considérés comme étant en libre pratique dans un Etat membre les produits en provenance des pays tiers pour lesquels les formalités d'importation ont été accomplies et les droits de douane perçus dans cet Etat membre.
+1. Les Etats membres s'engagent à ne pas adopter des textes législatifs ou règlementaires nationaux qui impliquent une discrimination directe ou indirecte à l’égard des produits identiques ou similaires d'un autre Etat membre.

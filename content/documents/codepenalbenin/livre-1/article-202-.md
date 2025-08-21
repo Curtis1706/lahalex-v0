@@ -1,0 +1,1 @@
+Lorsque l’une des infractions prévues aux articles 193, 194 et 195 du présent code a été commise ou simplement tentée avec usage d’arme, la peine est la réclusion criminelle à perpétuité.

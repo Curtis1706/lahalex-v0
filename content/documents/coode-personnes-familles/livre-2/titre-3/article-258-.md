@@ -1,0 +1,1 @@
+Le dispositif du jugement ou de l’arrêt qui prononce le divorce doit énoncer, le cas échéant, la date de la décision ayant autorisé les époux à résider séparément. Cette date doit figurer dans la mention ou dans la transcription faite en application de l’article 255.

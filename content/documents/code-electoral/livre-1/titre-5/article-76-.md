@@ -1,0 +1,1 @@
+Tout électeur atteint d'infirmité ou d'incapacité physique certaine, le mettant dans l'impossibilité de plier et de glisser son bulletin dans l'urne, est autorisé à se faire assister d'une personne de son choix.

@@ -1,0 +1,3 @@
+« Il y a atteinte sexuelle lorsqu'un acte de pénétration sexuelle est commis sans contrainte, menace ou surprise, sur un mineur de moins de quinze (15) ans et que la différence d'âge entre le mineur et l'auteur excède dix (10) ans.
+L'auteur de l'atteinte sexuelle est puni d'un emprisonnement de trois (03) ans à cinq (05) ans et d'une amende de cinq cent mille (500 000) à deux millions (2 000 000) de francs CFA.
+Toutefois, lorsque le mineur est âgé de moins de treize (13) ans, quelle que soit la différence d’âge entre l’auteur majeur et le mineur, l’auteur est puni d’un emprisonnement de cinq (05) ans à dix (10) ans et d’une amende de cinq cent mille (500 000) à cinq millions (5000 000) de francs CFA ».

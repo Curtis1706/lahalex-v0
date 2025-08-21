@@ -1,0 +1,2 @@
+Sous réserve des dispositions de l’article 418 du présent code, le prévenu régulièrement cité à personne doit comparaître devant le tribunal. S’il ne comparaît pas il est passé outre aux débats qui sont réputés contradictoires à moins que le prévenu ne produise une excuse reconnue valable par le tribunal, auquel cas il est de nouveau cité à la diligence du ministère public pour une audience dont la date est fixée par le tribunal.
+Si le prévenu ne comparaît pas à cette audience, le jugement rendu par le tribunal est, dans tous les cas, réputé contradictoire.

@@ -1,0 +1,3 @@
+Est puni d’un emprisonnement de un (01) mois à un (01) an et d’une amende de cinquante mille (50.000) francs CFA à cinq cent mille (500.000) francs CFA ou de l’une de ces deux peines seulement, celui qui, ayant connaissance d’un harcèlement sexuel, alors qu’il était encore possible d’en limiter les effets n’aura pas aussitôt averti les autorités publiques, organisations syndicales et/ou toutes organisations associatives habilitées conformément à la loi.
+Sont exemptés des peines prévues au précédent alinéa, les parents ou alliés jusqu’au 3ème degré inclusivement des auteurs ou complices du harcèlement sexuel ou de la tentative.
+Toutefois, la déchéance de l’autorité parentale pourra être prononcée à l’encontre du parent fautif.

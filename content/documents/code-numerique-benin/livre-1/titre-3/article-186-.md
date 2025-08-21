@@ -1,0 +1,3 @@
+Caducité des bandes de fréquences spécifiquement attribuées à la défense nationale et à la sécurité publique
+Lorsqu’il n’existe pas de besoins du Gouvernement dans les bandes de fréquences spécifiquement attribuées à la défense nationale et à la sécurité 	publique ou lorsque ces 	besoins sont négligeables, lesdites fréquences sont attribuées à titre temporaire ou permanent pour des utilisations civiles, après renonciation provisoire ou définitive par le Gouvernement.
+La renonciation est faite par décret pris en Conseil des Ministres sur  proposition  du  Ministre  chargé  des communications électroniques et sur demande de l’Autorité de régulation.

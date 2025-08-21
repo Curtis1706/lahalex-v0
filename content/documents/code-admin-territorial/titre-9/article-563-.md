@@ -1,0 +1,3 @@
+Les procédures et actes en cours initiés par les organes antérieurement compétents demeurent valables. Ils sont maintenus, poursuivis ou modifiés selon le cas par les organes compétents en vertu de la présente loi.
+Les sommes ou avantages acquis aux membres des organes des communes et de l'établissement public de coopération intercommunale avant la date d'entrée en vigueur de la présente loi, leur sont payés ou attribués, selon le cas, conformément aux textes en vigueur au moment où ces sommes ou avantages ont été acquis.
+Nonobstant les dispositions de la présente loi, les maires en fonction à la date de son entrée en vigueur, exercent, outre leurs pouvoirs propres ceux dévolus aux secrétaires exécutifs jusqu’à leur entrée en fonction.

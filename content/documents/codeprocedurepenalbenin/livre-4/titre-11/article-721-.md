@@ -1,0 +1,1 @@
+Les actes de procédure, les décisions ainsi que les contrats de placement prévus aux articles précédents sont exempts de tous droits de timbre et d’enregistrement.

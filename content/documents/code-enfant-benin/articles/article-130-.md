@@ -1,0 +1,2 @@
+Article 130 : Châtiments corporels
+L’Etat veille à ce que, dans la famille, les établissements scolaires, les institutions privées et publiques, la discipline soit exempte de châtiments corporels ou de toute autre forme cruelle ou dégradante de traitement.

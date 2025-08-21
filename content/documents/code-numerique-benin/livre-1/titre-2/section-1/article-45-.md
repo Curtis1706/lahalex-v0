@@ -1,0 +1,2 @@
+Coordination avec les autorités régionales et les autorités de régulation nationales
+L’Autorité de régulation se coordonne avec les autorités régionales de la CEDEAO et de l’UEMOA ainsi qu’avec les autres autorités de régulation nationale des États membres de la CEDEAO et de l’UEMOA en ce qui concerne la délivrance de licences ou d’autorisations ou la réalisation de déclaration pour l'exercice de certaines activités de communications électroniques.

@@ -1,0 +1,1 @@
+Il est institué au niveau du département, un conseil dénommé conseil départemental de concertation et de coordination.

@@ -1,0 +1,1 @@
+Toute assurance conclue après la perte, l’avarie ou l’arrivée des objets est nulle si la nouvelle de la perte ou de l’avarie ou celle de l’arrivée est parvenue, soit au lieu où se trouve l’assuré quand il donne l’ordre d’assurance, soit au lieu où est signé le contrat avant que l’assureur n’y appose sa signature.

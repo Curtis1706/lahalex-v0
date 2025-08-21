@@ -1,0 +1,2 @@
+Documents de synthèse consolidés ou combinés
+Les documents de synthèse consolidés ou combinés comprennent le bilan accompagné d’un tableau des engagements reçus et donnés, le compte de résultat et une annexe établis selon les modèles fixés par un règlement particulier.

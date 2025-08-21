@@ -1,0 +1,2 @@
+A l'exception des agents des Forces de défense et de sécurité régulièrement en mission et visés aux articles 69 alinéa 2 et 78 du présent code, nul ne peut être admis dans le poste de vote s'il est porteur d'une arme quelconque, apparente ou cachée.
+Il est interdit en outre d'introduire des boissons alcoolisées dans les lieux de vote.

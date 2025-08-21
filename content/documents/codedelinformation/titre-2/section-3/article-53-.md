@@ -1,0 +1,2 @@
+Toute personne photographiée, filmée, reproduite, peinte ou dessinée, a le droit de s’opposer à l’exposition de son image, si son consentement n’a pas été obtenu.
+Ce droit subsiste quel que soit le motif de la reproduction ou de l’exposition, quand bien même elle est faite sans intention malveillante.

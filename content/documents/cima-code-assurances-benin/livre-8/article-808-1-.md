@@ -1,0 +1,5 @@
+_(Règlement 2015-02)_ Changement de dirigeant et d’administrateur
+1.  Toute entreprise agréée en application de l’article 804 est tenue de soumettre à l’approbation de la Commission, tout changement de titulaire concernant les fonctions de Président ou de Directeur Général.
+La Commission dispose d’un délai de trois mois pour se prononcer. L’absence de réaction à l’expiration de ce délai vaut acceptation.
+1.  Toute entreprise agréée en application de l’article 804 est tenue de notifier à la Commission, dans un délai de quinze à compter de leur réalisation, toute nomination et tout renouvellement de mandat d’administrateur.
+La Commission peut s’opposer, dans un délai de trois mois, aux nominations et renouvellements mentionnés à l’alinéa précédent, si elle constate que les conditions des articles 807 et 814 ne sont pas ou ne sont plus satisfaites.

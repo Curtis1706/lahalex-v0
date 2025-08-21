@@ -1,0 +1,1 @@
+Lorsque le legs est d'une chose indéterminée, l’héritier n’est pas obligé de la donner de la meilleure qualité, mais il ne peut l'offrir de la plus mauvaise.

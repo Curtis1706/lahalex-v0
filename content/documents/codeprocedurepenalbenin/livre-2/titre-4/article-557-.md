@@ -1,0 +1,2 @@
+Les personnes habilitées à constater ou à réprimer les infractions visées à l’article 554 du présent code, sont autorisées à effectuer à toute heure du jour et de la nuit des contrôles dans les services postaux en vue de déceler les expéditions illicites de drogues et de précurseurs.
+Lorsque des indices sérieux laissent présumer une telle expédition, ces personnes pourront requérir l’ouverture de l’envoi conformément aux dispositions applicables en la matière.

@@ -1,0 +1,1 @@
+Les auteurs d'une violation des dispositions des articles 3, 36, 66, 153, 157, 158, 159 et 160 de la présente loi sont punis d'une amende de dix mille (10 000) à cent mille (100 000) FCFA et d'une peine d'emprisonnement de un (01) à six (06) mois ou de l'une de ces deux peines seulement.

@@ -1,0 +1,1 @@
+Le conseil de supervision est composé du moire, des adjoints au maire et des présidents des commissions permanentes.

@@ -1,0 +1,1 @@
+Les peines portées par un arrêt ou un jugement rendu pour une infraction qualifiée délit par la loi se prescrivent par cinq (05) années révolues à compter de la date où cet arrêt ou jugement est devenu définitif.

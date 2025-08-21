@@ -1,0 +1,2 @@
+La parenté se qualifie d’après la nature du lien qui rattache les parents. Elle est, suivant le cas, légitime, naturelle ou adoptive.
+Sauf les exceptions déterminées par le présent code, la parenté ne produit aucun effet au- delà du sixième degré.

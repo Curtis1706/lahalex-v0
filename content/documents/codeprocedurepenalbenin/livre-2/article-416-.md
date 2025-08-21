@@ -1,0 +1,4 @@
+Les dispositions de l’article 414 du présent code, sont inapplicables :
+1. si l’infraction expose son auteur, soit à une autre sanction qu’une sanction pécuniaire, soit à la réparation des dommages causés aux personnes ou aux biens ;
+2. si l’infraction constatée se cumule avec un délit ou un crime ;
+3. si en violation des dispositions du présent article, l’agent verbalisateur a reçu le paiement de l’amende forfaitaire, le contrevenant peut être poursuivi ultérieurement devant le tribunal. En ce cas, l’amende déjà payée s’impute sur celle à laquelle il est condamné. Elle lui est restituée au vu d’un ordre donné par le ministère public s’il est relaxé.

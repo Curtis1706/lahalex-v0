@@ -1,0 +1,3 @@
+Toute déclaration en vue d'acquérir, de décliner l'acquisition, de répudier, de renoncer à la faculté de répudier ou de réintégrer la nationalité béninoise, est à peine de nullité, déposée à l'autorité en charge de la délivrance des actes relatifs à la nationalité et adressée au ministre chargé de la justice.
+L'autorité en charge de la délivrance des actes relatifs à la nationalité en assure l'enregistrement et la conservation.
+Si le déclarant se trouve à l'étranger, la déclaration est reçue par les agents diplomatiques ou consulaires béninois, lesquels l'acheminent sans délai à l'autorité en charge de la délivrance des actes relatifs à la nationalité.

@@ -1,0 +1,1 @@
+Dans tous les cas exprimés au présent paragraphe, celui qui a fait usage des actes faux est puni de la réclusion criminelle à temps de dix (10) ans à vingt (20) ans.

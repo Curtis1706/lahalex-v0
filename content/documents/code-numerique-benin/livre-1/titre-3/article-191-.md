@@ -1,0 +1,3 @@
+Contrôle de l’Autorité de régulation
+L’Autorité de régulation exerce un contrôle permanent sur les conditions techniques et d’exploitation des stations radioélectriques publiques et privées de toutes catégories.
+A cet effet, ses représentants peuvent, chaque fois que les circonstances l’exigent et après avoir informé la Haute Autorité de l’Audiovisuel et de la Communication (HAAC) pour ce qui concerne les autorisations d’exercice délivrées par elle, pénétrer dans les stations émettrices.

@@ -1,0 +1,4 @@
+Le mineur non marié peut être émancipé lorsqu’il a atteint l’âge de seize (16) ans révolus.
+L'émancipation est prononcée par le président du tribunal de première instance ou le juge par lui délégué, assisté de son greffier, seulement si elle satisfait aux intérêts de l’enfant et s’il y a de justes motifs, établis au besoin par enquête.
+Elle est demandée par la personne qui exerce l'autorité parentale sur l’enfant.
+Pour le mineur en tutelle, hormis les cas où les fonctions de tuteur sont exercées par le père ou la mère, l’émancipation est demandée par le conseil de famille représenté par le tuteur ou un tuteur « ad hoc » désigné par le conseil.

@@ -1,0 +1,3 @@
+Conditions de perquisition
+Les perquisitions prévues à l’article 587 ne peuvent avoir lieu qu’avec le consentement exprès de la personne chez qui l’opération a lieu.
+Cependant, si l’enquête est relative à un crime ou un délit puni de plus de cinq (5) ans de peine d’emprisonnement ou si la recherche de biens le justifie, le juge d’instruction peut, sur autorisation écrite, décider que la perquisition et la saisie seront effectuées sans l’assentiment de la personne.

@@ -1,0 +1,1 @@
+Il est mentionné sur l'extrait remis au demandeur que les informations qu'il contient, reproduisent de manière exacte l'ensemble des données relatives à cette personne qui est inscrite sur le registre national.

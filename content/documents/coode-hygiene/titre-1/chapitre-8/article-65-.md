@@ -1,0 +1,5 @@
+L'eau destinée à la consommation humaine est conforme aux normes de potabilité fixées par le décret y relatif, prévu par la loi-cadre sur l'environnement en République du Bénin.
+Le contrôle de la qualité de l'eau est obligatoire et effectué par des laboratoires agréés par 1 ‘Etat, dans les conditions et selon les modalités fixées par les textes en vigueur.
+L'Etat, les collectivités territoriales décentralisées ou leur cocontractant chargé d'assurer la gestion du service public d'approvisionnement en eau potable, fournissent aux usagers, les informations appropriées concernant la qualité de l'eau destinée à l'alimentation humaine notamment, les résultats des analyses réalisées dans le cadre du contrôle sanitaire, ainsi que le prix de l'eau distribuée.
+Les données relatives à la qualité et au prix de l'eau distribuée font l'objet d'un affichage en mairie et de toutes autres mesures de publicité appropriées.
+Il en est de même pour la fréquence, les conditions des examens physico-chimiques et bactériologiques.

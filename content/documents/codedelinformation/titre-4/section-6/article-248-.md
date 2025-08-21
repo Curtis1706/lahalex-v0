@@ -1,0 +1,2 @@
+L’exploitation des stations terriennes de réception télévisuelle ou de données est assujettie au paiement au Trésor public d’une redevance annuelle fixée par la loi de finances.
+Ladite redevance correspond à au plus cinq pour cent (5%) du chiffre d’affaires annuel de l’entreprise.

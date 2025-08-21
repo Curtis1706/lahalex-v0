@@ -1,0 +1,2 @@
+L'organisme national en charge de l’aviation civile est désigné comme autorité compétente de sûreté de l'aviation civile en République du Bénin. Il en assure la régulation et la supervision.
+A ce titre, il élabore, met en œuvre et tient à jour le programme national de sûreté de l'aviation civile et le programme national de contrôle qualité de la sûreté de l'aviation civile ainsi que la politique nationale de formation à la sûreté.

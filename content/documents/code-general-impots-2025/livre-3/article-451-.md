@@ -1,0 +1,1 @@
+L’usager est tenu de verser au plus tard le 10 de chaque mois, au service des impôts désigné à cet effet, les droits représentant la valeur des empreintes apposées.

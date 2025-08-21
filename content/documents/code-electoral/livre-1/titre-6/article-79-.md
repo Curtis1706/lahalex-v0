@@ -1,0 +1,1 @@
+Le mandataire doit jouir de ses droits électoraux et être inscrit sur la même liste électorale que le mandant.

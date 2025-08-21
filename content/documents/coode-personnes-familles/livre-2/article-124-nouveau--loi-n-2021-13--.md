@@ -1,0 +1,1 @@
+« La femme divorcée ou veuve peut, sans délai se remarier dès lors qu'elle administre la preuve de ce qu’elle ne porte pas de grossesse de son précédent mariage ».

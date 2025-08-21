@@ -1,0 +1,1 @@
+Dans le délai d'un (01) an à compter de la déclaration, le gouvernement peut s'opposer par décret pris en Conseil des ministres à l'acquisition de la nationalité béninoise.

@@ -1,0 +1,1 @@
+L’exercice des droits civils est indépendant de l’exercice des droits politiques, lesquels s’acquièrent, se conservent et se perdent conformément à la Constitution, aux lois et règlements.

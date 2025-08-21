@@ -1,0 +1,1 @@
+Les successions des personnes décédées sans laisser d’exécuteur testamentaire ou dont les ayants droit ne sont pas présents ni représentés ou ont renoncé, sont administrées, liquidées et remises à l’Administration des domaines par le curateur aux successions et biens vacants dans les conditions fixées par le code de procédure civile.

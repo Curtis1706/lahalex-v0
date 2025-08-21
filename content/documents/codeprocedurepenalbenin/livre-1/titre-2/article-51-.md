@@ -1,0 +1,3 @@
+Sous réserve des dispositions de l’article précédent concernant le respect du secret professionnel et des droits de la défense, les opérations prescrites par ledit article sont faites en présence de la personne au domicile de laquelle la perquisition a lieu ou de son représentant.
+A défaut, l’officier de police judiciaire choisira deux (02) témoins requis par lui à cet effet, en dehors des personnes relevant de son autorité administrative.
+Le procès-verbal de ces opérations dressé ainsi qu’il est dit à l’article 66 est signé par les personnes visées au présent article. En cas de refus, il en est fait mention au procès-verbal.

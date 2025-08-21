@@ -1,0 +1,1 @@
+Si les coups ont été portés ou les blessures faites à un des fonctionnaires désignés à l’article 414 dans l’exercice ou à l’occasion de l’exercice de leurs fonctions avec intention de donner la mort, le coupable est puni de la réclusion criminelle à perpétuité.

@@ -1,0 +1,2 @@
+Le contrat est résilié sans délai à la demande de l’assureur qui est déchargé de l’obligation d’indemniser les sinistres déclarés après la première occasion au cas où, intentionnellement, l’assuré ne se serait pas conformé aux obligations de l’article précédent.
+L’assureur peut en outre, répéter les versements faits par lui pour les sinistres relatifs aux expéditions postérieures à la première omission et demander, à titre d’indemnité, le paiement des primes afférentes aux déclarations omises.

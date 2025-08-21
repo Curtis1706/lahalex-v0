@@ -1,0 +1,1 @@
+Lorsque la valeur des donations entre vifs excède ou égale la quotité disponible, l’exécution des libéralités testamentaires ne peut être demandée.

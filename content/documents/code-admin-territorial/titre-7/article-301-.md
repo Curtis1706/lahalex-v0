@@ -1,0 +1,1 @@
+Le conseil de communauté élit en son sein un président et le ou les vice- président (s) qui le suppléent ou le remplacent, selon le cas, dans l'ordre de préséance.

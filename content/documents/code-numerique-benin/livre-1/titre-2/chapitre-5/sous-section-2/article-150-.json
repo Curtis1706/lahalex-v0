@@ -1,0 +1,17 @@
+{
+  "id": "article-150-",
+  "title": "Article 150 : Obligation de non-discrimination",
+  "numero": "150 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "chapitre-5",
+    "sous-section-2"
+  ],
+  "navigation": {
+    "parent": "sous-section-2",
+    "previous": "article-149-",
+    "next": "article-151-"
+  }
+}

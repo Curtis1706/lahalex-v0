@@ -1,0 +1,2 @@
+Les jugements et arrêts rendus par les juridictions étrangères ne peuvent être transcrits sur les registres de l’état civil que s’ils sont revêtus de l’exequatur.
+Il appartient au représentant du ministère public près les juridictions qui ont accordé l’exequatur de faire procéder aux transcriptions des mentions prévues par la loi.

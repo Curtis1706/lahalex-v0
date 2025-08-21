@@ -1,0 +1,5 @@
+Frais
+Les frais de toute nature peuvent être, soit remboursés à la victime sur présentation des pièces justificatives, soit pris en charge directement par l’assureur du véhicule ayant causé l’accident.
+Toutefois, leurs coûts ne sauraient excéder deux fois le tarif le plus élevé des hôpitaux publics du pays de l’accident et en cas d’évacuation sanitaire justifiée par expertise, une fois le tarif le plus élevé des hôpitaux publics du pays d’accueil.
+À la demande de la victime, l’assureur du véhicule ayant causé l’accident ou du véhicule dans lequel la victime était transportée est tenu de délivrer, dans la limite des tarifs prévus ci-dessus, une lettre de garantie pour la prise en charge des frais médicaux.
+Les frais futurs raisonnables et indispensables au maintien de l’état de santé de la victime postérieurement à la consolidation font l’objet d’une évaluation forfaitaire après avoir recueilli l’avis d’un expert.

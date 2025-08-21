@@ -1,0 +1,1 @@
+Des ordonnances comportant non-lieu partiel peuvent intervenir en cours d’information.

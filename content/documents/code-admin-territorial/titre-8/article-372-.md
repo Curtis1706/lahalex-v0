@@ -1,0 +1,1 @@
+Le principe des droits et obligations constatés signifie que les créances et les dettes sont enregistrées dès leur naissance, sans attendre l’encaissement ou le décaissement effectif.

@@ -1,0 +1,2 @@
+Les contraventions sont prouvées soit par procès-verbaux ou rapports, soit par témoins à défaut de rapports et procès-verbaux à leur appui.
+Sauf dans le cas où la loi en dispose autrement, les procès-verbaux ou rapports établis par les officiers et agents de police judiciaire, ou les fonctionnaires chargés de certaines fonctions de police judiciaire auxquels la loi a attribué le pouvoir de constater les contraventions, font foi jusqu’à preuve contraire, laquelle ne peut être rapportée que par écrit ou par témoins.

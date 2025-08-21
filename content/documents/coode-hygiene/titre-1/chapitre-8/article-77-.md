@@ -1,0 +1,1 @@
+Tout point d'eau, avant sa mise en consommation, fait l'objet d'un examen physico-chimique et bactériologique par les services compétents du ministère en charge de la santé.

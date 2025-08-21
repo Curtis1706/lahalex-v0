@@ -1,0 +1,3 @@
+Article 724 : Excédent minimum de marge de solvabilité
+Les éléments constitutifs de la marge de solvabilité d’une entreprise de micro assurance déterminés conformément aux dispositions de l’article 337-1 du code des assurances doivent représenter au moins de 150 % de l’exigence de marge de solvabilité déterminées conformément aux dispositions des articles 337-2, 337-3, 337-4 et 723.
+## TITRE 3 : LES REGLES COMPTABLES APPLICABLES AUX ORGANISMES DE MICRO ASSURANCE

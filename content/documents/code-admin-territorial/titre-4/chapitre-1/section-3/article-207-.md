@@ -1,0 +1,1 @@
+Le conseil de village ou de quartier de ville se réunit en session ordinaire une fois par trimestre, sur convocation du chef de village ou de quartier de ville. La durée de la session ne peut excéder une journée. Il peut se réunir en session extraordinaire dans les mêmes conditions.

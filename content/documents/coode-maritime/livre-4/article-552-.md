@@ -1,0 +1,1 @@
+L’assurance du navire est contractée, soit pour un voyage, soit pour plusieurs voyages consécutifs ou pour une durée déterminée.

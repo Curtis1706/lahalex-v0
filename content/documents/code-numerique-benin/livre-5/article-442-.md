@@ -1,0 +1,3 @@
+Fichier nominatif
+Sur avis favorable de l'Autorité, un fichier nominatif peut être complété ou corrigé même d’office lorsque l’organisme qui le tient acquiert connaissance de l’inexactitude 	ou du caractère 	incomplet d’une information nominative contenue dans ce fichier.
+Si une information a été transmise à un tiers, sa rectification ou son annulation doit être notifiée à ce tiers, sauf dispense accordée par l'Autorité.

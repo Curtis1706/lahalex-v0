@@ -1,0 +1,1 @@
+Sont considérés comme risques professionnels au titre de la présente loi les accidents du travail et les maladies professionnelles.

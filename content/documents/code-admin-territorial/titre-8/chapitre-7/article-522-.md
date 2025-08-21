@@ -1,0 +1,1 @@
+Les règles budgétaires et comptables des communes et établissements publics de coopération intercommunale sont applicables aux régies des services publics à caractère industrie! et commercial, sous réserve des dispositions spécifiques prévues par les lois et règlements.

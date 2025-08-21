@@ -1,0 +1,3 @@
+Article 317 : Scolarisation obligatoire de l'enfant incarcéré
+Tout établissement pénitentiaire qui reçoit des enfants leur assure, sous la direction des enseignants qualifiés, une scolarisation adaptée à leurs besoins et aptitudes de nature à faciliter leur réinsertion.
+Tout enfant, ayant dépassé l’âge de la scolarité obligatoire ou ayant des difficultés scolaires, a le droit de recevoir une formation professionnelle.

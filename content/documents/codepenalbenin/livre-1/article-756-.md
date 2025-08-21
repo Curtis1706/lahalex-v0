@@ -1,0 +1,1 @@
+La tentative de l’infraction prévue à l’article 755 du présent code est punie comme l’infraction elle-même.

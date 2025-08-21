@@ -1,0 +1,1 @@
+Les témoins et jurés qui ont allégué une excuse reconnue fausse, sont condamnés outre les amendes prononcées pour la non comparution, à un emprisonnement de quinze (15) jours à deux (02) mois.

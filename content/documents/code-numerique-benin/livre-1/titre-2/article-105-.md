@@ -1,0 +1,2 @@
+Détermination de l’approche pour assurer la mise en œuvre du    service universel
+Le Ministre chargé des communications électroniques et de la poste détermine l’approche la plus efficace et la plus adaptée pour assurer la mise en œuvre du service universel sur proposition du Conseil national d’orientation.

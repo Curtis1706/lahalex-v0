@@ -1,0 +1,2 @@
+Sauf cas de vente forcée, l’immatriculation d'un aéronef ne peut être obtenue dans un autre Etat, sans mainlevée préalable des droits inscrits ou sans le consentement des titulaires.
+Jusqu’à ce qu'il ait été satisfait à cette condition, l'organisme national en charge de l'aviation civile doit refuser toute radiation.

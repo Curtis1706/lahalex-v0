@@ -1,0 +1,2 @@
+L’utilisation des enfants, des adolescents et des handicapés comme objet publicitaire de sorte à provoquer à leur égard, le mépris, le ridicule ou le discrédit de la communauté est interdite.
+La divulgation publique de l’image, de la photographie d’un mineur est soumise à l’autorisation préalable de la personne ayant légalement autorité sur lui.

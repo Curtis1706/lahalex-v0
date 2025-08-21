@@ -1,0 +1,2 @@
+La preuve de la nationalité béninoise est faite par l'établissement des conditions et formalités requises par la loi béninoise.
+Toutefois, lorsque la nationalité béninoise résulte de la filiation ou de l'adoption, elle est tenue pour établie, sauf preuve contraire, si la personne dont l'intéressé prétend tenir cette nationalité, a joui d'une manière constante de la possession d'état de Béninois.

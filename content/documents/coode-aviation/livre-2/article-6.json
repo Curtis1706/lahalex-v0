@@ -1,0 +1,14 @@
+{
+  "id": "article-6",
+  "title": "Article 6: L'Etat crée un établissement public à caractère administratif et technique doté de la personnalité morale et de l’autonomie financière et de gestion, chargé d’assurer pour son compte, les missions de réglementation, de contrôle et de supervision des activités de l'aviation civile.",
+  "numero": "6",
+  "document": "coode-aviation",
+  "path": [
+    "livre-2"
+  ],
+  "navigation": {
+    "parent": "livre-2",
+    "previous": "article-5-",
+    "next": "article-7-"
+  }
+}

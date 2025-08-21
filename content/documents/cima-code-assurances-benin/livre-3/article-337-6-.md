@@ -1,0 +1,2 @@
+Indisponibilité de l’information
+Lorsque la Commission ne dispose pas, quelle qu’en soit la raison, des informations nécessaires au calcul de la solvabilité ajustée relatives à une entreprise consolidée ou combinée ayant son siège social dans un État membre ou dans un pays tiers, la valeur comptable de cette entreprise dans les comptes consolidés ou combinés est déduite de la marge de solvabilité disponible. Dans ce cas, aucune plus-value latente associée à cette participation n’est admise comme élément de la marge de solvabilité disponible.

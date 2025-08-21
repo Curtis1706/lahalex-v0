@@ -1,0 +1,2 @@
+Article 66 : Nature juridique
+L’adoption plénière est une adoption irrévocable qui donne à l’adopté les mêmes droits et obligations qu’un enfant légitime, lui faisant perdre tout lien avec sa famille d’origine.

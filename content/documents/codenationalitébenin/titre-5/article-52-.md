@@ -1,0 +1,1 @@
+Les actes réglementaires portant naturalisation, autorisation de répudiation et réintégration dans la nationalité béninoise sont pris sous la forme de décrets en Conseil des ministres sur rapport du ministre chargé de la justice ou d'arrêtés de ce ministre.

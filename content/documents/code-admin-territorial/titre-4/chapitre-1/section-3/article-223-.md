@@ -1,0 +1,1 @@
+Le chef de village ou de quartier de ville prête son concours aux agents de l'Administration, notamment dans le cadre du recouvrement des impôts et taxes.

@@ -1,0 +1,1 @@
+Quiconque, sans titre, s’est immiscé dans des fonctions publiques, civiles ou militaires ou a fait les actes d’une de ces fonctions, est puni d’un emprisonnement de deux (02) ans à cinq (05) ans, sans préjudice de la peine de faux, si l’acte porte le caractère de ce crime.

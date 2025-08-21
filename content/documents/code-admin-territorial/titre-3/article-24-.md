@@ -1,0 +1,2 @@
+La commune est la collectivité territoriale décentralisée en République du Bénin. Elle constitue le cadre institutionnel pour l'exercice de la démocratie à la base et le lieu privilégié de la participation des citoyens à la gestion des affaires publiques locales.
+La commune est dotée de la personnalité juridique et de l'autonomie financière. Elle s'administre librement dans les conditions fixées par la présente loi.

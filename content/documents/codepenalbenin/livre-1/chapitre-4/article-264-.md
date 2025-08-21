@@ -1,0 +1,2 @@
+Toute infraction aux dispositions de la loi sur la propagande électorale est punie sans préjudice des poursuites pour crimes et délits qui peuvent être commis au cours des réunions.
+Sont applicables à la propagande électorale les dispositions des lois et règlements en matière de presse et de communication audiovisuelle.

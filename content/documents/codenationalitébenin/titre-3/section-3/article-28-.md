@@ -1,0 +1,3 @@
+L'enfant qui a fait l'objet d'une adoption simple par une personne de nationalité béninoise peut, jusqu'à sa majorité, déclarer, dans les conditions prévues aux articles 49, 50 et 51, qu'il réclame la qualité de Béninois, pourvu qu'à l'époque de sa déclaration il réside en République du Bénin.
+Toutefois, l'obligation de résidence ne s'applique pas lorsque l'enfant a été adopté par une personne de nationalité béninoise n'ayant pas sa résidence habituelle en République du Bénin.
+Peut, dans les mêmes conditions, réclamer la nationalité béninoise, l'enfant étranger abandonné qui, depuis au moins trois (03) années, est recueilli sur décision de justice et élevé par une personne de nationalité béninoise ou est confié à un service d'assistance sociale en République du Bénin.

@@ -1,0 +1,1 @@
+A défaut de signature de la déclaration par tous les candidats de la liste, une procuration dûment certifiée par l'autorité administrative devra être produite pour les candidats n'ayant pas signé personnellement la déclaration. Cette procuration doit donner pouvoir au signataire effectif de la déclaration.

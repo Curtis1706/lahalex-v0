@@ -1,0 +1,1 @@
+Tout écrit peut être publié par tout support médiatique écrit.

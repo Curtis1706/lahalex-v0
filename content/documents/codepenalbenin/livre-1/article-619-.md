@@ -1,0 +1,3 @@
+Le faux témoin, en toute matière, qui aura reçu de l’argent, une récompense quelconque ou des promesses, sera puni d’un emprisonnement de un (01) an à trois (03) ans et d’une amende de cinquante mille (50.000) francs CFA à deux cent cinquante mille (250.000) francs CFA.
+Il pourra l’être aussi des peines accessoires mentionnées à l’article 39 du présent code.
+Dans tous les cas, ce que le faux témoin aura reçu sera confisqué.

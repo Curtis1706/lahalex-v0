@@ -1,0 +1,2 @@
+Quiconque porte des coups ou fait des blessures à une femme enceinte est puni de deux (02) ans à cinq (05) ans d’emprisonnement et d’une amende de cent mille (100.000) francs CFA à deux cent mille (200.000) francs CFA
+Celui qui, par défaut de précaution ou de prévoyance, cause à une femme enceinte des lésions corporelles ayant entrainé un avortement, est puni de trois (03) mois à deux (02) ans d’emprisonnement et d’une amende de cent mille (100.000) francs CFA à deux cent mille (200.000) francs CFA.

@@ -1,0 +1,1 @@
+Nul, surtout un professionnel des médias, ne peut être empêché, ni interdit d’accès aux sources d’information, ni inquiété de quelque façon que ce soit dans l’exercice régulier de sa mission de communicateur s’il se conforme aux dispositions de la présente loi.

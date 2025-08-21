@@ -1,0 +1,2 @@
+Les biens des époux, qu’ils possèdent à la date de leur mariage ou qu’ils acquièrent postérieurement au mariage par succession ou donation, demeurent leur propriété personnelle.
+Sont également propres à chacun des époux les biens acquis à titre onéreux pendant le mariage, lorsque cette acquisition a été faite avec des deniers propres ou provenant de l’aliénation d’un bien propre.

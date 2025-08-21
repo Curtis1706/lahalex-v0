@@ -1,0 +1,2 @@
+ROLE DE LA COMMISSION
+La Commission est l’organe exécutif permanent de la Communauté chargé de la mise en œuvre et du suivi des orientations et décisions du COPAX, y compris le déploiement des missions et opérations mandatées.

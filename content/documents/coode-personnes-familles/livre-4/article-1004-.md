@@ -1,0 +1,2 @@
+Les questions relatives à la désignation des successibles, l’ordre dans lequel ils sont appelés, la transmission de l’actif et du passif à chacun d’entre eux, sont régis par la loi nationale du défunt au moment de son décès.
+Toutefois, si au moment de son décès le défunt avait des liens manifestement plus étroits avec l’Etat de son domicile, la succession sera régie par la loi du domicile du défunt au moment de son décès.

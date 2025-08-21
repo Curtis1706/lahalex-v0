@@ -1,0 +1,1 @@
+« Est puni d’une amende de cinq cent mille (500 000) à un million (1 000 000) de francs CFA et d’un emprisonnement de un (01) an à deux (02) ans ou de l’une de ces deux peines seulement, l’auteur ou le complice de harcèlement sexuel »

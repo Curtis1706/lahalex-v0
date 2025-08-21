@@ -1,0 +1,1 @@
+Toute modification importante dans les horaires, l’itinéraire ou les escales prévus, donne au passager le droit de demander la résolution du contrat et des dommages-intérêts s’il y a lieu.

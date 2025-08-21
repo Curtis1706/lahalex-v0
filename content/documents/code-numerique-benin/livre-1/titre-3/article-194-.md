@@ -1,0 +1,2 @@
+Règles et normes de bonne utilisation des systèmes radioélectriques
+L’Autorité de régulation fixe les règles de compatibilité électromagnétique, d’ingénierie du spectre de fréquences radioélectriques et de normes propres à assurer une bonne utilisation des systèmes radioélectriques.

@@ -1,0 +1,4 @@
+Contribution au titre de la formation et de la normalisation
+La contribution des opérateurs titulaires de licence et d’autorisation au titre de la formation et de la normalisation au profit du Ministère en charge des communications électroniques et de l’Autorité de régulation est fixée à un pourcentage de leur chiffre d’affaires réalisé au titre des activités de communications électroniques, objet de la licence et/ou de l’autorisation.
+Ce pourcentage est fixé par décret pris en Conseil des Ministres sur proposition du Ministre chargé des communications électroniques et du Ministre chargé des finances.
+Le montant de la contribution est payé directement au trésor public sur le compte de l’Autorité de régulation.

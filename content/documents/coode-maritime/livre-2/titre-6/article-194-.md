@@ -1,0 +1,2 @@
+Si l’événement donnant lieu à enquête s’est produit alors que le navire se trouvait dans un port, l’enquête maritime doit être effectuée dans ce port, ou au prochain port d’escale.
+L’enquête maritime peut, cependant, être reportée jusqu’à l’arrivée du navire dans un autre port, s’il est établi qu’il en résultera un gain important de temps ou financier pour le navire, et compte tenu de la nature de l’événement donnant lieu à enquête.

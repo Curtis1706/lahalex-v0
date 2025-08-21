@@ -1,0 +1,3 @@
+L’expert ou le comité d’experts peut convoquer toute personne dont le témoignage lui paraît utile.
+Si le témoignage d’un membre de l’équipage est requis, la convocation peut être adressée au capitaine du navire.
+L’expert ou le comité d’experts est habilité à interroger les personnes convoquées ou toutes autres personnes intéressées sur tout aspect intéressant directement ou indirectement les faits faisant l’objet de l’expertise.

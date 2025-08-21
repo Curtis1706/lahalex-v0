@@ -1,0 +1,2 @@
+Article 291 : Obligation d'Information
+Le juge des enfants avertit l’enfant, ses parents, son tuteur ou son gardien, du caractère de la liberté surveillée ainsi que des obligations qu’elle entraîne pour eux.

@@ -1,0 +1,16 @@
+{
+  "id": "article-16-",
+  "title": "Article 16 : Obligations de l’assureur",
+  "numero": "16 ",
+  "document": "cima-code-assurances-benin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-3"
+  ],
+  "navigation": {
+    "parent": "chapitre-3",
+    "previous": "article-15-",
+    "next": "article-17-"
+  }
+}

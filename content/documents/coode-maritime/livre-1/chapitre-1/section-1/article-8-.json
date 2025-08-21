@@ -1,0 +1,16 @@
+{
+  "id": "article-8-",
+  "title": "Article 8 :",
+  "numero": "8 ",
+  "document": "coode-maritime",
+  "path": [
+    "livre-1",
+    "chapitre-1",
+    "section-1"
+  ],
+  "navigation": {
+    "parent": "section-1",
+    "previous": "article-6-",
+    "next": "article-9-"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "article-85-",
+  "title": "Article 85 : Mise à disposition des infrastructures essentielles",
+  "numero": "85 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-84-",
+    "next": "article-86-"
+  }
+}

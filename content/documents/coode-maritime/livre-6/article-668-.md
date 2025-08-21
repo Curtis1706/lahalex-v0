@@ -1,0 +1,2 @@
+Les dispositions du droit commun concernant les délais de prescription de l’action publique, de l’exécution de la peine et de l’action civile, les circonstances atténuantes, le sursis et la récidive sont applicables aux crimes et délits prévus par le présent code.
+Les délais courent à partir du jour où le navire a touché un port de la République du Bénin.

@@ -1,0 +1,15 @@
+{
+  "id": "article-211-",
+  "title": "Article 211 : Règles de gestion des noms de domaine",
+  "numero": "211 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-3"
+  ],
+  "navigation": {
+    "parent": "titre-3",
+    "previous": "article-210-",
+    "next": "article-212-"
+  }
+}

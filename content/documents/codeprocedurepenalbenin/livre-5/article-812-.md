@@ -1,0 +1,1 @@
+Le bénéfice de la libération conditionnelle peut être assorti de conditions particulières ainsi que des mesures d’assistance et de contrôle destinées à faciliter et à vérifier la réinsertion du libéré.

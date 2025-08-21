@@ -1,0 +1,16 @@
+{
+  "id": "article-45-",
+  "title": "Article 45 : Coordination avec les autorités régionales et les autorités de régulation nationales",
+  "numero": "45 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "section-1"
+  ],
+  "navigation": {
+    "parent": "section-1",
+    "previous": "article-44-",
+    "next": "article-46-"
+  }
+}

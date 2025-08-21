@@ -1,0 +1,5 @@
+Sont considérés comme survivants :
+a) le conjoint survivant non divorcé, à condition que le mariage ait été contracté antérieurement à l’accident. Le conjoint condamné pour abandon de famille est déchu de tous ses droits au titre de la réparation des accidents du travail et des maladies professionnelles ;
+b) les enfants à charge de la victime tels qu’ils sont définis aux articles 114 et 115 de la présente loi ;
+c) les ascendants de la victime qui étaient à sa charge au moment de l’accident ou qui, au moment ou postérieurement à ce dernier ne disposent pas ou ne disposent plus de ressources suffisantes. L’ascendant reconnu coupable d’abandon de famille ou déchu de la puissance paternelle ne peut prétendre à aucune rente ;
+d) dans le cas où le conjoint survivant divorcé ou séparé de corps a obtenu une pension alimentaire, la rente viagère lui est due, mais elle est ramenée au montant de cette pension sans pouvoir dépasser 20 % du salaire annuel de la victime. Toutefois en cas de remariage ou de concubinage notoire dûment constaté, cette rente est supprimée.

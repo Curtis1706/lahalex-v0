@@ -1,0 +1,15 @@
+{
+  "id": "article-29-",
+  "title": "Article 29 : Est présumé avoir agi en état de légitime défense celui qui accomplit l’acte :",
+  "numero": "29 ",
+  "document": "codepenalbenin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-28-",
+    "next": "article-30-"
+  }
+}

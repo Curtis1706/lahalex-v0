@@ -1,0 +1,17 @@
+{
+  "id": "article-27-",
+  "title": "Article 27 : En année électorale, le Conseil électoral se réunit aussi souvent que nécessaire. Dans tous les cas, il se réunit au moins une fois tous les quinze (15) jours.",
+  "numero": "27 ",
+  "document": "code-electoral",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "chapitre-2",
+    "section-2"
+  ],
+  "navigation": {
+    "parent": "section-2",
+    "previous": "article-26-",
+    "next": "article-28-"
+  }
+}

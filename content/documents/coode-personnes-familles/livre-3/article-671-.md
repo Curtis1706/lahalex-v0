@@ -1,0 +1,1 @@
+L’héritier bénéficiaire peut également se décharger du soin de gérer et de liquider la succession en faisant nommer un administrateur par le juge du lieu de l’ouverture de la succession statuant sur requête.

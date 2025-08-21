@@ -1,0 +1,2 @@
+Tout propriétaire d'habitation pourvoit son habitation de systèmes d'évacuation et de traitement des eaux usées ménagères et des excréta, conformément à la réglementation en vigueur en matière de construction.
+Les systèmes d'évacuation et de traitement sont fonctionnels et hygiéniquement entretenus.

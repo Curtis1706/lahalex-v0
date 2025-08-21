@@ -1,0 +1,14 @@
+{
+  "id": "article-12-",
+  "title": "Article 12 : Commission d'ouverture et d'évaluation (COE)",
+  "numero": "12 ",
+  "document": "code-marche-public",
+  "path": [
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-11-",
+    "next": "article-13-"
+  }
+}

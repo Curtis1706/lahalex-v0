@@ -1,0 +1,2 @@
+Article 12 : Responsabilité du civilement responsable de l'enfant
+Les père et mère ou l’un des deux, ou la personne exerçant l’autorité parentale ou tutélaire, ou toute personne ayant la charge de l’enfant ont la responsabilité et l’obligation de l’élever, de l’éduquer et de le protéger.

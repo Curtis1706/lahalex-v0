@@ -1,0 +1,4 @@
+Ne sont pas soumis selon le cas, à la condition de résidence et d'assimilation prévue à l'article 34 cidessus :
+le conjoint et l'enfant majeur étrangers de l'étranger qui acquiert la nationalité béninoise ;
+l'étranger qui a rendu des services importants à la République du Bénin ou dont la naturalisation présente un intérêt certain pour la République du Bénin.
+Les éléments d'appréciation des services importants rendus ou de l'intérêt certain visés à l'alinéa cidessus peuvent notamment résulter de l'apport de talents artistiques, scientifiques, littéraires ou sportifs distingués, l'introduction d'industries ou d'inventions utiles, la création d'établissements industriels, commerciaux ou d'exploitations agricoles et d'une manière générale, l'organisation de toute activité de nature à contribuer au développement économique et social du pays et à générer des emplois.

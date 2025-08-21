@@ -1,0 +1,2 @@
+Notification Dès qu’elles auront interné des personnes protégées, les Puissances déten- des mesures trices porteront à leur connaissance, à celle de la Puissance dont elles sont prises ressortissantes et de leur Puissance protectrice, les mesures prévues pour l’exécution des dispositions du présent chapitre ; elles notifieront de même
+toute modification apportée à ces mesures.

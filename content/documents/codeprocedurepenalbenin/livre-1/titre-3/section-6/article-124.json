@@ -1,0 +1,16 @@
+{
+  "id": "article-124",
+  "title": "Article 124:",
+  "numero": "124",
+  "document": "codeprocedurepenalbenin",
+  "path": [
+    "livre-1",
+    "titre-3",
+    "section-6"
+  ],
+  "navigation": {
+    "parent": "section-6",
+    "previous": "article-123-",
+    "next": "article-125-ancien-"
+  }
+}

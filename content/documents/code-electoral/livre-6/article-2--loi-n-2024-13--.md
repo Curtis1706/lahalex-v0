@@ -1,0 +1,2 @@
+La présente loi abroge la loi n°2020-13 du 4 juin 2020 portant interprétation et complétant la loi n°2019-43 du 15 novembre 2019 portant code électoral ainsi que toutes dispositions antérieures contraires.
+Elle sera exécutée comme Loi de l’Etat.

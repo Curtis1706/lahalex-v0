@@ -1,0 +1,3 @@
+Formalités et documents commerciaux
+1. Les Etats membres conviennent de simplifier et d'harmoniser leurs formalités et leurs documents commerciaux, de manière à faciliter les échanges de marchandises et services au sein de la Communauté.
+1. Aux fins du présent chapitre, les Etats membres conviennent par ailleurs d’œuvrer conformément aux dispositions du Protocole relatif à la facilitation des échanges entre les Etats membres de la CEEAC annexé au présent traité.

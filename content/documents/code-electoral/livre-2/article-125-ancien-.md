@@ -1,0 +1,2 @@
+La liste électorale informatisée est établie après la correction de la liste électorale informatisée provisoire (LEIP).
+Elle est subdivisée en lots de cinq cents (500) électeurs maximums par poste de vote

@@ -1,0 +1,15 @@
+{
+  "id": "article-230-",
+  "title": "Article 230 :",
+  "numero": "230 ",
+  "document": "code-douane",
+  "path": [
+    "titre-5",
+    "paragraphe-4"
+  ],
+  "navigation": {
+    "parent": "paragraphe-4",
+    "previous": "article-229-",
+    "next": "article-231-"
+  }
+}

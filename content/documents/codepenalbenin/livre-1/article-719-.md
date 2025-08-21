@@ -1,0 +1,2 @@
+La reproduction d’œuvres littéraires et artistiques sans autorisation préalable des titulaires de droit d’auteur et des droits voisins et, le cas échéant, celle de l’organisme de gestion collective chargée de la gestion collective et de la défense des droits patrimoniaux des auteurs et des titulaires des droits voisins, est qualifiée de piraterie d’œuvres littéraires et artistiques.
+La piraterie d’œuvres littéraires et artistiques est une contrefaçon.

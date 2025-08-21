@@ -1,0 +1,4 @@
+Lorsque les rémunérations servant de base au calcul des cotisations n’ont pas été déclarées à la Caisse, ou lorsque les déclarations se révèlent inexactes, le montant des rémunérations et fixé comme suit :
+1) dans le cas où l’employeur n’a jamais fait de déclaration de rémunération, l’évaluation est fonction du taux de salaire pratiqué dans la profession ; la durée de l’emploi est déterminée d’après les déclarations des intéressés ou par tout autre moyen de preuve ;
+1) dans le cas où l’employeur a déjà fait des déclarations de rémunérations, la déclaration des cotisations dues, jusqu’à ce qu’il soit possible d’effectuer le décompte sur des bases réelles ;
+1) la Caisse se fait communiquer au moins une fois l’an, par les services fiscaux ou toutes autres structures de l’Etat, tous renseignements susceptibles de faciliter le contrôle des salaires servant de base au calcul des cotisations.

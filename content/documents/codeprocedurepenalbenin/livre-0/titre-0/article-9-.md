@@ -1,0 +1,5 @@
+La prescription est interrompue par tout acte de poursuite ou d’instruction.
+Lorsqu’en raison de la qualité, de l’emploi ou des fonctions assumées, l’auteur ou le complice d’une infraction n’a pu être poursuivi, le temps passé au poste suspend la prescription.
+Si des poursuites ayant entraîné condamnation ont révélé la fausseté du jugement ou de l’arrêt qui a déclaré l’action publique éteinte, l’action publique pourra être reprise ; la prescription doit alors être considérée comme suspendue depuis le jour où le jugement ou l’arrêt était devenu définitif jusqu’à celui de la condamnation du coupable de faux et usage de faux.
+La prescription de l’action publique est également suspendue par tout dysfonctionnement ou toute perturbation des services publics de la justice.
+Lorsque la victime est mineure et que l’infraction a été commise par un ascendant légitime, naturel ou adoptif, ou par une personne ayant autorité sur elle, le délai de prescription ne commence à courir qu’à partir de sa majorité ou de son émancipation.

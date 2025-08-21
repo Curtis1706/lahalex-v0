@@ -1,0 +1,1 @@
+Le  droit  fixe  est  déterminé  suivant  un  tarif  général  pour  toutes  les professions et un tarif spécial pour les activités d’importation et d’exportation.

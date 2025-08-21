@@ -1,0 +1,1 @@
+Les procédures prévues au présent chapitre donnent lieu au paiement des émoluments des greffiers et aux divers droits prévus par les textes en vigueur, notamment par le code général des impôts.

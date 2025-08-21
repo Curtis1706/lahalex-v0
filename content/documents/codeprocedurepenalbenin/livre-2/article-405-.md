@@ -1,0 +1,2 @@
+Si l’affaire n’est pas en état de recevoir jugement, ou si la personne ayant porté plainte n’a pas été avisée de la date de l’audience, le tribunal en ordonne le renvoi à l’une de ses plus prochaines audiences pour plus ample information et, s’il y a lieu, met le prévenu en liberté avec ou sans caution.
+En tout état de cause, l’instruction de l’affaire hormis les cas où la loi en dispose autrement, ne peut excéder un délai de six (06) mois à compter de la saisine régulière du tribunal.

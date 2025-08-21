@@ -1,0 +1,1 @@
+Les exploitants de piscines ou de baignades déjà existantes, sont tenus de se conformer aux dispositions de la présente loi dans un délai de douze (12) mois après son entrée en vigueur.

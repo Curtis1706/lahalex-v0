@@ -1,0 +1,2 @@
+Aucun promoteur d’organe de presse écrite, de radiodiffusion sonore ou de télévision ne peut être dirigeant d’un parti politique.
+Il ne peut par lui-même, ni par autrui se servir de son organe pour faire, sur le territoire national, la mobilisation des citoyens et la structuration d’associations ou de clubs au profit de son organe.

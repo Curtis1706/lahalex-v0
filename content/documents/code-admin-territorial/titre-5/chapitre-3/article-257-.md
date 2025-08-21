@@ -1,0 +1,3 @@
+Le secrétaire exécutif représente la commune en justice.
+Les actions en justice en demande ou en défense font l'objet d'une délibération du conseil de supervision. En cas d’urgence, le secrétaire exécutif accomplit les diligences nécessaires et rend compte au conseil de supervision, au besoin spécialement réuni.
+Le conseil communal peut, par une délibération spéciale, valider les modalités d'un règlement amiable en vue d'arrêter le cours d'un procès dans lequel la commune est engagée.

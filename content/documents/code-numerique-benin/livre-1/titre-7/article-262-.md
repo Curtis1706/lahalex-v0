@@ -1,0 +1,6 @@
+Non-respect des dispositions relatives aux agréments et à l’information de l’Autorité de régulation
+Est puni d'une amende de cinq millions (5 000 000) à dix millions (10 000 000) de francs CFA, quiconque :
+- fabrique ou fait fabriquer pour le marché intérieur, importe ou détient en vue de la vente ou de la distribution à titre onéreux ou gratuit, met en vente des équipements terminaux sans l’obtention des agréments prévus aux articles 212 et 213 du présent code ou procède à leur connexion à un réseau de communications électroniques sans préjudice de l'application du code des douanes ;
+- fait de la publicité en faveur de la vente des équipements terminaux n’ayant pas obtenu les agréments prévus aux articles 212 et 213 du présent code ;
+- s’abstient d’informer l’Autorité de régulation des modifications apportées aux informations énoncées dans une demande d’autorisation ou dans une déclaration ;
+- communique de fausses informations à l’Autorité de régulation dans une demande d’autorisation ou dans une déclaration.

@@ -1,0 +1,2 @@
+Chaque candidat à l'élection du duo président de la République et vice-président de la République ou chaque liste de candidats aux élections législatives ou communales présente une déclaration de candidature physique et dématérialisée auprès de la Commission électorale nationale autonome.
+La déclaration de candidature dématérialisée se fait conformément à un logiciel mis à la disposition des partis politiques par la Commission électorale nationale autonome.

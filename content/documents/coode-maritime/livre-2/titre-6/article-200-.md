@@ -1,0 +1,3 @@
+Les dispositions de l’article précédent sont également applicables en cas d’abordage entre un navire battant pavillon de la République du Bénin et un navire étranger.
+Toute enquête ou investigation entreprise par des autorités étrangères à la suite de l’abordage subi par le navire sous pavillon étranger sera considérée comme une enquête maritime au sens des dispositions du présent titre.
+L’autorité maritime peut cependant décider, en cas d'abordage entre un navire battant pavillon de la République du Bénin et un navire sous pavillon étranger, qu’il n’y aura pas lieu d’effectuer une enquête maritime, si le navire sous pavillon étranger n’est pas tenu, en vertu des dispositions de sa législation nationale, de se soumettre à une enquête similaire.

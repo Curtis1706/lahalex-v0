@@ -1,0 +1,4 @@
+Le financement public des médias de service public astreint ces derniers au respect strict de la déontologie et des obligations de transparence dans la gestion des fonds. Il les oblige aussi à :
+- se conformer à la décision de la Haute Autorité de l’Audiovisuel et de la Communication relative à l’accès équitable des partis politiques, des autres forces vives de la Nation et des citoyens auxdits médias ;
+- mieux traiter l’information et à se doter de contenus ou grilles de programmes variés et enrichissants pour leur public respectif ;
+- s’approvisionner en programme de stock et productions audiovisuelles de culture nationale de qualité auprès des professionnels du secteur privé régulièrement établis ou non en République du Bénin.

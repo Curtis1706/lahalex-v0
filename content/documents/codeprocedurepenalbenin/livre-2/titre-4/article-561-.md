@@ -1,0 +1,2 @@
+Le directeur de l’office central ou son délégué dirige et contrôle l’opération sur le territoire national et il ordonne les interventions qui lui paraissent appropriées.
+Il peut, avec l’accord, le cas échéant, des autres Etats intéressés, et éventuellement sur la base des accords financiers conclus, décider que l’expédition illicite sera interceptée et autoriser la poursuite de son acheminement soit telle quelle, soit après saisie des plantes ou des substances et, éventuellement, leur remplacement par d’autres produits.

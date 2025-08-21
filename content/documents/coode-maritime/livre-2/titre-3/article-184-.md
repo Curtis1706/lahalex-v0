@@ -1,0 +1,1 @@
+Sauf cas de force majeure, il est interdit à tout capitaine de jeter du lest dans les ports, passe et chenaux d’accès.

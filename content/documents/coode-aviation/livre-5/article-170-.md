@@ -1,0 +1,1 @@
+Les critères de certification des aérodromes sont fixés par voie réglementaire.

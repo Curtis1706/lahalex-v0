@@ -1,0 +1,1 @@
+Les tribunaux de première instance restent compétents lors même qu’une collectivité ou un établissement public est en cause et peuvent statuer sans qu’il y ait lieu pour les parties d’observer, dans le cas où il en existe, les formalités préalables qui sont prescrites avant qu’un procèsverbal puisse être adressé à ces personnes morales.

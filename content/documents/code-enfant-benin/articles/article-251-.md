@@ -1,0 +1,2 @@
+Article 251 : Conditions de détention des enfants
+Les enfants qui sont retenus par la police judiciaire sont placés dans de meilleures conditions d'entretien. Les unités de police judiciaire, pour cette fin, bénéficient d'un fonds.

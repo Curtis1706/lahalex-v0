@@ -1,0 +1,4 @@
+Dans l’administration légale pure et simple, les père et mère accomplissent ensemble les actes qu’un tuteur ne pourrait faire qu’avec l’autorisation du conseil de famille.
+A défaut d’accord entre les deux parents, l’acte doit être autorisé par le juge des tutelles.
+Même d’un commun accord, les père et mère ne peuvent ni vendre de gré à gré, ni apporter en société un immeuble ou un fonds de commerce appartenant au mineur, ni contracter un emprunt en son nom, ni renoncer à un droit, ni consentir à un partage amiable sans l’autorisation du juge des tutelles.
+Si l’acte cause un préjudice au mineur, les deux parents en sont solidairement responsables.

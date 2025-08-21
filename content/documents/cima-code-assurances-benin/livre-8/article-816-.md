@@ -1,0 +1,3 @@
+_(Règlement 2015-02)_ Marge de solvabilité - Principe et exigence minimale
+Toute entreprise soumise au contrôle en vertu de l’article 801 doit justifier de l’existence d’une marge de solvabilité suffisante, relative à l’ensemble de ses activités.
+Le montant de l’exigence de marge de solvabilité est calculé selon les mêmes bases que pour les sociétés anonymes d’assurance fixées aux articles 337-2 et suivants du code des assurances.

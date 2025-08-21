@@ -1,0 +1,1 @@
+L’ignorance de la loi pénale, le mobile, l’erreur sur la personne de la victime ou sur l’objet de l’infraction ainsi que le pardon de la victime, sont sans conséquence sur l’existence de la responsabilité. Ils peuvent cependant être pris en compte dans l’appréciation par la juridiction de la mesure de la peine.

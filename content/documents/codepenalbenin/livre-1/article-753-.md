@@ -1,0 +1,1 @@
+En cas de condamnation au paiement d’intérêts au taux d’intérêt légal, celui-ci sera majoré de moitié à l’expiration d’un délai de deux (02) mois à compter du jour où la décision de justice sera devenue exécutoire, fût - ce par provision.

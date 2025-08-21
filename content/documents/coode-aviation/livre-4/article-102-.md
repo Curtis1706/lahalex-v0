@@ -1,0 +1,1 @@
+L’Etat crée un organisme spécialisé et indépendant dénommé Bureau enquêtes-accidents. Il est chargé d’assurer en toute indépendance, pour le compte de l’Etat, les missions de réglementation sur les enquêtes des accidents et incidents d'aviation.

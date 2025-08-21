@@ -1,0 +1,1 @@
+Nul ne peut, par quelque moyen ou sous quelque forme que ce soit, faire campagne électorale en dehors de la période prévue à l'article précédent.

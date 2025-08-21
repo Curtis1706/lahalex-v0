@@ -1,0 +1,16 @@
+{
+  "id": "article-39-",
+  "title": "Article 39 : Vols de terminaux",
+  "numero": "39 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-4"
+  ],
+  "navigation": {
+    "parent": "chapitre-4",
+    "previous": "article-38-",
+    "next": "article-40-"
+  }
+}

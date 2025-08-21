@@ -1,0 +1,1 @@
+Article 10 : Les décisions relatives à la gestion de l’eau sont prises, selon le cas, par les autorités compétentes aux niveaux national, départemental, ou communal, en concertation avec les institutions de bassin et les usagers organisés en groupes d’intérêt, sous réserve qu’aucune considération d’intérêt général ou d’efficacité ne s’y oppose.

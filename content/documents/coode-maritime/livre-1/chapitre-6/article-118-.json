@@ -1,0 +1,15 @@
+{
+  "id": "article-118-",
+  "title": "Article 118 :",
+  "numero": "118 ",
+  "document": "coode-maritime",
+  "path": [
+    "livre-1",
+    "chapitre-6"
+  ],
+  "navigation": {
+    "parent": "chapitre-6",
+    "previous": "article-117-",
+    "next": "article-119-"
+  }
+}

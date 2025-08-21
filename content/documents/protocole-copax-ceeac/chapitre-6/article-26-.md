@@ -1,0 +1,3 @@
+APPENDICES
+1. Le Protocole révisé du COPAX et les deux appendices qui lui sont annexés, à savoir le Pacte de non-agression entre les Etats membres du Comité consultatif des Nations Unies chargé des questions de sécurité en Afrique centrale du 08 juillet 1996 et le Pacte d'assistance mutuelle entre les Etats membres de la CEEAC du 24 février 2000, forment un instrument juridique unique.
+1. Tout Etat qui ratifie ou adhère au Traité révisé de la CEEAC devient automatiquement partie aux autres instruments juridiques annexés au présent protocole et est lié, sans réserve, par ces derniers.

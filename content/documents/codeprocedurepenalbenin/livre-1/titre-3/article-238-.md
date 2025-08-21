@@ -1,0 +1,3 @@
+Le président de la chambre de l’instruction exerce les pouvoirs définis aux articles suivants.
+En cas d’empêchement de ce président, ses pouvoirs propres sont attribués par le président de la cour d’appel à un magistrat du siège de la cour.
+Les présidents de la chambre de l’instruction et la chambre des libertés et de la détention peuvent, pour des actes déterminés, déléguer leurs pouvoirs à un magistrat du siège appartenant à la chambre concernée.

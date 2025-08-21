@@ -1,0 +1,1 @@
+Les jugements en matière d'hygiène publique sont notifiés à la partie civile. Celle-ci peut, concurremment avec le procureur de la République, interjeter appel des jugements rendus en 1 ressort.

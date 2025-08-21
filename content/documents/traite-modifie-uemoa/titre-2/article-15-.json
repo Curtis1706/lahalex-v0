@@ -1,0 +1,14 @@
+{
+  "id": "article-15-",
+  "title": "Article 15 :",
+  "numero": "15 ",
+  "document": "traite-modifie-uemoa",
+  "path": [
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-12-",
+    "next": "article-18-"
+  }
+}

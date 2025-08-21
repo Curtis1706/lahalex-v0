@@ -1,0 +1,2 @@
+La parenté adoptive crée une obligation entre adoptant et adopté. Dans l’adoption plénière, cette obligation s’étend aux autres parents dans les mêmes conditions qu’en cas de filiation légitime.
+Dans l'adoption simple, lorsque cette obligation alimentaire restreinte à l’adoptant et l’adopté ne peut être exécutée, l'adopté peut réclamer des aliments à sa famille d’origine.

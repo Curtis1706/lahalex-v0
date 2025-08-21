@@ -1,0 +1,3 @@
+Article 304 : Fixation du montant des allocations
+L’autorité qui statue sur la garde provisoire ou définitive détermine en fonction des revenus et des charges des parents, le montant des allocations que perçoivent les personnes, les institutions charitables ou les directeurs d’établissements auxquels les enfants ont été confiés.
+Le montant des allocations est mis à la charge du Trésor public ou à la charge de la famille de l’enfant en tout ou partie.

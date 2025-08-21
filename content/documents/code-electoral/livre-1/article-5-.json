@@ -1,0 +1,14 @@
+{
+  "id": "article-5-",
+  "title": "Article 5 : Participer à l'organisation des élections est un devoir civique qui peut être confiée à fout citoyen.",
+  "numero": "5 ",
+  "document": "code-electoral",
+  "path": [
+    "livre-1"
+  ],
+  "navigation": {
+    "parent": "livre-1",
+    "previous": "article-4-",
+    "next": "article-6-"
+  }
+}

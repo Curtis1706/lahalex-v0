@@ -1,0 +1,15 @@
+{
+  "id": "article-125-",
+  "title": "Article 125 :",
+  "numero": "125 ",
+  "document": "coode-maritime",
+  "path": [
+    "livre-1",
+    "chapitre-7"
+  ],
+  "navigation": {
+    "parent": "chapitre-7",
+    "previous": "article-124-",
+    "next": "article-126-"
+  }
+}

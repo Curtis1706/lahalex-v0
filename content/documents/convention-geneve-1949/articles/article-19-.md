@@ -1,0 +1,3 @@
+4. Cessation La protection due aux hôpitaux civils ne pourra cesser que s’il en est fait usage de la pour commettre, en dehors des devoirs humanitaires, des actes nuisibles à protection l’ennemi. Toutefois, la protection ne cessera qu’après une sommation fixant,
+des hôpitaux dans tous les cas opportuns, un délai raisonnable et demeurée sans effet.
+Ne sera pas considéré comme acte nuisible le fait que des militaires bles- sés ou malades sont traités dans ces hôpitaux ou qu’il s’y trouve des armes portatives et des munitions retirées à ces militaires et n’ayant pas encore été versées au service compétent.

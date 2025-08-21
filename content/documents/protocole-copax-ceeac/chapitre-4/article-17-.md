@@ -1,0 +1,5 @@
+LE COMITE DES SAGES
+1. Le Comité des sages est composé d’éminentes personnalités de la région, issues des différents secteurs de la société, notamment les femmes, les responsables politiques, les anciens hauts responsables des forces de défense et de sécurité, les autorités traditionnelles et religieuses, qui peuvent au nom de la Communauté, user de leurs bons offices et de leurs compétences pour jouer efficacement le rôle de médiateur, de conciliateur ou de facilitateur.
+1. Le Comité des sages est chargé de fournir des services consultatifs au COPAX sur toutes questions relatives aux affaires politiques, à la prévention des conflits, à la promotion et au maintien de la paix, de la sécurité et de la stabilité en Afrique centrale.
+1. Les membres du Comité des Sages sont mis à contribution, en tant que de besoin, par le Président de la Commission ou sur instructions des Instances. Ils font rapport aux Instance par la voie du Président de la Commission.
+4. Les modalités de mise en place et de fonctionnement du Comité des Sages sont précisées par un texte particulier.

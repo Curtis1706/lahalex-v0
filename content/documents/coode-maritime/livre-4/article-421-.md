@@ -1,0 +1,1 @@
+Le consignataire de la cargaison intervient comme mandataire des ayants droit à la marchandise. ll en prend livraison pour leur compte et en paye le fret quand il est dû.

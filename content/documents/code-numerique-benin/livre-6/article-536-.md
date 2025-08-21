@@ -1,0 +1,2 @@
+Atteinte aux schémas de configuration de circuits intégrés
+Constitue une atteinte à la propriété intellectuelle, le fait, en toute connaissance de cause, sans droit, de vendre ou de mettre à disposition du public par reproduction ou par représentation un schéma de configuration de circuits intégrés au moyen d’un ou sur un réseau de communication électronique ou un système informatique.

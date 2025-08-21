@@ -1,0 +1,4 @@
+Il peut être ordonné :
+- la fermeture temporaire de trois (03) à trente (30) jours, pour ce qui concerne les discothèques, les ateliers, les garages ou autre source, générateurs de bruits au-dessus des normes en vigueur ;
+- la suspension de l'autorisation ou de la licence administrative.
+Pendant ce délai, le propriétaire ou le chef de l'établissement est tenu de prendre toutes les dispositions utiles pour se conformer à la réglementation en vigueur avant de procéder à la réouverture de l'établissement. Si à la réouverture, les mêmes infractions sont constatées, outre la fermeture définitive de l'établissement, les contrevenants sont passibles des peines prévues par la loi.

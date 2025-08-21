@@ -1,0 +1,1 @@
+Les décisions ainsi que les avis du conseil sont transcrits sur un registre et communiqués au chef d'arrondissement pour être débattus en conseil d’arrondissement.

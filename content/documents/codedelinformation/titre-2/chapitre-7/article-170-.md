@@ -1,0 +1,2 @@
+Les émissions publicitaires à caractère politique sont interdites.
+Toutefois, elles sont rendues libres dès convocation du corps électoral par le Président de la République et sont réglementées par la Haute Autorité de l’Audiovisuel et de la Communication, conformément au principe d’accès équitable des partis politiques aux médias.

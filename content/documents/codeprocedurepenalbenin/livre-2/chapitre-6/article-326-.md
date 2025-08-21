@@ -1,0 +1,1 @@
+Si l’ordre est troublé par l’accusé lui-même, il lui est fait application des dispositions de l’article 325 du présent code. L’accusé, lorsqu’il est expulsé de la salle d’audience, est gardé par la force publique, jusqu’à la fin des débats, à la disposition de la cour. Il est, après chaque audience, procédé ainsi qu’il est dit à l’article 324 alinéa 2 du présent code.

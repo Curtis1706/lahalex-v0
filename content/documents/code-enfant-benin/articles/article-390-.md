@@ -1,0 +1,2 @@
+Article 390 : Est puni de cinq (05) ans à dix (10) ans d’emprisonnement et d’une amende de cinq cent mille (500 000) francs à cinq millions (5 000 000) de francs CFA, tout acte ou transaction comportant l’offre, la remise, l’acceptation d’un enfant contre rémunération ou tout autre avantage.
+SECTION II : DES PEINES CONTRE LA TRAITE DES ENFANTS

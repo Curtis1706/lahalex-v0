@@ -1,0 +1,2 @@
+Sauf autorisation spéciale, il est interdit de jeter d’un aéronef en évolution, hors les cas de force majeure, des marchandises ou objets de quelque nature que ce soit, à l’exception du lest réglementaire.
+En cas de jet par suite de force majeure ou de jet spécialement autorisé ayant causé un dommage aux personnes et aux biens à la surface, la responsabilité est régie par les dispositions légales relatives à la responsabilité civile.

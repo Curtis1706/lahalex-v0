@@ -1,0 +1,16 @@
+{
+  "id": "article-41-",
+  "title": "Article 41 :",
+  "numero": "41 ",
+  "document": "code-douane",
+  "path": [
+    "titre-1",
+    "chapitre-6",
+    "section-5"
+  ],
+  "navigation": {
+    "parent": "section-5",
+    "previous": "article-40-",
+    "next": "article-42-"
+  }
+}

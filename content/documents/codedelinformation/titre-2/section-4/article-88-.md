@@ -1,0 +1,2 @@
+Un organisme public ne peut communiquer un renseignement portant sur une méthode ou sur une arme susceptible d’être utilisée pour commettre un crime ou une infraction à la loi.
+Il ne peut non plus communiquer un renseignement dont la divulgation aura pour effet de réduire l’efficacité d’un dispositif de sécurité destiné à la protection d’un bien ou d’une personne.

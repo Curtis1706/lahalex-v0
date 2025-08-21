@@ -1,0 +1,1 @@
+Lorsqu’une saisie lui est notifiée, le directeur de la marine marchande prend toutes mesures propres à empêcher le départ du navire.

@@ -1,0 +1,3 @@
+Toute convention intervenant entre la Caisse et l’un des administrateurs doit être soumise à l’autorisation préalable du conseil d’administration.
+Il en est de même des conventions auxquelles un administrateur, le directeur général ou un cadre exerçant dans ladite structure est indirectement intéressé ou dans lesquelles il traite avec la Caisse par personne interposée.
+Sont généralement soumises à autorisation préalable les conventions intervenant entre la Caisse et une entreprise, si l’un des administrateurs, le directeur général ou un cadre de la Caisse propriétaire, associé indéfiniment responsable, gérant administrateur ou directeur général.

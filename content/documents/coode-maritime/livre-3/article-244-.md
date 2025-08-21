@@ -1,0 +1,1 @@
+Le capitaine ou le pilote est en outre, après toute perte de navire, abordage, échouement et généralement accident de mer, tenu de déposer une copie de son rapport de mer entre les mains de l’autorité maritime, dès qu’il le peut ou auprès de l’autorité consulaire béninoise.

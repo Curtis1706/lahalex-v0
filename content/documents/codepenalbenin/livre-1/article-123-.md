@@ -1,0 +1,6 @@
+Au cours du délai fixé par la juridiction pour accomplir un travail d’intérêt général, le condamné doit satisfaire, sous le contrôle du juge spécialement désigné, outre l’obligation d’accomplir le travail prescrit, aux mesures de contrôle suivantes :
+1. répondre aux convocations du juge ;
+2. se soumettre à l’examen médical, préalable à l’exécution de la peine qui a pour but de rechercher, s’il n’est pas atteint d’une affection dangereuse pour les autres travailleurs et de s’assurer qu’il est médicalement apte au travail auquel il est envisagé de l’affecter ;
+3. justifier des motifs de ses changements d’emploi ou de résidence qui feraient obstacles à l’exécution du travail d’intérêt général selon les modalités fixées ;
+4. obtenir l’autorisation préalable du juge pour tout déplacement qui ferait obstacle à l’exécution du travail d’intérêt général selon les modalités fixées.
+Il doit également satisfaire aux obligations particulières prévues à l’article 113 que la juridiction lui a spécialement imposées.

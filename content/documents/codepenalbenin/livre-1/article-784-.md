@@ -1,0 +1,3 @@
+Est puni d’une peine d’emprisonnement de cinq (05) ans au moins et de dix (10) ans au plus, tout créancier qui, sauf disposition contraire de l’Acte uniforme portant organisation des procédures collectives et d’apurement du passif a :
+1. conclu avec le débiteur ou avec toutes personnes, des avantages particuliers à raison de son vote dans les délibérations de la masse ;
+2. conclu une convention particulière de laquelle il résulterait en sa faveur un avantage à la charge de l’actif du débiteur à compter du jour de la décision d’ouverture de la procédure collective.

@@ -1,0 +1,4 @@
+La mention ou la transcription est faite à la diligence du ministère public.
+A cet effet, la décision est notifiée, dans le délai de quinze (15) jours à compter de la date à laquelle elle est devenue définitive, à l’officier de l’état civil compétent, pour être mentionnée ou transcrite sur ses registres.
+En cas de rejet d’un pourvoi formé contre un arrêt prononçant le divorce, le greffier de la cour suprême doit, dans le mois du prononcé de l’arrêt de rejet, adresser un extrait de la décision au procureur général près la cour d'appel, lequel fait immédiatement procéder aux mesures de publicité prescrite.
+La mention ou la transcription est faite par les soins de l’officier de l’état civil dans un délai de cinq (5) jours, non compris les jours fériés, à compter de la réception de la réquisition.

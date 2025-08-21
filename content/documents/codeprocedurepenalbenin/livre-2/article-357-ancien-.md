@@ -1,0 +1,2 @@
+En cas de réponse affirmative sur la culpabilité, la cour d’assises délibère sans désemparer sur la peine applicable, séparément pour chaque accusé.
+Le vote a lieu au bulletin secret lorsqu’un des membres de la cour ou du jury le demande.

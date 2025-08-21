@@ -1,0 +1,1 @@
+Les dispositions des articles 563 à 565 du présent code sont applicables aux assurances sur facultés.

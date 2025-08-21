@@ -1,0 +1,11 @@
+Les Hautes Parties contractantes pourront, en tout temps, s’entendre pour Substituts confier à un organisme présentant toutes garanties d’impartialité et d’efficaci- des
+té les tâches dévolues par la présente Convention aux Puissances protectrices. Puissances Si des prisonniers de guerre ne bénéficient pas ou ne bénéficient plus, quelle protectrices
+qu’en soit la raison, de l’activité d’une Puissance protectrice ou d’un orga-
+nisme désigné conformément à l’alinéa 1, la Puissance détentrice de-
+vra demander soit à un état neutre, soit à un tel organisme, d’assumer les
+fonctions dévolues par la présente Convention aux Puissances protectrices
+désignées par les Parties au conflit.
+Si une protection ne peut être ainsi assurée, la Puissance détentrice devra demander à un organisme humanitaire, tel que le Comité international de la Croix-Rouge, d’assumer les tâches humanitaires dévolues par la présente Convention aux Puissances protectrices ou devra accepter, sous réserve des dispositions du présent article, les offres de service émanant d’un tel organisme.
+Toute Puissance neutre ou tout organisme invité par la Puissance intéres- sée ou s’offrant aux fins susmentionnées devra, dans son activité, rester consciente de sa responsabilité envers la Partie au conflit dont relèvent les personnes protégées par la présente Convention, et devra fournir des ga- ranties suffisantes de capacité pour assumer les fonctions en question et les remplir avec impartialité.
+Il ne pourra être dérogé aux dispositions qui précèdent par accord particu - lier entre des Puissances dont l’une se trouverait, même temporairement, vis-à-vis de l’autre Puissance ou de ses alliés, limitée dans sa liberté de négo- ciation par suite des événements militaires, notamment en cas d’une occu- pation de la totalité ou d’une partie importante de son territoire.
+Toutes les fois qu’il est fait mention dans la présente Convention de la Puissance protectrice, cette mention désigne également les organismes qui la remplacent au sens du présent article.

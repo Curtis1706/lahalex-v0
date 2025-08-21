@@ -1,0 +1,3 @@
+Copie électronique certifiée conforme
+Lorsque la loi oblige ou autorise une personne à fournir un document et que ce document n’existe que sous forme électronique, cette personne fournit une impression papier certifiée conforme du document sous forme électronique.
+Cette certification est fournie par la personne qui est légalement tenue de conserver le document, ou par toute autre personne légalement qualifiée.

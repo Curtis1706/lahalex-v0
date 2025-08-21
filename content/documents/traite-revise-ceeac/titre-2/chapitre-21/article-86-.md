@@ -1,0 +1,2 @@
+Engagement général
+Les Etats membres s'engagent à se consulter entre eux, par l'intermédiaire des institutions compétentes de la Communauté, en vue d'harmoniser leurs politiques dans les domaines où cette harmonisation serait nécessaire ou souhaitable pour le fonctionnement et le développement efficace et harmonieux de la Communauté, et pour l'application des dispositions du présent Traité.

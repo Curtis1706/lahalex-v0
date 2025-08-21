@@ -1,0 +1,16 @@
+{
+  "id": "article-13-",
+  "title": "Article 13 : La loi pénale est applicable aux infractions commises à bord des aéronefs immatriculés au Bénin, ou à l’encontre de tels aéronefs, en quelque lieu qu’ils se trouvent. Elle est seule applicable aux infractions commises à bord des aéronefs militaires béninois, ou à l’encontre de tels aéronefs, en quelque lieu qu’ils se trouvent.",
+  "numero": "13 ",
+  "document": "codepenalbenin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-3"
+  ],
+  "navigation": {
+    "parent": "chapitre-3",
+    "previous": "article-12-",
+    "next": "article-14-"
+  }
+}

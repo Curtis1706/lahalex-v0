@@ -1,0 +1,2 @@
+Egalité de traitement et non-discrimination
+Les opérateurs fournissant un accès à internet traitent tous trafics de façon égale et sans discrimination, restriction ou interférence, quels que soient l’expéditeur et/ou le destinataire, les contenus consultés et/ou diffusés, les applications et/ou les services utilisés ou fournis ou les équipements terminaux utilisés.

@@ -1,0 +1,5 @@
+Article 67 _:_ Compte tenu de leur importance dans le cycle hydrologique et dans la durabilité des écosystèmes aquatiques et des écosystèmes terrestres qui en dépendent, les zones humides doivent être conservées afin d_e_ jouer pleinement leurs rôles naturels de renouvellement de la ressource en eau et de maintien de sa qualité.
+Lorsque des considérations d’intérêt général conduisent à modifier l’affectation d’une zone humide ou d’un milieu aquatique, notamment à des fins agricoles ou industrielles, ou en vue de réaliser une opération d’urbanisation, la procédure d’autorisation implique nécessairement une déclaration d’utilité publique de l’opération et une étude d’impact sur l'environnement.
+L’autorisation est assortie de prescriptions, en particulier de mesures destinées à réduire ou à compenser les incidences négatives de cette opération.
+CHAPITRE XI : DES DISPOSITIONS PENALES
+SECTION PREMIERE : DE LA RECHERCHE ET DE LA CONSTATATION DES INFRACTIONS

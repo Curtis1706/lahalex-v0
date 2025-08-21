@@ -1,0 +1,1 @@
+Les présentes dispositions sur la compétence internationale des juridictions béninoises s'appliquent sous réserve des traités liant le Bénin et concernant la compétence judiciaire et les règles relatives aux immunités des agents diplomatiques et consulaires et des souverains, des chefs d’Etat étrangers et des Etats étrangers.

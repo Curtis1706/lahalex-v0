@@ -1,0 +1,14 @@
+{
+  "id": "article-444-",
+  "title": "Article 444 :",
+  "numero": "444 ",
+  "document": "codeprocedurepenalbenin",
+  "path": [
+    "livre-2"
+  ],
+  "navigation": {
+    "parent": "livre-2",
+    "previous": "article-443-",
+    "next": "article-445-"
+  }
+}

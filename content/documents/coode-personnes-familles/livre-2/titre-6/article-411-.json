@@ -1,0 +1,15 @@
+{
+  "id": "article-411-",
+  "title": "Article 411 :",
+  "numero": "411 ",
+  "document": "coode-personnes-familles",
+  "path": [
+    "livre-2",
+    "titre-6"
+  ],
+  "navigation": {
+    "parent": "titre-6",
+    "previous": "article-410-",
+    "next": "article-412-"
+  }
+}

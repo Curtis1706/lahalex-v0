@@ -1,0 +1,1 @@
+En cas de constitution d’un fonds de limitation, les créanciers dont le droit est sujet à la limitation, dans les termes des articles 140 à 142 du présent code, n’ont pas d’actions contre l’assureur.

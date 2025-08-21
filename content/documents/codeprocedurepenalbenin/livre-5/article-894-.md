@@ -1,0 +1,3 @@
+Toute violation des dispositions de la présente loi par un magistrat, est passible d’une sanction disciplinaire avec inscription au dossier.
+Sans préjudice de la sanction disciplinaire prévue à l’alinéa précédent, le magistrat concerné peut être condamné à une astreinte comminatoire de cinq mille (5 000) francs par jour lorsqu’un retard est constaté dans l’exécution de sa mission.
+Cette astreinte est prononcée par le président du tribunal sur demande de la partie dont les intérêts sont lésés.

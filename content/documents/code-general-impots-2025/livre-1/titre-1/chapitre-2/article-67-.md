@@ -1,0 +1,5 @@
+1) Les bénéfices d’affaires perçus à titre professionnel et habituel doivent être constatés par une comptabilité d’engagement conforme au droit comptable en vigueur.
+2) Toutefois, les contribuables exerçant une profession libérale, une activité non
+commerciale ou gérant des revenus de propriété intellectuelle ou industrielle qui désirent déterminer leur revenu imposable suivant une comptabilité de caisse doivent exercer une option avant le 30 novembre de l’année précédant celle au titre de laquelle elle est exercée. Elle prend effet à compter du 1er janvier de l’année suivant celle de la demande et est reconductible tacitement, sauf dénonciation avant le 30 novembre de la deuxième année.
+3) Lorsque  le  contribuable  réalise  simultanément  les  bénéfices  industriels  et
+commerciaux et les bénéfices tirés des professions non commerciales, les résultats de ces opérations, sont déterminés suivant les règles prévues au paragraphe 1 du présent article.

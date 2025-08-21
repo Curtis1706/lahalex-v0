@@ -1,0 +1,2 @@
+Ne sont pas déductibles, les dépenses de toute nature ayant trait à l’exercice de la chasse, de la pêche sportive, à l’utilisation des bateaux de plaisance, d’avions de tourisme ou de résidences d’agrément, et plus généralement l’ensemble des dépenses  somptuaires,  à  moins  que  ces  activités  constituent  la  principale  branche d’activité de la société.
+Les montants non déductibles par application du présent article sont considérés comme des bénéfices distribués.

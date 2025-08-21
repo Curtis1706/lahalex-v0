@@ -1,0 +1,2 @@
+Article 510 : Documents justificatifs
+Toute personne physique mentionnée aux 2) et 4) de l’article 501 ainsi que les personnes visées au 4) de l’article 503 doivent produire une carte professionnelle délivrée par le Ministre en charge du secteur des assurances. La validité de cette carte est limitée à deux ans renouvelables. Elle est conforme à un modèle défini par la Commission de Contrôle.

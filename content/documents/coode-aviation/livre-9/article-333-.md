@@ -1,0 +1,1 @@
+Les infractions aux dispositions sur la protection de l'exploitation sont constatées par procès-verbal dressé par les agents habilités et assermentés.

@@ -1,0 +1,15 @@
+{
+  "id": "article-242-",
+  "title": "Article 242 :",
+  "numero": "242 ",
+  "document": "code-douane",
+  "path": [
+    "titre-5",
+    "paragraphe-6"
+  ],
+  "navigation": {
+    "parent": "paragraphe-6",
+    "previous": "article-241-",
+    "next": "article-243-"
+  }
+}

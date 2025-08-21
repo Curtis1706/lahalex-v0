@@ -1,0 +1,16 @@
+{
+  "id": "article-143-",
+  "title": "Article 143 :",
+  "numero": "143 ",
+  "document": "codeprocedurepenalbenin",
+  "path": [
+    "livre-1",
+    "titre-3",
+    "section-8"
+  ],
+  "navigation": {
+    "parent": "section-8",
+    "previous": "article-142-",
+    "next": "article-144-"
+  }
+}

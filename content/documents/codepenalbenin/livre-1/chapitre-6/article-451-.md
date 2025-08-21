@@ -1,0 +1,1 @@
+Est puni de la réclusion criminelle à temps de dix (10) ans à vingt (20) ans, quiconque a été membre d’une association formée ou participé à une entente établie dans le but spécifié à l’article 450.

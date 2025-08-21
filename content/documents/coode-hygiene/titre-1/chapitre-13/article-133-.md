@@ -1,0 +1,3 @@
+Nul ne peut inhumer un corps en dehors d'un cimetière, sauf autorisation spéciale dûment délivrée par les autorités communales, après avis conforme du service en charge de l'hygiène.
+Les exhumations de corps et les transports transfrontaliers de corps s'opèrent dans des conditions et selon une procédure définie par voie réglementaire.
+La violation des dispositions du présent article est sanctionnée conformément aux dispositions du code pénal.

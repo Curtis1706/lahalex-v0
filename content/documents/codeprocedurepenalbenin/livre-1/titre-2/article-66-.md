@@ -1,0 +1,1 @@
+Les procès-verbaux dressés par l’officier de police judiciaire en exécution des articles 48 à 56 sont rédigés sur le champ et signés par lui sur chaque feuille du procès-verbal.

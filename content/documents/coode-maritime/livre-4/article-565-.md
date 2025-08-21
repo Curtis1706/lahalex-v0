@@ -1,0 +1,1 @@
+Le délaissement du navire est notifié par l’assuré à l’assureur par lettre recommandée avec avis de réception.

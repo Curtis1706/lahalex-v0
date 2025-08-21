@@ -1,0 +1,2 @@
+Article 374 : Toute personne qui, informée de la préparation de la mutilation sexuelle d’un enfant et qui n’agit pas pour empêcher sa commission est poursuivie pour non-assistance à personne en danger et punie de six (06) mois à deux (02) ans d’emprisonnement et d’une amende de deux cent cinquante mille (250 000) à cinq cent mille (500 000) francs CFA.
+SECTION II : DES PEINES CONTRE LES MARIAGES PRECOCES OU FORCES

@@ -1,0 +1,3 @@
+Est punie d’un emprisonnement de deux (02) mois à un (01) an toute personne non armée qui, faisant partie d’un attroupement armé ne l’aura pas abandonné après la première sommation.
+L’emprisonnement est de six (06) mois à trois (03) ans si la personne non armée a continué à faire volontairement partie d’un attroupement armé ne s’étant dissipé que devant l’usage de la force.
+Les personnes condamnées par application du présent article peuvent être privées pendant un (01) an au moins et cinq (05) ans au plus de tout ou partie des droits mentionnés à l’article 38 du présent code.

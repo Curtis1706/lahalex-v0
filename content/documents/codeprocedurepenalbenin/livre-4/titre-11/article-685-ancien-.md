@@ -1,0 +1,2 @@
+L’audience du tribunal pour enfants statuant en matière criminelle doit se tenir tous les trois (03) mois.
+Il est fait obligation à tous les présidents des tribunaux de première instance des sièges des cours d’appel, de réunir tous les trois (03) mois, le tribunal pour enfants statuant en matière criminelle.

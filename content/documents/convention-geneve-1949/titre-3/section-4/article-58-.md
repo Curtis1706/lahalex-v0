@@ -1,0 +1,4 @@
+Dès le début des hostilités et en attendant de s’être mise d’accord à ce sujet avec Ressources la Puissance protectrice, la Puissance détentrice pourra fixer la somme maxi- en argent mum en espèces ou sous une forme analogue que les prisonniers de guerre comptant pourront avoir sur eux. Tout excédent légitimement en leur possession, retiré
+ou retenu, sera, de même que tout dépôt d’argent effectué par eux, porté à leur
+compte et ne pourra être converti en une autre monnaie sans leur assentiment.
+Quand les prisonniers de guerre seront autorisés à faire des achats ou à rece- voir des services, contre paiements en espèces, à l’extérieur du camp, ces paie- ments seront effectués par les prisonniers eux-mêmes ou par l’administration du camp, qui portera ces paiements au débit du compte des prisonniers inté - ressés. La Puissance détentrice édictera les dispositions nécessaires à ce sujet.

@@ -1,0 +1,2 @@
+Si le mari décède avant d’avoir fait la réclamation mais étant encore dans le délai utile pour le faire, les héritiers ont deux mois pour contester la filiation de l’enfant.
+Leur action cessera d’être recevable, lorsque deux mois se seront écoulés à compter de l’époque où l’enfant sera mis en possession des biens prétendus paternels ou de l’époque où ils auront été troublés par lui dans leur propre possession.

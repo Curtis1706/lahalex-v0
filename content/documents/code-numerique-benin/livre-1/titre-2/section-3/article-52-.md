@@ -1,0 +1,2 @@
+Activités de communications électroniques soumises au régime de l’autorisation
+Une autorisation est exigée pour la fourniture de services de communications électroniques au public et pour l’exploitation de réseaux ouverts au public dispensés du régime de la licence par décret pris en Conseil des Ministres, conformément aux dispositions de l’article 46 du présent code.

@@ -1,0 +1,15 @@
+{
+  "id": "article-98-",
+  "title": "Article 98 :",
+  "numero": "98 ",
+  "document": "traite-revise-ceeac",
+  "path": [
+    "titre-3",
+    "chapitre-27"
+  ],
+  "navigation": {
+    "parent": "chapitre-27",
+    "previous": "article-97-",
+    "next": "article-99-"
+  }
+}

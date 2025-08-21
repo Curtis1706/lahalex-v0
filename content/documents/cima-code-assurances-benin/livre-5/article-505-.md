@@ -1,0 +1,2 @@
+Responsabilité de l’assureur du fait de ses mandataires
+Lorsque la présentation d’une opération d’assurance est effectuée par une personne habilitée selon les modalités prévues à l’article 501, l’employeur ou mandant est civilement responsable du dommage causé par la faute, l’imprudence ou la négligence de ses employés ou mandataires agissant en cette qualité, lesquels sont considérés, pour l’application du présent article, comme des préposés, nonobstant toute convention contraire.

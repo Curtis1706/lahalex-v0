@@ -1,0 +1,2 @@
+Toute personne peut disposer et recevoir, soit par donation entre vifs, soit par testament, à l’exception de celles qui en sont déclarées incapables par la loi.
+La capacité s’apprécie chez le donateur ou testateur au jour de la donation ou du legs ; chez le gratifié, au jour de l’acceptation.

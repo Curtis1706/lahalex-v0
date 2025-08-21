@@ -1,0 +1,1 @@
+Si le bris de scellés s’applique à des papiers et effets d’un individu prévenu ou accusé d’un crime emportant la réclusion criminelle à perpétuité, ou de la détention criminelle à perpétuité, ou qui soit condamné à l’une de ces peines, le gardien négligent est puni de six (06) mois à deux (02) ans d’emprisonnement.

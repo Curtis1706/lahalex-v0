@@ -1,0 +1,2 @@
+Le budget de la commune ou de l'établissement public de coopération intercommunale est divisé en deux sections : la section de fonctionnement et la section d’investissement.
+Chaque section, subdivisée en chapitres et articles, comporte d'une part les recettes et d'autre part les dépenses.

@@ -1,0 +1,1 @@
+Le juge du tribunal de première instance est juge de droit commun en matière d’état civil. Toutefois, les autres juridictions peuvent connaître des questions d’état civil à l’occasion des instances dont elles sont saisies, notamment sur l’état des personnes.

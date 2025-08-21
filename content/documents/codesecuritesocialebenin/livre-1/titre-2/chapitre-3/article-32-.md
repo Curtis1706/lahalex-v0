@@ -1,0 +1,1 @@
+Les opérations de la Caisse font l’objet d’un budget annuel équilibré en recettes et en dépenses préparé par le directeur général et adopté par le conseil d’administration.

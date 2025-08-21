@@ -1,0 +1,3 @@
+Les jour, lieu et heure des audiences ordinaires et extraordinaires sont fixés par ordonnance du président du tribunal de première instance après délibération de l’assemblée générale dudit tribunal.
+En cas de nécessité, le tribunal peut siéger en audience foraine.
+Les audiences spéciales et les audiences foraines sont fixées par l’assemblée générale du tribunal de première instance à charge d’en informer le président de la cour d’appel d’une part et de ne pas mettre en péril les droits des parties d’autre part.

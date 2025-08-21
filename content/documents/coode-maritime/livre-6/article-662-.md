@@ -1,0 +1,3 @@
+Les procès-verbaux d’enquête établis par le capitaine, en cas de crime ou délit constaté à bord, sont adressés, en même temps que le livre de discipline du navire, à l’autorité maritime du 1 port où le navire fait escale ou du 1 port d’escale où se trouve une autorité maritime.
+En cas de nécessité, le capitaine peut faire arrêter préventivement le mis en cause. La détention préventive est subordonnée à l’observance des prescriptions de l’article 284 du présent code.
+L’imputation de la détention préventive sur la durée de la peine est de droit, sauf décision contraire de la juridiction compétente.

@@ -1,0 +1,4 @@
+Dès sa nomination, le délégué à la surveillance doit prendre contact avec le mineur, ses parents, tuteurs ou les personnes chargées de sa garde.
+Il doit, aussi souvent qu’il est nécessaire et en tout cas au moins une fois par mois, visiter le mineur ainsi que les personnes chargées de son éducation.
+Il doit adresser au juge des enfants, un rapport trimestriel analysant la situation matérielle et morale du mineur ainsi que les progrès de sa rééducation.
+Le délégué doit rendre compte au juge qui l’a désigné de tous les incidents qui pourraient survenir inopinément dans la conduite ou la vie du mineur ainsi que les progrès de sa rééducation.

@@ -1,0 +1,2 @@
+1) Le remboursement de la taxe sur la valeur ajoutée et/ou l’imputation du montant à restituer sur d’autres droits et taxes dus, se fait contre remise de l’original du certificat de détaxe.
+2) L’original du certificat de détaxe, après consommation intégrale du crédit, ainsi que les titres de consommation de crédit de taxe sur la valeur ajoutée autorisés par le service des impôts, sont joints par le trésor public au compte de gestion.

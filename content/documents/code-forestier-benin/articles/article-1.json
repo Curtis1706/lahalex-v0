@@ -1,0 +1,11 @@
+{
+  "id": "article-1",
+  "title": "Article 1: La gestion, la protection et le régime",
+  "numero": "1",
+  "document": "code-forestier-benin",
+  "path": [],
+  "navigation": {
+    "parent": "code-forestier-benin",
+    "next": "article-2-"
+  }
+}

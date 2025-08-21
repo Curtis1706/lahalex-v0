@@ -1,0 +1,7 @@
+Lorsqu’au cours d’une procédure quelconque, le procureur de la République ou le juge constate qu’un individu a été condamné sous fausse identité ou a usurpé un état civil, il est immédiatement procédé d’office, à la diligence du procureur de la République aux rectifications nécessaires avant la clôture de la procédure.
+La rectification est demandée par requête au président de la juridiction qui a rendu la décision. Si la décision a été rendue par la cour d’assises, la requête est soumise à la chambre de l’instruction.
+Les débats ont lieu et le jugement est rendu en chambre du conseil. Le tribunal ou la cour peut ordonner que soit assignée la personne objet de la condamnation.
+Si la requête est admise, les frais sont supportés par celui qui a été la cause de l’inscription reconnue erronée, s’il a été appelé dans l’instance. Dans le cas contraire ou s’il est insolvable, ils sont supportés par le trésor public.
+Toute personne qui veut faire rectifier une mention portée à son casier judiciaire peut agir dans les mêmes formes ; si la requête est rejetée, le requérant est condamné aux frais.
+Mention de la décision est faite en marge du jugement ou de l’arrêt visé par la demande en rectification.
+La même procédure est applicable au cas de contestation sur la réhabilitation de droit, ou de difficultés soulevées par l’interprétation d’une loi d’amnistie pour l’application de l’article 855 alinéa 2.

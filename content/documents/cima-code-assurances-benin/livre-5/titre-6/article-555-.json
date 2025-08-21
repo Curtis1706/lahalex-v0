@@ -1,0 +1,15 @@
+{
+  "id": "article-555-",
+  "title": "Article 555 : Renseignements généraux",
+  "numero": "555 ",
+  "document": "cima-code-assurances-benin",
+  "path": [
+    "livre-5",
+    "titre-6"
+  ],
+  "navigation": {
+    "parent": "titre-6",
+    "previous": "article-554-",
+    "next": "article-556-"
+  }
+}

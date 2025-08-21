@@ -1,0 +1,1 @@
+Les critères de classification des aérodromes sont déterminés par décret pris en Conseil des ministres, conformément à l'annexe 14 à la Convention relative à l'aviation civile internationale concernant les aérodromes.

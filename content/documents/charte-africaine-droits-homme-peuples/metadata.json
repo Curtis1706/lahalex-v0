@@ -1,0 +1,967 @@
+{
+  "id": "charte-africaine-droits-homme-peuples",
+  "title": "Charte Africaine des Droits de l’Homme et des Peuples",
+  "type": "union-africaine",
+  "description": "Texte adopté par l’Organisation de l’Unité Africaine (OUA, aujourd’hui Union Africaine) en 1981 à Nairobi, établissant les droits et devoirs fondamentaux de l’Homme et des peuples en Afrique ainsi que la création de la Commission Africaine des Droits de l’Homme et des Peuples. La Charte consacre les droits civils, politiques, économiques, sociaux et culturels des individus et des peuples africains, et impose également des devoirs à chaque individu envers la famille, la société et l’État.",
+  "structure": {
+    "sections": [
+      {
+        "id": "livre-1",
+        "title": "LIVRE 1: DES DROITS ET DES DEVOIRS",
+        "type": "livre",
+        "level": 1,
+        "order": 0,
+        "path": [
+          "livre-1"
+        ],
+        "children": [
+          "chapitre-1",
+          "chapitre-2"
+        ]
+      },
+      {
+        "id": "chapitre-1",
+        "title": "CHAPITRE 1 : DES DROITS DE L'HOMME ET DES PEUPLES",
+        "type": "chapitre",
+        "level": 3,
+        "order": 1,
+        "path": [
+          "livre-1",
+          "chapitre-1"
+        ],
+        "children": [
+          "article-1-",
+          "article-2-",
+          "article-3-",
+          "article-4-",
+          "article-5-",
+          "article-6-",
+          "article-7-",
+          "article-8-",
+          "article-9-",
+          "article-10-",
+          "article-11-",
+          "article-12-",
+          "article-13-",
+          "article-14-",
+          "article-15-",
+          "article-16-",
+          "article-17-",
+          "article-18-",
+          "article-19-",
+          "article-20-",
+          "article-21-",
+          "article-22-",
+          "article-23-",
+          "article-24-",
+          "article-25-",
+          "article-26-"
+        ]
+      },
+      {
+        "id": "article-1-",
+        "title": "ARTICLE 1 :",
+        "type": "article",
+        "level": 3,
+        "order": 2,
+        "path": [
+          "livre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-2-",
+        "title": "ARTICLE 2 :",
+        "type": "article",
+        "level": 3,
+        "order": 3,
+        "path": [
+          "livre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-3-",
+        "title": "ARTICLE 3 :",
+        "type": "article",
+        "level": 3,
+        "order": 4,
+        "path": [
+          "livre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-4-",
+        "title": "ARTICLE 4 :",
+        "type": "article",
+        "level": 3,
+        "order": 5,
+        "path": [
+          "livre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-5-",
+        "title": "ARTICLE 5 :",
+        "type": "article",
+        "level": 3,
+        "order": 6,
+        "path": [
+          "livre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-6-",
+        "title": "ARTICLE 6 :",
+        "type": "article",
+        "level": 3,
+        "order": 7,
+        "path": [
+          "livre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-7-",
+        "title": "ARTICLE 7 :",
+        "type": "article",
+        "level": 3,
+        "order": 8,
+        "path": [
+          "livre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-8-",
+        "title": "ARTICLE 8 :",
+        "type": "article",
+        "level": 3,
+        "order": 9,
+        "path": [
+          "livre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-9-",
+        "title": "ARTICLE 9 :",
+        "type": "article",
+        "level": 3,
+        "order": 10,
+        "path": [
+          "livre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-10-",
+        "title": "ARTICLE 10 :",
+        "type": "article",
+        "level": 3,
+        "order": 11,
+        "path": [
+          "livre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-11-",
+        "title": "ARTICLE 11 :",
+        "type": "article",
+        "level": 3,
+        "order": 12,
+        "path": [
+          "livre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-12-",
+        "title": "ARTICLE 12 :",
+        "type": "article",
+        "level": 3,
+        "order": 13,
+        "path": [
+          "livre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-13-",
+        "title": "ARTICLE 13 :",
+        "type": "article",
+        "level": 3,
+        "order": 14,
+        "path": [
+          "livre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-14-",
+        "title": "ARTICLE 14 :",
+        "type": "article",
+        "level": 3,
+        "order": 15,
+        "path": [
+          "livre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-15-",
+        "title": "ARTICLE 15 :",
+        "type": "article",
+        "level": 3,
+        "order": 16,
+        "path": [
+          "livre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-16-",
+        "title": "ARTICLE 16 :",
+        "type": "article",
+        "level": 3,
+        "order": 17,
+        "path": [
+          "livre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-17-",
+        "title": "ARTICLE 17 :",
+        "type": "article",
+        "level": 3,
+        "order": 18,
+        "path": [
+          "livre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-18-",
+        "title": "ARTICLE 18 :",
+        "type": "article",
+        "level": 3,
+        "order": 19,
+        "path": [
+          "livre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-19-",
+        "title": "ARTICLE 19 :",
+        "type": "article",
+        "level": 3,
+        "order": 20,
+        "path": [
+          "livre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-20-",
+        "title": "ARTICLE 20 :",
+        "type": "article",
+        "level": 3,
+        "order": 21,
+        "path": [
+          "livre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-21-",
+        "title": "ARTICLE 21 :",
+        "type": "article",
+        "level": 3,
+        "order": 22,
+        "path": [
+          "livre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-22-",
+        "title": "ARTICLE 22 :",
+        "type": "article",
+        "level": 3,
+        "order": 23,
+        "path": [
+          "livre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-23-",
+        "title": "ARTICLE 23 :",
+        "type": "article",
+        "level": 3,
+        "order": 24,
+        "path": [
+          "livre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-24-",
+        "title": "ARTICLE 24 :",
+        "type": "article",
+        "level": 3,
+        "order": 25,
+        "path": [
+          "livre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-25-",
+        "title": "ARTICLE 25 :",
+        "type": "article",
+        "level": 3,
+        "order": 26,
+        "path": [
+          "livre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-26-",
+        "title": "ARTICLE 26 :",
+        "type": "article",
+        "level": 3,
+        "order": 27,
+        "path": [
+          "livre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-2",
+        "title": "CHAPITRE 2 : DES DEVOIRS",
+        "type": "chapitre",
+        "level": 3,
+        "order": 28,
+        "path": [
+          "livre-1",
+          "chapitre-2"
+        ],
+        "children": [
+          "article-27-",
+          "article-28-",
+          "article-29-"
+        ]
+      },
+      {
+        "id": "article-27-",
+        "title": "ARTICLE 27 :",
+        "type": "article",
+        "level": 3,
+        "order": 29,
+        "path": [
+          "livre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-28-",
+        "title": "ARTICLE 28 :",
+        "type": "article",
+        "level": 3,
+        "order": 30,
+        "path": [
+          "livre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-29-",
+        "title": "ARTICLE 29 :",
+        "type": "article",
+        "level": 3,
+        "order": 31,
+        "path": [
+          "livre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "livre-2",
+        "title": "LIVRE 2 : DES MESURES DE SAUVEGARDE",
+        "type": "livre",
+        "level": 1,
+        "order": 32,
+        "path": [
+          "livre-2"
+        ],
+        "children": [
+          "article-30-",
+          "article-31-",
+          "article-32-",
+          "article-33-",
+          "article-34-",
+          "article-35-",
+          "article-36-",
+          "article-37-",
+          "article-38-",
+          "article-39-",
+          "article-40-",
+          "article-41-",
+          "article-42-",
+          "article-43-",
+          "article-44-",
+          "article-45-",
+          "chapitre-3",
+          "chapitre-4"
+        ]
+      },
+      {
+        "id": "article-30-",
+        "title": "ARTICLE 30 :",
+        "type": "article",
+        "level": 2,
+        "order": 34,
+        "path": [
+          "livre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-31-",
+        "title": "ARTICLE 31 :",
+        "type": "article",
+        "level": 2,
+        "order": 35,
+        "path": [
+          "livre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-32-",
+        "title": "ARTICLE 32 :",
+        "type": "article",
+        "level": 2,
+        "order": 36,
+        "path": [
+          "livre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-33-",
+        "title": "ARTICLE 33 :",
+        "type": "article",
+        "level": 2,
+        "order": 37,
+        "path": [
+          "livre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-34-",
+        "title": "ARTICLE 34 :",
+        "type": "article",
+        "level": 2,
+        "order": 38,
+        "path": [
+          "livre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-35-",
+        "title": "ARTICLE 35 :",
+        "type": "article",
+        "level": 2,
+        "order": 39,
+        "path": [
+          "livre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-36-",
+        "title": "ARTICLE 36 :",
+        "type": "article",
+        "level": 2,
+        "order": 40,
+        "path": [
+          "livre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-37-",
+        "title": "ARTICLE 37 :",
+        "type": "article",
+        "level": 2,
+        "order": 41,
+        "path": [
+          "livre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-38-",
+        "title": "ARTICLE 38 :",
+        "type": "article",
+        "level": 2,
+        "order": 42,
+        "path": [
+          "livre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-39-",
+        "title": "ARTICLE 39 :",
+        "type": "article",
+        "level": 2,
+        "order": 43,
+        "path": [
+          "livre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-40-",
+        "title": "ARTICLE 40 :",
+        "type": "article",
+        "level": 2,
+        "order": 44,
+        "path": [
+          "livre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-41-",
+        "title": "ARTICLE 41 :",
+        "type": "article",
+        "level": 2,
+        "order": 45,
+        "path": [
+          "livre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-42-",
+        "title": "ARTICLE 42 :",
+        "type": "article",
+        "level": 2,
+        "order": 46,
+        "path": [
+          "livre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-43-",
+        "title": "ARTICLE 43 :",
+        "type": "article",
+        "level": 2,
+        "order": 47,
+        "path": [
+          "livre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-44-",
+        "title": "ARTICLE 44 :",
+        "type": "article",
+        "level": 2,
+        "order": 48,
+        "path": [
+          "livre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-45-",
+        "title": "ARTICLE 45 :",
+        "type": "article",
+        "level": 2,
+        "order": 50,
+        "path": [
+          "livre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-3",
+        "title": "CHAPITRE 3 : DE LA PROCEDURE DE LA COMMISSION",
+        "type": "chapitre",
+        "level": 3,
+        "order": 51,
+        "path": [
+          "livre-2",
+          "chapitre-3"
+        ],
+        "children": [
+          "article-46-",
+          "article-47-",
+          "article-48-",
+          "article-49-",
+          "article-50-",
+          "article-51-",
+          "article-52-",
+          "article-53-",
+          "article-54-",
+          "article-55-",
+          "article-56-",
+          "article-57-",
+          "article-58-",
+          "article-59-"
+        ]
+      },
+      {
+        "id": "article-46-",
+        "title": "ARTICLE 46 :",
+        "type": "article",
+        "level": 3,
+        "order": 52,
+        "path": [
+          "livre-2",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-47-",
+        "title": "ARTICLE 47 :",
+        "type": "article",
+        "level": 3,
+        "order": 53,
+        "path": [
+          "livre-2",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-48-",
+        "title": "ARTICLE 48 :",
+        "type": "article",
+        "level": 3,
+        "order": 54,
+        "path": [
+          "livre-2",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-49-",
+        "title": "ARTICLE 49 :",
+        "type": "article",
+        "level": 3,
+        "order": 55,
+        "path": [
+          "livre-2",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-50-",
+        "title": "ARTICLE 50 :",
+        "type": "article",
+        "level": 3,
+        "order": 56,
+        "path": [
+          "livre-2",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-51-",
+        "title": "ARTICLE 51 :",
+        "type": "article",
+        "level": 3,
+        "order": 57,
+        "path": [
+          "livre-2",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-52-",
+        "title": "ARTICLE 52 :",
+        "type": "article",
+        "level": 3,
+        "order": 58,
+        "path": [
+          "livre-2",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-53-",
+        "title": "ARTICLE 53 :",
+        "type": "article",
+        "level": 3,
+        "order": 59,
+        "path": [
+          "livre-2",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-54-",
+        "title": "ARTICLE 54 :",
+        "type": "article",
+        "level": 3,
+        "order": 60,
+        "path": [
+          "livre-2",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-55-",
+        "title": "ARTICLE 55 :",
+        "type": "article",
+        "level": 3,
+        "order": 61,
+        "path": [
+          "livre-2",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-56-",
+        "title": "ARTICLE 56 :",
+        "type": "article",
+        "level": 3,
+        "order": 62,
+        "path": [
+          "livre-2",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-57-",
+        "title": "ARTICLE 57 :",
+        "type": "article",
+        "level": 3,
+        "order": 63,
+        "path": [
+          "livre-2",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-58-",
+        "title": "ARTICLE 58 :",
+        "type": "article",
+        "level": 3,
+        "order": 64,
+        "path": [
+          "livre-2",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-59-",
+        "title": "ARTICLE 59 :",
+        "type": "article",
+        "level": 3,
+        "order": 65,
+        "path": [
+          "livre-2",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-4",
+        "title": "CHAPITRE 4 : DES PRINCIPES APPLICABLES",
+        "type": "chapitre",
+        "level": 3,
+        "order": 66,
+        "path": [
+          "livre-2",
+          "chapitre-4"
+        ],
+        "children": [
+          "article-60-",
+          "article-61-",
+          "article-62-",
+          "article-63-"
+        ]
+      },
+      {
+        "id": "article-60-",
+        "title": "ARTICLE 60 :",
+        "type": "article",
+        "level": 3,
+        "order": 67,
+        "path": [
+          "livre-2",
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-61-",
+        "title": "ARTICLE 61 :",
+        "type": "article",
+        "level": 3,
+        "order": 68,
+        "path": [
+          "livre-2",
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-62-",
+        "title": "ARTICLE 62 :",
+        "type": "article",
+        "level": 3,
+        "order": 69,
+        "path": [
+          "livre-2",
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-63-",
+        "title": "ARTICLE 63 :",
+        "type": "article",
+        "level": 3,
+        "order": 70,
+        "path": [
+          "livre-2",
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "livre-3",
+        "title": "LIVRE 3 : DISPOSITIONS DIVERSES",
+        "type": "livre",
+        "level": 1,
+        "order": 71,
+        "path": [
+          "livre-3"
+        ],
+        "children": [
+          "article-64-",
+          "article-65-",
+          "article-66-",
+          "article-67-",
+          "article-68-"
+        ]
+      },
+      {
+        "id": "article-64-",
+        "title": "ARTICLE 64 :",
+        "type": "article",
+        "level": 2,
+        "order": 72,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-65-",
+        "title": "ARTICLE 65 :",
+        "type": "article",
+        "level": 2,
+        "order": 73,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-66-",
+        "title": "ARTICLE 66 :",
+        "type": "article",
+        "level": 2,
+        "order": 74,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-67-",
+        "title": "ARTICLE 67 :",
+        "type": "article",
+        "level": 2,
+        "order": 75,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-68-",
+        "title": "ARTICLE 68 :",
+        "type": "article",
+        "level": 2,
+        "order": 77,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      }
+    ],
+    "totalArticles": 68
+  },
+  "source": "internationale"
+}

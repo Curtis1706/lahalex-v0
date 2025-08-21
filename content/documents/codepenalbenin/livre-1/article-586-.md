@@ -1,0 +1,3 @@
+Tout enfant qui, à l’insu de son père et ou de sa mère ou de la personne ayant autorité sur lui, se sera déplacé à l’intérieur du pays sans autorisation dans l’intention de se soumettre à l’exploitation, ou qui est trouvé seul à un endroit ou dans les conditions laissant déduire qu’il se déplaçait hors du territoire de la République du Bénin sans être muni de l’autorisation légalement requise, est soumis à l’une des mesures suivantes :
+- remise au père et/ou à la mère ou la personne ayant autorité sur lui ;
+- à défaut, remise à une institution de protection des droits de l’enfant.

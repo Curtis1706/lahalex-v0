@@ -1,0 +1,2 @@
+Il est interdit de laisser les animaux en divagation sur les voies et places publiques.
+Les animaux destinés à l'abattage sont conduits dans un lieu prédéfini, en respectant les horaires de passage fixés par l'autorité administrative compétente.

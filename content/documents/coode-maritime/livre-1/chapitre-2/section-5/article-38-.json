@@ -1,0 +1,16 @@
+{
+  "id": "article-38-",
+  "title": "Article 38 :",
+  "numero": "38 ",
+  "document": "coode-maritime",
+  "path": [
+    "livre-1",
+    "chapitre-2",
+    "section-5"
+  ],
+  "navigation": {
+    "parent": "section-5",
+    "previous": "article-37-",
+    "next": "article-39-"
+  }
+}

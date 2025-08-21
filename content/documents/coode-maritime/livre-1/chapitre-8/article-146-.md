@@ -1,0 +1,1 @@
+Dans chaque partie du fonds de limitation, la répartition se fera entre les créanciers, proportionnellement au montant de leurs créances reconnues.

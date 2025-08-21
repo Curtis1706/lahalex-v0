@@ -1,0 +1,15 @@
+{
+  "id": "article-92-",
+  "title": "Article 92 :",
+  "numero": "92 ",
+  "document": "codeprocedurepenalbenin",
+  "path": [
+    "livre-1",
+    "titre-3"
+  ],
+  "navigation": {
+    "parent": "titre-3",
+    "previous": "article-91-nouveau--loi-n--2025---06--",
+    "next": "article-93-"
+  }
+}

@@ -1,0 +1,3 @@
+Article 56 : Les sites, les milieux naturels et les paysages présentant, au point de vue esthétique et culturel, un intérêt particulier lié à la présence de l’eau peuvent faire l’objet d’une protection spéciale reposant notamment sur la réglementation et, le cas échéant, l’interdiction des activités et installations susceptibles de leur porter atteinte.
+Les mesures de protection ci-dessus résultent d’actes réglementaires. Elles sont également applicables à des espaces aquatiques ou subaquatiques présentant un intérêt archéologique.
+SECTION III : DES REGIMES SPECIFIQUES DE PROTECTION

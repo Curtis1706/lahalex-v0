@@ -1,0 +1,1 @@
+Lorsqu'au moment de sa création, une commune ne possède pas de biens propres, l'Etat met à sa disposition les moyens nécessaires au fonctionnement des services communaux et peut lui céder tout ou partie des biens lui appartenant et situés sur le territoire de la commune.

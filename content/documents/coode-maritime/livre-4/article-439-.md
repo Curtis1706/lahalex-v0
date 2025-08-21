@@ -1,0 +1,1 @@
+2 y a remorquage lorsqu’un ou plusieurs remorqueurs fournissent à un navire, dans un but déterminé, la force qui lui fait totalement ou partiellement défaut.

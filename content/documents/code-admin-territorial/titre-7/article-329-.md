@@ -1,0 +1,1 @@
+Le secrétaire permanent de l’établissement public de coopération intercommunale est nommé parmi les cadres sélectionnés et inscrits au fichier national des principales fonctions administratives des mairies.

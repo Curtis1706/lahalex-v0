@@ -1,0 +1,2 @@
+La déchéance n'est encourue que si les faits reprochés à l'intéressé et visés à l'article 42 cidessus se sont produits antérieurement à l'acquisition de la nationalité béninoise ou dans le délai de dix (10) ans à compter de la date de cette acquisition.
+Elle peut être prononcée à tout moment.

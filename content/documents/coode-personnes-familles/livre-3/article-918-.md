@@ -1,0 +1,1 @@
+Le testament doit être interprété, en cas de doute, conformément à la volonté du testateur, telle qu’elle résulte du testament lui-même ou des circonstances.

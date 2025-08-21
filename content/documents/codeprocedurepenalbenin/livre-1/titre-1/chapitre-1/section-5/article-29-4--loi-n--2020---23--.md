@@ -1,0 +1,2 @@
+Si le commandant a des doutes sur la sincérité des réponses fournies à l'occasion de la reconnaissance, il peut dépêcher une équipe de visite à bord du navire afin de procéder à une enquête du pavillon tendant à la vérification des titres autorisant le port de ce pavillon.
+Il peut également procéder aux vérifications permettant de s’assurer que le navire ne transporte pas de marchandises ou n'exerce pas d'activités prohibées par le droit international ou par la réglementation nationale.

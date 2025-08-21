@@ -1,0 +1,3 @@
+La constitution de partie civile peut avoir lieu à tout moment au cours de l’instruction. Le juge d’instruction en informe les autres parties.
+Elle peut être contestée par le ministère public, par l’inculpé ou par une autre partie civile.
+En cas de contestation, ou s’il déclare d’office irrecevable la constitution de partie civile, le juge d’instruction statue par ordonnance motivée après communication du dossier au ministère public pour ses réquisitions.

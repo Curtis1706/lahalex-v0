@@ -1,0 +1,2 @@
+En cas d’infraction par voie de presse, les directeurs de publication, les éditeurs, les directeurs de radiodiffusion et de télévision, leurs adjoints, les rédacteurs en chef, les directeurs généraux de ces organes sont punis comme auteurs principaux.
+Les auteurs des faits incriminés à savoir les journalistes ou assimilés, les collaborateurs extérieurs sont punis comme complices.

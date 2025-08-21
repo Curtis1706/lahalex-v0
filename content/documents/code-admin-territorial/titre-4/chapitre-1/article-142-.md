@@ -1,0 +1,1 @@
+Dans le domaine de ses attributions propres, le secrétaire exécutif n'est pas soumis au pouvoir hiérarchique du maire. Il entretient avec celui-ci une relation fonctionnelle destinée à faciliter le déroulement des activités de la mairie.

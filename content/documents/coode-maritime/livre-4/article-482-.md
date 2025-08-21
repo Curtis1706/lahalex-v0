@@ -1,0 +1,1 @@
+Sont admis en avaries communes, les dommages causés à la cargaison et au navire par l’eau qui pénètre dans la cale par les écoutilles ou panneaux ouverts ou par toute autre ouverture pratiquée en vue d’opérer un jet à la mer pour le salut commun.

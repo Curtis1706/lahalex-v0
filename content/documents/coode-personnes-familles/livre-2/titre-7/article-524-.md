@@ -1,0 +1,1 @@
+Le tuteur ne peut conclure une transaction relativement aux intérêts du mineur qu'après avoir fait approuver par le conseil de famille les clauses de la transaction.

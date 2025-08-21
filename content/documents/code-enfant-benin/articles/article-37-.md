@@ -1,0 +1,2 @@
+Article 37 : Devoir de guider l'enfant
+Les parents et, le cas échéant, les personnes exerçant l’autorité tutélaire, ont le devoir de guider l’enfant dans l’exercice du droit à la liberté de pensée, de conscience et de religion d’une manière qui corresponde au développement de ses capacités.

@@ -1,0 +1,1 @@
+Quiconque s’introduit, circule, séjourne ou campe dans une aire protégée en dehors des cas permis est puni d’une amende de vingt mille (20.000) francs CFA à cinquante mille (50.000) francs CFA.

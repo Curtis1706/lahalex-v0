@@ -1,0 +1,1 @@
+Le juge des libertés et de la détention est chargé de la gestion de la détention et du contrôle judiciaire des inculpés dont les procédures sont en cours d’information dans un cabinet d’instruction. A ce titre, il ordonne ou prolonge la détention provisoire. Il statue également sur les demandes de mise en liberté provisoire.

@@ -1,0 +1,2 @@
+Article 47 : En vue d’assurer la protection de la qualité des eaux, l’autorisation des travaux, des installations, des ouvrages réalisés pour le prélèvement d’eau superficielle ou souterraine, ou l’autorisation de ces prélèvements eux-mêmes, prévoit les mesures de protection appropriées.
+Ces mesures sont également déterminées dans le cas des prélèvements soumis à déclaration, dès lors que l’eau prélevée est totalement ou partiellement destinée à la consommation.

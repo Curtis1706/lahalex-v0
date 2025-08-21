@@ -1,0 +1,5 @@
+L'électeur n'est autorisé à voter que dans son poste de vote.
+Toutefois, sur présentation de leur titre de mission et de leur pièce d'identification, les agents des Forces de défense et de sécurité, les journalistes et toutes autres personnes en déplacement pour raison de service public sont admis à voter en dehors de leur poste de vote.
+Sont également admis à voter en dehors de leur poste de vote, les candidats à l'élection concernée, les membres de la CENA, les coordonnateurs d'arrondissement ainsi que les délégués des candidats ou de liste de candidats dûment mandatés.
+Les béninois rapatriés pour cas de force majeure sont admis à voter par dérogation dans les mêmes conditions que les personnes suscitées.
+Les nom, prénoms, date et lieu de naissance ainsi que le numéro d'inscription sur la liste électorale, l'indication du lieu et du poste de vote où sont inscrites ces personnes sont mentionnés sur la liste électorale et au procès-verbal du poste où elles ont voté afin que, lors du décompte des électeurs, ils soient retranchés de la liste électorale de leur circonscription.

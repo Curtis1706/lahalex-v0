@@ -1,0 +1,1 @@
+Article 35 : Sur proposition des ministres en charge des finances et de l’eau, un décret pris en conseil des ministres précise les utilisations domestiques, en fixe les seuils et définit, le cas échéant, les conditions dans lesquelles certaines utilisations domestiques peuvent être soumises à une contribution financière.

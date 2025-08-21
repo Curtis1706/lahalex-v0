@@ -1,0 +1,1 @@
+Lorsque la provocation contenue dans l’écrit a été suivie d’une sédition ou d’une révolte dont la nature a donné lieu contre un ou plusieurs coupables à une peine plus forte que celle de l’emprisonnement de deux (02) ans à cinq (05) ans, cette peine, quelle qu’elle soit, est appliquée au ministre du culte ou à l’autorité religieuse coupable de la provocation.

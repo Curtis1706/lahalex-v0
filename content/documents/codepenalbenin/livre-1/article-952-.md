@@ -1,0 +1,2 @@
+Lorsque la fermeture ou l’interdiction d’exercer la profession est supérieure à deux (02) ans et si le fonds est la propriété du condamné, la vente aux enchères du fonds de commerce est ordonnée.
+S’il l’exploitait pour le compte du propriétaire, la juridiction en autorise la reprise par ce dernier, nonobstant l’interdiction prononcée.

@@ -1,0 +1,1 @@
+Un organisme public ne peut communiquer le secret industriel ou commercial d’un tiers ou un renseignement industriel, financier, commercial, scientifique, technique ou syndical frappé de secret fourni par un tiers et habituellement traité de façon confidentielle, sans le consentement de celui-ci.

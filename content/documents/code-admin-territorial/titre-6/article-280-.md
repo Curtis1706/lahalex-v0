@@ -1,0 +1,1 @@
+Lorsque l'ordre public est menacé dans plusieurs communes limitrophes, le préfet ou les préfets concernés prennent, par arrêté, les dispositions que requiert le rétablissement de l’ordre.

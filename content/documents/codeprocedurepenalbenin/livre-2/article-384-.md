@@ -1,0 +1,1 @@
+Le tribunal de première instance connaît des délits et des contraventions, tels qu’ils sont définis par la loi pénale.

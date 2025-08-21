@@ -1,0 +1,1 @@
+Le montant et la destination des crédits spécialisés ne peuvent être modifiés que par une nouvelle délibération de l’organe concerné.

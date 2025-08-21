@@ -1,0 +1,2 @@
+Article 91 : La répartition du produit des amendes prononcées aux termes de la présente loi est opérée selon les modalités prévues par voie réglementaire.
+CHAPITRE XII : DES DISPOSITIONS TRANSITOIRES ET FINALES

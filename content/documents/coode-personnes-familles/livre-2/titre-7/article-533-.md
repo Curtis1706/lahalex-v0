@@ -1,0 +1,1 @@
+Les dispositions de la présente section sont applicables à l’administration légale, avec les modalités résultant de ce que celle-ci ne comporte ni conseil de famille ni subrogé- tuteur. ,-•

@@ -1,0 +1,2 @@
+Article 375: Toute personne qui donne en mariage son enfant de moins de dix-huit (18) ans, hors les dispenses accordées par le code des personnes et de la famille, est punie d’un emprisonnement de trois (03) ans à dix (10) ans et d’une amende de cent mille (100 000) à cinq cent mille (500 000) francs CFA.
+SECTION III : DES PEINES CONTRE TOUTES AUTRES PRATIQUES TRADITIONNELLES NEFASTES A LA SANTE ET AU MORAL DES ENFANTS

@@ -1,0 +1,1 @@
+Les incapables ou leurs représentants légaux ne peuvent donner les autorisations ou les consentements prévus au précédent article qu’à la condition d’être régulièrement habilités à accomplir l’acte considéré.

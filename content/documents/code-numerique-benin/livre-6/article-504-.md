@@ -1,0 +1,4 @@
+Fournisseurs de liens hypertextes
+Les fournisseurs de liens hypertextes ne sont pas responsables des informations auxquelles ils donnent accès, dès lors que :
+1. ils suppriment ou empêchent rapidement l'accès aux informations après avoir reçu une injonction de l'autorité judiciaire, de retirer le lien hypertexte ; et que
+1. lorsqu'ils ont pris  connaissance  ou  conscience  autrement que  par  une  injonction  de  l'autorité  judiciaire, d'informations illégales spécifiques stockées ou des activités illégales qu'exerceraient les destinataires de leurs services, informent rapidement les services de police, pour leur permettre d'évaluer la nature des informations ou des activités et, si nécessaire, d'ordonner le retrait du contenu.

@@ -1,0 +1,2 @@
+La preuve d'une déclaration acquisitive de nationalité ou d'une déclaration de répudiation résulte de la production d'un exemplaire enregistré de cette déclaration.
+Lorsque cette pièce ne peut être produite, il peut y être suppléé par la production d'une attestation délivrée par l'autorité en charge de la délivrance des actes relatifs à la nationalité, à la demande de tout requérant et constatant que la déclaration a été souscrite et enregistrée.

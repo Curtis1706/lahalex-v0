@@ -1,0 +1,2 @@
+Si le testateur déclare qu’il ne peut ou ne sait signer, il est fait mention de sa déclaration, ainsi que de la cause qui l’empêche de signer.
+Dans les cas où la présence de deux témoins est requise, le testament est signé au moins par l'un d’eux et il est fait mention de la cause pour laquelle l’autre n’a pas signé.

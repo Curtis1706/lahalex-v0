@@ -1,0 +1,2 @@
+Article 252 : Refus d’examen médical ou contestation du choix du médecin
+Lorsque la victime ne se soumet pas à l’examen médical mentionné à l’article 244 ci-dessus ou lorsqu’elle élève une contestation sur le choix du médecin sans qu’un accord puisse intervenir avec l’assureur, la désignation, à la demande de l’assureur, d’un médecin à titre d’expert d’un commun accord entre le médecin de l’assureur et le médecin de la victime, proroge d’un mois le délai imparti à l’assureur pour présenter l’offre d’indemnité.

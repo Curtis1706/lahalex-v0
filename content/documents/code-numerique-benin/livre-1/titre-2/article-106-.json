@@ -1,0 +1,15 @@
+{
+  "id": "article-106-",
+  "title": "Article 106 : Objectifs de performance",
+  "numero": "106 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-105-",
+    "next": "article-107-"
+  }
+}

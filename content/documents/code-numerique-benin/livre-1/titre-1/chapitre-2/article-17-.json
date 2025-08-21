@@ -1,0 +1,16 @@
+{
+  "id": "article-17-",
+  "title": "Article 17 : Transparence",
+  "numero": "17 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-2"
+  ],
+  "navigation": {
+    "parent": "chapitre-2",
+    "previous": "article-16-",
+    "next": "article-18-"
+  }
+}

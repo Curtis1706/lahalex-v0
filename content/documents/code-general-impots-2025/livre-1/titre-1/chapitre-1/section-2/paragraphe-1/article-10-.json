@@ -1,0 +1,18 @@
+{
+  "id": "article-10-",
+  "title": "Article 10 :",
+  "numero": "10 ",
+  "document": "code-general-impots-2025",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-1",
+    "section-2",
+    "paragraphe-1"
+  ],
+  "navigation": {
+    "parent": "paragraphe-1",
+    "previous": "article-9-",
+    "next": "article-11-"
+  }
+}

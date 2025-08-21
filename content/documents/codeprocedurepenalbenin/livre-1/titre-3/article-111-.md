@@ -1,0 +1,9 @@
+Les témoins sont entendus séparément, hors la présence de l’inculpé, par le juge d’instruction assisté de son greffier; procès-verbal est dressé de leurs déclarations.
+Le juge leur demande leur nom, prénom, filiation, situation matrimoniale, âge, état, profession, demeure, s’ils sont parents ou alliés des parties et à quel degré ou s’ils sont à leur service. Il est fait mention de la demande et de la réponse au procès-verbal.
+Les témoins prêtent serment de dire toute la vérité, rien que la vérité.
+Le juge d’instruction peut faire appel à un interprète âgé de dix-huit (18) ans au moins, à l’exclusion des témoins. L’interprète, s’il n’est pas assermenté, prête serment de traduire fidèlement les dépositions.
+Sont toutefois entendus sans prestation de serment :
+- les enfants au-dessous de l’âge de seize (16) ans ;
+- les ascendants, descendants, frères et sœurs et alliés aux mêmes degrés de la personne inculpée ou de l’une des personnes inculpées ; - l’époux ou l’épouse, même après divorce.
+Si le témoin est atteint de surdité, le juge d’instruction nomme d’office pour l’assister, lors de son audition, un interprète en langue des signes ou toute personne qui a l’habitude de communiquer avec lui ou qui maîtrise un langage ou une méthode permettant de communiquer avec les sourds. Cet interprète, s’il n’est pas assermenté, prête serment d’apporter son concours à la justice en son honneur et en sa conscience.
+Il peut également être recouru à tout dispositif technique permettant de communiquer avec le témoin. Si le témoin atteint de surdité sait lire et écrire, le juge d’instruction peut également communiquer avec lui par écrit.

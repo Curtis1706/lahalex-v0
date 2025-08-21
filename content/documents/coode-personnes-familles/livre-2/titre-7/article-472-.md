@@ -1,0 +1,2 @@
+Le tuteur est désigné pour la durée de la tutelle. Le conseil de famille peut néanmoins pourvoir à son remplacement en cours de tutelle, si des circonstances graves le requièrent indépendamment des cas d’excuses, d’incapacité ou de destitution.
+C - Du conseil de famille

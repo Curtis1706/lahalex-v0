@@ -1,0 +1,1 @@
+Dans le cas de partage d’une succession comportant des biens situés partie au Bénin, partie à l’étranger, les cohéritiers, qui se trouveraient exclus, à quelque titre que ce soit, de leur part des biens situés en pays étranger, prélèveront une portion égale sur les biens situés au Bénin.

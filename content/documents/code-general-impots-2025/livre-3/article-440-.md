@@ -1,0 +1,1 @@
+Les permis de chasse sont soumis au droit de timbre dans des conditions déterminées par voie réglementaire.

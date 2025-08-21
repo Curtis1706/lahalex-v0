@@ -1,0 +1,2 @@
+Infractions aux règles relatives à la forme des entreprises, à la publicité, à l’agrément, et aux procédures de sauvegarde
+Toute infraction aux dispositions des articles 301, 304 alinéa 3, 326 et 322 est punie d’une peine d’emprisonnement de un mois à cinq ans et d’une amende de 360.000 à 3.600.000 FCFA ou de l’une de ces deux peines seulement.

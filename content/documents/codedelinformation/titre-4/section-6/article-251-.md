@@ -1,0 +1,1 @@
+Il est interdit aux stations terriennes de télédiffusion, situées sur le territoire national, d’émettre des signaux radioélectriques parasites susceptibles de perturber les installations radioélectriques environnantes.

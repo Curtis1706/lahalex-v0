@@ -1,0 +1,14 @@
+{
+  "id": "article-111-",
+  "title": "ARTICLE 111 : Lorsque les travaux d'exploitation d'une mine",
+  "numero": "111 ",
+  "document": "code-minier-benin",
+  "path": [
+    "titre-5"
+  ],
+  "navigation": {
+    "parent": "titre-5",
+    "previous": "article-110-",
+    "next": "article-112-"
+  }
+}

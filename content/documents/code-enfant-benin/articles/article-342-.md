@@ -1,0 +1,1 @@
+Article 342 : Est punie de la réclusion à perpétuité, toute personne qui cause par préméditation ou par empoisonnement, la mort d’un enfant.

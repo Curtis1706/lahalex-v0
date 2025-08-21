@@ -1,0 +1,2 @@
+L’adoption produit ses effets à compter du jour du dépôt de la requête en adoption.
+L’adoption n'est opposable aux tiers qu’à partir de l’accomplissement, sur les deux exemplaires des registres de naissance, des formalités prévues par la loi.

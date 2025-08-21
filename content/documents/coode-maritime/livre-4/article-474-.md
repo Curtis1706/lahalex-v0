@@ -1,0 +1,3 @@
+Le navire contribue en proportion de sa valeur au port où s’achève l’expédition, augmentée s’il y a lieu du montant des sacrifices qu’il a subis.
+Cependant, l’armateur n’est pas tenu au-delà de la valeur forfaitaire du navire fixée par les conventions internationales sur la limitation de la responsabilité des propriétaires de navires.
+Le fret brut et le prix des passages convenus, comme acquis ou payables à tout événement, contribuent pour les deux tiers.

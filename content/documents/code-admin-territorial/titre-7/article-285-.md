@@ -1,0 +1,1 @@
+Plusieurs communes peuvent décider de s'associer en vue de la réalisation et de la gestion d'équipements et de la création de services d'intérêt et d'utilité intercommunaux. Elles concluent une convention qui crée un établissement public de coopération intercommunale et détermine les droits et obligations des parties.

@@ -1,0 +1,2 @@
+La circulation, la distribution ou la mise en vente sur le territoire national des journaux ou des périodiques étrangers sont autorisées.
+Toutefois, lorsque ces publications sont susceptibles de porter atteinte aux bonnes mœurs, de créer des troubles ou de menacer l’ordre constitutionnel, elles sont interdites par l’organe habilité.

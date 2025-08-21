@@ -1,0 +1,3 @@
+Sera puni d’une amende de deux cent mille (200 000) à cinq cent mille (500 000) francs et d’un emprisonnement qui ne pourra excéder dix (10) jours :
+1. quiconque, en cas de crime ou délit flagrant, se sera éloigné du lieu de l’infraction avant la clôture des opérations nonobstant la défense qui lui en avait été faite par l’officier de police judiciaire conformément aux dispositions de l’article 55 du présent code ;
+2. quiconque, en cas de crime ou de délit flagrant, aura refusé de se prêter aux opérations de vérification d’identité ordonnées par un officier de police judiciaire ou un agent supérieur de la police judiciaire conformément aux dispositions de l’article 55 du présent code.

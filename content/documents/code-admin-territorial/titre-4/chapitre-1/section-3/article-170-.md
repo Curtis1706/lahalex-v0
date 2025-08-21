@@ -1,0 +1,1 @@
+En cas de démission ou de décès d’un membre du conseil d’arrondissement, il est procédé à son remplacement conformément aux dispositions du code électoral.

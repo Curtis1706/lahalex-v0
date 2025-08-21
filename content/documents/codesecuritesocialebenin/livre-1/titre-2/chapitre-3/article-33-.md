@@ -1,0 +1,1 @@
+Les règles relatives à la comptabilité de la Caisse sont fixées par décret pris en conseil des Ministres.

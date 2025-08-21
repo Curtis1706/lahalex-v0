@@ -1,0 +1,1 @@
+L’employeur est tenu de déclarer simultanément à l’inspecteur du travail du ressort et à la Caisse de sécurité sociale, dans un délai de 48 heures dès qu’il en a été informé, tout accident du travail et toute maladie professionnelle dont sont victimes les salariés occupés dans l’entreprise.

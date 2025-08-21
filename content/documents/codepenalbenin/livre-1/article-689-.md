@@ -1,0 +1,1 @@
+La tentative des infractions prévues par le présent paragraphe est punie des mêmes peines que l’infraction elle-même.

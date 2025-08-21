@@ -1,0 +1,2 @@
+La  mention  de  l’enregistrement  peut  être  octroyée  de  façon électronique. Le cas échéant, elle produit les mêmes effets juridiques que la formalité d’enregistrement et de timbre accomplie sur les actes établis sur support papier.
+Les modalités de mise en œuvre de cette disposition sont précisées par un arrêté du ministre chargé des finances.

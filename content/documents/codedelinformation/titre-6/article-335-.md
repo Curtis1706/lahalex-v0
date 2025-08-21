@@ -1,0 +1,3 @@
+Pour l’application de l’article précédent, le tribunal peut demander, tant aux parties qu’à l’annonceur, la communication de tous documents utiles.
+En cas de refus, il peut ordonner la saisie des documents en cause ou toute mesure d’instruction appropriée.
+Il peut, en outre, prononcer une astreinte par jour de retard pouvant atteindre cent cinquante mille (150 000) francs CFA à compter de la date qu’il a retenue pour la production de ces documents.

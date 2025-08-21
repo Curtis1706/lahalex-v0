@@ -1,0 +1,2 @@
+Dans les cas prévus au présent titre, la poursuite est intentée à la requête du ministère public du lieu où réside le prévenu ou de sa dernière résidence connue ou du lieu où il est trouvé.
+La chambre judiciaire de la cour suprême peut, sur la demande du ministère public ou des parties, renvoyer la connaissance de l’affaire à un tribunal plus voisin du lieu du crime ou du délit.

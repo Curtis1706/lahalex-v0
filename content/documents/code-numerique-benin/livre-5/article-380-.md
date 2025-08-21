@@ -1,0 +1,6 @@
+Champ d’application matériel
+Les dispositions du présent Livre s’appliquent notamment à :
+1. toute collecte, tout traitement, toute transmission, tout stockage et toute utilisation de données à caractère personnel par une personne physique, par l’État, les collectivités locales, les personnes morales de droit public ou de droit privé ;
+1. tout traitement automatisé en tout ou en partie, ainsi que tout traitement non automatisé de données à caractère personnel contenues ou appelées à figurer dans un fichier, à l’exception des traitements visés à l’alinéa 2 ;
+1. tout traitement de données concernant la sécurité publique, la défense, la recherche et la poursuite d’infractions pénales ou la sûreté et les intérêts essentiels de l’État, sous réserve des dérogations définies par des dispositions spécifiques fixées par d’autres textes de loi en vigueur.
+Toute collecte, traitement, transmission, stockage, et usage de données à caractère personnel restent toutefois soumis aux dispositions nationales, communautaires, régionales et 	internationales applicables en matières commerciale, civile et pénale.

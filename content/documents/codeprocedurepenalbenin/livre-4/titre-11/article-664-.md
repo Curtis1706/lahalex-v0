@@ -1,0 +1,2 @@
+Le juge des enfants prévient des poursuites les parents, tuteurs ou gardiens connus ainsi que le bureau social du ministère en charge de la justice ou toute autre structure en tenant lieu.
+A défaut du choix d’un avocat par le mineur ou son représentant, le juge désigne d’office un avocat sur une liste établie chaque année par le bâtonnier ou en fait désigner un par celui-ci.

@@ -1,0 +1,1 @@
+Les livres de la comptabilité administrative sont totalisés et arrêtés mensuellement et définitivement clos à la fin de l’exercice budgétaire.

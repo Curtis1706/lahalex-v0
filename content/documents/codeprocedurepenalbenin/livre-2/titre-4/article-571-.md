@@ -1,0 +1,1 @@
+La durée de la contrainte par corps est fixée au double du maximum prévu par la loi lorsque l’amende et les condamnations pécuniaires prononcées pour l’une des infractions prévues par la législation sur le contrôle des drogues et des précurseurs ou des infractions douanières connexes excèdent cent mille (100 000) francs.

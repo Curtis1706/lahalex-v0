@@ -1,0 +1,4 @@
+Il est interdit à tout parti politique ou à toute personne prenant part à l'élection du président de la République, des membres de l'Assemblée nationale, des membres des conseils communaux, d'engager pour la campagne électorale, par lui-même et/ou par une tierce personne :
+plus d'un million cinq cent mille (1 500 000) de francs CFA de dépenses par candidat pour les élections communales ;
+plus de trente millions (30 000 000) de francs CFA de dépenses par candidat pour les élections législatives ;
+et plus de deux milliards cinq cent millions (2.500.000.000) de francs CFA pour l'élection du président de la République.

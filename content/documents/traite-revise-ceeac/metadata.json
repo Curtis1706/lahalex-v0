@@ -1,0 +1,1930 @@
+{
+  "id": "traite-revise-ceeac",
+  "title": "Traité révisé instituant la Communauté Économique des États de l’Afrique Centrale (CEEAC)",
+  "type": "ceeac",
+  "description": "Traité révisé instituant la Communauté Économique des États de l’Afrique Centrale (CEEAC), signé par les Chefs d’État et de Gouvernement des pays membres afin de renforcer l’intégration régionale. Le traité établit les objectifs, principes, institutions et mécanismes de la CEEAC, incluant la coopération économique, la paix et la sécurité, la libre circulation des personnes, la solidarité communautaire et la promotion des droits de l’homme et de la démocratie dans la région.",
+  "structure": {
+    "sections": [
+      {
+        "id": "article-0-",
+        "title": "Article 0 : PREAMBULE",
+        "type": "article",
+        "level": 1,
+        "order": 0,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "titre-1",
+        "title": "TITRE 1 : DISPOSITIONS GENERALES ET INSTITUTIONNELLES",
+        "type": "titre",
+        "level": 2,
+        "order": 1,
+        "path": [
+          "titre-1"
+        ],
+        "children": [
+          "article-1-",
+          "chapitre-1",
+          "chapitre-2"
+        ]
+      },
+      {
+        "id": "article-1-",
+        "title": "Article 1 :",
+        "type": "article",
+        "level": 2,
+        "order": 2,
+        "path": [
+          "titre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-1",
+        "title": "CHAPITRE 1 : CREATION, PRINCIPES FONDAMENTAUX, COMPOSITION, OBJECTIFS",
+        "type": "chapitre",
+        "level": 3,
+        "order": 3,
+        "path": [
+          "titre-1",
+          "chapitre-1"
+        ],
+        "children": [
+          "article-2-",
+          "article-3-",
+          "article-4-",
+          "article-5-",
+          "article-6-",
+          "article-7-",
+          "article-8-",
+          "article-9-",
+          "article-10-"
+        ]
+      },
+      {
+        "id": "article-2-",
+        "title": "Article 2 :",
+        "type": "article",
+        "level": 3,
+        "order": 4,
+        "path": [
+          "titre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-3-",
+        "title": "Article 3 :",
+        "type": "article",
+        "level": 3,
+        "order": 5,
+        "path": [
+          "titre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-4-",
+        "title": "Article 4 :",
+        "type": "article",
+        "level": 3,
+        "order": 6,
+        "path": [
+          "titre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-5-",
+        "title": "Article 5 :",
+        "type": "article",
+        "level": 3,
+        "order": 7,
+        "path": [
+          "titre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-6-",
+        "title": "Article 6 :",
+        "type": "article",
+        "level": 3,
+        "order": 8,
+        "path": [
+          "titre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-7-",
+        "title": "Article 7 :",
+        "type": "article",
+        "level": 3,
+        "order": 9,
+        "path": [
+          "titre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-8-",
+        "title": "Article 8 :",
+        "type": "article",
+        "level": 3,
+        "order": 10,
+        "path": [
+          "titre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-9-",
+        "title": "Article 9 :",
+        "type": "article",
+        "level": 3,
+        "order": 11,
+        "path": [
+          "titre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-10-",
+        "title": "Article 10 :",
+        "type": "article",
+        "level": 3,
+        "order": 12,
+        "path": [
+          "titre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-2",
+        "title": "CHAPITRE 2 : ORGANES ET INSTITUTIONS",
+        "type": "chapitre",
+        "level": 3,
+        "order": 13,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": [
+          "article-11-",
+          "article-12-",
+          "article-13-",
+          "article-14-",
+          "article-15-",
+          "article-16-",
+          "article-17-",
+          "article-18-",
+          "article-19-",
+          "article-20-",
+          "article-21-",
+          "article-23-",
+          "article-24-",
+          "article-25-",
+          "article-26-",
+          "article-27-",
+          "article-28-",
+          "article-29-",
+          "article-30-",
+          "article-31-",
+          "article-32-",
+          "article-33-"
+        ]
+      },
+      {
+        "id": "article-11-",
+        "title": "Article 11 :",
+        "type": "article",
+        "level": 3,
+        "order": 14,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-12-",
+        "title": "Article 12 :",
+        "type": "article",
+        "level": 3,
+        "order": 15,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-13-",
+        "title": "Article 13 :",
+        "type": "article",
+        "level": 3,
+        "order": 16,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-14-",
+        "title": "Article 14 :",
+        "type": "article",
+        "level": 3,
+        "order": 17,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-15-",
+        "title": "Article 15 :",
+        "type": "article",
+        "level": 3,
+        "order": 18,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-16-",
+        "title": "Article 16 :",
+        "type": "article",
+        "level": 3,
+        "order": 19,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-17-",
+        "title": "Article 17 :",
+        "type": "article",
+        "level": 3,
+        "order": 20,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-18-",
+        "title": "Article 18 :",
+        "type": "article",
+        "level": 3,
+        "order": 21,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-19-",
+        "title": "Article 19 :",
+        "type": "article",
+        "level": 3,
+        "order": 22,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-20-",
+        "title": "Article 20 :",
+        "type": "article",
+        "level": 3,
+        "order": 23,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-21-",
+        "title": "Article 21 :",
+        "type": "article",
+        "level": 3,
+        "order": 24,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-23-",
+        "title": "Article 23 :",
+        "type": "article",
+        "level": 3,
+        "order": 25,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-24-",
+        "title": "Article 24 :",
+        "type": "article",
+        "level": 3,
+        "order": 26,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-25-",
+        "title": "Article 25 :",
+        "type": "article",
+        "level": 3,
+        "order": 27,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-26-",
+        "title": "Article 26 :",
+        "type": "article",
+        "level": 3,
+        "order": 28,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-27-",
+        "title": "Article 27 :",
+        "type": "article",
+        "level": 3,
+        "order": 29,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-28-",
+        "title": "Article 28 :",
+        "type": "article",
+        "level": 3,
+        "order": 30,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-29-",
+        "title": "Article 29 :",
+        "type": "article",
+        "level": 3,
+        "order": 31,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-30-",
+        "title": "Article 30 :",
+        "type": "article",
+        "level": 3,
+        "order": 32,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-31-",
+        "title": "Article 31 :",
+        "type": "article",
+        "level": 3,
+        "order": 33,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-32-",
+        "title": "Article 32 :",
+        "type": "article",
+        "level": 3,
+        "order": 34,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-33-",
+        "title": "Article 33 :",
+        "type": "article",
+        "level": 3,
+        "order": 35,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-2",
+        "title": "TITRE 2 : POLITIQUES COMMUNAUTAIRES",
+        "type": "titre",
+        "level": 2,
+        "order": 36,
+        "path": [
+          "titre-2"
+        ],
+        "children": [
+          "chapitre-3",
+          "chapitre-4",
+          "chapitre-5",
+          "chapitre-6",
+          "chapitre-7",
+          "chapitre-8",
+          "chapitre-9",
+          "chapitre-10",
+          "chapitre-11",
+          "chapitre-12",
+          "chapitre-13",
+          "chapitre-14",
+          "chapitre-15",
+          "chapitre-16",
+          "chapitre-17",
+          "chapitre-18",
+          "chapitre-19",
+          "chapitre-20",
+          "chapitre-21",
+          "chapitre-22",
+          "chapitre-23",
+          "chapitre-24"
+        ]
+      },
+      {
+        "id": "chapitre-3",
+        "title": "CHAPITRE 3 : COOPERATION EN MATIERE DE PAIX ET DE SECURITE",
+        "type": "chapitre",
+        "level": 3,
+        "order": 37,
+        "path": [
+          "titre-2",
+          "chapitre-3"
+        ],
+        "children": [
+          "article-34-"
+        ]
+      },
+      {
+        "id": "article-34-",
+        "title": "Article 34 :",
+        "type": "article",
+        "level": 3,
+        "order": 38,
+        "path": [
+          "titre-2",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-4",
+        "title": "CHAPITRE 4 : COOPERATION TRANSFRONTALIERE",
+        "type": "chapitre",
+        "level": 3,
+        "order": 39,
+        "path": [
+          "titre-2",
+          "chapitre-4"
+        ],
+        "children": [
+          "article-35-"
+        ]
+      },
+      {
+        "id": "article-35-",
+        "title": "Article 35 :",
+        "type": "article",
+        "level": 3,
+        "order": 40,
+        "path": [
+          "titre-2",
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-5",
+        "title": "CHAPITRE 5 : COOPERATION DANS LE DOMAINE POLITIQUE",
+        "type": "chapitre",
+        "level": 3,
+        "order": 41,
+        "path": [
+          "titre-2",
+          "chapitre-5"
+        ],
+        "children": [
+          "article-36-"
+        ]
+      },
+      {
+        "id": "article-36-",
+        "title": "Article 36 :",
+        "type": "article",
+        "level": 3,
+        "order": 42,
+        "path": [
+          "titre-2",
+          "chapitre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-6",
+        "title": "CHAPITRE 6 : LIBERALISATION DES ECHANGES ET DIVERSES MESURES DE SAUVEGARDE",
+        "type": "chapitre",
+        "level": 3,
+        "order": 43,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": [
+          "article-37-",
+          "article-38-",
+          "article-39-",
+          "article-40-",
+          "article-41-",
+          "article-42-",
+          "article-43-",
+          "article-44-",
+          "article-45-",
+          "article-46-",
+          "article-47-",
+          "article-48-",
+          "article-49-",
+          "article-50-",
+          "article-51-",
+          "article-52-"
+        ]
+      },
+      {
+        "id": "article-37-",
+        "title": "Article 37 :",
+        "type": "article",
+        "level": 3,
+        "order": 44,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-38-",
+        "title": "Article 38 :",
+        "type": "article",
+        "level": 3,
+        "order": 45,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-39-",
+        "title": "Article 39 :",
+        "type": "article",
+        "level": 3,
+        "order": 46,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-40-",
+        "title": "Article 40 :",
+        "type": "article",
+        "level": 3,
+        "order": 47,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-41-",
+        "title": "Article 41 :",
+        "type": "article",
+        "level": 3,
+        "order": 48,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-42-",
+        "title": "Article 42 :",
+        "type": "article",
+        "level": 3,
+        "order": 49,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-43-",
+        "title": "Article 43 :",
+        "type": "article",
+        "level": 3,
+        "order": 50,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-44-",
+        "title": "Article 44 :",
+        "type": "article",
+        "level": 3,
+        "order": 51,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-45-",
+        "title": "Article 45 :",
+        "type": "article",
+        "level": 3,
+        "order": 52,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-46-",
+        "title": "Article 46 :",
+        "type": "article",
+        "level": 3,
+        "order": 53,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-47-",
+        "title": "Article 47 :",
+        "type": "article",
+        "level": 3,
+        "order": 54,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-48-",
+        "title": "Article 48 :",
+        "type": "article",
+        "level": 3,
+        "order": 55,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-49-",
+        "title": "Article 49 :",
+        "type": "article",
+        "level": 3,
+        "order": 56,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-50-",
+        "title": "Article 50 :",
+        "type": "article",
+        "level": 3,
+        "order": 57,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-51-",
+        "title": "Article 51 :",
+        "type": "article",
+        "level": 3,
+        "order": 58,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-52-",
+        "title": "Article 52 :",
+        "type": "article",
+        "level": 3,
+        "order": 59,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-7",
+        "title": "CHAPITRE 7 : NORMES ET RÈGLEMENTS APPLICABLES AUX PRODUITS",
+        "type": "chapitre",
+        "level": 3,
+        "order": 60,
+        "path": [
+          "titre-2",
+          "chapitre-7"
+        ],
+        "children": [
+          "article-53-",
+          "article-54-"
+        ]
+      },
+      {
+        "id": "article-53-",
+        "title": "Article 53 :",
+        "type": "article",
+        "level": 3,
+        "order": 61,
+        "path": [
+          "titre-2",
+          "chapitre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-54-",
+        "title": "Article 54 :",
+        "type": "article",
+        "level": 3,
+        "order": 62,
+        "path": [
+          "titre-2",
+          "chapitre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-8",
+        "title": "CHAPITRE 8 : COOPERATION EN MATIERE DE CONCURRENCE, D’INVESTISSEMENT ET DE PROPRIETE INTELLECTUELLE",
+        "type": "chapitre",
+        "level": 3,
+        "order": 63,
+        "path": [
+          "titre-2",
+          "chapitre-8"
+        ],
+        "children": [
+          "article-55-",
+          "article-56-",
+          "article-57-"
+        ]
+      },
+      {
+        "id": "article-55-",
+        "title": "Article 55 :",
+        "type": "article",
+        "level": 3,
+        "order": 64,
+        "path": [
+          "titre-2",
+          "chapitre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-56-",
+        "title": "Article 56 :",
+        "type": "article",
+        "level": 3,
+        "order": 65,
+        "path": [
+          "titre-2",
+          "chapitre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-57-",
+        "title": "Article 57 :",
+        "type": "article",
+        "level": 3,
+        "order": 66,
+        "path": [
+          "titre-2",
+          "chapitre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-9",
+        "title": "CHAPITRE 9 : LIBRE CIRCULATION, RESIDENCE ET DROIT D'ETABLISSEMENT",
+        "type": "chapitre",
+        "level": 3,
+        "order": 67,
+        "path": [
+          "titre-2",
+          "chapitre-9"
+        ],
+        "children": [
+          "article-58-",
+          "article-59-"
+        ]
+      },
+      {
+        "id": "article-58-",
+        "title": "Article 58 :",
+        "type": "article",
+        "level": 3,
+        "order": 68,
+        "path": [
+          "titre-2",
+          "chapitre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-59-",
+        "title": "Article 59 :",
+        "type": "article",
+        "level": 3,
+        "order": 69,
+        "path": [
+          "titre-2",
+          "chapitre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-10",
+        "title": "CHAPITRE 10 : COOPERATION DANS LES DOMAINES ECONOMIQUE, MONETAIRE, FINANCIER ET DES PAIEMENTS",
+        "type": "chapitre",
+        "level": 3,
+        "order": 70,
+        "path": [
+          "titre-2",
+          "chapitre-10"
+        ],
+        "children": [
+          "article-60-",
+          "article-61-",
+          "article-62-"
+        ]
+      },
+      {
+        "id": "article-60-",
+        "title": "Article 60 :",
+        "type": "article",
+        "level": 3,
+        "order": 71,
+        "path": [
+          "titre-2",
+          "chapitre-10"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-61-",
+        "title": "Article 61 :",
+        "type": "article",
+        "level": 3,
+        "order": 72,
+        "path": [
+          "titre-2",
+          "chapitre-10"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-62-",
+        "title": "Article 62 :",
+        "type": "article",
+        "level": 3,
+        "order": 73,
+        "path": [
+          "titre-2",
+          "chapitre-10"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-11",
+        "title": "CHAPITRE 11 : COOPERATION EN MATIERE D'AGRICULTURE, DE SECURITEALIMENTAIRE ET NUTRITIONNELLE, RESSOURCES ANIMALES ET HALIEUTIQUES",
+        "type": "chapitre",
+        "level": 3,
+        "order": 74,
+        "path": [
+          "titre-2",
+          "chapitre-11"
+        ],
+        "children": [
+          "article-63-",
+          "article-64-"
+        ]
+      },
+      {
+        "id": "article-63-",
+        "title": "Article 63 :",
+        "type": "article",
+        "level": 3,
+        "order": 75,
+        "path": [
+          "titre-2",
+          "chapitre-11"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-64-",
+        "title": "Article 64 :",
+        "type": "article",
+        "level": 3,
+        "order": 76,
+        "path": [
+          "titre-2",
+          "chapitre-11"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-12",
+        "title": "CHAPITRE 12 : COOPERATION EN MATIERE D'INDUSTRIE",
+        "type": "chapitre",
+        "level": 3,
+        "order": 77,
+        "path": [
+          "titre-2",
+          "chapitre-12"
+        ],
+        "children": [
+          "article-65-",
+          "article-66-"
+        ]
+      },
+      {
+        "id": "article-65-",
+        "title": "Article 65 :",
+        "type": "article",
+        "level": 3,
+        "order": 78,
+        "path": [
+          "titre-2",
+          "chapitre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-66-",
+        "title": "Article 66 :",
+        "type": "article",
+        "level": 3,
+        "order": 79,
+        "path": [
+          "titre-2",
+          "chapitre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-13",
+        "title": "CHAPITRE 13 : COOPERATION EN MATIERE D’INFRASTRUCTURES, D’EQUIPEMENTS DE TRANSPORTS ET DE COMMUNICATIONS",
+        "type": "chapitre",
+        "level": 3,
+        "order": 80,
+        "path": [
+          "titre-2",
+          "chapitre-13"
+        ],
+        "children": [
+          "article-67-",
+          "article-68-"
+        ]
+      },
+      {
+        "id": "article-67-",
+        "title": "Article 67 :",
+        "type": "article",
+        "level": 3,
+        "order": 81,
+        "path": [
+          "titre-2",
+          "chapitre-13"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-68-",
+        "title": "Article 68 :",
+        "type": "article",
+        "level": 3,
+        "order": 82,
+        "path": [
+          "titre-2",
+          "chapitre-13"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-14",
+        "title": "CHAPITRE 14 : COOPERATION EN MATIERE D’AMENAGEMENT DU TERRITOIRE COMMUNAUTAIRE",
+        "type": "chapitre",
+        "level": 3,
+        "order": 83,
+        "path": [
+          "titre-2",
+          "chapitre-14"
+        ],
+        "children": [
+          "article-69-"
+        ]
+      },
+      {
+        "id": "article-69-",
+        "title": "Article 69 :",
+        "type": "article",
+        "level": 3,
+        "order": 84,
+        "path": [
+          "titre-2",
+          "chapitre-14"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-15",
+        "title": "CHAPITRE 15 : COOPERATION EN MATIERE DE SCIENCE ET DE TECHNOLOGIE",
+        "type": "chapitre",
+        "level": 3,
+        "order": 85,
+        "path": [
+          "titre-2",
+          "chapitre-15"
+        ],
+        "children": [
+          "article-70-",
+          "article-71-"
+        ]
+      },
+      {
+        "id": "article-70-",
+        "title": "Article 70 :",
+        "type": "article",
+        "level": 3,
+        "order": 86,
+        "path": [
+          "titre-2",
+          "chapitre-15"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-71-",
+        "title": "Article 71 :",
+        "type": "article",
+        "level": 3,
+        "order": 87,
+        "path": [
+          "titre-2",
+          "chapitre-15"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-16",
+        "title": "CHAPITRE 16 : COOPERATION EN MATIERE D’ENERGIE ET D’EAU",
+        "type": "chapitre",
+        "level": 3,
+        "order": 88,
+        "path": [
+          "titre-2",
+          "chapitre-16"
+        ],
+        "children": [
+          "article-72-",
+          "article-73-"
+        ]
+      },
+      {
+        "id": "article-72-",
+        "title": "Article 72 :",
+        "type": "article",
+        "level": 3,
+        "order": 89,
+        "path": [
+          "titre-2",
+          "chapitre-16"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-73-",
+        "title": "Article 73 :",
+        "type": "article",
+        "level": 3,
+        "order": 90,
+        "path": [
+          "titre-2",
+          "chapitre-16"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-17",
+        "title": "CHAPITRE 17 : COOPERATION EN MATIERE D'ENVIRONNEMENT, DE RESSOURCES NATURELLES ET DE BIODIVERSITE",
+        "type": "chapitre",
+        "level": 3,
+        "order": 91,
+        "path": [
+          "titre-2",
+          "chapitre-17"
+        ],
+        "children": [
+          "article-74-",
+          "article-75-"
+        ]
+      },
+      {
+        "id": "article-74-",
+        "title": "Article 74 :",
+        "type": "article",
+        "level": 3,
+        "order": 92,
+        "path": [
+          "titre-2",
+          "chapitre-17"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-75-",
+        "title": "Article 75 :",
+        "type": "article",
+        "level": 3,
+        "order": 93,
+        "path": [
+          "titre-2",
+          "chapitre-17"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-18",
+        "title": "CHAPITRE 18 : COOPERATION EN MATIERE DE RESSOURCES HUMAINES, DES AFFAIRES SOCIALES ET DE GENRE",
+        "type": "chapitre",
+        "level": 3,
+        "order": 94,
+        "path": [
+          "titre-2",
+          "chapitre-18"
+        ],
+        "children": [
+          "article-76-",
+          "article-77-",
+          "article-78-",
+          "article-79-"
+        ]
+      },
+      {
+        "id": "article-76-",
+        "title": "Article 76 :",
+        "type": "article",
+        "level": 3,
+        "order": 95,
+        "path": [
+          "titre-2",
+          "chapitre-18"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-77-",
+        "title": "Article 77 :",
+        "type": "article",
+        "level": 3,
+        "order": 96,
+        "path": [
+          "titre-2",
+          "chapitre-18"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-78-",
+        "title": "Article 78 :",
+        "type": "article",
+        "level": 3,
+        "order": 97,
+        "path": [
+          "titre-2",
+          "chapitre-18"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-79-",
+        "title": "Article 79 :",
+        "type": "article",
+        "level": 3,
+        "order": 98,
+        "path": [
+          "titre-2",
+          "chapitre-18"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-19",
+        "title": "CHAPITRE 19 : COOPERATION EN MATIERE D'EDUCATION, DE FORMATION, DE CULTURE, DE SANTE, DE SPORT ET DE JEUNESSE",
+        "type": "chapitre",
+        "level": 3,
+        "order": 99,
+        "path": [
+          "titre-2",
+          "chapitre-19"
+        ],
+        "children": [
+          "article-80-",
+          "article-81-",
+          "article-82-",
+          "article-83-"
+        ]
+      },
+      {
+        "id": "article-80-",
+        "title": "Article 80 :",
+        "type": "article",
+        "level": 3,
+        "order": 100,
+        "path": [
+          "titre-2",
+          "chapitre-19"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-81-",
+        "title": "Article 81 :",
+        "type": "article",
+        "level": 3,
+        "order": 101,
+        "path": [
+          "titre-2",
+          "chapitre-19"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-82-",
+        "title": "Article 82 :",
+        "type": "article",
+        "level": 3,
+        "order": 102,
+        "path": [
+          "titre-2",
+          "chapitre-19"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-83-",
+        "title": "Article 83 :",
+        "type": "article",
+        "level": 3,
+        "order": 103,
+        "path": [
+          "titre-2",
+          "chapitre-19"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-20",
+        "title": "CHAPITRE 20 : COOPERATION EN MATIERE DE TOURISME",
+        "type": "chapitre",
+        "level": 3,
+        "order": 104,
+        "path": [
+          "titre-2",
+          "chapitre-20"
+        ],
+        "children": [
+          "article-84-",
+          "article-85-"
+        ]
+      },
+      {
+        "id": "article-84-",
+        "title": "Article 84 :",
+        "type": "article",
+        "level": 3,
+        "order": 105,
+        "path": [
+          "titre-2",
+          "chapitre-20"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-85-",
+        "title": "Article 85 :",
+        "type": "article",
+        "level": 3,
+        "order": 106,
+        "path": [
+          "titre-2",
+          "chapitre-20"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-21",
+        "title": "CHAPITRE 21 : COOPERATION DANS LES AUTRES DOMAINES",
+        "type": "chapitre",
+        "level": 3,
+        "order": 107,
+        "path": [
+          "titre-2",
+          "chapitre-21"
+        ],
+        "children": [
+          "article-86-",
+          "article-87-"
+        ]
+      },
+      {
+        "id": "article-86-",
+        "title": "Article 86 :",
+        "type": "article",
+        "level": 3,
+        "order": 108,
+        "path": [
+          "titre-2",
+          "chapitre-21"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-87-",
+        "title": "Article 87 :",
+        "type": "article",
+        "level": 3,
+        "order": 109,
+        "path": [
+          "titre-2",
+          "chapitre-21"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-22",
+        "title": "CHAPITRE 22 : MIGRATIONS ET ASSISTANCE HUMANITAIRE",
+        "type": "chapitre",
+        "level": 3,
+        "order": 110,
+        "path": [
+          "titre-2",
+          "chapitre-22"
+        ],
+        "children": [
+          "article-88-",
+          "article-89-"
+        ]
+      },
+      {
+        "id": "article-88-",
+        "title": "Article 88 :",
+        "type": "article",
+        "level": 3,
+        "order": 111,
+        "path": [
+          "titre-2",
+          "chapitre-22"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-89-",
+        "title": "Article 89 :",
+        "type": "article",
+        "level": 3,
+        "order": 112,
+        "path": [
+          "titre-2",
+          "chapitre-22"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-23",
+        "title": "CHAPITRE 23 : POLITIQUE MARITIME COMMUNAUTAIRE",
+        "type": "chapitre",
+        "level": 3,
+        "order": 113,
+        "path": [
+          "titre-2",
+          "chapitre-23"
+        ],
+        "children": [
+          "article-90-"
+        ]
+      },
+      {
+        "id": "article-90-",
+        "title": "Article 90 :",
+        "type": "article",
+        "level": 3,
+        "order": 114,
+        "path": [
+          "titre-2",
+          "chapitre-23"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-24",
+        "title": "CHAPITRE 24 : DISPOSITIONS SPECIALES EN FAVEUR DES ETATS SANS LITTORAL INSULAIRES, PARTIELLEMENT INSULAIRES, ENCLAVES, GEOGRAPHIQUEMENT DESAVENTAGES",
+        "type": "chapitre",
+        "level": 3,
+        "order": 115,
+        "path": [
+          "titre-2",
+          "chapitre-24"
+        ],
+        "children": [
+          "article-91-",
+          "article-92-"
+        ]
+      },
+      {
+        "id": "article-91-",
+        "title": "Article 91 :",
+        "type": "article",
+        "level": 3,
+        "order": 116,
+        "path": [
+          "titre-2",
+          "chapitre-24"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-92-",
+        "title": "Article 92 :",
+        "type": "article",
+        "level": 3,
+        "order": 117,
+        "path": [
+          "titre-2",
+          "chapitre-24"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-3",
+        "title": "TITRE 3 : DISPOSITIONS SPECIALES ET FINALES",
+        "type": "titre",
+        "level": 2,
+        "order": 118,
+        "path": [
+          "titre-3"
+        ],
+        "children": [
+          "chapitre-25",
+          "chapitre-27",
+          "chapitre-28",
+          "chapitre-29"
+        ]
+      },
+      {
+        "id": "chapitre-25",
+        "title": "CHAPITRE 25 : MOYENS ET INSTRUMENTS DE COOPERATION",
+        "type": "chapitre",
+        "level": 3,
+        "order": 119,
+        "path": [
+          "titre-3",
+          "chapitre-25"
+        ],
+        "children": [
+          "article-93-",
+          "article-94-",
+          "article-95-",
+          "article-96-",
+          "article-97-"
+        ]
+      },
+      {
+        "id": "article-93-",
+        "title": "Article 93 :",
+        "type": "article",
+        "level": 3,
+        "order": 120,
+        "path": [
+          "titre-3",
+          "chapitre-25"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-94-",
+        "title": "Article 94 :",
+        "type": "article",
+        "level": 3,
+        "order": 121,
+        "path": [
+          "titre-3",
+          "chapitre-25"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-95-",
+        "title": "Article 95 :",
+        "type": "article",
+        "level": 3,
+        "order": 122,
+        "path": [
+          "titre-3",
+          "chapitre-25"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-96-",
+        "title": "Article 96 :",
+        "type": "article",
+        "level": 3,
+        "order": 123,
+        "path": [
+          "titre-3",
+          "chapitre-25"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-97-",
+        "title": "Article 97 :",
+        "type": "article",
+        "level": 3,
+        "order": 124,
+        "path": [
+          "titre-3",
+          "chapitre-25"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-27",
+        "title": "CHAPITRE 27 : REGLEMENT DES LITIGES ET SANCTIONS",
+        "type": "chapitre",
+        "level": 3,
+        "order": 125,
+        "path": [
+          "titre-3",
+          "chapitre-27"
+        ],
+        "children": [
+          "article-98-",
+          "article-99-"
+        ]
+      },
+      {
+        "id": "article-98-",
+        "title": "Article 98 :",
+        "type": "article",
+        "level": 3,
+        "order": 126,
+        "path": [
+          "titre-3",
+          "chapitre-27"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-99-",
+        "title": "Article 99 :",
+        "type": "article",
+        "level": 3,
+        "order": 127,
+        "path": [
+          "titre-3",
+          "chapitre-27"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-28",
+        "title": "CHAPITRE 28 : DISPOSITIONS SPECIALES",
+        "type": "chapitre",
+        "level": 3,
+        "order": 128,
+        "path": [
+          "titre-3",
+          "chapitre-28"
+        ],
+        "children": [
+          "article-100-",
+          "article-101-",
+          "article-102-",
+          "article-103-",
+          "article-104-",
+          "article-105-",
+          "article-106-",
+          "article-107-"
+        ]
+      },
+      {
+        "id": "article-100-",
+        "title": "Article 100 :",
+        "type": "article",
+        "level": 3,
+        "order": 129,
+        "path": [
+          "titre-3",
+          "chapitre-28"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-101-",
+        "title": "Article 101 :",
+        "type": "article",
+        "level": 3,
+        "order": 130,
+        "path": [
+          "titre-3",
+          "chapitre-28"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-102-",
+        "title": "Article 102 :",
+        "type": "article",
+        "level": 3,
+        "order": 131,
+        "path": [
+          "titre-3",
+          "chapitre-28"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-103-",
+        "title": "Article 103 :",
+        "type": "article",
+        "level": 3,
+        "order": 132,
+        "path": [
+          "titre-3",
+          "chapitre-28"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-104-",
+        "title": "Article 104 :",
+        "type": "article",
+        "level": 3,
+        "order": 133,
+        "path": [
+          "titre-3",
+          "chapitre-28"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-105-",
+        "title": "Article 105 :",
+        "type": "article",
+        "level": 3,
+        "order": 134,
+        "path": [
+          "titre-3",
+          "chapitre-28"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-106-",
+        "title": "Article 106 :",
+        "type": "article",
+        "level": 3,
+        "order": 135,
+        "path": [
+          "titre-3",
+          "chapitre-28"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-107-",
+        "title": "Article 107 :",
+        "type": "article",
+        "level": 3,
+        "order": 136,
+        "path": [
+          "titre-3",
+          "chapitre-28"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-29",
+        "title": "CHAPITRE 29 : DISPOSITIONS DIVERSES ET FINALES",
+        "type": "chapitre",
+        "level": 3,
+        "order": 137,
+        "path": [
+          "titre-3",
+          "chapitre-29"
+        ],
+        "children": [
+          "article-108-",
+          "article-109-",
+          "article-110-",
+          "article-111-",
+          "article-112-",
+          "article-113-",
+          "article-114-",
+          "article-115-"
+        ]
+      },
+      {
+        "id": "article-108-",
+        "title": "Article 108 :",
+        "type": "article",
+        "level": 3,
+        "order": 138,
+        "path": [
+          "titre-3",
+          "chapitre-29"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-109-",
+        "title": "Article 109 :",
+        "type": "article",
+        "level": 3,
+        "order": 139,
+        "path": [
+          "titre-3",
+          "chapitre-29"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-110-",
+        "title": "Article 110 :",
+        "type": "article",
+        "level": 3,
+        "order": 140,
+        "path": [
+          "titre-3",
+          "chapitre-29"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-111-",
+        "title": "Article 111 :",
+        "type": "article",
+        "level": 3,
+        "order": 141,
+        "path": [
+          "titre-3",
+          "chapitre-29"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-112-",
+        "title": "Article 112 :",
+        "type": "article",
+        "level": 3,
+        "order": 142,
+        "path": [
+          "titre-3",
+          "chapitre-29"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-113-",
+        "title": "Article 113 :",
+        "type": "article",
+        "level": 3,
+        "order": 143,
+        "path": [
+          "titre-3",
+          "chapitre-29"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-114-",
+        "title": "Article 114 :",
+        "type": "article",
+        "level": 3,
+        "order": 144,
+        "path": [
+          "titre-3",
+          "chapitre-29"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-115-",
+        "title": "Article 115 :",
+        "type": "article",
+        "level": 3,
+        "order": 146,
+        "path": [
+          "titre-3",
+          "chapitre-29"
+        ],
+        "children": []
+      }
+    ],
+    "totalArticles": 115
+  },
+  "source": "internationale"
+}

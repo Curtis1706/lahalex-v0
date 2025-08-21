@@ -1,0 +1,3 @@
+Article 160 : Clauses d'accueil de l'enfant et déclaration administrative
+Nul ne peut recevoir un enfant sans s’être assuré de l’accomplissement des formalités administratives prévues par la présente loi.
+Tout enfant accueilli, par une personne, en un lieu autre que celui de la résidence de ses parents biologiques ou de la personne ayant autorité sur lui, fait l’objet d’une déclaration à l’autorité administrative territorialement compétente du lieu d’accueil dans les soixante-douze (72) heures de son arrivée sous peine des sanctions prévues à l’article 392 de la présente loi.

@@ -1,0 +1,5 @@
+Article 20 : Sanctions en cas de déclaration tardive et clauses de déchéance prohibées
+Sont nulles :
+1° lorsqu’elle est prévue par une clause du contrat, la déchéance pour déclaration tardive au regard des délais prévus au 3° et 4° de l’article 12 ne peut être opposée à l’assuré que si l’assureur établit que le retard dans la déclaration lui a causé un préjudice. Elle ne peut également être opposée dans tous les cas où le retard est dû à un cas fortuit ou de force majeure ;
+2° toutes clauses générales frappant de déchéance l’assuré en cas de violation des lois et des règlements, à moins que cette violation ne constitue un crime ou un délit intentionnel ;
+3° toutes clauses frappant de déchéance l’assuré à raison de simple retard apporté par lui à la déclaration du sinistre aux autorités ou à des productions de pièces, sans préjudice du droit pour l’assureur de réclamer une indemnité proportionnée au dommage que ce retard lui a causé.

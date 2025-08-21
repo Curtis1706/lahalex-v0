@@ -1,0 +1,3 @@
+Les états financiers de la commune ou de l'établissement public de coopération intercommunale faisant la synthèse des informations comptables sont arrêtés à chaque fin d'exercice qui coïncide avec la fin de l’année civile.
+Toutefois, les écritures comptables sont également arrêtées par journée, par décade et par mois.
+A chaque fin d'exercice, une période complémentaire fixée à un mois permet de procéder aux opérations de régularisation comptable à l’exclusion de toute opération budgétaire.

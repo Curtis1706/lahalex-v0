@@ -1,0 +1,2 @@
+Lorsque le navire est immatriculé en République du Bénin, le service chargé du registre des hypothèques maritimes délivre un état des inscriptions. La saisie est dénoncée aux créanciers inscrits et ce, aux domiciles élus dans leurs inscriptions.
+Lorsque le navire saisi n’est pas immatriculé en République du Bénin, la dénonciation est adressée à l’autorité consulaire ci-dessus désignée.

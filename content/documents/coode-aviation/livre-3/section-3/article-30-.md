@@ -1,0 +1,2 @@
+Les aéronefs constituent des biens meubles. Toutefois, la cession de la propriété est constatée par écrit et ne produit d'effet, à l'égard des tiers, que par l'inscription au registre d'immatriculation.
+Toute mutation de propriété par décès et tout jugement translatif ou déclaratif de propriété sont inscrits sur le registre, à la requête du nouveau propriétaire.

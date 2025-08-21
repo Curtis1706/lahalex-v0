@@ -1,0 +1,1 @@
+Les officiers et agents de la police judiciaire sont placés sous la surveillance du procureur général. Il peut les charger de recueillir tous les renseignements qu’il estime utiles à une bonne administration de la justice.

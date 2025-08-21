@@ -1,0 +1,1 @@
+Les fautes contre la discipline sont punies conformément aux dispositions du présent code.

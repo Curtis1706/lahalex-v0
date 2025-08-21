@@ -1,0 +1,2 @@
+Pour la réalisation des balisages visés à l'article 180 de la présente loi, l'Etat dispose des droits d'appui, de passage, d’abattage d’arbres, d'ébranchage ainsi que du droit d'installation de dispositifs sur les murs extérieurs et les toitures.
+Ces droits peuvent être exercés par les personnes privées éventuellement chargées du balisage.

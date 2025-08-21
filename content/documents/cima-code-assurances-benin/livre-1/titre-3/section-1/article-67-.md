@@ -1,0 +1,2 @@
+Remboursement de la provision mathématique
+Dans le cas de réticence ou fausse déclaration mentionné à l’article 18, dans le cas où l’assuré s’est donné volontairement et consciemment la mort au cours du délai mentionné à l’article 66 ou lorsque le contrat exclut la garantie du décès en raison de la cause de celui-ci, l’assureur verse au contractant ou, en cas de décès de l’assuré, au bénéficiaire, une somme égale à la provision mathématique du contrat.

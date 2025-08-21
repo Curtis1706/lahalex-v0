@@ -1,0 +1,2 @@
+Tout décès doit être déclaré au centre d'état civil du lieu du décès dans un délai de dix (10) jours non compris le jour du décès. Si le délai arrive à expiration un jour férié, la déclaration sera reçue valablement le 1 jour ouvrable suivant.
+Les déclarations peuvent émaner d’un des parents du défunt ou de toute autre personne possédant sur son état civil, les renseignements nécessaires à l’établissement de l’acte.

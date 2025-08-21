@@ -1,0 +1,15 @@
+{
+  "id": "article-69-",
+  "title": "Article 69 : Fourniture d’informations et cartographie",
+  "numero": "69 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-68-",
+    "next": "article-70-"
+  }
+}

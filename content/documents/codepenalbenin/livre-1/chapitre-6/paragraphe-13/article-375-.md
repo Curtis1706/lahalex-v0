@@ -1,0 +1,4 @@
+Est puni d’une peine d’emprisonnement de cinq (05) ans à dix (10) ans et d’une amende d’au moins deux millions (2.000.000) de francs CFA sans que cette amende puisse excéder cinq millions (5.000.000) de francs CFA :
+1. tout agent public qui aura intentionnellement abusé de ses fonctions ou de son poste, en accomplissant ou en s’abstenant d’accomplir, dans l’exercice de ses fonctions, un acte en violation des lois afin d’obtenir un avantage indu pour lui-même ou pour une personne ou entité ;
+2. tout agent public qui aura, en violation des dispositions de la loi, révélé l’identité ou l’adresse des dénonciateurs ou d’un témoin ;
+3. tout membre du personnel des organes de prévention de la corruption qui aura, en dehors des cas où la loi l’autorise à se porter dénonciateur, révélé tout ou partie des informations connues de lui dans le cadre de ses fonctions.

@@ -1,0 +1,3 @@
+Encourt une peine d’emprisonnement de six (06) mois à trois (03) ans et d’une amende de un million (1.000.000) de francs CFA à cinq millions (5.000.000) de francs CFA toute personne qui aura effectué une inscription de sûreté mobilière par fraude, ou portant des indications inexactes données de mauvaise foi.
+Le tribunal pourra ordonner, en prononçant la condamnation, la rectification de la mention inexacte dans les termes qu’il déterminera.
+Encourt la même peine le locataire-gérant qui n’aura pas indiqué en tête de ses bons de commande, factures et autres documents à caractère financier ou commercial, avec son numéro d’immatriculation au registre du commerce et du crédit mobilier, sa qualité de locataire-gérant d’un fonds de commerce.

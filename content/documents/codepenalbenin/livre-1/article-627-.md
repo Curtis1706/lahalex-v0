@@ -1,0 +1,1 @@
+La soustraction frauduleuse d’énergie, d’eau ou de tous objets incorporels au préjudice d’autrui est assimilée au vol et puni des peines de l’article 626 ci-dessus.

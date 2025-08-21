@@ -1,0 +1,1 @@
+Sous réserve des dispositions des accords et conventions internationaux en vigueur, l'exploitation par des compagnies aériennes étrangères de lignes internationales régulières de transport aérien en provenance ou à destination de la République du Bénin est subordonnée à l'autorisation préalable de l'organisme national en charge de l'aviation civile.

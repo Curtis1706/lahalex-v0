@@ -1,0 +1,6 @@
+En vue de l'institution du marché commun prévu à l'article 4 paragraphe c) du présent Traité, l'Union poursuit la réalisation progressive des objectifs suivants :
+1) l'élimination, sur les échanges entre les pays membres, des droits de douane, des restrictions quantitatives à l'entrée et à la sortie, des taxes d'effet équivalent et de toutes autres mesures d'effet équivalent susceptibles d'affecter lesdites transactions, sous réserve du respect des règles d'origine de l'Union qui seront précisées par voie de protocole additionnel ;
+1) l'établissement d'un tarif extérieur commun (TEC) ;
+1) l'institution de règles communes de concurrence applicables aux entreprises publiques et privées ainsi qu'aux aides publiques ;
+1) la mise en oeuvre des principes de liberté de circulation des personnes, d'établissement et de prestations de services ainsi que de celui de liberté de mouvements des capitaux requis pour le développement du marché financier régional ;
+1) l'harmonisation et la reconnaissance mutuelle des normes techniques ainsi que des procédures d'homologation et de certification du contrôle de leur observation.

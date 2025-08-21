@@ -1,0 +1,2 @@
+L’affichage et la vente des écrits destinés aux mineurs sont subordonnés à l’autorisation de la Haute Autorité de l’Audiovisuel et de la Communication.
+Le Président de la Haute Autorité de l’Audiovisuel et de la Communication saisit le procureur de la République territorialement compétent pour faire constater sur-le-champ, la circulation frauduleuse de tout périodique destiné aux mineurs et ordonner la saisie de tous les exemplaires mis à la disposition du public.

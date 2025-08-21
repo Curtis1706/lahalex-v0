@@ -1,0 +1,1 @@
+L'inscription conserve l’hypothèque pendant dix ans à compter de sa date. Son effet cesse si l'inscription n'a pas été renouvelée avant l'expiration de ce délai.

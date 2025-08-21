@@ -1,0 +1,3 @@
+Modifications affectant les activités de communications électroniques
+Les droits, les procédures et les conditions attachés aux différents régimes juridiques doivent être précisés par voie règlementaire. Ils ne peuvent faire l'objet de modification qu'en respect des procédures énoncées à l’alinéa 2 du présent article.
+Avant de modifier les régimes, les procédures, les droits et les obligations attachés à l’exercice des activités de 	communications 	électroniques, 	l’Autorité 	de régulation consulte et recueille les avis des acteurs du secteur. Les modifications opérées ne sont pas rétroactives.

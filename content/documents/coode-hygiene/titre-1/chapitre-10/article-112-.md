@@ -1,0 +1,2 @@
+Il est interdit l'utilisation des récipients ayant contenu des produits toxiques dangereux pour l'approvisionnement en eau à usage domestique.
+Les récipients destinés à contenir de l'eau à usage domestique sont hygiéniquement traités et entretenus.

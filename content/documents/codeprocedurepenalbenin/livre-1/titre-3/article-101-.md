@@ -1,0 +1,3 @@
+Si la perquisition a lieu dans un domicile autre que celui de l’inculpé, la personne chez qui elle doit s’effectuer est invitée à y assister. Si cette personne est absente ou refuse d’y assister, la perquisition a lieu en présence de deux de ses parents ou alliés présents sur les lieux ou, à défaut, en présence de deux (02) témoins.
+Le juge doit se conformer aux dispositions des articles 51 alinéa 3 et 53 alinéa 1<sup>er</sup> du présent code.
+Il a l’obligation de prendre préalablement, toutes mesures utiles pour que soit assuré le respect du secret professionnel et des droits de la défense.

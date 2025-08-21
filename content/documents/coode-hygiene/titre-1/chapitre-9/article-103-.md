@@ -1,0 +1,1 @@
+Tout établissement qui produit, manipule ou vend des denrées alimentaires dispose d'ouvrages d'assainissement fonctionnels, conformément à la réglementation en vigueur en la matière.

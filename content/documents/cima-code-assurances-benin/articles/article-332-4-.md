@@ -1,0 +1,3 @@
+Article 332-4 : Garanties constituées à l’étranger
+Lorsqu’une entreprise d’un Etat membre a constitué dans un pays étranger des garanties au profit de créanciers tenant leurs droits de contrats d’assurance exécutés dans ce pays, le privilège institué au premier alinéa de l’article 332 ne peut avoir pour effet de placer ces créanciers dans une situation plus favorable que celle de créanciers tenant leurs droits de contrats exécutés sur le territoire de l’État membre.
+### CHAPITRE 4 : SANCTIONS

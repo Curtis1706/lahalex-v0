@@ -1,0 +1,16 @@
+{
+  "id": "article-22-",
+  "title": "Article 22 : Droit à la fourniture de services de communications électroniques",
+  "numero": "22 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-3"
+  ],
+  "navigation": {
+    "parent": "chapitre-3",
+    "previous": "article-21-",
+    "next": "article-23-"
+  }
+}

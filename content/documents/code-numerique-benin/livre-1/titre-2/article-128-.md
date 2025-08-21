@@ -1,0 +1,2 @@
+Incompatibilités
+La qualité de conseiller est incompatible avec celle de membre du Gouvernement, avec l’exercice de tout mandat électif et de tout intérêt personnel lié au secteur des communications électroniques ou de la poste, à l’exception des activités d’enseignement et/ou de recherche.

@@ -1,0 +1,4 @@
+Tout navire dont la béninisation est demandée doit faire l’objet d’un jaugeage conformément à la réglementation en vigueur.
+Le directeur de la marine marchande établit le certificat de jauge contre le paiement d’une taxe dont le montant est fixé par voie réglementaire.
+L’autorité maritime peut également désigner, par arrêté, une ou plusieurs sociétés de classification aux fins de déterminer la jauge des navires.
+Les règles de jaugeage sont définies et les certificats de jauge délivrés par l’autorité maritime conformément aux prescriptions de la convention internationale de 1969 sur le jaugeage des navires.

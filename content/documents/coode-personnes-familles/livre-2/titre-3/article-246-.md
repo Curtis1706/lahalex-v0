@@ -1,0 +1,1 @@
+Les demandes reconventionnelles en divorce ou en séparation de corps se font à l’audience par déclaration consignée par le greffier ou par dépôt de conclusions. Dans les mêmes formes, le demandeur peut, jusqu'à la clôture des débats, transformer sa demande de divorce en demande de séparation de corps.

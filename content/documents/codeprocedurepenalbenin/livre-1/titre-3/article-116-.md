@@ -1,0 +1,5 @@
+Toute personne citée pour être entendue comme témoin est tenue de comparaître. Sous réserve des dispositions du code pénal relatives à la violation du secret professionnel, elle est également tenue de prêter serment si elle n’en est dispensée dans les cas prévus au 5<sup>ème</sup> alinéa de l’article 111 du présent code et de déposer.
+Le témoin qui demande une indemnité est immédiatement taxé par le juge d’instruction.
+Si le témoin régulièrement cité ne comparaît pas, le juge d’instruction peut l’y contraindre par la force publique et le condamner sans autre formalité et sans appel, à une amende n’excédant pas cinquante mille (50 000) francs.
+S’il comparaît ultérieurement, il peut, sur production de ses excuses et justifications, être déchargé de cette peine par le juge d’instruction.
+La même peine peut être prononcée contre le témoin qui, bien que comparaissant, refuse de prêter serment et de faire sa déposition ; le témoin a la faculté d’interjeter appel de la condamnation dans les trois (03) jours de son prononcé. L’appel est porté devant la chambre de l’instruction.

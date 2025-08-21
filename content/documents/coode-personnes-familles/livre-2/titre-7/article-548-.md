@@ -1,0 +1,1 @@
+Peut être placé sous la sauvegarde de justice le majeur qui, pour l’une des causes prévues à l’article 455 du présent code, a besoin d’être protégé dans les actes de la vie civile.

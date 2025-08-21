@@ -1,0 +1,4 @@
+Ceux qui, sans ordre des autorités constituées et hors les cas où la loi ordonne de saisir des prévenus ont arrêté, détenu ou séquestré des personnes quelconques, sont punis :
+1. de la réclusion criminelle à perpétuité, si la détention ou séquestration a duré plus d’un mois ;
+2. de la réclusion criminelle à temps de dix (10) ans à vingt (20) ans, si la détention ou séquestration a duré moins d’un (01) mois ;
+3. d’un emprisonnement de deux (02) ans à cinq (05) ans, s’ils ont rendu la liberté à la personne arrêtée, séquestrée ou détenue avant le cinquième jour accompli depuis celui de l’arrestation, de la détention ou de la séquestration.

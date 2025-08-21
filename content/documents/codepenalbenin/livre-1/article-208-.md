@@ -1,0 +1,1 @@
+La plate-forme fixe désigne une île artificielle, une installation ou un ouvrage attaché en permanence au fond de la mer aux fins de l’exploration ou de l’exploitation de ressources ou à d’autres fins économiques.

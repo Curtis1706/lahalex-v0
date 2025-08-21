@@ -1,0 +1,3 @@
+Article 328-8 : Compte rendu d’exécution
+Pendant les trois exercices faisant l’objet des prévisions mentionnées au g), 6) et 7) de l’article 328-4, l’entreprise doit présenter à la Commission de Contrôle des Assurances, pour chaque semestre, un compte rendu d’exécution du programme d’activité.
+Si les comptes rendus ainsi présentés font apparaître un déséquilibre grave dans la situation financière de l’entreprise, la Commission peut à tout moment prendre les mesures nécessaires pour faire renforcer les garanties financières jugées indispensables et, à défaut, procéder au retrait de l’agrément.

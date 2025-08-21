@@ -1,0 +1,15 @@
+{
+  "id": "article-81-",
+  "title": "Article 81 : Obligations imposées spécifiquement aux opérateurs dominants",
+  "numero": "81 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-80-",
+    "next": "article-82-"
+  }
+}

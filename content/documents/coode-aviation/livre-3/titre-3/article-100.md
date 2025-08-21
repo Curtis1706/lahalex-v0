@@ -1,0 +1,2 @@
+L'action en responsabilité est portée au choix du demandeur devant la juridiction du lieu où le dommage a été causé ou devant la juridiction du domicile du défendeur.
+S'il s'agit d'une avarie causée à un appareil en circulation, juridiction compétente est celle du lieu où la victime a été obligée d’atterrir après l'avarie.

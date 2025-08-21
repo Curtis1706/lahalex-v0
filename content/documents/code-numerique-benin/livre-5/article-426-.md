@@ -1,0 +1,11 @@
+Les obligations de sécurité
+Afin de garantir la sécurité des données à caractère personnel, le responsable du traitement et/ou son sous-traitant doivent mettre en œuvre les mesures techniques et d'organisation appropriées pour protéger les données à caractère personnel contre la destruction accidentelle ou illicite, la perte accidentelle, l'altération, la diffusion ou l'accès non autorisés, l'interception notamment lorsque le traitement comporte des transmissions de données dans un réseau, ainsi que contre toute autre forme de traitement illicite.
+Ces mesures doivent assurer, compte tenu de l'état de l'art et des coûts liés à leur mise en œuvre, un niveau de sécurité approprié tenant compte, d'une part, de l'état de la technique en la matière et des frais qu'entraîne l'application de ces mesures et, d'autre part, de la nature des données à protéger et des risques potentiels.
+Il incombe également au responsable du traitement, son représentant ainsi qu'au sous- traitant de veiller au respect de ces mesures de sécurité.
+Ces mesures peuvent notamment comprendre :
+1. la pseudonymisation et le chiffrement des données à caractère personnel ;
+1. des moyens permettant de garantir la confidentialité, l'intégrité, la disponibilité et la résilience constantes des systèmes et des services de traitement ;
+1. des moyens permettant de rétablir la disponibilité des données à caractère personnel et l'accès à celles-ci dans des délais appropriés en cas d'incident physique ou technique ;
+1. une procédure visant à tester, à analyser et à évaluer régulièrement l'efficacité des mesures techniques et organisationnelles pour assurer la sécurité du traitement.
+Le choix du sous-traitant et les modalités du contrat liant celui-ci avec le responsable du traitement sont soumis aux dispositions du présent Livre.
+Aux fins de la conservation des preuves, les éléments du contrat ou de l'acte juridique relatifs à la protection des données et les exigences portant sur les mesures visées à l’alinéa précédent du présent article sont consignés par écrit ou sous une autre forme équivalente mais garantissant la pérennité et l'inaltérabilité du document.

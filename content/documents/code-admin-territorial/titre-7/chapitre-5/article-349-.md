@@ -1,0 +1,4 @@
+Toute commune membre peut décider, à tout moment, de se retirer d'un établissement public de coopération intercommunale, après délibération à la majorité des deux tiers (2/3) des membres du conseil communal concerné notifiée au président du conseil de communauté qui en informe ledit conseil à sa prochaine session.
+Toute commune membre qui décide de se retirer d'un établissement public de coopération intercommunale doit payer au préalable l’intégralité de sa contribution annuelle audit établissement.
+Elle demeure solidaire des engagements de l'établissement en cours au jour de son retrait.
+La décision de retrait ne prend effet qu'au terme de l'année budgétaire en cours.

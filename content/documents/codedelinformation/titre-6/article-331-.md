@@ -1,0 +1,1 @@
+Les décisions statuant sur les demandes de mainlevée peuvent faire l’objet d’un recours devant la chambre d’accusation ou devant la cour d’appel selon qu’elles ont été prononcées par un juge d’instruction ou par le tribunal saisi des poursuites.

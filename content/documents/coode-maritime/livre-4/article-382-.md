@@ -1,0 +1,3 @@
+En cas de perte ou de dommages survenus aux marchandises, le réceptionnaire ou son représentant doit adresser des réserves écrites au transporteur ou à son représentant au port de débarquement au plus tard au moment de la livraison, faute de quoi les marchandises sont présumées, sauf preuve contraire, avoir été reçues par lui telles qu’elles sont décrites au connaissement.
+S’il s’agit de pertes ou de dommages non apparents, cette notification peut être valablement faite dans les trois (03) jours suivant la livraison, jours fériés non compris.
+Le transporteur aura toujours le droit de demander qu’une constatation contradictoire de l’état des marchandises soit faite.

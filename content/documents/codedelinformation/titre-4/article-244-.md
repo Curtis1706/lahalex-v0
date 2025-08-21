@@ -1,0 +1,3 @@
+La Haute Autorité de l’Audiovisuel et de la Communication peut autoriser l’installation d’une ou de plusieurs stations de télévision étrangère dans le respect des dispositions de la présente loi.
+Les modalités, les conditions et les spécifications complémentaires propres à chacune d’elles sont précisées dans la convention de la Haute Autorité de l’Audiovisuel et de la Communication.
+Outre le paiement de tous autres droits et taxes fixés par la loi, toute station de télévision étrangère est assujettie au paiement d’une redevance annuelle dont le montant ne saurait être inférieur à sept pour cent (7%) de son chiffre d’affaires et dans tous les cas, à moins de trente millions (30 000 000) de francs CFA ou de l’équivalent en devises étrangères.

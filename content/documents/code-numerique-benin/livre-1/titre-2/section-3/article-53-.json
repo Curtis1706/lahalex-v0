@@ -1,0 +1,16 @@
+{
+  "id": "article-53-",
+  "title": "Article 53 : Règles applicables aux activités soumises au régime de l’autorisation",
+  "numero": "53 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "section-3"
+  ],
+  "navigation": {
+    "parent": "section-3",
+    "previous": "article-52-",
+    "next": "article-54-"
+  }
+}

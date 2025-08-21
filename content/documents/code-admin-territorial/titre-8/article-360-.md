@@ -1,0 +1,1 @@
+Les budgets annexes et les décisions modificatives sont votés et approuvés dans les mêmes conditions que le budget primitif.

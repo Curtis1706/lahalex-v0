@@ -1,0 +1,2 @@
+Dans le cas de l'élection du président de la République ou des élections législatives, la Cour constitutionnelle est saisie par une requête écrite adressée à son Secrétaire général.
+En cas d'élections communales, la Cour suprême est saisie par une requête écrite adressée soit directement au greffe de la Cour, soit au préfet ou au ministre en charge de l'Administration territoriale qui la transmet immédiatement.

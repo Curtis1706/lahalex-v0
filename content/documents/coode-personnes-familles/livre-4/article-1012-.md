@@ -1,0 +1,1 @@
+Les prescriptions limitant les formes des dispositions testamentaires admises et se rattachant à l’âge, à la nationalité ou à d’autres qualités personnelles du testateur sont considérées comme relevant du domaine de la forme. Il en est de même des qualités que doivent posséder les témoins requis, pour la validité d’une disposition testamentaire.

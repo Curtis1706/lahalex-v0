@@ -1,0 +1,2 @@
+Les manifestations et rassemblements électoraux se déroulent conformément aux dispositions de la loi sur les réunions et manifestations publiques sous réserve des dispositions contraires du présent code.
+Toutes les manifestations culturelles ou évènements publics ou toutes autres manifestations de nature à perturber le bon déroulement de la campagne électorale sont interdits pendant la période allant de l'ouverture officielle de la campagne électorale au jour du vote sous peine des sanctions

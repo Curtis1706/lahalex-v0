@@ -1,0 +1,3 @@
+Si les offres, promesses, dons ou sollicitations tendaient à l’accomplissement ou au non accomplissement d’un acte qui, bien qu’en dehors des attributions personnelles de la personne corrompue, était ou aurait été facilité par sa fonction ou par le service qu’elle assurait, la peine sera :
+1. dans le cas de l’article 344 du présent code, d’un emprisonnement de six (06) mois à deux (02) ans et d’une amende de soixante mille (60.000) francs CFA à un million cinq cent mille (1.500.000) francs CFA ;
+2. et dans le cas de l’article 345 alinéa 2 du présent code, d’un emprisonnement de six (06) mois à deux (02) ans et d’une amende de trente mille (30.000) francs CFA à six cent mille (600.000) francs CFA ou de l’une de ces deux peines seulement.

@@ -1,0 +1,15 @@
+{
+  "id": "article-20-",
+  "title": "Article 20 : L'inscription sur le registre identifie l'aéronef.",
+  "numero": "20 ",
+  "document": "coode-aviation",
+  "path": [
+    "livre-3",
+    "section-1"
+  ],
+  "navigation": {
+    "parent": "section-1",
+    "previous": "article-19",
+    "next": "article-21-"
+  }
+}

@@ -1,0 +1,2 @@
+Les individus condamnés pour infraction involontaire peuvent être électeurs.
+Tout individu condamné, ayant accompli sa peine et bénéficiant d'une réhabilitation légale ou judiciaire peut être électeur, à l'exception des individus condamnés pour crime.

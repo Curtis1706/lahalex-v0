@@ -1,0 +1,1 @@
+Toute reproduction de l’image d’une personne doit être fidèle.

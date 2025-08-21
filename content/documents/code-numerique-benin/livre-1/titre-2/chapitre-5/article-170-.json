@@ -1,0 +1,16 @@
+{
+  "id": "article-170-",
+  "title": "Article 170 : Sanctions pécuniaires",
+  "numero": "170 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "chapitre-5"
+  ],
+  "navigation": {
+    "parent": "chapitre-5",
+    "previous": "article-169-",
+    "next": "article-171-"
+  }
+}

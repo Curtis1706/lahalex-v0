@@ -1,0 +1,1 @@
+Les dispositions du présent chapitre sont applicables à la réparation des dommages qu’un navire a causés à un navire, aux choses ou personnes se trouvant à bord, par exécution ou omission de manœuvre ou par inobservance des règlements alors même qu’il n’y aurait pas eu abordage.

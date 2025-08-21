@@ -1,0 +1,14 @@
+{
+  "id": "article-600-",
+  "title": "Article 600 :",
+  "numero": "600 ",
+  "document": "codeprocedurepenalbenin",
+  "path": [
+    "livre-3"
+  ],
+  "navigation": {
+    "parent": "livre-3",
+    "previous": "article-599-",
+    "next": "article-601-"
+  }
+}

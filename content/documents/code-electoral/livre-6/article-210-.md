@@ -1,0 +1,1 @@
+A l'entrée en vigueur de la présente loi, les chefs de village et de quartier de ville sont désignés sur la base des résultats des élections communales de 2020

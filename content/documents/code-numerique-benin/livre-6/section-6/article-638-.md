@@ -1,0 +1,4 @@
+Règlement transactionnel
+Lorsque le dommage éventuellement causé à un tiers a été entièrement réparé, les agents habilités des services compétents peuvent, au vu des procès-verbaux et constatant une infraction aux dispositions du présent chapitre, proposer aux contrevenants le paiement d'une somme qui éteint l'action publique.
+Le Conseil des Ministres, par décret, fixe les tarifs ainsi que les modalités de paiement et de perception. La somme prévue conformément à l’alinéa 1 ne peut être inférieure au montant minimum prévu pour cette infraction et ne peut être supérieure au montant maximum prévu pour cette infraction.
+Le paiement effectué dans le délai indiqué éteint l'action publique, et les sommes payées sont restituées au contrevenant, sauf si auparavant une plainte a été adressée au Procureur de la République ou le juge d'instruction a été requis d'instruire ou le tribunal a été saisi du fait.

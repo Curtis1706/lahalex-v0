@@ -1,0 +1,1 @@
+Toute personne coupable du crime de castration subira la peine de la réclusion criminelle à perpétuité.

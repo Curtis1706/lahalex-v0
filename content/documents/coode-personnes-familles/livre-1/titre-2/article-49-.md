@@ -1,0 +1,1 @@
+Dans tous les cas où la mention d’un acte relatif à l’état civil doit avoir lieu en marge d’un acte déjà inscrit, elle est faite d’office.

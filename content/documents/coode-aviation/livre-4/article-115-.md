@@ -1,0 +1,1 @@
+L'autorité de tutelle ou toute autre organisation s'abstient de toute influence sur le financement et la dotation en personnel du Bureau enquêtes- accidents.

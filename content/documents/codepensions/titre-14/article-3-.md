@@ -1,0 +1,1 @@
+La présente loi qui abroge toutes dispositions antérieures contraires, notamment la loi n° 2005-24 du 08 septembre 2005 modifiant et complétant la loi n° 86-014 du 26 septembre 1986 portant code des pensions civiles et militaires de retraite sera exécutée comme loi de l’Etat.

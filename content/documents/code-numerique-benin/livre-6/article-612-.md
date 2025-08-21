@@ -1,0 +1,2 @@
+Transmission d’informations
+Dans le cadre de la législation applicable, notamment en matière de secret professionnel, les services de la police nationale, de la gendarmerie nationale, de la direction générale des douanes et droits indirects ainsi que les autres administrations et services publics de l'Etat concernés, adressent, dans les meilleurs délais, à l’OCRC les informations relatives aux infractions visées au présent livre dont ils ont connaissance.

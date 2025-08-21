@@ -1,0 +1,3 @@
+Article 429 : Assurances automobiles - Etats provisoires
+Pour la branche automobile, les entreprises doivent adresser au Ministre en charge du secteur des assurances et à la Commission de Contrôle, au plus tard le 31 mars de chaque année, des états provisoires C10a et C10b relatifs aux opérations réalisées au cours du précédent exercice.
+### CHAPITRE 3 : PLAN COMPTABLE PARTICULIER A L’ASSURANCE ET A LA CAPITALISATION

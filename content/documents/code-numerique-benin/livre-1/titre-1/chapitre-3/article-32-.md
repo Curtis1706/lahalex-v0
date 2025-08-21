@@ -1,0 +1,3 @@
+Protection de l’environnement contre les déchets électroniques
+En ce qui concerne les équipements et installations électroniques, tout équipementier, opérateur, importateur et distributeur est astreint au respect des normes environnementales.
+Un décret pris en Conseil des Ministres sur proposition du Ministre chargé des communications électroniques précise les modalités de gestion et de traitement des déchets électroniques.

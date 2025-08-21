@@ -1,0 +1,1 @@
+L’assurance de responsabilité ne donne droit au remboursement à l’assuré que si le tiers lésé a été indemnisé sauf en cas d’affectation de l’indemnité d’assurance à la constitution de fonds de limitation dans les termes de l’article 144 du présent code.

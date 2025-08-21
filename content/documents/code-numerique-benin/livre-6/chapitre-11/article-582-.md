@@ -1,0 +1,3 @@
+Récidive
+Lorsqu’une des infractions visées au Titre I du présent Livre est commise dans les cinq (5) ans qui suivent le prononcé de la condamnation irrévocable pour l’une de ces infractions, la ou les peines sont doublées.
+En cas de multiplicité d’infractions commises par le même contrevenant, l’amende prévue pour chaque infraction est appliquée autant de fois qu’il y a d’infractions distinctes constatées.

@@ -1,0 +1,14 @@
+{
+  "id": "article-1-1-",
+  "title": "Article 1-1 : Ont droit au bénéfice des dispositions de la présente loi :",
+  "numero": "1-1 ",
+  "document": "codepensions",
+  "path": [
+    "titre-1"
+  ],
+  "navigation": {
+    "parent": "titre-1",
+    "previous": "article-1-",
+    "next": "article-2-"
+  }
+}

@@ -1,0 +1,1 @@
+La nullité d’une citation ou d’une signification ne peut être prononcée que lorsqu’elle a eu pour effet de porter atteinte aux intérêts de la personne qu’elle concerne.

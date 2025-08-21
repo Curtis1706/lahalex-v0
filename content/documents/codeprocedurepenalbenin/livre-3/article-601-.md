@@ -1,0 +1,3 @@
+Lorsqu’il ne peut être procédé à de nouveaux débats entre toutes les parties, notamment en cas de décès, de défaut ou d’excusabilité, en cas de prescription de l’action ou de la peine, la chambre judiciaire, après avoir constaté expressément cette impossibilité, statue au fond sans cassation ni renvoi en présence des parties civiles, s’il en existe, et de curateurs nommés par elle à la mémoire de chacun des morts.
+Dans ce cas, elle annulera seulement celles des condamnations qui avaient été injustement prononcées et déchargera s’il y a lieu la mémoire des morts.
+Si l’annulation de l’arrêt à l’égard d’un condamné vivant ne laisse rien subsister qui puisse être qualifié crime ou délit, aucun renvoi ne sera prononcé.

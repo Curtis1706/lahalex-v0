@@ -1,0 +1,1 @@
+Tout accident ou incident grave survenu à un aéronef sur le territoire national ou dans l'espace aérien béninois fait l'objet d'une enquête technique par le Bureau enquêtes-accidents, conformément aux dispositions législatives et réglementaires en vigueur.

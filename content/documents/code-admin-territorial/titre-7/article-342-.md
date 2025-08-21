@@ -1,0 +1,3 @@
+La contribution budgétaire de chaque commune membre est annuelle et affectée sous forme de subvention à l'établissement public de coopération intercommunale.
+La contribution des communes membres est une dépense obligatoire pendant la durée de l'établissement public de coopération intercommunale.
+Lorsque les activités d’un établissement public de coopération intercommunale génèrent un excédent de recettes sur les dépenses, cet excédent fait l'objet d’un report sur l'exercice budgétaire suivant.

@@ -1,0 +1,2 @@
+Celui à qui le serment aura été déféré ou référé en matière civile, et qui aura fait un faux serment, sera puni d’un emprisonnement de un (01) an au moins et de cinq (05) ans au plus et d’une amende de cent mille (100.000) francs CFA à cinq cent mille (500.000) francs CFA.
+Il pourra en outre être privé des droits mentionnés en l’article 38 du présent code pendant cinq (05) ans au moins et dix (10) ans au plus et être interdit de séjour pendant le même nombre d’années à compter du jour où il aura subi sa peine.

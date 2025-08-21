@@ -1,0 +1,2 @@
+Effet juridique d’un service d’envoi électronique recommandé qualifié
+Les données envoyées et reçues au moyen d’un service d’envoi électronique recommandé qualifié bénéficient d’une présomption quant à l’intégrité des données, à l’envoi de ces données par l’expéditeur identifié, à leur réception par le destinataire identifié et quant à l’exactitude de la date et de l’heure d’envoi et de réception indiquées par le service d’envoi recommandé électronique qualifié.

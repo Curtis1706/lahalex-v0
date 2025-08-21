@@ -1,0 +1,1 @@
+Est puni d’une amende de cinq millions (5.000.000) à vingt-cinq millions (25.000.000) de francs, tout armateur ou propriétaire qui ne s’est pas conformé aux règlements relatifs à l’immatriculation des navires.

@@ -1,0 +1,4 @@
+Est punie des peines de la banqueroute frauduleuse :
+1. toute personne convaincue d’avoir, dans l’intérêt du débiteur, soustrait, recelé ou dissimulé tout ou partie de ses biens meubles ou immeubles, le tout sans préjudice des dispositions pénales relatives à la complicité ;
+2. toute personne convaincue d’avoir frauduleusement produit dans une procédure collective, soit en son nom, soit par interposition ou supposition de personnes ou sous un faux nom, des créances supposées ;
+3. toute personne qui, exerçant une activité professionnelle indépendante, civile, commerciale, artisanale ou agricole sous le nom d’autrui ou sous un faux nom a, de mauvaise foi, détourné ou dissimulé, tenté de détourner ou de dissimuler une partie de ses biens.

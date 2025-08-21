@@ -1,0 +1,5 @@
+1) Sont dispensés de la taxe, tous les contrats d’assurance dont le risque se trouve situé hors du territoire national, ou ne se rapporte pas à un établissement industriel, commercial ou agricole sis en République du Bénin.
+À  défaut  de  situation  matérielle  certaine  ou  de  rapport  certain  avec  un établissement industriel, commercial ou agricole, les risques sont réputés situés au lieu du domicile ou du principal établissement du souscripteur.
+2) Il ne peut toutefois être fait usage en République du Bénin des contrats mentionnés au paragraphe 1 soit par acte public, soit en justice ou devant toute autre autorité constituée s’ils n’ont été préalablement soumis à la formalité du visa pour timbre et de l’enregistrement.
+Cette formalité est donnée moyennant le paiement de la taxe sur l’ensemble des sommes stipulées au profit de l’assureur, afférentes aux années restant à courir.
+Les réassurances des risques visés ci-dessus sont soumises aux dispositions du présent article.

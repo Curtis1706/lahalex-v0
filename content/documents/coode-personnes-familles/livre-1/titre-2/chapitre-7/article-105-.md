@@ -1,0 +1,2 @@
+Lorsque les actes dont l’inscription est autorisée ou la rectification prescrite doivent être portés sur les registres établis par les agents diplomatiques ou consulaires béninois, les actions prévues par les articles précédents du présent chapitre sont introduites devant le tribunal de première instance de Cotonou.
+Les rectifications d’omissions ou d’erreurs purement matérielles concernant ces mêmes actes sont prescrites par le président du tribunal de première instance de Cotonou soit d’office, soit à la requête du procureur de la République.

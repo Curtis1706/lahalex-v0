@@ -1,0 +1,18 @@
+{
+  "id": "article-32-",
+  "title": "Article  32 :",
+  "numero": "32 ",
+  "document": "code-general-impots-2025",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-1",
+    "section-2",
+    "paragraphe-5"
+  ],
+  "navigation": {
+    "parent": "paragraphe-5",
+    "previous": "article-31-",
+    "next": "article-33-"
+  }
+}

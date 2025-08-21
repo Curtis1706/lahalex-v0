@@ -1,0 +1,2 @@
+Aggravation
+Les peines sont portées à dix (10) ans d'emprisonnement et à vingt-cinq millions (25 000 000) de francs CFA d'amende lorsque la personne se livre au recel au moyen d’un ou sur un réseau de communication électronique ou un système informatique, de manière habituelle ou lorsqu'elle s'y livre à l'occasion de l'exercice de sa profession.

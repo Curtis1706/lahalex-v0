@@ -1,0 +1,4 @@
+Les directeurs de stations de radiodiffusion sonore ou de télévision sont tenus de faire diffuser les réponses de toutes les personnes nommées ou désignées au cours d’une émission dans les quarante-huit (48) heures suivant la réception de leur requête.
+La diffusion de la réponse a lieu sur le même territoire dans les mêmes conditions que celles de l’émission incriminée sans additif, sans coupure et sans montage.
+Toutefois, lorsque le droit de réponse est suscité par une émission dont la programmation suivante dépasse quarante-huit (48) heures, ce droit s’exerce à titre exceptionnel dans l’édition d’information la plus proche à savoir le journal parlé, le journal télévisé à grande audience. Dans ce cas, le droit de réponse est annoncé dans les titres. La présentation fait cas de l’émission et des propos incriminés.
+Toute nouvelle présentation, ouvre la voie à une autre réponse qui s’exerce dans les mêmes conditions que le droit de réponse.

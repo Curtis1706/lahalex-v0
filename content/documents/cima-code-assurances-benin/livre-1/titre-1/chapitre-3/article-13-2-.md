@@ -1,0 +1,3 @@
+Coassurance
+Dans le cas de coassurance à quittance unique, l’apériteur doit reverser les parts de prime dues aux autres coassureurs dans un délai de quinze jours à compter de la réception du paiement de la prime ou portion de prime.
+Les primes dues par l’apériteur et non reversées aux autres coassureurs produisent intérêt de plein droit au double du taux d’escompte dans la limite du taux de l’usure à compter de l’expiration du délai de reversement stipulé à l’alinéa précédent.

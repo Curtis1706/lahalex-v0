@@ -1,0 +1,2 @@
+Les père et mère, ou le tuteur s’il y est autorisé par le conseil de famille, peuvent déléguer en tout ou partie l’exercice de l’autorité parentale quand l’enfant a été remis à une personne digne de confiance.
+La délégation résultera d’un accord entre le ou les délégants et le délégataire, homologué par le président du tribunal du domicile du mineur dans les conditions fixées à l'article 421.

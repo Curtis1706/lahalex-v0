@@ -1,0 +1,16 @@
+{
+  "id": "article-16-",
+  "title": "Article 16 : La Commission électorale nationale autonome (CENA) proclame les résultats définitifs de l'élection des membres des conseils communaux.",
+  "numero": "16 ",
+  "document": "code-electoral",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "chapitre-1"
+  ],
+  "navigation": {
+    "parent": "chapitre-1",
+    "previous": "article-15-",
+    "next": "article-17-1-"
+  }
+}

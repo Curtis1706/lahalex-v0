@@ -1,0 +1,15 @@
+{
+  "id": "article-54-",
+  "title": "Article 54 : Action directe - Dépens",
+  "numero": "54 ",
+  "document": "cima-code-assurances-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-53-",
+    "next": "article-55-"
+  }
+}

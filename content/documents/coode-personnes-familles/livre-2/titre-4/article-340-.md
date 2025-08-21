@@ -1,0 +1,1 @@
+Nul ne peut être adopté par plusieurs personnes si ce n’est par deux époux.

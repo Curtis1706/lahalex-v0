@@ -1,0 +1,2 @@
+Les citations et significations, sauf dispositions contraires des lois et règlements, sont faites par exploit d’huissier de justice.
+Lorsqu’elles sont faites à la requête du ministère public, elles peuvent l’être, suivant procès-verbal dressé en la forme administrative, par un officier ou agent de police judiciaire ou tout autre agent administratif, lequel est tenu de se conformer aux prescriptions du présent titre relatives aux citations et significations délivrées par huissier de justice. Les notifications sont faites par voie administrative.

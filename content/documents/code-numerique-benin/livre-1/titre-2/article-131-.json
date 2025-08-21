@@ -1,0 +1,15 @@
+{
+  "id": "article-131-",
+  "title": "Article 131 : Révocation du Secrétaire exécutif",
+  "numero": "131 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-130-",
+    "next": "article-132-"
+  }
+}

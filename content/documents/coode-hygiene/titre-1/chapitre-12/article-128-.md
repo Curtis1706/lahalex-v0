@@ -1,0 +1,1 @@
+Les caractéristiques du salon de présentation et celles de la chambre funéraire sont déterminées par voie réglementaire.

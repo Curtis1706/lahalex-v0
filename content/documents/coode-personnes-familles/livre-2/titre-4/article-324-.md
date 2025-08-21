@@ -1,0 +1,1 @@
+Lorsque la reconnaissance n'est pas intervenue au moment de la déclaration de naissance, elle peut être faite postérieurement, soit devant l’officier de l’état civil conformément à l’article 65 du présent code, soit par acte notarié, soit par décision judiciaire.

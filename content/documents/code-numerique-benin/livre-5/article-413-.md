@@ -1,0 +1,2 @@
+Voie de demande d’avis, de déclaration ou d’autorisation
+La demande d’avis, de déclaration ou d’autorisation peut être adressée à l'Autorité par voie électronique ou par voie postale ou par tout autre moyen contre remise d’un accusé de réception par l'Autorité.

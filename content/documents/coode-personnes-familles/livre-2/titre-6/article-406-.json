@@ -1,0 +1,15 @@
+{
+  "id": "article-406-",
+  "title": "Article 406 :",
+  "numero": "406 ",
+  "document": "coode-personnes-familles",
+  "path": [
+    "livre-2",
+    "titre-6"
+  ],
+  "navigation": {
+    "parent": "titre-6",
+    "previous": "article-405-",
+    "next": "article-407-"
+  }
+}

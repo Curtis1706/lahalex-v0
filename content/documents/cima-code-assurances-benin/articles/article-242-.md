@@ -1,0 +1,2 @@
+Article 242 : Mentions à apposer sur les correspondances
+La correspondance adressée par l’assureur en application des articles 231 et 240 mentionne, outre les informations prévues à l’article 232, le nom de la personne chargée de suivre le dossier de l’accident. Elle rappelle à l’intéressé les conséquences d’un défaut de réponse ou d’une réponse incomplète. Elle indique que la copie du procès-verbal d’enquête de la force publique qu’il peut demander en vertu de l’article 232 lui sera délivrée sans frais.

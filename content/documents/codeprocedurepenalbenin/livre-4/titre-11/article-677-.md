@@ -1,0 +1,1 @@
+Sous réserve des précédentes dispositions, la procédure applicable devant le tribunal pour enfants est celle du tribunal de première instance statuant en matière correctionnelle.

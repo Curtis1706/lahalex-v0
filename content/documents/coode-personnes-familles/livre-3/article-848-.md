@@ -1,0 +1,1 @@
+La donation déguisée au profit d’un incapable est nulle, soit qu'on la déguise sous la forme d’un contrat onéreux, soit qu’on la fasse sous le nom de personnes interposées.

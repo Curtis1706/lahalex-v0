@@ -1,0 +1,1 @@
+Le président invite le chef du service d’ordre à faire garder les issues de la salle des délibérations dans laquelle nul ne pourra pénétrer, pour quelque cause que ce soit, sans autorisation du président. Le président déclare l’audience suspendue.

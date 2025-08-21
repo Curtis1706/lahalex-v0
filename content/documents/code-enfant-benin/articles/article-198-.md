@@ -1,0 +1,3 @@
+Article 198 : Interdiction de torture
+Toute torture de l'enfant visant à le punir, l'intimider, exercer sur lui une pression pour lui arracher des renseignements ou des aveux, d'un acte qu’il a commis ou une tierce personne a commis ou est soupçonnée d’avoir commis, ou pour tout autre motif fondé sur une forme de discrimination quelle qu’elle soit, est interdite.
+Lorsque l'auteur de telles violences, souffrances et douleurs est un agent de la fonction publique ou tout autre personne agissant à titre officiel ou à son instigation ou avec son consentement exprès ou tacite, ce dernier est poursuivi.

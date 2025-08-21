@@ -1,0 +1,3 @@
+Article 24 : Durée du contrat
+La durée du contrat doit être mentionnée en caractères très apparents dans la police. La police doit également mentionner que la durée de la tacite reconduction ne peut en aucun cas être supérieure à une année.
+A défaut de cette mention, l’une des parties peut, nonobstant toute clause contraire, résilier le contrat sans indemnité, chaque année, à la date anniversaire de sa prise d’effet moyennant un préavis d’un mois au moins.

@@ -1,0 +1,4 @@
+En cas de faute grave établie par décision de justice, il est mis fin au mandat du membre du Conseil électoral mis en cause par décret pris en Conseil des ministres.
+Il est pourvu à son remplacement dans les conditions prévues aux articles 20 et 21 de la présente loi.
+Sans préjudice des poursuites pénales, la chambre administrative de la Cour suprême est seule compétente pour établir les fautes graves des membres du Conseil électoral. Elle statue en procédure d'urgence.
+Le Conseil électoral, à l'unanimité de ses membres excepté le mis en cause, peut suspendre ce dernier de ses fonctions jusqu'à décision de justice.

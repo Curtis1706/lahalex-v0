@@ -1,0 +1,1 @@
+Les règles relatives à l’autorité, parentale s’appliquent à tous les enfants mineurs quelle que soit la date de leur naissance.

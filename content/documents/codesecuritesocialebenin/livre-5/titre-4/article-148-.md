@@ -1,0 +1,1 @@
+Sont abrogées toutes dispositions antérieures contraires à la présente loi qui entre en vigueur à partir de sa date de promulgation.

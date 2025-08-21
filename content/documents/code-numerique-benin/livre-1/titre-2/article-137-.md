@@ -1,0 +1,3 @@
+Règles relatives au personnel de l’Autorité de régulation
+Les fonctionnaires et agents de l’État en détachement auprès de l’Autorité de régulation sont soumis, pendant la durée de l’emploi, aux textes régissant l’Autorité de régulation et à la législation du travail.
+Les employés de l’Autorité de régulation sont interdits, dans tous les cas, d’être salariés ou de bénéficier de rémunérations d’un autre établissement public ou privé. Ils sont également interdits d’avoir un quelconque intérêt direct ou indirect dans les entreprises des secteurs régulés.

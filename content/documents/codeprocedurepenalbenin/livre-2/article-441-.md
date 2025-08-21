@@ -1,0 +1,1 @@
+La personne qui s’est constituée partie civile ne peut plus être entendue comme témoin.

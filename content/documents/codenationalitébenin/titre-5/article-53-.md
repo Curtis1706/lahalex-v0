@@ -1,0 +1,1 @@
+Les actes réglementaires portant opposition à l'acquisition de nationalité, rejet de la demande de naturalisation, perte pour l'une des causes prévues aux articles 40 et 41, ou déchéance de nationalité sont pris, l'intéressé entendu ou appelé à produire ses observations.

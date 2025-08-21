@@ -1,0 +1,1 @@
+Il est interdit de mélanger aux ordures ménagères, des déchets industriels et autres produits toxiques ou dangereux.

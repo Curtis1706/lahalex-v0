@@ -1,0 +1,1 @@
+Le principe de l’intangibilité du bilan signifie que le bilan d'ouverture d’un exercice correspond au bilan de clôture de l'exercice précédent. En conséquence, les soldes des comptes à la clôture sont reportés comme soldes d'ouverture de l'exercice suivant.

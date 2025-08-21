@@ -1,0 +1,2 @@
+Atteinte aux droits de propriété des brevets
+Constitue une atteinte à la propriété intellectuelle le fait, en toute connaissance de cause, sans droit, de vendre ou de mettre à disposition du public par reproduction ou par représentation, un bien ou un produit protégé par un brevet d’invention au moyen d’un ou sur un réseau de communication électronique ou un système informatique.

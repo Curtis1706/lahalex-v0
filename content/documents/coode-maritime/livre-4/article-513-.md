@@ -1,0 +1,1 @@
+Tout intérêt légitime, y compris le profit espéré, exposé à des risques maritimes, peut faire l’objet d’une assurance.

@@ -1,0 +1,1 @@
+Sauf cas de vente forcée, un aéronef ne peut être radié du registre d'immatriculation s'il n'a été donné mainlevée préalable du droit inscrit conféré.

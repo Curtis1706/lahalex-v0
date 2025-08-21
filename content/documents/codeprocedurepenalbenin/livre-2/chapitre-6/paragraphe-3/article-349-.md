@@ -1,0 +1,1 @@
+Le président déclare les débats terminés. Il ne peut résumer les moyens de l’accusation et de la défense.

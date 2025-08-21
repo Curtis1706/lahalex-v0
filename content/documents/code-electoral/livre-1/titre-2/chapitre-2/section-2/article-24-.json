@@ -1,0 +1,17 @@
+{
+  "id": "article-24-",
+  "title": "Article 24 : Avant leur prise de fonction, les membres du Conseil électoral prêtent le serment suivant devant le président de la République et le Bureau de l'Assemblée nationale :",
+  "numero": "24 ",
+  "document": "code-electoral",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "chapitre-2",
+    "section-2"
+  ],
+  "navigation": {
+    "parent": "section-2",
+    "previous": "article-23-",
+    "next": "article-25-"
+  }
+}

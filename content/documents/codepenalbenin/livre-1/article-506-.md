@@ -1,0 +1,2 @@
+Si la menace n’a été accompagnée d’aucun ordre ou d’aucune condition, la peine sera d’un emprisonnement de un (01) an au moins et de trois (03) ans au plus, et d’une amende de cent mille (100.000) francs CFA à un million cinq cent mille (1.500.000) francs CFA.
+Dans ce cas, la peine de l’interdiction de séjour pourra être prononcée contre le coupable.

@@ -1,0 +1,2 @@
+Le prévenu, les témoins et les parties civiles sont avisés par le parquet de la date de l’audience.
+Lorsque le tribunal est saisi d’une inculpation d’homicide ou blessures involontaires, le parquet fait citer, en tant que témoins, toutes les personnes ayant personnellement souffert d’un dommage directement causé par l’infraction, qui se sont révélées au cours de l’enquête ou, le cas échéant, de l’information.

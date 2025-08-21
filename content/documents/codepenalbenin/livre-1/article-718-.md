@@ -1,0 +1,1 @@
+Toute édition, reproduction, représentation, exécution ou diffusion à des fins commerciales sur le territoire de la République du Bénin d’une œuvre ou d’une prestation protégée en violation des droits de l’auteur et du titulaire des droits voisins constitue une contrefaçon d’œuvre de l’esprit.

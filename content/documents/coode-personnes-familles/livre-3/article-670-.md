@@ -1,0 +1,1 @@
+Si les intérêts des créanciers ou des légataires risquent d’être compromis du chef de l’héritier bénéficiaire, tout intéressé peut provoquer le remplacement de ce dernier par un administrateur qui est nommé par le président du tribunal du lieu d’ouverture de la succession statuant en référé.

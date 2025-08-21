@@ -1,0 +1,2 @@
+En cas de réponse affirmative sur la culpabilité, le tribunal statuant en matière criminelle ou la cour d'appel statuant en matière criminelle délibère sans désemparer sur la peine applicable, séparément pour chaque accusé.
+Le vote a lieu au bulletin secret lorsqu’un des membres du tribunal ou de la cour le demande.

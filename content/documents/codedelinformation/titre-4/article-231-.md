@@ -1,0 +1,2 @@
+Sont considérés comme urgents, les communiqués des forces de l’ordre dont la transmission par la radiodiffusion sonore et la télévision est indispensable au maintien de l’ordre public et de la sécurité des personnes.
+Toute diffusion de communiqués urgents des forces de l’ordre doit être préalablement soumise à la Haute Autorité de l’Audiovisuel et de la Communication pour son autorisation, à condition que son contenu ne perturbe ou ne menace l’ordre constitutionnel.

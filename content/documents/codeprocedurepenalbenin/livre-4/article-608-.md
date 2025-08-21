@@ -1,0 +1,1 @@
+La demande en inscription de faux contre une pièce produite devant la cour suprême est soumise aux règles particulières édictées par les lois et règlements relatifs à la cour suprême.

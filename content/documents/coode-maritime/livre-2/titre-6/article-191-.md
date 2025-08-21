@@ -1,0 +1,1 @@
+En cas de survenance de tout accident à bord d’un navire, l’autorité maritime compétente et, à l’étranger, le consul de la République du Bénin peuvent demander qu’une enquête maritime soit effectuée.

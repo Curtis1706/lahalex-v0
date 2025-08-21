@@ -1,0 +1,1 @@
+Les dispositions du présent code sont immédiatement applicables à l’incapacité des majeurs à la gestion de leurs biens.

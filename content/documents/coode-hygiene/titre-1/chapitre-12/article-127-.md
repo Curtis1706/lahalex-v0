@@ -1,0 +1,1 @@
+Toute morgue est aménagée de façon à assurer une séparation entre la partie destinée à l'accueil du public, comprenant un ou plusieurs salons de présentation, et la partie technique ou chambre funéraire destinée à la préparation des corps.

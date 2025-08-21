@@ -1,0 +1,1 @@
+Article 363 : Toute personne coupable de maltraitance sur un “enfant placé” est passible d’une peine d’emprisonnement de six (06) mois à deux (02) ans et d’une amende de deux cent mille (200 000) à cinq cent mille (500 000) francs CFA, le tout sans préjudice en cas de blessure, d’infirmité ou de décès, des peines plus graves prévues au code pénal.

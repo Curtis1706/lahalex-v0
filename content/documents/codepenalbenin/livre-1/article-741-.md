@@ -1,0 +1,1 @@
+Constitue un prêt usuraire, tout prêt ou toute convention dissimulant un prêt d’argent consenti en toute matière à un taux effectif global excédant, à la date à laquelle il est stipulé, de plus de deux tiers(2/3) le taux maximum des intérêts débiteurs que les banques sont autorisées à appliquer à leur concours.

@@ -1,0 +1,3 @@
+1) Tout redevable de l’impôt est tenu de remettre au plus tard le 10 février de chaque année, au service des impôts compétent, un état annoté des noms de ses locataires,  les  loyers  perçus  l’année  précédente  ainsi  que  les  retenues  qui  ont  été pratiquées sur ces loyers.
+2) Pour les revenus n’ayant pas fait l’objet d’une retenue, l’impôt est payé à l’appui de cet état.
+Nonobstant  les  dispositions  ci-dessus,  le  service  peut  fixer  directement  la  base imposable au regard des contrats de bail, des informations recueillies ou collectées lors des opérations d’enquêtes foncières. En cas de contestations, les requêtes sont examinées suivant la procédure prévue aux articles 583 et suivants du présent code.

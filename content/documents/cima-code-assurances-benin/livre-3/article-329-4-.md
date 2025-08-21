@@ -1,0 +1,2 @@
+Commissaires aux comptes : rapport spécial
+Le rapport spécial des Commissaires aux comptes, prévu par la loi sur les sociétés commerciales, doit contenir, outre les mentions prévues par cette loi et concernant les conventions, l’indication du montant des sommes versées aux administrateurs et dirigeants à titre de rémunération ou commission pour les contrats d’assurance et de capitalisation souscrits par leur intermédiaire.

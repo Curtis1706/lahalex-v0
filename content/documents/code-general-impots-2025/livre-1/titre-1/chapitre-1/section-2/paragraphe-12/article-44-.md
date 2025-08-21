@@ -1,0 +1,1 @@
+Des règles de déductibilité différentes de celles des articles 30, 38 à 40 et 43 du présent code peuvent être prévues dans les conventions d’octroi des titres pétroliers.

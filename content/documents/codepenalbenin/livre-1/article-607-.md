@@ -1,0 +1,1 @@
+En cas de mariage célébré selon la loi par l’officier d’état civil l’époux qui, hors les cas prévus par la loi ou sans motif grave a abandonné le domicile conjugal, est puni d’une amende de (50.000) mille à cinq cent mille (500.000) francs.

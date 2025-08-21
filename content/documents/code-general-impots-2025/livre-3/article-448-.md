@@ -1,0 +1,5 @@
+1) A l’appui du versement, il est fourni par le redevable autorisé un état indiquant distinctement, s’il y a lieu, pour chaque établissement, agence ou succursale, le nombre de pièces ou actes passibles respectivement du droit de timbre de chacune des quotités fixées par la présente codification.
+2) Cet état sera certifié conforme aux écritures du commerçant ou de l’industriel et
+le montant des droits de timbre sera provisoirement liquidé et payé en conséquence. Il sera fourni en double à l’appui de chaque versement mensuel. L’un de ces doubles sera rendu au déposant revêtu de l’acquit de l’inspecteur de l’enregistrement ; l’autre sera conservé au bureau à l’appui de la recette des droits de timbre.
+3) Si, par suite de vérifications faites par le commerçant ou l’industriel, il était reconnu
+des erreurs ou des omissions, les droits se rapportant à ces erreurs ou omissions, feraient l’objet d’un état spécial établi en double et détaillé indiquant les différences en plus ou en moins. Cet état serait fourni avec celui du mois pendant lequel ces erreurs ou omissions auraient été constatées.

@@ -1,0 +1,2 @@
+La liste prévue à l’article précédent comprend pour les tribunaux des villes, sièges des cours d’appel, cent (100) jurés, et pour chacun des autres tribunaux trente (30) jurés.
+Elle ne peut comprendre que des citoyens ayant leur domicile ou leur résidence principale dans le ressort du tribunal.

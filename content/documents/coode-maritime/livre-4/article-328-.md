@@ -1,0 +1,1 @@
+Si l’affréteur a, à la fois, la gestion nautique et la gestion commerciale du navire, la perte du navire ainsi que les avaries, quelle qu’en soit la gravité, sont à sa charge, à moins qu’il ne prouve qu’elles sont dues à un risque de navigation.

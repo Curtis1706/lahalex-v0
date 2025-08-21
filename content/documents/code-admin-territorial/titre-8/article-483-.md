@@ -1,0 +1,1 @@
+Les lois et règlements déterminent les conditions dans lesquelles les mandats rectificatifs sont émis.

@@ -1,0 +1,2 @@
+Les candidats et les partis politiques peuvent utiliser pour leur campagne, les médias d’Etat : radiodiffusion, télévision et presse écrite.
+La Haute Autorité de l'Audiovisuel et de la Communication veille à l'accès équitable aux médias d'Etat de tous candidats et partis politiques admis à prendre part aux élections.

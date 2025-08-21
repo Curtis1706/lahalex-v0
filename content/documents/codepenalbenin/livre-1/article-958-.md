@@ -1,0 +1,2 @@
+Est puni d’un emprisonnement de cinq (05) ans à dix (10) ans et, en cas de récidive, d’une amende de cinq cent mille (500.000) francs CFA à un million (1 000 000) de francs CFA, quiconque qui cultive sur le territoire national du pavot à opium, du coca et des plantes de cannabis, ou substances classées comme stupéfiants.
+Est puni de la même peine l’occupant ou l’exploitant, à quelque titre que ce soit, d’un terrain, qui, en connaissance de cause, s’abstient de détruire les plantes visées à l’alinéa précédent qui viendraient à pousser sur ledit terrain.

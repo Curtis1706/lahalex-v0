@@ -1,0 +1,5 @@
+Majoration des provisions mathématiques
+Lorsque le revenu total des placements est inférieur au montant total des intérêts dont sont créditées les provisions, il y a lieu de faire subir à celles-ci une majoration destinée à combler l’insuffisance actuelle et future des revenus des placements afférents aux contrats en cours.
+Cette majoration est portée au passif du bilan sous la rubrique des provisions mathématiques.
+Son montant doit être au moins égal à dix fois l’insuffisance actuelle des revenus et diminué, le cas échéant de la plus-value accusée par les placements à la date retenue pour le calcul des revenus, estimés, pour les placements, selon les règles de l’article 335-12.
+Exceptionnellement, des délais pour la constitution de cette majoration peuvent être accordés par la Commission de Contrôle des Assurances.

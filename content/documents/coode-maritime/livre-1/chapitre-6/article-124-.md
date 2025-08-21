@@ -1,0 +1,1 @@
+Les dispositions des articles 114 à 123 du présent code s’appliquent aux navires exploités soit par le propriétaire, soit par un armateur non-propriétaire, ou par un affréteur principal sauf lorsque le propriétaire s’est trouvé dessaisi par un acte illicite et que, en outre, le créancier n’est pas de bonne foi.

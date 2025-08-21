@@ -1,0 +1,1 @@
+L'adoption du budget relève de la compétence exclusive de l’organe délibérant compétent de la commune ou de l'établissement public de coopération intercommunale qui peut modifier le projet présenté par l'ordonnateur.

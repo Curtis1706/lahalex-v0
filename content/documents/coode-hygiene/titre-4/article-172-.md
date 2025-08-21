@@ -1,0 +1,1 @@
+Quiconque viole les dispositions des articles 50, 57, 86, 87, 88, 89, 90, 91, 92, 94, 95, 97, 98, 99, 100 et 101, encourt une peine d'emprisonnement de un (01) à trois (03) mois et une amende de cinquante mille (50 000) à deux cent mille (200 000) FCFA ou l'une de ces deux peines seulement.

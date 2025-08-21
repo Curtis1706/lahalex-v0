@@ -1,0 +1,1 @@
+Est puni d’une peine d’emprisonnement de deux (02) ans à cinq (05) ans et d’une amende de cinq cent mille (500.000) à cinq millions (5.000.000) de francs, tout capitaine de navire qui a opéré pour son propre compte des chargements de cargaison.

@@ -1,0 +1,1 @@
+Sauf cas de légitime défense, les tirs d'avertissement sont effectués sur ordre du chef de l’état-major de la marine et les tirs au but et l'action de vive force sont effectués sur ordre du Préfet Maritime.

@@ -1,0 +1,16 @@
+{
+  "id": "article-11-",
+  "title": "Article 11 : Pour l’application du présent code, le territoire de la République du Bénin inclut les espaces maritime et aérien qui lui sont liés.",
+  "numero": "11 ",
+  "document": "codepenalbenin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-3"
+  ],
+  "navigation": {
+    "parent": "chapitre-3",
+    "previous": "article-10-",
+    "next": "article-12-"
+  }
+}

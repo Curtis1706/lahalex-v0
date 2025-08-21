@@ -1,0 +1,1 @@
+Le fréteur a un privilège sur les marchandises pour le paiement de son fret. S’il n’est point payé lors du déchargement, il ne peut les remettre à bord, mais peut les consigner en mains tierces ou les faire vendre.

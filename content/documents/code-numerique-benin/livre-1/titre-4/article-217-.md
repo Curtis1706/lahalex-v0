@@ -1,0 +1,3 @@
+Redevance
+L’agrément fait l’objet d'une décision motivée. Son octroi est subordonné au paiement d'une redevance au profit de l’Autorité de régulation, destinée à couvrir les coûts de la délivrance, de la gestion et de la surveillance de cet agrément.
+Le montant de cette redevance est fixé par décret pris en Conseil des Ministres sur proposition du Ministère en charge des communications électroniques.

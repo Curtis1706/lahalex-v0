@@ -1,0 +1,16 @@
+{
+  "id": "article-198-",
+  "title": "Article 198 :",
+  "numero": "198 ",
+  "document": "coode-personnes-familles",
+  "path": [
+    "livre-2",
+    "section-1",
+    "paragraphe-2"
+  ],
+  "navigation": {
+    "parent": "paragraphe-2",
+    "previous": "article-197-",
+    "next": "article-199-"
+  }
+}

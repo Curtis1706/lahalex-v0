@@ -1,0 +1,1 @@
+Il est prononcé contre les coupables une amende dont le minimum est de vingt mille (20.000) francs CFA, et le maximum de cinq cent mille (500.000) francs CFA ; l’amende peut cependant être portée jusqu’au quart du bénéfice illégitime que le faux a procuré ou était destiné à procurer aux auteurs de l’infraction, à leurs complices ou à ceux qui ont fait usage de la pièce fausse.

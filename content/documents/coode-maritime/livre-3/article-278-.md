@@ -1,0 +1,1 @@
+Toutes les actions relatives au contrat d’engagement maritime sont prescrites un an après la fin du voyage au cours duquel le litige est né. Si le litige est né au cours d’une escale entre deux voyages, le délai court à partir du commencement du voyage suivant.

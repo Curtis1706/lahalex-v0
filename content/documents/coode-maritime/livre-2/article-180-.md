@@ -1,0 +1,1 @@
+Sur réquisition des officiers du port, les marins, pêcheurs, piroguiers, tâcherons, dockers et toutes autres personnes, dans l’enceinte d’un port de la République du Bénin ne peuvent refuser de se conformer aux prescriptions sécuritaires. En cas de refus ou de contravention aux lois de police, lesdits officiers en dressent procès-verbal.

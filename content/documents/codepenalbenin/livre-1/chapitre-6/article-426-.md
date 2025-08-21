@@ -1,0 +1,1 @@
+Dans tous les cas ci-dessus, lorsque les tiers qui ont procuré ou facilité l’évasion y sont parvenus en corrompant les gardiens ou geôliers, ou de connivence avec eux, ils sont punis des mêmes peines que lesdits gardiens ou geôliers.

@@ -1,0 +1,3 @@
+Est puni d’un emprisonnement de un (01) à deux (02) ans, tout interprète assermenté qui, de mauvaise foi a dénaturé la substance des paroles ou des documents dont il était chargé de la traduction devant une juridiction légalement constituée ou dans le cadre d’une procédure judiciaire.
+La subornation d’interprète sera punie comme subornation de témoin selon les dispositions de l’article 255 ci-dessus.
+PARAGRAPHES 8 : DU TRAFIC D’INFLUENCE

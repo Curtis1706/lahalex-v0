@@ -1,0 +1,1 @@
+Le juge des libertés et de la détention et ses assesseurs ne peuvent, à peine de nullité, prendre part au jugement des affaires pénales dont ils ont connu.

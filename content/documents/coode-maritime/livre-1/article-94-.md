@@ -1,0 +1,2 @@
+Les décisions relatives à l’exploitation en copropriété sont prises à la majorité des parts, sauf le cas prévu à l’article 108 du présent code.
+Chaque copropriétaire dispose d’un droit de vote correspondant à sa part de propriété.

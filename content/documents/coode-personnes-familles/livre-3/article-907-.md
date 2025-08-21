@@ -1,0 +1,1 @@
+Les testaments postérieurs qui ne révoquent pas d'une manière expresse les précédents n'annulent dans ceux-ci que les dispositions y contenues qui se trouvent incompatibles avec les nouvelles ou qui leur sont contraires.

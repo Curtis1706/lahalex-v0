@@ -1,0 +1,1 @@
+Les coutumes cessent d’avoir force de loi en toutes matières régies par le présent code.

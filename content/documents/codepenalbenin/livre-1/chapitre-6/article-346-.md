@@ -1,0 +1,1 @@
+Quiconque aura dissipé ou détourné de sa destination et pour des fins autres que celles prévues au contrat de prêt et sans l’accord préalable du prêteur, un prêt régulièrement consenti par un établissement ou tout organe public dédiés, une banque ou tout établissement financier régulièrement constitué, est puni des peines prévues à l’article 327 de la présente loi.

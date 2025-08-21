@@ -1,0 +1,2 @@
+La remise du mineur à la famille peut être assortie du régime de la liberté surveillée.
+La remise du mineur à une personne digne de confiance ou à une institution charitable, le placement du mineur chez un particulier ou dans un internat ou école professionnelle, entraînent obligatoirement le régime de liberté surveillée.

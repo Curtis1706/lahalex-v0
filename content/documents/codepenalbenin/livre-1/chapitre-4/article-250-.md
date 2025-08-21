@@ -1,0 +1,1 @@
+Celui qui, déchu du droit de vote, soit par suite d’une condamnation judiciaire, soit par suite d’une faillite non suivie de réhabilitation, a voté, soit en vertu d’un recensement électoral national antérieur à sa déchéance, est puni d’un emprisonnement de trois (03) mois à six (06) mois et d’une amende de cinq cent mille (500.000) à un million (1.000.000) de francs CFA.

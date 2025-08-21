@@ -1,0 +1,1 @@
+L’adjudicataire est tenu de verser le prix au greffe du tribunal du lieu de saisie ou à la caisse des dépôts et consignations, dans les soixante-douze (72) heures de l’adjudication à peine de folle enchère.

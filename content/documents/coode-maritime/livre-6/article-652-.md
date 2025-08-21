@@ -1,0 +1,1 @@
+Toute infraction aux dispositions de l’article 183 du présent code est puni d’une peine d’amende de un million (1.000.000) à cinq millions (5.000.000) de francs.

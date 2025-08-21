@@ -1,0 +1,2 @@
+Une expédition de l’ordonnance est délivrée d’office au procureur de la République aussitôt qu’elle est rendue et avant même les formalités d'enregistrement et de timbre.
+Le procureur de la République enjoint sans délai à l’officier de l'état civil compétent et, le cas échéant, au dépositaire des doubles des registres, d’en faire mention en marge de l’acte de naissance de l’enfant.

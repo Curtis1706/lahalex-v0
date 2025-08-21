@@ -1,0 +1,1 @@
+Le contrat de transport aérien de personnes est régi par la Convention pour l’unification de certaines règles relatives au transport aérien international et de toute autre convention ou protocole la modifiant ou la complétant, même si le transport n'est pas international au sens de cette convention.

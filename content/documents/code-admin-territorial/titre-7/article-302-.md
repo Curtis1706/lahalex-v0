@@ -1,0 +1,2 @@
+Le conseil de communauté ne peut délibérer valablement que lorsque la majorité absolue de ses membres est réunie.
+Au sens du présent article, la majorité absolue désigne le nombre entier immédiatement au-dessus de la moitié du nombre des conseillers.

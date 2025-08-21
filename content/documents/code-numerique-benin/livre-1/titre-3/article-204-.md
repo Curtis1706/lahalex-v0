@@ -1,0 +1,2 @@
+Procédure d’attribution
+La procédure d’attribution de la capacité de numérotation et d’adressage se déroule conformément aux dispositions de l’article 7 du présent code. Il en est de même des principes de sa réservation et de son retrait éventuel.

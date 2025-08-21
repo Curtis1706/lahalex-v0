@@ -1,0 +1,6 @@
+_(Règlement n°2014-03)_ Indemnité de rachat.
+Pour tout contrat d’assurance sur la vie et pour tout contrat de capitalisation comportant une valeur de rachat, cette valeur de rachat est égale à la provision mathématique du contrat diminuée, éventuellement, d’une indemnité qui ne peut dépasser 5 % de cette provision mathématique. Cette indemnité doit être nulle à l’issue d’une période de dix ans à compter de la date d’effet du contrat.
+L’indemnité est également nulle lorsque le rachat est effectué pour compenser la part restant due sur une avance sur police non remboursée.
+\_NB - Dispositions transitoire du règlement n°2014-03_
+_Article 2 : _ _Les contrats d’avances sur police souscrits en violation des dispositions de l’article 74 ancien du code des assurances doivent être annulés._
+_Les provisions mathématiques et les garanties des contrats de base doivent être régularisées par des opérations de rachat. Ces opérations de rachat sont faites à la date du dernier remboursement de l’avance sur police. Aucune indemnité ne devra être perçue conformément au dernier alinéa de l’article 76 nouveau._\

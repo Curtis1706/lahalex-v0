@@ -1,0 +1,1 @@
+Le Conseil des Ministres de l'Union Monétaire prévu à l'article 6 du Traité de l'UMOA exerce les fonctions qui lui sont dévolues par le présent Traité.

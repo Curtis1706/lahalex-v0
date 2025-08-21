@@ -1,0 +1,1 @@
+Le certificat de nationalité béninoise est délivré par l'autorité en charge de la délivrance des actes relatifs à la nationalité, à toute personne établissant qu'elle a la qualité de Béninois.

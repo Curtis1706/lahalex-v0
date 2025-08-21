@@ -1,0 +1,1 @@
+Jusqu’à ce que la juridiction compétente en vertu des dispositions du présent titre se trouve saisie, la procédure est suivie conformément aux règles de compétence de droit commun.

@@ -1,0 +1,2 @@
+Vol de données informatiques
+Une personne qui copie, intentionnellement et sans droit, avec une intention frauduleuse des données informatiques au préjudice d’un tiers est puni des mêmes peines que celles prévues dans les dispositions du code pénal relatives au vol.

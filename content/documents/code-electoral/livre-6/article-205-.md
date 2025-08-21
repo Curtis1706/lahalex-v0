@@ -1,0 +1,1 @@
+Tout électeur qui ne détient pas une pièce d'identification en cours de validité, se fait délivrer le certificat du numéro personnel d'identification par L'agence nationale d'identification des personnes.

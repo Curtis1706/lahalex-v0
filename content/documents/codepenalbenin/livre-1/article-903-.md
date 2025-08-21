@@ -1,0 +1,1 @@
+Seront punis d’une amende de dix mille (10.000) francs CFA à cent mille (100.000) francs CFA et d’un emprisonnement des cinq (05) jours à quinze (15) jours, ou de l’une de ces deux peines seulement les contrevenants aux dispositions des articles suivants relatifs à l’hygiène, sans préjudice des peines ou mesures complémentaires qui peuvent être prononcées.

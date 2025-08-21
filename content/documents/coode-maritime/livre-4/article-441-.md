@@ -1,0 +1,2 @@
+Les opérations de remorquage portuaire s’effectuent sous la direction du capitaine du navire remorqué. Le capitaine du remorqueur doit se conformer aux instructions de celui-ci sous réserve des règlements concernant la police du port.
+Les dommages de tous ordres causés au cours de ces opérations par le navire remorqué ou par le remorqueur sont à la charge du navire remorqué à moins qu’il n’établisse la faute du remorqueur.

@@ -1,0 +1,2 @@
+Les infractions aux dispositions réglementaires concernant les servitudes aéronautiques de dégagement et de balisage instituées dans l'intérêt de la circulation aérienne sont punies d'une amende maximale de dix millions (10 000 000) de francs CFA.
+En cas de récidive, les infractions sont punies du double de l'amende encourue avec un plafond maximal de vingt millions (20 000 000) de francs CFA et d’un emprisonnement maximal de trois ans ou de l'une de ces deux peines seulement.

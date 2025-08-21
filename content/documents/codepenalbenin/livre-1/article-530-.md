@@ -1,0 +1,1 @@
+Lorsqu’un incendie involontaire a entraîné la mort ou des blessures d’une ou de plusieurs personnes, il est fait application des peines prévues pour l’homicide ou les blessures par imprudence.

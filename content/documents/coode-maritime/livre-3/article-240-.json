@@ -1,0 +1,14 @@
+{
+  "id": "article-240-",
+  "title": "Article 240 :",
+  "numero": "240 ",
+  "document": "coode-maritime",
+  "path": [
+    "livre-3"
+  ],
+  "navigation": {
+    "parent": "livre-3",
+    "previous": "article-239-",
+    "next": "article-241-"
+  }
+}

@@ -1,0 +1,3 @@
+La peine est d’un emprisonnement de un (01) an à trois (03) ans et d’une amende de cent mille (100.000) francs CFA à un million (1.000.000) de francs CFA, si la hausse ou la baisse ont été opérées ou tentées sur des grains, farines, substances farineuses, denrées alimentaires, boissons, combustibles ou engrais commerciaux.
+L’emprisonnement pourra être porté à cinq (05) ans et l’amende à deux millions (2.000.000) de francs CFA, s’il s’agit de denrées ou marchandises qui ne rentrent pas dans l’exercice habituel de la profession du délinquant.
+Dans les cas prévus au présent article, l’interdiction de séjour qui pourra être prononcée sera de cinq (05) ans au moins et dix (10) ans au plus.

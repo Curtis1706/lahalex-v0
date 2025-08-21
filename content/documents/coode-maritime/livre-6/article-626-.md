@@ -1,0 +1,2 @@
+Toute personne qui a fait échouer, a perdu ou détruit volontairement et dans une intention criminelle un navire quelconque, par quelque moyen que ce soit, est punie des peines prévues par les dispositions du code pénal.
+Le maximum de la peine est appliqué au délinquant qui s’est chargé, à quelque titre que ce soit, de la conduite du navire ou qui l’a dirigé comme pilote.

@@ -1,0 +1,2 @@
+Relation Dans les rapports entre Puissances liées par la Convention de La Haye avec les concernant les lois et coutumes de la guerre sur terre, qu’il s’agisse de celle
+Conventions du 29 juillet 1899 ou de celle du 18 octobre 1907, et qui participent à la pré- de La Haye sente Convention, celle-ci complétera les Sections 2 et 3 du Règlement an- nexé aux susdites Conventions de La Haye.

@@ -1,0 +1,2 @@
+Le procureur de la République ou le procureur général met le dossier à la disposition de la formation du tribunal de première instance ou de la cour d'appel, statuant en matière criminelle, au plus tard trois jours ouvrables, avant la tenue de l'audience.
+Le jour de l’audience, la formation du tribunal de première instance ou de la cour d'appel, statuant en matière criminelle, prend séance et fait introduire chaque accusé, suivant l’ordre des dossiers inscrits au rôle.

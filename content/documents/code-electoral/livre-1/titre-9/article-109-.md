@@ -1,0 +1,1 @@
+En cas d'annulation de l'élection du président de la République, il est procédé à l'organisation d'un nouveau scrutin dans les quatorze (14) jours suivant la décision.

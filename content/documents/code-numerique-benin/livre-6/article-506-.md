@@ -1,0 +1,5 @@
+Activités d'hébergement
+Un hébergeur n'est pas responsable des informations stockées à la demande d'un utilisateur du service qu'il fournit, à condition que :
+1. lorsqu'il a connaissance d'informations illégales spécifiques stockées ou des activités illégales qu'exerceraient les destinataires du service, il informe rapidement les services de police ou judiciaires, afin de leur permettre d'évaluer la nature des informations et, si nécessaire, faire émettre une injonction pour en retirer le contenu. Aussi longtemps que les services de police et/ou judiciaires n'ont pas pris de décision concernant la copie, l'accessibilité et le retrait des données stockées, l’hébergeur peut uniquement prendre des mesures visant à empêcher l'accès à ces données ; ou
+1. l'hébergeur retire, rend l’accès impossible ou désactive promptement l'accès aux données après avoir reçu des services de police ou judiciaires, une injonction de retirer les données.
+L’alinéa 1 ne s'applique pas lorsque le destinataire du service agit sous l'autorité ou le contrôle de l’hébergeur.

@@ -1,0 +1,1 @@
+Dans le cas où la demande en divorce introduite par un époux est acceptée par l’autre, il doit être fait état d’un ensemble de faits procédant de l’un ou de l’autre, qui rendent intolérable le maintien de la vie commune.

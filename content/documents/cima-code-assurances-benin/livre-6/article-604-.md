@@ -1,0 +1,2 @@
+Non assurance : mesures conservatoires
+Lorsque l’auteur d’un accident n’est pas en mesure de justifier qu’il a été satisfait à l’obligation d’assurance instituée par l’article 200 du Code des assurances, la victime et le Fonds de Garantie sont fondés à se prévaloir des mesures conservatoires prévues par le Code de procédure civile applicable dans chaque Etat membre ou par toute autre réglementation en vigueur.

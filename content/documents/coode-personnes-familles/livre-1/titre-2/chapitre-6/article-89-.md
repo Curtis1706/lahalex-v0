@@ -1,0 +1,1 @@
+Le livret de famille ne présentant aucune trace d'altération et dûment coté et paraphé par l’officier de l’état civil fait foi de sa conformité avec les registres d’état civil jusqu'à inscription de faux.

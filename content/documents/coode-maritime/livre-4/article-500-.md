@@ -1,0 +1,1 @@
+Une demande en règlement n’est point recevable si l’avarie commune n’excède pas un centième (1/100<sup>ème</sup>) de la valeur cumulée du navire et de la cargaison.

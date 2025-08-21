@@ -1,0 +1,16 @@
+{
+  "id": "article-132-",
+  "title": "Article 132 :",
+  "numero": "132 ",
+  "document": "code-general-impots-2025",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-7"
+  ],
+  "navigation": {
+    "parent": "chapitre-7",
+    "previous": "article-131-",
+    "next": "article-133-"
+  }
+}

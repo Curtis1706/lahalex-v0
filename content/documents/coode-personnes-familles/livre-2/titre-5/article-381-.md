@@ -1,0 +1,1 @@
+La parenté se prouve par les actes d’état civil. Cependant, lorsque l’état des personnes n'est pas en cause, une parenté ancienne, qui ne peut être établie par des preuves régulières impossibles à réunir, peut se prouver par tous moyens pour les effets successoraux qui en résultent.

@@ -1,0 +1,9 @@
+Sont poursuivis pour crime de piraterie :
+- tout individu faisant partie de l’équipage d’un navire armé militairement et naviguant sans avoir été muni pour le voyage d’un passeport, rôle d’équipage, commission ou autres actes constatant la légitimité de l’expédition ;
+- tout capitaine d’un navire armé militairement et porteur de commissions délivrées par deux (02) ou plusieurs puissances ou Etats différents ;
+- tout individu faisant partie de l’équipage d’un navire battant pavillon de la République du Bénin, qui commet à mains armées des actes de déprédation ou de violences, soit envers des navires béninois ou des navires d’une puissance avec laquelle la République du Bénin n’est pas en état de guerre, soit envers les équipages ou chargements de ces navires ;
+- tout individu faisant partie de l’équipage d’un navire étranger, lequel, hors l’état de guerre et sans être pourvu de lettres de marque ou de commissions régulières, commet les actes visés à l’alinéa précédent envers des navires béninois, leurs équipages ou chargements ;
+- le capitaine et les officiers de tout navire quelconque qui ont commis des actes d’hostilité sous un pavillon autre que celui de l’Etat dont ledit navire a commission ;
+- tout Béninois qui, ayant obtenu, même avec l’autorisation du Gouvernement, commission d’une puissance étrangère pour commander un navire armé militairement, commet des actes d’hostilité envers des navires béninois, leurs équipages ou leurs chargements ;
+- tout individu faisant partie de l’équipage d’un navire béninois qui tente de s’emparer dudit navire par fraude ou violences envers le capitaine ;
+- tout individu faisant partie de l’équipage d’un navire béninois qui le livre à des pirates ou à l’ennemi.

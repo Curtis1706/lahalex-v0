@@ -1,0 +1,4 @@
+L’action publique est une prérogative appartenant à la société, déléguée au ministère public afin de faire déclarer la culpabilité et sanctionner une personne physique ou morale, auteur d’une infraction à la loi pénale. Elle est mise en mouvement et exercée par les représentants du ministère public.
+Le ministère public est l’ensemble des magistrats de carrière qui sont chargés, devant certaines juridictions, de requérir l’application de la loi et de veiller aux intérêts généraux de la société.
+L’action publique, pour l’application des peines est mise en mouvement et exercée par les magistrats ou les fonctionnaires auxquels elle est confiée par la loi.
+Cette action peut aussi être mise en mouvement par la partie lésée, ou toute personne morale habilitée à cet effet, dans les conditions déterminées par le présent code.

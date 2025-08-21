@@ -1,0 +1,2 @@
+Si le marin déféré au conseil de discipline est titulaire d’un brevet, diplôme, permis ou certificat délivré par un Gouvernement étranger, il perd le droit d’exercer le commandement ou les fonctions d’officiers sur les navires béninois.
+Les règles concernant l’organisation, la composition, le fonctionnement du conseil de discipline et le mode d’exécution des décisions intervenues sont fixées par décret pris en conseil des ministres.

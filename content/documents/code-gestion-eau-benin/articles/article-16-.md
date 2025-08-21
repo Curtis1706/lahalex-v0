@@ -1,0 +1,2 @@
+Article 16 : Toute construction d’ouvrages susceptibles d’avoir une incidence sur la qualité et/ou la répartition des eaux transfrontières, doit faire préalablement l’objet d’une autorisation et d’une étude d’impact environnemental.
+CHAPITRE III : DU STATUT JURIDIQUE DE L’EAU

@@ -1,0 +1,1 @@
+Toute fraude commise dans les examens et concours publics qui ont pour objet l’entrée dans une Administration Publique ou l’acquisition d’un diplôme délivré par l’Etat, constitue un délit.

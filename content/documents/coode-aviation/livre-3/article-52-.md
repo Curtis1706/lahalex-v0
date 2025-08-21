@@ -1,0 +1,1 @@
+En cas de saisie pour contrefaçon d'un brevet, dessin ou modèle, le propriétaire de l'aéronef étranger ou son représentant peut obtenir mainlevée de la saisie moyennant le dépôt d’un cautionnement dont le montant, à défaut d'accord amiable, est fixé dans les plus brefs délais par la juridiction compétente.

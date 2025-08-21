@@ -1,0 +1,1 @@
+Les communes mettent en place une filière complète de gestion des déchets ménagers généraux ou ordinaires, solides et liquides.

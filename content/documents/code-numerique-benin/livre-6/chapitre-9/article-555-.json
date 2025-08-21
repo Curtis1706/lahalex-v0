@@ -1,0 +1,15 @@
+{
+  "id": "article-555-",
+  "title": "Article 555 : Incitation à la commission d’une infraction",
+  "numero": "555 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-6",
+    "chapitre-9"
+  ],
+  "navigation": {
+    "parent": "chapitre-9",
+    "previous": "article-554-",
+    "next": "article-556-"
+  }
+}

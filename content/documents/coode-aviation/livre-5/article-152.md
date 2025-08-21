@@ -1,0 +1,3 @@
+L'ouverture et la fermeture d'un aérodrome à la circulation aérienne publique sont prononcées, après enquête technique, par décret pris en Conseil des ministres sur rapport du ministre chargé de l'aviation civile.
+Un plan directeur contenant des plans détaillés de développement de l'infrastructure est établi pour les aérodromes utilisés pour les vols internationaux. Les parties prenantes des aérodromes, en particulier les exploitants d’aéronefs, sont consultés afin de faciliter le processus d'établissement du plan directeur, en utilisant une approche consultative et collaborative.
+Les dispositions du présent article sont applicables aux hélistations et hydrobases.

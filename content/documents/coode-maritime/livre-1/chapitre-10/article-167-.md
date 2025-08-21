@@ -1,0 +1,1 @@
+Lorsqu’il y a lieu à vente judiciaire d’un navire après saisie, après faillite, après sauvetage d’épave, sur licitation ou sur toute autre décision de justice, le tribunal fixe par son jugement la mise à prix et les conditions de vente.

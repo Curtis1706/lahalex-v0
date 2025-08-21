@@ -1,0 +1,2 @@
+2 est interdit à tout navire traversant ou séjournant dans les zones maritimes sous souveraineté ou juridiction béninoise de commettre un acte de pollution tel que rejet, incinération ou immersion ainsi que définit à l’article 5 du présent code.
+L’accès ou le séjour dans ces mêmes zones entraînent pour tout navire, l’obligation de se conformer aux dispositions du présent code et de ses textes d’application.

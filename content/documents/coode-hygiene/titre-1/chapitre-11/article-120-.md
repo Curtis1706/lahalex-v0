@@ -1,0 +1,1 @@
+La séparation des espaces sanitaires n'est pas nécessaire au niveau des ménages. Toutefois, des dispositions sont prises pour veiller à la sécurité et au respect de l'intimité de l'occupant et lui permettre de se changer et de se laver en toute dignité.

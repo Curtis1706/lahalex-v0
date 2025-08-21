@@ -1,0 +1,1 @@
+Outre celles contenues dans le présent chapitre, les dispositions des articles 737 à 739 du présent code sont applicables à l’extradition demandée par le Gouvernement béninois.

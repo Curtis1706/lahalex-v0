@@ -1,0 +1,1 @@
+En cas de dommages causés par un aéronef en évolution ou non à un autre aéronef en évolution ou non, la responsabilité du pilote et de l’exploitant de l'appareil est régie par les dispositions légales relatives à la responsabilité civile.

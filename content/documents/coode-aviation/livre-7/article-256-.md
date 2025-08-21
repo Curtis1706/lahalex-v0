@@ -1,0 +1,2 @@
+Les entreprises qui désirent fournir des services d’assistance en escale obtiennent au préalable, un agrément délivré par le ministre chargé de l'aviation civile, qui atteste de leurs compétences techniques.
+Les critères d’octroi de l'agrément et les conditions d'exercice de l'activité sont fixés par voie réglementaire.

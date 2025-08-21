@@ -1,0 +1,1 @@
+La réhabilitation efface la condamnation et fait cesser pour l’avenir toutes les incapacités qui en résultent.

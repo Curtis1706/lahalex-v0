@@ -1,0 +1,2 @@
+Dans les cas prévus aux articles 192 et 193 du présent code, le juge d’instruction transmet le dossier avec son ordonnance au procureur de la République.
+Dans les trente (30) jours qui suivent, le procureur de la République doit faire appeler le prévenu pour l’une des plus prochaines audiences, en observant les délais de citation prévus au présent code.

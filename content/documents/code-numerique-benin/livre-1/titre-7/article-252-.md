@@ -1,0 +1,2 @@
+Interruption volontaire des communications électroniques
+Quiconque, par tout moyen, cause volontairement et sans droit l’interruption des 	communications électroniques, est puni d’un emprisonnement d’un (01) an à trois (03) ans et d’une amende de deux millions (2 000 000) à cinq millions (5 000 000) de francs CFA ou de l’une de ces deux peines seulement sans préjudice des dommages et intérêts.

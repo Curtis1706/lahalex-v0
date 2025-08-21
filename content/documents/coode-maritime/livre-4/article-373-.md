@@ -1,0 +1,2 @@
+En l’absence de réserves, le connaissement fait foi des mentions qu’il comporte.
+Cette foi est absolue à l’égard des tiers porteurs du connaissement. Le transporteur peut en rapporter par tous les moyens la preuve contraire à l’égard du chargeur.

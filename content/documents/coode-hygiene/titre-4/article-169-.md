@@ -1,0 +1,2 @@
+L'action publique en matière d'infraction à la législation et à la réglementation en matière d'hygiène publique se prescrit conformément aux dispositions de droit commun.
+Les peines prononcées sont portées au double, en cas de récidive.

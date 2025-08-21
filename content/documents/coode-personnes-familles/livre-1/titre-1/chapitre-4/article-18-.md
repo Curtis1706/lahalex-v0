@@ -1,0 +1,2 @@
+L’absent est la personne qui a cessé de paraître au lieu de son domicile ou de sa résidence, et dont le manque de nouvelles rend l’existence incertaine.
+Le disparu est la personne dont l’absence s’est produite dans des circonstances mettant sa vie en danger, sans que son corps ait pu être retrouvé.

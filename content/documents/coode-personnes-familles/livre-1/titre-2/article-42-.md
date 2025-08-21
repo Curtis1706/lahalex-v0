@@ -1,0 +1,2 @@
+L’officier de l’état civil, assisté d’un interprète au cas où lui-même ne peut remplir cet office, donne lecture des actes aux parties comparantes et aux témoins ; il les invite à en prendre directement connaissance et il est fait mention de ces formalités.
+Ces actes sont ensuite signés par l’officier de l’état civil ainsi que par les comparants et, s’il y a lieu, les témoins et l’interprète ; à défaut, mention est faite de la cause qui empêche ces derniers de signer.

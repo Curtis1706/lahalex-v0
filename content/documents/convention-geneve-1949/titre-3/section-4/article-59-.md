@@ -1,0 +1,3 @@
+Les sommes en monnaie de la Puissance détentrice retirées aux prisonniers Sommes
+de guerre, conformément à l’article 18, au moment où ils sont faits prison- retirées aux niers, seront portées au crédit du compte de chacun d’eux, conformément prisonniers aux dispositions de l’article 64 de la présente Section.
+Seront également portées au crédit de ce compte les sommes en monnaie de la Puissance détentrice qui proviennent de la conversion des sommes en d’autres monnaies, retirées aux prisonniers de guerre à ce même moment.

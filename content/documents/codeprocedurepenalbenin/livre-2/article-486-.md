@@ -1,0 +1,1 @@
+Dans le cas prévu par l’article 484 du présent code, lorsque la partie civile a elle-même mis en mouvement l’action publique, le tribunal statue par le même jugement sur la demande en dommages-intérêts formée par la personne relaxée contre la partie civile pour abus de constitution de partie civile.

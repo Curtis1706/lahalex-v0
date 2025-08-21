@@ -1,0 +1,2 @@
+Les décisions des conseils d’arrondissement, de village ou de quartier de ville sont prises par consensus. A défaut, les décisions sont prises à la majorité simple des votants, soit à main levée, soit au scrutin secret.
+Le vote se fait normalement à main levée. Toutefois, le vote au scrutin secret a lieu à la demande du tiers (1/3) au moins des membres présents.

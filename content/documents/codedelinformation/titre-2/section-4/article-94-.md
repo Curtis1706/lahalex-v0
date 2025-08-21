@@ -1,0 +1,1 @@
+Un organisme public peut refuser de communiquer une épreuve destinée à l’évaluation comparative des connaissances, des aptitudes ou de l’expérience d’une personne, jusqu’au terme de l’utilisation de cette épreuve.

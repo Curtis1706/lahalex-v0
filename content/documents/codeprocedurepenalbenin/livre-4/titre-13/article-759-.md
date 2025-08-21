@@ -1,0 +1,3 @@
+L’extradition par voie de transit sur le territoire béninois ou par les bâtiments des services maritimes béninois, d’un individu de nationalité quelconque, livré par un autre Gouvernement est autorisée sur simple demande par voie diplomatique, appuyée des pièces nécessaires pour établir qu’il ne s’agit pas d’un délit politique ou purement militaire.
+Cette autorisation ne peut être donnée qu’aux Etats qui accordent, sur leur territoire, la même faculté au Gouvernement béninois.
+Le transport s’effectue sous la conduite d’agents béninois et aux frais du Gouvernement requérant.

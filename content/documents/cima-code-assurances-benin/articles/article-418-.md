@@ -1,0 +1,2 @@
+Article 418 : Coassurance, comptabilisation
+Les opérations de coassurance effectuées par une entreprise, directement ou par l’intermédiaire d’un groupement ou d’une association d’entreprises, doivent, pour la quotepart souscrite, être comptabilisées comme des opérations d’assurance directe et sont soumises à toutes les règles applicables à ces dernières.

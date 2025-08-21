@@ -1,0 +1,17 @@
+{
+  "id": "article-27-",
+  "title": "Article 27 :",
+  "numero": "27 ",
+  "document": "codeprocedurepenalbenin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-1",
+    "section-3"
+  ],
+  "navigation": {
+    "parent": "section-3",
+    "previous": "article-26-",
+    "next": "article-28-"
+  }
+}

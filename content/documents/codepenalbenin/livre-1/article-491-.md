@@ -1,0 +1,1 @@
+Sont punis d’un emprisonnement de six (06) jours au moins et de trois (03) mois au plus et d’une amende de cinquante (50.000) francs CFA au moins et de cinq cent mille (500.000) francs CFA au plus ou de l’une de ces peines seulement, ceux qui auront contrevenu aux dispositions des articles 488, 489 et 490 de la présente loi.

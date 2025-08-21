@@ -1,0 +1,1 @@
+Le légataire particulier qui a acquitté la dette dont l’immeuble légué était grevé demeure subrogé au droit du créancier contre les héritiers et successeurs à titre universel.

@@ -1,0 +1,2 @@
+Quiconque émet, dépose, dégage, rejette ou permet l’émission, le dépôt, le dégagement, l’enfouissement ou le rejet dans l’environnement d’un contaminant au-delà de la quantité ou de la concentration prévue par les lois et règlements est puni d’une amende de cinq millions (5.000.000) de francs CFA à cinquante millions (50.000.000) de francs CFA.
+En cas de récidive, la peine d’amende est portée au double.

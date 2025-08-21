@@ -1,0 +1,16 @@
+{
+  "id": "article-130-",
+  "title": "Article 130 :",
+  "numero": "130 ",
+  "document": "codeprocedurepenalbenin",
+  "path": [
+    "livre-1",
+    "titre-3",
+    "section-7"
+  ],
+  "navigation": {
+    "parent": "section-7",
+    "previous": "article-129-nouveau--loi-n--2025---06--",
+    "next": "article-131-"
+  }
+}

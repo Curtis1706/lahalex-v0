@@ -1,0 +1,1 @@
+Le choix du domicile du ménage incombe aux époux. En cas de désaccord, le domicile conjugal est fixé par le mari. Toutefois, la femme peut obtenir l’autorisation judiciaire de domicile séparé si elle rapporte la preuve que le domicile choisi par son mari présente un danger d’ordre matériel ou moral pour elle ou pour ses enfants.

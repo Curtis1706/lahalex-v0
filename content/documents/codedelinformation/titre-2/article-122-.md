@@ -1,0 +1,3 @@
+Il est attribué aux organisations de la société civile, régulièrement constituées et représentatives, une tranche horaire mensuelle à la radio et à la télévision dans toutes les langues confondues.
+Ils peuvent, en outre, bénéficier de la couverture de leurs activités conformément aux dispositions prévues par la présente loi.
+La Haute Autorité de l’Audiovisuel et de la Communication veille à l’accès équitable des Organisations de la société civile, aux médias de service public.

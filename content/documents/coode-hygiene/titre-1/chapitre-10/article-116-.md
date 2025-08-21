@@ -1,0 +1,1 @@
+L'élevage des animaux et l'agriculture en zone urbaine aménagée sont interdits, sauf dans les lieux prévus à cet effet.

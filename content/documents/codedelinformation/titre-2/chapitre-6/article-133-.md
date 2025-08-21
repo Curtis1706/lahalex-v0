@@ -1,0 +1,1 @@
+Pour l’application des dispositions des articles de la présente section, toute personne qui assure, à quelque titre et sous quelque forme que ce soit, un service d’information ou de communication, désigne un responsable chargé d’assurer l’exécution des obligations se rattachant à l’exercice du droit de réponse.

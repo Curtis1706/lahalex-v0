@@ -1,0 +1,1 @@
+Sauf dispositions légales contraires ou cas de faute personnelle des intéressés, la commune est responsable des fautes commises par le maire, les adjoints au maire, le secrétaire exécutif, les conseillers communaux et le personnel communal, dans l’exercice ou à l’occasion de l’exercice de leurs fonctions ou missions.

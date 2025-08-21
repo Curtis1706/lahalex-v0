@@ -1,0 +1,2 @@
+Accès des personnes handicapées
+Le Ministère en charge des communications électroniques prend des mesures particulières pour garantir aux utilisateurs handicapés et aux utilisateurs ayant des besoins sociaux spécifiques un accès équivalant aux services de communications électroniques ouverts au public y compris les services d’urgence et d’annuaires, à un coût abordable.

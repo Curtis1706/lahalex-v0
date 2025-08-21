@@ -1,0 +1,1 @@
+Toute publicité qui fait apparaître ou des qualités inexactes du produit ou du service est interdite.

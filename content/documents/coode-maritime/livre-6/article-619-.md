@@ -1,0 +1,1 @@
+Les frais de refoulement des passagers clandestins de nationalité étrangère, sont imputés au navire à bord duquel ils ont été introduits sur le territoire de la République du Bénin quelle que soit la nationalité de ce navire.

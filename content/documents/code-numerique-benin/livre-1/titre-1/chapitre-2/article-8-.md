@@ -1,0 +1,3 @@
+Droits des opérateurs
+Les opérateurs intervenant sous un même régime juridique jouissent dans les mêmes conditions de l’ensemble des droits et obligations prévus à ce régime.
+Sans préjudice des dispositions de l’alinéa précédent, les conditions dans lesquelles les opérateurs peuvent faire usage de leurs droits dépendent du respect des conditions matérielles ou techniques préalablement fixées par l’Autorité de régulation. Ces conditions sont compatibles avec les règles nationales et communautaires en matière de concurrence.

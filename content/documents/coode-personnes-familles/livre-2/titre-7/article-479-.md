@@ -1,0 +1,3 @@
+Les membres du conseil de famille sont tenus de se rendre en personne à la réunion.
+Les membres du conseil de famille qui, sans excuses légitimes, ne seront ni présents ni valablement représentés, encourront une amende de vingt-cinq mille (25 000) à cent mille (100 000) francs.
+Chacun peut toutefois se faire représenter par un parent ou allié des père et mère du mineur, si ce parent ou allié n'est pas déjà, en son propre nom, membre du conseil. Le mari peut représenter la femme et réciproquement.

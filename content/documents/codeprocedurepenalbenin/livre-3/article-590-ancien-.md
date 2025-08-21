@@ -1,0 +1,1 @@
+Après cassation d’un arrêt de la cour d’assises, la cour suprême prononce le renvoi du procès devant le tribunal de première instance qu’elle désigne, si l’arrêt est annulé seulement du chef des intérêts civils. Le procès est jugé par le tribunal selon les règles du présent code.

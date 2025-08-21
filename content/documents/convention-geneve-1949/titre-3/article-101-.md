@@ -1,0 +1,1 @@
+3. Délai d’exé- Si la peine de mort est prononcée contre un prisonnier de guerre, le juge- cution en cas ment ne sera pas exécuté avant l’expiration d’un délai d’au moins six mois à de peine de partir du moment où la communication détaillée prévue à l’article 107 sera mort parvenue à la Puissance protectrice à l’adresse indiquée.

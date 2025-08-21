@@ -1,0 +1,2 @@
+Est puni de la même peine, prévue à l’article 546 alinéa 2 du présent code l’utilisation, le recrutement ou l’offre d’un enfant à des fins de prostitution, de production de matériels pornographiques ou de spectacles pornographiques.
+La tentative des infractions prévues à l’article 546 alinéa 1 du présent code et au présent article est punie comme le crime lui-même.

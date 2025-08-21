@@ -1,0 +1,1 @@
+Pour les revenus des créances, dépôts et cautionnements, l’impôt est calculé par application à la base d’imposition d’un taux de 15%.

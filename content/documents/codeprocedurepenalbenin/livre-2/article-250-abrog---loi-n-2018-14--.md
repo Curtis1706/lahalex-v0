@@ -1,0 +1,1 @@
+La cour d’assises est établie au siège de chaque cour d’appel. Toutefois, lorsque les circonstances l’exigent, elle peut se tenir au siège d’un tribunal de première instance désigné par arrêté du ministre chargé de la justice, sur proposition du président de la cour d’appel après avis du procureur général.

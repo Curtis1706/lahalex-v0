@@ -1,0 +1,2 @@
+Le juge est saisi sur requête des personnes dont l’acte de l’état civil doit établir l'état, de leurs héritiers et légataires, des personnes autorisées ou habilitées à procéder à la déclaration de l’évènement, ou du ministère public.
+Si la requête n’émane pas du ministère public, elle est obligatoirement communiquée au procureur de la République qui procède conformément aux dispositions du code de procédure civile. Le droit de faire appel est reconnu dans tous les cas.

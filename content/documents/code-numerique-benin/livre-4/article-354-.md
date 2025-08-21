@@ -1,0 +1,4 @@
+Perte du droit de rétractation dans le cadre de la fourniture de services
+Le consommateur perd son droit de rétractation, dans le cadre de contrats portant sur la fourniture de services lorsque le service a été fourni dans sa totalité.
+Si le consommateur souhaite que la fourniture du service commence avant la fin du délai de rétractation, le professionnel recueille son accord préalable exprès sur support durable.
+En cas d'exercice du droit de rétractation après le commencement de la fourniture du service, le consommateur est tenu au paiement de la partie du prix déterminée proportionnellement au service effectivement fourni, entre le jour du début de la fourniture du service et le jour de sa notification d'exercice du droit de rétractation.

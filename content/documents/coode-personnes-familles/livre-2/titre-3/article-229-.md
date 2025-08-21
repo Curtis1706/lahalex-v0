@@ -1,0 +1,1 @@
+Lorsque le juge estime que le consentement de l’une des parties n’a pas été exprimé dans les conditions prévues par la loi ou si l’un des époux ignore les faits allégués par l’autre, il rejette la demande.

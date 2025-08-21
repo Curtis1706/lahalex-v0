@@ -1,0 +1,2 @@
+Article 80 : Quiconque construit ou exploite un ouvrage ou une installation, réalise des travaux ou exerce une activité soumise à déclaration en violation des règles prévues à l’article 43, alinéa 2 de la présente loi, est puni d’une amende de un million (1 000 000) à trois millions (3 000 000) de francs CFA.
+En cas de récidive, l’amende est portée à cinq millions (5 000 000) de francs CFA.

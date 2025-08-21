@@ -1,0 +1,1 @@
+La représentation n'a pas lieu au profit des descendants d’un enfant qui a renoncé à la succession. Si tous les enfants ont renoncé à la succession, les petits enfants du défunt succèdent de leur chef par parts égales. Ceux d’entre eux qui sont prédécédés, codécédés, indignes, présumés ou déclarés absents sont représentés suivant les règles établies aux articles précédents.

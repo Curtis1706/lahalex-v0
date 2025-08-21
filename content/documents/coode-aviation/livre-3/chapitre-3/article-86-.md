@@ -1,0 +1,2 @@
+Les organismes chargés de l’exploitation et de la gestion des installations des services de navigation aérienne en République du Bénin sont astreints à la souscription d'une police d'assurance navigation aérienne.
+Tout exploitant d'aéronef souscrit une police d'assurance couvrant sa responsabilité civile en cas d'accident, notamment à l'égard du personnel navigant, des passagers, des bagages, du fret, du courrier et des tiers, conformément aux dispositions des conventions internationales en vigueur.

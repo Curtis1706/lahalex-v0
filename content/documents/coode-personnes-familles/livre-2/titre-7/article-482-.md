@@ -1,0 +1,3 @@
+Les séances du conseil de famille ne sont pas publiques, les tiers ne peuvent obtenir expédition des délibérations qu’avec l’autorisation du juge des tutelles.
+Les délibérations sont toujours motivées et l’avis de chacun des membres est mentionné, si la décision n’a pas été prise à l’unanimité.
+Les délibérations sont exécutoires par elles-mêmes, sauf recours formé par le tuteur, le subrogé-tuteur, les membres du conseil de famille, le juge des tutelles ou par le pupille dans un délai de deux (2) ans à compter du jour où il est devenu capable. Le recours est jugé selon la procédure et dans les délais prévus aux articles 466 alinéa 2 et 467.

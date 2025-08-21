@@ -1,0 +1,1 @@
+Article 326 : L’auteur d’une tentative d’avortement est puni des peines prévues à l’article 325 de la présente loi. Le complice est puni des mêmes peines.

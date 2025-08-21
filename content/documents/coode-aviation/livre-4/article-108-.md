@@ -1,0 +1,1 @@
+Le Bureau enquêtes-accidents mène l’enquête en toute indépendance et sans restriction, en accord avec les dispositions de l'annexe 13 à la Convention relative à l'aviation civile internationale concernant les enquêtes sur les accidents et incidents d'aviation.

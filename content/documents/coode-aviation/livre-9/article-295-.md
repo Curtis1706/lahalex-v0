@@ -1,0 +1,1 @@
+Tout prestataire de service, tout exploitant ou usager qui viole les dispositions de la présente loi ou de ses textes d'application s'expose à des sanctions administratives, disciplinaires ou pénales.

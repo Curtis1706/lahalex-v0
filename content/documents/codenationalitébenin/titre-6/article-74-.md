@@ -1,0 +1,2 @@
+En dehors des cas de perte ou de déchéance de la nationalité béninoise, la preuve de l'extranéité peut être faite par tous moyens.
+Néanmoins, la preuve de l'extranéité d'un individu qui a la possession d'état de Béninois peut seulement être établie en démontrant que le demandeur ne remplit aucune des conditions exigées par la loi pour avoir la qualité de Béninois.

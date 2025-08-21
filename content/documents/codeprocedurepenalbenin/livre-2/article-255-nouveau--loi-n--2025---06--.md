@@ -1,0 +1,3 @@
+Le procureur de la République représente en personne ou par l’un de ses substituts le ministère public auprès du tribunal de première instance statuant en matière criminelle.
+Le procureur général représente en personne ou par l'un de ses avocats ou substituts généraux le ministère public auprès de la cour d'appel statuant en matière criminelle.
+Dans les juridictions de droit commun, le procureur général peut, en cas d'insuffisance de magistrat, désigner tout magistrat du parquet en fonction dans les tribunaux de première instance de son ressort, à l'effet de représenter le ministère public auprès de la cour d'appel statuant en matière criminelle ou d’un tribunal de première instance statuant en matière criminelle du ressort.

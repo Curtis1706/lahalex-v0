@@ -1,0 +1,1 @@
+Le résultat comptable ou résultat de la section de fonctionnement d'un exercice équivaut au solde positif ou négatif de la section de fonctionnement qui apparaît dans le compte administratif de l’ordonnateur.

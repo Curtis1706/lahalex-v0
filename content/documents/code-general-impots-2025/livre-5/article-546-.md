@@ -1,0 +1,2 @@
+1) Un examen contradictoire de la situation fiscale personnelle ne peut être engagé sans que le contribuable en ait été informé par l’envoi ou la remise d’un avis de vérification.
+2) L’avis de vérification est notifié au contribuable à son domicile, au lieu d’exercice de son activité professionnelle, au siège social de l’entreprise dont il détient des actions ou des parts sociales ou à toute adresse où il est propriétaire d’un immeuble.

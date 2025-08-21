@@ -1,0 +1,1 @@
+La rééducation des mineurs placés sous régime de liberté surveillée est sous l’autorité du juge des enfants qui ordonne les activités des assistants sociaux, des délégués à l’enfance et de toutes autres personnes.

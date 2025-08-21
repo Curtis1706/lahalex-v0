@@ -1,0 +1,2 @@
+Mesures de mise en œuvre
+Aux fins du présent chapitre, les Etats membres conviennent d’œuvrer conformément au Protocole en la matière annexé au présent Traité, ainsi qu’aux cadres, politiques et programmes adoptés au niveau continental en application des dispositions du Traité instituant la Communauté Economique Africaine.

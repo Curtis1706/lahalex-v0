@@ -1,0 +1,1 @@
+Le juge des enfants prend une décision pour la garde du mineur conformément aux dispositions prévues aux articles688, 690 et 692 à 694 du présent code.

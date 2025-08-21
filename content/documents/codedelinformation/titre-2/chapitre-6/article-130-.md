@@ -1,0 +1,1 @@
+Les dispositions sus-énoncées relatives au droit de réponse ne s’appliquent pas aux temps d’antenne antérieurement affectés aux différents courants religieux et autres écoles de pensée qui peuvent poursuivre leurs activités en attendant toute réglementation ultérieure.

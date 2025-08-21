@@ -1,0 +1,2 @@
+Politique nationale de développement des communications électroniques et de la poste
+La politique nationale de développement des communications électroniques intègre l’accès/service universel et les ressources humaines.

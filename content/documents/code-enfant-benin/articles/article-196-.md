@@ -1,0 +1,2 @@
+Article 196 : Interdiction d’associer l’enfant aux pratiques amorales et inhumaines
+Il est interdit d’utiliser l’enfant dans toutes formes de criminalité organisées ou non, y compris l’espionnage, l’incitation au fanatisme, à la haine et l’initiation aux actes de violence.

@@ -1,0 +1,1 @@
+Article 351 : L’incitation ou la contrainte des enfants à des relations sexuelles avec un animal est punie de dix (10) ans à (20) ans de réclusion et d’une amende de deux millions (2 000 000) à cinq millions (5 000 000) de francs CFA.

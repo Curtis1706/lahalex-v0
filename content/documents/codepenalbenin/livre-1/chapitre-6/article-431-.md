@@ -1,0 +1,2 @@
+Les peines ci-dessus établies contre les conducteurs ou les gardiens en cas de négligence seulement, cessent lorsque les évadés sont repris ou représentés, pourvu que ce soit dans les quatre (04) mois de l’évasion et qu’ils ne soient pas arrêtés pour d’autres crimes ou délits commis postérieurement.
+Aucune poursuite n’aura lieu contre ceux qui auront tenté de procurer ou de faciliter une évasion si, avant que celle-ci ait été réalisée, ils auront donné connaissance du projet aux autorités administratives ou judiciaires et leur en auront révélé les auteurs.

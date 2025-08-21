@@ -1,0 +1,1 @@
+La chambre judiciaire peut aussi, à l’occasion d’un pourvoi dont elle est saisie, régler de juges d’office et même par avance. Elle peut statuer sur tous les actes faits par la juridiction qu’elle dessaisit.

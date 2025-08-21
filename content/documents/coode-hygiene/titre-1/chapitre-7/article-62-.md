@@ -1,0 +1,1 @@
+Les conditions de délivrance des certificats et des autorisations visés à l'article 61 ci-dessus, sont définies par voie réglementaire.

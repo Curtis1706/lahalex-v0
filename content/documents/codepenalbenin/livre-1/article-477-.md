@@ -1,0 +1,1 @@
+est puni de cinq (05) ans à vingt (20) ans et d’une amende de deux cent mille (200.000) francs CFA à cinq cent mille (500.000) francs CFA, toute personne par des rituelles, des cérémonies et autres pratiques malsaines, donne la mort à un nouveau-né.

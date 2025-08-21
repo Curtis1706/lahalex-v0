@@ -1,0 +1,1 @@
+En l’absence de preuve de la propriété exclusive d’un bien, celui-ci appartiendra indivisément aux époux, à chacun pour moitié, et sera partagé entre les époux ou leurs ayants droit, à la dissolution du régime matrimonial.

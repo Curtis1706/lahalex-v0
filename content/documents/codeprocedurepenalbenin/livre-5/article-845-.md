@@ -1,0 +1,1 @@
+Le condamné qui a subi une contrainte par corps n’est pas libéré du montant des condamnations pour lesquelles elle a été exercée.

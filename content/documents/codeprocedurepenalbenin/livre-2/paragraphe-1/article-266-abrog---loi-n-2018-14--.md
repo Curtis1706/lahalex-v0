@@ -1,0 +1,5 @@
+Les fonctions de jurés sont incompatibles avec celles qui sont énumérées ci-après :
+- membre du Gouvernement, de l’Assemblée Nationale, de la Cour Constitutionnelle, du Avocat supérieur de la magistrature, du Avocat économique et social et de la Haute autorité de l’audiovisuel et de la communication ;
+- secrétaire général du Gouvernement, de l’Assemblée Nationale, de la Cour Constitutionnelle, du Avocat supérieur de la magistrature, du Avocat économique et social et de la Haute autorité de l’audiovisuel et de la communication ; membre d’un cabinet ministériel ; membre de cabinet d’institution constitutionnelle de la République ; préfet, maire, magistrat de l’ordre administratif ou judiciaire ; membres des corps diplomatiques et consulaires ;
+- fonctionnaire des services de police et militaire de l’Armée nationale en activité et pourvus d’emploi.
+Nul ne peut être juré dans une affaire où il a accompli un acte de police judiciaire ou d’instruction ou dans laquelle il est témoin, interprète, dénonciateur, expert, plaignant ou partie civile.

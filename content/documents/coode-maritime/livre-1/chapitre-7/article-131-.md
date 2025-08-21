@@ -1,0 +1,2 @@
+Les hypothèques consenties par l’acheteur avant la béninisation sur un bâtiment acheté ou construit à l’étranger sont valables et produisent effet à condition d’être publiées en République du Bénin.
+L’autorité maritime est tenue de délivrer à tous ceux qui en font la demande l’état des inscriptions hypothécaires existant sur un navire ou un certificat mentionnant qu’il n’en existe aucune.

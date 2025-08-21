@@ -1,0 +1,16 @@
+{
+  "id": "article-46-",
+  "title": "Article 46 :",
+  "numero": "46 ",
+  "document": "codeprocedurepenalbenin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-4"
+  ],
+  "navigation": {
+    "parent": "chapitre-4",
+    "previous": "article-45-",
+    "next": "article-47-ancien-"
+  }
+}

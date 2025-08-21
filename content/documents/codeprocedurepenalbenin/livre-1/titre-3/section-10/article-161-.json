@@ -1,0 +1,16 @@
+{
+  "id": "article-161-",
+  "title": "Article 161 :",
+  "numero": "161 ",
+  "document": "codeprocedurepenalbenin",
+  "path": [
+    "livre-1",
+    "titre-3",
+    "section-10"
+  ],
+  "navigation": {
+    "parent": "section-10",
+    "previous": "article-160-",
+    "next": "article-162-"
+  }
+}

@@ -1,0 +1,2 @@
+Constitue un système informatique, tout dispositif isolé ou ensemble de dispositifs interconnectés ou apparentés, dont un ou plusieurs éléments assurent, en exécution d’un programme, un traitement automatisé de données.
+Un traitement automatisé de données s’entend de l’ensemble des opérations réalisées par des moyens automatisés, relatif à la collecte, l’enregistrement, l’élaboration, la modification, la conservation, la destruction, l’édition de données et d’une façon générale, leur exploitation.

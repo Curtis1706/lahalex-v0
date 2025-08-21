@@ -1,0 +1,3 @@
+L’accusé ou son avocat d’abord, le ministère public ensuite, récusent tels jurés qu’ils jugent à propos à mesure que leurs noms sortent de l’urne.
+Ni l’accusé ou son avocat, ni le ministère public ne peuvent exposer leurs motifs de récusation.
+Le jury de jugement est formé à l’instant où sont sortis de l’urne quatre (04) noms de jurés non récusés et, s’il y a lieu, les noms des jurés supplémentaires prévus par l’article 303 du présent code.

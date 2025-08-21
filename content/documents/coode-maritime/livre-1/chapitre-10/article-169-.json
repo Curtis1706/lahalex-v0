@@ -1,0 +1,15 @@
+{
+  "id": "article-169-",
+  "title": "Article 169 :",
+  "numero": "169 ",
+  "document": "coode-maritime",
+  "path": [
+    "livre-1",
+    "chapitre-10"
+  ],
+  "navigation": {
+    "parent": "chapitre-10",
+    "previous": "article-168-",
+    "next": "article-170-"
+  }
+}

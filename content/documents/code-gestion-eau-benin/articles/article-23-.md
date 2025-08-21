@@ -1,0 +1,1 @@
+Article 23 : Les cours d’eau, les étendues d’eau et les espaces mentionnés à l’article 18 de la présente loi sont inscrits dans une nomenclature établie par décret pris en conseil des ministres, après une enquête publique conduite sous l’autorité du ministre.

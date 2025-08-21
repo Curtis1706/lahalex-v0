@@ -1,0 +1,1 @@
+En matière criminelle, après avis conforme du procureur de la République et du juge des libertés et de la détention, le juge d’instruction peut faire recours à tout moyen technologique et de communication susceptible de faciliter la manifestation de la vérité.

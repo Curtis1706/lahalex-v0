@@ -1,0 +1,1 @@
+Est puni comme enrichissement illicite, le fait pour le Président de la République, les membres du gouvernement, soit par eux-mêmes soit par intermédiaire, de prendre part aux marchés de fournitures et aux adjudications pour les institutions ou les administrations relevant de l’Etat ou soumises à leur contrôle.

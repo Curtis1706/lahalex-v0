@@ -1,0 +1,2 @@
+Principe général
+Les dispositions de la présente section relative au droit de rétractation ne s'appliquent qu'aux contrats conclus entre professionnel et consommateur. Ces   dispositions s'appliquent sans préjudices d'éventuelles dispositions conventionnelles plus favorables pour le consommateur.

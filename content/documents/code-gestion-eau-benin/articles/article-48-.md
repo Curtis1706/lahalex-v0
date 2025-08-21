@@ -1,0 +1,1 @@
+Article 48 : Dans le cas des prélèvements d’eau souterraine, les mesures de protection visées à l’article 47 ci-dessus incluent la délimitation autour du point de prélèvement, d’un périmètre de protection immédiate, d’un périmètre de protection rapprochée et, en tant que de besoin, d’un périmètre de protection éloignée.

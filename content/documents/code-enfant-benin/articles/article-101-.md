@@ -1,0 +1,4 @@
+Article 101 : Conditions d'autorisation
+L’adoption internationale n’est autorisée :
+que lorsqu’il y a impossibilité au plan national d’assurer décemment à l’enfant la protection, l’entretien, l’instruction, l’éducation et un cadre de vie familial adéquat ;
+qu’après échanges d’informations entre les autorités centrales du pays d’accueil et du pays d’origine, les autorités compétentes béninoises et celles du pays de l’adoptant en vue de s’assurer que l’enfant jouira de garanties et des normes de protection afin d’éviter que son placement à l’étranger donne lieu à un trafic ou à un profit matériel indu pour ceux qui en sont responsables.

@@ -1,0 +1,2 @@
+Demandes d’accès et d’interconnexion présentées par des opérateurs nationaux
+Les opérateurs nationaux et non-nationaux et les exploitants d’infrastructures alternatives font droit dans des conditions objectives, transparentes et non discriminatoires, aux demandes d'accès et d'interconnexion des autres opérateurs, présentées en vue d’exploiter des réseaux et/ou fournir des services de communications électroniques, pour autant que ceux-ci soient techniquement réalisables.

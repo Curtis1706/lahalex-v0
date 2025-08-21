@@ -1,0 +1,1 @@
+Les dotations ou subventions de fonctionnement de l'Etat comprennent les fonds affectés ou non affectés, alloués aux communes et établissements publics de coopération intercommunale suivant des critères précisés par voie règlementaire.

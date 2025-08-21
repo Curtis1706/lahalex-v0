@@ -1,0 +1,4 @@
+Élimination des droits de douane entre les États membres
+1. Les États membres s'abstiennent de créer entre eux de nouveaux droits de douane et taxes d’effets équivalents, et d'augmenter ceux qu'ils appliquent dans leurs relations commerciales mutuelles. Ils feront parvenir régulièrement à la Commission toutes informations relatives aux droits de douane, pour étude et avis.
+1. Les États membres s’engagent à éliminer entre eux tous les droits de douane et taxes d’effets équivalents, dès l’entrée en vigueur du présent Traité.
+1. Le présent article ne s'applique pas à l’imposition des redevances pour services rendus. Le taux desdites redevances doit être proportionnel au coût des services rendus.

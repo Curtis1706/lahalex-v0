@@ -1,0 +1,1 @@
+Est assujetti au paiement d’une taxe de séjour, tout client ayant séjourné dans un hôtel ou établissement assimilé ou dans une résidence meublée, quelle que soit la durée du séjour.

@@ -1,0 +1,1 @@
+La séparation de corps ne résulte que d’une décision judiciaire la prononçant et, à la demande de l’un ou l’autre des époux ou des deux conjointement.

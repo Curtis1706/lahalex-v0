@@ -1,0 +1,3 @@
+Tout individu qui, même sans arme et sans qu’il en soit résulté de blessures, a frappé un magistrat ou un juré dans l’exercice, ou à l’occasion de l’exercice de ses fonctions, ou commis toute autre violence ou voies de fait envers lui dans les mêmes circonstances, est puni d’un emprisonnement de deux (02) ans à cinq (05) ans.
+Le maximum de cette peine est toujours prononcé si la voie de fait a eu lieu à l’audience d’une cour ou d’un tribunal.
+Le coupable est en outre privé, dans les deux cas, des droits mentionnés à l’article 38 du présent code pendant cinq (05) ans au moins et dix (10) ans au plus, à compter du jour où il aura subi sa peine.

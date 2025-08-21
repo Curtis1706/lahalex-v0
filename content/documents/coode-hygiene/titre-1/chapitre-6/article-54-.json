@@ -1,0 +1,15 @@
+{
+  "id": "article-54-",
+  "title": "Article 54 :",
+  "numero": "54 ",
+  "document": "coode-hygiene",
+  "path": [
+    "titre-1",
+    "chapitre-6"
+  ],
+  "navigation": {
+    "parent": "chapitre-6",
+    "previous": "article-53-",
+    "next": "article-55-"
+  }
+}

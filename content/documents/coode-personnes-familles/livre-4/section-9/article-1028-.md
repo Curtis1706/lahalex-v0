@@ -1,0 +1,2 @@
+Les conditions de forme du testament sont régies par la loi en vigueur lors de sa rédaction.
+La loi en vigueur au jour de l’ouverture de la succession fixe la capacité du testateur, la quotité disponible et le droit des héritiers réservataires. Celle en vigueur au jour du legs fixe la capacité du testateur.

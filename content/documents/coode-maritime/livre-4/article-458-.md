@@ -1,0 +1,1 @@
+Après un abordage, les dispositions du présent code sont applicables à chacun des capitaines des navires entrés en collision.

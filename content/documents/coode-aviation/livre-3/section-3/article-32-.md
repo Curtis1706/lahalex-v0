@@ -1,0 +1,1 @@
+La validité de tout document ainsi enregistré, sauf stipulation contraire des parties intéressées, est déterminée conformément à la législation en vigueur.

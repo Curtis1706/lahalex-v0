@@ -1,0 +1,2 @@
+La déchéance prononcée en vertu des articles 438 et 439 du présent code portera sur tout ou partie des attributs de l’autorité parentale. A défaut d’autre détermination, elle ne s’appliquera qu’à l’égard de l’enfant considéré.
+Elle emporte pour l’enfant dispense de l’obligation alimentaire. En revanche, l’obligation de subvenir à l’entretien et à l’éducation de l’enfant reste à la charge de celui qui en est frappé.

@@ -1,0 +1,2 @@
+Il est institué, indépendamment de l’acompte sur impôt assis sur les bénéfices, un prélèvement sur les importations, les exportations, les ventes et les prestations réalisées par les personnes physiques ou morales non connues au fichier des contribuables de la direction générale des impôts.
+Le fichier des contribuables de la direction générale des impôts est constitué par l’ensemble  des  contribuables  relevant  de  ses  structures  opérationnelles  et  qui accomplissent régulièrement leurs obligations déclaratives et de paiement.

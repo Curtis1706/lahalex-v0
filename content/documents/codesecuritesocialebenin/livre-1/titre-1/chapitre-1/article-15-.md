@@ -1,0 +1,3 @@
+Les membres du conseil d’administration perçoivent, en rémunération de leurs activités à titre de jetons de présence, une indemnité annuelle fixée par le Ministre de tutelle sur proposition du conseil d’administration.
+Le montant des jetons de présence est fixé en fonction des résultats des activités de la Caisse. Il est porté aux charges d’exploitation et versé aux administrateurs qui ont effectivement participé aux réunions.
+Les fonctions de membre du conseil d’administration sont incompatibles avec tout emploi rémunéré par la Caisse et toute activité lucrative en rapport avec le fonctionnement et l’objet de la Caisse.

@@ -1,0 +1,1 @@
+Dans le cas où une épave est constituée par un navire et sa cargaison, la déchéance et la vente au profit de l’Etat prévues à l’article précédent s’étendent à l’ensemble de cette épave, sans préjudice du recours du propriétaire de la cargaison contre le transporteur et, le cas échéant, contre l’affréteur.

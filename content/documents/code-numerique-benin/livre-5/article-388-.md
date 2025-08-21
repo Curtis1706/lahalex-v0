@@ -1,0 +1,5 @@
+Responsables conjoints du traitement
+Lorsque deux responsables du traitement ou plus déterminent conjointement et les moyens du traitement, ils sont les responsables conjoints du traitement. Les responsables conjoints du traitement définissent de manière transparente leurs obligations respectives aux fins d'assurer le respect des exigences du présent Livre, notamment en ce qui concerne l'exercice des droits de la personne concernée, et leurs obligations respectives quant à la communication des informations visées aux articles 415 et 416, par voie d'accord entre eux. Un point de contact pour les personnes concernées peut être désigné dans l'accord.
+L'accord visé à l’alinéa 1 reflète dûment les rôles respectifs des responsables conjoints du traitement et leurs relations vis-à-vis des personnes concernées. Les grandes lignes de l'accord sont mises à la disposition de la personne concernée.
+Indépendamment des termes de l'accord visé à l’alinéa 1, la personne concernée peut exercer les droits que lui confère les dispositions du présent Livre à l'égard de et contre chacun des responsables du traitement.
+\

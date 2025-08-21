@@ -1,0 +1,3 @@
+Sont confisqués, quelle que soit la qualification de l’infraction, les objets visés aux articles 284 et 290, ainsi que les métaux, papiers et autres matières trouvés en la possession des coupables et destinés à la commission d’infractions semblables.
+Lesdits objets, métaux, papiers et autres matières confisquées sont remis à la Banque Centrale sur sa demande, sous réserve des nécessités de l’administration de la justice.
+Sont également confisqués, les instruments ayant servi à commettre l’infraction, sauf lorsqu’ils ont été utilisés à l’insu de leur propriétaire.

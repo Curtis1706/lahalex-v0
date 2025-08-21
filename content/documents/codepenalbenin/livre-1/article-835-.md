@@ -1,0 +1,5 @@
+Est puni d’un emprisonnement de un (01) an à cinq (05) ans et d’une amende de cent mille (100.000) francs CFA à un million (1.000.000) de francs CFA, quiconque a participé, à quelque titre que ce soit, à l’attribution frauduleuse d’une parcelle ou d’une portion de parcelle, avant, pendant et après les opérations de lotissement ou de recasement.
+Les mêmes peines sont appliquées à quiconque a à quelque titre que ce soit attribué avant, pendant et après les opérations de lotissement ou de recasement une parcelle déjà construite et habitée par un tiers.
+Les mêmes peines seront appliquées aux bénéficiaire et complice de ces faits.
+La tentative est punie au même titre que l’infraction elle-même.
+Cette peine peut être aggravée et aller à sept (07) ans d’emprisonnement, et l’amende à dix millions (10.000.000) de francs CFA lorsque ces faits sont commis par un géomètre expert ou par un employé des collectivités territoriales ou un agent public agissant dans l’exercice ou à l’occasion de l’exercice de ses fonctions.

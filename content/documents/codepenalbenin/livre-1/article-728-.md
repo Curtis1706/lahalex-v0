@@ -1,0 +1,1 @@
+Dans le cas d’infraction aux dispositions des articles 726 et 727 du présent code_,_ l’acquéreur et les officiers ministériels pourront être condamnés solidairement, au profit des bénéficiaires du droit de suite, à des dommages et intérêts.

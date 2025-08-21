@@ -1,0 +1,2 @@
+L'emploi d'engrais chimiques ou naturels et de pesticides est autorisé conformément à la réglementation en vigueur.
+Des dispositions sont prises pour que les eaux de ruissellement et de percolation ne puissent, en raison de la pente du terrain, atteindre les zones de protection des sources d'eau et ne soient la cause de problèmes de santé pour les populations.

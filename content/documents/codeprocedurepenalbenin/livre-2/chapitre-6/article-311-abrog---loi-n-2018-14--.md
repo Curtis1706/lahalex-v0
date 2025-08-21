@@ -1,0 +1,3 @@
+Les débats sont publics, à moins que la publicité ne soit dangereuse pour l’ordre public ou les mœurs. Dans ce cas, le président peut ordonner le huis clos.
+Il peut aussi interdire l’accès de la salle d’audience aux mineurs ou à certains d’entre eux.
+Lorsque le huis clos a été ordonné, celui-ci s’applique au prononcé des arrêts qui peuvent intervenir sur les incidents contentieux visés à l’article 320 du présent code. L’arrêt sur le fond doit toujours être prononcé en audience publique.

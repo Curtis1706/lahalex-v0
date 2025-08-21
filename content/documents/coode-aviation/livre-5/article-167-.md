@@ -1,0 +1,3 @@
+Les redevances sont dues par le seul fait de l'usage des ouvrages, installations, bâtiments et outillages et correspondent aux services rendus.
+En cas de non-paiement des redevances par l'exploitant de l'aéronef, l'exploitant de l'aérodrome est autorisé, dans le respect des procédures applicables, à obtenir qu'un aéronef exploité par cet exploitant soit retenu jusqu'à consignation du montant dû.
+L'autorité responsable de la circulation aérienne et le commissariat de police territorialement compétent apportent leur concours à l'application du présent article.

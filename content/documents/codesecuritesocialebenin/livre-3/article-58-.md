@@ -1,0 +1,1 @@
+Même en cas de déclaration tardive de l’employeur, la Caisse assure la réparation de l’accident conformément aux dispositions de la présente loi. Toutefois, elle est habilitée à intenter un recours contre l’employeur pour récupérer ses débours, ce qui n’exclut pas les sanctions pénales prévues à l’article 139 de la présente loi.

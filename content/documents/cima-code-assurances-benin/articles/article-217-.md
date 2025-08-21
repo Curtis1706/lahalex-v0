@@ -1,0 +1,2 @@
+Article 217 : Forme de l’attestation
+Les dimensions et la couleur de l’attestation d’assurance mentionnée à l’article 214 et de l’attestation provisoire d’assurance mentionnée à l’article 216 seront définies par la Commission de Contrôle des Assurances.

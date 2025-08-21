@@ -1,0 +1,2 @@
+Article 220 : Obligation
+Tout souscripteur d’un contrat d’assurance prévu par l’article 200 doit apposer sur le véhicule automoteur assuré un certificat d’assurance qui est une partie détachable de l’attestation d’assurance.

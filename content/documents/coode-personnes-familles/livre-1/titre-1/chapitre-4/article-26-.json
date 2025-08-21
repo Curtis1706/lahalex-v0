@@ -1,0 +1,16 @@
+{
+  "id": "article-26-",
+  "title": "Article 26 :",
+  "numero": "26 ",
+  "document": "coode-personnes-familles",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-4"
+  ],
+  "navigation": {
+    "parent": "chapitre-4",
+    "previous": "article-25-",
+    "next": "article-27-"
+  }
+}

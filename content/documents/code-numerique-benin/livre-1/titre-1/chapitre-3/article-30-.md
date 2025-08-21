@@ -1,0 +1,3 @@
+Protection des personnes contre les effets des champs électriques, magnétiques et électromagnétiques
+Tout opérateur, tout importateur et tout distributeur est tenu de se conformer aux valeurs limites d’exposition des personnes aux champs électriques, magnétiques et électromagnétiques.
+Un décret pris en Conseil des Ministres sur proposition du Ministre chargé des communications électroniques fixe les valeurs limites d’exposition aux champs électriques, magnétiques et électromagnétiques.

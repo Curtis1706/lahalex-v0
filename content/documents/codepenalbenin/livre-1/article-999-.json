@@ -1,0 +1,14 @@
+{
+  "id": "article-999-",
+  "title": "Article 999 : Sont de plus saisis et confisqués :",
+  "numero": "999 ",
+  "document": "codepenalbenin",
+  "path": [
+    "livre-1"
+  ],
+  "navigation": {
+    "parent": "livre-1",
+    "previous": "article-998-",
+    "next": "article-1000-"
+  }
+}

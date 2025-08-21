@@ -1,0 +1,1 @@
+L’action en déclaration d’indignité est ouverte aux héritiers du défunt jusqu’au partage. Elle est portée devant le tribunal du lieu d’ouverture de la succession.

@@ -1,0 +1,1 @@
+Les recours contre le rejet d'une demande de pension ou d’une rente viagère d'invalidité ou contre leur liquidation doivent être portés devant la juridiction compétente.

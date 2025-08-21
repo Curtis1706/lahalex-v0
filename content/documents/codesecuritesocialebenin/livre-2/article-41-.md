@@ -1,0 +1,1 @@
+Les allocations prénatales sont destinées à généraliser la surveillance médicale des grossesses et assurer aux futures mères de meilleures conditions d’hygiène et de santé.

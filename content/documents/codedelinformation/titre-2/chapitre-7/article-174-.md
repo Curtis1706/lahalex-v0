@@ -1,0 +1,2 @@
+La publicité est également dite mensongère lorsqu’elle a pour but d’attirer le consommateur vers un produit ou un bien qui n’existe pas ou de lui proposer des articles différents quant aux qualités et aux prix.
+Est assimilé à la publicité mensongère, tout message qui prête à équivoque ou qui donne une interprétation tendancieuse d’un texte réglementaire ou qui dénigre le produit d’un concurrent.

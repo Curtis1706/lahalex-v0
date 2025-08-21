@@ -1,0 +1,1 @@
+La responsabilité civile définie à l’article 263 de la présente loi ne peut être mise en œuvre lorsque les dégâts, dommages et faits causés sont le résultat d'un fait de guerre ou d'une catastrophe naturelle.

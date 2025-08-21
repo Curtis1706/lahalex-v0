@@ -1,0 +1,1 @@
+Le président peut faire dresser d’office ou à la requête du ministère public ou des parties, par le greffier, un procès-verbal des additions, changements ou variations qui existent entre la déposition d’un témoin et ses précédentes déclarations. Ce procès-verbal est joint au procès-verbal des débats.

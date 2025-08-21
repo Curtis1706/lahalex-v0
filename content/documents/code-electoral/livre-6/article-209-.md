@@ -1,0 +1,1 @@
+En vue de l'organisation des élections générales en 2026, le mandat des conseillers communaux élus en 2020, pour terme, la date d'entrée en fonction des conseillers communaux élus en 2026 à 00 H.

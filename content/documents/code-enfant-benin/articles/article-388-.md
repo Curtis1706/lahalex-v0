@@ -1,0 +1,3 @@
+Article 388 : Toute personne coupable d’enlèvement d’enfant est punie de un (01) an à cinq (05) ans d’emprisonnement et d’une amende de cinq cent mille (500 000) francs à un million (1 000 000) de francs CFA.
+Si l’enlèvement est fait par l’un des parents de l’enfant, la peine est la même que celle prévue dans le premier alinéa du présent article.
+Si l’enfant enlevé n’est retrouvé ou s’il est retrouvé mort, la personne coupable encourt la réclusion à perpétuité.

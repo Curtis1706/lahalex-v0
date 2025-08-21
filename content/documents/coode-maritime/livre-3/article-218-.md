@@ -1,0 +1,2 @@
+Tout contrat d’engagement conclu entre un marin et un armateur ou son représentant, et ayant pour objet un service à accomplir à bord d’un navire en vue d’une expédition maritime est un contrat d’engagement maritime régi par les dispositions du présent code et de ses textes d’application.
+Cependant, le contrat de louage de services conclu entre un armateur ou son représentant et un marin est régi, en dehors des périodes d’embarquement portées au rôle d’équipage, par les dispositions du droit commun.

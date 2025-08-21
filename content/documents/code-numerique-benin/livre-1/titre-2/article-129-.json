@@ -1,0 +1,15 @@
+{
+  "id": "article-129-",
+  "title": "Article 129 : Le Secrétariat exécutif",
+  "numero": "129 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-128-",
+    "next": "article-130-"
+  }
+}

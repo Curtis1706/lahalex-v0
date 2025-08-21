@@ -1,0 +1,2 @@
+L’acte doit contenir l’indication des jours, mois et année, soit en lettres, soit en chiffres.
+Toutefois, l’indication d’une date incomplète ou erronée n’entraîne pas la nullité, si la date véritable peut être établie avec précision à partir d’indications tirées de l’acte ou de présomptions qui les corroborent.

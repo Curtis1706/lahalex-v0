@@ -1,0 +1,3 @@
+L’outrage fait par gestes ou par menaces ou par envoi d’objets quelconques dans la même intention et visant un magistrat ou un juré dans l’exercice ou à l’occasion de l’exercice de ses fonctions, est puni d’un emprisonnement de un (01) mois à six (06) mois.
+Si l’outrage a eu lieu à l’audience d’une cour ou d’un tribunal, il est puni d’un emprisonnement de un (01) mois à deux (02) ans.
+Dans tous les cas, les coupables sont en outre condamnés à une amende de cinquante mille (50.000) à cinq cent cinquante mille (550.000) francs CFA.

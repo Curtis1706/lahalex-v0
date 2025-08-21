@@ -1,0 +1,15 @@
+{
+  "id": "article-23-",
+  "title": "Article 23 : Les complices d’un crime ou d’un délit sont punis de la même peine que les auteurs mêmes de ce crime ou de ce délit, sauf si la loi en dispose autrement.",
+  "numero": "23 ",
+  "document": "codepenalbenin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-22-",
+    "next": "article-24-"
+  }
+}

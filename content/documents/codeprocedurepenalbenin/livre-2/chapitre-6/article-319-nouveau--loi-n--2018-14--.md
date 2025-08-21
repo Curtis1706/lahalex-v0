@@ -1,0 +1,1 @@
+L’accusé, la partie civile et leurs avocats peuvent déposer des conclusions sur lesquelles le tribunal ou la cour est tenu de statuer.

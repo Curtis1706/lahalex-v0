@@ -1,0 +1,2 @@
+1) Le présent Livre fixe les procédures applicables aux impôts et taxes régis par le présent code.
+2) Ses dispositions ne font pas obstacle à l’application des dispositions relatives à l’assistance  administrative  mutuelle  incluses  dans  les  conventions  internationales  qui engagent le Bénin.

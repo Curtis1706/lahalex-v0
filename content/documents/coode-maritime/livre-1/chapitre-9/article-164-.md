@@ -1,0 +1,1 @@
+Le procès-verbal de saisie est communiqué à l’autorité maritime ainsi qu’à l’autorité consulaire de l’Etat dont le navire bat pavillon en poste en République du Bénin.

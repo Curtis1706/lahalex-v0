@@ -1,0 +1,2 @@
+Est déchu de plein droit de la qualité de membre de l'Assemblée nationale, celui dont l'inéligibilité est relevée après la proclamation des résultats de l'élection ou qui, pendant la durée de son mandat se trouve placé dans l'un des cas d'inéligibilité prévus par la présente loi.
+La déchéance est prononcée par la Cour constitutionnelle.

@@ -1,0 +1,2 @@
+Il est tenu dans les établissements hospitaliers ou formations sanitaires publics ou privés, un registre spécial sur lequel sont immédiatement inscrites, par ordre de date, les naissances qui y surviennent.
+La présentation de ce registre peut être exigée à tout moment par l’officier de l’état civil du lieu où est situé l’établissement, ainsi que par les autorités administratives qui y sont expressément autorisées par une disposition légale ou réglementaire ou par les autorités judiciaires.

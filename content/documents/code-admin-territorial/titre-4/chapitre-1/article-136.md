@@ -1,0 +1,1 @@
+Le secrétaire exécutif prend les mesures nécessaires pour un recouvrement optimal des recettes de la commune.

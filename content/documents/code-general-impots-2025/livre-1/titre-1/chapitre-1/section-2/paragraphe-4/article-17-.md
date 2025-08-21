@@ -1,0 +1,9 @@
+1) Par dérogation aux dispositions de l’article 9 et du paragraphe 3 de l’article 10 du présent code, les plus-values provenant de la cession, en cours d’exploitation, d’éléments de l’actif immobilisé, ne sont pas comprises dans le bénéfice imposable de l’exercice au cours duquel elles ont été réalisées, si dans la déclaration des résultats dudit exercice, le contribuable prend l’engagement de réinvestir en immobilisations dans ses entreprises en République du Bénin avant l’expiration d’un délai de trois (3) ans à partir de la clôture de l’exercice, une somme égale au montant de ces plus-values ajoutées au prix de revient des éléments cédés.
+Cet engagement de réinvestir est annexé à la déclaration des résultats de l’exercice au cours duquel les plus-values ont été réalisées et des exercices couverts par la période de réemploi.
+2) Pour l’application du paragraphe 1 du présent article :
+1) seules les immobilisations qui sont entrées dans le patrimoine de l’entreprise cinq (5) ans avant la date de la cession peuvent bénéficier de ce régime ;
+2) le  réemploi  ne  peut  pas  consister  en  l’acquisition  d’immobilisations  non
+amortissables ou en l’acquisition de biens meubles ou immeubles présentant un caractère somptuaire.
+3) Si le réemploi est effectué dans le délai prévu au paragraphe 1, les plus-values non
+imposées  sont  considérées  comme  affectées  à  l’amortissement  des  nouvelles immobilisations  et  viennent  en  déduction  du  prix  de  revient  pour  le  calcul  des amortissements et des plus-values réalisées ultérieurement. Dans le cas contraire, elles sont rapportées au bénéfice imposable de l’exercice au cours duquel a expiré le délai ci- dessus.
+Si le contribuable vient à cesser sa profession ou à céder son entreprise au cours du délai ci-dessus, les plus-values à réinvestir sont immédiatement taxées.

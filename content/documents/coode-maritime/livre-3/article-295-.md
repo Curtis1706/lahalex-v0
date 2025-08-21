@@ -1,0 +1,2 @@
+Le marin régulièrement inscrit qui aura fait l’objet d’une condamnation telle que définie à l’article 616 du présent code sera radié et définitivement exclu de la profession.
+Toute condamnation à une peine criminelle ou correctionnelle ayant entraîné une privation de liberté pour une durée supérieure à six (06) mois fait obstacle à l’attribution de la qualité de marin. 2 peut cependant être dérogé à cette règle, si la condamnation prononcée n’entache ni l’honneur, ni la probité.

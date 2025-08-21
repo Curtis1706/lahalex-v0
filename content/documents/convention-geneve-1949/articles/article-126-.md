@@ -1,0 +1,2 @@
+Les articles 71 à 76 inclus seront appliqués par analogie aux procédures en- Règles appli- gagées contre des internés se trouvant sur le territoire national de la Puis- cables en cas sances détentrice. de poursuites
+judiciaires

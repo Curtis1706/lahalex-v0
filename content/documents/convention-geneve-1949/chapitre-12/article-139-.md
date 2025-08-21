@@ -1,0 +1,4 @@
+Transmission Le Bureau national de renseignements sera, en outre, chargé de recueillir d’objets tous les objets personnels de valeur laissés par les personnes protégées visées
+personnels à l’article 136, lors notamment de leur rapatriement, libération, évasion ou décès, et de les transmettre aux intéressés directement, ou, si nécessaire, par
+l’entremise de l’a gence centrale. Ces objets seront envoyés dans des paquets scellés par le Bureau ; seront joints à ces paquets des déclarations établissant avec précision l’identité des personnes auxquelles ces objets appartenaient
+ainsi qu’un inventaire complet du paquet. La réception et l’envoi de tous les objets de valeur de ce genre seront consignés d’une manière détaillée dans des registres.

@@ -1,0 +1,2 @@
+Sauf convention contraire, le transfert des risques s’opère au moment de la délivrance.
+Dans la vente à l’embarquement, la délivrance a lieu au port de départ, à quai, le long du bord ; elle peut aussi avoir lieu à bord, sous hangar, sur wagon ou camion.

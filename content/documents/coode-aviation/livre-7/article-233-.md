@@ -1,0 +1,2 @@
+La responsabilité du transporteur aérien de marchandises est limitée à un montant fixé par voie réglementaire, conformément aux dispositions de la convention pour l'unification de certaines règles relatives au transport aérien international et de toute convention ou protocole la modifiant ou la complétant et applicable en République du Bénin.
+Toutefois, il est déchu de cette limitation de responsabilité en cas de fraude ou de faute inexcusable.

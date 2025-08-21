@@ -1,0 +1,2 @@
+La personne en curatelle peut librement tester, sauf application des dispositions relatives à la capacité de disposer et de recevoir prévues par le présent code.
+Elle ne peut faire donation qu’avec l’assistance de son curateur.

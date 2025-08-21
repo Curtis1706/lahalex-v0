@@ -1,0 +1,2 @@
+Le montant du cautionnement à verser par candidat titulaire aux élections législatives est de (05%) du montant maximum autorisé pour la campagne électorale. Le cautionnement total, par liste de candidats, est versé auprès du trésorier payeur du Bénin ou auprès d'un receveur-percepteur du trésor qui transmettra au trésorier-payeur.
+Ce cautionnement est remboursable aux partis politiques dont les limites auront recueilli dix pour cent (10%) au moins des suffrages exprimés sur l'ensemble du territoire national.

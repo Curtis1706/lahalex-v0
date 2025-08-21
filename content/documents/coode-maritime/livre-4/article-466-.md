@@ -1,0 +1,1 @@
+Sont avaries communes, les sacrifices faits et les dépenses extraordinaires, intentionnellement et raisonnablement encourues, après délibération motivée de l’équipage, pour le bien et le salut commun et pressant des intérêts engagés dans la même expédition maritime.

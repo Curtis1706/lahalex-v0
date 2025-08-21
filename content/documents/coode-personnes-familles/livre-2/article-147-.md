@@ -1,0 +1,4 @@
+Toutefois, l'action en nullité cesse d’être recevable :
+- pour vice de consentement, lorsqu’il y a eu cohabitation pendant six (6) mois depuis que l’époux a acquis sa pleine liberté ou que l’erreur a été par lui reconnue ;
+- pour défaut d’autorisation parentale, lorsque le mariage a été approuvé expressément ou tacitement par celui dont le consentement était nécessaire ou lorsque celui-ci, avant la majorité de l’époux, a laissé s’écouler une année sans exercer l’action alors qu’il avait connaissance du mariage, ou enfin si l’époux a atteint dix-neuf (19) ans révolus sans avoir fait de réclamation ;
+- en cas d’impuissance du mari non révélée ou de dissimulation de la maladie grave ou incurable de l'un des conjoints, lorsque la cohabitation s’est poursuivie pendant plus d’un an.

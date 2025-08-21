@@ -1,0 +1,1 @@
+Le recouvrement des impôts et taxes visés au présent code ne peut être poursuivi qu’en vertu d’un titre exécutoire.

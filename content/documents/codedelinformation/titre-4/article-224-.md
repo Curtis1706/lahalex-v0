@@ -1,0 +1,1 @@
+La licence d’exploitation n’est transférée partiellement ou intégralement à un tiers qu’avec l’autorisation préalable de l’autorité concédante.

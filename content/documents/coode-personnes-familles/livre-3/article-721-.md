@@ -1,0 +1,2 @@
+Le rapport en moins prenant est dû de la valeur du bien donné au moment du partage si le bien se trouve encore entre les mains de l’héritier.
+Si le bien a été aliéné avant le partage, on tiendra compte de la valeur qu'il avait à l’époque de l’aliénation et, si un nouveau bien a été subrogé au bien aliéné, de la valeur de ce nouveau bien à l’époque du partage ; le tout sauf stipulation contraire dans l’acte de donation.

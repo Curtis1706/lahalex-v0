@@ -1,0 +1,2 @@
+Lorsque, la vacance ayant été régulièrement déclarée, l’administration des domaines a été nommée curateur, elle peut, avant de former sa demande, procéder par elle-même aux formalités de publicité prévues à l'alinéa précédent.
+Dans tous les cas, il sera justifié de la publicité par la production des journaux dans lesquels elle aura été faite, et de l’affichage par un exemplaire du placard signé du directeur des domaines et revêtu de la certification du chef de la circonscription administrative du lieu d’ouverture de la succession.

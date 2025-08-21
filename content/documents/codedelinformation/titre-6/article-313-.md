@@ -1,0 +1,3 @@
+En cas de diffamation ou d’injure pendant la période électorale contre un candidat à une fonction élective, le délai prévu à l’article 312 de la présente loi est réduit à soixante-douze (72) heures non compris le délai de distance.
+Dans ce cas, les dispositions des articles 314 et 315 de la présente loi ne sont pas applicables.
+Toutefois, le prévenu peut être admis à rapporter devant le tribunal la preuve des faits qualifiés de diffamatoires. Il peut solliciter du tribunal toutes mesures d’instruction et faire convoquer tout témoin utile à sa défense.

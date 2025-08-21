@@ -1,0 +1,1 @@
+Si cette réquisition ou cet ordre a été suivi d’effet, la peine sera le maximum de la réclusion criminelle à temps prévue à l’article 373 ci-dessus.

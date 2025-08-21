@@ -1,0 +1,2 @@
+Respect des conventions et accords régionaux et internationaux
+Les opérateurs sont tenus de respecter les conventions ainsi que 	les accords régionaux et internationaux en matière de communications électroniques ratifiés par la République du Bénin.

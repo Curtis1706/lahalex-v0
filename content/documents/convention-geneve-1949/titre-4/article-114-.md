@@ -1,0 +1,1 @@
+Prisonniers Les prisonniers de guerre victimes d’accidents, à l’exception des blessés vo- victimes lontaires, seront mis, en ce qui concerne le rapatriement ou éventuellement d’accidents l’hospitalisation en pays neutre, au bénéfice des dispositions de la présente Convention.

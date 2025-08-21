@@ -1,0 +1,1 @@
+L'article 23 précédent est applicable aux Militaires des Forces Armées.

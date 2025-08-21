@@ -1,0 +1,3 @@
+Le compte administratif adopté par l’organe délibérant compétent, accompagné du compte de gestion, est transmis sous huitaine à l'autorité de tutelle après le délai limite fixé pour son adoption.
+Dans les trente (30) jours qui suivent la date de réception du compte administratif, l'autorité de tutelle assistée des représentants du ministère en charge des finances territorialement compétents donne son approbation ou la refuse.
+L'approbation est réputée acquise si aucune suite n'est donnée à l'issue de ce délai.

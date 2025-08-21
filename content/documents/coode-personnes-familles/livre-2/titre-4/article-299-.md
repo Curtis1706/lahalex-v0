@@ -1,0 +1,1 @@
+Qu'elle résulte de l’acte de naissance ou qu'elle ait été établie postérieurement en justice, la filiation produit effet dès la conception de l’enfant.

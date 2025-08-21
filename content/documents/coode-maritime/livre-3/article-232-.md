@@ -1,0 +1,3 @@
+Le capitaine rédige le journal de bord, coté et paraphé par le directeur de la marine marchande et veille à la bonne tenue des journaux de la machine et des radios télécommunications.
+Le journal de bord fait foi jusqu’à preuve du contraire des événements et des circonstances qui y sont relatés.
+Un acte réglementaire fixe les mentions devant obligatoirement figurer dans le journal de bord et dans le journal de la machine.

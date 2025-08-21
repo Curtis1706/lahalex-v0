@@ -1,0 +1,2 @@
+Article 333-8 : Sanctions en cas de liquidation des succursales des entreprises étrangères
+Les dispositions des articles 333-4 à 333-7 sont applicables lors de la liquidation de l’actif et du passif du bilan spécial des opérations d’une entreprise étrangère dont le siège social n’est pas sur le territoire d’un Etat membre.

@@ -1,0 +1,1 @@
+Le maire réunit au moins une fois tous les deux (02) mois ses adjoints et les chefs d'arrondissement dans le cadre de la gestion courante de la commune. Le secrétaire exécutif assiste à ces réunions. Ces réunions de concertation ne sont pas publiques. Toutefois, le maire peut y inviter les personnes dont la présence paraît utile.

@@ -1,0 +1,2 @@
+Article 310 : Ordonnance de paiement d'allocations
+Le jugement ou l’ordonnance qui accorde des allocations d’entretien à l’Etat ou le condamne à payer des allocations est notifié, par l’intermédiaire du ministère en charge de la justice, au directeur de la comptabilité publique.

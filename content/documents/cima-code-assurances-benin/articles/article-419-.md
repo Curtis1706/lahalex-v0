@@ -1,0 +1,4 @@
+Article 419 : Co-réassurance, comptabilisation (suite)
+Toute entreprise qui participe, à l’intérieur d’organismes communs, à des opérations de compensation, de répartition ou de co-réassurance doit comptabiliser en assurances directes l’intégralité des affaires souscrites directement par elle.
+Elle doit ensuite comptabiliser la part non conservée par elle sur ses propres souscriptions comme cession d’affaires directes, et enregistrer la part qui lui revient dans les affaires apportées à l’association par les autres entreprises adhérentes comme acceptations. Toutefois, elle peut, avec l’accord de la Commission de Contrôle des Assurances, utiliser toute autre méthode évitant la duplication des primes.
+Les entreprises participant à l’organisme commun doivent être en mesure de justifier les résultats du groupement ou de l’association.

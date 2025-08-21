@@ -1,0 +1,2 @@
+Violation de l’obligation de communication des caractéristiques techniques
+Est puni d’un emprisonnement de six (06) mois à deux (02) ans et d’une amende de cinq cent mille (500 000) francs CFA à deux millions (2 000 000) de francs CFA ou de l’une de ces deux peines seulement, quiconque n’aura pas satisfait à l’obligation de communication à la Commission Cryptologie d’une description des caractéristiques techniques du moyen de cryptologie dans les conditions prévues par les dispositions du présent chapitre et de ses textes d’application.

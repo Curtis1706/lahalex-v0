@@ -1,0 +1,3693 @@
+{
+  "id": "code-enfant-benin",
+  "title": "Code de l’Enfant en République du Bénin",
+  "type": "codes",
+  "description": "Code regroupant l’ensemble des dispositions légales relatives aux droits, à la protection et au bien-être de l’enfant en République du Bénin.",
+  "structure": {
+    "sections": [
+      {
+        "id": "article-1er-",
+        "title": "Article 1er : Objet",
+        "type": "article",
+        "level": 1,
+        "order": 0,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-2-",
+        "title": "Article 2 : Définition de l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 1,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-3-",
+        "title": "Article 3 : Définition des termes et concepts essentiels",
+        "type": "article",
+        "level": 1,
+        "order": 2,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-4-",
+        "title": "Article 4 : Inviolabilité de la personne de l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 3,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-5-",
+        "title": "Article 5 : Identification de l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 4,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-6-",
+        "title": "Article 6 : Relation enfant et parents",
+        "type": "article",
+        "level": 1,
+        "order": 5,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-7-",
+        "title": "Article 7 : Principe de non-discrimination",
+        "type": "article",
+        "level": 1,
+        "order": 6,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-8-",
+        "title": "Article 8 : Intérêt supérieur de l’enfant",
+        "type": "article",
+        "level": 1,
+        "order": 7,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-9-",
+        "title": "Article 9 : Respect de l’opinion de l’enfant",
+        "type": "article",
+        "level": 1,
+        "order": 8,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-10-",
+        "title": "Article 10 : Action de prévention",
+        "type": "article",
+        "level": 1,
+        "order": 9,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-11-",
+        "title": "Article 11 : Priorité du milieu familial",
+        "type": "article",
+        "level": 1,
+        "order": 10,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-12-",
+        "title": "Article 12 : Responsabilité du civilement responsable de l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 11,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-13-",
+        "title": "Article 13 : Egalité des enfants",
+        "type": "article",
+        "level": 1,
+        "order": 12,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-14-",
+        "title": "Article 14 : Principe de sauvegarde extrajudiciaire",
+        "type": "article",
+        "level": 1,
+        "order": 13,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-15-",
+        "title": "Article 15 : Valeur citoyenne",
+        "type": "article",
+        "level": 1,
+        "order": 14,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-16-",
+        "title": "Article 16 : Droit à la vie et au développement",
+        "type": "article",
+        "level": 1,
+        "order": 15,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-17-",
+        "title": "Article 17 : Droits élémentaires reconnus à l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 16,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-18-",
+        "title": "Article 18 : Autres droits de l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 17,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-19-",
+        "title": "Article 19 : Droit à la déclaration de naissance",
+        "type": "article",
+        "level": 1,
+        "order": 18,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-20-",
+        "title": "Article 20 : Droit à la santé",
+        "type": "article",
+        "level": 1,
+        "order": 19,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-21-",
+        "title": "Article 21 : Droit à un milieu familial",
+        "type": "article",
+        "level": 1,
+        "order": 20,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-22-",
+        "title": "Article 22 : Droit au domicile",
+        "type": "article",
+        "level": 1,
+        "order": 21,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-23-",
+        "title": "Article 23 : Droit à la nationalité",
+        "type": "article",
+        "level": 1,
+        "order": 22,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-24-",
+        "title": "Article 24 : Droit au bien-être",
+        "type": "article",
+        "level": 1,
+        "order": 23,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-25-",
+        "title": "Article 25 : Droit à l'identité",
+        "type": "article",
+        "level": 1,
+        "order": 24,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-26-",
+        "title": "Article 26 : Liberté d'expression",
+        "type": "article",
+        "level": 1,
+        "order": 25,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-27-",
+        "title": "Article 27 : Liberté de pensée, de conscience et de religion",
+        "type": "article",
+        "level": 1,
+        "order": 26,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-28-",
+        "title": "Article 28 : Liberté d’association et de réunion",
+        "type": "article",
+        "level": 1,
+        "order": 27,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-29-",
+        "title": "Article 29 : Droit à l'opinion",
+        "type": "article",
+        "level": 1,
+        "order": 28,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-30-",
+        "title": "Article 30 : Droit à la protection spéciale",
+        "type": "article",
+        "level": 1,
+        "order": 29,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-31-",
+        "title": "Article 31 : Droit aux renseignements sur la situation des parents",
+        "type": "article",
+        "level": 1,
+        "order": 30,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-32-",
+        "title": "Article 32 : Droit à la réunification familiale",
+        "type": "article",
+        "level": 1,
+        "order": 31,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-33-",
+        "title": "Article 33 : Droit à l'assistance sociale",
+        "type": "article",
+        "level": 1,
+        "order": 32,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-34-",
+        "title": "Article 34 : Devoir de déclarer la naissance de l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 33,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-35-",
+        "title": "Article 35 : Devoir de nourrir l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 34,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-36-",
+        "title": "Article 36 : Devoir d'éduquer l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 35,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-37-",
+        "title": "Article 37 : Devoir de guider l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 36,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-38-",
+        "title": "Article 38 : Devoir de fournir des conseils à l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 37,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-39-",
+        "title": "Article 39 : Administration de la discipline familiale",
+        "type": "article",
+        "level": 1,
+        "order": 38,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-40-",
+        "title": "Article 40 : Déclaration de naissance",
+        "type": "article",
+        "level": 1,
+        "order": 39,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-41-",
+        "title": "Article 41 : Informations sur l'enfant en difficulté",
+        "type": "article",
+        "level": 1,
+        "order": 40,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-42-",
+        "title": "Article 42 : Obligations sociales de l'Etat",
+        "type": "article",
+        "level": 1,
+        "order": 41,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-43-",
+        "title": "Article 43 : Responsabilités civiles de l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 42,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-44-",
+        "title": "Article 44 : Obligations de l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 43,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-45-",
+        "title": "Article 45 : Règles d'organisation",
+        "type": "article",
+        "level": 1,
+        "order": 44,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-46-",
+        "title": "Article 46 : Filiation légitime",
+        "type": "article",
+        "level": 1,
+        "order": 45,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-47-",
+        "title": "Article 47 : Filiation naturelle",
+        "type": "article",
+        "level": 1,
+        "order": 46,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-48-",
+        "title": "Article 48 : Possession d’état",
+        "type": "article",
+        "level": 1,
+        "order": 47,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-49-",
+        "title": "Article 49 : Les conflits de lois relatives à la filiation",
+        "type": "article",
+        "level": 1,
+        "order": 48,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-50-",
+        "title": "Article 50 : Prescription des actions relatives à la filiation",
+        "type": "article",
+        "level": 1,
+        "order": 49,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-51-",
+        "title": "Article 51 : Règlementation",
+        "type": "article",
+        "level": 1,
+        "order": 50,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-52-",
+        "title": "Article 52 : Raison de l’assistance médicale à la procréation",
+        "type": "article",
+        "level": 1,
+        "order": 51,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-53-",
+        "title": "Article 53 : Conditions d’autorisation",
+        "type": "article",
+        "level": 1,
+        "order": 52,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-54-",
+        "title": "Article 54 : Tiers donneur",
+        "type": "article",
+        "level": 1,
+        "order": 53,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-55-",
+        "title": "Article 55 : Critères médicaux de choix du donneur",
+        "type": "article",
+        "level": 1,
+        "order": 54,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-56-",
+        "title": "Article 56 : Clauses de l’assistance médicale à la procréation",
+        "type": "article",
+        "level": 1,
+        "order": 55,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-57-",
+        "title": "Article 57 : Protection de la filiation de l’enfant issu de l’assistance médicale à la procréation",
+        "type": "article",
+        "level": 1,
+        "order": 56,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-58-",
+        "title": "Article 58 : Conséquences du consentement des époux",
+        "type": "article",
+        "level": 1,
+        "order": 57,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-59-",
+        "title": "Article 59 : Maternité par pratique de mère porteuse",
+        "type": "article",
+        "level": 1,
+        "order": 58,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-60-",
+        "title": "Article 60 : Interdiction des autres méthodes d’assistance médicale à la procréation",
+        "type": "article",
+        "level": 1,
+        "order": 59,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-61-",
+        "title": "Article 61 : Interdiction de production d’embryons à des fins commerciales",
+        "type": "article",
+        "level": 1,
+        "order": 60,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-62-",
+        "title": "Article 62 : Nature et statut juridique de l'adoption",
+        "type": "article",
+        "level": 1,
+        "order": 61,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-63-",
+        "title": "Article 63 : Raisons et Intérêts de l'adoption",
+        "type": "article",
+        "level": 1,
+        "order": 62,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-64-",
+        "title": "Article 64 : Enfants concernés par l'adoption",
+        "type": "article",
+        "level": 1,
+        "order": 63,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-65-",
+        "title": "Article 65 : Conditions de l'adoption",
+        "type": "article",
+        "level": 1,
+        "order": 64,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-66-",
+        "title": "Article 66 : Nature juridique",
+        "type": "article",
+        "level": 1,
+        "order": 65,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-67-",
+        "title": "Article 67 : Consentement parental",
+        "type": "article",
+        "level": 1,
+        "order": 66,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-68-",
+        "title": "Article 68 : Avis à consentement du conseil de famille",
+        "type": "article",
+        "level": 1,
+        "order": 67,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-69-",
+        "title": "Article 69 : Cas de refus abusif de consentement",
+        "type": "article",
+        "level": 1,
+        "order": 68,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-70-",
+        "title": "Article 70 : Acte légal de consentement",
+        "type": "article",
+        "level": 1,
+        "order": 69,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-71-",
+        "title": "Article 71 : Rétractation du consentement",
+        "type": "article",
+        "level": 1,
+        "order": 70,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-72-",
+        "title": "Article 72 : Restitution de l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 71,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-73-",
+        "title": "Article 73 : Requête aux fins d’adoption",
+        "type": "article",
+        "level": 1,
+        "order": 72,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-74-",
+        "title": "Article 74 : Placement de l'enfant en vue de l'adoption",
+        "type": "article",
+        "level": 1,
+        "order": 73,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-75-",
+        "title": "Article 75 : Cessation du placement",
+        "type": "article",
+        "level": 1,
+        "order": 74,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-76-",
+        "title": "Article 76 : Instruction de la demande",
+        "type": "article",
+        "level": 1,
+        "order": 75,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-77-",
+        "title": "Article 77 : Jugement aux fins d'adoption",
+        "type": "article",
+        "level": 1,
+        "order": 76,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-78-",
+        "title": "Article 78 : Expédition de l'ordonnance d'adoption",
+        "type": "article",
+        "level": 1,
+        "order": 77,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-79-",
+        "title": "Article 79 : Délai d'appel contre jugement",
+        "type": "article",
+        "level": 1,
+        "order": 78,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-80-",
+        "title": "Article 80 : Recevabilité de l'action d'opposition à jugement",
+        "type": "article",
+        "level": 1,
+        "order": 79,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-81-",
+        "title": "Article 81 : Transcription des nouvelles données de l'adopté",
+        "type": "article",
+        "level": 1,
+        "order": 80,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-82-",
+        "title": "Article 82 : Effets de l'adoption",
+        "type": "article",
+        "level": 1,
+        "order": 81,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-83-",
+        "title": "Article 83 : Prohibitions de l'adoption",
+        "type": "article",
+        "level": 1,
+        "order": 82,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-84-",
+        "title": "Article 84 : Nature de l'adoption simple",
+        "type": "article",
+        "level": 1,
+        "order": 83,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-85-",
+        "title": "Article 85 : Dispositions applicables à l’adoption simple",
+        "type": "article",
+        "level": 1,
+        "order": 84,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-86-",
+        "title": "Article 86 : Conditions spécifiques",
+        "type": "article",
+        "level": 1,
+        "order": 85,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-87-",
+        "title": "Article 87 : Conséquences de l'adoption simple",
+        "type": "article",
+        "level": 1,
+        "order": 86,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-88-",
+        "title": "Article 88 : Effets de l'adoption simple",
+        "type": "article",
+        "level": 1,
+        "order": 87,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-89-",
+        "title": "Article 89 : Exclusion de vocation successorale",
+        "type": "article",
+        "level": 1,
+        "order": 88,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-90-",
+        "title": "Article 90 : Nullité de droit de succession",
+        "type": "article",
+        "level": 1,
+        "order": 89,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-91-",
+        "title": "Article 91 : Jouissance de droit de succession",
+        "type": "article",
+        "level": 1,
+        "order": 90,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-92-",
+        "title": "Article 92 : Acquisition du droit de l'autorité parentale",
+        "type": "article",
+        "level": 1,
+        "order": 91,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-93-",
+        "title": "Article 93 : Révocation de l'adoption",
+        "type": "article",
+        "level": 1,
+        "order": 92,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-94-",
+        "title": "Article 94 : Conséquences de la révocation",
+        "type": "article",
+        "level": 1,
+        "order": 93,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-95-",
+        "title": "Article 95 : Nature de la relation entre l'adopté et l'adoptant",
+        "type": "article",
+        "level": 1,
+        "order": 94,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-96-",
+        "title": "Article 96 : Qualités des requérants à une adoption plénière",
+        "type": "article",
+        "level": 1,
+        "order": 95,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-97-",
+        "title": "Article 97 : Conditions requises à l'adoptant",
+        "type": "article",
+        "level": 1,
+        "order": 96,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-98-",
+        "title": "Article 98 : Unicité de l'adoptant",
+        "type": "article",
+        "level": 1,
+        "order": 97,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-99-",
+        "title": "Article 99 : Relation entre l'adopté et l'adoptant",
+        "type": "article",
+        "level": 1,
+        "order": 98,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-100-",
+        "title": "Article 100 : Conditions spécifiques de l’adoption internationale",
+        "type": "article",
+        "level": 1,
+        "order": 99,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-101-",
+        "title": "Article 101 : Conditions d'autorisation",
+        "type": "article",
+        "level": 1,
+        "order": 100,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-102-",
+        "title": "Article 102 : Documents requis pour l’adoption internationale",
+        "type": "article",
+        "level": 1,
+        "order": 101,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-103-",
+        "title": "Article 103 : Condition supplémentaire pour un requérant béninois",
+        "type": "article",
+        "level": 1,
+        "order": 102,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-104-",
+        "title": "Article 104 : Critères d'admission d'un adoptant international",
+        "type": "article",
+        "level": 1,
+        "order": 103,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-105-",
+        "title": "Article 105 : Création de l'Autorité centrale",
+        "type": "article",
+        "level": 1,
+        "order": 104,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-106-",
+        "title": "Article 106 : Mission de l’Autorité centrale",
+        "type": "article",
+        "level": 1,
+        "order": 105,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-107-",
+        "title": "Article 107 : Composition de l’Autorité centrale",
+        "type": "article",
+        "level": 1,
+        "order": 106,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-108-",
+        "title": "Article 108 : Pouvoirs de l’Autorité centrale",
+        "type": "article",
+        "level": 1,
+        "order": 107,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-109-",
+        "title": "Article 109 : Agrément des organismes",
+        "type": "article",
+        "level": 1,
+        "order": 108,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-110-",
+        "title": "Article 110 : Fonctionnement de l’Autorité centrale",
+        "type": "article",
+        "level": 1,
+        "order": 109,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-111-",
+        "title": "Article 111 : Nomination des membres",
+        "type": "article",
+        "level": 1,
+        "order": 110,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-112-",
+        "title": "Article 112 : Responsabilité de l'Etat",
+        "type": "article",
+        "level": 1,
+        "order": 111,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-113-",
+        "title": "Article 113 : Obligation de la scolarisation",
+        "type": "article",
+        "level": 1,
+        "order": 112,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-114-",
+        "title": "Article 114 : Gratuité des enseignements maternel et primaire",
+        "type": "article",
+        "level": 1,
+        "order": 113,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-115-",
+        "title": "Article 115 : Interdiction de prendre la contribution",
+        "type": "article",
+        "level": 1,
+        "order": 114,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-116-",
+        "title": "Article 116 : Obligation de terminer les cours moyens",
+        "type": "article",
+        "level": 1,
+        "order": 115,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-117-",
+        "title": "Article 117 : Orientation professionnelle",
+        "type": "article",
+        "level": 1,
+        "order": 116,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-118-",
+        "title": "Article 118 : Formation à l'organisation et la discipline",
+        "type": "article",
+        "level": 1,
+        "order": 117,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-119-",
+        "title": "Article 119 : Interdiction de châtiments",
+        "type": "article",
+        "level": 1,
+        "order": 118,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-120-",
+        "title": "Article 120 : Interdiction de poursuite pour fait de dénonciation",
+        "type": "article",
+        "level": 1,
+        "order": 119,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-121-",
+        "title": "Article 121 : Assistance sociale aux parents démunis",
+        "type": "article",
+        "level": 1,
+        "order": 120,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-122-",
+        "title": "Article 122 : Catégories d'indigents",
+        "type": "article",
+        "level": 1,
+        "order": 121,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-123-",
+        "title": "Article 123 : Accompagnement psychosocial des indigents",
+        "type": "article",
+        "level": 1,
+        "order": 122,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-124-",
+        "title": "Article 124 : Pratique de divertissements",
+        "type": "article",
+        "level": 1,
+        "order": 123,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-125-",
+        "title": "Article 125 : Jouissance de repos",
+        "type": "article",
+        "level": 1,
+        "order": 124,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-126-",
+        "title": "Article 126 : Obligations des structures de formation",
+        "type": "article",
+        "level": 1,
+        "order": 125,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-127-",
+        "title": "Article 127 : Obligation d'écoute",
+        "type": "article",
+        "level": 1,
+        "order": 126,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-128-",
+        "title": "Article 128 : Obligations de l'Etat et des collectivités locales",
+        "type": "article",
+        "level": 1,
+        "order": 127,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-129-",
+        "title": "Article 129 : Droit à la protection",
+        "type": "article",
+        "level": 1,
+        "order": 128,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-130-",
+        "title": "Article 130 : Châtiments corporels",
+        "type": "article",
+        "level": 1,
+        "order": 129,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-131-",
+        "title": "Article 131 : Organisation des soins de santé primaires",
+        "type": "article",
+        "level": 1,
+        "order": 130,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-132-",
+        "title": "Article 132 : Institutions de protection de l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 131,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-133-",
+        "title": "Article 133 : Centres d’accueil et de protection de l’enfant",
+        "type": "article",
+        "level": 1,
+        "order": 132,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-134-",
+        "title": "Article 134 : Cadre de concertation pour la protection de l’enfant",
+        "type": "article",
+        "level": 1,
+        "order": 133,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-135-",
+        "title": "Article 135 : Centres de sauvegarde de l’enfance et de l’adolescence",
+        "type": "article",
+        "level": 1,
+        "order": 134,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-136-",
+        "title": "Article 136 : Familles nourricières ou familles hôtes",
+        "type": "article",
+        "level": 1,
+        "order": 135,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-137-",
+        "title": "Article 137 : Centres de désintoxication",
+        "type": "article",
+        "level": 1,
+        "order": 136,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-138-",
+        "title": "Article 138 : Service social de la justice",
+        "type": "article",
+        "level": 1,
+        "order": 137,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-139-",
+        "title": "Article 139 : Mesures de garantie de l'Etat",
+        "type": "article",
+        "level": 1,
+        "order": 138,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-140-",
+        "title": "Article 140 : Conception de l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 139,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-141-",
+        "title": "Article 141 : Reconnaissance de l'enfant conçu",
+        "type": "article",
+        "level": 1,
+        "order": 140,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-142-",
+        "title": "Article 142 : Protection de l'enfant conçu",
+        "type": "article",
+        "level": 1,
+        "order": 141,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-143-",
+        "title": "Article 143 : Consultations prénatales",
+        "type": "article",
+        "level": 1,
+        "order": 142,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-144-",
+        "title": "Article 144 : Vaccinations",
+        "type": "article",
+        "level": 1,
+        "order": 143,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-145-",
+        "title": "Article 145 : Avortement de grossesse",
+        "type": "article",
+        "level": 1,
+        "order": 144,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-146-",
+        "title": "Article 146 : Autorisation d'avortement",
+        "type": "article",
+        "level": 1,
+        "order": 145,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-147-",
+        "title": "Article 147 : Déclaration de naissance",
+        "type": "article",
+        "level": 1,
+        "order": 146,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-148-",
+        "title": "Article 148 : Nom de l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 147,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-149-",
+        "title": "Article 149 : Protection de l'identité de l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 148,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-150-",
+        "title": "Article 150 : Les maladies des enfants",
+        "type": "article",
+        "level": 1,
+        "order": 149,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-151-",
+        "title": "Article 151 : Pratiques malsaines",
+        "type": "article",
+        "level": 1,
+        "order": 150,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-152-",
+        "title": "Article 152 : Obligations sociales de l'Etat",
+        "type": "article",
+        "level": 1,
+        "order": 151,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-153-",
+        "title": "Article 153 : Responsabilités de l'Etat en matière de la santé de la mère et de l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 152,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-154-",
+        "title": "Article 154 : Accès aux soins de santé primaires",
+        "type": "article",
+        "level": 1,
+        "order": 153,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-155-",
+        "title": "Article 155 : Infections avilissantes",
+        "type": "article",
+        "level": 1,
+        "order": 154,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-156-",
+        "title": "Article 156 : Santé de la reproduction de l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 155,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-157-",
+        "title": "Article 157 : Sécurité et assurances sociales",
+        "type": "article",
+        "level": 1,
+        "order": 156,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-158-",
+        "title": "Article 158 : Interdiction des formes de harcèlement",
+        "type": "article",
+        "level": 1,
+        "order": 157,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-159-",
+        "title": "Article 159 : Déplacement à l'intérieur du territoire national",
+        "type": "article",
+        "level": 1,
+        "order": 158,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-160-",
+        "title": "Article 160 : Clauses d'accueil de l'enfant et déclaration administrative",
+        "type": "article",
+        "level": 1,
+        "order": 159,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-161-",
+        "title": "Article 161 : Déplacement à l'extérieur du territoire",
+        "type": "article",
+        "level": 1,
+        "order": 160,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-162-",
+        "title": "Article 162 : Immigration d'un enfant",
+        "type": "article",
+        "level": 1,
+        "order": 161,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-163-",
+        "title": "Article 163 : Conditions de circulation de l'enfant immigré accompagné",
+        "type": "article",
+        "level": 1,
+        "order": 162,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-164-",
+        "title": "Article 164 : Pouvoirs des autorités publiques",
+        "type": "article",
+        "level": 1,
+        "order": 163,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-165-",
+        "title": "Article 165 : Autorisation de sortie",
+        "type": "article",
+        "level": 1,
+        "order": 164,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-166-",
+        "title": "Article 166 : Requête de l'identité de l'enfant Toute personne qui accompagne un enfant doit présenter aux services compétents un document établissant l’identité de l’enfant et le lien qui les unit.",
+        "type": "article",
+        "level": 1,
+        "order": 165,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-167-",
+        "title": "Article 167 : Remise aux parents",
+        "type": "article",
+        "level": 1,
+        "order": 166,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-168-",
+        "title": "Article 168 : Mesures particulières de protection de l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 167,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-169-",
+        "title": "Article 169 : Catégories des enfants en situation difficile",
+        "type": "article",
+        "level": 1,
+        "order": 168,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-170-",
+        "title": "Article 170 : Droit à la scolarisation des enfants enceintes",
+        "type": "article",
+        "level": 1,
+        "order": 169,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-171-",
+        "title": "Article 171 : Nature des situations d'abandon de l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 170,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-172-",
+        "title": "Article 172 : Nature des situations de l'enfant abandonné",
+        "type": "article",
+        "level": 1,
+        "order": 171,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-173-",
+        "title": "Article 173 : Responsabilité civile du citoyen",
+        "type": "article",
+        "level": 1,
+        "order": 172,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-174-",
+        "title": "Article 174 : Responsabilité de l'Etat face à l'enfance malheureuse",
+        "type": "article",
+        "level": 1,
+        "order": 173,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-175-",
+        "title": "Article 175 : Droit à une vie décente",
+        "type": "article",
+        "level": 1,
+        "order": 174,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-176-",
+        "title": "Article 176 : Jouissance des droits humains",
+        "type": "article",
+        "level": 1,
+        "order": 175,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-177-",
+        "title": "Article 177 : Prise en charge de l'enfant handicapé",
+        "type": "article",
+        "level": 1,
+        "order": 176,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-178-",
+        "title": "Article 178 : Prévention de l’handicap chez l'enfant et responsabilités de l’Etat",
+        "type": "article",
+        "level": 1,
+        "order": 177,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-179-",
+        "title": "Article 179 : Interdiction de la mendicité de l’enfant",
+        "type": "article",
+        "level": 1,
+        "order": 178,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-180-",
+        "title": "Article 180 : Grossesse chez l'enfant mineur de sexe féminin",
+        "type": "article",
+        "level": 1,
+        "order": 179,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-181-",
+        "title": "Article 181 : Pratique de mariage précoce ou de mariage forcé",
+        "type": "article",
+        "level": 1,
+        "order": 180,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-182-",
+        "title": "Article 182 : Interdiction de production, de détention et de consommation de stupéfiants",
+        "type": "article",
+        "level": 1,
+        "order": 181,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-183-",
+        "title": "Article 183 : Responsabilités de l'Etat",
+        "type": "article",
+        "level": 1,
+        "order": 182,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-184-",
+        "title": "Article 184 : Interdiction de rituels et cérémonies dangereuses",
+        "type": "article",
+        "level": 1,
+        "order": 183,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-185-",
+        "title": "Article 185 : Interdiction de toutes formes de mutilation sexuelle",
+        "type": "article",
+        "level": 1,
+        "order": 184,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-186-",
+        "title": "Article 186 : Opérations chirurgicales des organes génitaux",
+        "type": "article",
+        "level": 1,
+        "order": 185,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-187-",
+        "title": "Article 187 : Obligation de dénoncer les pratiques de mutilation sexuelle",
+        "type": "article",
+        "level": 1,
+        "order": 186,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-188-",
+        "title": "Article 188 : Prise en charge des enfants victimes de mutilation sexuelle",
+        "type": "article",
+        "level": 1,
+        "order": 187,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-189-",
+        "title": "Article 189 : Viol",
+        "type": "article",
+        "level": 1,
+        "order": 188,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-190-",
+        "title": "Article 190 : Abus sexuels",
+        "type": "article",
+        "level": 1,
+        "order": 189,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-191-",
+        "title": "Article 191 : Exploitation sexuelle",
+        "type": "article",
+        "level": 1,
+        "order": 190,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-192-",
+        "title": "Article 192 : Pédopornographie",
+        "type": "article",
+        "level": 1,
+        "order": 191,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-193-",
+        "title": "Article 193 : Pédophilie",
+        "type": "article",
+        "level": 1,
+        "order": 192,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-194-",
+        "title": "Article 194 : Zoophilie",
+        "type": "article",
+        "level": 1,
+        "order": 193,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-195-",
+        "title": "Article 195 : Prohibition des dérives sectaires",
+        "type": "article",
+        "level": 1,
+        "order": 194,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-196-",
+        "title": "Article 196 : Interdiction d’associer l’enfant aux pratiques amorales et inhumaines",
+        "type": "article",
+        "level": 1,
+        "order": 195,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-197-",
+        "title": "Article 197 : Interdiction de diffusion des messages à effets sectaires",
+        "type": "article",
+        "level": 1,
+        "order": 196,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-198-",
+        "title": "Article 198 : Interdiction de torture",
+        "type": "article",
+        "level": 1,
+        "order": 197,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-199-",
+        "title": "Article 199 : Traitements cruels et inhumains Les traitements cruels, inhumains ou dégradants sont définis comme tous actes visant la soumission de l’enfant à des actes de brutalité, de privation ou de séquestration susceptibles de porter atteinte à sa santé physique ou mentale ou à son équilibre affectif et psychologique.",
+        "type": "article",
+        "level": 1,
+        "order": 198,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-200-",
+        "title": "Article 200 : Interdiction de vente d’enfant",
+        "type": "article",
+        "level": 1,
+        "order": 199,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-201-",
+        "title": "Article 201 : Interdiction de traite d’enfant",
+        "type": "article",
+        "level": 1,
+        "order": 200,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-202-",
+        "title": "Article 202 : Interdiction de mise en gage d’enfant",
+        "type": "article",
+        "level": 1,
+        "order": 201,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-203-",
+        "title": "Article 203 : L’exploitation d’enfant",
+        "type": "article",
+        "level": 1,
+        "order": 202,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-204-",
+        "title": "Article 204 : Proscription d’implication des enfants dans les conflits armés",
+        "type": "article",
+        "level": 1,
+        "order": 203,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-205-",
+        "title": "Article 205 : Responsabilités de l'Etat",
+        "type": "article",
+        "level": 1,
+        "order": 204,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-206-",
+        "title": "Article 206 : Réintégration sociale de l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 205,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-207-",
+        "title": "Article 207 : Droit des enfants sortis de prison",
+        "type": "article",
+        "level": 1,
+        "order": 206,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-208-",
+        "title": "Article 208 : Responsabilité civile",
+        "type": "article",
+        "level": 1,
+        "order": 207,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-209-",
+        "title": "Article 209 : Responsabilités de l'Etat",
+        "type": "article",
+        "level": 1,
+        "order": 208,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-210-",
+        "title": "Article 210 : Interdiction d'exploitation de l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 209,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-211-",
+        "title": "Article 211 : Interdiction d’entrave à l’éducation Sans préjudice pour son emploi, l’enfant conserve le droit de poursuivre ses études au moins jusqu’à l’âge de dix-huit (18) ans.",
+        "type": "article",
+        "level": 1,
+        "order": 210,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-212-",
+        "title": "Article 212 : Interdiction de certaines formes de travaux",
+        "type": "article",
+        "level": 1,
+        "order": 211,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-213-",
+        "title": "Article 213 : Délai horaire de travail de l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 212,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-214-",
+        "title": "Article 214 : Interdiction du travail de nuit",
+        "type": "article",
+        "level": 1,
+        "order": 213,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-215-",
+        "title": "Article 215 : Interdiction de discrimination",
+        "type": "article",
+        "level": 1,
+        "order": 214,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-216-",
+        "title": "Article 216 : Interdiction d'utiliser les enfants pour la vente",
+        "type": "article",
+        "level": 1,
+        "order": 215,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-217-",
+        "title": "Article 217 : Obligations de la famille d'accueil",
+        "type": "article",
+        "level": 1,
+        "order": 216,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-218-",
+        "title": "Article 218 : Droits de l'enfant placé",
+        "type": "article",
+        "level": 1,
+        "order": 217,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-219-",
+        "title": "Article 219 : Obligation de scolariser l'enfant placé",
+        "type": "article",
+        "level": 1,
+        "order": 218,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-220-",
+        "title": "Article 220 : Interdiction de châtiment corporel",
+        "type": "article",
+        "level": 1,
+        "order": 219,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-221",
+        "title": "Article 221: Situations d'inadaptation de “l'enfant placé”",
+        "type": "article",
+        "level": 1,
+        "order": 220,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-222-",
+        "title": "Article 222 : Statut civil de l'enfant apprenti",
+        "type": "article",
+        "level": 1,
+        "order": 221,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-223-",
+        "title": "Article 223 : Conditions d'admission en apprentissage de l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 222,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-224-",
+        "title": "Article 224 : Contrat d'apprentissage",
+        "type": "article",
+        "level": 1,
+        "order": 223,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-225-",
+        "title": "Article 225 : Clauses d'âge entre l'apprenti et le formateur",
+        "type": "article",
+        "level": 1,
+        "order": 224,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-226-",
+        "title": "Article 226 : Réquisition de l’inspecteur du travaiLes maîtres artisans, les patrons ou patronnes d’atelier , les chefs de chantier ou d’entreprise sont tenus de justifier à toute réquisition de l’inspecteur du travail, du contrat d’apprentissage signé avec les parents des enfants apprentis dont les noms figurent sur la liste de l’inspecteur du travail, aux fins de contrôle des dates de naissance des enfants apprentis, en formation dans leur structure.",
+        "type": "article",
+        "level": 1,
+        "order": 225,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-227-",
+        "title": "Article 227 : Conditions d'emploi de l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 226,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-228-",
+        "title": "Article 228 : Frais d'examen du médecin",
+        "type": "article",
+        "level": 1,
+        "order": 227,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-229-",
+        "title": "Article 229 : Structures judiciaires pour enfants",
+        "type": "article",
+        "level": 1,
+        "order": 228,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-230-",
+        "title": "Article 230 : Juge des enfants",
+        "type": "article",
+        "level": 1,
+        "order": 229,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-231-",
+        "title": "Article 231 : Saisine du juge des enfants",
+        "type": "article",
+        "level": 1,
+        "order": 230,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-232-",
+        "title": "Article 232 : Intérêt supérieur de l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 231,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-233-",
+        "title": "Article 233 : Compétences du juge des enfants",
+        "type": "article",
+        "level": 1,
+        "order": 232,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-234-",
+        "title": "Article 234 : Droit d'être entendu",
+        "type": "article",
+        "level": 1,
+        "order": 233,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-235-",
+        "title": "Article 235 : Audition de l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 234,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-236-",
+        "title": "Article 236 : Constitution de la responsabilité pénale de l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 235,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-237-",
+        "title": "Article 237 : Tribunaux de jugement de l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 236,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-238-",
+        "title": "Article 238 : Autorité de saisine du juge",
+        "type": "article",
+        "level": 1,
+        "order": 237,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-239-",
+        "title": "Article 239 : Mise en œuvre de l'action civile",
+        "type": "article",
+        "level": 1,
+        "order": 238,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-240-",
+        "title": "Article 240 : But de la médiation pénale",
+        "type": "article",
+        "level": 1,
+        "order": 239,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-241-",
+        "title": "Article 241 : Requête de médiation pénale",
+        "type": "article",
+        "level": 1,
+        "order": 240,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-242-",
+        "title": "Article 242 : Autorité de décision de la médiation pénale",
+        "type": "article",
+        "level": 1,
+        "order": 241,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-243-",
+        "title": "Article 243 : Conditions d'appel à la médiation pénale",
+        "type": "article",
+        "level": 1,
+        "order": 242,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-244-",
+        "title": "Article 244 : Mesures de rechange d'une condamnation pénale de l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 243,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-245-",
+        "title": "Article 245 : Cas de non application de la médiation pénale",
+        "type": "article",
+        "level": 1,
+        "order": 244,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-246-",
+        "title": "Article 246 : Constatation de la médiation pénale",
+        "type": "article",
+        "level": 1,
+        "order": 245,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-247-",
+        "title": "Article 247 : Frais de médiation pénale",
+        "type": "article",
+        "level": 1,
+        "order": 246,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-248-",
+        "title": "Article 248 : Décision de garde à vue de l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 247,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-249-",
+        "title": "Article 249 : Information de la famille de l'enfant en situation de prévenu",
+        "type": "article",
+        "level": 1,
+        "order": 248,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-250-",
+        "title": "Article 250 : Autorité judiciaire de poursuite des infractions des mineurs",
+        "type": "article",
+        "level": 1,
+        "order": 249,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-251-",
+        "title": "Article 251 : Conditions de détention des enfants",
+        "type": "article",
+        "level": 1,
+        "order": 250,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-252-",
+        "title": "Article 252 : Application du code de procédure pénale",
+        "type": "article",
+        "level": 1,
+        "order": 251,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-253-",
+        "title": "Article 253 : Information de la famille de l'enfant poursuivi",
+        "type": "article",
+        "level": 1,
+        "order": 252,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-254-",
+        "title": "Article 254 : Décision de garde de l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 253,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-255-",
+        "title": "Article 255 : Interdiction de sévices sur l'enfant gardé à vue",
+        "type": "article",
+        "level": 1,
+        "order": 254,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-256-",
+        "title": "Article 256 : Recherche de la vérité",
+        "type": "article",
+        "level": 1,
+        "order": 255,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-257-",
+        "title": "Article 257 : Enquête sociale sur l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 256,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-258-",
+        "title": "Article 258 : Nature des ordonnances du juge des mineurs",
+        "type": "article",
+        "level": 1,
+        "order": 257,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-259-",
+        "title": "Article 259 : Délits et crimes",
+        "type": "article",
+        "level": 1,
+        "order": 258,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-260-",
+        "title": "Article 260 : Recours",
+        "type": "article",
+        "level": 1,
+        "order": 259,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-261-",
+        "title": "Article 261 : Composition et désignation des membres du tribunal pour enfants",
+        "type": "article",
+        "level": 1,
+        "order": 260,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-262-",
+        "title": "Article 262 : Fonctionnement du tribunal pour enfants",
+        "type": "article",
+        "level": 1,
+        "order": 261,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-263-",
+        "title": "Article 263 : Audience de jugement",
+        "type": "article",
+        "level": 1,
+        "order": 262,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-264-",
+        "title": "Article 264 : Protection des débats judiciaires",
+        "type": "article",
+        "level": 1,
+        "order": 263,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-265-",
+        "title": "Article 265 : Autorisation de publication du jugement et protection de l’identité",
+        "type": "article",
+        "level": 1,
+        "order": 264,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-266-",
+        "title": "Article 266 : Procédure applicable devant le tribunal pour enfants",
+        "type": "article",
+        "level": 1,
+        "order": 265,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-267-",
+        "title": "Article 267 : Prévention",
+        "type": "article",
+        "level": 1,
+        "order": 266,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-268-",
+        "title": "Article 268 : Situation des inculpés adultes",
+        "type": "article",
+        "level": 1,
+        "order": 267,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-269-",
+        "title": "Article 269 : Notification de la décision du tribunal",
+        "type": "article",
+        "level": 1,
+        "order": 268,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-270-",
+        "title": "Article 270 : Interjection d’appel",
+        "type": "article",
+        "level": 1,
+        "order": 269,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-271-",
+        "title": "Article 271 : Interdiction d'inscription au registre du casier judiciaire des décisions prises contre l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 270,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-272-",
+        "title": "Article 272 : Création et composition de la chambre des mineurs",
+        "type": "article",
+        "level": 1,
+        "order": 271,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-273-",
+        "title": "Article 273 : Président de la chambre des mineurs",
+        "type": "article",
+        "level": 1,
+        "order": 272,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-274-",
+        "title": "Article 274 : Fonctionnement et pouvoirs de la chambre des mineurs",
+        "type": "article",
+        "level": 1,
+        "order": 273,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-275-",
+        "title": "Article 275 : Décisions de la chambre",
+        "type": "article",
+        "level": 1,
+        "order": 274,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-276-",
+        "title": "Article 276 : Pouvoirs du procureur général",
+        "type": "article",
+        "level": 1,
+        "order": 275,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-277-",
+        "title": "Article 277 : Pouvoirs de la chambre d'accusation",
+        "type": "article",
+        "level": 1,
+        "order": 276,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-278-",
+        "title": "Article 278 : Siège du tribunal pour enfants en matière criminelle",
+        "type": "article",
+        "level": 1,
+        "order": 277,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-279-",
+        "title": "Article 279 : Fonctions du ministère public",
+        "type": "article",
+        "level": 1,
+        "order": 278,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-280-",
+        "title": "Article 280 : Dispositions applicables par le tribunal pour enfants",
+        "type": "article",
+        "level": 1,
+        "order": 279,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-281-",
+        "title": "Article 281 : Mesures judiciaires du Tribunal",
+        "type": "article",
+        "level": 1,
+        "order": 280,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-282-",
+        "title": "Article 282 : Formes de mesures de garde provisoire",
+        "type": "article",
+        "level": 1,
+        "order": 281,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-283-",
+        "title": "Article 283 : Garde provisoire avec régime de liberté surveillée",
+        "type": "article",
+        "level": 1,
+        "order": 282,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-284-",
+        "title": "Article 284 : Révocabilité de la mesure de garde provisoire",
+        "type": "article",
+        "level": 1,
+        "order": 283,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-285-",
+        "title": "Article 285 : Appel des décisions",
+        "type": "article",
+        "level": 1,
+        "order": 284,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-286-",
+        "title": "Article 286 : Formes de mesures de surveillance ou de rééducation",
+        "type": "article",
+        "level": 1,
+        "order": 285,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-287-",
+        "title": "Article 287 : Délai d'âge du bénéficiaire de mesures de garde",
+        "type": "article",
+        "level": 1,
+        "order": 286,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-288-",
+        "title": "Article 288 : Cadre du régime de liberté surveillée",
+        "type": "article",
+        "level": 1,
+        "order": 287,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-289-",
+        "title": "Article 289 : Régime de liberté surveillée",
+        "type": "article",
+        "level": 1,
+        "order": 288,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-290-",
+        "title": "Article 290 : Autorité responsable de la rééducation de l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 289,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-291-",
+        "title": "Article 291 : Obligation d'Information",
+        "type": "article",
+        "level": 1,
+        "order": 290,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-292-",
+        "title": "Article 292 : Qualité du juge des enfants",
+        "type": "article",
+        "level": 1,
+        "order": 291,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-293-",
+        "title": "Article 293 : Désignation du délégué à la surveillance de l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 292,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-294-",
+        "title": "Article 294 : Mission du délégué à la surveillance",
+        "type": "article",
+        "level": 1,
+        "order": 293,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-295-",
+        "title": "Article 295 : Responsabilités de la personne ayant la garde de l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 294,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-296-",
+        "title": "Article 296 : Droit de visite des parents",
+        "type": "article",
+        "level": 1,
+        "order": 295,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-297-",
+        "title": "Article 297 : Cas de modification de placement",
+        "type": "article",
+        "level": 1,
+        "order": 296,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-298-",
+        "title": "Article 298 : Remise ou restitution de garde",
+        "type": "article",
+        "level": 1,
+        "order": 297,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-299-",
+        "title": "Article 299 : Contraintes à un placement dans un centre de rééducation",
+        "type": "article",
+        "level": 1,
+        "order": 298,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-300-",
+        "title": "Article 300 : Appel des ordonnances du juge",
+        "type": "article",
+        "level": 1,
+        "order": 299,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-301-",
+        "title": "Article 301 : Pouvoirs du juge des enfants",
+        "type": "article",
+        "level": 1,
+        "order": 300,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-302-",
+        "title": "Article 302 : Dossier de l'enfant placé",
+        "type": "article",
+        "level": 1,
+        "order": 301,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-303-",
+        "title": "Article 303 : Rapport du juge sur l'état de l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 302,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-304-",
+        "title": "Article 304 : Fixation du montant des allocations",
+        "type": "article",
+        "level": 1,
+        "order": 303,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-305-",
+        "title": "Article 305 : Frais d'assistance éducative",
+        "type": "article",
+        "level": 1,
+        "order": 304,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-306-",
+        "title": "Article 306 : Autorité de révision du montant des allocations",
+        "type": "article",
+        "level": 1,
+        "order": 305,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-307-",
+        "title": "Article 307 : Appel des ordonnances du juge des mineurs",
+        "type": "article",
+        "level": 1,
+        "order": 306,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-308-",
+        "title": "Article 308 : Allocations familiales",
+        "type": "article",
+        "level": 1,
+        "order": 307,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-309-",
+        "title": "Article 309 : Cas des allocations familiales d'un enfant condamné à une peine d’emprisonnement",
+        "type": "article",
+        "level": 1,
+        "order": 308,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-310-",
+        "title": "Article 310 : Ordonnance de paiement d'allocations",
+        "type": "article",
+        "level": 1,
+        "order": 309,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-311-",
+        "title": "Article 311 : Délais et conditions de règlement des allocations d'entretien dues par l’Etat",
+        "type": "article",
+        "level": 1,
+        "order": 310,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-312-",
+        "title": "Article 312 : Recouvrement des allocations d'entretien mises à la charge des parents",
+        "type": "article",
+        "level": 1,
+        "order": 311,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-313-",
+        "title": "Article 313 : Droits de timbre et d'enregistrement",
+        "type": "article",
+        "level": 1,
+        "order": 312,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-314-",
+        "title": "Article 314 : Frais de transport des délégués à l’éducation surveillée",
+        "type": "article",
+        "level": 1,
+        "order": 313,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-315-",
+        "title": "Article 315 : Protection contre l'aggravation infractionnelle de l'enfant",
+        "type": "article",
+        "level": 1,
+        "order": 314,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-316",
+        "title": "Article 316: Séparation des mineurs et des adultes incarcérés",
+        "type": "article",
+        "level": 1,
+        "order": 315,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-317-",
+        "title": "Article 317 : Scolarisation obligatoire de l'enfant incarcéré",
+        "type": "article",
+        "level": 1,
+        "order": 316,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-318-",
+        "title": "Article 318 : Autorisation spéciale de sortie",
+        "type": "article",
+        "level": 1,
+        "order": 317,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-319-",
+        "title": "Article 319 : Visite à l'enfant incarcéré",
+        "type": "article",
+        "level": 1,
+        "order": 318,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-320-",
+        "title": "Article 320 : Droit de l'enfant né en prison",
+        "type": "article",
+        "level": 1,
+        "order": 319,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-321-",
+        "title": "Article 321 : Délai de séjour de l'enfant né en prison",
+        "type": "article",
+        "level": 1,
+        "order": 320,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-322-",
+        "title": "Article 322 : Purgation de peine privative de liberté par la femme enceinte",
+        "type": "article",
+        "level": 1,
+        "order": 321,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-323-",
+        "title": "Article 323 : Aménagement de structures pour femmes enceintes et enfants nouveau-nés.",
+        "type": "article",
+        "level": 1,
+        "order": 322,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-324-",
+        "title": "Article 324 : Celui qui, par des aliments, des breuvages, des médicaments, des violences ou par tout autre moyen fait avorter une femme, est passible d’une peine de cinq (5) ans à vingt (20) ans de réclusion et d’une amende de deux cent mille (200 000) à cinq cent mille (500 000) francs CFA.",
+        "type": "article",
+        "level": 1,
+        "order": 323,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-325-",
+        "title": "Article 325 : La femme qui, volontairement avorte ou se fait avorter, est punie de cinq (5) ans à vingt (20) ans de réclusion et d’une amende de deux cent mille (200 000) à cinq cent mille (500 000) francs CFA.",
+        "type": "article",
+        "level": 1,
+        "order": 324,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-326-",
+        "title": "Article 326 : L’auteur d’une tentative d’avortement est puni des peines prévues à l’article 325 de la présente loi. Le complice est puni des mêmes peines.",
+        "type": "article",
+        "level": 1,
+        "order": 325,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-327-",
+        "title": "Article 327 : Quiconque porte des coups ou fait des blessures à une femme enceinte est puni de deux (2) ans à cinq (5) ans d’emprisonnement et d’une amende de cent mille (100 000) à deux cent mille (200 000) francs CFA.",
+        "type": "article",
+        "level": 1,
+        "order": 326,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-328-",
+        "title": "Article 328 : Celui qui, par défaut de précaution ou de prévoyance, cause à une femme enceinte, des lésions corporelles ayant entraîné un avortement, est puni de trois (3) mois à deux (2) ans d’emprisonnement et d’une amende de cent mille (100 000) à deux cent mille (200 000) francs CFA.",
+        "type": "article",
+        "level": 1,
+        "order": 327,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-329-",
+        "title": "Article 329 : Est puni de huit (8) jours à un (01) an d’emprisonnement et d’une amende de cent mille (100 000) à deux cent mille (200 000) francs CFA :",
+        "type": "article",
+        "level": 1,
+        "order": 328,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-330-",
+        "title": "Article 330 : Le médecin ou la sage-femme qui est auteur d'un avortement non autorisé, perd le bénéfice du montant intégral de l'acte dont il est mis en débet au profit du Trésor public. Le matériel utilisé est saisi et est fait don à une formation sanitaire publique. S'il est un agent fonctionnaire de l'Etat, il est rétrogradé d'un échelon dans son plus haut grade et est suspendu de tout avancement pendant deux (02) ans. Il est également puni des mêmes peines que conformément aux dispositions de l'article précédent.",
+        "type": "article",
+        "level": 1,
+        "order": 329,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-331-",
+        "title": "Article 331 : Quiconque, par le fait de la tradition, de la coutume ou de toute autre pratique, est responsable de la grossesse précoce d’un enfant de sexe féminin, est puni de six (06) mois à deux (02) ans d’emprisonnement et d’une amende de cent mille (100 000) à deux cent mille (200 000) francs CFA.",
+        "type": "article",
+        "level": 1,
+        "order": 330,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-332-",
+        "title": "Article 332 : Déchéance de l'autorité parentale",
+        "type": "article",
+        "level": 1,
+        "order": 331,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-333-",
+        "title": "Article 333 : Quiconque soit le père ou la mère, l'ascendant ou le proche parent, le médecin, la sage-femme, la matrone, soit le chef de village ou de quartier de ville ou toute autre personne ayant assisté à une naissance qui par négligence ou par intention de nuire, ne procède pas à la déclaration de naissance à l’officier de l’état civil, dans les délais prescrits par la loi, est puni d'une amende de vingt-cinq mille (25 000) à cinquante mille (50 000) francs CFA.",
+        "type": "article",
+        "level": 1,
+        "order": 332,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-334-",
+        "title": "Article 334 : Tout médecin accoucheur, toute sage-femme ou toute matrone qui ne transmet pas à l’officier de l’état civil, dans les délais requis par la loi, les fiches de naissance des enfants nés dans son centre de travail, est puni d'une amende de cinquante mille (50 000) à deux cent mille (200 000) francs CFA ou d'une peine d'emprisonnement de quinze (15) à trente (30) jours.",
+        "type": "article",
+        "level": 1,
+        "order": 333,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-335-",
+        "title": "Article 335 : Tout médecin ou toute sage-femme qui, par négligence ou par intention de nuire, ne transmet pas à l'officier d'état civil, dans les délais prescrits par la loi, les fiches de naissance des enfants nés dans son centre, est suspendu de son poste pendant trente (30) jours ouvrables avec la perte du bénéfice de son indemnité salariale. Le montant du salaire est retenu dans les caisses de l'Etat, s'il est agent fonctionnaire de l'Etat ou des collectivités locales ou est reversé au Trésor public, s'il est une personne privée ou un agent d'une institution privée.",
+        "type": "article",
+        "level": 1,
+        "order": 334,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-336-",
+        "title": "Article 336 : Sont punis d'une amende de vingt-cinq mille (25 000) à cent mille (100 000) francs CFA ou d'une peine d' emprisonnement de quinze (15) à trente (30) jours, les chefs de village ou de quartier de ville qui négligent ou oublient de rendre compte dans les délais requis par la loi, des naissances qui ont eu lieu en dehors des centres de santé et dont ils ont eu connaissance.",
+        "type": "article",
+        "level": 1,
+        "order": 335,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-337-",
+        "title": "Article 337 : Quiconque abandonne son enfant ou un enfant à lui confié, est puni de deux (02) ans à cinq (05) ans d’emprisonnement et d’une amende de cent mille (100 000) à deux cent cinquante mille (250 000) francs CFA.",
+        "type": "article",
+        "level": 1,
+        "order": 336,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-338-",
+        "title": "Article 338 : Quiconque incite ou contraint un enfant à la mendicité, est puni de six (06) mois à deux (02) ans d’emprisonnement et d’une amende de cent mille (100 000) à deux cent cinquante mille (250 000) francs CFA.",
+        "type": "article",
+        "level": 1,
+        "order": 337,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-339-",
+        "title": "Article 339 : Est puni de cinq (05) ans à vingt (20) ans de réclusion et d’une amende de cinq cent mille (500 000) francs à un million (1 000 000) de francs CFA, quiconque est coupable de meurtre ou d’assassinat sur un nouveau-né.",
+        "type": "article",
+        "level": 1,
+        "order": 338,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-340-",
+        "title": "Article 340 : Est punie de cinq (5) ans à vingt (20) ans de réclusion et d’une amende de deux cent mille (200 000) à cinq cent mille (500 000) francs CFA, toute personne qui, par des rituelles, des cérémonies dangereuses, des pratiques malsaines, donne la mort à un nouveau-né.",
+        "type": "article",
+        "level": 1,
+        "order": 339,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-341-",
+        "title": "Article 341 : Quiconque, par négligence ou par manque de soins et d’hygiène, cause la mort d’un nouveau-né, est puni de cinq (5) ans à dix (10) ans d’emprisonnement et d’une amende de cent mille (100 000) à deux cent cinquante mille (250 000) francs CFA.",
+        "type": "article",
+        "level": 1,
+        "order": 340,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-342-",
+        "title": "Article 342 : Est punie de la réclusion à perpétuité, toute personne qui cause par préméditation ou par empoisonnement, la mort d’un enfant.",
+        "type": "article",
+        "level": 1,
+        "order": 341,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-343-",
+        "title": "Article 343 : Est puni de la réclusion à perpétuité, toute personne qui, par des actes de tortures ou traitements inhumains, cruels ou dégradants, cause volontairement ou involontairement la mort d’un enfant.",
+        "type": "article",
+        "level": 1,
+        "order": 342,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-344-",
+        "title": "Article 344 : Le fait de soumettre un enfant à des actes de tortures ou traitements inhumains, cruels ou dégradants, sans que mort s’ensuive, est puni de cinq (05) à vingt (20) ans de réclusion et d’une amende de cinq cent mille (500 000) à un million (1 000 000) de francs CFA.",
+        "type": "article",
+        "level": 1,
+        "order": 343,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-345-",
+        "title": "Article 345 : Est puni de la réclusion à temps de dix (10) ans à vingt (20) ans, le viol commis, soit sur une femme en état de grossesse, soit sur un enfant de plus de treize (13) ans.",
+        "type": "article",
+        "level": 1,
+        "order": 344,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-346-",
+        "title": "Article 346 : La tentative de viol est punie comme le viol lui-même.",
+        "type": "article",
+        "level": 1,
+        "order": 345,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-347-",
+        "title": "Article 347 : L’individu qui accomplit ou tente d’accomplir l’acte sexuel autorisé coutumièrement sur un enfant de sexe féminin âgé de moins de dix-huit (18) ans, est puni de deux (02) ans à cinq (05) ans d’emprisonnement et d’une amende de cent mille (100 000) à deux cent cinquante mille (250 000) francs CFA.",
+        "type": "article",
+        "level": 1,
+        "order": 346,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-348-",
+        "title": "Article 348 : Les peines encourues sont portées à la réclusion de quinze (15) ans à vingt (20) ans et à une amende de cinq cent mille (500 000) à cinq millions (5 000 000) de francs CFA si, le viol est le fait du père, du tuteur ou de toute personne exerçant une autorité sur l’enfant.",
+        "type": "article",
+        "level": 1,
+        "order": 347,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-349-",
+        "title": "Article 349 : Est punie de la réclusion de dix (10) ans à vingt (20) ans et d’une amende de cinq cent mille (500 000) à cinq millions (5 000 000) de francs CFA, le coupable de pédophilie.",
+        "type": "article",
+        "level": 1,
+        "order": 348,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-350-",
+        "title": "Article 350 : Si les coupables de pédophilie sont le père ou la mère, le tuteur, la personne exerçant une autorité sur l’enfant ou si l’acte a été commis en réunion, la peine est la réclusion à perpétuité et une amende de un million (1 000 000) à dix millions (10 000 000) de francs CFA.",
+        "type": "article",
+        "level": 1,
+        "order": 349,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-351-",
+        "title": "Article 351 : L’incitation ou la contrainte des enfants à des relations sexuelles avec un animal est punie de dix (10) ans à (20) ans de réclusion et d’une amende de deux millions (2 000 000) à cinq millions (5 000 000) de francs CFA.",
+        "type": "article",
+        "level": 1,
+        "order": 350,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-352-",
+        "title": "Article 352 : Dans le cas où le délit visé à l’article 353 de la présente loi est commis par un étranger sur un enfant béninois en République du Bénin ou à l’étranger, la loi béninoise est applicable.",
+        "type": "article",
+        "level": 1,
+        "order": 351,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-353-",
+        "title": "Article 353 : Est puni de six (06) mois à cinq (05) ans d’emprisonnement et d’une amende de cent cinquante mille (150 000) à cinq cent mille (500 000) francs CFA, quiconque méconnaît, bafoue ou viole les droits de l’enfant reconnus par la présente loi.",
+        "type": "article",
+        "level": 1,
+        "order": 352,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-354-",
+        "title": "Article 354 : Est puni de cinq (05) ans à dix (10) ans d’emprisonnement et d’une amende de cinq cent mille (500 000) à un million (1 000 000) de francs, quiconque recourt à l’assistance médicale à la procréation hors les cas prévus aux articles 52 et 54 de la présente loi. Le complice est puni de la même peine.",
+        "type": "article",
+        "level": 1,
+        "order": 353,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-355-",
+        "title": "Article 355 : Est punie de deux (02) ans à cinq (05) ans d’emprisonnement et d’une amende de cinq cent mille (500 000) à un million (1 000 000) de francs, toute personne qui s’est rendue coupable de harcèlement de quelque nature que ce soit et à quelque fin que ce soit sur un enfant.",
+        "type": "article",
+        "level": 1,
+        "order": 354,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-356-",
+        "title": "Article 356 : Quiconque utilise un enfant dans les différentes formes de criminalité organisée, telle que prévue à l’article 196 de la présente loi, est puni de deux (02) ans à cinq (05) ans d’emprisonnement et d’une amende de deux cent cinquante (250 000) à cinq cent mille (500 000) francs CFA.",
+        "type": "article",
+        "level": 1,
+        "order": 355,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-357-",
+        "title": "Article 357 : Tout parent, tout tuteur ou tout gardien d’un enfant qui refuse ou s’oppose à la vaccination de l’enfant est passible d’une peine d’amende de vingt-cinq mille (25 000) à deux cent cinquante mille (250 000) francs CFA et/ou d’une peine d’emprisonnement de un (01) mois à deux (02) ans.",
+        "type": "article",
+        "level": 1,
+        "order": 356,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-358-",
+        "title": "Article 358 : Est puni de trois (3) mois à deux (02) ans d’emprisonnement et d’une amende de deux cent cinquante mille (250 000) à cinq cent mille (500 000) francs CFA, tout parent, tout tuteur ou tout gardien d’un enfant qui refuse ou s’oppose aux traitements, aux soins et de fait à la guérison de l’enfant malade, quelles que soient les raisons.",
+        "type": "article",
+        "level": 1,
+        "order": 357,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-359-",
+        "title": "Article 359 : Quiconque utilise un enfant pour la production ou le trafic de drogue et/ou de toutes substances psychotropes est puni de deux (02) ans à dix (10) ans d’emprisonnement et d’une amende de cinq cent mille (500 000) à un million (1 000 000) de francs CFA.",
+        "type": "article",
+        "level": 1,
+        "order": 358,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-360-",
+        "title": "Article 360 : Sans préjudice des lois pénales prévoyant des peines plus sévères et des dispositions spécifiques de la présente loi, est puni d’une peine de six (6) mois à un (1) an d’emprisonnement et d’une amende de cinquante mille (50 000) à cent mille (100 000) francs CFA ou de l’une de ces deux peines seulement, quiconque contrevient aux dispositions des articles 212, 214 et 215 de la présente loi.",
+        "type": "article",
+        "level": 1,
+        "order": 359,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-361-",
+        "title": "Article 361 : Quiconque viole les dispositions de l’article 225 de la présente loi est puni de trois (03) mois à un (01) an d’emprisonnement ou d’une amende de cinquante mille (50 000) à cent cinquante mille (150 000) francs CFA.",
+        "type": "article",
+        "level": 1,
+        "order": 360,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-362-",
+        "title": "Article 362 : Les parents ou toute personne ayant contraint un enfant de moins de quatorze (14) ans à être vendeur ambulant sont punis d’une amende de cent mille (100 000) à cent cinquante mille (150 000) francs CFA.",
+        "type": "article",
+        "level": 1,
+        "order": 361,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-363-",
+        "title": "Article 363 : Toute personne coupable de maltraitance sur un “enfant placé” est passible d’une peine d’emprisonnement de six (06) mois à deux (02) ans et d’une amende de deux cent mille (200 000) à cinq cent mille (500 000) francs CFA, le tout sans préjudice en cas de blessure, d’infirmité ou de décès, des peines plus graves prévues au code pénal.",
+        "type": "article",
+        "level": 1,
+        "order": 362,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-364-",
+        "title": "Article 364 : Les infractions aux dispositions des articles 264 et 265 de la présente loi sont punies d’une peine d’emprisonnement de deux (02) mois à un (01) an et de dix mille (10 000) à cent mille (100 000) francs CFA d’amende prononcée par le tribunal de première instance statuant en matière correctionnelle.",
+        "type": "article",
+        "level": 1,
+        "order": 363,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-365-",
+        "title": "Article 365 : Si un incident à la liberté surveillée révèle un défaut de surveillance caractérisé de la part des parents, du tuteur ou du gardien, des entraves systématiques à la surveillance des délégués, le juge des enfants, quelle que soit la décision prise pour l’enfant, peut condamner les coupables à une amende de cinquante mille (50 000) à cent cinquante mille (150 000) francs CFA.",
+        "type": "article",
+        "level": 1,
+        "order": 364,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-366-",
+        "title": "Article 366 : Toute personne tenue au paiement d’allocation pour entretien prévu à la présente loi et qui ne s’exécute pas est punie des mêmes peines que celles prévues au code pénal pour non assistance à personne en danger.",
+        "type": "article",
+        "level": 1,
+        "order": 365,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-367-",
+        "title": "Article 367 : Est punie d’un emprisonnement de dix (10) jours à un (01) an et d’une amende de dix mille (10 000) à cent mille (100 000) francs CFA ou de l’une de ces deux peines, toute personne qui, assurant la garde légale d’un enfant, s’abstient sans motif légitime de lui rendre visite conformément aux dispositions de la présente loi.",
+        "type": "article",
+        "level": 1,
+        "order": 366,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-368-",
+        "title": "Article 368 : Tout adulte qui sciemment et publiquement impute à un enfant un fait de nature à porter atteinte à son honneur et à sa considération est puni d’une peine de deux (02) mois à un (01) an d’emprisonnement et d’une amende de cinquante mille (50 000) à cent cinquante mille (150 000) francs CFA.",
+        "type": "article",
+        "level": 1,
+        "order": 367,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-369-",
+        "title": "Article 369 : L’exhibition sexuelle imposée à un enfant est punie de cinq (05) ans à dix (10) ans d’emprisonnement et d’une amende de cinq cent mille (500 000) francs à deux millions (2 000 000) de francs CFA.",
+        "type": "article",
+        "level": 1,
+        "order": 368,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-370-",
+        "title": "Article 370 : Est punie d’un emprisonnement de six (06) mois à deux (02) ans et d’une amende de cinq cent mille (500 000) à un million (1 000 000) de francs CFA, toute personne qui met en circulation, projette ou fait projeter dans un lieu public ou ouvert au public des films interdits aux enfants.",
+        "type": "article",
+        "level": 1,
+        "order": 369,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-371-",
+        "title": "Article 371 : Est punie d’une amende de cinq cent mille (500 000) à un million cinq cent mille (1 500 000) francs CFA, toute famille hôte, toute structure d’accueil, ou toute institution qui, en dépit de sa défaillance ou du retrait de son agrément, continue d’accueillir des enfants en situation difficile dans le seul but de percevoir l’aide financière.",
+        "type": "article",
+        "level": 1,
+        "order": 370,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-372-",
+        "title": "Article 372 : Est punie de trois (03) ans à cinq (05) ans d’emprisonnement et d’une amende allant jusqu’à trois millions (3 000 000) de francs CFA, toute personne qui pratique sur un enfant une mutilation sexuelle sous quelque forme que ce soit.",
+        "type": "article",
+        "level": 1,
+        "order": 371,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-373-",
+        "title": "Article 373 : Quiconque aide, assiste, sollicite l’exciseur ou l’exciseuse, lui fournit des moyens ou donne des instructions, est traité comme complice et condamné aux peines encourues par l’auteur principal.",
+        "type": "article",
+        "level": 1,
+        "order": 372,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-374-",
+        "title": "Article 374 : Toute personne qui, informée de la préparation de la mutilation sexuelle d’un enfant et qui n’agit pas pour empêcher sa commission est poursuivie pour non-assistance à personne en danger et punie de six (06) mois à deux (02) ans d’emprisonnement et d’une amende de deux cent cinquante mille (250 000) à cinq cent mille (500 000) francs CFA.",
+        "type": "article",
+        "level": 1,
+        "order": 373,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-375",
+        "title": "Article 375: Toute personne qui donne en mariage son enfant de moins de dix-huit (18) ans, hors les dispenses accordées par le code des personnes et de la famille, est punie d’un emprisonnement de trois (03) ans à dix (10) ans et d’une amende de cent mille (100 000) à cinq cent mille (500 000) francs CFA.",
+        "type": "article",
+        "level": 1,
+        "order": 374,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-376-",
+        "title": "Article 376 : Quiconque s’adonne aux pratiques énumérées à l’article 184 de la présente loi, qu’il soit chef traditionnel ou chef religieux, est puni de six (06) mois à deux (02) ans d’emprisonnement et d’une amende de cent mille (100 000) à deux cent (200 000) francs CFA.",
+        "type": "article",
+        "level": 1,
+        "order": 375,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-377-",
+        "title": "Article 377 : Sont punis d’une peine de un (01) an à cinq (05) ans d’emprisonnement et d’une amende de deux cent mille (200 000) à cinq cent mille (500 000) francs CFA, les auteurs d’épreuves superstitieuses dommageables commises sur un enfant.",
+        "type": "article",
+        "level": 1,
+        "order": 376,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-378-",
+        "title": "Article 378 : Toute personne qui se rend coupable d’exploitation sexuelle, de menaces, de violences ou de contrainte sexuelle sur un enfant, est punie de cinq (05) ans à dix (10) ans d’emprisonnement et d’une amende de cinq cent mille (500 000) francs à cinq millions (5 000 000) de francs CFA.",
+        "type": "article",
+        "level": 1,
+        "order": 377,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-379-",
+        "title": "Article 379 : Le fait d’attenter aux mœurs, en incitant à la débauche et à la pornographie un enfant, est puni de six (06) mois à cinq (05) ans d’emprisonnement et d’une amende de cent mille (100 000) à cinq cent mille (500 000) francs CFA.",
+        "type": "article",
+        "level": 1,
+        "order": 378,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-380-",
+        "title": "Article 380 : Tout attentat à la pudeur tenté ou consommé avec violences, contrainte, menaces ou surprise sur la personne d’un enfant est puni de deux (02) ans à cinq (05) ans d’emprisonnement et d’une amende de cent mille (100 000) à cinq cent mille (500 000) francs CFA.",
+        "type": "article",
+        "level": 1,
+        "order": 379,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-381-",
+        "title": "Article 381 : Si l’attentat à la pudeur est tenté ou consommé sur la personne d’un enfant de moins de treize (13) ans, la peine est portée au double.",
+        "type": "article",
+        "level": 1,
+        "order": 380,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-382-",
+        "title": "Article 382 : Tout attentat à la pudeur sur la personne d’un enfant est puni du double des peines prévues à l’article 380 de la présente loi, lorsqu’il est tenté ou commis, sans violences ni contrainte ni menaces ou surprise soit par un ascendant légitime, naturel ou adoptif de la victime ou par une personne ayant autorité sur elle, soit encore par une personne qui a abusé de l’autorité que lui confèrent ses fonctions.",
+        "type": "article",
+        "level": 1,
+        "order": 381,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-383-",
+        "title": "Article 383 : Quiconque offre, obtient ou utilise un enfant à des fins sexuelles contre rémunération ou toutes autres formes d’avantages est puni de cinq (05) ans à dix (10) ans d’emprisonnement et d’une amende de deux millions (2 000 000) à cinq millions (5 000 000) de francs CFA.",
+        "type": "article",
+        "level": 1,
+        "order": 382,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-384-",
+        "title": "Article 384 : Dans le cas où le délit visé à l’article 5 de la présente loi est commis par un étranger sur un enfant béninois en République du Bénin ou à l’étranger, la loi béninoise est applicable.",
+        "type": "article",
+        "level": 1,
+        "order": 383,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-385-",
+        "title": "Article 385 : Le fait de produire, de distribuer, de diffuser, d’importer, d’exporter, d’offrir, de vendre, de posséder tout matériel représentant par quelque moyen que ce soit un enfant s’adonnant à des activités sexuelles explicites, réelles ou simulées, ou représentant des organes sexuels d’un enfant, est puni de deux (02) à cinq (05)ans d’emprisonnement et d’une amende de deux millions (2 000 000) à cinq millions (5 000 000) de francs CFA.",
+        "type": "article",
+        "level": 1,
+        "order": 384,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-386-",
+        "title": "Article 386 : Sont punis, conformément aux dispositions de l’article 385 de la présente loi, les actes ci-après :",
+        "type": "article",
+        "level": 1,
+        "order": 385,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-387-",
+        "title": "Article 387 : Quiconque arrête, enlève ou fait enlever, détient ou séquestre comme otage un enfant soit pour préparer ou faciliter la commission d’un crime ou d’un délit, soit pour obtenir une rançon, ou pour nuire aux parents de l’enfant, est puni de la réclusion à perpétuité.",
+        "type": "article",
+        "level": 1,
+        "order": 386,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-388-",
+        "title": "Article 388 : Toute personne coupable d’enlèvement d’enfant est punie de un (01) an à cinq (05) ans d’emprisonnement et d’une amende de cinq cent mille (500 000) francs à un million (1 000 000) de francs CFA.",
+        "type": "article",
+        "level": 1,
+        "order": 387,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-389-",
+        "title": "Article 389 : Quiconque reçoit ou met en gage un enfant est puni de deux (02) ans à cinq (05) ans d’emprisonnement et d’une amende de deux cent cinquante mille (250 000) à un million (1 000 000) de francs CFA.",
+        "type": "article",
+        "level": 1,
+        "order": 388,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-390-",
+        "title": "Article 390 : Est puni de cinq (05) ans à dix (10) ans d’emprisonnement et d’une amende de cinq cent mille (500 000) francs à cinq millions (5 000 000) de francs CFA, tout acte ou transaction comportant l’offre, la remise, l’acceptation d’un enfant contre rémunération ou tout autre avantage.",
+        "type": "article",
+        "level": 1,
+        "order": 389,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-391-",
+        "title": "Article 391 : Le père ou la mère qui, sciemment, transporte et/ou remet son enfant en vue de la traite de celui-ci ou d’une façon quelconque aide le trafiquant, encourt un emprisonnement de six (06) mois à cinq (05) ans.",
+        "type": "article",
+        "level": 1,
+        "order": 390,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-392-",
+        "title": "Article 392 : Quiconque déplace, tente de déplacer ou accompagne un enfant pour une destination située en République du Bénin hors de la résidence de ses parents ou de la personne ayant autorité sur lui, sans accomplir les formalités administratives requises, est puni d’un emprisonnement de un (01) an à trois (03) ans et d’une amende de cinquante mille (50 000) à cinq cent mille (500 000) francs CFA.",
+        "type": "article",
+        "level": 1,
+        "order": 391,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-393-",
+        "title": "Article 393 : Quiconque déplace ou tente de déplacer ou accompagne hors du territoire de la République du Bénin, un enfant autre que le sien ou un enfant sur lequel il a autorité sans accomplir les formalités administratives en vigueur, est puni d’un emprisonnement de deux (02) ans à cinq (05) ans et d’une amende de cinq cent mille (500 000) à deux millions cinq cent mille (2 500 000) francs CFA.",
+        "type": "article",
+        "level": 1,
+        "order": 392,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-394-",
+        "title": "Article 394 : Est punie des peines spécifiées à l’article 393 de la présente loi, toute personne, quelle que soit sa nationalité qui, accompagnant un ou plusieurs enfants de nationalité béninoise et/ou étrangère, est trouvée sur le territoire de la République du Bénin, alors qu’elle n’y a pas sa résidence habituelle, sans remplir les conditions prévues par la présente loi.",
+        "type": "article",
+        "level": 1,
+        "order": 393,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-395-",
+        "title": "Article 395 : Est punie d’une amende de dix mille (10 000) à cinquante mille (50 000) francs CFA, toute personne qui, ayant connaissance du déplacement frauduleux d’un enfant, s’abstient d’en informer l’autorité administrative territorialement compétente ou l’officier de police judiciaire le plus proche.",
+        "type": "article",
+        "level": 1,
+        "order": 394,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-396-",
+        "title": "Article 396 : Quiconque se livre à la traite d’enfants encourt dix (10) ans à vingt (20) ans de réclusion. Dans tous les cas où la traite d’enfants a lieu avec recours à l’un des moyens énumérés à l’article 398 de la présente loi, ou lorsque la victime est soumise à l’un des actes prévus à l’article 399 de la présente loi, le ou les coupables sont passibles de la réclusion à perpétuité.",
+        "type": "article",
+        "level": 1,
+        "order": 395,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-397-",
+        "title": "Article 397 : Quiconque emploie sciemment en République du Bénin, la main-d’œuvre d’un enfant provenant de la traite d’enfants, quelle que soit la nature du travail, est puni d’une amende de cinq cent mille (500 000) francs à cinq millions (5 000 000) de francs CFA et d’un emprisonnement de six (06) mois à deux (02) ans ou de l’une de ces deux peines seulement.",
+        "type": "article",
+        "level": 1,
+        "order": 396,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-398-",
+        "title": "Article 398 : Le recours à la menace, à la force ou à d’autres formes de contraintes, à l’enlèvement, à la fraude, à la tromperie, à l’abus d’autorité ou à la situation de vulnérabilité, à l’offre ou à l’acceptation de paiement ou d’avantages pour obtenir le consentement de l’enfant ou d’une personne ayant autorité sur lui, aux fins de son exploitation, est une circonstance aggravante de la traite d’enfants qui expose son auteur au maximum de la peine prévue à l’article 396 de la présente loi.",
+        "type": "article",
+        "level": 1,
+        "order": 397,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-399-",
+        "title": "Article 399 : Les actes de violences et voies de fait, la privation d’aliments et de soins, l’incitation à la débauche ou à la mendicité, l’attentat à la pudeur et le viol, les coups et blessures volontaires exercés ou portés sur la personne d’un enfant constituent des circonstances aggravantes de la traite d’enfants.",
+        "type": "article",
+        "level": 1,
+        "order": 398,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-400-",
+        "title": "Article 400 : En cas de récidive, les peines prévues aux articles 391 à 397 de la présente loi, sont portées au double.",
+        "type": "article",
+        "level": 1,
+        "order": 399,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-401-",
+        "title": "Article 401 : Les complices de la traite d’enfants sont punis des mêmes peines que celles prévues pour les auteurs.",
+        "type": "article",
+        "level": 1,
+        "order": 400,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-402-",
+        "title": "Article 402 : Les excursions, les sorties pédagogiques et les voyages organisés par les établissements scolaires, les administrations publiques, ainsi que les déplacements rendus nécessaires pour des raisons académiques ne sont pas soumis aux dispositions de la présente loi.",
+        "type": "article",
+        "level": 1,
+        "order": 401,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-403-",
+        "title": "Article 403 : L’expérimentation médicale sur la personne de l’enfant est interdite.",
+        "type": "article",
+        "level": 1,
+        "order": 402,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-404-",
+        "title": "Article 404 : Le fait de pratiquer sur la personne d’un enfant une recherche biomédicale est puni de cinq (05) ans à dix (10) ans d’emprisonnement et d’une amende de cinq millions (5 000 000) à dix millions (10 000 000) de francs CFA.",
+        "type": "article",
+        "level": 1,
+        "order": 403,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-405-",
+        "title": "Article 405 : Quiconque se livre à un trafic d’ossements humains d’enfants ou d’organes d’enfants, est puni de dix (10) ans à vingt (20) ans de réclusion et d’une amende de un million (1 000 000) à cinq millions (5 000 000) de francs CFA.",
+        "type": "article",
+        "level": 1,
+        "order": 404,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-406-",
+        "title": "Article 406 : En attendant la mise en place des structures appropriées de la protection de l’enfant, celle-ci est assurée conformément aux mécanismes en vigueur non contraires à la présente loi.",
+        "type": "article",
+        "level": 1,
+        "order": 405,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-407-",
+        "title": "Article 407 : En cas de nécessité, un tribunal pour enfants statuant en matière criminelle peut, provisoirement, couvrir la juridiction de plusieurs tribunaux de première instance.",
+        "type": "article",
+        "level": 1,
+        "order": 406,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-408-",
+        "title": "Article 408 : Toutes les matières qui n’ont pas été réglées par la présente loi continuent d’être régies par les lois et règlements particuliers.",
+        "type": "article",
+        "level": 1,
+        "order": 407,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-409-",
+        "title": "Article 409 : La présente loi qui abroge toutes dispositions antérieures contraires sera exécutée comme loi de l'Etat.",
+        "type": "article",
+        "level": 1,
+        "order": 409,
+        "path": [],
+        "children": []
+      }
+    ],
+    "totalArticles": 409
+  },
+  "source": "nationale"
+}

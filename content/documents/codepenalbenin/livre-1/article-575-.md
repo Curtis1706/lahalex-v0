@@ -1,0 +1,4 @@
+S’il est résulté de l’exposition ou du délaissement, une maladie ou incapacité de plus de huit (08) jours, le maximum de la peine sera appliqué.
+Si l’enfant ou l’incapable est demeuré mutilé ou estropié ou s’il est resté atteint d’une autre infirmité permanente, les coupables subiront la peine de la réclusion criminelle à temps de cinq (05) ans à dix (10) ans.
+Si les coupables sont les personnes mentionnées à l’article 603 du présent code, la peine sera celle de la réclusion criminelle à temps de cinq (05) ans à dix (10) ans dans le cas prévu à l’alinéa 1er du présent article, et celle de la réclusion criminelle à temps de dix (10) ans à vingt (20) ans au cas prévu à l’alinéa 2 du présent article.
+Lorsque l’exposition ou le délaissement dans un lieu solitaire aura occasionné la mort, l’acte est considéré comme un meurtre.

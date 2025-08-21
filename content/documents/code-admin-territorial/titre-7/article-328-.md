@@ -1,0 +1,6 @@
+Le secrétaire permanent est choisi parmi les candidats justifiant les qualifications et aptitudes ci-après :
+- être un cadre de la catégorie A échelle 1 ayant au moins dix (10) années d'ancienneté dans la fonction publique, possédant les compétences et aptitudes requises dans les domaines de l'administration générale et territoriale, de la gestion des entreprises, de la gestion des services publics, de la planification du développement local, de la gestion des projets ; en développement local, en droit, en administration des finances et du trésor ou des impôts, en gestion des ressources humaines.
+- être titulaire d’un diplôme de niveau BAC + cinq (05) années d'études universitaires en administration générale et territoriale, en gestion des entreprises, en gestion des services publics, en planification du développement local, en gestion des projets, en développement local, en droit, en administration des finances et du trésor ou des impôts, en gestion des ressources humaines.
+Le secrétaire permanent non fonctionnaire doit, en outre, justifier :
+- de 10 ans d’expérience professionnelle ;
+- d'une bonne connaissance de la mise en œuvre du processus de la décentralisation et de la déconcentration.

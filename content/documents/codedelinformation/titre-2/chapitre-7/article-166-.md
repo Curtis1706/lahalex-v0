@@ -1,0 +1,1 @@
+Le message publicitaire ne peut exploiter, en aucun cas, l’inexpérience ou la crédulité des enfants ou des adolescents et l’infirmité des handicapés.

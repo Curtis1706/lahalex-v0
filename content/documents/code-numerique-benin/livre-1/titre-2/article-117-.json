@@ -1,0 +1,15 @@
+{
+  "id": "article-117-",
+  "title": "Article 117 : Expertises extérieurs",
+  "numero": "117 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-116-",
+    "next": "article-118-"
+  }
+}

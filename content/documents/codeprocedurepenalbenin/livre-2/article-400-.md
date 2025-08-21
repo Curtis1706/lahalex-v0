@@ -1,0 +1,1 @@
+La partie civile qui cite directement un prévenu devant un tribunal de première instance fait, dans l’acte de citation, à peine de nullité, élection de domicile dans la localité où siège ce tribunal, à moins qu’elle n’y soit domiciliée.

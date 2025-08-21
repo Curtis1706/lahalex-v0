@@ -1,0 +1,3 @@
+Quiconque a recelé ou caché le cadavre d’une personne décédée des suites de coups ou blessures est puni d’un emprisonnement de deux (02) ans à cinq (05) ans et d’une amende de cent mille (100.000) francs CFA à cinq cent mille (500.000) mille francs CFA, sans préjudice de peines plus graves, s’il a participé au crime ou au délit.
+Est puni d’un emprisonnement de trois (03) mois à un (01) an et de cent mille (100.000) à cinq cent mille (500.000) francs CFA d’amende quiconque s’est rendu coupable de violation de tombeau ou de sépulture, sans préjudice des peines contre les crimes ou les délits connexes à celle-ci.
+Les mêmes peines seront applicables à quiconque aura profané ou mutilé un cadavre, même non inhumé.

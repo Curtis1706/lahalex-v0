@@ -1,0 +1,2 @@
+L’assuré doit contribuer au sauvetage des objets assurés et prendre toutes mesures conservatoires de ses droits contre les tiers responsables.
+2 est responsable envers l’assureur du dommage causé par l’inexécution de cette obligation.

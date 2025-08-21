@@ -1,0 +1,5 @@
+1) Les agents des impôts ayant au moins le grade d’inspecteur, peuvent vérifier  la  comptabilité  et  les  documents  détenus  par  les  contribuables,  permettant d’asseoir et de contrôler les impôts et taxes.
+2) La  vérification  de  comptabilités  peut  être  limitée  à  un  ou  plusieurs  impôts
+déterminés ou porter sur l’ensemble des obligations fiscales du contribuable, même si, n’étant pas régies par le présent code, elles résultent d’un texte législatif ou réglementaire qui permet de les contrôler et de les poursuivre dans les mêmes conditions que certaines catégories d’impôts.
+3) Les programmes de vérification de comptabilités sont décidés par la direction
+générale des impôts. Les contribuables peuvent demander à ce que l’administration fiscale, qui n’est pas liée par la demande, engage une vérification générale de leur comptabilité.

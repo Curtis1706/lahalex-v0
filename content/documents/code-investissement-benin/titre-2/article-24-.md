@@ -1,0 +1,3 @@
+Article 24 : L’Entreprise bénéficiaire d’un régime privilégié est tenue :
+- d’observer strictement	le plan d’investissement et d’activité agréé, toute modification substantielle audit plan devant être préalablement autorisée dans les mêmes conditions que le plan initial ;
+- de se soumettre aux différents contrôles effectués par les services administratifs conformément à la réglementation en vigueur.

@@ -1,0 +1,3 @@
+Obligation de création d’une entité économique fonctionnellement indépendante
+L’Autorité de régulation peut, conformément aux dispositions de l'article 143 du présent code, imposer à un opérateur verticalement intégrée l’obligation de confier ses activités de fourniture en gros de produits d’accès à une entité économique fonctionnellement indépendante.
+Cette entité économique fournit des produits et services d’accès à tous les opérateurs, y compris aux autres entités économiques au sein de la société mère, aux mêmes échéances et conditions, y compris en termes de tarif et de niveaux de service et à l'aide des mêmes systèmes et procédés.

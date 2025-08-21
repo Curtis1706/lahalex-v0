@@ -1,0 +1,5 @@
+Engagement général
+1. Les Etats membres s'engagent à réaliser les objectifs de la Communauté, en particulier à prendre toutes mesures requises pour promouvoir la paix, la coopération et l’intégration régionale en harmonisant leurs politiques et en s'abstenant de recourir à toute mesure unilatérale susceptible de compromettre la réalisation desdits objectifs.
+1. Chaque État membre s'engage à prendre toutes les dispositions conformément à ses procédures constitutionnelles pour assurer la promulgation et la diffusion des textes législatifs et règlementaires nécessaires à l’application des dispositions du présent Traité.
+1. Chaque État membre s’engage à honorer ses obligations aux termes du présent Traité et à respecter les décisions, les règlements et les directives de la Communauté.
+1. Les États membres veillent à une répartition juste et équitable des coûts et des avantages de la coopération et de l’intégration économique conformément aux objectifs généraux déclinés dans le préambule.

@@ -1,0 +1,1 @@
+Pour la liquidation des pensions visées à l’article 69 ci-dessus, les services pourront être validés sur demande des ayants-droit.

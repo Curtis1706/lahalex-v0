@@ -1,0 +1,7 @@
+COOPERATION
+1. Dans la poursuite des objectifs du COPAX, la CEEAC coopère et collabore avec toutes les organisations interafricaines et/ou les organisations internationales compétentes.
+1. A cette fin, la Communauté :
+1) harmonise ses activités dans le domaine de la paix, de la sécurité et de la stabilité afin que ces dernières soient conformes aux objectifs et aux principes de l’Union Africaine et des Nations Unies ;
+1) informe régulièrement l’Union Africaine des initiatives et activités du COPAX et travaille en étroite collaboration avec les autres communautés/mécanismes régionaux pour assurer un partenariat efficace sur la base des avantages comparatifs respectifs et du contexte régional ;
+1) prend des mesures nécessaires en vue de la rationalisation des autres Institutions et Organismes de la région, ayant des objectifs et/ou des mécanismes similaires.
+3. La CEEAC collabore avec les organisations communautaires et les organisations de la société civile pour une participation active aux efforts visant à promouvoir la paix, la sécurité et la stabilité en Afrique centrale. Autant que possible, la Commission établit les conditions d’une collaboration régulière avec ces organisations.

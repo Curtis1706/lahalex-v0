@@ -1,0 +1,15 @@
+{
+  "id": "article-113-",
+  "title": "Article 113 : Autorité de régulation",
+  "numero": "113 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-112-",
+    "next": "article-114-"
+  }
+}

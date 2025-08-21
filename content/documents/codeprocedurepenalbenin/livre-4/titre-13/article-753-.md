@@ -1,0 +1,3 @@
+En cas d’urgence, et sur la demande directe des autorités judiciaires du pays requérant, les procureurs de la République compétents peuvent, sur un simple avis, transmis soit par la poste, soit par tout mode de transmission plus rapide laissant une trace écrite ou matériellement équivalente, de l’existence d’une des pièces indiquées par l’article 743, ordonner l’arrestation provisoire de l’étranger.
+Un avis régulier de la demande devra être transmis en même temps par voie diplomatique, par la poste ou par tout mode de transmission laissant une trace écrite, au ministre en charge des affaires étrangères.
+Les procureurs de la République doivent donner avis de cette arrestation au procureur général qui en informe le ministre en charge de la justice.

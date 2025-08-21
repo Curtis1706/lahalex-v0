@@ -1,0 +1,1 @@
+Dans les cas prévus aux alinéas 2 et 3 de l’article 83, les actes de l’état civil sont dressés sur un registre spécial dont la tenue et la conservation sont réglées par arrêté conjoint du ministre chargé de la justice et du ministre chargé de la défense.

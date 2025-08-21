@@ -1,0 +1,1 @@
+Les dispositions de la présente section sont applicables aux aérodromes particuliers, héliports et hydrobases.

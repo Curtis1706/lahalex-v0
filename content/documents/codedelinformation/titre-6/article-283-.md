@@ -1,0 +1,1 @@
+Les infractions aux dispositions de l’article 252 de la présente loi seront punies d’une amende de cinq cent mille (500 000) francs à deux millions (2 000 000) de francs CFA.

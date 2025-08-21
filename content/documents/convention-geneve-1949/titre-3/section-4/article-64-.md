@@ -1,0 +1,4 @@
+Compte du La Puissance détentrice tiendra pour chaque prisonnier de guerre un compte
+prisonnier qui contiendra au moins les indications suivantes :
+1) les montants dûs au prisonnier ou reçus par lui à titre d’avance de solde, d’indemnité de travail ou à tout autre titre ; les sommes, en monnaie de la Puissance détentrice, retirées au prisonnier ; les sommes retirées au prisonnier et converties, sur sa demande, en monnaie de ladite Puissance ;
+1) les sommes remises au prisonnier en espèces ou sous une forme analo- gue ; les paiements faits pour son compte et à sa demande ; les sommes transférées selon le troisième alinéa de l’article précédent.

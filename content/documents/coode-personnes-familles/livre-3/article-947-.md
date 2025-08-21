@@ -1,0 +1,1 @@
+Les pouvoirs de l'exécuteur testamentaire ne passent point à ses héritiers.

@@ -1,0 +1,4 @@
+Modifié par la loi de finances pour 2024
+1) Sont assujettis à un droit de 1 %, les bons de commande et marchés publics dont le prix doit être payé par l’État, les collectivités locales, les établissements publics, les sociétés d’État et autres personnes assimilées. Ce taux est réduit à 0,5 % pour les marchés ayant un prix d’au moins vingt milliards (20.000.000.000) de francs CFA.
+Le droit est liquidé sur le prix hors taxes ou sur l’évaluation des travaux, fournitures, ouvrages ou services imposés à l’attributaire qui en règle le montant.
+2) Lorsque le titulaire d’un marché sous-traite tout ou partie de son contrat et que le marché principal prévoit la sous-traitance, le contrat de sous-traitance doit être enregistré au droit fixe de dix mille (10 000) francs CFA.

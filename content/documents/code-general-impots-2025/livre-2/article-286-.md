@@ -1,0 +1,1 @@
+Sont exonérés de la taxe, les véhicules imposables acquis par les missions diplomatiques et consulaires ou par les organisations internationales.

@@ -1,0 +1,1 @@
+Le conseil de communauté se réunit en session ordinaire une (01) fois par trimestre sur convocation de son président. Il se réunit au siège de l’établissement public de coopération intercommunale ou dans un lieu choisi par le conseil de supervision dans l'une des communs membres.

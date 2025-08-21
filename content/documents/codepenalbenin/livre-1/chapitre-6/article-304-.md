@@ -1,0 +1,5 @@
+Sont punies de la réclusion criminelle à temps de dix (10) ans à vingt (20) ans toutes autres personnes qui ont commis un faux en écriture authentique et publique, soit par :
+- contrefaçon ou altération d’écriture ou de signature ;
+- fabrication de conventions, dispositions, obligations ou décharges ou par leur insertion après coup dans ces actes ;
+- addition ou altération de clauses, de déclarations ou de faits que ces actes avaient pour objet de recevoir et de constater.
+Sont punis des mêmes peines, tous administrateurs ou comptables militaires qui ont porté sciemment sur les rôles, les états de situation ou de revue, un nombre d’hommes, de véhicules automobiles ou de journées de présence au-delà de l’effectif réel, qui ont exagéré le montant des consommations ou ont commis tous autres faux dans leurs comptes.

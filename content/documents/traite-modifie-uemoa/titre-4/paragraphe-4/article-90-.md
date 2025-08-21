@@ -1,0 +1,1 @@
+La Commission est chargée, sous le contrôle de la Cour de Justice, de l'application des règles de concurrence prescrites par les articles 88 et 89. Dans le cadre de cette mission, elle dispose du pouvoir de prendre des décisions.

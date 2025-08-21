@@ -1,0 +1,2 @@
+1) Les assujettis à la taxe sur la valeur ajoutée opèrent les déductions sous leur responsabilité et sont tenus de justifier à tout moment de l’affectation réelle des biens dont l’acquisition a ouvert droit à déduction.
+2)  Toute  déduction  injustifiée  donne  lieu  au  versement  du  montant  de  la  taxe correspondante, sans préjudice de l’application des pénalités prévues à l’article 486 ci- deSOUS.

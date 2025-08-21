@@ -1,0 +1,1 @@
+L’autorité parentale sur l’enfant mineur adopté s’exerce ainsi qu’il est dit à l’article 372 du présent code.

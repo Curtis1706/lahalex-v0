@@ -1,0 +1,1 @@
+Le droit à pension de conjoint n’existe pas s’il est de notoriété publique et établi que le conjoint a abandonné le domicile conjugal plus de 12 mois avant le décès de l’assuré

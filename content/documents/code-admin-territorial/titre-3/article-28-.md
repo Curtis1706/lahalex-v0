@@ -1,0 +1,1 @@
+Les critères de catégorisation ainsi que la catégorisation des communes sont fixés par décret pris en Conseil des ministres.

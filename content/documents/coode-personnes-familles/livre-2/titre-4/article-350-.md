@@ -1,0 +1,1 @@
+Le placement en vue de l’adoption est décidé par le président du tribunal de première instance de la résidence de l'enfant, sur requête présentée par les personnes désignées dans le présent code, par le futur adoptant, par un service social ou par le ministère public.

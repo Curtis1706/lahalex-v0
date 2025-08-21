@@ -1,0 +1,15 @@
+{
+  "id": "article-203-",
+  "title": "Article 203 : Plan national de numérotation",
+  "numero": "203 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-3"
+  ],
+  "navigation": {
+    "parent": "titre-3",
+    "previous": "article-202-",
+    "next": "article-204-"
+  }
+}

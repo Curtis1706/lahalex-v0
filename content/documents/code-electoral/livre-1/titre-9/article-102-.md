@@ -1,0 +1,3 @@
+Conformément aux dispositions de l'article 117 alinéa 2 de la Constitution du 11 décembre 1990, la Cour constitutionnelle :
+- veille à la régularité de l'élection du duo président de la République et vice-président de la République ; examine les réclamations, statue sur les irrégularités qu'elle aurait pu, par elle-même relever et proclame les résultats du scrutin.
+Les décisions de la Cour Constitutionnelle sont publiées immédiatement après la proclamation des résultats.

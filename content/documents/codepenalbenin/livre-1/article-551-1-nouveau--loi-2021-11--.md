@@ -1,0 +1,3 @@
+« Toute liaison amoureuse entre un formateur ou un enseignant et son apprenant est interdite.
+Lorsqu’une liaison amoureuse est établie par des échanges ou comportements de quelque nature que ce soit, des actes ou faits qui en caractérisent la réalité, elle est réputée consécutive à un harcèlement sexuel et punie des peines prévues à l’article 551 du présent code.
+En aucun cas, le consentement de l’apprenant ne peut être retenu ».

@@ -1,0 +1,1 @@
+Sont soumises aux dispositions du présent titre, les personnes, de quelque nationalité qu’elles soient, embarquées à bord des navires béninois comme membres de l’équipage, passagers ou pilotes, à l’exception des personnels militaires et marins des forces armées de la République du Bénin régulièrement requis.

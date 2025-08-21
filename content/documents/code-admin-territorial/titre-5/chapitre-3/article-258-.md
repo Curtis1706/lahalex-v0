@@ -1,0 +1,1 @@
+Tout contribuable inscrit au rôle de la commune a le droit d’intenter, tant en demande qu'en défense, à ses frais et risques, les actions qu’il croit appartenir à la commune et que le conseil de supervision, préalablement interpellé par ses soins à en délibérer, a refusé ou négligé d'exercer.

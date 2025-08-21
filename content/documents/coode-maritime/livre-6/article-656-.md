@@ -1,0 +1,1 @@
+Les propriétaires des marchandises ayant séjourné sur les quais au-delà du délai fixé par l’autorité portuaire, sont passibles d’une amende de cinq cent mille (500.000) francs à cinq millions (5.000.000) de francs.

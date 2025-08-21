@@ -1,0 +1,5 @@
+La juridiction de l’Etat ne s’exerce pas à bord d’un navire étranger passant dans la mer territoriale, en provenance de ports étrangers. Toutefois, la juridiction pénale béninoise s’exerce :
+- si les conséquences de l’infraction dépassent le cadre du navire et s’étendent au territoire béninois ou sont de nature à troubler l’ordre public dans la mer territoriale béninoise ;
+- si l’assistance des autorités béninoises a été demandée par le capitaine du navire ou par un agent diplomatique ou consulaire de l’Etat du pavillon ;
+- si cette action est nécessaire pour la répression de trafic reconnu au plan international comme illicite.
+En tout état de cause, l’Etat béninois peut prendre toutes mesures autorisées par sa législation pour faire rendre compétente sa juridiction pénale ou civile à l’égard des personnes et des biens se trouvant à bord d’un navire étranger qui passe dans la mer territoriale en provenance de ports béninois.

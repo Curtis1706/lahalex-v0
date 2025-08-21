@@ -1,0 +1,2 @@
+Obligations des prestataires de confiance
+Sans préjudice du Livre II, les prestataires de services visés par le Livre précité sont soumis aux exigences en matière de protection des données à caractère personnel prévues par les dispositions du présent Livre.

@@ -1,0 +1,2 @@
+L’enquête maritime doit être effectuée par les personnes habilitées dans les trois (03) jours au plus tard suivant la réception par l’autorité maritime des informations visées à l’article 197 ci-dessus.
+Les personnes habilitées à effectuer l’enquête peuvent se réunir à bord du navire et y convoquer, en vue de les entendre, le propriétaire du navire, les propriétaires de la cargaison, l’assureur et toute autre personne concernée par la survenance de l'événement.

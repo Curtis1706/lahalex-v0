@@ -1,0 +1,4 @@
+Lorsque le tribunal statue sur une demande de mise en liberté provisoire conformément à l’article 158 du présent code, le procureur de la République et le prévenu peuvent interjeter appel dans un délai de vingt-quatre (24) heures qui court, contre le procureur de la République à compter du jour du jugement, et contre le prévenu à compter du jour de la notification.
+Le prévenu détenu est maintenu en prison jusqu’à ce qu’il ait été statué sur l’appel du procureur de la République et dans tous les cas jusqu’à l’expiration du délai de cet appel à moins que celui-ci ne consente à la liberté immédiate.
+La décision de la cour d’appel sur la liberté provisoire doit intervenir dans un délai de trente (30) jours à compter du jour de l’appel.
+Dans tous les cas, l’appel contre une décision de mise en liberté provisoire ne suspend pas l’instruction de l’affaire au fond. Mais la décision sur le fond ne peut intervenir avant l’expiration du délai de trente (30) jours sus-indiqué.

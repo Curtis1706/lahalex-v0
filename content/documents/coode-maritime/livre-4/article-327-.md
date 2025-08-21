@@ -1,0 +1,1 @@
+Le fréteur peut laisser à l’affréteur la gestion nautique du navire.

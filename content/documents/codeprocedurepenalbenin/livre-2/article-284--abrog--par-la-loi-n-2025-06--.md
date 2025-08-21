@@ -1,0 +1,1 @@
+Les débats ne peuvent s’ouvrir moins de cinq (05) jours après l’interrogatoire prévu par l’article 278 du présent code. L’accusé et son avocat peuvent renoncer à ce délai.

@@ -1,0 +1,14 @@
+{
+  "id": "article-111-",
+  "title": "Article 111 : Versement d'avances",
+  "numero": "111 ",
+  "document": "code-marche-public",
+  "path": [
+    "titre-4"
+  ],
+  "navigation": {
+    "parent": "titre-4",
+    "previous": "article-110-",
+    "next": "article-112-"
+  }
+}

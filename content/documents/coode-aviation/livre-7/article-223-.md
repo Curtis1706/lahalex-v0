@@ -1,0 +1,2 @@
+Les entreprises de transport aérien autorisées communiquent, sur demande des inspecteurs de l'organisme national en charge de l'aviation civile chargés du contrôle, tous les documents nécessaires à l'exercice de leurs fonctions.
+Les inspecteurs chargés du contrôle ont accès, sans restriction et à tout moment, aux aéronefs et installations des entreprises autorisées pour l'exercice de leur fonction, sur présentation d'un document officiel d'identité et d'un ordre de mission délivrés par l'organisme national en charge de l'aviation civile.

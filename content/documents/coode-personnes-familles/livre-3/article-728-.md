@@ -1,0 +1,2 @@
+Le rapport est dû de la valeur de la dette en capital et intérêts au moment du partage.
+Les fruits et les intérêts des choses sujettes à rapport ne sont dus qu’à compter du jour de l’ouverture de la succession.

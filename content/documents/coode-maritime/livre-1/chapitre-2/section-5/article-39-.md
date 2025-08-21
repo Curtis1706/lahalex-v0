@@ -1,0 +1,1 @@
+La délivrance ou le renouvellement des titres de sécurité, les visites de contrôle et les visites de partance donnent lieu à la perception de taxes.

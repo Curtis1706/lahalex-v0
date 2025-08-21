@@ -1,0 +1,2 @@
+La publicité est conçue de manière à ne pas abuser de la confiance, ni exploiter le manque d’expérience et de connaissance des consommateurs.
+Les messages publicitaires sont conçus et réalisés de manière qu’ils ne soient pas susceptibles directement ou indirectement, par exagération ou par omission ou en raison de leur caractère ambigu, d’induire en erreur le consommateur.

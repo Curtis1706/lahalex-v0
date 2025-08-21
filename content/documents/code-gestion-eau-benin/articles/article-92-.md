@@ -1,0 +1,6 @@
+Article 92 : Un décret pris en conseil des ministres, sur rapport du ministre, détermine en tant que de besoin :
+les conditions, notamment de délais, dans lesquelles les propriétaires ou exploitants d’installations ou d’ouvrages visés aux articles 41 à 43 et 47 de la présente loi, sont tenus de déclarer au ministre les installations et ouvrages construits ou exploités avant la promulgation de la présente loi ;
+les dispositions de tous ordres applicables à ces installations et ouvrages, et en particulier le délai au terme duquel ils doivent satisfaire aux obligations légales ;
+les sanctions administratives qui peuvent être prises à l’encontre des propriétaires ou exploitants qui n’ont pas souscrit à la déclaration exigée au premier tiret ci-dessus, sans préjudice des sanctions pénales prévues à l’article 80 de la présente loi.
+Dans les cas où la mise en conformité de ces installations et ouvrages s’avèrent impossible pour des raisons de droit ou de fait, le même décret détermine les conséquences juridiques et administratives qui en résultent.
+Les extensions ou modifications d’installations ou d’ouvrages restent soumises aux dispositions de la présente loi.

@@ -1,0 +1,3 @@
+La détermination du nombre de sièges par arrondissement s'effectue sur la base d'une répartition proportionnelle au poids démographique.
+Cette répartition proportionnelle se fait sur la base du quotient communal. Le quotient s'obtient en divisant l'effectif de la population de la commune par le nombre de sièges à pourvoir au Conseil communal.
+L'effectif de la population est celui indiqué dans le dernier recensement général de la population et de l'habitat (RGPH).

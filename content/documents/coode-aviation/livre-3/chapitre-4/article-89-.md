@@ -1,0 +1,2 @@
+En cas de non-paiement de la redevance due par l’exploitant d'un aéronef ou son propriétaire, l'organisme chargé de sa liquidation et de son recouvrement est autorisé, dans le respect des procédures applicables, à obtenir qu'un aéronef exploité par cet exploitant ou appartenant à ce propriétaire qui atterrit sur le territoire national, soit retenu jusqu'à consignation du montant dû.
+L’autorité responsable de la circulation aérienne et le commissariat de police territorialement compétent apportent leur concours à l'application du présent article.

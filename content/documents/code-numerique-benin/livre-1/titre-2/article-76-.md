@@ -1,0 +1,2 @@
+Accès des opérateurs mobiles virtuels
+Sans préjudice des dispositions prévues dans la Section 1, les opérateurs de radiocommunications doivent faire droit dans des conditions objectives, transparentes et non discriminatoires aux demandes d’accès et d’interconnexion présentées par des opérateurs de réseaux mobiles virtuels (MVNO) dûment autorisés en vue de fournir des services de communications électroniques aux utilisateurs.

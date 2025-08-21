@@ -1,0 +1,3 @@
+Est puni d'une amende maximale de deux millions (2 000 000) de francs CFA et d’un emprisonnement maximal d'un an ou de l'une de ces deux peines seulement, quiconque :
+1. s'est trouvé à bord d'un aéronef en vol sans pouvoir justifier sa présence par un titre de transport régulier ou par l'assentiment de l'exploitant ou du commandant de bord ;
+2. ne s'est pas conformé ou a refusé de se conformer aux instructions du commandant de bord en vue de la sécurité de l'aéronef ou de celles des personnes transportées. ^

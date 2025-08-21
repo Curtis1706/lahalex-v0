@@ -1,0 +1,1 @@
+Il est interdit de commercialiser, en connaissant leur destination, des produits, objets ou appareils propres à effectuer la falsification des denrées alimentaires, et de provoquer l’emploi desdits produits, objets ou appareils au moyen de brochures, circulaires, prospectus, affiches, annonces ou instructions quelconques.

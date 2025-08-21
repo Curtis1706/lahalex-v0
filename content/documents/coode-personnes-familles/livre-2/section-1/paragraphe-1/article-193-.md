@@ -1,0 +1,2 @@
+Chaque époux conserve la pleine propriété de ses biens propres, la communauté n’a droit qu’aux fruits perçus et non consommés.
+Récompense pourra être due à la communauté à sa dissolution pour les fruits que l’époux a négligé de percevoir ou a consommés frauduleusement, sans qu’aucune requête ne soit recevable au-delà des cinq (5) dernières années.

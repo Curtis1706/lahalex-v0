@@ -1,0 +1,1 @@
+L’autorité de tutelle est saisie, soit par le comptable public concerné, soit par toute personne y ayant intérêt, pour constater qu'une dépense obligatoire n’a pas été inscrite au budget ou l'a été pour un montant insuffisant.

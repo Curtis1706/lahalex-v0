@@ -1,0 +1,1 @@
+La preuve du don manuel par le donateur peut être faite par tous moyens.

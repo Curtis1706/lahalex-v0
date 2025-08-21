@@ -1,0 +1,16 @@
+{
+  "id": "article-12--",
+  "title": "Article 12  :nouveau (LOI N°2021-13)",
+  "numero": "12  ",
+  "document": "coode-personnes-familles",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-2"
+  ],
+  "navigation": {
+    "parent": "chapitre-2",
+    "previous": "article-12-1",
+    "next": "article-13-"
+  }
+}

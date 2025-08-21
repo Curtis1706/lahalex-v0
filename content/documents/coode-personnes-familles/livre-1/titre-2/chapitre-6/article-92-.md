@@ -1,0 +1,1 @@
+L'officier de l’état civil doit se faire présenter le livret de famille chaque fois que se produit un fait devant y être mentionné.

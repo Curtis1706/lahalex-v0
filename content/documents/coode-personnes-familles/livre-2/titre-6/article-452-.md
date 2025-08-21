@@ -1,0 +1,3 @@
+L’administration légale cesse par la majorité ou l’émancipation de l’enfant.
+À tout moment, soit d’office, soit à la requête de parents ou alliés ou du ministère public, le juge des tutelles peut convertir en tutelle l'administration légale lorsque cette mesure est rendue nécessaire par le comportement de l'administrateur légal. La tutelle peut également se substituer à l’administration légale sur décision du juge des tutelles en cas de remariage de la mère ou de mariage de la mère naturelle exerçant l'autorité parentale.
+En cas de conversion de l'administration légale en tutelle, l’administrateur légal a les fonctions de tuteur et ne peut être dispensé ou déchargé de la tutelle. Les causes d’interdiction d’exercice de la tutelle lui sont applicables.

@@ -1,0 +1,2 @@
+Dans le cas d’omissions ou d’erreurs purement matérielles commises dans la rédaction des actes dressés dans son ressort, il appartient au président du tribunal de première instance de procéder à leur rectification soit d’office, soit à la requête du procureur de la République.
+Le cas échéant, le président du tribunal de première instance donne directement les instructions utiles aux dépositaires des registres.

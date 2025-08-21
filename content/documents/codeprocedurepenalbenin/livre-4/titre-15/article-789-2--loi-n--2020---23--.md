@@ -1,0 +1,1 @@
+Nonobstant les règles et principes régissant le secret de l'instruction, toutes informations concernant des affaires pénales relatives à la corruption peuvent être communiquées à toutes autorités judiciaires d'un Etat étranger par toutes autorités judiciaires de la République du Bénin, sous réserve de réciprocité.

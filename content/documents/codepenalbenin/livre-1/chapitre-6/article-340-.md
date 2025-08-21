@@ -1,0 +1,1 @@
+Tout juge ou administrateur qui s’est décidé par faveur pour une partie, ou par inimitié contre elle, est coupable de forfaiture et puni de la dégradation civique.

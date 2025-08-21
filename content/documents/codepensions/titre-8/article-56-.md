@@ -1,0 +1,1 @@
+L’Employeur doit, en conséquence, exiger du travailleur la communication de toutes les pièces nécessaires à la constitution de son dossier au moins un an avant la date de son admission à la retraite.

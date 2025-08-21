@@ -1,0 +1,1 @@
+Le greffier, par lettre recommandée avec avis de réception indiquant l’objet de la demande, convoque les époux qui doivent comparaître en personne, sauf empêchement absolu et dûment justifié. L’ordonnance rendue est exécutoire par provision nonobstant opposition ou appel.

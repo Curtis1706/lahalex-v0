@@ -1,0 +1,1 @@
+Article 380 : Tout attentat à la pudeur tenté ou consommé avec violences, contrainte, menaces ou surprise sur la personne d’un enfant est puni de deux (02) ans à cinq (05) ans d’emprisonnement et d’une amende de cent mille (100 000) à cinq cent mille (500 000) francs CFA.

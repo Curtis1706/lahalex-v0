@@ -1,0 +1,1 @@
+En cas d'absence ou d’empêchement définitif du chef de village ou de quartier de ville, son intérim est assuré par un conseiller désigné par le conseil de village ou de quartier de ville. L'intérim ou de la vacance en cas d’empêchement définitif ne peut excéder six (06) mois. Il est pourvu à son remplacement conformément au code électoral.

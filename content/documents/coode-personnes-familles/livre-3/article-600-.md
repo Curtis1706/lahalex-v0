@@ -1,0 +1,1 @@
+Sous réserve de l’article 381 du présent code, la qualité d’héritier s’établit par tous moyens. Elle peut être établie à l’égard des tiers par un intitulé d’inventaire notarié, par un acte de notoriété dressé par un notaire ou par un jugement d’héritier établi par le tribunal de première instance sur la déclaration de deux témoins et rendu en audience publique.

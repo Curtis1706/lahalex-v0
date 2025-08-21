@@ -1,0 +1,1 @@
+L’acceptation peut être expresse ou tacite ; elle est expresse quand le successible prend le titre ou la qualité d’héritier dans un acte authentique ou privé ; elle est tacite quand le successible fait un acte juridique ou matériel qui suppose nécessairement son intention d’accepter et qu’il n’aurait le droit de faire qu’en sa qualité d’héritier.

@@ -1,0 +1,1 @@
+Tout certificat délivré par l'organisme national en charge de l'aviation civile peut être suspendu ou annulé en cas de non-respect des obligations par le propriétaire.

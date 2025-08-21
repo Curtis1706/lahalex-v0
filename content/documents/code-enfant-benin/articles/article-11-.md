@@ -1,0 +1,3 @@
+Article 11 : Priorité du milieu familial
+Toute décision prise doit tendre à maintenir l’enfant dans son milieu familial et à éviter de le séparer de ses parents, sauf s’il apparaît à l’autorité judiciaire que cette séparation est nécessaire pour sauvegarder l’intérêt supérieur de l’enfant.
+Ladite décision garantit à l’enfant le droit de continuer à bénéficier des différentes conditions de vie et des services adaptés à ses besoins, à son âge et correspondant au milieu familial normal.

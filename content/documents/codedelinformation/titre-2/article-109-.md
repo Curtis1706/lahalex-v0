@@ -1,0 +1,2 @@
+Les adresses du Président de la République sont susceptibles, dans le but de l’animation de la vie politique, de répliques et de commentaires de la part des leaders des divers courants politiques et d’opinion.
+Les temps horaires accordés à ces répliques et commentaires ne sont pas comptabilisés dans les crédits horaires des formations politiques des intervenants.

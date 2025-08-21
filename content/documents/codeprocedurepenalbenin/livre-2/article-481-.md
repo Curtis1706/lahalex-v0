@@ -1,0 +1,7 @@
+Si dans le cas d’un délit de droit commun, la peine prononcée est au moins de trois (03) mois d’emprisonnement, le tribunal peut décerner, par décision spéciale et motivée, mandat de dépôt ou d’arrêt contre le prévenu.
+Le mandat d’arrêt continue à produire son effet, même si le tribunal, sur opposition, ou la cour, sur appel réduit la peine à moins de trois (03) mois.
+Le mandat de dépôt décerné par le tribunal produit également effet lorsque sur appel, la cour réduit la peine d’emprisonnement à moins de trois (03) mois.
+Toutefois le tribunal, sur opposition, ou la cour, sur appel, a la faculté de donner mainlevée de ces mandats.
+En toutes circonstances, les mandats décernés dans les cas susvisés continuent de produire leur effet, nonobstant le pourvoi en cassation.
+En cas d’opposition au jugement dans les conditions prévues à l’article 505 du présent code, l’affaire doit venir devant le tribunal à la première audience ou au plus tard dans la huitaine du jour de l’opposition, faute de quoi le prévenu doit être mis en liberté d’office.
+S’il y a lieu à remise, le tribunal doit statuer d’office par une décision motivée sur le maintien ou la mainlevée du mandat, le ministère public entendu, le tout sans préjudice de la faculté pour le prévenu de former une demande de mise en liberté dans les conditions prévues par l’article 158 du présent code.

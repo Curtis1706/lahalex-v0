@@ -1,0 +1,4 @@
+Article 158 : Interdiction des formes de harcèlement
+Toute forme de harcèlement exercé sur l’enfant est interdite.
+Constitue un harcèlement sexuel sur un mineur en situation de vulnérabilité ou de subordination, le fait pour quelqu’un de donner des ordres, d’user de paroles, de gestes, d’écrits, de messages et ce, de façon répétée, de proférer des menaces, d’imposer des contraintes, d’exercer des pressions ou d’utiliser tout autre moyen aux fins d’obtenir, contre la volonté de ce dernier, des faveurs de nature sexuelle à son profit ou au profit d’une tierce personne.
+SECTION IV : DE LA MOBILITE DES ENFANTS

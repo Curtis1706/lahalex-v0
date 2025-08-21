@@ -1,0 +1,1 @@
+La commune initie et conclut les marchés publics dans les conditions prévues par le code des marchés publics, sous réserve des dispositions particulières de la présente loi.

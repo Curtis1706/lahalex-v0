@@ -1,0 +1,13 @@
+Encadré du contrat vie
+L’encadré mentionné à l’article 65 est placé en tête de proposition d’assurance ou du projet de contrat. Sa taille ne dépasse pas une page et il contient, de façon limitative et dans l’ordre précisé ci-dessous, les informations suivantes :
+1.  Il est indiqué si le contrat est un contrat d’assurance vie individuel ou de groupe, ou un contrat de capitalisation.
+2.  Les garanties offertes, y compris les garanties complémentaires, sont indiquées, avec référence aux clauses les définissant ; il est précisé en particulier si le contrat prévoit le paiement d’un capital ou d’une rente ; il est en outre indiqué si le contrat comporte ou non une garantie en capital au moins égale aux sommes versées, nettes de frais.
+3.  Il est également précisé le délai de paiement des prestations échues ou des prestations prévues en cas de décès.
+4.  Sont indiqués l’existence ou non d’une participation aux bénéfices contractuelle ainsi que, le cas échéant, les pourcentages de celle-ci ; sont également indiquées les conditions d’affectation de la participation bénéficiaire.
+5.  Il est indiqué que le contrat comporte une faculté de rachat. Cette indication est complétée par la mention « les sommes sont versées par l’assureur dans un délai de ... (délai de versement) » ; sont également indiquées les références à la clause relative aux modalités de rachat et au tableau mentionné à l’article 65.
+6.  Sont indiqués dans une même rubrique les frais et indemnités de toute nature mentionnés à l’article 64-1. Pour ces frais et indemnités, la rubrique distingue :
+« frais à l’entrée et sur versements » : montant ou pourcentage maximum des frais prélevés lors de la souscription et lors du versement des primes ;
+« frais en cours de vie du contrat » : montant ou pourcentage maximum, sur base annuelle, des frais prélevés et non liés au versement des garanties ou des primes ;
+« frais de sortie » : montant ou pourcentage maximum des frais sur quittances d’arrérages, indemnités mentionnées à l’article 76 ;
+« autres frais » : montant ou pourcentage maximum des frais et indemnités non mentionnés aux trois alinéas précédents.
+7) La mention suivante est insérée avant l’encadré : « Cet encadré a pour objet d’attirer l’attention du souscripteur (ou de l’adhérent) sur certaines dispositions essentielles de la proposition d’assurance (ou du projet de contrat). Il est important que le souscripteur (ou l’adhérent) lise intégralement la proposition d’assurance (ou le projet de contrat), et pose toutes les questions qu’il estime nécessaires avant de signer le contrat (ou le bulletin d’adhésion) ».

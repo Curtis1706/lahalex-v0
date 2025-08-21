@@ -1,0 +1,1 @@
+Lorsqu’à l’occasion d’un transport sous charte-partie, un connaissement ou titre équivalent a été délivré pour constater l’embarquement de la marchandise, il est présumé qu’aucune des mentions de ce document n’entraîne novation ou modification des obligations résultant de la charte-partie à l’égard des signataires de celle-ci.

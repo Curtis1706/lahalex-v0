@@ -1,0 +1,2 @@
+Les assesseurs peuvent poser des questions aux accusés et aux témoins par l’intermédiaire du président.
+Ils ne doivent pas manifester leur opinion.

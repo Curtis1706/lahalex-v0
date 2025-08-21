@@ -1,0 +1,2 @@
+Charge de la preuve
+La charge de la preuve de l'existence d'une information 	préalable, d'une confirmation des informations communiquées, du respect des délais et du consentement de l'utilisateur incombe au fournisseur de biens ou services en ligne.

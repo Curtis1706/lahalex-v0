@@ -1,0 +1,1 @@
+Le contrôle juridictionnel des comptes des communes et établissements publics de coopération intercommunale est exercé par les juridictions des comptes, selon les règles de compétence et de procédure en vigueur.

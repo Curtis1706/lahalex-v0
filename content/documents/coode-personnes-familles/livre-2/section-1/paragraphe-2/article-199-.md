@@ -1,0 +1,1 @@
+Les dettes d’aliments autres que celles ayant trait aux besoins de la famille sont propres à l’époux débiteur. Elles peuvent être poursuivies sur ses biens propres et ses revenus ainsi que sur les biens communs, sauf la récompense due à la communauté s’il y a lieu.

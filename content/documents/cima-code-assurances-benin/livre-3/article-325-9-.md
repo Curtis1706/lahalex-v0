@@ -1,0 +1,4 @@
+Transactions, aliénations
+Le liquidateur peut, avec l’autorisation du juge-contrôleur, transiger sur l’existence ou le montant des créances contestées sur les dettes de l’entreprise.
+Le liquidateur ne peut aliéner les immeubles appartenant à l’entreprise et les valeurs mobilières non cotées en Bourse que par voie d’enchères publiques, à moins d’autorisation spéciale du juge-contrôleur. Celui-ci a la faculté d’ordonner des expertises aux frais de la liquidation.
+Nonobstant toute disposition contraire, les valeurs et immeubles des entreprises étrangères, mentionnés aux articles 332 et 332-1 peuvent être réalisés par le liquidateur et les fonds utilisés par lui à l’exécution des contrats.

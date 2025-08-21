@@ -1,0 +1,3 @@
+La politique monétaire de l'Union est régie par les dispositions du Traité du 14 novembre 1973 constituant l'Union Monétaire Ouest africaine (UMOA) et par les textes subséquents. Sans préjudice des objectifs qui lui sont ainsi assignés, elle soutient l'intégration économique de l'Union.
+Section Il : De la politique économique Article 63
+Les Etats membres considèrent leurs politiques économiques comme une question d'intérêt commun et les coordonnent au sein du Conseil en vue de la réalisation des objectifs définis à l'article 4 paragraphe b) du présent Traité. A cette fin, le Conseil met en place un dispositif de surveillance multilatérale des politiques économiques de l'Union dont les modalités sont fixées aux articles 64 à 75.

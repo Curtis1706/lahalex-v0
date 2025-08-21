@@ -1,0 +1,4 @@
+Droit d’utiliser des ressources rares
+L’utilisation de ressources rares qui font l’objet d’une attribution par l’Autorité de régulation, sous quelque forme que ce soit, requiert l’obtention d’une licence, d’une autorisation ou la réalisation d’une déclaration, sauf dans les cas où le présent code en dispose autrement.
+En cas de non-respect des dispositions relatives à l’attribution ou à l’utilisation de ces ressources rares, celles-ci peuvent être retirées par l’Autorité de régulation dans les conditions prévues aux articles 239 et suivants du présent code.
+En cas d’annulation, de retrait, d’abandon, d’expiration, ou de toute autre forme de perte d’une licence ou d’une autorisation ou de radiation d’une déclaration, les ressources utilisées dans le cadre de la licence, de l’autorisation ou de la déclaration sont automatiquement retirées. Il en est de même en cas d’interdiction d’exercer une activité de communications électroniques.

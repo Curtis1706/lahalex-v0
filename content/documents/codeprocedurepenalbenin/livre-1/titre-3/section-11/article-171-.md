@@ -1,0 +1,1 @@
+Le juge d’instruction fixe le délai dans lequel les procès-verbaux dressés par l’officier de police judiciaire doivent lui être transmis par celui-ci. A défaut d’une telle fixation, ces procès-verbaux doivent lui être transmis dans les huit (08) jours de la fin des opérations exécutées en vertu de la commission rogatoire.

@@ -1,0 +1,16 @@
+{
+  "id": "article-36-",
+  "title": "Article 36 :",
+  "numero": "36 ",
+  "document": "coode-maritime",
+  "path": [
+    "livre-1",
+    "chapitre-2",
+    "section-3"
+  ],
+  "navigation": {
+    "parent": "section-3",
+    "previous": "article-35-",
+    "next": "article-37-"
+  }
+}

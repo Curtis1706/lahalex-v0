@@ -1,0 +1,2 @@
+Services de conservation qualifiés des signatures électroniques qualifiées
+Un service de conservation qualifié des signatures électroniques qualifiées ne peut être fourni que par un prestataire de services de confiance qualifié qui utilise des procédures et des technologies permettant d’étendre la fiabilité des signatures électroniques qualifiées au-delà de la période de validité technologique.

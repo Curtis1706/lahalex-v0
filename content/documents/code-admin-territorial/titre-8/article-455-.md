@@ -1,0 +1,1 @@
+En matière de recettes fiscales, le receveur des impôts, agissant pour le compte du comptable de la commune, prend en charge, sous sa responsabilité personnelle et pécuniaire, les titres. Il accomplit toutes diligences pour recouvrer les produits aux échéances déterminées par les lois, règlements ou actes qui les régissent.

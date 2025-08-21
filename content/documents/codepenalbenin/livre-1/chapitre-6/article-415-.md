@@ -1,0 +1,3 @@
+Si les violences exercées contre les fonctionnaires et agents désignés à l’article 414 ci-dessus ont été la cause d’effusion de sang, de blessures ou de maladie, la peine est l’emprisonnement de trois (03) ans à cinq (05) ans et l’amende de cinquante mille (50.000) francs CFA à deux cent cinquante mille (250.000) francs CFA.
+Si elles ont été suivies de mutilation, amputation ou privation de l’usage d’un membre, cécité, perte d’un œil, ou autres infirmités permanentes, le coupable est puni de la réclusion criminelle à temps de dix (10) ans à vingt (20) ans.
+Si la mort s’en est suivie, le coupable est puni de la réclusion criminelle à perpétuité.

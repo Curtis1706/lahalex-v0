@@ -1,0 +1,1 @@
+Nonobstant les dispositions de l’article précédent, les actes valablement accomplis au cours d’une indivision organisée dans les conditions prévues aux articles 755 à 759 conservent leurs effets quel que soit, au partage, l’attributaire des biens sur lesquels ils portent.

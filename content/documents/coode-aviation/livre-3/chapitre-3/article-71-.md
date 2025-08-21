@@ -1,0 +1,2 @@
+Toute personne faisant partie du personnel chargé de la conduite d’un aéronef est pourvue d'une licence ou de licences d'aptitude, en cours de validité.
+Un décret pris en Conseil des ministres fixe les conditions et modalités de délivrance des licences d'aptitude.

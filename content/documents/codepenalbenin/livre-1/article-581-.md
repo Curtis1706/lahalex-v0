@@ -1,0 +1,2 @@
+On entend par prostitution des enfants le fait d'utiliser un enfant aux fins d'activités sexuelles contre rémunération ou toute autre forme d'avantage ;
+La prostitution d’enfant est punie de la réclusion criminelle à temps de dix (10) ans à vingt (20) ans.

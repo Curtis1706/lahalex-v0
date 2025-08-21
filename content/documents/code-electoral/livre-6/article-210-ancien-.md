@@ -1,0 +1,1 @@
+En attendant l'entrée en vigueur d'une nouvelle loi relative à l'organisation des élections locales, les membres des conseils de village ou de quartier de ville, les chefs de village ou de quartier de ville en exercice, restent en fonction jusqu'à l'élection des nouveaux membres des conseils de village ou de quartier de ville et des chefs de village ou de quartier de ville.

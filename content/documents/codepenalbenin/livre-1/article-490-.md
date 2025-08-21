@@ -1,0 +1,1 @@
+Il est interdit de se soustraire aux contrôles requis des produits avant de les commercialiser surtout lorsque ces contrôles sont systématiques.

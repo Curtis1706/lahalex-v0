@@ -1,0 +1,2 @@
+La dévolution successorale concernant la désignation des successibles, l’ordre B dans lequel ils sont appelés, la transmission de l’actif et du passif à chacun d’entre eux, l’option des héritiers sont régis par la loi en vigueur au jour de l’ouverture de la succession.
+Le règlement successoral est régi, pour le partage de l’actif et/répartition du passif, par la loi en vigueur au jour où intervient l’acte de partage.

@@ -1,0 +1,3 @@
+Implantation, transfert et modification des stations radioélectriques
+Afin d’assurer une utilisation optimale des sites disponibles permettant d’atteindre la meilleure compatibilité électromagnétique d’ensemble, les décisions d’implantation, de transfert ou de modification des stations radioélectriques, à l’exception de celles des entreprises exploitant des installations destinées exclusivement à la radiodiffusion ou à la télévision hertzienne, sont prises après avis conforme de l’Autorité de régulation.
+L’accord de l’Autorité de régulation est obligatoire dans tous les autres cas d’utilisation civile et commune à l’exception des dérogations spécifiées dans un décret d’application.

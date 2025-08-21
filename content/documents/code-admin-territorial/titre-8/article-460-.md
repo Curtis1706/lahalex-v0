@@ -1,0 +1,1 @@
+Les règles de prescription des créances des communes et établissements publics de coopération intercommunale sur des particuliers ou personnes morales sont régies par les lois et règlements.

@@ -1,0 +1,17 @@
+{
+  "id": "article-37-ancien-",
+  "title": "Article 37 ancien : Pour chaque élection, le Conseil électoral, sur proposition de la Direction générale des élections, désigne par arrondissement, un coordonnateur chargé de l'organisation des opérations électorales.",
+  "numero": "37 ancien ",
+  "document": "code-electoral",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "chapitre-3",
+    "section-4"
+  ],
+  "navigation": {
+    "parent": "section-4",
+    "previous": "article-36-",
+    "next": "article-37-"
+  }
+}

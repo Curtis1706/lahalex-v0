@@ -1,0 +1,1 @@
+La nullité de droit définie à l'article 155 de la présente loi est déclarée par toute autorité administrative supérieure ou juridictionnelle.

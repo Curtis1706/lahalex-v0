@@ -1,0 +1,1 @@
+L’action publique et l’action civile résultant d’une infraction de l’employeur ou de son préposé aux dispositions de la présente loi sont prescrites dans les conditions prévues aux Codes de procédure pénale et civile.

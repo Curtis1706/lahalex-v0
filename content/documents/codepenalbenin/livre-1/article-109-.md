@@ -1,0 +1,2 @@
+Le sursis avec mise à l’épreuve est applicable aux condamnations à l’emprisonnement prononcées pour une durée de cinq (05) ans au plus, en raison d’un crime ou d’un délit de droit commun.
+Toutes les fois que la juridiction n’a pas prononcé l’exécution provisoire, la mise à l’épreuve n’est applicable qu’à compter du jour où la condamnation devient exécutoire selon les dispositions du code de procédure pénale.

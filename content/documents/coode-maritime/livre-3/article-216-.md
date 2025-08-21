@@ -1,0 +1,1 @@
+Hormis les cas prévus à l’article 215 ci-dessus, les autres cas de radiation sont fixés par voie réglementaire.

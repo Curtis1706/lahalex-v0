@@ -1,0 +1,17 @@
+{
+  "id": "article-34-",
+  "title": "Article 34 :",
+  "numero": "34 ",
+  "document": "traite-modifie-uemoa",
+  "path": [
+    "titre-2",
+    "chapitre-2",
+    "section-1",
+    "paragraphe-3"
+  ],
+  "navigation": {
+    "parent": "paragraphe-3",
+    "previous": "article-32-",
+    "next": "article-36-"
+  }
+}

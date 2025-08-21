@@ -1,0 +1,3 @@
+Sanctions
+Est puni d'un (1) an d'emprisonnement et de cinquante millions (50 000 000) de francs CFA d'amende le fait, pour une personne physique ou le dirigeant de droit ou de fait d'une personne morale exerçant l'activité de fournisseur d'accès à internet ou de fournisseur de services en ligne, de ne pas satisfaire à l’une quelconque des obligations définies aux articles 495 à 500 du présent code.
+Est puni d'un (1) an d'emprisonnement et de cinquante millions (50 000 000) de francs CFA d'amende le fait, pour une personne physique ou le dirigeant de droit ou de fait d'une personne morale exerçant l'activité d'éditeur de services de communications au public en ligne, de ne pas avoir respecté les prescriptions de l'article 501 du présent code.

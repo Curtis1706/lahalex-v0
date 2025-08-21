@@ -1,0 +1,3 @@
+Valeurs mobilières
+Les valeurs mobilières et titres assimilés doivent faire l’objet soit d’une inscription en compte, ou d’un dépôt, auprès d’un établissement visé à l’article 335-1, soit d’une inscription nominative dans les comptes de l’organisme émetteur, à condition que celui-ci soit situé dans l’État membre de la CIMA sur le territoire duquel les risques ont été souscrits.
+Les actes de propriété des actifs immobiliers, les actes et les titres consacrant les prêts ou créances doivent être conservés sur le territoire de l’État membre de la CIMA sur lequel les risques ont été souscrits.

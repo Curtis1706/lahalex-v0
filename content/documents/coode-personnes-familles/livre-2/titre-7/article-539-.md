@@ -1,0 +1,1 @@
+Le mineur, même émancipé, ne peut faire le commerce.

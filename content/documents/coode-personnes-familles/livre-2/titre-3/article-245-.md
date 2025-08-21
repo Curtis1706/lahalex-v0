@@ -1,0 +1,1 @@
+La cause est instruite en la forme ordinaire et débattue en chambre du conseil, le ministère public entendu. Le jugement est rendu en audience publique. '.

@@ -1,0 +1,1 @@
+Les dispositions du présent livre concernent les règles communes aux élections générales en République du Bénin.

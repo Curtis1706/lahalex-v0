@@ -1,0 +1,2 @@
+Lorsque le rapport a lieu en moins prenant, les cohéritiers du donataire prélèvent sur la masse de succession des biens de valeur égale au montant du rapport.
+Les prélèvements se font, autant que possible, en biens de même nature que ceux qui ont fait l’objet de la donation dont le rapport est dû.

@@ -1,0 +1,2 @@
+Exception de garantie : règlement pour compte
+Lorsque l’assureur invoque une exception de garantie légale ou contractuelle prévue à l’article 210 ci-dessus, il est tenu de satisfaire aux prescriptions des articles 231 à 236 pour le compte de qui il appartiendra ; la transaction intervenue pourra être contestée, devant le juge par celui pour le compte de qui elle aura été faite, sans que soit remis en cause le montant des sommes allouées à la victime ou à ses ayants droit.

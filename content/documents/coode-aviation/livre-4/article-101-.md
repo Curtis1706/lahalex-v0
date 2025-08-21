@@ -1,0 +1,10 @@
+Les dispositions de la présente loi s'appliquent aux accidents et incidents graves d'aviation :
+\- survenus sur le territoire national ou dans l'espace aérien béninois lorsque la République du Bénin est l'Etat d'immatriculation, et :
+- lorsqu'il est impossible d'établir avec certitude que le lieu de l'accident ou incident grave se trouve sur le territoire d'un Etat quelconque ou
+- lorsqu'un accident ou incident grave se produit sur le territoire d’un Etat non partie à la Convention relative à l’aviation civile internationale et qui n’a pas l'intention de mener une enquête conformément à l'annexe 13 à la Convention concernant les enquêtes sur les accidents et incidents d'aviation ;
+\- survenus en dehors du territoire national pour lesquels la République du Bénin est autorisée, conformément aux normes et pratiques internationales recommandées, à participer en qualité :
+- d’Etat d'immatriculation, d'Etat de l’exploitant, d'Etat de conception, d’Etat de construction ;
+- d'Etat fournissant des renseignements, des moyens ou des experts à la demande de l'Etat procédant à l'enquête ;
+- d’Etat comptant des ressortissants au nombre des morts ou des blessés.
+Elles s’appliquent également lorsque la République du Bénin accepte la délégation par un Etat tiers, de l'enquête ou partie de l'enquête.
+Le Bureau enquêtes-accidents prend toutes les mesures raisonnables pour faire en sorte que les procédures et pratiques d'enquête qu'il suit en ce qui concerne les accidents et incidents soient compatibles avec les obligations de l'Etat béninois découlant de la Convention relative à l'aviation civile internationale et avec les normes et pratiques recommandées de l'Organisation de l'aviation civile internationale figurant à l'annexe 13 à la Convention relative à l'aviation civile internationale concernant les enquêtes sur les accidents et incidents d'aviation.

@@ -1,0 +1,17 @@
+{
+  "id": "article-155-",
+  "title": "Article 155 : Tarifs de détail",
+  "numero": "155 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "chapitre-5",
+    "sous-section-5"
+  ],
+  "navigation": {
+    "parent": "sous-section-5",
+    "previous": "article-154-",
+    "next": "article-156-"
+  }
+}

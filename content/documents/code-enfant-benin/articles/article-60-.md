@@ -1,0 +1,2 @@
+Article 60 : Interdiction des autres méthodes d’assistance médicale à la procréation
+Tout autre mode d’assistance médicale à la procréation non visé dans les dispositions de la présente loi est formellement interdit en République du Bénin.

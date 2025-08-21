@@ -1,0 +1,1 @@
+Sont aussi applicables dans la tutelle des majeurs, les règles prescrites par la section 2 du chapitre 2 au titre 7 du présent livre, pour la tutelle des mineurs, à l’exception toutefois de celles qui concernent l’éducation de l'enfant et, en outre, sous les modifications qui suivent.

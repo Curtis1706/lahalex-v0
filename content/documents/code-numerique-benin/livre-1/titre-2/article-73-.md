@@ -1,0 +1,8 @@
+Dégroupage de la boucle locale et de la sous-boucle locale
+En fonction de l’évolution des marchés, des réseaux et des services de communications électroniques et après consultation des parties prenantes, l’Autorité de régulation pourra, sur la base d’une analyse sur l’opportunité de mettre en œuvre le dégroupage de la boucle locale ou de la sous-boucle locale, proposer au Ministre chargé des communications électroniques les dispositions nécessaires à la mise en œuvre d’un tel dégroupage.
+Sur la base de cette proposition, le Ministre chargé des communications électroniques prend un arrêté précisant les conditions techniques et tarifaires dans lesquelles le dégroupage de la boucle-locale doit être mis en œuvre par les opérateurs.
+Cet arrêté précise les dispositions à mettre en œuvre afin que :
+- les opérateurs puissent accéder à la boucle locale d’autres opérateurs sur la base d’un calendrier prédéfini ;
+- les opérateurs souhaitant accéder à la boucle locale d’autres opérateurs soient tenus, de par leur cahier des charges, à un déploiement minimal d’infrastructure ;
+- les opérateurs de boucle locale fournissent aux autres opérateurs l’accès à leurs infrastructures ainsi que la possibilité de colocalisation dans leurs propres locaux pour faciliter le dégroupage dans des conditions objectives, transparentes et non discriminatoires, dans le respect du principe d’orientation des prix en fonction des coûts ;
+- l’offre technique et tarifaire de dégroupage qui devra être publiée par les opérateurs de boucle locale comprenne la liste exhaustive des services offerts, qui devra faire l’objet d’une approbation par l’Autorité de régulation dans les conditions prévues à l’article 70 du présent code.

@@ -1,0 +1,1 @@
+Tout capitaine qui, en mer, n’a pas obéi à l’appel d’un navire de guerre de la République du Bénin et l’a contraint à faire usage de la force, est puni d’un emprisonnement de six (06) mois à deux (02) ans et d’une amende de cinq cent mille (500.000) à cinq millions (5.000.000) de francs, ou de l’une de ces deux peines seulement.

@@ -1,0 +1,2 @@
+Le mineur de quinze (15) ans ne peut être soumis, si la prévention est établie contre lui, qu’à des mesures de tutelle, de surveillance et d’éducation prévues aux articles 688, 690 et 692 à 694du présent code.
+Aucune condamnation pénale ne peut être prononcée contre lui.

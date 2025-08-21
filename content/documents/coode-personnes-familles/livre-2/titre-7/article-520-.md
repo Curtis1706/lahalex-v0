@@ -1,0 +1,2 @@
+Lorsqu'une succession échoit au mineur, le tuteur doit, dans les délais légaux, et avant de l'accepter, procéder à son inventaire et à son estimation.
+Il ne peut répudier la succession sans autorisation du conseil de famille.

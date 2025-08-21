@@ -1,0 +1,1 @@
+Le maire est la première autorité politico-administrative de la commune.

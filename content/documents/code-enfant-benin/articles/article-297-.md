@@ -1,0 +1,2 @@
+Article 297 : Cas de modification de placement
+Le juge des enfants peut, soit d’office, soit à la requête du ministère public, de l’enfant, des parents, du tuteur ou du gardien, statuer par ordonnance sur tous incidents, toutes instances modificatives de placement, toutes demandes de remise de garde, notamment en cas de décès ou de maladie grave des parents, du tuteur ou du gardien, ou de mauvaise surveillance des personnes chargées de la garde de l’enfant ou d’inadaptation de l’enfant dans le placement effectué.

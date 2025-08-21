@@ -1,0 +1,1 @@
+Article 21 : L’investisseur contribue au renforcement du savoir‐faire du personnel local notamment par la formation et le transfert de technologies.

@@ -1,0 +1,2 @@
+L'Agence nationale d'identification des personnes (ANIP) transmet à la CENA, la liste électorale informatisée (LEI), au plus tard, soixante (60) jours avant la date du scrutin.
+La liste électorale informatisée est publiée quinze (15) jours avant sa transmission à la CENA.

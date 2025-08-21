@@ -1,0 +1,1 @@
+Les dépens relatifs à la demande sont mis à la charge de celui des époux, même demandeur, contre lequel la séparation de corps a été prononcée.

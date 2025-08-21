@@ -1,0 +1,14 @@
+{
+  "id": "article-500-",
+  "title": "Article 500 : Présentation d’une opération d’assurance",
+  "numero": "500 ",
+  "document": "cima-code-assurances-benin",
+  "path": [
+    "livre-5"
+  ],
+  "navigation": {
+    "parent": "livre-5",
+    "previous": "article-434-8-",
+    "next": "article-501-"
+  }
+}

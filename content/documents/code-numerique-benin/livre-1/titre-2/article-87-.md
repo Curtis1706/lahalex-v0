@@ -1,0 +1,7 @@
+Droits de passage et servitudes
+Les opérateurs et les exploitants d’infrastructures alternatives bénéficient, moyennant une juste et préalable indemnisation, de droits de passage et de servitudes sur le domaine public et de droits de passage et de servitudes sur les propriétés privées nécessaires :
+- à l’installation et à l’exploitation des installations de communications électroniques ;
+- à la suppression et à la prévention des perturbations électromagnétiques ou des obstacles susceptibles de perturber la propagation et la réception des ondes électromagnétiques ;
+- à la conservation et au fonctionnement normal des réseaux de communications électroniques.
+L’Autorité de régulation peut préciser les conditions techniques et tarifaires applicables aux droits de passages sur les propriétés privées.
+Sauf dispositions légales contraires, les opérateurs peuvent bénéficier des servitudes et droits de passage dont bénéficient déjà tout autre opérateur ou exploitant d’infrastructures alternatives en République du Bénin, sous réserve de ne pas aggraver significativement ces servitudes ou droits de passage au détriment de la personne publique ou privée propriétaire ou gestionnaire du domaine public ou de la propriété privée concernée.

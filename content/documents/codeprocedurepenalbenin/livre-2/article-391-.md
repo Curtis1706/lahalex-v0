@@ -1,0 +1,6 @@
+L’exception préjudicielle est présentée, après l’inculpation du prévenu, avant tout interrogatoire au fond.
+Elle n’est recevable que si elle est de nature à retirer au fait qui sert de base à la poursuite, le caractère d’une infraction.
+Elle n’est admise que si elle s’appuie sur des faits ou sur des titres donnant un fondement à la prétention du prévenu.
+Si l’exception est admissible, le tribunal impartit un délai dans lequel le prévenu doit saisir la juridiction compétente. Faute par le prévenu d’avoir introduit l’instance dans ce délai et de justifier de ses diligences, il est passé outre à l’exception.
+Si les diligences sont effectuées, le juge, avant d’ordonner d’office le sursis à statuer, se prononce sur la liberté provisoire du prévenu détenu après réquisitions du ministère public.
+Au cas où le juge ne le fait pas, l’intéressé saisit le juge des libertés et de la détention qui doit prononcer sa mise en liberté provisoire dans les soixante-douze (72) heures de sa saisine. Si l’exception n’est pas admise, les débats sont continués.

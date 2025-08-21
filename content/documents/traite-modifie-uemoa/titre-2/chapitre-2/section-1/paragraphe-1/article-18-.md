@@ -1,0 +1,3 @@
+La Conférence des Chefs d'Etat de l'Union Monétaire prévue à l'article 5 du Traité de l'UMOA exerce les fonctions qui lui sont dévolues par le présent Traité.
+La Conférence des Chefs d'Etat et de Gouvernement prend, en tant que de besoin, des actes additionnels au Traité de l'Union.
+Les actes additionnels sont annexés au Traité. Ils complètent celui-ci sans toutefois le modifier. Leur respect s'impose aux organes de l'Union ainsi qu'aux autorités des Etats membres.

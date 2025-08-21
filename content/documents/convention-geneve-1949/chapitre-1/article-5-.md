@@ -1,0 +1,1 @@
+Durée de Pour les personnes protégées qui sont tombées au pouvoir de la Partie ad- l’application verse, la présente Convention s’appliquera jusqu’au moment de leur rapatrie- ment définitif.

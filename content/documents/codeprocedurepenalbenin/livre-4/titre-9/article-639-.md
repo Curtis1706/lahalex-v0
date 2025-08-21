@@ -1,0 +1,6 @@
+Tout citoyen béninois qui, en dehors du territoire de la République, s’est rendu coupable d’un fait qualifié crime par la loi béninoise peut être poursuivi et jugé par les juridictions béninoises.
+Tout citoyen béninois qui, en dehors du territoire de la République, s’est rendu coupable d’un fait qualifié délit par la loi béninoise, peut être poursuivi et jugé par les juridictions béninoises si le fait est puni par la législation du pays où il a été commis.
+En matière d’infraction attentatoire à la sûreté de l’Etat, de contrefaçon du sceau de l’Etat ou de monnaies nationales ayant cours, les faits commis en dehors du territoire de la République sont punissables comme ceux commis sur ce territoire.
+Les dispositions des alinéas 1<sup>er</sup>, 2 et 3 sont applicables à la personne qui n’a acquis la qualité de citoyen béninois que postérieurement au fait qui lui est imputé.
+La nationalité béninoise de la victime d’une infraction commise à l’étranger ou celle de ses ayants-droit attribue compétence aux lois et aux juridictions nationales.
+Dans ce cas, le tribunal compétent est celui du lieu de résidence de la victime ou de ses ayants droit.

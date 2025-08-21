@@ -1,0 +1,10 @@
+1) Lorsque l’événement ouvrant droit à une prestation prévue soit dans la branche des risques professionnels, soit dans la branche des pensions, soit dans la branche des prestations familiales est dû à la faute d’un tiers, la Caisse doit verser à l’assuré ou à ses ayants droit les prestations prévues par la présente loi.
+2) L’assuré ou ses ayants droit conservent contre le tiers responsable le droit de réclamer, conformément au droit commun, la réparation du préjudice causé.
+2) La Caisse est subrogée de plein droit à l’assuré et à ses ayants droit :
+1. en ce qui concerne les rentes et pensions, pour le montant des capitaux constitutifs correspondants calculés conformément aux barèmes prévus par les dispositions réglementaires prises en exécution de la présente loi ;
+1. en ce qui concerne les autres prestations, pour le montant des sommes légalement déboursées ou à débourser au profit des bénéficiaires.
+2) Tout bénéficiaire qui intentera une action à charge du tiers responsable en vertu du droit commun, devra obligatoirement en informer la Caisse et préciser dans son assignation sa qualité d’assuré ou d’ayant droit.
+2) La Caisse est habilitée à se constituer partie civile devant les tribunaux répressifs, alors même que la victime néglige de faire valoir ses droits.
+Outre le recours visé au deuxième alinéa du présent article, la Caisse dispose d’une action personnelle distincte en réparation du préjudice qui est causé en vertu des dispositions du Code civil.
+2) En cas de désaccord entre la Caisse et la décision judiciaire sur le taux de l’incapacité permanente de la victime, le tiers responsable ne sera tenu à l’égard de la Caisse que dans la limite de l’évaluation judiciaire.
+2) Le règlement amiable éventuellement intervenu entre le tiers responsable et l’assuré ou ses ayants droit ne pourra être opposé à la Caisse que si elle avait été dûment invitée à participer à ce règlement.

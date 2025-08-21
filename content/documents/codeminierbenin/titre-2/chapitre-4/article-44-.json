@@ -1,0 +1,15 @@
+{
+  "id": "article-44-",
+  "title": "ARTICLE 44 :",
+  "numero": "44 ",
+  "document": "codeminierbenin",
+  "path": [
+    "titre-2",
+    "chapitre-4"
+  ],
+  "navigation": {
+    "parent": "chapitre-4",
+    "previous": "article-43-",
+    "next": "article-45-"
+  }
+}

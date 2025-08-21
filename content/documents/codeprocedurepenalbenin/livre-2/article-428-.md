@@ -1,0 +1,4 @@
+Quelle que soit la peine encourue, le prévenu peut, par lettre adressée au président et qui sera jointe au dossier de la procédure, demander à être jugé en son absence. Il peut se faire représenter par un avocat et il est alors jugé contradictoirement.
+Le jugement rendu par le tribunal est réputé contradictoire si le prévenu n’a pas été représenté.
+Toutefois, si le tribunal estime nécessaire la comparution en personne du prévenu, celui-ci est de nouveau cité, à la diligence du ministère public, pour une audience dont la date est fixée par le tribunal. Si le prévenu ne comparaît pas à cette audience, le jugement rendu par le tribunal est, dans tous les cas, réputé contradictoire.
+Le prévenu qui demande, conformément aux dispositions du premier alinéa du présent article, à être jugé en son absence peut joindre à sa demande un mémoire contenant ses moyens de défense.

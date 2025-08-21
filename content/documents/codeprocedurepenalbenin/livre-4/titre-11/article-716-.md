@@ -1,0 +1,1 @@
+S’il s’agit d’allocations familiales dues à un fonctionnaire par les services financiers de l’Etat, ceux-ci, dès réception de l’expédition de l’ordonnance, jugement ou arrêt, cessent le paiement desdites allocations si le mineur est placé dans une institution d’Etat ou en fait un versement distinct à la personne ou institution privée qui doit en bénéficier.

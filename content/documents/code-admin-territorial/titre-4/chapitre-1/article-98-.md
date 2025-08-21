@@ -1,0 +1,1 @@
+Le conseil de supervision délibère à la majorité de ses membres. En cas d'égalité de voix, celle du maire est prépondérante.

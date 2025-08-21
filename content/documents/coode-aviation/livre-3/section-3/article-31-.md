@@ -1,0 +1,3 @@
+L'organisme national en charge de l'aviation civile crée un système d'enregistrement des documents affectant le titre de propriété ou le droit de propriété sur tout aéronef civil en République du Bénin et sur tous moteur, propulseur, appareil ou pièces détachées destinés à être utilisés sur un aéronef.
+Aucun accord ou convention affectant le titre de propriété ou les droits de propriété sur un aéronef, des moteurs, propulseurs, appareils ou pièces détachées d'aéronef ainsi immatriculés, n'est valable s'il n'est enregistré dans ce système.
+Toutefois, cet accord ou cette convention reste valable entre les parties qui l'ont conclu.

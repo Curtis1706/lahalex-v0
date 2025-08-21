@@ -1,0 +1,1 @@
+Le bénéfice imposable est déterminé en tenant compte uniquement des bénéfices réalisés en République du Bénin ainsi que ceux dont l’imposition est attribuée à la  République  du  Bénin  par  une  convention  internationale  relative  aux  non  doubles impositions, dans les conditions prévues par les articles 5 et 6 du présent code.

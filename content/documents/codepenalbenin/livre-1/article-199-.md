@@ -1,0 +1,1 @@
+Est punie de la réclusion criminelle à temps de cinq (05) ans à dix (10) ans, toute personne qui, ayant connaissance de projet ou d’acte de mercenariat, n’en a pas fait la déclaration aux autorités militaires, administratives ou judiciaires, dès le moment où elle les a connus.

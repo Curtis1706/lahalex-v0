@@ -1,0 +1,1 @@
+Lorsqu’à défaut de descendants, le défunt laisse des ascendants et/ou des collatéraux, son conjoint survivant a droit à la moitié de la succession.

@@ -1,0 +1,1 @@
+Toute personne qui se prétend lésée par un crime ou un délit peut adresser une plainte avec constitution de partie civile au président du tribunal qui en saisit sans délai un juge d’instruction.

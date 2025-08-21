@@ -1,0 +1,1 @@
+La taxe sur les armes à feu qui comprend un droit fixe et une taxe annuelle est perçue au profit des communes.

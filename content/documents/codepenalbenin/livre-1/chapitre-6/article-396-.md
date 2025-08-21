@@ -1,0 +1,1 @@
+Si la rébellion a été commise par une réunion armée de trois (03) à vingt (20) personnes inclusivement, la peine est la réclusion criminelle à temps de cinq (05) ans à dix (10) ans ; s’il n’y a pas eu port d’armes, la peine est un emprisonnement de six (06) mois au moins et de deux (02) ans au plus.

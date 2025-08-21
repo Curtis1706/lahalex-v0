@@ -1,0 +1,15 @@
+{
+  "id": "article-61-",
+  "title": "Article 61 : Le matériel électoral par poste de vote comprend :",
+  "numero": "61 ",
+  "document": "code-electoral",
+  "path": [
+    "livre-1",
+    "titre-5"
+  ],
+  "navigation": {
+    "parent": "titre-5",
+    "previous": "article-61-ancien-",
+    "next": "article-62-"
+  }
+}

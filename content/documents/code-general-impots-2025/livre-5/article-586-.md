@@ -1,0 +1,1 @@
+La juridiction compétente pour connaitre de toutes réclamations élevées contre  une  décision  de  l’administration  fiscale  relative  à  tous  les  droits,  impôts, prélèvements et taxes prévus au présent code est le tribunal de première instance du lieu de résidence du demandeur, statuant en matière administrative.

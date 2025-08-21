@@ -1,0 +1,5 @@
+Quiconque a :
+1. volontairement brûlé ou détruit d’une manière quelconque, des registres, des minutes ou des actes originaux de l’autorité publique, des titres, des billets, lettres de changes, des effets de commerce ou de banque contenant ou opérant obligation, disposition ou décharge ;
+2. sciemment détruit, soustrait, recelé, dissimulé ou altéré un document public ou privé de nature à faciliter la recherche des crimes et délits, la découverte des preuves, ou le châtiment de leur auteur, est, sans préjudice des peines plus graves prévues par la loi, puni ainsi qu’il suit :
+- si les pièces détruites sont des actes de l’autorité publique ou des effets de commerce ou de banque, la peine est de la réclusion criminelle à temps de cinq (05) à dix (10) ans ;
+- s’il s’agit de toute autre pièce, le coupable sera puni d’un emprisonnement de deux (02) ans à cinq (05) ans et d’une amende de cinquante mille (50.000) francs CFA à cent mille (100.000) francs CFA.

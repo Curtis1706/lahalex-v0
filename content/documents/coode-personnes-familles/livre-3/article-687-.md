@@ -1,0 +1,1 @@
+La succession constitue un patrimoine distinct, tant qu’elle n’a pas été liquidée.

@@ -1,0 +1,3 @@
+Agrément, action en nullité, restriction
+A partir du jour où a été notifié à une société régie par la présente section l’arrêté de la Commission de Contrôle des Assurances lui accordant l’agrément mentionné à l’article 326, l’action en nullité prévue à l’article 330-48 ne peut être intentée que par la Commission de Contrôle des Assurances.
+_VII. Sociétés de groupe d’assurance mutuelles_

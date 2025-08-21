@@ -1,0 +1,1 @@
+L’assurance à temps est prorogée par tacite reconduction, sauf dénonciation par l’une des parties avant l’expiration du terme.

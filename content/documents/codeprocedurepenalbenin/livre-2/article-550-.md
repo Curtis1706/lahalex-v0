@@ -1,0 +1,3 @@
+Dans tous les cas, l’huissier doit mentionner sur l’original de l’exploit, et sous forme de procès-verbal, ses diligences ainsi que les réponses faites à ses différentes interpellations.
+Le procureur de la République peut prescrire à l’huissier de nouvelles recherches, s’il estime incomplètes celles qui ont été effectuées.
+L’original de l’exploit doit être adressé à la personne à la requête de qui il a été délivré, dans les vingt-quatre (24) heures.

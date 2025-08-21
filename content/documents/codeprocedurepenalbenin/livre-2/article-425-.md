@@ -1,0 +1,3 @@
+Si le prévenu est sourd-muet et ne sait pas écrire, le président nomme d’office, en qualité d’interprète, la personne qui a le plus l’habitude de converser avec lui ou à défaut, toute autre personne qualifiée dans les conditions fixées à l’article précédent.
+Les autres dispositions du précédent article sont applicables.
+Dans le cas où le prévenu visé au présent article sait lire et écrire, le greffier écrit les questions ou observations qui lui sont faites ; elles sont remises au prévenu, lequel donne par écrit ses réponses. Il est fait lecture du tout par le greffier.

@@ -1,0 +1,2 @@
+La Caisse peut consentir aux entreprises qui en font la demande, des avances en vue d’encourager toute initiative en matière de prévention des risques professionnels.
+Les conditions d’application du présent article et notamment le mode de remboursement des avances consenties par la Caisse sont fixés pour chaque cas particulier par le conseil d’administration de la Caisse.

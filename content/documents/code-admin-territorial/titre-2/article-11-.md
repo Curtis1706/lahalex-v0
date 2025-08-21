@@ -1,0 +1,1 @@
+Le préfet prend par voie réglementaire, les mesures propres à assurer la police, le maintien de l'ordre public et la protection civile.

@@ -1,0 +1,1 @@
+Les personnes qui demandent ou qui autorisent la diffusion ou la publication de messages publicitaires contenant des informations dommageables à autrui sont conjointement responsables tant du point de vue civil que pénal.

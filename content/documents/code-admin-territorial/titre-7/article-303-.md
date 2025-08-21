@@ -1,0 +1,1 @@
+Si, après une première convocation régulièrement faite, le quorum n'est pas atteint pour une réunion valable du conseil de communauté, il est procédé à une seconde convocation pour une date qui ne peut se situer à moins de trois (03) jours d'intervalle. Les décisions prises après cette seconde convocation, sont valables quel que soit le nombre de membres présents.

@@ -1,0 +1,1 @@
+Toute démission volontaire d’un conseiller communal est adressée par écrit au maire. Celui- ci en informe immédiatement le conseil communal et l'autorité de tutelle. Le conseil d'arrondissement concerné en est également informé. La démission prend effet trente (30) jours après son dépôt auprès des services compétents de la mairie contre récépissé de dépôt.

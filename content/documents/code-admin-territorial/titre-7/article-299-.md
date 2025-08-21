@@ -1,0 +1,1 @@
+En cas d’empêchement définitif d'un conseiller communautaire, le conseil communal dont il provient pourvoit à son remplacement au conseil de supervision concerné. En cette qualité, le remplaçant poursuit le mandat en cours.

@@ -1,0 +1,2 @@
+Le montant à admettre en avaries communes pour dommages ou pour pertes supportées par le navire est égal au coût des réparations consécutives aux sacrifices subis : coût réel, si elles sont effectuées, coût estimatif s’il n’a pas été procédé aux réparations.
+En cas de perte totale, on tiendra compte de la valeur du navire avant avaries, sous déduction du coût estimatif de réparations des dommages n’ayant pas le caractère d’avaries communes, ainsi que du produit de la vente de l’épave, s’il y a lieu.

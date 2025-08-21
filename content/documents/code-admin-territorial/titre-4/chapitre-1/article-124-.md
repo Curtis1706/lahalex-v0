@@ -1,0 +1,2 @@
+En cas de décès, de démission, de suspension, d'empêchement ou de révocation d'un maire, et jusqu’à la désignation du nouveau maire, il est remplacé provisoirement par un des adjoints au maire dans l’ordre de préséance.
+En cas de recours contentieux contre une décision de révocation, un nouveau maire ne peut être désigné, avant que la décision judiciaire sur la contestation ne devienne définitive ou que la procédure ne s’achève autrement que par une décision.

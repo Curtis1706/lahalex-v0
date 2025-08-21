@@ -1,0 +1,1 @@
+Par dérogation aux dispositions de l’article 1 ci-dessus, les dispositions relatives au paiement des primes édictées dans le Titre I du présent livre notamment en ses articles 8, 13 et 14 sont applicables aux assurances maritimes, fluviales et aux opérations d’assurances crédit.

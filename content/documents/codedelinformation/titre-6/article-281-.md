@@ -1,0 +1,1 @@
+Il est interdit d’ouvrir ou d’annoncer publiquement des souscriptions ayant pour objet d’aider à payer les amendes, frais et dommages intérêts prononcés par des condamnations judiciaires, en matière criminelle, correctionnelle et de simple police, sous peine d’une amende de cinq cent mille (500 000) francs à cinq millions (5 000 000) de francs CFA.

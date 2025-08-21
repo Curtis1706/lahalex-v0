@@ -1,0 +1,2 @@
+Les procès-verbaux d’interrogatoire et de confrontation sont établis dans les formes prévues aux articles 114 et 115 du présent code.
+S’il est fait appel à un interprète, les dispositions du dernier alinéa de l’article 111 du présent code sont applicables.

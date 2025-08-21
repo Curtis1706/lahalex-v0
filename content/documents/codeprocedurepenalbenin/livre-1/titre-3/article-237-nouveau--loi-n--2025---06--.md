@@ -1,0 +1,2 @@
+Les dispositions des articles 184 alinéas 1er et 3 et 186 du présent code relatives aux nullités de l’information sont applicables aux procédures devant la chambre de l’instruction ou la chambre des libertés et de la détention.
+La régularité des arrêts de la chambre de l'instruction ou de la chambre des libertés et de la détention et celle de la procédure antérieure, lorsque cette chambre a statué sur le règlement d’une procédure, relève du seul contrôle de la Cour suprême.

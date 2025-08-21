@@ -1,0 +1,3 @@
+Les entreprises autorisées au titre des dispositions de l’article 224 de la présente loi soumettent à l’approbation préalable de l'organisme national en charge de l'aviation civile :
+- leurs programmes généraux d'achat et de location de matériel volant ;
+- leurs programmes d’exploitation comportant en particulier l'indication des types de matériel normalement utilisés sur chacun des services prévus dans ces programmes.

@@ -1,0 +1,2 @@
+Est puni d’un emprisonnement de six (06) mois à cinq (05) ans et d’une amende de cent mille (100.000) francs CFA à cinq cent mille (500.000) francs CFA ou de l’une de ces deux peines seulement, tout éleveur qui aura frauduleusement fait entrer son bétail sur le territoire national.
+En cas de récidive, les bêtes seront purement et simplement saisies indépendamment des peines prévues à l’alinéa précédent.

@@ -1,0 +1,2 @@
+L’agent chargé de l’exécution d’un mandat d’arrêt peut se faire accompagner d’une force suffisante pour que l’inculpé ne puisse se soustraire à la loi. Cette force est prise dans le lieu le plus proche de celui où le mandat d’arrêt doit s’exécuter et elle est tenue de déférer aux réquisitions contenues dans le mandat.
+Si l’inculpé ne peut être arrêté, il est dressé un procès-verbal de recherches infructueuses, lequel est immédiatement transmis au juge mandant.

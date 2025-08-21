@@ -1,0 +1,3 @@
+Sont incompatibles avec le mandat de député, les fonctions de chef d'entreprise, de président de Conseil d'administration, d'administrateur- délégué, directeur général, directeur général adjoint et gérant exercées dans :
+1- les sociétés ayant exclusivement un objet financier et faisant publiquement appel à l'épargne publique et au crédit :
+2- les sociétés ou entreprises dont l'activité consiste principalement dans l'exécution de travaux, la prestation de fournitures ou de services pour le compte de l'Etat, d'une collectivité, d'un établissement public ou d'une entreprise nationale, ou dont plus de la moitié du capital social est constituée par les participations de sociétés ou d'entreprises ayant les mêmes activités.

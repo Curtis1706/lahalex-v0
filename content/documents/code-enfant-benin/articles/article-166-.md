@@ -1,0 +1,1 @@
+Article 166 : Requête de l'identité de l'enfant Toute personne qui accompagne un enfant doit présenter aux services compétents un document établissant l’identité de l’enfant et le lien qui les unit.

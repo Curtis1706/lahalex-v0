@@ -1,0 +1,8 @@
+1) La taxe sur la valeur ajoutée est à la charge des consommateurs ou utilisateurs des biens et services. Toutefois, elle est acquittée par les personnes effectuant les opérations imposables pour leur compte ou pour le compte de tiers établis ou non en République du Bénin.
+2) a) La taxe sur la valeur ajoutée due sur les ventes de biens et les prestations de services  rendues  à  travers  les  plateformes  de  commerce  électronique,  est  liquidée, déclarée  et  reversée  par  les  opérateurs  desdites  plateformes,  pour  le  compte  des fournisseurs. La taxe sur la valeur ajoutée due sur les commissions perçues à l’occasion des ventes qui sont effectuées en République du Bénin à travers les plateformes de commerce électronique, est déclarée et reversée par les opérateurs desdites plateformes.
+2) Aux fins d’accomplissement de leurs obligations fiscales ci dessus, les opérateurs
+des  plateformes  de  commerce  électronique  sont  tenus  de  souscrire  une  demande d’immatriculation auprès de l’administration fiscale dans les conditions prévues par l’article 460 du présent code.
+3) Sans préjudice des sanctions prévues par le livre 4 du présent code relatif aux
+dispositions générales, le non respect des obligations prévues au paragraphe 2 points a et b du présent article, donne lieu à la suspension de l’accès à la plateforme à partir du territoire béninois.
+4) Les modalités de mise en œuvre des présentes dispositions sont précisées par voie
+réglementaire.

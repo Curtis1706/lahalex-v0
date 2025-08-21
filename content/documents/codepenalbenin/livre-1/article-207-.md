@@ -1,0 +1,1 @@
+Le navire s’entend d’un bâtiment de mer de quelque type que ce soit, qui n’est pas attaché en permanence au fond de la mer, y compris les engins à portance dynamique, les engins submersibles ou tout autre engin flottant.

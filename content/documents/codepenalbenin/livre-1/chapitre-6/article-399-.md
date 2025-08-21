@@ -1,0 +1,1 @@
+Toute réunion d’individus pour un crime ou un délit est réputée réunion armée lorsque plus de deux (02) personnes portent des armes ostensibles.

@@ -1,0 +1,2 @@
+Article 206 : Réintégration sociale de l'enfant
+L’enfant victime de torture, de traitements cruels, inhumains ou dégradants, de viol, de pédophilie ou de toutes autres formes d’agressions physiques ou psychologiques, a le droit de reprendre sa vie normale ou d’être réintégré.

@@ -1,0 +1,1 @@
+En cas d’accident du travail ou de maladie professionnelle, les tribunaux compétents sont ceux du lieu de l’accident, du domicile de la victime ou du lieu de l’établissement auquel appartient la victime.

@@ -1,0 +1,3 @@
+Article 28 : La mise en œuvre de la politique de conservation des ressources en eau requiert la fixation des objectifs de qualité pour certaines masses d’eau superficielles ou souterraines.
+Un décret pris en conseil des ministres détermine les critères et les méthodes d’analyse et de contrôle permettant de fixer les objectifs de qualité ainsi que leur procédure d’élaboration.
+CHAPITRE V : DU CADRE INSTITUTIONNEL

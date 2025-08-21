@@ -1,0 +1,1 @@
+Sur proposition du chef de village ou de quartier de ville, le conseil désigne en son sein un membre pour remplir les fonctions de secrétaire de séance.

@@ -1,0 +1,16 @@
+{
+  "id": "article-101-",
+  "title": "Article 101 :Modifié par la loi de finances pour 2025",
+  "numero": "101 ",
+  "document": "code-general-impots-2025",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-4"
+  ],
+  "navigation": {
+    "parent": "chapitre-4",
+    "previous": "article-100-",
+    "next": "article-102-"
+  }
+}

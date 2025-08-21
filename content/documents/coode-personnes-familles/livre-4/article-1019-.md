@@ -1,0 +1,2 @@
+Toute personne conserve le nom et les prénoms sous lesquels elle est actuellement connue. Ce nom devient son nom patronymique.
+Les règles nouvelles relatives à la détermination du nom ne sont applicables qu’aux enfants nés après la mise en vigueur du présent code. Peuvent demander collectivement tant pour leur compte que pour le compte de leurs enfants mineurs, nés ou à naître, à porter le nom de leur auteur commun, les personnes qui, bien qu’issues de cet auteur commun, n'en portent pas le nom.

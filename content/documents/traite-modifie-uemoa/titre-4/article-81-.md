@@ -1,0 +1,1 @@
+Le Conseil arrête, sur proposition de la Commission et à la majorité des deux tiers (2/3) de ses membres, les règlements nécessaires à la mise en oeuvre du schéma mentionné à l'article 80.

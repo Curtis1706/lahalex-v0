@@ -1,0 +1,5 @@
+1) Lorsqu’un contribuable demande la décharge ou la réduction d’une imposition quelconque, l’administration fiscale peut, à tout moment de la procédure et malgré l’expiration des délais de prescription, effectuer ou demander la compensation dans la limite de l’imposition contestée, entre les dégrèvements reconnus justifiés et les insuffisances ou omissions de toute nature  constatées dans l’assiette ou le  calcul de l’imposition au cours de l’instruction de la demande.
+2) La compensation peut aussi être effectuée ou demandée entre les impôts d’État,
+lorsque la réclamation porte sur l’un d’eux à condition qu’ils soient établis au titre d’une même année. Les impôts et taxes collectés pour le compte de l’État en sont exclus.
+3) Les compensations de droits prévues au présent article sont opérées dans les
+mêmes conditions au profit du contribuable à l’encontre duquel l’administration fiscale effectue une rectification lorsque ce contribuable invoque une surtaxe commise à son préjudice ou lorsque la rectification fait apparaître une double imposition.

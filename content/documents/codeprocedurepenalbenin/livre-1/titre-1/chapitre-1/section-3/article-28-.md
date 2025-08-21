@@ -1,0 +1,1 @@
+Les fonctionnaires et agents, civils ou militaires, auxquels des lois spéciales attribuent certains pouvoirs de police judiciaire, exercent ces pouvoirs dans les conditions et dans les limites fixées par ces lois.

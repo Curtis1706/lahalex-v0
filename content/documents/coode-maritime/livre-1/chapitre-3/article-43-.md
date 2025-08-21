@@ -1,0 +1,1 @@
+Lorsqu’un pays applique des mesures discriminatoires de nature à porter préjudice à l’exploitation des navires battant pavillon béninois, la République du Bénin peut prendre par décret toutes dispositions appropriées à l’encontre des navires battant pavillon de ce pays, ainsi qu’à l’encontre des cargaisons transportées par ces navires ou en provenance de ce pays.

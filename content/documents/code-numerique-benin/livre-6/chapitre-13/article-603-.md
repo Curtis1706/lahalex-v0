@@ -1,0 +1,2 @@
+Sécurité des systèmes
+Pour les besoins de la sécurité des systèmes d'information et des opérateurs, l’Agence Nationale de la Sécurité des Systèmes d’Information peut obtenir des opérateurs, l'identité, l'adresse postale et l'adresse électronique d'utilisateurs ou de détenteurs de systèmes d'information vulnérables, menacés ou attaqués, afin de les alerter sur la vulnérabilité ou la compromission de leur système.

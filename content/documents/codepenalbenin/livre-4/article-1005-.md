@@ -1,0 +1,1 @@
+Pour l’application des dispositions du titre premier du livre premier du présent code, le président du tribunal de première instance du siège du lieu d’exécution de la peine pourra par ordonnance et en tant que de besoin, se prononcer sur les aménagements de la peine prévue par ce titre. Sa décision peut être appelée devant le président de la Cour d’appel compétente.

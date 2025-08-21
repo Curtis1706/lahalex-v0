@@ -1,0 +1,2 @@
+Le capitaine exerce les fonctions d’officier de police judiciaire à l’égard des crimes et délits commis à bord de son navire.
+2 remplit les fonctions d’officier d’état-civil dans les conditions prévues par les articles 273 à 275 du présent code.

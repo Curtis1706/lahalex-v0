@@ -1,0 +1,1 @@
+La saisie est exécutée nonobstant toutes contestations.

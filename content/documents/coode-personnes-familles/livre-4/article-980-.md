@@ -1,0 +1,3 @@
+La détermination, la protection et le changement volontaire du nom d’une personne physique sont régis par la loi nationale de l’intéressé.
+Le changement de nom consécutif à un changement d’état est régi par la loi gouvernant les effets de l’état nouveau. Toutefois, l’intéressé peut demander que lui soit appliquée la loi nationale.
+Quel que soit le droit désigné, nul ne peut porter de nom ni de prénom autres que ceux qui résultent des énonciations de son acte de naissance ou de jugement déclaratif en tenant lieu et des actes ou jugement mentionnés en marge.

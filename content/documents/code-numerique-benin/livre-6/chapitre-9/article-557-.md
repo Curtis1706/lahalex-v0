@@ -1,0 +1,2 @@
+Incitation ou provocation à la commission d’actes terroristes et apologie des actes terroristes
+Quiconque aura, au moyen d’un ou sur un réseau de communication électronique ou un système informatique, incité ou provoqué directement des actes de terrorisme est puni de dix (10) ans d’emprisonnement et de vingt-cinq millions (25 000 000) de  francs CFA d’amende.\

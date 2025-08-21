@@ -1,0 +1,3 @@
+La commune est créée par la loi qui en précise la dénomination. Elle est également supprimée par la loi.
+Le changement de dénomination, la fusion d’une commune avec une autre et la scission d'une commune est décidée par la loi, après avis motivé ou à la demande du ou des conseils communaux concernés.
+Les chefs-lieux de commune et d'arrondissement sont fixés par décret pris en Conseil des ministres.

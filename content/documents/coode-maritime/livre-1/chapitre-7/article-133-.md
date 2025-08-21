@@ -1,0 +1,2 @@
+S’il y a deux (02) ou plusieurs hypothèques sur le même bâtiment ou sur la même part de propriété du bâtiment, le rang est déterminé par l’ordre de priorité des dates d’inscription.
+Les hypothèques inscrites le même jour viennent en concurrence quelle que soit la différence des heures d’inscription.

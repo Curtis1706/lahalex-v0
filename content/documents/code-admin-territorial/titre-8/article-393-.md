@@ -1,0 +1,1 @@
+Le comptable de la commune ou de l'établissement public de coopération intercommunale est personnellement et pécuniairement responsable des opérations dont il est chargé aux fermes de l'article 390 de la présente loi, ainsi que de l'exercice régulier des contrôles prévus aux articles 391 et 392 de la présente loi.

@@ -1,0 +1,2 @@
+Un aéronef immatriculé à l'étranger ne peut être exploité en République du Bénin au-delà de six (6) mois par une personne physique de nationalité béninoise ou une personne morale de droit béninois sans être inscrit sur le registre national.
+Les conditions et procédures d’inscription sont définies par voie règlementaire.

@@ -1,0 +1,1 @@
+L’action publique et l’action civile résultant des crimes et délits se prescrivent conformément aux dispositions du code de procédure pénale.

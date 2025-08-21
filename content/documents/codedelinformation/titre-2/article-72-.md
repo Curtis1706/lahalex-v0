@@ -1,0 +1,1 @@
+Le droit d’accès aux sources publiques d’information s’exerce quelle que soit la forme des documents : écrite, graphique, sonore, visuelle, informatisée ou autre.

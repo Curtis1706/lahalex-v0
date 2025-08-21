@@ -1,0 +1,2 @@
+Le testament olographe peut être rédigé en une langue autre que le français.
+Il est nul s’il apparaît que le testateur, illettré ou ne connaissant pas la langue dans laquelle le testament est rédigé, a reproduit des caractères dont il ignorait la signification.

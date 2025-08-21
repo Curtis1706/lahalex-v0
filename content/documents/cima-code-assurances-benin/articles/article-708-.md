@@ -1,0 +1,4 @@
+Article 708 : Montant de la prime ou des capitaux du contrat de micro assurance
+La Commission Régionale de Contrôle des Assurances fixe par voie de circulaire et pour chaque catégorie de produit de micro assurance, le montant maximum des capitaux assurés ou le montant maximum de la prime.
+Lorsque pour un risque donné, le montant des capitaux assurés ou de la prime dépasse le plafond fixé par la Commission, la société de micro assurance est tenue de placer le risque en totalité auprès d’un assureur habilité du marché.
+\_NB - Voir la circulaire n°0001/CIMA/CRCA/PDT/2013 du 30 mars 2013 relative à la fixation du montant de prime ou de capitaux des contrats de micro assurance_\

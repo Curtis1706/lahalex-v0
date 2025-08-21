@@ -1,0 +1,1 @@
+Toute convention pour louage d’un navire appelée charte-partie, affrètement ou nolisement doit être rédigée par écrit.

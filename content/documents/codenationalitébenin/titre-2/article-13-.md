@@ -1,0 +1,1 @@
+Tout mineur qui possède la faculté de répudier la nationalité béninoise peut, par déclaration souscrite conformément aux articles 49, 50 et 51 de la présente loi, exercer cette faculté avec l'autorisation parentale.

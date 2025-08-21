@@ -1,0 +1,2 @@
+Lorsqu’une année au moins s’est écoulée depuis la décision de placement du mineur hors de sa famille, les parents du mineur ou son tuteur, son avocat peuvent effectuer une demande de remise ou de restitution de garde, en justifiant de leur aptitude à élever l’enfant et d’un amendement suffisant de ce dernier.
+Si cette demande est rejetée, il ne peut être fait de nouvelles demandes avant le délai de trois (03) mois.

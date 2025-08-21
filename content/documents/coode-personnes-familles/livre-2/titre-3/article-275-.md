@@ -1,0 +1,2 @@
+La séparation de corps met fin à la vie commune et aux obligations qui en découlent. Mais elle laisse subsister les devoirs de fidélité et de secours. Le jugement qui la prononce ou un jugement postérieur fixe la pension alimentaire qui est due à l’époux dans le besoin.
+Cette pension est attribuée sans considération des torts. Cette obligation est soumise aux règles des obligations alimentaires.

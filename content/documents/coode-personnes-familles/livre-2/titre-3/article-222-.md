@@ -1,0 +1,2 @@
+Le divorce par consentement mutuel peut avoir lieu sur demande conjointe des époux ou par suite d’un accord postérieur constaté devant le juge au contentieux.
+Lorsque les époux demandent ensemble le divorce, ils n’ont pas à en faire connaître les motifs ; ils doivent seulement soumettre à l’approbation du juge un projet de convention qui en règle les conséquences.

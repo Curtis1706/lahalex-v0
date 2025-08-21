@@ -1,0 +1,14 @@
+{
+  "id": "article-8-",
+  "title": "Article 8 : L'élection du président de la République est organisée le deuxième dimanche du mois d'avril de l'année électorale.",
+  "numero": "8 ",
+  "document": "code-electoral",
+  "path": [
+    "livre-1"
+  ],
+  "navigation": {
+    "parent": "livre-1",
+    "previous": "article-7-",
+    "next": "article-9-"
+  }
+}

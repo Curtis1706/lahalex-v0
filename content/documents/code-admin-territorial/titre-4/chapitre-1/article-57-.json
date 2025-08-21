@@ -1,0 +1,15 @@
+{
+  "id": "article-57-",
+  "title": "Article 57 :",
+  "numero": "57 ",
+  "document": "code-admin-territorial",
+  "path": [
+    "titre-4",
+    "chapitre-1"
+  ],
+  "navigation": {
+    "parent": "chapitre-1",
+    "previous": "article-56-",
+    "next": "article-58-"
+  }
+}

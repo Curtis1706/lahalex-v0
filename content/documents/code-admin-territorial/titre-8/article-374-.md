@@ -1,0 +1,1 @@
+Le principe de la permanence des méthodes signifie que la présentation des comptes annuels comme des méthodes d'évaluation retenues ne peuvent être modifiées d'un exercice à l’autre, à moins qu'un changement exceptionnel n'intervienne dans la situation de la commune ou de l'établissement public de coopération intercommunale.

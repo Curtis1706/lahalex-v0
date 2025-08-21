@@ -1,0 +1,2 @@
+Lorsque, nonobstant l'appel des candidats suppléants, des vacances isolées atteignent le cinquième (5ème) du nombre des députés, il est procédé à une élection complémentaire de remplacement.
+Il ne sera cependant pas pourvu à ces vacances lorsqu'elles surviendront dans les six (06) mois précédant l'expiration des mandats de la législature.

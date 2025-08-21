@@ -1,0 +1,1 @@
+Lorsqu’il y a un héritier réservataire et que le testateur a disposé, à titre universel, de la totalité de la quotité disponible, le légataire est tenu d’acquitter tous les legs sauf le cas de la réduction prévu au titre de la réserve des dons et legs du présent code.

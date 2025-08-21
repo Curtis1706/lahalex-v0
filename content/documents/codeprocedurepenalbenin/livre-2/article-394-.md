@@ -1,0 +1,3 @@
+Pour des affaires de moindre gravité et non complexes, un officier de police judiciaire, doit, sur instructions du procureur de la République ou du tribunal, remettre une convocation par officier de police judiciaire, à une personne physique ou morale, afin de comparaître à l’audience, en qualité de prévenu, de victime ou de témoin.
+La convocation est constatée par procès-verbal.
+Le procureur en apprécie l’opportunité à la clôture de l’enquête. Le cas échéant, il constituera un dossier qui comportera entre autres le procès-verbal d’enquête préliminaire et les copies des procès-verbaux de convocation par officier de police judiciaire.

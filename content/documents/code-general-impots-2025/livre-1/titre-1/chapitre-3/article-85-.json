@@ -1,0 +1,16 @@
+{
+  "id": "article-85-",
+  "title": "Article 85 :",
+  "numero": "85 ",
+  "document": "code-general-impots-2025",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-3"
+  ],
+  "navigation": {
+    "parent": "chapitre-3",
+    "previous": "article-84-",
+    "next": "article-86-"
+  }
+}

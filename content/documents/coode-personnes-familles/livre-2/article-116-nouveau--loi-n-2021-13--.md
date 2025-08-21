@@ -1,0 +1,1 @@
+« Les fiançailles ou la connaissance mutuelle des familles ne peuvent être contractées que si les parties remplissent les conditions exigées pour le mariage ».

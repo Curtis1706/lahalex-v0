@@ -1,0 +1,1 @@
+Le journaliste s’abstient de toute incursion ou immixtion dans la vie privée des personnes même lorsque ces personnes assument des fonctions ou un rôle politique. Toutefois, lorsque l’intérêt public le justifie, le journaliste peut révéler des informations lorsque celles-ci compromettent la morale publique et/ou constituent une menace pour la santé publique.

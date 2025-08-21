@@ -1,0 +1,14 @@
+{
+  "id": "article-10-",
+  "title": "Article 10 : Tout terrain sur lequel est réalisée une forêt",
+  "numero": "10 ",
+  "document": "code-forestier-benin",
+  "path": [
+    "chapitre-1"
+  ],
+  "navigation": {
+    "parent": "chapitre-1",
+    "previous": "article-9-",
+    "next": "article-11-"
+  }
+}

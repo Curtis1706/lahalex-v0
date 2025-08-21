@@ -1,0 +1,14 @@
+{
+  "id": "article-4-paragraphe-3-nouvea",
+  "title": "Article 4 paragraphe 3 nouveau",
+  "numero": "4 paragraphe 3 nouvea",
+  "document": "traite-revise-cedeao-1993",
+  "path": [
+    "chapitre-22"
+  ],
+  "navigation": {
+    "parent": "chapitre-22",
+    "previous": "article-4-paragraphe-1-nouvea",
+    "next": "article-4-"
+  }
+}

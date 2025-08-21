@@ -1,0 +1,1 @@
+Le maire veille à la préparation du budget de la commune par le secrétaire exécutif, sur la base des orientations du conseil de supervision et des documents de planification de la commune.

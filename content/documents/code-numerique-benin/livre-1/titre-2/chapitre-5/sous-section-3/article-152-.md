@@ -1,0 +1,3 @@
+Communication des documents comptables
+L’Autorité de régulation peut, afin de faciliter la vérification du respect des obligations de transparence, de non- discrimination et de séparation comptable, exiger que les documents comptables, y compris les données concernant les recettes provenant de tiers, lui soit fournis si elle en fait la demande.
+L’Autorité de régulation peut publier ces informations dans la mesure où elles contribuent à l'instauration d'un marché ouvert et concurrentiel, dans le respect de la réglementation nationale et communautaire sur la confidentialité des informations commerciales.

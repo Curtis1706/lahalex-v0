@@ -1,0 +1,1 @@
+Toute infraction aux dispositions du deuxième alinéa de l’article 26 de la présente loi sera punie d’une amende de cent mille (100 000) francs à un million (1 000 000) de francs CFA.

@@ -1,0 +1,7 @@
+Les organismes financiers soumettent les comptes ouverts ou détenus, directement ou indirectement par des personnes physiques exerçant ou ayant exercé des fonctions publiques, des membres de leur famille et leur proche entourage, à une surveillance particulière et en signaler les opérations suspectes aux autorités compétentes, conformément à la réglementation relative au blanchiment de capitaux.
+Cette surveillance porte notamment sur :
+- tout paiement en espèces ou par titre au porteur d'une somme d’argent, effectué dans les conditions normales, dont le montant unitaire ou total est égal ou supérieur à cinq millions (5 000 000) de francs CFA ;
+- toute opération portant sur une somme égale ou supérieure à un million (1 000 000) de francs CFA, effectuée dans des conditions ne paraissant pas avoir de justification économique ou d'objet licite.
+Lorsque les personnes physiques visées au premier alinéa du présent article ont un droit ou une délégation de signature ou tout autre pouvoir sur un compte financier domicilié à l’étranger, elles sont tenues de le signaler à leurs autorités hiérarchiques et de la déclarer à l'organisme national de traitement des informations financières.
+A la demande d'un Etat étranger ou sur sa propre initiative, l’Etat béninois peut notifier aux organismes financiers, l'identité des personnes dont ils devront soumettre les comptes à un examen particulier.
+Les modalités de cette notification sont définies par décret pris en Conseil des ministres, sur proposition du ministre chargé des Finances.

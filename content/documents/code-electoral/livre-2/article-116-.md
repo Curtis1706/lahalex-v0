@@ -1,0 +1,1 @@
+A l'issue de la procédure de rectification, le demandeur reçoit un extrait du registre national ou d'un registre communal dans lequel toutes les données modifiées sont présentées.

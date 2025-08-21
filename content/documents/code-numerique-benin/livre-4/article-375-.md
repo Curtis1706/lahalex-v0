@@ -1,0 +1,2 @@
+Eviction partielle
+Si l'acquéreur n'est évincé que d'une partie du bien qui relativement au tout, soit d’une importance telle que l'acquéreur n'eût pas acquis le bien dans son ensemble sans la partie dont il a été évincé, il peut demander la résolution de la vente.

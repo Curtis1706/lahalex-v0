@@ -1,0 +1,3 @@
+Relations entre la Communauté et les autres Communautés Economiques Régionales
+1. En vue de la réalisation des objectifs d'intégration régionale, la Communauté peut conclure des accords de coopération avec d'autres communautés régionales.
+2. Les accords de coopération ainsi conclus conformément aux dispositions du paragraphe l du présent article sont préalablement soumis à l'approbation du Conseil, sur proposition du Président de la Commission.

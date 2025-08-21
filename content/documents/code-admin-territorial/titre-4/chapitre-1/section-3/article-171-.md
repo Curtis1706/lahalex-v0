@@ -1,0 +1,1 @@
+La commune prévoit dans son budget un crédit destiné au fonctionnement de chaque arrondissement.

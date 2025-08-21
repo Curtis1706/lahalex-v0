@@ -1,0 +1,2 @@
+Article 144 : Vaccinations
+Toute femme enceinte doit veiller à la bonne tenue de sa grossesse jusqu'à son terme. Elle doit se soumettre à toutes les vaccinations et à toutes les prescriptions du médecin ou de la sage-femme en matière de la santé de l'enfant.

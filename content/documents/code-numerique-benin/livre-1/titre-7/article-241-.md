@@ -1,0 +1,2 @@
+Procédure de sanction
+Les règles applicables aux procédures de sanction décrites aux articles 239 et 240 du présent code sont précisées par décret pris en Conseil des Ministres ainsi que dans le règlement intérieur adopté par l’Autorité de régulation.

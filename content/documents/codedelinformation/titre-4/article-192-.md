@@ -1,0 +1,2 @@
+L’objet des sociétés coopératives de messagerie de presse ne peut s’étendre qu’à des opérations commerciales relatives à l’utilisation de divers éléments matériels qu’elles emploient à cet effet.
+Si les sociétés coopératives décident de confier l’exécution de certaines opérations matérielles à des entreprises commerciales, elles peuvent s’assurer une participation majoritaire dans la direction de ces entreprises de façon à garantir l’impartialité de cette gestion.

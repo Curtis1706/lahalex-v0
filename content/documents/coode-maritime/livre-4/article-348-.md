@@ -1,0 +1,2 @@
+Le transporteur procède de façon appropriée et soigneuse au chargement, à la manutention, à l’arrimage, au transport, à la garde et au déchargement des marchandises.
+2 ne peut arrimer les marchandises sur le pont du navire sans le consentement écrit du chargeur.

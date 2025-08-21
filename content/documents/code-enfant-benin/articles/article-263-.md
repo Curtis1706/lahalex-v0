@@ -1,0 +1,3 @@
+Article 263 : Audience de jugement
+Chaque affaire est jugée séparément. Seuls sont admis à assister aux débats, les témoins, les parents, le tuteur ou le représentant légal, les membres du barreau régulièrement constitués, les personnes s’occupant de l’enfance délinquante, les délégués des centres pour enfants et les assistants sociaux.
+Le président peut, à tout moment, ordonner que l’enfant se retire pendant tout ou partie des débats. Il peut de même ordonner aux témoins de se retirer après leur audition.

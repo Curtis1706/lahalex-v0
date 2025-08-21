@@ -1,0 +1,2 @@
+Sanctions
+Sont punis d’une peine d’emprisonnement de trois (03) mois à deux (02) ans et d’une amende de cinq cent mille (500 000) francs CFA à dix millions (10 000 000) de FCFA, les atteintes à la propriété intellectuelle commises au moyen d’un ou sur un réseau de communication électronique ou un 	système informatique.

@@ -1,0 +1,1 @@
+Les frais de délivrance des legs sont à la charge de la succession.

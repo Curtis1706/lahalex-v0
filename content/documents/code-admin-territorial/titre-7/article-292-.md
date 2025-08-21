@@ -1,0 +1,2 @@
+A l'exception de l'exercice du pouvoir réglementaire, les communes membres sont dessaisies des compétences transférées à l’établissement public de coopération intercommunale. Celui-ci les exerce à la place et pour le compte des communes dans les limites de l'espace intercommunal.
+Toutefois, aucune commune ne doit, du fait de son appartenance à un ou plusieurs établissements publics de coopération intercommunale, se retrouver dessaisie de l'ensemble de ses compétences.

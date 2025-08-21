@@ -1,0 +1,1 @@
+Le journaliste est astreint au secret professionnel. Il ne peut ni divulguer les sources et les origines des informations confidentiellement reçues, ni y être contraint.

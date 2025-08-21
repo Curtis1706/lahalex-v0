@@ -1,0 +1,6 @@
+Dans la mesure où il le juge réalisable, l'Etat béninois :
+- fournit sur son territoire, des aéroports, des services radioélectriques et météorologiques et d'autres installations et services de navigation aérienne afin de faciliter la navigation aérienne internationale, conformément aux normes et pratiques recommandées du secteur ;
+- adopte et met en œuvre les systèmes normalisés appropriés relatifs aux procédures de communications, aux codes, au balisage, à la signalisation, aux feux et aux autres pratiques et règles d'exploitation recommandés ;
+- collabore aux mesures internationales destinées à assurer la publication de cartes et plans aéronautiques, conformément aux normes recommandées.
+Les services radioélectriques concernent le service fixe, le service mobile, le service de radionavigation et le service de diffusion de renseignements aéronautiques qui concourent à la sécurité de la navigation aérienne.
+L’exploitation, la composition, l'objet des communications et le contrôle des stations sont fixés par voie réglementaire.

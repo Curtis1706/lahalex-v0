@@ -1,0 +1,1 @@
+Il est interdit la manipulation des denrées alimentaires aux personnes susceptibles de les contaminer, notamment celles qui sont atteintes d'affections cutanéomuqueuses, respiratoires ou intestinales.

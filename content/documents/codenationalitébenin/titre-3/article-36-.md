@@ -1,0 +1,3 @@
+La personne qui acquiert la nationalité béninoise jouit, à compter du jour de cette acquisition, de tous les droits attachés à la qualité de Béninois, sous réserve des incapacités prévues par la loi.
+Toutefois, des dispositions particulières peuvent déterminer les modalités d'exercice de ces droits.
+La personne qui acquiert la nationalité béninoise est également tenue à toutes les obligations attachées à la qualité de Béninois.

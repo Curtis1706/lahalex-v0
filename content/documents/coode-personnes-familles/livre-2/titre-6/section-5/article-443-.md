@@ -1,0 +1,1 @@
+Les personnes qui ont été déchues par application des dispositions de la présente section pourront, par requête adressée au président du tribunal ayant prononcé la déchéance, en justifiant de circonstances nouvelles, obtenir que leur soient restitués, en totalité ou en partie, les droits dont ils avaient été privés.

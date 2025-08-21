@@ -1,0 +1,2 @@
+Est puni d’un emprisonnement de trois (03) mois à douze (12) mois et d’une amende de cent mille (100.000) francs CFA à cinq cent mille (500.000) francs CFA, quiconque procède à une publicité à l’intention du public, portant sur des plantes ou substances classées comme stupéfiants ou substances psychotropes ou leurs préparations.
+Est puni des mêmes peines, quiconque remet à un médecin à des fins de publicité ou de promotion, des échantillons de telles plantes ou substances.

@@ -1,0 +1,2 @@
+Le crédit pour dépenses imprévues est employé par l'ordonnateur de la commune ou de l'établissement public de coopération intercommunale pour faire face à des dépenses urgentes.
+A la première session de l’organe délibérant compétent qui suit le mandatement de chaque dépense, l’ordonnateur rend compte avec pièces justificatives à l’appui, de l'emploi de ce crédit. Ces pièces demeurent annexées au procès-verbal de délibération.

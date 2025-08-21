@@ -1,0 +1,1 @@
+Lorsqu'un membre du conseil d'arrondissement, sans motif valable, est absent à trois (03) sessions ordinaires successives, il peut, sous réserve d’avoir été admis à fournir des explications, être démis de ses fonctions par le maire, après avis conforme du conseil communal. L'autorité de tutelle en est saisie. Le conseil d’arrondissement concerné est informé.

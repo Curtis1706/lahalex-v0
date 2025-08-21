@@ -1,0 +1,15 @@
+{
+  "id": "article-201-",
+  "title": "Article 201 : Indemnisation",
+  "numero": "201 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-3"
+  ],
+  "navigation": {
+    "parent": "titre-3",
+    "previous": "article-200-",
+    "next": "article-202-"
+  }
+}

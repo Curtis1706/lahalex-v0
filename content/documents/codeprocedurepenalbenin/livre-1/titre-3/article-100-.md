@@ -1,0 +1,1 @@
+Si la perquisition a lieu au domicile de l’inculpé, le juge d’instruction doit se conformer aux dispositions des articles 51 et 53 alinéa 1<sup>er</sup> du présent code.

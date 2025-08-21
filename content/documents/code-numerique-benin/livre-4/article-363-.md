@@ -1,0 +1,2 @@
+Garantie proprement dite
+Toute personne 	exerçant une activité de commerce électronique en République du Bénin ou à destination des utilisateurs établis sur le territoire de la République du Bénin, garantit les biens vendus contre les vices cachés qui le rendent impropre à l'usage auquel on le destine, ou qui diminuent tellement cet usage que l'acquéreur ne l'aurait pas acquis, ou n'en aurait donné qu'un moindre prix, s'il les avait connus.

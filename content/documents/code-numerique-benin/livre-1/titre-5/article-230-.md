@@ -1,0 +1,9 @@
+Principes applicables à la procédure
+L’Autorité de régulation met en œuvre des procédures transparentes et non discriminatoires pour trancher les différends qui lui sont soumis.
+Ainsi, l’Autorité de régulation doit :
+- respecter le principe du contradictoire et des droits de la défense en mettant les parties à même de présenter leurs observations écrites ou orales. L’Autorité de régulation peut refuser la communication de pièces mettant en cause le secret des affaires. Ces pièces sont alors retirées du dossier ;
+- procéder à des consultations techniques, économiques ou juridiques, ou avoir recours à des expertises respectant le secret de l’instruction du différend dans les conditions prévues par le règlement intérieur de l’Autorité de régulation. Les frais engendrés par ces consultations et expertises sont mis à la charge de la partie perdante, sauf si les circonstances particulières du différend justifient qu'ils soient mis à la charge d'une autre partie ou partagés entre les parties ;
+- rendre des décisions dûment motivées, notamment en précisant les conditions équitables, d'ordre technique et financier dans lesquelles les obligations en cause doivent être mises en œuvre ;
+- rendre publiques ses décisions, notamment sur son site internet, et les notifier aux parties dans les conditions prévues par son règlement intérieur sous réserve des informations, données et faits dont la diffusion est protégée ou restreinte par la loi ;
+- communiquer, le cas échéant, ses décisions à la Commission de la CEDEAO et de l’UEMOA.
+Les parties ont le droit de se faire assister ou représenter dans ces procédures par des avocats.

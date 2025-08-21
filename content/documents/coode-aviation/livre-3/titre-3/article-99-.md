@@ -1,0 +1,2 @@
+En cas de location d’un aéronef, le propriétaire et l'exploitant sont solidairement responsables des dommages causés aux tiers.
+Toutefois, si la location a été inscrite sur le registre d'immatriculation, le propriétaire n'en est responsable que si le tiers établit une faute de sa part.

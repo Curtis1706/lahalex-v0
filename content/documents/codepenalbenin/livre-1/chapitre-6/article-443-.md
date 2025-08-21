@@ -1,0 +1,6 @@
+Toute personne qui a publiquement porté un costume, un uniforme ou une décoration qui ne lui appartenait pas, est puni d’un emprisonnement de six (06) mois à deux (02) ans et d’une amende de cinquante mille (50.000) francs CFA à deux cent cinquante mille (250.000) francs CFA.
+Est puni des mêmes peines celui qui, sans remplir les conditions exigées pour le porter, a fait usage ou s’est réclamé d’un titre attaché à une profession légalement réglementée, d’un diplôme officiel ou d’une qualité dont les conditions d’attribution sont fixées par l’autorité publique.
+Est puni d’une amende de cinquante mille (50.000) francs CFA à deux cent cinquante mille (250.000) francs CFA, quiconque, sans droit et en vue de s’attribuer une distinction honorifique, aura publiquement pris un titre, changé, altéré ou modifié le nom que lui assignent les actes de l’état civil.
+Le tribunal ordonnera la mention du jugement en marge des actes authentiques ou des actes de l’état civil dans lesquels le titre aura été pris indûment ou le nom altéré.
+Dans tous les cas prévus par le présent article, le tribunal pourra ordonner l’insertion intégrale ou par extrait du jugement dans des journaux qu’il désigne, le tout aux frais du condamné.
+En cas de récidive dans les cas énoncés dans le présent article, les peines et les amendes ci-dessus prévues peuvent être portées au double du maximum.

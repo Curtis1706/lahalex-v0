@@ -1,0 +1,1 @@
+Le contrôle global des dépenses budgétaires de l'année s'effectue en retranchant du montant total figurant sur les bordereaux des mandats émis, le montant total figurant sur les bordereaux de mandats annulés.

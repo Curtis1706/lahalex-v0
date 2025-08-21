@@ -1,0 +1,3 @@
+L’effectif de tout navire est fixé par l’armateur et soumis au visa du directeur de la marine marchande qui apprécie sa conformité aux règles relatives à la sécurité de la navigation et à la durée du travail.
+Si les conditions réelles d’exploitation du navire ne permettent pas d’assurer le respect des règles ci-dessus, le visa est refusé.
+Le refus ou le retrait de visa entraîne l’interdiction d’appareillage. La même interdiction peut être prononcée si l’effectif embarqué est inférieur en nombre ou en qualité à celui qui a obtenu le visa.

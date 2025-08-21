@@ -1,0 +1,2 @@
+Le principe de l’universalité signifie que toutes les dépenses et toutes les recettes sont prévues au budget sans compensation, sans affectation, sans omission, ni dissimulation. L'ensemble des recettes est destiné à couvrir l’ensemble des dépenses.
+Toutefois, les dons, legs, aides spécifiques et subventions, affectés à un investissement ou à une catégorie d'investissements particuliers conservent leur destination.

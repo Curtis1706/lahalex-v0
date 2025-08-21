@@ -1,0 +1,1 @@
+Les juridictions pénales sont compétentes pour interpréter les actes administratifs, réglementaires ou individuels et pour apprécier la légalité lorsque, de cet examen, dépend la solution du procès qui leur est soumis.

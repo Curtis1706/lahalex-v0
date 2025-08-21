@@ -1,0 +1,1 @@
+Toute personne, ayant connaissance et pouvant rapporter la preuve d’une publicité mensongère, peut dénoncer le fait à l’officier de police judiciaire de la localité ou au procureur de la République territorialement compétent.

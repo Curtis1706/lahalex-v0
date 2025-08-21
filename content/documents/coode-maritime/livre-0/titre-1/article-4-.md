@@ -1,0 +1,1 @@
+Les dispositions des conventions internationales ratifiées par la République du Bénin, ou de toutes autres conventions internationales auxquelles la République du Bénin adhère en matière de navigation maritime internationale, l’emportent sur les lois et règlements béninois.

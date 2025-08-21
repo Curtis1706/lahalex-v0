@@ -1,0 +1,2 @@
+Article 267 : Prévention
+Si, la prévention est établie à l’égard d’un enfant de plus de treize (13) ans, le tribunal peut, soit prendre l’une des mesures de garde ou de rééducation, soit prononcer une condamnation pénale, avec cette réserve que la peine ne peut s’élever au-dessus de la moitié de celle à laquelle il aurait pu être condamné, s’il avait eu dix-huit (18) ans.

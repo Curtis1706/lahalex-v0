@@ -1,0 +1,1 @@
+Les cotisations à l’impôt sur les bénéfices d’affaires en vertu d’un titre exécutoire au nom des associés de sociétés non soumises à l’impôt sur les sociétés au titre de leur part dans les bénéfices sociaux n’en demeurent pas moins des dettes sociales.

@@ -1,0 +1,2 @@
+Le fréteur est responsable des marchandises reçues à bord par le capitaine dans les limites prévues à la charte-partie.
+2 s’en libère en établissant qu’il a bien satisfait aux obligations de l’article 305 du présent code et que les dommages sont dus à la faute nautique du capitaine et de ses préposés.

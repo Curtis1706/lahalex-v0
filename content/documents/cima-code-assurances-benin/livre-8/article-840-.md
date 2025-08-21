@@ -1,0 +1,4 @@
+_(Règlement 2015-02)_ Publication des sanctions
+La Commission Régionale de Contrôle des Assurances publie les décisions prononçant des sanctions dans le Bulletin Officiel de la CIMA.
+Les décisions de la Commission Régionale de Contrôle des Assurances qui comportent à la charge des personnes physiques ou morales une obligation pécuniaire forment titre exécutoire et sont publiés au Bulletin Officiel de la CIMA.
+Les décisions mentionnées aux alinéas précédents peuvent également être publiées dans un journal habilité à recevoir les annonces légales de l’État membre de l’entreprise sanctionnée ou de l’État membre de l’entreprise du dirigeant sanctionné aux frais de l’entreprise.

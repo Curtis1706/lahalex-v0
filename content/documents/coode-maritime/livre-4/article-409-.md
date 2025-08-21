@@ -1,0 +1,3 @@
+La vente ‘’sur navire désigné’’ ou ‘’sur navire à désigner’’ ou ‘’vente à l‘heureuse arrivée’’ est une vente au débarquement dans laquelle il est imposé au vendeur de désigner immédiatement ou dans un délai déterminé le navire sur lequel la marchandise est ou doit être embarquée.
+Le manquant, la perte ou l’avarie en cours de route entraîne, sans obligations de remplacer pour le vendeur, ou dommages-intérêts pour l’acquéreur, la résiliation de la vente à due concurrence. L’acquéreur subit le retard du navire.
+Sauf convention contraire, l’agréage a lieu au port de débarquement.

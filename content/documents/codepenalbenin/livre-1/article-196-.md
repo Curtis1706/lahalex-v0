@@ -1,0 +1,1 @@
+Ceux qui ont levé ou fait lever des troupes armées, engagé ou enrôlé, fait engager ou fait enrôler des soldats ou leur ont fourni des armes ou munitions, sans ordre ou autorisation du pouvoir légitime, sont punis de la détention criminelle à perpétuité.

@@ -1,0 +1,16 @@
+{
+  "id": "article-65-",
+  "title": "Article 65 :",
+  "numero": "65 ",
+  "document": "code-admin-territorial",
+  "path": [
+    "titre-4",
+    "chapitre-1",
+    "paragraphe-3"
+  ],
+  "navigation": {
+    "parent": "paragraphe-3",
+    "previous": "article-64-",
+    "next": "article-66-"
+  }
+}

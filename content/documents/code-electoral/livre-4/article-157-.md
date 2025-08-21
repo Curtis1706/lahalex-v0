@@ -1,0 +1,4 @@
+Le mandat de député n'est pas incompatible avec les missions administratives temporaires confiées par le Chef de l'Etat, avec l'accord du bureau de l'Assemblée Nationale.
+En tout état de cause, la durée de la mission ne peut excéder six (06) mois.
+A l'expiration de ce délai, la mission cesse d'être temporaire à moins qu'elle n'ait été renouvelée, par décret pris en Conseil des ministres pour une nouvelle période de six (06) mois sans que la durée totale de la mission puisse excéder douze (12) mois.
+En tout état de cause, l'exercice du mandat de député est suspendu pendant la durée de la mission ; il reprend à l'expiration de celle-ci.

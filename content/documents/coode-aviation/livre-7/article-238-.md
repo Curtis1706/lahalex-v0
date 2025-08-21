@@ -1,0 +1,2 @@
+L'agrément peut être refusé ou retiré lorsque l’entreprise ou l'organisme ne se conforme pas aux obligations prévues par les dispositions des articles 215 et 216 de la présente loi ou par l'acte réglementaire mentionné à l'article 239 de la présente loi ou peut constituer, par ses méthodes de travail ou le comportement de ses dirigeants ou agents, un risque pour la sûreté.
+L'agrément ne peut être retiré qu’après que l’entreprise ou l'organisme concerné a été mis en demeure de présenter ses observations. Il peut faire l'objet d'une suspension immédiate en cas d'urgence.

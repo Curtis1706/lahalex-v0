@@ -1,0 +1,2 @@
+Incitation à la haine et à la violence
+Quiconque aura provoqué à la discrimination, à la haine ou à la violence à l'égard d'une personne ou d'un groupe de personnes à raison de l’appartenance à une race, à une couleur, à une origine nationale ou ethnique, à la religion, à l’appartenance sexuelle, ou à un handicap au moyen d’un ou sur un réseau de communication électronique ou un système informatique, est puni de un (01) an d'emprisonnement et de cinq millions (5 000 000) de francs CFA d'amende ou de l'une de ces deux peines seulement.

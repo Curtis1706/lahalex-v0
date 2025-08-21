@@ -1,0 +1,2 @@
+Quiconque a dévasté des récoltes sur pied ou des plants venus naturellement ou faits de main d’homme, est puni d’un emprisonnement de deux (02) ans au moins et de cinq (05) ans au plus.
+Les coupables pourront de plus être frappés d’interdiction de séjour pendant une durée de cinq (05) ans à dix (10) ans.

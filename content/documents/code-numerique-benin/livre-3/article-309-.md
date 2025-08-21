@@ -1,0 +1,2 @@
+Obligation de notification à un organe de contrôle des prestataires de services de confiance
+Les prestataires de services de confiance qualifiés et non-qualifiés notifient à l’organe de contrôle et le cas échéant aux autres organismes concernés, dans les meilleurs délais et au plus tard dans un délai de vingt-quatre (24) heures après en avoir eu connaissance, toute atteinte à la sécurité ou toute perte d’intégrité ayant une incidence significative sur le service de confiance fourni ou sur les données à caractère personnel qui y sont conservées.

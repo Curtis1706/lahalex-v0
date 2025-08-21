@@ -1,0 +1,16 @@
+{
+  "id": "article-71-",
+  "title": "Article 71 :",
+  "numero": "71 ",
+  "document": "code-admin-territorial",
+  "path": [
+    "titre-4",
+    "chapitre-1",
+    "paragraphe-3"
+  ],
+  "navigation": {
+    "parent": "paragraphe-3",
+    "previous": "article-70-",
+    "next": "article-72-"
+  }
+}

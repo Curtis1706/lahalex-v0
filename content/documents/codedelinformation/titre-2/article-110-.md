@@ -1,0 +1,2 @@
+Seules les allocutions ou les interventions du Chef de l’Etat peuvent faire l’objet d’une diffusion synchronisée, en direct ou en différé, sur les chaînes de radiodiffusion et de télévision nationales.
+Elles peuvent être livrées intégralement dans la presse écrite de service public.

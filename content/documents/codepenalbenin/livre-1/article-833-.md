@@ -1,0 +1,2 @@
+Toute rupture, toute destruction d’instruments d’agriculture, de parcs de bestiaux, de cabanes de gardiens, est punie d’un emprisonnement de deux (02) mois à deux (02) ans.
+Sont punis des mêmes peines tous ceux qui auront sciemment détruit par quelque manière que ce soit, excepté par l’incendie, tout autres biens notamment des marchandises, des denrées alimentaires, des véhicules et autres.

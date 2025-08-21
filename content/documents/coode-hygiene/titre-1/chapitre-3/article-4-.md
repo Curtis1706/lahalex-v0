@@ -1,0 +1,3 @@
+Tout agent de la police environnementale, désigné par le ministre chargé de l'environnement, a libre accès aux heures légales, à tous les établissements, installations et domaines publics et privés, pour y effectuer les visites ou inspections nécessaires au contrôle de l'application des mesures d'hygiène publique.
+Les heures légales d'accès aux locaux sont comprises entre six (06) heures et vingt et-une (21) heures.
+En dehors de ces heures légales, tout accès est subordonné à une autorisation de l'autorité judiciaire compétente.

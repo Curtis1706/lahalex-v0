@@ -1,0 +1,1 @@
+L’installation des discothèques, ateliers bruyants, est interdite aux abords des écoles, formations sanitaires et autres services administratifs.

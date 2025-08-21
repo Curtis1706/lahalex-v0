@@ -1,0 +1,18 @@
+Article 813 : _(Règlement 2015-02)_ Accords avec les pays tiers
+1) La Commission et le Secrétariat Général peuvent soumettre au Conseil des Ministres des Assurances des propositions en vue de négocier et conclure des accords avec des pays tiers concernant les modalités de contrôle et d’échanges d’informations à l’égard :
+a) des entreprises d’assurance ou de réassurance qui ont leur siège social dans un pays tiers et qui exercent une activité de réassurance dans un État membre ;
+b) des entreprises d’assurance ou de réassurance qui ont leur siège social dans un État membre et qui exercent une activité de réassurance sur le territoire d’un pays tiers ;
+c) des personnes occupant des fonctions de direction ou d’administration dans les entreprises mentionnées ci-dessus.
+2) Les accords au paragraphe 1) visent à vérifier la reconnaissance mutuelle des règles et pratiques prudentielles du contrôle de la réassurance. Sous réserve d’équivalence de ces règles et pratiques, ils visent notamment à permettre :
+a) un contrôle prudentiel effectif de la sécurité des opérations de réassurance,
+b) un accès effectif des entreprises d’assurance et de réassurance aux opérations de réassurance de chaque partie contractante,
+c) au Secrétariat Général de la CIMA d’obtenir, sous réserve de confidentialité, les informations nécessaires au contrôle des entreprises d’assurance ou de réassurance ayant leur siège social dans l’espace CIMA et exerçant une activité de réassurance sur le territoire des pays tiers concernés ;
+d) aux autorités compétentes desdits pays tiers d’obtenir, sous réserve de confidentialité, les informations nécessaires au contrôle des entreprises d’assurance ou de réassurance ayant leur siège social sur leur territoire et exerçant une activité de réassurance dans un État membre.
+1.  Lorsque la Commission ou le Secrétariat Général ont reçu mandat de négocier ou de conclure un accord tel que visé au paragraphe 1), ils rendent compte des négociations et de tout accord conclu au Conseil des Ministres. Lorsqu’un accord est conclu, le Secrétariat Général dresse périodiquement une évaluation des effets de l’accord, et en rend compte à la Commission et au Conseil des Ministres.
+2.  Dans le cadre de ces accords :
+a) à la demande du superviseur hôte, le superviseur d’origine doit communiquer les informations financières et prudentielles pertinentes, y compris des informations sur les personnes occupant des postes de direction du réassureur, dès lors que ces informations sont pertinentes pour les responsabilités du superviseur hôte ;
+b) de même, à la demande du superviseur d’origine, le superviseur hôte doit communiquer toute information financière ou prudentielle pertinente, y compris des informations sur les personnes ;
+c) le superviseur d’origine doit, de sa propre initiative, informer le superviseur hôte de tout changement ayant un impact significatif sur les activités du réassureur. Le superviseur d’origine doit, en particulier, informer le superviseur hôte lorsqu’il retire un agrément ou prend des mesures susceptibles d’affecter les activités du réassureur dans cette juridiction ;
+d) de même, le superviseur hôte doit informer le superviseur d’origine de toutes circonstances ou problèmes pouvant affecter le réassureur.
+e) chaque superviseur s’engage à préserver la confidentialité des informations reçues d’un autre superviseur.
+### CHAPITRE 4 : REGIME FINANCIER

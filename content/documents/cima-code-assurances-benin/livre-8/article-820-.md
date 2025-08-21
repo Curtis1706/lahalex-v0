@@ -1,0 +1,2 @@
+_(Règlement 2015-02)_ Liquidation, règles applicables
+La liquidation des entreprises de réassurance soumises au contrôle de la Commission Régionale de Contrôle des Assurances est régie par les dispositions des articles 325 à 32513 du code des assurances, à l’exception des articles 325-10,325-11 et 325-12.

@@ -1,0 +1,1 @@
+La présente loi, qui entre en vigueur soixante (60) jours à compter de sa promulgation, sera publiée au Journal officiel et exécutée comme Loi de l'Etat.

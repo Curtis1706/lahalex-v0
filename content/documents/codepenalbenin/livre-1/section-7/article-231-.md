@@ -1,0 +1,1 @@
+Sont punis de la réclusion criminelle à perpétuité ceux qui ont dirigé ou organisé un mouvement insurrectionnel ou qui lui ont sciemment et volontairement fourni ou procuré des armes, munitions et instruments de crime, ou envoyé des subsistances ou qui ont, de toute manière pratiquée des intelligences avec les dirigeants ou commandants de mouvements.

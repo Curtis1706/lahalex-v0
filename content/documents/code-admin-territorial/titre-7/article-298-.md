@@ -1,0 +1,1 @@
+En cas d’empêchement temporaire d'un conseiller communautaire, il donne procuration à un autre conseiller communautaire de sa commune pour le suppléer. Le conseiller communautaire empêché reprend ses fonctions dès que la cause de l'empêchement temporaire a cessé.

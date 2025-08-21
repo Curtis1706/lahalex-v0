@@ -1,0 +1,1 @@
+La majorité, au sens de la présente loi, est celle fixée par la loi béninoise.

@@ -1,0 +1,5 @@
+Les écrits, les jeux et les programmes mis à la disposition du public par les organes de presse, les éditeurs et les imprimeurs ainsi que les services de communication audiovisuelle en ligne ou non :
+- protègent l’enfance et l’adolescence et respectent la dignité de la personne humaine ;
+- ne nuisent pas à l’épanouissement physique, mental ou moral des mineurs ;
+- ne contiennent aucune incitation à la haine ou à la violence pour des raisons d’ethnie, de race, de religion, de sexe, de mœurs ou de nationalité.
+Les organes de presse, les éditeurs et les imprimeurs ou tous autres services de communication audiovisuelle en ligne ou non, avertissent le public au moyen de symboles visuels tout au long de la durée des écrits, des jeux ou des programmes susceptibles de nuire à l’épanouissement physique, mental ou moral des mineurs, mis à la disposition du public.

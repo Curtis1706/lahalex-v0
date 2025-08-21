@@ -1,0 +1,1 @@
+Appel des ordonnances prévues à l’article 711du présent code pourra être interjeté dans les formes ordinaires. Il est examiné par la cour d’appel statuant en chambre des mineurs.

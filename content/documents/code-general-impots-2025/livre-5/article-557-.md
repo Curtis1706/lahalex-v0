@@ -1,0 +1,2 @@
+1) En cas d’opposition à contrôle, individuelle ou collective, de refus de communication ou de défaut de comptabilité sincère et probante, la procédure de rectification contradictoire peut être abandonnée et l’administration fiscale peut procéder aux impositions par taxation d’office des bases imposables à l’aide de tous éléments en sa possession.
+2) L’opposition individuelle ou collective à contrôle est constatée par des procès- verbaux établis par les vérificateurs et éventuellement par les agents de la force publique ayant la qualité d’officier de police judiciaire.

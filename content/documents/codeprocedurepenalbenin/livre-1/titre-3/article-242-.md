@@ -1,0 +1,1 @@
+Le président de la chambre de l’instruction ou le président de la chambre des libertés et de la détention peut, chacun en ce qui le concerne, saisir sa chambre afin qu’il soit par elle statué sur le maintien en détention d’un inculpé en état de détention provisoire.

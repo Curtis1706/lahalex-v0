@@ -1,0 +1,4 @@
+Agrément des équipements et installations radioélectriques
+Aucun appareil radioélectrique servant à l’émission, à la réception ou à l'émission et la réception de signaux et de correspondances ne peut être fabriqué, importé ou commercialisé en vue de son utilisation en République du Bénin s’il n'a fait l’objet d’un agrément de l'Autorité de régulation. Cette disposition ne s'applique pas aux stations expérimentales destinées à des essais d'ordre technique ou pédagogique et à des études scientifiques relatives à la radioélectricité.
+Un appareil agréé ne peut être modifié qu'avec l’accord de l'Autorité de régulation.
+Les agents de l’Autorité de régulation dûment habilités peuvent procéder à toute vérification afin de s'assurer que les appareils détenus par les constructeurs, les importateurs, les commerçants, les utilisateurs sont agréés et conformes à la réglementation en vigueur.

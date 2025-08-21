@@ -1,0 +1,7 @@
+Le transporteur est responsable de toutes pertes, avaries ou tout dommage subis par les marchandises depuis leur prise en charge jusqu’à la livraison, sauf dans les cas exceptés par l’article suivant.
+Si l’embarquement a lieu au moyen d’engins de levage, ladite responsabilité commence au moment où les élingues soutenant les marchandises présentées à quai ou sur les allèges sont capelées au crochet du palan.
+Si le débarquement a lieu au moyen d’engins de levage, ladite responsabilité prend fin lorsque les élingues sont décapelées et que la marchandise repose à terre ou sur allèges.
+Ces dispositions sont applicables aussi bien dans le cas où l’engin de levage appartient au navire transporteur que dans celui où il dépend d’un acconier à terre ou à flot.
+Si la manutention est opérée à bras d’homme, la responsabilité susdite commence, à l’embarquement, lorsque les porteurs quittent le sol ou l’allège et prend fin, au débarquement, lorsqu’ils reprennent contact avec ces derniers.
+Dans le cas de transport de liquide ou de gaz en vrac, la responsabilité du transporteur maritime commence au départ lorsque le liquide ou le gaz a atteint les canalisations et tuyauteries du navire, et prend fin à l’arrivée lorsqu’il a dépassé celles-ci.
+Les parties peuvent également convenir de fixer la limite de responsabilité au passage du liquide ou du gaz dans un appareil de mesurage de volume.

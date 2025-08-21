@@ -1,0 +1,4 @@
+Enregistrement d’images relatives à la commission d’infractions
+Est constitutif d'un acte de complicité des atteintes volontaires à l'intégrité de la personne, le fait d'enregistrer sciemment, par quelque moyen que ce soit, sur tout support que ce soit, des images relatives à la commission d’infractions.
+Le fait de diffuser l'enregistrement de telles images est puni de cinq (5) ans d'emprisonnement et de vingt-cinq millions (25 000 000) de francs CFA d'amende.
+Le présent article n'est pas applicable lorsque l'enregistrement ou la diffusion résulte de l'exercice normal d'une profession ayant pour objet d'informer le public ou est réalisé afin de servir de preuve en justice.

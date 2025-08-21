@@ -1,0 +1,1089 @@
+{
+  "id": "traite-revise-cedeao-1993",
+  "title": "Traité révisé de la Communauté Économique des États de l'Afrique de l'Ouest (CEDEAO)",
+  "type": "cedeao",
+  "description": "Traité révisé de la CEDEAO signé en 1993, établissant les bases de l'intégration économique et politique des États membres, définissant les institutions, les objectifs, les principes fondamentaux, les droits et obligations des États membres, ainsi que les mécanismes de coopération régionale.",
+  "structure": {
+    "sections": [
+      {
+        "id": "article-1-",
+        "title": "ARTICLE 1 :",
+        "type": "article",
+        "level": 1,
+        "order": 0,
+        "path": ["article-1-"],
+        "children": []
+      },
+      {
+        "id": "chapitre-2",
+        "title": "CHAPITRE 2 : CREATION, COMPOSITION, BUTS ET OBJECTIFS, PRINCIPES FONDAMENTAUX DE LA COMMUNAUTE",
+        "type": "chapitre",
+        "level": 1,
+        "order": 1,
+        "path": ["chapitre-2"],
+        "children": [
+          "article-2-",
+          "article-3-",
+          "article-4-",
+          "article-5-",
+          "article-6-"
+        ]
+      },
+      {
+        "id": "article-2-",
+        "title": "ARTICLE 2 : CREATION ET COMPOSITION",
+        "type": "article",
+        "level": 2,
+        "order": 2,
+        "path": ["chapitre-2", "article-2-"],
+        "children": []
+      },
+      {
+        "id": "article-3-",
+        "title": "ARTICLE 3 :",
+        "type": "article",
+        "level": 2,
+        "order": 3,
+        "path": ["chapitre-2", "article-3-"],
+        "children": []
+      },
+      {
+        "id": "article-4-",
+        "title": "ARTICLE 4 :",
+        "type": "article",
+        "level": 2,
+        "order": 4,
+        "path": ["chapitre-2", "article-4-"],
+        "children": []
+      },
+      {
+        "id": "article-5-",
+        "title": "ARTICLE 5 :",
+        "type": "article",
+        "level": 2,
+        "order": 5,
+        "path": ["chapitre-2", "article-5-"],
+        "children": []
+      },
+      {
+        "id": "article-6-",
+        "title": "ARTICLE 6 :",
+        "type": "article",
+        "level": 2,
+        "order": 6,
+        "path": ["chapitre-2", "article-6-"],
+        "children": []
+      },
+      {
+        "id": "chapitre-3",
+        "title": "CHAPITRE 3 :",
+        "type": "chapitre",
+        "level": 1,
+        "order": 7,
+        "path": ["chapitre-3"],
+        "children": [
+          "article-7-",
+          "article-8-",
+          "article-9-",
+          "article-10-",
+          "article-11-",
+          "article-12-",
+          "article-13-",
+          "article-14--le-conseil-economique-et-socia",
+          "article-15-",
+          "article-16-",
+          "article-17-",
+          "article-18-",
+          "article-19-",
+          "article-20-",
+          "article-21-",
+          "article-22-",
+          "article-23-",
+          "article-24-",
+          "article-25-"
+        ]
+      },
+      {
+        "id": "article-7-",
+        "title": "ARTICLE 7 :",
+        "type": "article",
+        "level": 2,
+        "order": 8,
+        "path": ["chapitre-3", "article-7-"],
+        "children": []
+      },
+      {
+        "id": "article-8-",
+        "title": "ARTICLE 8 :",
+        "type": "article",
+        "level": 2,
+        "order": 9,
+        "path": ["chapitre-3", "article-8-"],
+        "children": []
+      },
+      {
+        "id": "article-9-",
+        "title": "ARTICLE 9 :",
+        "type": "article",
+        "level": 2,
+        "order": 10,
+        "path": ["chapitre-3", "article-9-"],
+        "children": []
+      },
+      {
+        "id": "article-10-",
+        "title": "ARTICLE 10 : CONSEIL DES MINISTRES CREATION COMPOSITION ET FONCTIONS",
+        "type": "article",
+        "level": 2,
+        "order": 11,
+        "path": ["chapitre-3", "article-10-"],
+        "children": []
+      },
+      {
+        "id": "article-11-",
+        "title": "ARTICLE 11 : REUNIONS",
+        "type": "article",
+        "level": 2,
+        "order": 12,
+        "path": ["chapitre-3", "article-11-"],
+        "children": []
+      },
+      {
+        "id": "article-12-",
+        "title": "ARTICLE 12 : REGLEMENTS",
+        "type": "article",
+        "level": 2,
+        "order": 13,
+        "path": ["chapitre-3", "article-12-"],
+        "children": []
+      },
+      {
+        "id": "article-13-",
+        "title": "ARTICLE 13 :",
+        "type": "article",
+        "level": 2,
+        "order": 14,
+        "path": ["chapitre-3", "article-13-"],
+        "children": []
+      },
+      {
+        "id": "article-14--le-conseil-economique-et-socia",
+        "title": "ARTICLE 14 : LE CONSEIL ECONOMIQUE ET SOCIAL",
+        "type": "article",
+        "level": 2,
+        "order": 15,
+        "path": ["chapitre-3", "article-14--le-conseil-economique-et-socia"],
+        "children": []
+      },
+      {
+        "id": "article-15-",
+        "title": "ARTICLE 15 :",
+        "type": "article",
+        "level": 2,
+        "order": 16,
+        "path": ["chapitre-3", "article-15-"],
+        "children": []
+      },
+      {
+        "id": "article-16-",
+        "title": "ARTICLE 16 :",
+        "type": "article",
+        "level": 2,
+        "order": 17,
+        "path": ["chapitre-3", "article-16-"],
+        "children": []
+      },
+      {
+        "id": "article-17-",
+        "title": "ARTICLE 17 :",
+        "type": "article",
+        "level": 2,
+        "order": 18,
+        "path": ["chapitre-3", "article-17-"],
+        "children": []
+      },
+      {
+        "id": "article-18-",
+        "title": "ARTICLE 18 :",
+        "type": "article",
+        "level": 2,
+        "order": 19,
+        "path": ["chapitre-3", "article-18-"],
+        "children": []
+      },
+      {
+        "id": "article-19-",
+        "title": "ARTICLE 19 :",
+        "type": "article",
+        "level": 2,
+        "order": 20,
+        "path": ["chapitre-3", "article-19-"],
+        "children": []
+      },
+      {
+        "id": "article-20-",
+        "title": "ARTICLE 20 :",
+        "type": "article",
+        "level": 2,
+        "order": 21,
+        "path": ["chapitre-3", "article-20-"],
+        "children": []
+      },
+      {
+        "id": "article-21-",
+        "title": "ARTICLE 21 :",
+        "type": "article",
+        "level": 2,
+        "order": 22,
+        "path": ["chapitre-3", "article-21-"],
+        "children": []
+      },
+      {
+        "id": "article-22-",
+        "title": "ARTICLE 22 :",
+        "type": "article",
+        "level": 2,
+        "order": 23,
+        "path": ["chapitre-3", "article-22-"],
+        "children": []
+      },
+      {
+        "id": "article-23-",
+        "title": "ARTICLE 23 :",
+        "type": "article",
+        "level": 2,
+        "order": 24,
+        "path": ["chapitre-3", "article-23-"],
+        "children": []
+      },
+      {
+        "id": "article-24-",
+        "title": "ARTICLE 24 :",
+        "type": "article",
+        "level": 2,
+        "order": 25,
+        "path": ["chapitre-3", "article-24-"],
+        "children": []
+      },
+      {
+        "id": "article-25-",
+        "title": "ARTICLE 25 :",
+        "type": "article",
+        "level": 2,
+        "order": 26,
+        "path": ["chapitre-3", "article-25-"],
+        "children": []
+      },
+      {
+        "id": "chapitre-4",
+        "title": "CHAPITRE 4 :",
+        "type": "chapitre",
+        "level": 1,
+        "order": 27,
+        "path": ["chapitre-4"],
+        "children": [
+          "article-26"
+        ]
+      },
+      {
+        "id": "article-26",
+        "title": "ARTICLE 26 : INDUSTRIE",
+        "type": "article",
+        "level": 2,
+        "order": 28,
+        "path": ["chapitre-4", "article-26"],
+        "children": []
+      },
+      {
+        "id": "chapitre-5",
+        "title": "CHAPITRE 5 :",
+        "type": "chapitre",
+        "level": 1,
+        "order": 29,
+        "path": ["chapitre-5"],
+        "children": [
+          "article-27-",
+          "article-28-"
+        ]
+      },
+      {
+        "id": "article-27-",
+        "title": "ARTICLE 27 : SCIENCE ET TECHNOLOGIE",
+        "type": "article",
+        "level": 2,
+        "order": 30,
+        "path": ["chapitre-5", "article-27-"],
+        "children": []
+      },
+      {
+        "id": "article-28-",
+        "title": "ARTICLE 28 :",
+        "type": "article",
+        "level": 2,
+        "order": 31,
+        "path": ["chapitre-5", "article-28-"],
+        "children": []
+      },
+      {
+        "id": "chapitre-6",
+        "title": "CHAPITRE 6 : COOPERATION EN MATIERE D'ENVIRONNEMENT ET DE RESSOURCES NATURELLES",
+        "type": "chapitre",
+        "level": 1,
+        "order": 32,
+        "path": ["chapitre-6"],
+        "children": [
+          "article-29-",
+          "article-31-"
+        ]
+      },
+      {
+        "id": "article-29-",
+        "title": "ARTICLE 29 : ENVIRONNEMENT",
+        "type": "article",
+        "level": 2,
+        "order": 33,
+        "path": ["chapitre-6", "article-29-"],
+        "children": []
+      },
+      {
+        "id": "article-31-",
+        "title": "ARTICLE 31 : RESSOURCES NATURELLES",
+        "type": "article",
+        "level": 2,
+        "order": 34,
+        "path": ["chapitre-6", "article-31-"],
+        "children": []
+      },
+      {
+        "id": "chapitre-7",
+        "title": "CHAPITRE 7 : COOPERATION DANS LES DOMAINES DES TRANSPORTS ET COMMUNICATIONS",
+        "type": "chapitre",
+        "level": 1,
+        "order": 35,
+        "path": ["chapitre-7"],
+        "children": [
+          "article-32-",
+          "article-33-",
+          "article-34-"
+        ]
+      },
+      {
+        "id": "article-32-",
+        "title": "ARTICLE 32 : TRANSPORT ET COMMUNICATIONS",
+        "type": "article",
+        "level": 2,
+        "order": 36,
+        "path": ["chapitre-7", "article-32-"],
+        "children": []
+      },
+      {
+        "id": "article-33-",
+        "title": "ARTICLE 33 : POSTES ET TELECOMMUNICATIONS",
+        "type": "article",
+        "level": 2,
+        "order": 37,
+        "path": ["chapitre-7", "article-33-"],
+        "children": []
+      },
+      {
+        "id": "article-34-",
+        "title": "ARTICLE 34 : TOURISME",
+        "type": "article",
+        "level": 2,
+        "order": 38,
+        "path": ["chapitre-7", "article-34-"],
+        "children": []
+      },
+      {
+        "id": "chapitre-8",
+        "title": "CHAPITRE 8 : COOPERATION DANS LES DOMAINES DU COMMERCE, DOUANES, FISCALITE, STATISTIQUES",
+        "type": "chapitre",
+        "level": 1,
+        "order": 39,
+        "path": ["chapitre-8"],
+        "children": [
+          "article-35-",
+          "article-36-",
+          "article-37-",
+          "article-38-",
+          "article-39-",
+          "article-40-",
+          "article-41-",
+          "paragraphe-1"
+        ]
+      },
+      {
+        "id": "article-35-",
+        "title": "ARTICLE 35 : LIBERALISATION DES ECHANGES COMMERCIAUX",
+        "type": "article",
+        "level": 2,
+        "order": 40,
+        "path": ["chapitre-8", "article-35-"],
+        "children": []
+      },
+      {
+        "id": "article-36-",
+        "title": "ARTICLE 36 : DROITS DE DOUANES",
+        "type": "article",
+        "level": 2,
+        "order": 41,
+        "path": ["chapitre-8", "article-36-"],
+        "children": []
+      },
+      {
+        "id": "article-37-",
+        "title": "ARTICLE 37 : TARIF EXTERIEUR COMMUN",
+        "type": "article",
+        "level": 2,
+        "order": 42,
+        "path": ["chapitre-8", "article-37-"],
+        "children": []
+      },
+      {
+        "id": "article-38-",
+        "title": "ARTICLE 38 : REGIME TARIFAIRE DE LA COMMUNAUTE",
+        "type": "article",
+        "level": 2,
+        "order": 43,
+        "path": ["chapitre-8", "article-38-"],
+        "children": []
+      },
+      {
+        "id": "article-39-",
+        "title": "ARTICLE 39 : DESEQUILIBRE DU COMMERCE",
+        "type": "article",
+        "level": 2,
+        "order": 44,
+        "path": ["chapitre-8", "article-39-"],
+        "children": []
+      },
+      {
+        "id": "article-40-",
+        "title": "ARTICLE 40 : DROITS FISCAUX D'ENTREE ET IMPOSITION INTERIEURE",
+        "type": "article",
+        "level": 2,
+        "order": 45,
+        "path": ["chapitre-8", "article-40-"],
+        "children": []
+      },
+      {
+        "id": "article-41-",
+        "title": "ARTICLE 41 : RESTRICTIONS QUANTITATIVES SUR LES PRODUITS ORIGINAIRES DE LA COMMUNAUTE",
+        "type": "article",
+        "level": 2,
+        "order": 46,
+        "path": ["chapitre-8", "article-41-"],
+        "children": []
+      },
+      {
+        "id": "paragraphe-1",
+        "title": "PARAGRAPHE 1 : DISPOSITIONS COMPLEMENTAIRES",
+        "type": "paragraphe",
+        "level": 2,
+        "order": 47,
+        "path": ["chapitre-8", "paragraphe-1"],
+        "children": [
+          "article-42-",
+          "article-43-",
+          "article-44-",
+          "article-45-",
+          "article-46-",
+          "article-47-",
+          "article-48-",
+          "article-49-",
+          "article-51-",
+          "article-52-",
+          "article-53-"
+        ]
+      },
+      {
+        "id": "article-42-",
+        "title": "ARTICLE 42 :",
+        "type": "article",
+        "level": 3,
+        "order": 48,
+        "path": ["chapitre-8", "paragraphe-1", "article-42-"],
+        "children": []
+      },
+      {
+        "id": "article-43-",
+        "title": "ARTICLE 43 : TRAITEMENT DE LA NATION LA PLUS FAVORISEE",
+        "type": "article",
+        "level": 3,
+        "order": 49,
+        "path": ["chapitre-8", "paragraphe-1", "article-43-"],
+        "children": []
+      },
+      {
+        "id": "article-44-",
+        "title": "ARTICLE 44 : LEGISLATION INTERNE",
+        "type": "article",
+        "level": 3,
+        "order": 50,
+        "path": ["chapitre-8", "paragraphe-1", "article-44-"],
+        "children": []
+      },
+      {
+        "id": "article-45-",
+        "title": "ARTICLE 45 : REEXPORTATION DE MARCHANDISES ET FACILITES DE TRANSIT",
+        "type": "article",
+        "level": 3,
+        "order": 51,
+        "path": ["chapitre-8", "paragraphe-1", "article-45-"],
+        "children": []
+      },
+      {
+        "id": "article-46-",
+        "title": "ARTICLE 46 : REGLEMENTATION ET COOPERATION DOUANIERES",
+        "type": "article",
+        "level": 3,
+        "order": 52,
+        "path": ["chapitre-8", "paragraphe-1", "article-46-"],
+        "children": []
+      },
+      {
+        "id": "article-47-",
+        "title": "ARTICLE 47 : DRAWBACK",
+        "type": "article",
+        "level": 3,
+        "order": 53,
+        "path": ["chapitre-8", "paragraphe-1", "article-47-"],
+        "children": []
+      },
+      {
+        "id": "article-48-",
+        "title": "ARTICLE 48 : COMPENSATION POUR PERTE DE RECETTES",
+        "type": "article",
+        "level": 3,
+        "order": 54,
+        "path": ["chapitre-8", "paragraphe-1", "article-48-"],
+        "children": []
+      },
+      {
+        "id": "article-49-",
+        "title": "ARTICLE 49 : CLAUSES DE SAUVEGARDE ET D'EXCEPTION",
+        "type": "article",
+        "level": 3,
+        "order": 55,
+        "path": ["chapitre-8", "paragraphe-1", "article-49-"],
+        "children": []
+      },
+      {
+        "id": "article-51-",
+        "title": "ARTICLE 51 : MONNAIES, FINANCES ET PAIEMENTS",
+        "type": "article",
+        "level": 3,
+        "order": 56,
+        "path": ["chapitre-8", "paragraphe-1", "article-51-"],
+        "children": []
+      },
+      {
+        "id": "article-52-",
+        "title": "ARTICLE 52 : COMITE DES BANQUES CENTRALES DE L'AFRIQUE DE L'OUEST",
+        "type": "article",
+        "level": 3,
+        "order": 57,
+        "path": ["chapitre-8", "paragraphe-1", "article-52-"],
+        "children": []
+      },
+      {
+        "id": "article-53-",
+        "title": "ARTICLE 53 : MOUVEMENTS DES CAPITAUX",
+        "type": "article",
+        "level": 3,
+        "order": 58,
+        "path": ["chapitre-8", "paragraphe-1", "article-53-"],
+        "children": []
+      },
+      {
+        "id": "chapitre-9",
+        "title": "CHAPITRE 9 : CREATION ET REALISATION D'UNE UNION ECONOMIQUE ET MONETAIRE",
+        "type": "chapitre",
+        "level": 1,
+        "order": 59,
+        "path": ["chapitre-9"],
+        "children": [
+          "article-54-",
+          "article-55-"
+        ]
+      },
+      {
+        "id": "article-54-",
+        "title": "ARTICLE 54 : CREATION ET REALISATION D'UNE UNION ECONOMIQUE ET MONETAIRE",
+        "type": "article",
+        "level": 2,
+        "order": 60,
+        "path": ["chapitre-9", "article-54-"],
+        "children": []
+      },
+      {
+        "id": "article-55-",
+        "title": "ARTICLE 55 : REALISATION D'UNE UNION ECONOMIQUE ET MONETAIRE",
+        "type": "article",
+        "level": 2,
+        "order": 61,
+        "path": ["chapitre-9", "article-55-"],
+        "children": []
+      },
+      {
+        "id": "chapitre-10",
+        "title": "CHAPITRE 10 : COOPERATION DANS LES DOMAINES DES AFFAIRES POLITIQUES, JUDICIAIRES ET JURIDIQUES, DE LA SECURITE REGIONALE ET DE L'IMMIGRATION",
+        "type": "chapitre",
+        "level": 1,
+        "order": 62,
+        "path": ["chapitre-10"],
+        "children": [
+          "article-56-",
+          "article-57-",
+          "article-58-",
+          "article-59-"
+        ]
+      },
+      {
+        "id": "article-56-",
+        "title": "ARTICLE 56 : AFFAIRES POLITIQUES",
+        "type": "article",
+        "level": 2,
+        "order": 63,
+        "path": ["chapitre-10", "article-56-"],
+        "children": []
+      },
+      {
+        "id": "article-57-",
+        "title": "ARTICLE 57 : COOPERATION JUDICIAIRE ET JURIDIQUE",
+        "type": "article",
+        "level": 2,
+        "order": 64,
+        "path": ["chapitre-10", "article-57-"],
+        "children": []
+      },
+      {
+        "id": "article-58-",
+        "title": "ARTICLE 58 : SECURITE REGIONALE",
+        "type": "article",
+        "level": 2,
+        "order": 65,
+        "path": ["chapitre-10", "article-58-"],
+        "children": []
+      },
+      {
+        "id": "article-59-",
+        "title": "ARTICLE 59 : IMMIGRATION",
+        "type": "article",
+        "level": 2,
+        "order": 66,
+        "path": ["chapitre-10", "article-59-"],
+        "children": []
+      },
+      {
+        "id": "chapitre-11",
+        "title": "CHAPITRE 11 : COOPERATION DANS LES DOMAINES DES RESSOURCES HUMAINES, DE L'INFORMATION, DES AFFAIRES SOCIALES ET CULTURELLES",
+        "type": "chapitre",
+        "level": 1,
+        "order": 67,
+        "path": ["chapitre-11"],
+        "children": [
+          "article-60-",
+          "article-61-",
+          "article-62-",
+          "article-63-",
+          "article-64-",
+          "article-65-",
+          "article-66-"
+        ]
+      },
+      {
+        "id": "article-60-",
+        "title": "ARTICLE 60 : RESSOURCES HUMAINES",
+        "type": "article",
+        "level": 2,
+        "order": 68,
+        "path": ["chapitre-11", "article-60-"],
+        "children": []
+      },
+      {
+        "id": "article-61-",
+        "title": "ARTICLE 61 : AFFAIRES SOCIALES",
+        "type": "article",
+        "level": 2,
+        "order": 69,
+        "path": ["chapitre-11", "article-61-"],
+        "children": []
+      },
+      {
+        "id": "article-62-",
+        "title": "ARTICLE 62 : AFFAIRES CULTURELLES",
+        "type": "article",
+        "level": 2,
+        "order": 70,
+        "path": ["chapitre-11", "article-62-"],
+        "children": []
+      },
+      {
+        "id": "article-63-",
+        "title": "ARTICLE 63 : FEMMES ET DEVELOPPEMENT",
+        "type": "article",
+        "level": 2,
+        "order": 71,
+        "path": ["chapitre-11", "article-63-"],
+        "children": []
+      },
+      {
+        "id": "article-64-",
+        "title": "ARTICLE 64 : POPULATION ET DEVELOPPEMENT",
+        "type": "article",
+        "level": 2,
+        "order": 72,
+        "path": ["chapitre-11", "article-64-"],
+        "children": []
+      },
+      {
+        "id": "article-65-",
+        "title": "ARTICLE 65 : INFORMATION RADIODIFFUSION ET TELEVISION",
+        "type": "article",
+        "level": 2,
+        "order": 73,
+        "path": ["chapitre-11", "article-65-"],
+        "children": []
+      },
+      {
+        "id": "article-66-",
+        "title": "ARTICLE 66 : PRESSE",
+        "type": "article",
+        "level": 2,
+        "order": 74,
+        "path": ["chapitre-11", "article-66-"],
+        "children": []
+      },
+      {
+        "id": "chapitre-12",
+        "title": "CHAPITRE 12 : COOPERATION DANS LES AUTRES DOMAINES",
+        "type": "chapitre",
+        "level": 1,
+        "order": 75,
+        "path": ["chapitre-12"],
+        "children": []
+      },
+      {
+        "id": "chapitre-13",
+        "title": "CHAPITRE 13 :",
+        "type": "chapitre",
+        "level": 1,
+        "order": 76,
+        "path": ["chapitre-13"],
+        "children": [
+          "article-68-"
+        ]
+      },
+      {
+        "id": "article-68-",
+        "title": "ARTICLE 68 : ETATS MEMBRES INSULAIRES ET SANS LITTORAL",
+        "type": "article",
+        "level": 2,
+        "order": 77,
+        "path": ["chapitre-13", "article-68-"],
+        "children": []
+      },
+      {
+        "id": "chapitre-14",
+        "title": "CHAPITRE 14 : DISPOSITIONS FINANCIERES BUDGET DE LA COMMUNAUTE",
+        "type": "chapitre",
+        "level": 1,
+        "order": 78,
+        "path": ["chapitre-14"],
+        "children": [
+          "article-70-",
+          "article-71-",
+          "article-72-",
+          "article-73-",
+          "article-74-",
+          "article-75-"
+        ]
+      },
+      {
+        "id": "article-70-",
+        "title": "ARTICLE 70 : BUDGETS ORDINAIRES DE LA COMMUNAUTE",
+        "type": "article",
+        "level": 2,
+        "order": 79,
+        "path": ["chapitre-14", "article-70-"],
+        "children": []
+      },
+      {
+        "id": "article-71-",
+        "title": "ARTICLE 71 : BUDGETS SPECIAUX DE LA COMMUNAUTE",
+        "type": "article",
+        "level": 2,
+        "order": 80,
+        "path": ["chapitre-14", "article-71-"],
+        "children": []
+      },
+      {
+        "id": "article-72-",
+        "title": "ARTICLE 72 : PRELEVEMENT COMMUNAUTAIRE",
+        "type": "article",
+        "level": 2,
+        "order": 81,
+        "path": ["chapitre-14", "article-72-"],
+        "children": []
+      },
+      {
+        "id": "article-73-",
+        "title": "ARTICLE 73 : CONTRIBUTIONS DES ETATS MEMBRES",
+        "type": "article",
+        "level": 2,
+        "order": 82,
+        "path": ["chapitre-14", "article-73-"],
+        "children": []
+      },
+      {
+        "id": "article-74-",
+        "title": "ARTICLE 74 : REGLEMENT FINANCIER",
+        "type": "article",
+        "level": 2,
+        "order": 83,
+        "path": ["chapitre-14", "article-74-"],
+        "children": []
+      },
+      {
+        "id": "article-75-",
+        "title": "ARTICLE 75 : COMMISSAIRES AUX COMPTES",
+        "type": "article",
+        "level": 2,
+        "order": 84,
+        "path": ["chapitre-14", "article-75-"],
+        "children": []
+      },
+      {
+        "id": "chapitre-15",
+        "title": "CHAPITRE 15 : DIFFERENDS REGLEMENT DES DIFFERENDS",
+        "type": "chapitre",
+        "level": 1,
+        "order": 85,
+        "path": ["chapitre-15"],
+        "children": []
+      },
+      {
+        "id": "chapitre-16",
+        "title": "CHAPITRE 16 : SANCTIONS",
+        "type": "chapitre",
+        "level": 1,
+        "order": 86,
+        "path": ["chapitre-16"],
+        "children": [
+          "article-77-"
+        ]
+      },
+      {
+        "id": "article-77-",
+        "title": "ARTICLE 77 : SANCTIONS APPLICABLES EN CAS DE NON RESPECT DES OBLIGATIONS",
+        "type": "article",
+        "level": 2,
+        "order": 87,
+        "path": ["chapitre-16", "article-77-"],
+        "children": []
+      },
+      {
+        "id": "chapitre-17",
+        "title": "CHAPITRE 17 : RELATIONS ENTRE LA COMMUNAUTE ET LA COMMUNAUTE ECONOMIQUE AFRICAINE",
+        "type": "chapitre",
+        "level": 1,
+        "order": 88,
+        "path": ["chapitre-17"],
+        "children": [
+          "article-78-"
+        ]
+      },
+      {
+        "id": "article-78-",
+        "title": "ARTICLE 78 : LA COMMUNAUTE ET LA COMMUNAUTE ECONOMIQUE AFRICAINE",
+        "type": "article",
+        "level": 2,
+        "order": 89,
+        "path": ["chapitre-17", "article-78-"],
+        "children": []
+      },
+      {
+        "id": "chapitre-18",
+        "title": "CHAPITRE 18 : RELATIONS ENTRE LA COMMUNAUTE ET LES AUTRES COMMUNAUTES",
+        "type": "chapitre",
+        "level": 1,
+        "order": 90,
+        "path": ["chapitre-18"],
+        "children": [
+          "article-79-"
+        ]
+      },
+      {
+        "id": "article-79-",
+        "title": "ARTICLE 79 : LA COMMUNAUTE ET LES AUTRES COMMUNAUTES",
+        "type": "article",
+        "level": 2,
+        "order": 91,
+        "path": ["chapitre-18", "article-79-"],
+        "children": []
+      },
+      {
+        "id": "chapitre-19",
+        "title": "CHAPITRE 19 : RELATIONS ENTRE LE SECRETARIAT EXECUTIF ET LES ORGANISATIONS",
+        "type": "chapitre",
+        "level": 1,
+        "order": 92,
+        "path": ["chapitre-19"],
+        "children": [
+          "article-81-",
+          "article-82-"
+        ]
+      },
+      {
+        "id": "article-81-",
+        "title": "ARTICLE 81 : ENTRE LA COMMUNAUTE ET LES ORGANISATIONS NON GOUVERNEMENTALES",
+        "type": "article",
+        "level": 2,
+        "order": 93,
+        "path": ["chapitre-19", "article-81-"],
+        "children": []
+      },
+      {
+        "id": "article-82-",
+        "title": "ARTICLE 82 : RELATION ENTRE COMMUNAUTE ET LES ORGANISATIONS ET INSTITUTIONS",
+        "type": "article",
+        "level": 2,
+        "order": 94,
+        "path": ["chapitre-19", "article-82-"],
+        "children": []
+      },
+      {
+        "id": "chapitre-20",
+        "title": "CHAPITRE 20 : RELATIONS ENTRE LA COMMUNAUTE ET LES PAYS TIERS ET LES ORGANISATIONS INTERNATIONALES",
+        "type": "chapitre",
+        "level": 1,
+        "order": 95,
+        "path": ["chapitre-20"],
+        "children": [
+          "article-83-"
+        ]
+      },
+      {
+        "id": "article-83-",
+        "title": "ARTICLE 83 : ACCORDS DE COOPERATION",
+        "type": "article",
+        "level": 2,
+        "order": 96,
+        "path": ["chapitre-20", "article-83-"],
+        "children": []
+      },
+      {
+        "id": "chapitre-21",
+        "title": "CHAPITRE 21 : RELATIONS DES ETATS MEMBRES AVEC LES ETATS TIERS",
+        "type": "chapitre",
+        "level": 1,
+        "order": 97,
+        "path": ["chapitre-21"],
+        "children": [
+          "article-84-",
+          "article-85-"
+        ]
+      },
+      {
+        "id": "article-84-",
+        "title": "ARTICLE 84 : ACCORDS CONCLUS PAR LES ETATS MEMBRES",
+        "type": "article",
+        "level": 2,
+        "order": 98,
+        "path": ["chapitre-21", "article-84-"],
+        "children": []
+      },
+      {
+        "id": "article-85-",
+        "title": "ARTICLE 85 : NEGOCIATIONS INTERNATIONALES",
+        "type": "article",
+        "level": 2,
+        "order": 99,
+        "path": ["chapitre-21", "article-85-"],
+        "children": []
+      },
+      {
+        "id": "chapitre-22",
+        "title": "CHAPITRE 22 : DISPOSITIONS GENERALES ET FINALES",
+        "type": "chapitre",
+        "level": 1,
+        "order": 100,
+        "path": ["chapitre-22"],
+        "children": [
+          "article-86-",
+          "article-87-",
+          "article-89-",
+          "article-90-",
+          "article-91-",
+          "article-92-",
+          "article-93-"
+        ]
+      },
+      {
+        "id": "article-86-",
+        "title": "ARTICLE 86 : SIEGE DE LA COMMUNAUTE",
+        "type": "article",
+        "level": 2,
+        "order": 101,
+        "path": ["chapitre-22", "article-86-"],
+        "children": []
+      },
+      {
+        "id": "article-87-",
+        "title": "ARTICLE 87 : LANGUES OFFICIELLES ET LANGUES DE TRAVAIL",
+        "type": "article",
+        "level": 2,
+        "order": 102,
+        "path": ["chapitre-22", "article-87-"],
+        "children": []
+      },
+      {
+        "id": "article-89-",
+        "title": "ARTICLE 89 : ENTREE EN VIGUEUR, RATIFICATION",
+        "type": "article",
+        "level": 2,
+        "order": 103,
+        "path": ["chapitre-22", "article-89-"],
+        "children": []
+      },
+      {
+        "id": "article-90-",
+        "title": "ARTICLE 90 : AMENDEMENTS ET REVISIONS",
+        "type": "article",
+        "level": 2,
+        "order": 104,
+        "path": ["chapitre-22", "article-90-"],
+        "children": []
+      },
+      {
+        "id": "article-91-",
+        "title": "ARTICLE 91 : RETRAIT",
+        "type": "article",
+        "level": 2,
+        "order": 105,
+        "path": ["chapitre-22", "article-91-"],
+        "children": []
+      },
+      {
+        "id": "article-92-",
+        "title": "ARTICLE 92 : DISPOSITIONS TRANSITOIRES ET CLAUSE DE SAUVEGARDE",
+        "type": "article",
+        "level": 2,
+        "order": 106,
+        "path": ["chapitre-22", "article-92-"],
+        "children": []
+      },
+      {
+        "id": "article-93-",
+        "title": "ARTICLE 93 : AUTORITE DEPOSITAIRE",
+        "type": "article",
+        "level": 2,
+        "order": 107,
+        "path": ["chapitre-22", "article-93-"],
+        "children": []
+      }
+    ]
+  },
+  "source": "internationale"
+}

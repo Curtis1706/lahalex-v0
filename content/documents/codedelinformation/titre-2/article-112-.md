@@ -1,0 +1,2 @@
+En temps ordinaire et conformément aux principes du pluralisme et de l’équilibre de l’information dans le cadre de la liberté d’expression, ces interventions peuvent faire l’objet de réactions variées de la part des leaders des autres courants politiques et d’opinion.
+Les temps consacrés auxdites réactions ne sont pas comptabilisés dans les crédits horaires des formations politiques des intervenants.

@@ -1,0 +1,2 @@
+Les propriétaires des navires hors d’état de naviguer sont tenus de les démolir et d’en enlever les débris sans délai, sous peine de confiscation ou de démolition à leurs frais sans préjudice des sanctions pénales.
+Les modalités de confiscation et de démolition sont fixées par décret pris en conseil des ministres.

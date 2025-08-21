@@ -1,0 +1,1 @@
+Le journaliste s’abstient de toute publication qui incite au régionalisme, à l’ethnocentrisme, à la discrimination, à la haine, à la xénophobie, à la violence et à la débauche. Il s’abstient également de toute incitation au crime ou au suicide et ne peut faire l’apologie du crime.

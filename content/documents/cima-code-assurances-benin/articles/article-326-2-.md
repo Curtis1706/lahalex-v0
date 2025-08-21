@@ -1,0 +1,10 @@
+Article 326-2 : _(Règlement n°2016-02)_ Obligation d’information de la Commission par les Commissaires aux comptes
+La Commission peut demander au Commissaire aux comptes d’une entreprise soumise à son contrôle et/ou à sa surveillance complémentaire tout renseignement sur l’activité de l’entreprise contrôlée et/ou sous surveillance complémentaire. Le Commissaire aux Comptes est alors délié, à son égard, du secret professionnel.
+La Commission peut transmettre au Commissaire aux comptes d’une entreprise soumise à son contrôle et/ou à sa surveillance complémentaire les informations nécessaires à l’accomplissement de sa mission. Ces informations sont couvertes par le secret professionnel.
+Le Commissaire aux comptes d’une entreprise soumise au contrôle et/ou à la surveillance complémentaire de la Commission est tenu de signaler tout fait concernant l’entreprise ou toute décision prise par ses dirigeants, dont il a connaissance dans l’exercice de sa mission, de nature à :
+influencer de manière significative la situation de l’entreprise sur le plan financier ou sous l’angle de son organisation administrative et comptable ou de son contrôle interne ;
+constituer une violation aux dispositions légales applicables susceptible d’avoir une incidence significative sur la situation financière, le résultat ou le patrimoine ;
+porter atteinte à la continuité de l’exploitation ;
+entraîner le refus de la certification des comptes ou l’émission de réserves.
+La même obligation s’applique aux faits et aux décisions dont il viendrait à avoir connaissance dans l’exercice de sa mission de Commissaire aux comptes dans une entreprise mère, filiale ou sœur d’une entreprise soumise au contrôle de la Commission.
+La responsabilité du Commissaire aux comptes ne peut être engagée pour la diffusion d’informations et/ou la divulgation de faits auxquelles il procède en exécution des obligations résultant du présent article.

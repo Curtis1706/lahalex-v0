@@ -1,0 +1,1 @@
+Tout directeur de publication qui jouit d’une immunité conférée par un mandat électif dispose de trente (30) jours pour se conformer aux dispositions de la présente loi.

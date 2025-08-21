@@ -1,0 +1,1 @@
+Les arrêtés du maire, lorsqu'ils contiennent des dispositions générales, sont exécutoires dès qu’ils sont portés à la connaissance des populations par affichage ou toute autre voie de publication. La notification individuelle est préalable dans les autres cas. La notification individuelle est établie par récépissé ou décharge de la partie intéressée.

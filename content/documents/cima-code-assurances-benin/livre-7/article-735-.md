@@ -1,0 +1,2 @@
+Dispositions transitoires
+Les entreprises proposant des opérations de micro assurance au public avant l’entrée en vigueur des présentes dispositions ont un délai d’un an pour se conformer au présent code, sous peine des sanctions prévues à l’article 721.

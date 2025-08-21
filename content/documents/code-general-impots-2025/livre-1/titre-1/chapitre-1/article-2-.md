@@ -1,0 +1,1 @@
+Les bénéfices réalisés par les sociétés et autres personnes morales désignées par le présent chapitre sont soumis à un impôt annuel dénommé impôt sur les sociétés.

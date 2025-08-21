@@ -1,0 +1,2 @@
+Par dérogation à l'article 6 alinéa 2 du Traité de l'UMOA, pour l'adoption des décisions ne portant pas principalement sur la politique économique et financière, le Conseil réunit les Ministres compétents. Les délibérations ne deviennent définitives qu'après vérification, par les ministres en charge de l'Economie, des Finances et du Plan, de leur compatibilité avec la politique économique, monétaire et financière de l'Union.
+Pour les questions politiques et de souveraineté, les Ministres des Affaires Etrangères siégeront au Conseil des Ministres de l'UEMOA.

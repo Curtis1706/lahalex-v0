@@ -1,0 +1,1 @@
+En cas d'affrètement pour une durée déterminée, les membres de l'équipage, tel qu’il est défini par la réglementation en vigueur, restent, sauf convention contraire, les préposés du fréteur.

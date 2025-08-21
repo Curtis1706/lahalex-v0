@@ -1,0 +1,15 @@
+{
+  "id": "article-232-",
+  "title": "Article 232 :",
+  "numero": "232 ",
+  "document": "codeprocedurepenalbenin",
+  "path": [
+    "livre-1",
+    "titre-3"
+  ],
+  "navigation": {
+    "parent": "titre-3",
+    "previous": "article-231-nouveau--loi-n--2018-14--",
+    "next": "article-233-ancien-"
+  }
+}

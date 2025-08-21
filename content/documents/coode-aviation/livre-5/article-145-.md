@@ -1,0 +1,1 @@
+Les responsabilités, la gouvernance et le rôle de chaque autorité ou entité et les modalités de mise en œuvre du programme national de sécurité, y compris les règles de fonctionnement du comité de coordination de haut niveau sont fixés par voie réglementaire.

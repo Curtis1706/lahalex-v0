@@ -1,0 +1,1 @@
+Article 343 : Est puni de la réclusion à perpétuité, toute personne qui, par des actes de tortures ou traitements inhumains, cruels ou dégradants, cause volontairement ou involontairement la mort d’un enfant.

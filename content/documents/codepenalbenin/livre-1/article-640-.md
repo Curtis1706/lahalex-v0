@@ -1,0 +1,1 @@
+Est qualifié effraction, tout forcement, toute rupture, toute dégradation, toute démolition, tout enlèvement de murs, de toits, de planchers, de portes, de fenêtres, de serrures, de cadenas ou d’autres ustensiles ou d’instruments servant à fermer ou empêcher le passage et de toute espèce de clôture, quelle qu’elle soit.

@@ -1,0 +1,1 @@
+Les dispositions du présent titre sont applicables aux candidats suppléants appelés aux termes de l'article 149 du présent code à remplacer les députés qu'ils suppléent.

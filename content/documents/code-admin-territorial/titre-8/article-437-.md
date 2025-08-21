@@ -1,0 +1,1 @@
+Les actes budgétaires des communes et établissements publics de coopération intercommunale sont obligatoirement transmis à l'autorité de tutelle dans les quinze (15) jours à compter de la date de délibération de l’organe compétent pour en délibérer en dernier ressort.

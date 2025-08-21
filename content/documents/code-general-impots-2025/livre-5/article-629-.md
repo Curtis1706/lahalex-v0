@@ -1,0 +1,1 @@
+Aucune  vente  d’immeuble  ne  peut  s’effectuer  qu’en  vertu  d’une autorisation du ministre chargé des finances.

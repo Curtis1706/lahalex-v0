@@ -1,0 +1,2 @@
+4. Notifica- Si un prisonnier de guerre évadé est repris, notification en sera faite, selon tion de la les modalités prévues à l’article 122, à la Puissance dont il dépend, pour au- reprise du tant que son évasion aura été notifiée.
+prisonnier

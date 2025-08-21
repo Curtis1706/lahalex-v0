@@ -1,0 +1,1 @@
+Un aéronef ne peut circuler dans l’espace aérien de la République du Bénin que s’il est immatriculé.

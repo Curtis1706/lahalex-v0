@@ -1,0 +1,1 @@
+Les fonctions de membre du Gouvernement sont incompatibles avec l'exercice de tout mandat parlementaire, sous réserve du bénéfice du délai de trente (30) jours prévus par l'article 166 ci-dessous.

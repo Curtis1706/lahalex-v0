@@ -1,0 +1,3 @@
+Si parmi les héritiers il existe des absents ou des non présents, le partage ne peut avoir lieu que dans les conditions fixées aux articles 778 et 782 du présent code et dans les formes prévues par le code de procédure civile.
+Il en est de même en cas de désaccord entre héritiers capables et présents, sauf la faculté pour lesdits héritiers de s’entendre pour n’observer que certaines de ces formes et conditions.
+Le partage judiciaire concernant un incapable peut également être imposé par une délibération du conseil de famille conformément aux articles 473 et suivants du présent code.

@@ -1,0 +1,2 @@
+Rupture involontaire ou détériorations de câbles sous-marins avec déclaration
+Quiconque, dans les zones maritimes visées à l’article 255, rompt par maladresse, imprudence, négligence ou inobservation des règlements, un câble sous-marin ou lui cause une détérioration de nature à interrompre tout ou partie des communications électroniques et en fait la déclaration dans les douze (12) heures aux autorités compétentes, est puni d’une amende de vingt millions (20 000 000) à cinquante millions (50 000 000) de francs CFA.

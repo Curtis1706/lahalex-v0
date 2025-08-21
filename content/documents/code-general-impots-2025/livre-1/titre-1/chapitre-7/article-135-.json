@@ -1,0 +1,16 @@
+{
+  "id": "article-135-",
+  "title": "Article 135 :",
+  "numero": "135 ",
+  "document": "code-general-impots-2025",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-7"
+  ],
+  "navigation": {
+    "parent": "chapitre-7",
+    "previous": "article-134-",
+    "next": "article-136-"
+  }
+}

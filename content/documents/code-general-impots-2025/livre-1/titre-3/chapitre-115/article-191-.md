@@ -1,0 +1,1 @@
+Les  personnes  physiques  ou  morales  qui  paient  des  traitements, émoluments, salaires et rétributions accessoires, sont assujetties au paiement du versement patronal sur salaires.

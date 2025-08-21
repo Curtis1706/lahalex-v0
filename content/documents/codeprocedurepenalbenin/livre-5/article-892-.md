@@ -1,0 +1,3 @@
+Sera puni d’une amende de cinq cent mille (500 000) à cinq millions (5 000 000) de francs et d’un emprisonnement de six (06) mois à cinq (05) ans sans préjudice des poursuites à exercer éventuellement du chef de faux :
+1. quiconque aura pris le nom d’un tiers, dans les circonstances qui ont déterminé ou auraient pu déterminer l’inscription d’une condamnation au casier judiciaire de celui-ci ;
+2. quiconque, par de fausses déclarations relatives à l’état civil d’un inculpé, aura sciemment été la cause de l’inscription d’une condamnation sur le dossier judiciaire d’un autre que cet inculpé.

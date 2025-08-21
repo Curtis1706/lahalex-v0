@@ -1,0 +1,1 @@
+La licence est indépendante de la patente et l’imposition à l’une ne dispense pas du paiement de l’autre.

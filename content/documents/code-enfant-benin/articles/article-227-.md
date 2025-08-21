@@ -1,0 +1,2 @@
+Article 227 : Conditions d'emploi de l'enfant
+Le jeune travailleur est un enfant travailleur âgé d'au moins quatorze (14) ans et qui justifie au moins du niveau de fin de formation du cycle de l’enseignement primaire.

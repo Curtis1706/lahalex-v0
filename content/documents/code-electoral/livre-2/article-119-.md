@@ -1,0 +1,3 @@
+L'extrait ou le certificat reprend uniquement les informations exigées par la procédure.
+Si la personne à l'égard de laquelle la procédure s'exécute ou se poursuit a été radiée du registre communal sur lequel elle est censée être inscrite suivant les informations fournies par le requérant, l'extrait doit indiquer la date de la radiation et, le cas échéant, la commune du registre sur lequel elle a par la suite été inscrite.
+S'il s'agit d'une radiation d'office ou pour l'étranger d'un registre communal des personnes physiques, la commune de la nouvelle résidence est indiquée si elle est connue.

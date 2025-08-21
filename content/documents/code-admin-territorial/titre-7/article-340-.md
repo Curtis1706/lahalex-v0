@@ -1,0 +1,3 @@
+L’établissement public de coopération intercommunale est doté d'un budget propre pour l'accomplissement de ses missions de développement.
+L'établissement public de coopération intercommunale élabore, adopte et exécute son budget conformément aux dispositions de la présente loi relative au régime financier des collectivités territoriales.
+Une copie du budget de l'établissement public de coopération intercommunale est adressée chaque année par le secrétaire permanent à chacune des communes.

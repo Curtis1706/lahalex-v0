@@ -1,0 +1,2 @@
+Création
+Par le présent Traité, LES HAUTES PARTIES CONTRACTANTES réaffirment la création de la Communauté Economique des Etats de l’Afrique Centrale (CEEAC) pour la réalisation des objectifs de la Communauté.

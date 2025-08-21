@@ -1,0 +1,2 @@
+Demandes d’agréments
+Les demandes d'agréments sont présentées à l’Autorité de régulation qui dispose d'un délai de soixante (60) jours à partir de la date du dépôt, attestée par un accusé de réception de la demande, pour faire connaître sa décision.

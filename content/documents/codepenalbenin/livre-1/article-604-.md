@@ -1,0 +1,1 @@
+Est punie des peines prévues à l’article 574 du présent code toute personne qui, au mépris d’un acte exécutoire ou d’une décision de justice l’ayant condamnée à verser une pension alimentaire à son conjoint, à ses ascendants ou ses descendants est volontairement demeurée plus de deux (02) mois sans fournir la totalité de la pension.

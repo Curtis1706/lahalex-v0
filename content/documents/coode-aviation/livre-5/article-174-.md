@@ -1,0 +1,1 @@
+Tout pilote commandant de bord s'assure que la sécurité du vol n'est pas menacée avant de faire pénétrer un aéronef dans un faisceau laser ou dans tout autre faisceau lumineux directif de haute intensité.

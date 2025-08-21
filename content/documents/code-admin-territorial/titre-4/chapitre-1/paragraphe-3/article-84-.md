@@ -1,0 +1,3 @@
+Le maire, les adjoints au maire, les chefs d'arrondissement, les présidents de commission et les conseillers communaux perçoivent une rémunération et des avantages fixés par décret pris en Conseil des ministres, conformément à la loi de finances.
+Les maires, les adjoints au maire, les conseillers communaux et les membres de délégation spéciale ont droit, au remboursement des frais que nécessite l'exécution des mandats spéciaux qui leur sont confiés.
+L'Etat peut apporter, dans le cadre du budget de la commune, une contribution spécifique pour la rémunération des élus.

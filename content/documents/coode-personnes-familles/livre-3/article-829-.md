@@ -1,0 +1,1 @@
+La donation entre vifs est un acte par lequel le donateur transfère à titre gratuit et de manière irrévocable la propriété d’un bien au donataire qui l’accepte.

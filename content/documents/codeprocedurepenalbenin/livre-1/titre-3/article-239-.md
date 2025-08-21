@@ -1,0 +1,1 @@
+Le président de la chambre de l’instruction s’assure du bon fonctionnement des cabinets d’instruction du ressort de la cour d’appel. Il s’emploie à ce que les procédures ne subissent aucun retard injustifié.

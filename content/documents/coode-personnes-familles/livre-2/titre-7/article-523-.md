@@ -1,0 +1,2 @@
+Le tuteur peut, sans autorisation, introduire toute action en justice relative aux droits patrimoniaux du mineur. Il peut également agir seul en défense dans une action introduite contre le mineur.
+L'autorisation du conseil de famille est requise pour les actions relatives à des droits qui ne sont point patrimoniaux lorsque le tuteur n'exerce pas, en même temps, l’autorité parentale à l’égard du mineur.

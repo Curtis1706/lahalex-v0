@@ -1,0 +1,1 @@
+La composition, les attributions, l'organisation et le fonctionnement de l'organisme national en charge de l'aviation civile sont définis par ses statuts approuvés par décret pris en Conseil des ministres.

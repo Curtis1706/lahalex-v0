@@ -1,0 +1,2 @@
+Le Bulletin n° 3 est le relevé des condamnations à des peines privatives de liberté prononcées par une juridiction béninoise pour crime ou délit. Il indique expressément que tel est son objet. N’y sont inscrites que les condamnations de la nature ci-dessus précisée, autres que celles mentionnées du 1<sup>er</sup> au 5<sup>ème</sup> point de l’article 861 et pour lesquelles le sursis n’a pas été ordonné, sauf révocation de cette mesure.
+Le bulletin n° 3 peut être réclamé par la personne qu’il concerne. Il ne doit, en aucun cas, être délivré à un tiers.

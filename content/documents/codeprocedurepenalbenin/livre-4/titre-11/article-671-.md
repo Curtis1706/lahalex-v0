@@ -1,0 +1,2 @@
+Le mineur, les parents du mineur, son tuteur et son représentant légal, le ministère public et la partie civile peuvent faire appel des ordonnances du juge des enfants.
+L’appel se fait dans les formes et délais prévus par le présent code. Il est statué par la chambre de l’instruction.

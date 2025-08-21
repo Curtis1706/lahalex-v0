@@ -1,0 +1,15 @@
+{
+  "id": "article-52-",
+  "title": "Article 52 :",
+  "numero": "52 ",
+  "document": "codesecuritesocialebenin",
+  "path": [
+    "livre-2",
+    "titre-3"
+  ],
+  "navigation": {
+    "parent": "titre-3",
+    "previous": "article-51-",
+    "next": "article-53-"
+  }
+}

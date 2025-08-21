@@ -1,0 +1,2 @@
+L’assureur répond des dommages et pertes matériels subis par le navire et les objets assurés par suite des faits et fautes de l’assuré ou de ses préposés terrestres, à moins que l’assureur n’établisse que ces dommages et pertes matériels ont pour cause, une insuffisance de soins raisonnables que l’assuré est tenu d’apporter au navire ou à la marchandise.
+L’assureur ne répond pas des fautes intentionnelles ou lourdes.

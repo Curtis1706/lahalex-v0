@@ -1,0 +1,1 @@
+Les futurs époux peuvent, par contrat de mariage, se faire réciproquement ou l’un des deux à l’autre, telle donation qu’ils jugent à propos sous les conditions fixées ci-après.

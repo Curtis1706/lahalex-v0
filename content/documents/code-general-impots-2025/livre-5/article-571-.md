@@ -1,0 +1,3 @@
+1) La procédure de flagrance fiscale peut être suspendue à la demande écrite du contribuable s’il propose de régulariser sa situation fiscale au regard de ses obligations déclaratives et de se libérer immédiatement des impositions dues au titre de la période visée à l’article 568 du présent code augmentées d’une pénalité de 20% et des intérêts de retard prévus à l’article 488 du présent code. En aucun cas, la régularisation ne doit entraîner des pertes de droits à percevoir de plus de 50% du montant que la flagrance aurait induit.
+2) Les contentieux relatifs aux actes de la présente procédure sont instruits et jugés
+conformément aux dispositions des articles 583 et 642 du présent code.

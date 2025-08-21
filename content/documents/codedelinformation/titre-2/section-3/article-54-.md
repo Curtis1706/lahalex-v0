@@ -1,0 +1,2 @@
+La reproduction ou l’exposition de l’image d’un groupe de personnes photographiées ou filmées dans un lieu public n’est pas répréhensible.
+Toutefois, les auteurs de cette reproduction ou de cette exposition doivent éviter de placer leurs modèles dans une situation qui entache leur dignité du fait de la reproduction ou de l’exposition.

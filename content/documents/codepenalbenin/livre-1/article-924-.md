@@ -1,0 +1,3 @@
+Les infractions aux dispositions de la loi portant règlementation générale de la pêche et des textes pris pour son application seront passibles d’un emprisonnement de un (01) mois à six (06) mois et d’une amende de dix mille (10.000) francs CFA à cinquante mille (50.000) francs CFA ou de l’une de ces deux peines seulement.
+En cas de récidive, le maximum de la peine d’emprisonnement sera toujours appliqué.
+En outre, les auteurs et co-auteurs pourront se voir suspendre leurs droits éventuels de pêche pour une durée de trois (03) mois à un (01) an, la récidive entraînant obligatoirement la suspension de ces droits pendant une durée de deux (02) ans à cinq (05) ans.

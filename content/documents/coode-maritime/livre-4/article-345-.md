@@ -1,0 +1,1 @@
+Les actions nées du sous-affrètement se prescrivent par un (01) an.

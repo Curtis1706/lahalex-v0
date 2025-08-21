@@ -1,0 +1,1 @@
+Les crédits accordés à l’occasion de ventes à tempérament sont, pour l’application du présent paragraphe, assimilés à des prêts conventionnels et, de ce fait, soumis aux dispositions de l’article 741 du présent code.

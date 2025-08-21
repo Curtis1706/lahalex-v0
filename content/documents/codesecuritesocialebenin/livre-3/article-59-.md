@@ -1,0 +1,1 @@
+La déclaration doit être faite dans la forme et selon les modalités qui seront déterminées par arrêté.

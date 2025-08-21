@@ -1,0 +1,4 @@
+Quand, après une information ouverte sur plainte avec constitution de partie civile, une décision de non-lieu a été rendue, l’inculpé et toutes personnes visées dans la plainte, et sans préjudice d’une poursuite pour dénonciation calomnieuse, peuvent par la voie civile, demander des dommages-intérêts au plaignant dans les formes ordinaires.
+Le dossier de l’affaire terminée par un non-lieu est, par les soins du procureur de la
+République, transmis au tribunal saisi de la demande de dommages-intérêts en vue de sa communication aux parties.
+En cas de condamnation, le tribunal peut ordonner la publication intégrale ou par extraits de son jugement dans un ou plusieurs journaux qu’il désigne, aux frais du condamné. Il fixe le coût maximum de chaque insertion.

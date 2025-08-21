@@ -1,0 +1,2 @@
+Toute modification de la composition de la liste de session établie conformément à l’article 272 du présent code, est, par les soins du greffier, portée à la connaissance de l’accusé avant la formation du jury de jugement. L’accusé donne décharge de cette communication.
+SECTION  : DU DEROULEMENT DE L’AUDIENCE (LOI N° 2025 – 06)

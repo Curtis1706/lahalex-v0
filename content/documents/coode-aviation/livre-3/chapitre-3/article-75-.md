@@ -1,0 +1,1 @@
+Tout aéronef atterrissant sur un aérodrome ou sur une propriété privée du territoire national est soumis au contrôle et à la surveillance des autorités administratives.

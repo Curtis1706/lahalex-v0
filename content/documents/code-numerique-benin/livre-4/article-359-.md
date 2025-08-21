@@ -1,0 +1,4 @@
+Dénonciation de non-conformité
+L'acquéreur dispose d'un délai de quinze (15) jours ouvrables à partir de son entrée en possession du bien pour dénoncer sa non-conformité au vendeur. Cette dénonciation est faite par courrier avec accusé de réception.
+Les défauts de conformité qui apparaissent dans un délai de vingt-quatre (24) mois à partir de la livraison du bien sont présumés exister au moment de la livraison, sauf preuve contraire. Pour les biens vendus d'occasion, ce délai est fixé à six (06) mois.
+Le vendeur peut combattre cette présomption si celle-ci n'est pas compatible avec la nature du bien ou le défaut de conformité invoqué.

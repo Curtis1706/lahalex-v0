@@ -1,0 +1,6 @@
+Modifié  par  la  loi  de  finances  pour  2024
+1)  Pour  les  opérations d’entremise  effectuées  par  les  agences  de  voyages  et  les  organisateurs  de  circuits touristiques, la base d’imposition est constituée par la marge, définie comme étant la différence entre le prix toutes taxes comprises payé par le client et le prix toutes taxes comprises facturé à l’agence ou à l’organisateur par les transporteurs, les hôteliers, les restaurateurs,  les  organisateurs  de  spectacles  et  les  autres  assujettis  qui  exécutent matériellement les services utilisés par le client.
+2) Sur  option,  pour  les  activités  de  restauration  et  assimilées  et  les  activités  de
+transformation des produits locaux, la base d’imposition est la marge déterminée par application  d’un  taux  fixé  par  arrêté  du  Ministre  chargé  des  finances.  L’option  pour l’imposition sur la marge doit être exercée avant le 1er janvier de l’année d’imposition.
+3) Les assujettis qui acquittent la taxe sur la valeur ajoutée sur la marge ne peuvent
+pas déduire la taxe sur la valeur ajoutée d’amont.

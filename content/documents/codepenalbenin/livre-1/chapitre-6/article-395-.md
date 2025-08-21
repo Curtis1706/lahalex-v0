@@ -1,0 +1,1 @@
+Si la rébellion a été commise par plus de vingt (20) personnes armées, les coupables sont punis de la réclusion criminelle à temps de dix (10) ans à vingt (20) ans et s’il n’y a pas eu port d’armes, ils sont punis de la réclusion criminelle à temps de cinq (05) ans à dix (10) ans.

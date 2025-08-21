@@ -1,0 +1,2 @@
+1) Les assujettis sont tenus d’incorporer la contribution au développement local à leurs prix et de la collecter sur leurs clients.
+2)  Lorsque  le  prix  est  fixé  par  l’État,  l’assujetti  incorpore  la  contribution  au développement local en la faisant ressortir dans la structure de prix. À défaut, le prix fixé est réputé contribution au développement local incluse.

@@ -1,0 +1,2 @@
+Le contrat de transport de marchandises est constaté par une lettre de transport aérien ou un récépissé émis par le transporteur.
+Ce contrat court de la prise en charge des marchandises dès leur remise par l'expéditeur ou son mandataire au transporteur ou son mandataire, jusqu’à la livraison, par leur remise par le transporteur ou son mandataire au destinataire ou son mandataire.

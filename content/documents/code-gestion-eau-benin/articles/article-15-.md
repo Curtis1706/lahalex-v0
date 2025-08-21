@@ -1,0 +1,1 @@
+Article 15 : La République du Bénin coopère avec les autres Etats pour la mise en œuvre des accords internationaux ratifiés, particulièrement, ceux visant la prévention et l’élimination de la pollution de l’environnement marin, pour les utilisations et fonctions de l’eau à caractère transfrontalier.

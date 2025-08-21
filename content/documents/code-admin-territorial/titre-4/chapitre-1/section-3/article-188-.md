@@ -1,0 +1,2 @@
+En cas de décès, de démission, de suspension, d'empêchement ou de révocation d’un chef d’arrondissement, et jusqu’à la désignation du nouveau chef d’arrondissement, il est remplacé provisoirement par un conseiller de son arrondissement ou à défaut, le chef d'un autre arrondissement, désigné par le conseil communal.
+En cas de recours contentieux contre une décision de révocation, un nouveau chef d’arrondissement ne peut être désigné, avant que la décision judiciaire sur la contestation ne devienne définitive ou que la procédure ne s'achève autrement que par une décision.

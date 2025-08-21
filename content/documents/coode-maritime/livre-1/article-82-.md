@@ -1,0 +1,1 @@
+L’immatriculation des navires et des pirogues donne lieu à la perception d’une taxe dont le montant est fixé par voie réglementaire.

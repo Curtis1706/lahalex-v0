@@ -1,0 +1,2 @@
+Tout commandant d’armes ou de subdivisions, légalement saisi d’une réquisition de l’autorité civile, qui a refusé ou s’est abstenu de faire agir les forces sous ses ordres, est puni d’un emprisonnement de un (01) an à deux (02) ans.
+Toute réquisition de l’autorité civile est adressée au commandant d’armes et, si elle doit entraîner un déplacement de troupes dans un rayon de plus de dix (10) kilomètres, à l’officier supérieur commandant la circonscription territoriale.

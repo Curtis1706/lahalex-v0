@@ -1,0 +1,1 @@
+La Haute Autorité de l’Audiovisuel et de la Communication statue dans un délai de trente (30) jours à compter de la date de saisine.

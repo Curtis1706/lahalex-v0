@@ -1,0 +1,5 @@
+1)  Pour  les  baux,  sous-baux  et  prorogations  de  baux  d’immeubles, l’assiette des droits est déterminée par le prix annuel hors taxes exprimé, augmenté des charges imposées au locataire ou sur la valeur locative réelle des biens loués si cette valeur est supérieure au prix augmenté des charges.
+2) Si le prix du bail ou de la location est stipulé payable en nature ou sur la base du
+cours de certains produits, le droit proportionnel est liquidé d’après la valeur au jour du contrat, déterminée par une déclaration estimative des parties.
+3) Si le montant du droit est fractionné, cette estimation ne vaut que pour la première
+période. Pour chacune des périodes ultérieures, les parties sont tenues de souscrire une nouvelle déclaration estimative de la valeur des produits au jour du commencement de la période qui sert de base à la liquidation des droits.

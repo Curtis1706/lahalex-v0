@@ -1,0 +1,1 @@
+Tous les établissements industriels déclarent la nature des déchets résultant de l'exploitation de leurs industries et déterminent avec les services de la voirie, les conditions de leur traitement.

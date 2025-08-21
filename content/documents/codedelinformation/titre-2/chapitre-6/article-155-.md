@@ -1,0 +1,1 @@
+Les répliques ou les nouvelles réponses s’inscrivent dans la rectification de la réponse ou autres commentaires faits de la réplique et ne doivent pas contenir des provocations, des propos diffamatoires ou injurieux.

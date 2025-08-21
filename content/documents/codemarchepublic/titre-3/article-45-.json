@@ -1,0 +1,14 @@
+{
+  "id": "article-45-",
+  "title": "Article 45 : Centrale d'achat",
+  "numero": "45 ",
+  "document": "codemarchepublic",
+  "path": [
+    "titre-3"
+  ],
+  "navigation": {
+    "parent": "titre-3",
+    "previous": "article-44-",
+    "next": "article-46-"
+  }
+}

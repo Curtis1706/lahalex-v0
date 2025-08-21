@@ -1,0 +1,1 @@
+On appelle souche, l'auteur commun de plusieurs descendants.

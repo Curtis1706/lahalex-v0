@@ -1,0 +1,2 @@
+La déclaration préalable est faite auprès de la Haute Autorité de l’Audiovisuel et de la Communication sur papier timbré, signé par le directeur de publication. Il lui est délivré un récépissé.
+La Haute Autorité de l’Audiovisuel et de la Communication notifie la déclaration préalable et toutes les modifications au ministère en charge de l’intérieur et au procureur de la République territorialement compétent.

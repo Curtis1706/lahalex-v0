@@ -1,0 +1,4 @@
+Conditions d’admission de la signature électronique
+Une signature électronique créée par un dispositif qualifié, répondant aux exigences prévues à l'article 287 du présent code, que le signataire peut garder sous son contrôle exclusif et qui repose sur un certificat électronique, est admise comme signature au même titre qu’une signature manuscrite.
+Une signature électronique qui résulte d’un procédé fiable d’identification garantissant son lien avec l’acte auquel elle se rattache de telle sorte que toute modification ultérieure de l’acte soit détectable et qui satisfait en outre, aux exigences fixées par voie réglementaire, relatives aux certificats qualifiés de signature électronique, est une signature électronique qualifiée.
+Sauf preuve contraire, un document écrit sous forme électronique est présumé avoir été signé par son auteur et son texte est présumé ne pas avoir été modifié si une signature électronique sécurisée y est apposée ou logiquement associée.

@@ -1,0 +1,3 @@
+Solvabilité ajustée négative
+Lorsqu’une entreprise consolidante ou combinante ne justifie pas d’une solvabilité ajustée positive, la Commission exige de l’entreprise concernée qu’elle prenne les mesures nécessaires au rétablissement d’une solvabilité ajustée positive.
+L’absence de proposition ou d’exécution de ces mesures dans les conditions et délais prescrits ou acceptés par la Commission est passible des sanctions énumérées à l’article 312.

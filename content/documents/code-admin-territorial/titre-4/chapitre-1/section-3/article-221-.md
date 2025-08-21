@@ -1,0 +1,2 @@
+Le chef de village ou de quartier de ville est, dans l'exercice de ses fonctions, chargé d’une mission de service public.
+Il veille à l'application des lois et règlements. A ce titre, il doit faire preuve d'équité et d'impartialité dans l'exercice de ses fonctions.

@@ -1,0 +1,3 @@
+Est exempt de peine celui qui, coupable d’une des infractions prévues aux articles 284, 285, 286 et 290 du présent code a donné connaissance ou révélé les auteurs aux autorités avant toutes poursuites. Il peut néanmoins être interdit de séjour.
+Peut être dispensé de peine, totalement ou partiellement, celui qui, coupable d’une des mêmes infractions, a après les poursuites commencées, permis l’arrestation des autres coupables.
+Il peut néanmoins être interdit de séjour.

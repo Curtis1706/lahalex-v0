@@ -1,0 +1,1 @@
+Dans le cas où le testament contient des dispositions d’immeubles qui y sont situés, il doit être, en outre, enregistré au service des impôts de la situation de ces immeubles ; ce deuxième enregistrement est fait gratis.

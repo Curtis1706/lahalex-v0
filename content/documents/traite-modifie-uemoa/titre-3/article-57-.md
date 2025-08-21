@@ -1,0 +1,2 @@
+Durant la phase de mise en oeuvre du régime de ressources propres de l'Union, qui ne doit pas dépasser trois (3) ans à compter de l'entrée en vigueur du présent Traité, il sera institué, par voie d'acte additionnel de la Conférence des Chefs d'Etat et de Gouvernement, un régime transitoire en vertu duquel le financement de la phase de démarrage de l'Union sera assuré notamment par la BCEAO et la BOAD.
+17

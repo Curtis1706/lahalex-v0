@@ -1,0 +1,1 @@
+En cas de récidive, les peines prévues aux articles 569 à 578, 581, 584, 587, 588 à 592 et 594 du présent code sont portées au double.

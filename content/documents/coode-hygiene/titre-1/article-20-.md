@@ -1,0 +1,1 @@
+Les cheminées sont construites de manière à ne pas déboucher sur les voies publiques ou chez les voisins et à une hauteur qui permet l'évacuation des gaz dans la nature, conformément à la réglementation en vigueur.

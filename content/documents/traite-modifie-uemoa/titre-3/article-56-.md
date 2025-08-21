@@ -1,0 +1,1 @@
+Dans un délai de deux (2) ans à compter de l'entrée en vigueur du présent Traité, le Conseil, statuant à la majorité des deux tiers (2/3) de ses membres et sur proposition de la Commission, arrête les modalités d'application des articles 54 et 55, conformément aux principes directeurs fixés par la Conférence des Chefs d'Etat et de Gouvernement par voie d'acte additionnel.

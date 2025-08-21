@@ -1,0 +1,1 @@
+La constatation du service fait dans la comptabilité des engagements est destinée à faire suivre l'exécution matérielle de la dépense et à faire établir, en fin d'exercice, l'état des restes à mandater.

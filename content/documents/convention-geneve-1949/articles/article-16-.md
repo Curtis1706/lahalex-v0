@@ -1,0 +1,3 @@
+Les blessés et les malades, ainsi que les infirmes et les femmes enceintes se- Blessés et ront l’objet d’une protection et d’un respect particuliers. malades Pour autant que les exigences militaires le permettront, chaque Partie au 1. Protection conflit favorisera les mesures prises pour rechercher les tués ou blessés, venir générale
+en aide aux naufragés et autres personnes exposées à un grave danger et les
+protéger contre le pillage et les mauvais traitements.

@@ -1,0 +1,3 @@
+Encourent une peine d’emprisonnement de un (01) an à cinq (05) ans et une amende de cinq cent mille (500.000) francs CFA à cinq millions (5.000.000) de francs CFA, les administrateurs, le président-directeur général, le directeur général, le directeur général adjoint, le président de la société par actions simplifiée, l’administrateur général ou l’administrateur général adjoint qui, sciemment, ont procédé à une réduction de capital :
+1. sans respecter l’égalité des actionnaires ;
+2. sans avoir communiqué le projet de réduction de capital aux commissaires aux comptes quarante-cinq (45) jours avant la tenue de l’assemblée générale appelée à statuer sur la réduction de capital.

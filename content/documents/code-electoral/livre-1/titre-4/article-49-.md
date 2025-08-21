@@ -1,0 +1,1 @@
+La réunion électorale a pour but, l'audition des candidats aux fonctions de président de la République, de député à l'Assemblée nationale, de conseillers communaux ou de leurs représentants, en vue de la vulgarisation de leur programme politique ou de leur projet de société.

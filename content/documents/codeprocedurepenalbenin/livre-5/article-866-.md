@@ -1,0 +1,1 @@
+Toute personne condamnée pour un crime ou un délit par une juridiction béninoise peut être réhabilitée.

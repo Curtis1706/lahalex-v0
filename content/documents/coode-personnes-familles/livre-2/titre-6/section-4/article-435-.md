@@ -1,0 +1,1 @@
+La tierce opposition n’est recevable qu’en cas de dol, de fraude ou d’erreur sur l’identité de l’enfant.

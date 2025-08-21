@@ -1,0 +1,3 @@
+Quiconque occupe, séjourne ou pénètre dans les domaines interdits par les règlements et consignes généraux des aérodromes affectés à un service public, ou y laisse séjourner des bestiaux ou bêtes de trait, de charge ou de monture, est passible d'une amende maximale d'un million (1 000 000) de francs CFA.
+En outre, le contrevenant peut être déchu de tout droit à indemnité en cas d’accident.
+Les procédures d'enquête et de constatation des infractions sont celles prévues par la présente loi.

@@ -1,0 +1,2 @@
+Avant leur prise de fonction, les membres du Conseil électoral prêtent le serment suivant devant le président de la République et le Bureau de l'Assemblée nationale :
+« _Je jure de bien remplir fidèlement et loyalement, en toute impartialité et équité les fonctions dont je suis investi, de respecter en toutes circonstances les obligations qu'elles m'imposent et de garder le secret des délibérations auxquelles j'ai pris part_ ».

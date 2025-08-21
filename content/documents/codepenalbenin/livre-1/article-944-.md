@@ -1,0 +1,1 @@
+Les infractions aux dispositions de la législation relative à la règlementation des prix et stocks et ses règlements d’application sont punies d’un emprisonnement de un (01) mois à deux (02) ans et d’une amende de dix mille (10.000) francs CFA à un million (1.000.000) de francs CFA ou de l’une de ces deux peines.

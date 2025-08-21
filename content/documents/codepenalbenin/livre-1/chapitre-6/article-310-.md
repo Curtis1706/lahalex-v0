@@ -1,0 +1,1 @@
+Sont exceptés des dispositions ci-dessus, les faux certificats de l’espèce tels que définis au paragraphe 5 de la section 1ère du chapitre IV du livre III du présent code.

@@ -1,0 +1,1 @@
+Le directeur de la marine marchande doit prendre toute mesure nécessaire pour que les navires béninois répondent aux normes de navigabilité et de sécurité, ainsi que toute mesure jugée indispensable à la prévention de la pollution marine.

@@ -1,0 +1,8 @@
+1) L’acompte sur impôt assis sur les bénéfices est perçu pour le compte de la direction générale des impôts.
+2) Il est retenu à la source, d’une part, par la direction générale des douanes, d’autre
+part, par les régisseurs ou comptables de services publics, par les entreprises publiques bénéficiaires de fournitures de travaux, de biens ou de services, par les organisations non gouvernementales,  les  associations  et  organismes  à  but  non  lucratif  nationaux  et internationaux,  les  organismes  d’aide  au  développement  ainsi  que  les  missions diplomatiques, par les personnes soumises à l’impôt sur les sociétés ou à l’impôt sur les bénéfices d’affaires, bénéficiaires de fournitures de travaux ou de services et enfin par les importateurs, producteurs et revendeurs qui vendent en gros ou demi-gros, et qui ne relèvent pas de la taxe professionnelle synthétique.
+3) L’acompte sur impôt assis sur les bénéfices facturé ou retenu à la source doit être
+déclaré et versé au guichet du receveur des impôts au plus tard le 10 du mois suivant celui de sa facturation ou de son prélèvement.
+La déclaration est obligatoire pour les entreprises même en l’absence de retenue ou de prélèvement au titre d’un mois, sous peine des sanctions prévues à l’article 485 du présent code.
+4) La déclaration de l’acompte sur impôt assis sur les bénéfices facturé ou retenu à la
+source  doit  mentionner  le  nom,  l’adresse  précise  et  le  numéro  d’immatriculation  à l’identifiant fiscal unique de l’assujetti ainsi que le montant de l’acompte sur impôt assis sur les  bénéfices  et  celui  de  la  somme  toutes  taxes  comprises  ayant  donné  lieu  au prélèvement.

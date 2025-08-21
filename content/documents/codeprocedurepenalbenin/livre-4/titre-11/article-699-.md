@@ -1,0 +1,2 @@
+Le juge des enfants compétent procède à la nomination du délégué chargé de la surveillance du mineur. Ce délégué est choisi directement par le juge parmi les personnes s’intéressant aux problèmes de l’enfance. Il doit être âgé de plus de trente (30) ans.
+En même temps, le juge des enfants peut nommer un assistant relevant du bureau social du ministère en charge de la justice ou tout autre technicien dont l’intervention contribuerait à la rééducation et à la réintégration familiale et sociale du mineur. Ces personnes font un rapport sur le résultat de leur intervention.

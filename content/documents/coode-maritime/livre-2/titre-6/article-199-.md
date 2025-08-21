@@ -1,0 +1,2 @@
+En cas d’abordage, l’enquête maritime effectuée au sujet de l’un des navires en cause doit, dans toute la mesure du possible, être effectuée en même temps que l’enquête maritime concernant l’autre navire. L’autorité maritime est tenue de prendre toutes mesures appropriées à cet effet.
+Si les deux (02) enquêtes maritimes ne peuvent être effectuées en même temps, l’autorité maritime veille à ce que les conclusions de la première enquête effectuée ne soient pas rendues publiques avant qu’ait pris fin la seconde enquête maritime.

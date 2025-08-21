@@ -1,0 +1,4 @@
+Conditions de gratuité des informations
+Aucun paiement n'est exigé pour fournir les informations au titre des articles 415 et 416 et pour procéder à toute communication et prendre toute mesure au titre des articles 437 et 443 et de l'article 427. Lorsque les demandes d'une personne concernée sont manifestement infondées ou excessives, notamment en raison de leur caractère répétitif, le responsable du traitement peut :
+1. exiger le paiement de frais raisonnables qui tiennent compte des coûts administratifs supportés pour fournir les informations, procéder aux communications ou prendre les mesures demandées ; ou
+1. refuser de donner suite à ces demandes. Il incombe au responsable du traitement de démontrer le caractère manifestement infondé ou excessif de la demande.

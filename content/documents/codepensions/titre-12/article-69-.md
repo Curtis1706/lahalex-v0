@@ -1,0 +1,1 @@
+Le temps des services effectifs accomplis dans l’Armée Française est pris en compte pour la construction du droit à pensions proportionnelles ou d'ancienneté.

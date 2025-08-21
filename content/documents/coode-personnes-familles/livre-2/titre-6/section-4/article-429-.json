@@ -1,0 +1,16 @@
+{
+  "id": "article-429-",
+  "title": "Article 429 :",
+  "numero": "429 ",
+  "document": "coode-personnes-familles",
+  "path": [
+    "livre-2",
+    "titre-6",
+    "section-4"
+  ],
+  "navigation": {
+    "parent": "section-4",
+    "previous": "article-428-",
+    "next": "article-430-"
+  }
+}

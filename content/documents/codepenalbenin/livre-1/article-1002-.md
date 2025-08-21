@@ -1,0 +1,2 @@
+Il y a récidive en matière de contravention de police lorsqu’il a été rendu contre le contrevenant, dans les douze (12) mois précédents, un premier jugement pour contravention commise dans le ressort du même tribunal.
+Toutefois, la récidive des contraventions passibles d’un emprisonnement supérieur à dix (10) jours ou d’une amende supérieure à vingt mille (20.000) francs CFA est indépendante du lieu où la première contravention a été commise.

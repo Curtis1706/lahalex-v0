@@ -1,0 +1,1 @@
+Outre les règles de compétence prévues au présent titre, les juridictions béninoises sont compétentes pour connaître des infractions prévues dans les traités et conventions internationaux auxquels la République du Bénin est partie selon les règles de compétences impératives établies par lesdits traités et conventions.

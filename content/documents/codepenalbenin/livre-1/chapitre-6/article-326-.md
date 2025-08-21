@@ -1,0 +1,1 @@
+Les infractions prévues par les articles 327, 328, 330 à 334 du présent code sont punies, en plus des peines ci-dessous, de la confiscation de tout ou partie des biens tant mobiliers qu’immobiliers des coupables.

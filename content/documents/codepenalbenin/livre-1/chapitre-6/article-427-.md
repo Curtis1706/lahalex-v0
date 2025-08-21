@@ -1,0 +1,1 @@
+Si l’évasion avec bris ou violence a été favorisée par transmission d’armes, les gardiens et conducteurs qui y auront participé sont punis de la réclusion criminelle à perpétuité ; les autres personnes, de la réclusion criminelle à temps de dix (10) ans à vingt (20) ans.

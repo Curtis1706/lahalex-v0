@@ -1,0 +1,2 @@
+La suspension est la cessation temporaire de fonction. Sa durée ne peut excéder quatre-vingt-dix (90) jours.
+Elle est prononcée par le maire sur rapport motivé du chef d'arrondissement, après délibération du conseil d'arrondissement.

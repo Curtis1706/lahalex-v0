@@ -1,0 +1,3 @@
+Le ministre chargé de la marine marchande peut, pour faute grave dans l’exercice de la profession, interdire provisoirement ou définitivement à toute personne l’exercice de toute fonction à bord incompatible avec l’incapacité professionnelle ou l’inconduite de l’intéressé.
+L’interdiction définitive de toute fonction entraîne la radiation définitive des matricules des gens de mer.
+L’intéressé doit être entendu au cours de la procédure et la sanction est prononcée après avis du conseil de discipline.

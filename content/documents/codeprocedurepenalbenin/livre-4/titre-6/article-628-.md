@@ -1,0 +1,2 @@
+Toute demande de récusation visant le président de la cour d’appel doit faire l’objet d’une requête adressée au président de la cour suprême qui, après avis du procureur général près la cour suprême, statue par ordonnance, laquelle n’est susceptible d’aucune voie de recours.
+Les dispositions de l’article 626 du présent code sont applicables.

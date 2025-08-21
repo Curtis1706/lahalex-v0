@@ -1,0 +1,1 @@
+Les périodes de précampagne et de campagne électorales donnent lieu à des mesures réglementaires spécifiques de la Haute Autorité de l’Audiovisuel et de la Communication.

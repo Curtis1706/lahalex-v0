@@ -1,0 +1,4 @@
+Est entachée de nullité absolue, toute poursuite intentée en application des articles 728 et 729 si :
+- l’action publique est mise en mouvement par ceux qui n’en sont pas habilités par le présent code ;
+- l’inculpé justifie qu’il a été jugé définitivement pour les mêmes faits à l’étranger et en cas de condamnation, qu’il a, conformément aux lois de l’Etat où il a été condamné, exécuté sa peine, ou que celle-ci est prescrite ou qu’il a bénéficié d’une mesure de grâce ;
+- l’action publique est prescrite ou éteinte par l’amnistie ou par toute autre cause au regard de la loi de l’Etat où les faits ont été commis, ou serait prescrite ou éteinte au regard de la loi béninoise, si les faits avaient été commis en République du Bénin.

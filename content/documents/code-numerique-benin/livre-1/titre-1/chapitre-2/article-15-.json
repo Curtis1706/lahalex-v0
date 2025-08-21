@@ -1,0 +1,16 @@
+{
+  "id": "article-15-",
+  "title": "Article 15 : Egalité de traitement et non-discrimination",
+  "numero": "15 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-2"
+  ],
+  "navigation": {
+    "parent": "chapitre-2",
+    "previous": "article-14-",
+    "next": "article-16-"
+  }
+}

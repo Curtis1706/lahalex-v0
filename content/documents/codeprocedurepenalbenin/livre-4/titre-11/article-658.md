@@ -1,0 +1,2 @@
+Sont compétentes, les juridictions pour enfants du lieu de l’infraction, de la résidence du mineur ou de ses parents ou tuteur, du lieu où le mineur aura été trouvé ou du lieu où il a été placé.
+Si la première juridiction saisie est celle du lieu de résidence ou celle du lieu où l’enfant a été trouvé, elle peut, sur réquisitions du ministère public, se dessaisir de l’affaire au profit de la juridiction territorialement compétente en raison de la résidence des parents.

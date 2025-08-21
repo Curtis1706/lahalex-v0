@@ -1,0 +1,1 @@
+En cas de couplage d'élections, la seule procuration est valable pour les deux scrutins.

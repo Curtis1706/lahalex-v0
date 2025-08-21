@@ -1,0 +1,1 @@
+Les donations faites à l’un des époux dans les termes de l’article 949 deviennent caduques, si le donateur survit à l’époux donataire et à sa postérité.

@@ -1,0 +1,1 @@
+Le mandat du directeur général des élections et celui des directeurs techniques sont renouvelables.

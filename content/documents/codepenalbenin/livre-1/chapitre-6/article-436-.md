@@ -1,0 +1,2 @@
+A l’égard de tous autres bris de scellés, les coupables sont punis de six (06) mois à deux (02) ans d’emprisonnement ; et, si c’est le gardien lui-même, il est puni de deux (02) ans à cinq (05) ans d’emprisonnement.
+Est assimilé au bris de scellés et passible des mêmes peines, tout détournement d’objets figurant au procès-verbal d’apposition des scellés.

@@ -1,0 +1,1 @@
+Le budget de la commune ou de l'établissement public de coopération intercommunale est adopté et validé en équilibre réel.

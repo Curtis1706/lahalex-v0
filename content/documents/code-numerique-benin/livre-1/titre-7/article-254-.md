@@ -1,0 +1,3 @@
+Interruption involontaire de communications électroniques
+Toute personne qui, sans intention d’interrompre les communications électroniques, commet par maladresse ou inattention un acte ayant interrompu lesdites communications, est punie d’une amende de cent mille (100 000) à cinq cent mille (500 000) francs CFA.
+Tout opérateur de réseau ou tout exploitant de services de communications électroniques ouverts au public qui, commet par maladresse ou inattention un acte ayant interrompu lesdites communications, est punie d’une amende de cinq millions (5 000 000) à vingt-cinq millions (25 000 000) de francs CFA.

@@ -1,0 +1,1 @@
+En temps de guerre, de mobilisation générale, d’état d'urgence et d'état de siège, le conseil communal peut être suspendu. Dans ce cas, il est remplacé par une délégation spéciale dont les fonctions prennent fin en même temps que les mesures édictées.

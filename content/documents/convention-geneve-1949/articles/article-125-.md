@@ -1,0 +1,4 @@
+Les internés punis disciplinairement auront la faculté de prendre chaque Garanties jour de l’exercice et d’être en plein air pendant au moins deux heures. essentielles
+Ils seront autorisés, sur leur demande, à se présenter à la visite médicale quoti- dienne ; ils recevront les soins que nécessite leur état de santé et, le cas échéant, seront évacués sur l’infirmerie du lieu d’internement ou sur un hôpital.
+Ils seront autorisés à lire et à écrire, ainsi qu’à expédier et à recevoir des lettres. En revanche, les colis et les envois d’argent pourront ne leur être délivrés qu’à l’expiration de la peine ; ils seront confiés, en attendant, au comité d’internés qui remettra à l’infirmerie les denrées périssables se trouvant dans ces colis.
+aucun interné puni disciplinairement ne pourra être privé du bénéfice des dispositions des articles 107 et 143.

@@ -1,0 +1,1 @@
+Est punie conformément aux dispositions du code pénal, toute personne qui accomplit à bord d'un aéronef, un acte de violence physique contre une personne ou un acte d’agression sexuelle ou d'agression d'enfant.

@@ -1,0 +1,1 @@
+La demande d’extradition est, après vérification des pièces, transmise avec le dossier, par le ministre en charge des affaires étrangères au ministre en charge de la justice qui s’assure de la régularité de la requête et lui donne telles suites que de droit.

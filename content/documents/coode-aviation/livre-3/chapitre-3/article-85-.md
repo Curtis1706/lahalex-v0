@@ -1,0 +1,1 @@
+L'assistance météorologique à la navigation aérienne est fournie, dans l'espace aérien où les services de la circulation aérienne sont assurés, par les services compétents de l'Etat ou pour leur compte. Tous les services assurés par l'Etat relativement à la préparation et à l'exécution des vols bénéficient de la même assistance.

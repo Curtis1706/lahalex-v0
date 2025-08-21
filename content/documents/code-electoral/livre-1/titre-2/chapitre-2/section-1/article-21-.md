@@ -1,0 +1,3 @@
+Les membres du Conseil électoral sont nommés par décret pris en Conseil des ministres pour un mandat de cinq (05) ans non renouvelables.
+Les membres du Conseil électoral sont désignés au plus tard soixante (60) jours avant la fin du mandat des membres sortants.
+La non désignation d'un membre du Conseil électoral, au plus tard trente (30) jours avant la fin du mandat des membres sortants, est constatée par la Cour constitutionnelle qui procède à la désignation d'office.

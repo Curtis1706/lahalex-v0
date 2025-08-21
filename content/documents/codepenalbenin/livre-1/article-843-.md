@@ -1,0 +1,1 @@
+Est puni des peines prévues à l’article précédent sans préjudice des dommages et intérêts à autrui ou à l’administration minière, les personnes détenant ou transportant illégalement des substances explosives destinées à une exploitation minière.

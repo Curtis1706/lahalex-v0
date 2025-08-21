@@ -1,0 +1,1 @@
+Le chef de village ou de quartier de ville préside le conseil de village ou de quartier de ville qu'il convoque pour toute question intéressant la vie collective au sein de la communauté.

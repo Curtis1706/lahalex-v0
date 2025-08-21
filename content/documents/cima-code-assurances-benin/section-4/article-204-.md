@@ -1,0 +1,2 @@
+Article 204 : Etendue territoriale
+L’assurance prévue à l’article 200 doit comporter une garantie de la responsabilité civile s’étendant à l’ensemble des territoires des Etats membres de la CIMA. Cette garantie, lorsqu’elle est appelée à jouer hors du territoire d’un Etat membre de la CIMA, est accordée par l’assureur dans les limites et conditions prévues par la législation applicable dans l’Etat sur le territoire duquel s’est produit le sinistre.

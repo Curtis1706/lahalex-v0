@@ -1,0 +1,1 @@
+Tout marin béninois convaincu d’avoir vendu ou prêté son livret professionnel maritime est radié d’office des matricules sans préjudice des poursuites pénales qui seront engagées contre lui et son complice pour usage frauduleux des titres professionnels maritimes.

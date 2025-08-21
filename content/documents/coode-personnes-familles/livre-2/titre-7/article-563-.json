@@ -1,0 +1,15 @@
+{
+  "id": "article-563-",
+  "title": "Article 563 :",
+  "numero": "563 ",
+  "document": "coode-personnes-familles",
+  "path": [
+    "livre-2",
+    "titre-7"
+  ],
+  "navigation": {
+    "parent": "titre-7",
+    "previous": "article-562-",
+    "next": "article-564-"
+  }
+}

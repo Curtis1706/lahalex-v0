@@ -1,0 +1,1 @@
+Quiconque a prêté un lieu pour exécuter la détention ou la séquestration est passible des mêmes peines que l’auteur de cette détention ou de cette séquestration.

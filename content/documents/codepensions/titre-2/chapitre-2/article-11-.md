@@ -1,0 +1,5 @@
+Les conditions d’admission à la retraite pour les différentes catégories d'Agents Permanents de l’Etat Militaires sont celles définies par les dispositions de la Loi n° 81-014 du 10 Septembre 1981, portant Statut Général des Personnels des Forces Armées Populaires.
+Toutefois, tout Agent Permanent de 1'Etat Militaire est mis à la retraite d'office, à la condition de cinquante-cinq (55) ans d'âge ou de trente (50) ans de service.
+Les Militaires n'ayant pas accompli trente (50) ans de service peuvent être admis à la retraite d'office sans condition de limite d’âge dans les trois cas prévus pour les Agents Permanents de l'Etat à l’article 3 du présent Code.
+L’Agent Permanent de l'Etat Militaire qui aura accompli trente (30) ans de service et qui n'aurait pas atteint les cinquante-cinq (55) ans d’âge doit bénéficier des avancements d'échelons auxquels il aurait dû prétendre jusqu’à l'âge de cinquante-cinq (55) ans.
+L’Etat se réserve le droit de maintenir en activité certains Agents Permanents de l’Etat Militaires relevant de certains secteurs d’activités spécifiques, pour nécessité de service.

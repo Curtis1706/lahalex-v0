@@ -1,0 +1,2 @@
+Un arrêté conjoint du ministre chargé de l'aviation civile et du ministre chargé des finances fixe les taux des redevances visées à l'article 165 de la présente loi, et détermine l’autorité ou l’organisme chargé de leur liquidation, de leur recouvrement et des modalités de leur perception.
+L'arrêté peut prévoir des exonérations et des réductions, occasionnelles ou permanentes et, chaque fois que de besoin, dans le respect du principe d'égalité et de réciprocité.

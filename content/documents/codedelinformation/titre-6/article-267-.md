@@ -1,0 +1,1 @@
+Toute dissimulation, dissipation ou altération du contenu d’un document objet d’un recours en contestation d’une décision de refus d’accès aux sources d’information publiques, sera punie d’un emprisonnement de trois (03) mois à un (01) an et d’une amende de cinq cent mille (500 000) à deux millions (2 000 000) de francs CFA.

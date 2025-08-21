@@ -1,0 +1,2 @@
+Article 306 : Autorité de révision du montant des allocations
+L’autorité qui a statué sur le montant des allocations et, dans le cas où cette autorité est dessaisie, le juge des enfants compétent peut, à la requête des parents, du bénéficiaire ou du ministère public, procéder à la révision du montant des allocations.

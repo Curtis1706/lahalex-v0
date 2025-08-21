@@ -1,0 +1,2 @@
+Sans préjudice des attributions et des responsabilités qui sont propres au comptable et au receveur des impôts de la commune, en matière de recouvrement, l'ordonnateur suit régulièrement les opérations de perception et les poursuites éventuelles entreprises par le comptable et le receveur des impôts de la commune.
+L’ordonnateur appuie, en tant que de besoin, le comptable et le receveur des impôts pour le recouvrement diligent et intégral des recettes de la commune.

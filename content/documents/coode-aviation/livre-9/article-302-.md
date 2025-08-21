@@ -1,0 +1,1 @@
+Un conseil de discipline composé de personnels de l'aéronautique civile est chargé de proposer au ministre chargé de l'aviation civile, des sanctions disciplinaires à l'encontre des membres du personnel de l'aéronautique civile, reconnus coupables de violation des dispositions de la présente loi, des textes subséquents ou des règlements d'application pris en la matière.

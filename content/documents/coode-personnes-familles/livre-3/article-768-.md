@@ -1,0 +1,1 @@
+Le maintien de l’indivision ne peut être prescrit pour une durée supérieure à cinq (5) ans. Il peut être renouvelé dans le cas prévu à l’article précédent jusqu’au remariage du conjoint survivant ou jusqu'à la majorité du plus jeune des descendants.

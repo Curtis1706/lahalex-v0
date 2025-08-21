@@ -1,0 +1,2 @@
+Le président du tribunal ou de la cour d'appel statuant en matière criminelle interroge l'accusé après l’arrivée de ce dernier à la maison d’arrêt et la remise des pièces au greffe.
+Il doit être fait appel à un interprète si l’accusé ne parle pas français.

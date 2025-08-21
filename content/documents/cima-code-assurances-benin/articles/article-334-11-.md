@@ -1,0 +1,4 @@
+Article 334-11 : Réassurance
+La provision pour risques en cours relative aux cessions en réassurance ou rétrocessions ne doit en aucun cas être portée au passif du bilan pour un montant inférieur à celui pour lequel la part du réassureur ou du rétrocessionnaire dans la provision pour risques en cours figure à l’actif.
+Lorsque les traités de cessions en réassurance ou de rétrocessions prévoient, en cas de résiliation, l’abandon au cédant ou au rétrocédant d’une portion des primes payées d’avance, la provision pour risques en cours relative aux acceptations ne doit, en aucun cas, être inférieure au montant de ces abandons de primes calculés dans l’hypothèse où les traités seraient résiliés à la date de l’inventaire.
+_II. Provisions pour sinistres restant à payer_

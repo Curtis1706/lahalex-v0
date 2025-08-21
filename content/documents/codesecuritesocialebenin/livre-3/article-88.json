@@ -1,0 +1,14 @@
+{
+  "id": "article-88",
+  "title": "Article 88:",
+  "numero": "88",
+  "document": "codesecuritesocialebenin",
+  "path": [
+    "livre-3"
+  ],
+  "navigation": {
+    "parent": "livre-3",
+    "previous": "article-87-",
+    "next": "article-89-"
+  }
+}

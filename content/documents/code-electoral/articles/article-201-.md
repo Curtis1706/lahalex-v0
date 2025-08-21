@@ -1,0 +1,1 @@
+Le chef d'un village ou d'un quartier de ville est désigné par le parti ayant obtenu le plus grand nombre de suffrages valablement exprimés dans ce village ou quartier de ville et éligible à l'attribution des sièges.

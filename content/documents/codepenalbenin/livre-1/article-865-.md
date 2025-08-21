@@ -1,0 +1,2 @@
+Quiconque construit ou exploite un ouvrage ou une installation, réalise des travaux ou exerce une activité soumise à déclaration en violation des lois et règlements est puni d’une amende de deux millions (2.000.000) à trois millions (3.000.000) de francs CFA.
+En cas de récidive, l’amende est portée à cinq millions (5.000.000) de francs CFA.

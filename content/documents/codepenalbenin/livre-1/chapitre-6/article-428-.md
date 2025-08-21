@@ -1,0 +1,1 @@
+Tous ceux qui ont connivé à l’évasion d’un détenu sont solidairement condamnés, à titre de dommages-intérêts, à tout ce que la partie civile du détenu aurait eu droit d’obtenir contre lui.

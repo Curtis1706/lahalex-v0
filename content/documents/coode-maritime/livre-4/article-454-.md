@@ -1,0 +1,2 @@
+Si l’abordage est causé par la faute de l’un des navires, la réparation incombe à celui qui a commis la faute.
+Si l’abordage est causé par la faute de plusieurs navires à un navire qui n’est pas en faute, la réparation du dommage incombe solidairement à ceux qui ont commis la faute.

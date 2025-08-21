@@ -1,0 +1,2 @@
+Le présent code est applicable aux engagements conclus pour tout service à accomplir à bord d’un navire béninois. 2 n’est pas applicable aux marins engagés en République du Bénin pour servir sur un navire étranger.
+Toutefois, les contrats d’engagement maritime conclus en République du Bénin entre un armement étranger et des marins béninois doivent être soumis au visa du directeur de la marine marchande.

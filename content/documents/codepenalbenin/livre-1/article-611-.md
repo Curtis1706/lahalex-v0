@@ -1,0 +1,2 @@
+Une liste des appareils conçus pour réaliser les opérations pouvant constituer l’une des infractions prévues à l’article 608 du présent code est dressée par voie réglementaire. Les appareils figurant sur la liste ne pourront être fabriqués, importés, offerts ou vendus qu’en vertu d’une autorisation ministérielle dont les conditions d’octroi seront fixées par le même règlement.
+Est puni des peines prévues à l’article 608 du présent code quiconque a contrevenu aux dispositions de l’alinéa précédent.

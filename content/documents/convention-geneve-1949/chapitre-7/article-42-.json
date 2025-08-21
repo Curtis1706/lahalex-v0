@@ -1,0 +1,14 @@
+{
+  "id": "article-42-",
+  "title": "Article 42 :",
+  "numero": "42 ",
+  "document": "convention-geneve-1949",
+  "path": [
+    "chapitre-7"
+  ],
+  "navigation": {
+    "parent": "chapitre-7",
+    "previous": "article-41-",
+    "next": "article-43-"
+  }
+}

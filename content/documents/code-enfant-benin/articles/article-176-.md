@@ -1,0 +1,2 @@
+Article 176 : Jouissance des droits humains
+Les enfants handicapés jouissent sans aucune discrimination de tous les droits de l’homme et de toutes les libertés fondamentales sur la base de l’égalité avec les autres enfants.

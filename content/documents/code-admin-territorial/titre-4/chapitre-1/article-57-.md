@@ -1,0 +1,1 @@
+La commune a un budget autonome adopté par le conseil de supervision et soumis à la validation du conseil communal.

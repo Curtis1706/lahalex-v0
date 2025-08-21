@@ -1,0 +1,1 @@
+Constitue un programme informatique, l’ensemble des instructions pouvant être exécutées par un système informatique aux fins d’obtenir un certain résultat.

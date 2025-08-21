@@ -1,0 +1,1 @@
+L'élection est le choix libre par le peuple du ou des citoyens appelés à conduire, à gérer ou à participer à la gestion des affaires publiques.

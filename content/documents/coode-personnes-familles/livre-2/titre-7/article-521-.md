@@ -1,0 +1,1 @@
+Le tuteur peut accepter sans autorisation du conseil de famille les donations et legs particuliers advenus au pupille, à moins qu’ils ne soient grevés de charges.

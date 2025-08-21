@@ -1,0 +1,5 @@
+Le droit d’accès à un document produit par un organisme public ou pour son compte et ayant fait l’objet d’une publication ou d’une diffusion, ne s’exerce que par consultation sur place pendant les heures habituelles de travail ou par l’obtention d’informations suffisantes pour permettre au requérant de le consulter ou de se le procurer là où il est disponible.
+De même, le droit d’accès à un document produit par un organisme public ou pour son compte et devant faire l’objet d’une publication ou d’une diffusion dans un délai n’excédant pas six (06) mois à compter de la demande d’accès, s’exerce par l’un ou plusieurs des moyens suivants :
+- la consultation sur place pendant les heures habituelles de travail ;
+- l’obtention d’informations suffisantes pour permettre au requérant de le consulter là où il est disponible ou de se le procurer lors de sa publication ou de sa diffusion ;
+- le prêt du document, à moins que cela ne compromette sa publication ou sa diffusion.

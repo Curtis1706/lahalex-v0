@@ -1,0 +1,3 @@
+Article 230 : Communication des procès-verbaux
+Un exemplaire de tout procès-verbal relatif à un accident corporel de la circulation doit être transmis, automatiquement aux assureurs impliqués dans ledit accident par les officiers ou agents de la police judiciaire ayant constaté l’accident. Le délai de transmission est de 3 mois à compter de la date de l’accident.
+La forme et le contenu des procès-verbaux sont harmonisés à l’intérieur des États membres de la CIMA.

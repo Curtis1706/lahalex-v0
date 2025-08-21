@@ -1,0 +1,2 @@
+Article 607 : Cas d’intervention du Fonds en présence d’un contrat d’assurance
+Lorsqu’un contrat d’assurance a été souscrit pour garantir les conséquences pécuniaires de la responsabilité civile de l’auteur de dommages résultant d’atteintes aux personnes nés d’un accident mentionné à l’article 600 du Code des assurances, le Fonds de Garantie ne peut être appelé à payer l’indemnité allouée à la victime ou à ses ayants droit qu’en cas de nullité du contrat, de suspension du contrat ou de la garantie, ou en cas de non-assurance, opposables à la victime ou à ses ayants droit.

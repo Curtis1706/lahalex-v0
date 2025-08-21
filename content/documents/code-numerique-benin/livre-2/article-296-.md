@@ -1,0 +1,4 @@
+Certificats qualifiés de cachet électronique
+Les certificats qualifiés de cachet électronique satisfont aux exigences fixées par voie réglementaire. Ils ne font l’objet d’aucune exigence obligatoire allant au-delà des exigences ainsi fixées.
+Les certificats qualifiés de cachet électronique peuvent 	comprendre des attributs 	spécifiques supplémentaires non-obligatoires. Ces attributs n’affectent pas l’interopérabilité et la reconnaissance des cachets électroniques qualifiés.
+Si un certificat qualifié de cachet électronique a été révoqué après la première activation, il perd sa validité à compter du moment de sa révocation et il ne peut en aucun cas recouvrer son statut antérieur.

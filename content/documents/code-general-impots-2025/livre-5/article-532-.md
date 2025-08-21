@@ -1,0 +1,1 @@
+Toute entrave au droit d’enquête, notamment le refus de communiquer les documents prescrits, l’exercice des voies de fait sur les agents de l’administration fiscale ou  toute  autre  entrave  de  nature  à  les  mettre  dans  l’impossibilité  d’exercer  le  droit d’enquête, est sanctionnée par les dispositions prévues à l’article 503 du présent code.

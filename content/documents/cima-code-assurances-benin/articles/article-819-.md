@@ -1,0 +1,5 @@
+Article 819 : _(Règlement 2015-02)_ Contribution des entreprises de réassurance
+Les frais de toute nature résultant de l’application des dispositions du présent livre, sont couverts au moyen de contribution dont le montant et les modes de versement sont définis par un Règlement du Conseil des ministres.
+Toutes les entreprises de réassurance, les succursales, bureaux de souscription, de représentation ou de liaison d’entreprises de réassurance étrangères, établies en zone CIMA sont redevables des frais de contrôle.
+Les primes ou cotisations acceptées forment l’assiette de la contribution. Les rétrocessions ne sont pas déduites. L’assiette correspond à l’ensemble des primes acceptées en zone CIMA. Elle ne comprend pas les rétrocessions effectuées entre réassureurs établis dans l’espace CIMA.
+Le taux à appliquer sur l’assiette sera fixé par le Conseil des ministres des assurances Les frais de contrôle sont versés directement au Secrétariat Général de la CIMA.

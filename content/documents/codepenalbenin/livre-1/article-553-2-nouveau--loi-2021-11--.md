@@ -1,0 +1,3 @@
+« Constitue un mariage précoce, le fait pour toute personne d’organiser, de célébrer, de contracter ou de vivre une union conjugale avec un mineur.
+Constitue un mariage forcé, le fait pour toute personne d’organiser, de célébrer, de contracter ou de vivre une union conjugale sans le consentement de l’un des conjoints.
+Pour l’application des dispositions des alinéas précédents, le consentement de la victime ne peut être invoqué ».

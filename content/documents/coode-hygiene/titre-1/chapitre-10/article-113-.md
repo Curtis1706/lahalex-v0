@@ -1,0 +1,1 @@
+Il est interdit tout mélange des matières fécales ou urinaires aux ordures ménagères.

@@ -1,0 +1,16 @@
+{
+  "id": "article-7-",
+  "title": "Article 7 : Sont également d’application immédiate :",
+  "numero": "7 ",
+  "document": "codepenalbenin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-2"
+  ],
+  "navigation": {
+    "parent": "chapitre-2",
+    "previous": "article-6-",
+    "next": "article-8-"
+  }
+}

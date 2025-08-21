@@ -1,0 +1,2 @@
+Les évolutions des aéronefs constituant des spectacles publics ne peuvent avoir lieu qu'avec l'autorisation donnée par l'autorité administrative compétente, après avis de l'organisme national en charge de l'aviation civile.
+Si l'épreuve consiste en un trajet comportant plusieurs atterrissages successifs, l'autorisation est donnée par le ministre chargé de l'intérieur, après avis du ministre chargé de l'aviation civile.

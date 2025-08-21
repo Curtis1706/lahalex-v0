@@ -1,0 +1,3 @@
+Si la Puissance au pouvoir de laquelle se trouvent les personnes protégées 4. Résidence n’estime pas suffisantes les autres mesures de contrôle mentionnées dans la forcée. présente Convention, les mesures de contrôles plus sévères auxquelles elle Internement pourra recourir seront la mise en résidence forcée ou l’internement, confor-
+mément aux dispositions des articles 42 et 43.
+En appliquant les dispositions du deuxième alinéa de l’article 39 au cas de personnes contraintes d’abandonner leur résidence habituelle en vertu d’une décision qui les astreint à la résidence forcée dans un autre lieu, la Puissance détentrice se conformera aussi exactement que possible aux règles relatives au traitement des internés (Section 4, Titre 3 de la présente Convention).

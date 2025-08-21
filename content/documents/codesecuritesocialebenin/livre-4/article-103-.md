@@ -1,0 +1,1 @@
+Pour le travailleur dont l’étatcivil ne mentionne que l’année de naissance, l’admission à la retraite ne peut être prononcée qu’à compter du 1super/sup janvier de l’année suivant celle au cours de laquelle l’intéressé est présumé avoir atteint la limite d’âge.

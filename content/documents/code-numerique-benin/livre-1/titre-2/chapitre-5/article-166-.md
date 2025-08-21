@@ -1,0 +1,7 @@
+Enquêtes
+Les agents assermentés 	de l’Autorité de régulation peuvent procéder aux enquêtes nécessaires. Ils sont astreints au secret professionnel.
+Les agents assermentés de l’Autorité de régulation peuvent accéder à tous locaux, terrains ou moyens de transport à usage professionnels, demander la communication des livres, des factures et tous autres documents professionnels et en prendre copie et recueillir, sur convocation ou sur place, les renseignements et justifications.
+Ces opérations de visites et saisies ne peuvent être réalisées qu’en présence du procureur de la République, ou en présence des officiers de police judiciaire qu’il a désignés. Elles ne peuvent commencer avant six heures ou après vingt et une heure et sont effectuées en présence de l’occupant des lieux ou de son représentant. En cas de refus ou d’impossibilité, l’officier de police judiciaire requiert à cet effet deux témoins pris en dehors du personnel relevant de son autorité et de celui de l’Autorité de régulation.
+Il est procédé à un inventaire des pièces saisies. Le cas échéant, celles-ci peuvent être mises sous scellés.
+Il est dressé procès-verbal des opérations de visites et saisies.
+Les agents assermentés de l’Autorité de régulation peuvent, sans se voir opposer le secret professionnel, accéder à tout document ou élément d’information détenu par les administrations, les établissements et les autres personnes morales de droit public.

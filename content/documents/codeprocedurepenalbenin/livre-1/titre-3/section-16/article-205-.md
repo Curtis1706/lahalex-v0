@@ -1,0 +1,2 @@
+Il appartient au ministère public de décider s’il y a lieu de requérir la réouverture de l’information sur charges nouvelles.
+Toutefois, la victime qui découvre de charges nouvelles peut en saisir le président du tribunal d’une plainte avec constitution de partie civile.

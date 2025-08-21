@@ -1,0 +1,1 @@
+La réhabilitation produit les mêmes effets que ceux qui sont prévus par les articles 153 et 154. Elle efface toutes les incapacités et déchéances qui résultent de la condamnation.

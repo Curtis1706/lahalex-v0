@@ -1,0 +1,3 @@
+Tout citoyen qui change de résidence, pour être pris en compte sur la Liste électorale informatisée, doit faire une demande de transfert.
+Toute demande de transfert doit être accompagnée de pièces justificatives permettant d'établir l'identification et le lieu de résidence habituelle du requérant en vue d'assurer le transfert automatique de l'intéressé, de l'extraire de la liste du centre de vote d'origine vers le nouveau centre de vote choisi.
+L'opération de correction des données ou de transfert de tout citoyen s'opère de façon permanente entre deux élections générales.

@@ -1,0 +1,1 @@
+2 ne peut être procédé à la saisie-exécution que vingt-quatre (24) heures après le commandement de payer.

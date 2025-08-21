@@ -1,0 +1,3 @@
+Des conventions collectives conclues entre les représentants qualifiés des armateurs et des marins peuvent déterminer, dans le cadre des dispositions légales, les obligations réciproques des armateurs et marins. Ces conventions sont déposées auprès du directeur de la marine marchande.
+Des accords d’établissement peuvent être passés entre un ou plusieurs armateurs et les équipages embarqués à bord de leurs navires.
+Les conventions collectives et accords d’établissement sont inscrits ou mentionnés au rôle d’équipage et doivent être disponibles à bord.

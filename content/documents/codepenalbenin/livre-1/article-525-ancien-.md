@@ -1,0 +1,1 @@
+Quiconque a aidé, assisté, sollicité l’auteur d’une mutilation génitale, lui a fourni des moyens ou donné des instructions, est traité comme complice et condamné aux peines encourues par ce dernier.

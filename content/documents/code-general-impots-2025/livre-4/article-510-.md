@@ -1,0 +1,5 @@
+1) Toute personne intervenant directement ou indirectement dans le contrôle ou le recouvrement des impôts et taxes prévus par le présent code, qui viole le secret professionnel est punie d’un emprisonnement de un (1) mois à six (6) mois et d’une amende de cent mille (100 000) à cinq cent mille (500 000) francs CFA.
+2) Constitue  une  violation  du  secret  professionnel,  le  fait  pour  une  personne
+dépositaire d’information à caractère secret, soit par état ou par profession, soit en raison d’une mission ou d’une fonction temporaire, de la divulguer hors les cas où la loi en impose ou en autorise la révélation.
+3) En outre, la violation du secret professionnel par un agent des impôts est considérée
+comme  une  faute  grave  passible  des  procédures  disciplinaires  prévues  par  le  statut général de la fonction publique.

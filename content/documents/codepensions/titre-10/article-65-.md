@@ -1,0 +1,2 @@
+A l'exception des bénéficiaires de l'article précédent les Agents Permanents de l'Etat Civils ou Militaires qui ont été mis à la retraité parce qu’ils ont atteint la limite d'âge et qui occupent un nouvel emploi, ne peuvent acquérir de nouveaux droits à pension.
+Les Agents Permanents de l'Etat Civils ou Militaires dont la mise à la retraite n'a pas été prononcée pour la limite d'âge, ont la possibilité, lorsqu'ils sont nommés à un nouvel emploi public, de cumuler leur pension avec leur traitement d'activité dans les limites prévues par l'article 63 ci-dessus.

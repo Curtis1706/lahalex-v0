@@ -1,0 +1,3 @@
+Le ministère public, d’office ou à la demande de la partie civile, est chargé de produire à l’administration de l’enregistrement soit un certificat de greffe constatant la responsabilité encourue par l’inculpé dans le cas de l’article 162 alinéa 2 du présent code, soit l’extrait de la décision dans le cas prévu par l’article 163 alinéa 2 du présent code.
+Le receveur d’enregistrement est chargé de faire sans délai aux ayants droit, la distribution des sommes déposées ou recouvrées.
+Toute contestation sur ces divers points est jugée par le président du tribunal, sur requête en chambre du conseil, comme incident de l’exécution de la décision.

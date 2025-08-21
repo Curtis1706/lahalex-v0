@@ -1,0 +1,1 @@
+Toute action en délivrance de marchandises ou en dommages-intérêts pour dommages, pertes ou retard dans leur transport est prescrite un (01) an après l’arrivée du navire au port de destination ou après la perte totale de celui-ci.

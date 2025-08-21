@@ -1,0 +1,2 @@
+La zone contiguë de la République du Bénin s’étend à douze (12) milles marins au-delà de
+la limite extérieure de la mer territoriale, soit à vingt-quatre (24) milles marins à partir de la ligne de base.

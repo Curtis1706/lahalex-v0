@@ -1,0 +1,2 @@
+Dans le cas où la saisie n’est pas interdite ou lorsqu’en cas d’insaisissabilité de l'aéronef, l'exploitant ne l'invoque pas, un cautionnement suffisant peut en entraîner mainlevée immédiate par la juridiction compétente.
+Le cautionnement est suffisant s'il couvre le montant de la dette et les frais et s'il est affecté exclusivement au paiement du créancier ou s’il couvre la valeur de l'aéronef, si celle-ci est inférieure au montant de la dette et ses frais.

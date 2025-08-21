@@ -1,0 +1,1 @@
+Une loi spéciale fixe les modalités d'organisation des élections des membres des conseils de villages ou de quartiers de villes.

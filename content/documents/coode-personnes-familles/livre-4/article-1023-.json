@@ -1,0 +1,14 @@
+{
+  "id": "article-1023-",
+  "title": "Article 1023 :",
+  "numero": "1023 ",
+  "document": "coode-personnes-familles",
+  "path": [
+    "livre-4"
+  ],
+  "navigation": {
+    "parent": "livre-4",
+    "previous": "article-1022-",
+    "next": "article-1024-"
+  }
+}

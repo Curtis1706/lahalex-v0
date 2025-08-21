@@ -1,0 +1,2 @@
+La  mention  d’inscription  de  gage  sur  vente  à  crédit  d’un  véhicule automobile, celle de mainlevée ou de radiation donnent lieu à l’application d’un timbre mobile de mille cinq cent (1 500) francs CFA oblitéré par le service détenteur du registre d’inscription, dans les conditions fixées à l’article 443 du présent code.
+Le certificat de gage ou de non-gage donne lieu au timbre de dimension.

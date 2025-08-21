@@ -1,0 +1,1 @@
+Est exonérée de la taxe, la publicité effectuée pour le compte de l’État, des établissements publics et des collectivités locales.

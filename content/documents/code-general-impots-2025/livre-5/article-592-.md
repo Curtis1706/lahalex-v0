@@ -1,0 +1,2 @@
+Le  ministre  chargé  des  finances,  qui  peut  déléguer  son  pouvoir  au directeur général des impôts, peut, en tout temps, prononcer d’office le dégrèvement des impositions  ou  fractions  d’imposition  qui  n’étaient  pas  dues,  sur  proposition  de l’administration fiscale ou à l’initiative du contribuable.
+Le directeur général des impôts peut déléguer ce pouvoir aux directeurs des services opérationnels.

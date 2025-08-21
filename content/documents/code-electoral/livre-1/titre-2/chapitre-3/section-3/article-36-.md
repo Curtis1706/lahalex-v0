@@ -1,0 +1,1 @@
+Les fonctions de Directeur général des élections et des directeurs techniques sont incompatibles avec les fonctions ou qualités visées à l'article 30-1 de la présente loi.

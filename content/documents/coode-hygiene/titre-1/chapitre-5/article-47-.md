@@ -1,0 +1,1 @@
+Chaque établissement sanitaire dispose d'une source d'approvisionnement en eau potable et d'installations sanitaires appropriées qui garantissent l'accès et la facilité d'usage pour toute personne en tenant compte du sexe et des situations de handicap.

@@ -1,0 +1,2 @@
+Lorsque la désertion à l'intérieur a lieu en temps de guerre, en présence de bande armée ou en présence de l'ennemi, ou sur un territoire sur lequel l'état de siège ou l'état d'urgence a été décrété ou à l'occasion d'une opération de police tendant au maintien ou au rétablissement de l'ordre public, les peines énoncées aux points 1, 2 et 3 de l'article 462.5 sont portées au double.
+Si le coupable est officier ou sous-officier ou équivalent, le maximum de la peine est porté à la réclusion à perpétuité.

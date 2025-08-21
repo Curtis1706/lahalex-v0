@@ -1,0 +1,1 @@
+L’autorité de tutelle ou toute autre organisation s'abstient de recourir à tout moyen tendant à influencer la conduite de l’enquête et ses résultats, à avoir accès aux sources d’information de l'enquête ou à émettre des jugements.

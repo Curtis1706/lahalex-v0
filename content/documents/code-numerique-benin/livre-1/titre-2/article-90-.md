@@ -1,0 +1,2 @@
+Résolution des différends
+L’Autorité de régulation est compétente pour trancher l’ensemble des différends liés à la mise en œuvre des dispositions du présent Chapitre II dans les conditions prévues au Titre V du présent Livre du code en cas de litiges graves, les tribunaux de commerce sont compétents.

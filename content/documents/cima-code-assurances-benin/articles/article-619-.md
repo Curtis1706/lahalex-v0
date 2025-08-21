@@ -1,0 +1,3 @@
+Article 619 : Délai de paiement - Intérêts moratoires
+Le paiement des indemnités résultant soit d’une décision judiciaire exécutoire soit d’une transaction entre le Fonds de Garantie Automobile et la victime ou ses ayants droit, doit intervenir dans un délai d’un mois à compter du jour de la notification de la décision judiciaire ou à compter de l’expiration du délai de dénonciation de la transaction mentionné à l’article 618.
+Dans le cas contraire, les sommes non versées produisent de plein droit intérêt au taux légal.

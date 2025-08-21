@@ -1,0 +1,1 @@
+Quiconque sera coupable de faux témoignage en matière de police soit contre le prévenu soit en sa faveur, est puni d’un emprisonnement de un (01) an au moins et de trois (03) ans au plus et d’une amende de cinquante mille (50.000) francs CFA à deux cent cinquante mille (250.000) francs CFA.

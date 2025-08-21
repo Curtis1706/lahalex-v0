@@ -1,0 +1,2 @@
+Le jugement ou l’arrêt devenu définitif remonte quant à ses effets entre époux en ce qui concerne leurs biens, au jour du dépôt de la requête. Mais il ne produit effet à l’égard des tiers qu’à compter du jour où les formalités de publicité ont été accomplies.
+Lorsque la mention a été portée à des dates différentes sur l’exemplaire des registres déposés au bureau de l’état civil et sur celui déposé au greffe, le divorce ne produit effet à l’égard des tiers qu’à la date de la mention portée en second lieu.

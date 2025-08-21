@@ -1,0 +1,1 @@
+Le secrétaire exécutif est l'ordonnateur du budget communal. Il soumet le budget primitif, le collectif budgétaire et le compte administratif à l’adoption du conseil de supervision, à la validation du conseil communal et à l'approbation de l’autorité de tutelle.

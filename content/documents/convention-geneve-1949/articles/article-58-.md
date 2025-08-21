@@ -1,0 +1,2 @@
+La Puissance occupante permettra aux ministres des cultes d’assurer l’assis- Assistance tance spirituelle de leurs coreligionnaires. spirituelle
+Elles acceptera également les envois de livres et d’objets nécessaires aux be- soins religieux et facilitera leur distribution en territoire occupé.

@@ -1,0 +1,3 @@
+Est puni de un (01) an à cinq (05) ans d’emprisonnement et d’une amende de un million (1.000.000) à cinq millions (5.000.000) de francs CFA, quiconque :
+1. divulgue ou porte à la connaissance d’autrui des informations de nature à nuire au bon déroulement des investigations en cours, relatives à une infraction terroriste ;
+2. est au courant de la préparation d’un acte de terrorisme et n’en informe pas immédiatement les autorités administratives ou judiciaires.

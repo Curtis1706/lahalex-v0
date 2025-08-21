@@ -1,0 +1,1 @@
+Les interventions des membres du Gouvernement en leur qualité de chef ou de militant de parti sont comptabilisées dans la tranche horaire mensuelle affectée à leur formation politique et traitées comme telles.

@@ -1,0 +1,2 @@
+Article 603 : Préjudices indemnisables
+Les préjudices susceptibles d’être indemnisés par le Fonds de Garantie Automobile sont ceux mentionnés aux articles 258 à 266 à l’exception des articles 261, 263 et 266 du Code des assurances et dans la limite des plafonds définis par les textes de chaque Etat membre relatifs audit Fonds.

@@ -1,0 +1,7 @@
+Quiconque, sachant qu’il est dans l’impossibilité absolue de payer s’est fait servir des boissons ou des aliments qu’il a consommés en tout ou en partie dans des établissements à ce destinés même s’il est logé dans lesdits établissements, est puni d’un emprisonnement de un (01) mois au moins et de un (01) an au plus et d’une amende de cinq mille (5.000) francs CFA à soixante mille (60.000) francs.
+Les mêmes peines sont applicables à celui qui, sachant qu’il est dans l’impossibilité absolue de payer, s’est fait attribuer une ou plusieurs chambres dans un hôtel ou auberge et les aura effectivement occupées.
+Toutefois, dans les cas prévus par les deux alinéas précédents, l’occupation du logement ne doit pas avoir excédé dix (10) jours.
+Est passible des mêmes peines quiconque, sachant qu’il est dans l’impossibilité absolue de payer, s’est fait servir des carburants ou lubrifiants dont il a fait remplir en tout ou partie les réservoirs d’un véhicule par des professionnels de la distribution.
+Les larcins et filouteries de transport ainsi que les tentatives de ces mêmes délits seront punis des peines prévues au présent article.
+Les coupables des infractions prévues au présent article peuvent en outre être interdits des droits mentionnés à l’article 38 du présent code pendant deux (02) ans au moins et dix (10) ans au plus à compter du jour où ils auront subi leur peine.
+Ils peuvent, en outre, être interdits de séjour par l’arrêt ou le jugement.

@@ -1,0 +1,2 @@
+2 est interdit au capitaine de charger sur son navire des marchandises pour son propre compte sans l’autorisation expresse et écrite de l’armateur.
+En cas d’infraction, le capitaine devra à l’armateur une indemnité égale au double du fret correspondant.

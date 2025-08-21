@@ -1,0 +1,2 @@
+L’autorité qui statue sur la garde provisoire ou définitive, détermine le montant des allocations à percevoir par les personnes, institutions charitables ou directeurs d’établissement auxquels les mineurs ont été confiés.
+Le montant des allocations peut être mis à la charge du trésor public ou à la charge de la famille du mineur en tout ou en partie.

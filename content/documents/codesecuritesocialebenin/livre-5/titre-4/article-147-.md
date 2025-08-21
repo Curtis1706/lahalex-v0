@@ -1,0 +1,1 @@
+Les rentes en paiement correspondant à des taux d’incapacité inférieurs à 20 % sont transformées en capital conformément aux dispositions des articles 72 et 75 de la présente loi.

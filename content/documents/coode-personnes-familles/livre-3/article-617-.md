@@ -1,0 +1,2 @@
+Les représentants ont tous les droits qu’aurait eus le représenté. Dans tous les cas où la représentation est admise, le partage s’opère par souche.
+Si une même souche a produit plusieurs branches, la subdivision se fait aussi dans chaque branche et les membres de la même branche partagent entre eux par tête.

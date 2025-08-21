@@ -1,0 +1,7 @@
+La pension normale ou la pension proportionnelle est fixée à 2% des émoluments de base par annuité liquidable.
+La rémunération de l’ensemble des annuités liquidables, conformément aux dispositions de l’article 18 nouveau ci-dessus, ne peut être inférieure :
+- Au traitement brut afférent à l’indice le plus bas dans l’échelle des traitements, dans une pension sur au moins vingt-cinq (25) annuités liquidables de services effectifs ou de bonifications considérées comme tels ;
+- Au montant brut de la pension calculée à raison de 2% du traitement par annuité liquidable de ces seuls services ou bonifications dans une pension basée sur moins de vingt-cinq (25) annuités liquidables des services effectifs ou bonifications considérées comme tels.
+Si le montant définitif de la pension n’est pas un multiple de 100, il est porté à celui immédiatement supérieur.
+Les titulaires d’une pension allouée au titre du présent régime bénéficient des avantages familiaux octroyés aux agents en activité. A ce titre, seuls les enfants nés et déclarés à l’état civil avant la date d’admission à la retraite de l’agent sont considérés.
+Toutefois, le nombre d’enfants y donnant droit, qu’ils soient légitimes, naturels reconnus ou adoptifs, ne peuvent être supérieur à celui fixé par les textes en vigueur.

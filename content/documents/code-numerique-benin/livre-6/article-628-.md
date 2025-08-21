@@ -1,0 +1,2 @@
+Violation de l’obligation d’autorisation
+Est puni d’un emprisonnement d’un (01) an à cinq (05) ans et d’une amende de un million (1 000 000) à vingt millions (20 000 000) de francs CFA ou de l’une de ces deux peines seulement, quiconque aura exporté un moyen de cryptologie n'assurant pas exclusivement des fonctions d'authentification ou de contrôle d’intégrité sans avoir obtenu préalablement l’autorisation de la commission cryptologie, sans préjudice de l’application du code des douanes.

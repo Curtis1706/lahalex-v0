@@ -1,0 +1,1 @@
+Le nombre d'adjoints au maire est fixé à deux (02) dans toutes les communes sauf dans les communes à statut particulier où il correspond au nombre d'arrondissements augmenté de trois (03).

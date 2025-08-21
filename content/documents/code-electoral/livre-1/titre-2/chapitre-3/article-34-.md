@@ -1,0 +1,1 @@
+Le Directeur général des élections, les directeurs techniques et la personne responsable des marchés publics sont recrutés par appel à candidature. Ces recrutements sont assurés par le Conseil électoral en collaboration avec le ministère en charge de la Fonction publique.

@@ -1,0 +1,14 @@
+{
+  "id": "article-30-",
+  "title": "Article 30 :",
+  "numero": "30 ",
+  "document": "codepensions",
+  "path": [
+    "titre-6"
+  ],
+  "navigation": {
+    "parent": "titre-6",
+    "previous": "article-29-",
+    "next": "article-30-nouveau-"
+  }
+}

@@ -1,0 +1,4 @@
+En cas d’aliénation ou d’affrètement coque nue du navire, l’assurance continue de plein droit au profit du nouveau propriétaire ou de l’affréteur, à charge par lui d’en informer l’assureur dans un délai de dix (10) jours, et d’exécuter toutes les obligations dont l’assuré est tenu vis-à-vis de l’assureur en vertu du contrat.
+2 est, toutefois, loisible à l’assureur de résilier le contrat dans le mois du jour où il a reçu notification de l’aliénation ou de l’affrètement. Cette résiliation ne prend effet que quinze (15) jours après sa notification.
+L’aliénateur ou le fréteur reste tenu au paiement des primes échues antérieurement à l’aliénation ou à l’affrètement.
+L’aliénation de la majorité des parts d’un navire en co-propriété entraîne seule l’application de ces dispositions.

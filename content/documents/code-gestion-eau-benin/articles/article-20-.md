@@ -1,0 +1,1 @@
+Article 20 : Dans le cas des cours d’eau, le domaine public inclut le lit, identifié par la présence de l’eau ou des traces apparentes attestant cette présence à une époque récente, les îles, les îlots, les bancs de sable et les atterrissements, ainsi que les berges jusqu’à la limite atteinte par les plus hautes eaux avant débordement et les francs-bords.

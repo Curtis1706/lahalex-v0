@@ -1,0 +1,3 @@
+L'organe délibérant compétent de la commune ou de l’établissement public de coopération intercommunale exerce un contrôle sur l'exécution du budget de la commune ou de l’établissement public de coopération intercommunale ainsi que de ses budgets annexes à l’occasion de l'examen du compte administratif présenté par l’ordonnateur.
+Le compte administratif est élaboré par l'ordonnateur sous le contrôle du conseil de supervision.
+Tout citoyen d’une commune peut saisir l'autorité de tutelle ou tout autre service compétent des faits répréhensibles constatés

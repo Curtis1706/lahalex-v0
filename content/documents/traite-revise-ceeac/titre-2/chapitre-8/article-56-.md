@@ -1,0 +1,3 @@
+Investissement
+1. Les Etats membres s’engagent à coopérer pour mettre en place des règles et politiques visant à promouvoir les investissements communautaires et attirer les investissements provenant hors de la communauté.
+1. En vue de réaliser l’objectif visé par le présent article, les Etats membres conviennent d’élaborer et de mettre en œuvre un Protocole relatif aux investissements, ainsi qu’un code communautaire des investissements.

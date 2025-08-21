@@ -1,0 +1,16 @@
+Analyse d’impact
+Lorsqu'un type de traitement, en particulier par le recours à de nouvelles technologies, et compte tenu de la nature, de la portée, du contexte et des finalités du traitement, est susceptible d'engendrer un risque élevé pour les droits et libertés des personnes physiques, le responsable du traitement effectue, avant le traitement, une analyse de l'impact des opérations de traitement envisagées sur la protection des données à caractère personnel. Une seule et même analyse peut porter sur un ensemble d'opérations de traitement similaires qui présentent des risques élevés similaires.
+Lorsqu'il effectue une analyse d'impact relative à la protection des données, le responsable du traitement demande conseil au délégué à la protection des données, si un tel délégué a été désigné.
+L'analyse d'impact relative à la protection des données visée à l’alinéa 1 est, en particulier, requise dans les cas suivants :
+1. l'évaluation systématique et approfondie d'aspects personnels concernant des personnes physiques, qui est fondée sur un traitement automatisé, y compris le profilage, et sur la base de laquelle sont prises des décisions produisant des effets juridiques à l'égard d'une personne physique ou l'affectant de manière significative de façon similaire ;
+1. le traitement à grande échelle de catégories particulières de données visées à l'article 394, alinéa premier, ou de données à caractère personnel relatives à des condamnations pénales et à des infractions visées à l'article 395 ; ou
+1. la surveillance systématique à grande échelle d'une zone accessible au public.
+L'Autorité établit et publie une liste des types d'opérations de traitement pour lesquelles une analyse d'impact relative à la protection des données est requise conformément à l’alinéa 1.
+L'Autorité peut aussi établir et publier une liste des types d'opérations de traitement pour lesquelles aucune analyse d'impact relative à la protection des données n'est requise.
+L'analyse contient au moins :
+1. une description systématique des opérations de traitement envisagées et des finalités du traitement, y compris, le cas échéant, l'intérêt légitime poursuivi par le responsable du traitement ;
+1. une évaluation de la nécessité et de la proportionnalité des opérations de traitement au regard des finalités ;
+1. une évaluation des risques pour les droits et libertés des personnes concernées conformément à l’alinéa 1 ; et
+1. les mesures envisagées pour faire face aux risques, y compris les garanties, mesures et mécanismes de sécurité visant à assurer la protection des données à caractère personnel et à apporter la preuve du respect des dispositions du présent Livre, compte tenu des droits et des intérêts légitimes des personnes concernées et des autres personnes affectées.
+Le cas échéant, le responsable du traitement demande l'avis des personnes concernées ou de leurs représentants au sujet du traitement prévu, sans préjudice de la protection des intérêts généraux ou commerciaux ou de la sécurité des opérations de traitement.
+Si nécessaire, le responsable du traitement procède à un examen afin d'évaluer si le traitement est effectué conformément à l'analyse d'impact relative à la protection des données, au moins quand il se produit une modification du risque présenté par les opérations de traitement.

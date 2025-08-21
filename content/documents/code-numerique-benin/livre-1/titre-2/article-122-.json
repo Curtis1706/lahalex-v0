@@ -1,0 +1,15 @@
+{
+  "id": "article-122-",
+  "title": "Article 122 : Le Conseil de régulation",
+  "numero": "122 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-121--",
+    "next": "article-123-"
+  }
+}

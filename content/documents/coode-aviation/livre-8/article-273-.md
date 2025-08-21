@@ -1,0 +1,1 @@
+L’engagement d'un membre d'équipage professionnel donne obligatoirement lieu à l'établissement d'un contrat de travail écrit.

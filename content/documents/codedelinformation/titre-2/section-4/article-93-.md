@@ -1,0 +1,4 @@
+Un organisme public peut refuser de communiquer :
+- un avis ou une recommandation que lui a fait un autre organisme qui relève de son autorité ou qu’il a lui-même fait à un autre organisme public ;
+- une analyse produite à l’occasion d’une recommandation faite dans le cadre d’un processus décisionnel en cours, jusqu’à ce que l’avis ou la recommandation ait fait l’objet d’une décision par l’autorité compétente ou en cas d’absence de décision, qu’une période de deux (02) ans se soit écoulée depuis la date où l’avis ou la recommandation ou l’analyse a été fait.
+Il en est de même pour un ministre en ce qui concerne un avis ou une recommandation que lui fait un organisme qui relève de son autorité.

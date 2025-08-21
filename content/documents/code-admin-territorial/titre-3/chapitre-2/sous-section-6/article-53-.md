@@ -1,0 +1,1 @@
+La commune peut prendre des mesures et initier des investissements visant à promouvoir l’installation et le développement des activités économiques sur le territoire communal, notamment par l'aménagement de zones artisanales et de zones industrielles.

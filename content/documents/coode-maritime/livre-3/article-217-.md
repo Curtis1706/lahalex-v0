@@ -1,0 +1,1 @@
+Sauf dérogations accordées par le directeur de la marine marchande, l’embarquement en qualité de membre de l’équipage d’un navire béninois est réservé aux marins et officiers de nationalité béninoise ou aux nationaux des Etats ayant passé des accords de réciprocité avec la République du Bénin.

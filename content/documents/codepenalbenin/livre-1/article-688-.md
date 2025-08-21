@@ -1,0 +1,1 @@
+Le tribunal pourra prononcer la confiscation des matériels ayant servi à commettre les infractions punies aux termes du présent paragraphe.

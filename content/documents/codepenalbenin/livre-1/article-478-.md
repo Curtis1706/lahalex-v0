@@ -1,0 +1,1 @@
+quiconque par négligence ou par manque de soins et d’hygiène, cause la mort d’un nouveau-né, est puni de cinq (05) à dix (10) ans d’emprisonnement et d’une amende de cent mille (100.000) à deux cent cinquante mille (250.000) francs CFA.

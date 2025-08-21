@@ -1,0 +1,4 @@
+Article 293 : Désignation du délégué à la surveillance de l'enfant
+Le juge des enfants compétent procède à la nomination du délégué chargé de la surveillance de l’enfant.
+Ce délégué est choisi directement par le juge parmi les personnes âgées de plus de vingt-et-un (21) ans et s’intéressant aux problèmes de l’enfance.
+En même temps, le juge des enfants peut nommer un assistant relevant des services sociaux compétents ou tout autre technicien dont l’intervention contribue à la rééducation et à la réintégration familiale et sociale de l’enfant. Ces personnes font un rapport sur le résultat de leur intervention.

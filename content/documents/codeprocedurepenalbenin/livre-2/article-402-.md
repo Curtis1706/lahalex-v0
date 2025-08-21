@@ -1,0 +1,3 @@
+L’individu arrêté en flagrant délit et déféré devant le procureur de la République conformément à l’article 72 du présent code est, s’il a été placé sous mandat de dépôt, traduit sans délai à l’audience du tribunal.
+Si ce jour-là il n’est point tenu d’audience, le prévenu est déféré à la plus prochaine audience qui ne peut se tenir au-delà de soixante-douze (72) heures ouvrables.
+Si la cause doit être renvoyée, le tribunal se prononce sur le maintien ou non du prévenu en détention.

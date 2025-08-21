@@ -1,0 +1,1 @@
+Sous réserve des dispositions de l’article 140 ci-dessus, le propriétaire du navire n’est responsable que dans les limites établies par les conventions internationales sur la limitation de la responsabilité des propriétaires de navire.

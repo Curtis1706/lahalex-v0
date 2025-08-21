@@ -1,0 +1,1 @@
+Les dispositions du présent titre relatives aux délais s'appliquent à compter de la gestion budgétaire suivant celle de la promulgation de la présente loi.

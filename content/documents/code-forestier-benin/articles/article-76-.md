@@ -1,0 +1,5 @@
+Article 76 : Quiconque aura mis volontairement obstacle à
+l'accomplissement des devoirs des agents du service forestier sera puni
+d'une amende de 10 000 à 100 000 FCFA.smallcapsrancs et d'un
+emprisonnement de 2 mois à 1 an ou de l'une de ces deux peines
+seulement.

@@ -1,0 +1,1 @@
+Le budget de la commune ou de l'établissement public de coopération intercommunale est approuvé avant le 1<sup>er</sup> janvier de l'exercice auquel il s'applique.

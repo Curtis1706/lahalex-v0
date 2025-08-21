@@ -1,0 +1,14 @@
+Modifié par la loi de finances pour 2024
+1) Toute cessation d’activité ou cession d’une entreprise soumise à l’impôt sur les sociétés ou à l’impôt sur les bénéfices d’affaires fait l’objet d’une information préalable, par écrit ou par voie électronique, adressée à l’administration fiscale trois mois avant le jour de la cessation ou de la cession.
+En cas de cessation d’activité, la lettre d’information indique les nom, prénoms ou raison sociale et adresse de l’exploitant, ainsi que la date d’effet de la cessation. Lorsqu’un contribuable met fin à sa participation à un groupement momentané d’entreprises ou si les  activités  d’un  tel  groupement  ou  association  sont  achevées,  le  mandataire  du groupement est tenu d’informer l’administration fiscale dans les formes et délais prévus au présent paragraphe.
+Lorsqu’il s’agit d’une cession, la lettre adressée à l’administration fiscale est annexée à l’acte de cession et mentionne obligatoirement les nom, prénoms ou raison sociale et adresse du cédant et du cessionnaire, ainsi que la date d’effet de la cession.
+2) Dans les cas de suspension ou d’arrêt provisoire d’activité, l’entreprise doit souscrire
+auprès de l’inspecteur des impôts compétent, une déclaration fiscale sur un imprimé spécial de suspension d’activité.
+La déclaration doit être effectuée dans un délai maximum de dix (10) jours à compter de la date de l’arrêt. Les entreprises ayant déclaré une suspension d’activité ne sont pas dispensées de la souscription des déclarations périodiques.
+À  l’expiration  de  la  période  de  suspension  d’activité,  l’entreprise  devra obligatoirement souscrire soit une déclaration de cessation d’activité, soit une déclaration de reprise d’activité auprès de son service de rattachement.
+3) Dans  les  trente  (30)  jours  suivant  la  cessation  ou  la  cession,  les  redevables
+transmettent une déclaration de résultat dans les conditions prévues aux articles 49 et suivants du présent code et sous peine des sanctions en cas de retard ou d’insuffisance.
+Les bénéfices réalisés au cours de l’année ou de l’exercice de la cessation ou de la cession jusqu’au jour de celle-ci, sont imposables d’après les règles en vigueur à la date de la déclaration.
+En cas de cession, qu’elle ait lieu à titre onéreux ou à titre gratuit, qu’il s’agisse d’une vente forcée ou volontaire, le cessionnaire est solidairement responsable avec le cédant ou les ayants droit de celui-ci du paiement de l’impôt dû au titre des bénéfices, y compris les plus-values, dû par le cédant jusqu’à la date de la cession.
+4) Les dispositions du présent article sont également applicables en cas de décès de
+l’exploitant. Les renseignements nécessaires pour l’établissement de l’impôt dû au titre des bénéfices sont alors produits par les ayants droit du défunt dans les six (6) mois de la date du décès.

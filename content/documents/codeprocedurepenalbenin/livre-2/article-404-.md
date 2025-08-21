@@ -1,0 +1,2 @@
+La personne déférée en vertu de l’article 402 du présent code est avertie par le président qu’elle a le droit de réclamer un délai pour préparer sa défense; mention de l’avis donné par le président et de la réponse du prévenu est faite dans le jugement.
+Si le prévenu use de la faculté indiquée à l’alinéa précédent, le tribunal lui accorde un délai de trois (03) jours ouvrables au moins.

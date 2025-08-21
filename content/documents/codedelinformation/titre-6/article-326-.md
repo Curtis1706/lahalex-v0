@@ -1,0 +1,1 @@
+Est interdite, sous peine de sanctions prévues aux articles 328 et 329 de la présente loi, toute imitation de mise en page, texte, slogan, présentation visuelle, musique, effets sonores ou d’autres messages publicitaires lorsque cette imitation risque d’entraîner des erreurs ou des confusions.

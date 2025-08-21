@@ -1,0 +1,2 @@
+L'utilisation abusive et intempestive des haut-parleurs, des avertisseurs sonores et l'installation de toute activité bruyante sont interdites dans les agglomérations, sauf autorisation spéciale de l'autorité communale.
+En tout état de cause, elles sont interdites de treize (13) heures à quinze (15) heures et de vingt-deux (22) heures à sept (07) heures.

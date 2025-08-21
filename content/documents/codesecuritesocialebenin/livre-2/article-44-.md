@@ -1,0 +1,1 @@
+Les allocations familiales sont attribuées aux travailleurs pour chacun des enfants à charge tels qu’ils sont définis aux articles 114 et 115 de la présente loi et pour compter de leur date de naissance.

@@ -1,0 +1,1 @@
+Le taux minimum et le taux maximum de l’amende applicables aux personnes morales sont égaux au quintuple de ceux prévus pour les personnes physiques par la loi qui réprime l’infraction.

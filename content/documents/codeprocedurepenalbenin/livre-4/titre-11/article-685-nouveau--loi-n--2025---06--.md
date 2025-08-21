@@ -1,0 +1,2 @@
+Le tribunal de première instance ou la cour d'appel, statuant en matière criminelle, siège selon le calendrier de ses audiences ordinaires.
+Sans préjudice de la tenue éventuelle d'audiences extraordinaires, l’intervalle entre deux audiences ordinaires ne peut excéder quinze jours.

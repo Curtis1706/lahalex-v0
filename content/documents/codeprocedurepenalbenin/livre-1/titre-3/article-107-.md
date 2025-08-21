@@ -1,0 +1,2 @@
+La décision du juge d’instruction peut être déférée à la chambre de l’instruction sur simple requête dans les quinze (15) jours de sa notification aux parties intéressées.
+Le tiers peut, au même titre que les parties, être entendu par la chambre de l’instruction en ses observations, mais il ne peut prétendre à la mise à sa disposition de la procédure.

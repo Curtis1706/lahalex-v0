@@ -1,0 +1,2 @@
+Le directeur général des élections est révocable pour faute lourde établie par décision de justice.
+Les directeurs techniques sont révocables pour faute lourde après délibération des membres du Conseil électoral et avis conforme du ministre chargé de la fonction publique.

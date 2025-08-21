@@ -1,0 +1,1 @@
+L’accusé comparait libre et seulement accompagné de garde pour l’empêcher de s’évader.

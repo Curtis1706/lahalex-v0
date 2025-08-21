@@ -1,0 +1,1 @@
+Les chefs d’une rébellion et ceux qui l’ont provoquée pourront en outre être condamnés à l’interdiction de séjour pendant une durée de deux (02) ans à dix (10) ans et à la privation des droits mentionnés à l’article 38 du présent code.

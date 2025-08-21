@@ -1,0 +1,1 @@
+Le secrétariat exécutif regroupe sous l'autorité du secrétaire exécutif, tous les services administratifs et techniques de la mairie.

@@ -1,0 +1,3 @@
+Article 331-17 : Politique de placement
+Le Conseil d’Administration ou le Conseil de Surveillance fixe, au moins annuellement, les lignes directrices de la politique de placement. Il se prononce en particulier sur les modalités de choix des intermédiaires financiers, sur la gestion actif-passif, sur la qualité et la répartition des actifs au regard des impératifs de diversification et de dispersion.
+A cet effet, il s’appuie sur son rapport de gestion mentionné à l’article 426 qui, dans une partie distincte relative aux placements, présente les résultats obtenus au cours de la période écoulée pour chaque portefeuille et chaque catégorie de placements.

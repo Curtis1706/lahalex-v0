@@ -1,0 +1,1 @@
+La chambre d’accusation exerce un contrôle sur l’activité des agents de l’Etat, civils et militaires, officiers et agents supérieurs de police judiciaire pris en cette qualité.

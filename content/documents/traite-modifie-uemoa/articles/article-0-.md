@@ -1,0 +1,17 @@
+PREAMBULE
+Le Gouvernement de la République du Bénin,
+Le Gouvernement du Burkina Faso,
+Le Gouvernement de la République de Côte d’Ivoire, Le Gouvernement de la République de Guinée-Bissau, Le Gouvernement de la République du Mali,
+Le Gouvernement de la République du Niger,
+Le Gouvernement de la République du Sénégal,
+Le Gouvernement de la République Togolaise,
+- Fidèles aux objectifs de la Communauté Economique Africaine et de la Communauté Economique des Etats de l'Afrique de l'Ouest (CEDEAO),
+- Conscients des avantages mutuels qu'ils tirent de leur appartenance à la même Union Monétaire et de la nécessité de renforcer la cohésion de celle-ci,
+- Convaincus de la nécessité d'étendre en conséquence au domaine économique la solidarité qui les lie déjà sur le plan monétaire,
+- Affirmant la nécessité de favoriser le développement économique et social des Etats membres, grâce à l'harmonisation de leurs législations, à l'unification de leurs marchés intérieurs et à la mise en oeuvre de politiques sectorielles communes dans les secteurs essentiels de leurs économies,
+- Reconnaissant l'interdépendance de leurs politiques économiques et la nécessité d'assurer leur convergence,
+- Déterminés à se conformer aux principes d'une économie de marché ouverte, concurrentielle et favorisant l'allocation optimale des ressources,
+- Désireux de compléter à cet effet l'Union Monétaire Ouest Africaine (UMOA) par de nouveaux transferts de souveraineté et de transformer cette Union en Union Economique et Monétaire Ouest Africaine (UEMOA), dotée de compétences nouvelles,
+- Affirmant la nécessité de renforcer la complémentarité de leurs appareils de production et de réduire les disparités de niveaux de développement entre les Etats membres,
+- Soulignant que leur démarche s'inscrit dans la logique des efforts d'intégration régionale en cours en Afrique, et appelant les autres Etats de l'Afrique de l'Ouest qui partagent leurs objectifs à se joindre à leurs efforts,
+Conviennent de ce qui suit :

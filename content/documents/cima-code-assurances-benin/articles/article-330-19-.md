@@ -1,0 +1,2 @@
+Article 330-19 : Assemblées générales prohibition des conditions d’accès censitaire
+Sont nulles les clauses statutaires qui subordonnent à une condition de montant de cotisation la participation à l’assemblée générale ou à l’élection des membres de l’assemblée générale de sociétaires à jour de leurs cotisations.

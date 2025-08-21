@@ -1,0 +1,1 @@
+A défaut de conventions spéciales entre toutes les parties, les avaries sont réglées conformément aux dispositions du présent chapitre.

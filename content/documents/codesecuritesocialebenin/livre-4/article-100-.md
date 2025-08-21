@@ -1,0 +1,2 @@
+Les pensions peuvent être révisées à tout moment en cas d’erreur ou d’omission quelle que soit la nature de celleci. Elles peuvent être modifiées ou supprimées si l’attribution des droits a été faite dans des conditions contraires aux prescriptions de la présente loi.
+La restitution des sommes indûment perçues est obligatoire si la mauvaise foi du pensionné est établie.

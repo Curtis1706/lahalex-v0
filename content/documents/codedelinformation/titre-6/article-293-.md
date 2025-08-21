@@ -1,0 +1,1 @@
+En cas de violation des dispositions prévues à l’article 201 de la présente loi, les contrevenants seront passibles d’une amende de cinq cent mille (500 000) francs à cinq millions (5 000 000) de francs CFA.

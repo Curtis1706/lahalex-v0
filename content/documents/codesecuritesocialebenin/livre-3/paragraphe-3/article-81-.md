@@ -1,0 +1,6 @@
+1) Les rentes de survivants sont fixées en pourcentage de la fraction de la rémunération servant de base au calcul de la rente d’incapacité permanente, à raison de :
+a) 30 % pour le conjoint survivant. En cas de pluralité de veuves, le montant est réparti définitivement entre elles par parts égales ;
+b) pour les orphelins de père ou de mère, 15 % s’il n’y a qu’un enfant, 30 % s’il y en a deux et 10 % par enfant à partir du troisième ;
+c) 10 % pour chaque ascendant à charge.
+2) Le montant total des rentes auxquelles ont droit les survivants de la victime ne peut dépasser 85 % de la rente d’incapacité permanente totale à laquelle celleci avait eu droit. Si le total des rentes calculées conformément aux dispositions du présent article devait dépasser cette limite, chacune des rentes serait réduite en proportion. Cette réduction est définitive.
+2) Le droit à la rente de conjoint s’éteint en cas de remariage ou de concubinage notoire dûment constaté. Toutefois, une allocation de remariage égale à six fois sa rente mensuelle lui est attribuée.

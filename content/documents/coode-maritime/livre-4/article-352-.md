@@ -1,0 +1,1 @@
+Le chargeur qui ne présente pas ses marchandises aux temps et lieu conformément à l’article 347 ci-dessus, paiera en indemnité la moitié du fret convenu au prorata de la quantité de la marchandise non chargée.

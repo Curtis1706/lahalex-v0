@@ -1,0 +1,4 @@
+Mise 	en 	œuvre 	de 	l’accès 	et 	de l’interconnexion
+Toute demande d’accès ou d’interconnexion ne peut être refusée si elle est justifiée au regard, d'une part, des besoins du demandeur et d’autre part, des capacités de l’opérateur à la satisfaire. Elle peut être refusée si elle est techniquement impossible à satisfaire, notamment au regard de l'interopérabilité des équipements et systèmes.
+Toute décision de refus d’accès ou d’interconnexion opposée par un opérateur doit être motivée. Elle est notifiée au demandeur et portée à la connaissance de l’Autorité de régulation, ainsi qu’à l’autorité de régulation nationale du pays dans lequel est établi l’opérateur non national, le cas échéant.
+A la demande des parties, l’Autorité de régulation peut les assister dans les négociations des accords d’accès et d’interconnexion.

@@ -1,0 +1,16 @@
+{
+  "id": "article-91-",
+  "title": "Article 91 :",
+  "numero": "91 ",
+  "document": "code-general-impots-2025",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-3"
+  ],
+  "navigation": {
+    "parent": "chapitre-3",
+    "previous": "article-90-",
+    "next": "article-92-"
+  }
+}

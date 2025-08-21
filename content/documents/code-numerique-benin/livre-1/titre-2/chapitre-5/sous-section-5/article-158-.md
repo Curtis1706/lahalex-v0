@@ -1,0 +1,4 @@
+Preuve du respect des obligations de nature tarifaire
+Lorsqu’un opérateur est soumis à une obligation de nature tarifaire, notamment une obligation d’orientation des prix en fonction des coûts, il lui incombe de prouver que ses tarifs sont déterminés en fonction des coûts, en tenant compte d’un retour sur investissements raisonnable.
+Afin de calculer les coûts de la fourniture d’une prestation efficace, l’Autorité de régulation peut utiliser des méthodes de comptabilisation des coûts distinctes de celles appliquées par l’opérateur.
+L’Autorité de régulation peut demander à un opérateur de justifier intégralement ses prix et, si nécessaire, en exiger l’adaptation.

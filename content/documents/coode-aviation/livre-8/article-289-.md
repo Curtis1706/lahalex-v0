@@ -1,0 +1,1 @@
+Les conditions de délivrance de l'agrément visé à l'article 288 de la présente loi sont fixées par voie réglementaire et portent notamment sur l'organisation administrative et technique de la structure, les moyens humains et matériels, les garanties financière et morale, le programme de formation.

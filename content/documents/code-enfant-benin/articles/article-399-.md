@@ -1,0 +1,1 @@
+Article 399 : Les actes de violences et voies de fait, la privation d’aliments et de soins, l’incitation à la débauche ou à la mendicité, l’attentat à la pudeur et le viol, les coups et blessures volontaires exercés ou portés sur la personne d’un enfant constituent des circonstances aggravantes de la traite d’enfants.

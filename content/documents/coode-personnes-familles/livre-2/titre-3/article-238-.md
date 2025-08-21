@@ -1,0 +1,1 @@
+Lorsque l’un d’eux se trouve dans l’impossibilité de se rendre auprès du juge, ce magistrat détermine le lieu où sera tentée la conciliation ou donne commission rogatoire pour entendre la partie empêchée.

@@ -1,0 +1,2 @@
+Celui qui, sans fraude ni violence, a enlevé ou détourné, ou tenté d’enlever ou de détourner un mineur, est puni d’un emprisonnement de deux (02) ans à cinq (05) ans et d’une amende de cent mille (100.000) francs CFA à cinq cent mille (500.000) francs CFA.
+Lorsqu’une mineure ainsi enlevée ou détournée aura épousé son ravisseur, celui-ci ne pourra être poursuivi que sur la plainte des personnes qui ont qualité pour demander l’annulation du mariage et ne pourra être condamné qu’après que cette annulation a été prononcée.

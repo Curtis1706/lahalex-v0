@@ -1,0 +1,2 @@
+Siège de l’Autorité de régulation
+Le siège de l’Autorité de régulation est fixé à Cotonou. Toutefois, il peut être transféré en tout autre lieu du territoire national si les circonstances l’exigent, par décret pris en Conseil des Ministres, sur proposition du Ministre chargé des communications électroniques, après avis de l’Autorité de régulation.

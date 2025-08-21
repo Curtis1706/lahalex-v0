@@ -1,0 +1,2 @@
+Article 124 : Pratique de divertissements
+Les enfants, selon leur âge et en fonction de leurs capacités physiques, pratiquent les jeux, loisirs et activités socioculturelles, artistiques et sportives non contraires aux bonnes mœurs.

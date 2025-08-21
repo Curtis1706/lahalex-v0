@@ -1,0 +1,1 @@
+Toute personne qui menace de commettre l’une des infractions visées à l’article 232 du présent code, sera punie d’une peine d’emprisonnement de six (06) mois à deux (02) ans.

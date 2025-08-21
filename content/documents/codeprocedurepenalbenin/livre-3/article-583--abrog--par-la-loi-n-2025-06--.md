@@ -1,0 +1,2 @@
+Peuvent toutefois donner lieu à un recours en cassation de la part des parties auxquelles ils font grief, les arrêts prononcés par la cour d’assises, soit après acquittement, soit après absolution dans les conditions prévues par l’article 367 du présent code.
+Il en est de même des arrêts statuant sur les restitutions, comme il est prévu à l’article 370 du présent code.

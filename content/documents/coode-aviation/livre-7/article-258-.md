@@ -1,0 +1,4 @@
+Le ministre chargé de l'aviation civile, sur proposition de l'organisme national en charge de l'aviation civile, limite le nombre de prestataires de services pour une ou plusieurs catégories de services d’assistance en escale lorsque :
+- le niveau d'activité ne permet pas l'existence de plusieurs opérateurs avec les garanties de continuité du service public ;
+- les contraintes spécifiques d'espace ou de capacité disponible, notamment en fonction de l'encombrement et du taux d'utilisation des surfaces, entraînent une impossibilité d'ouverture du marché de l'assistance en escale ;
+- les contraintes spécifiques de sécurité ou de sûreté l'imposent.

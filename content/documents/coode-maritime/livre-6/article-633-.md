@@ -1,0 +1,1 @@
+Les dispositions des articles 627 à 639 inclus sont applicables aux personnes, même étrangères, qui se trouvent sur un navire étranger lorsque l’infraction a eu lieu dans les eaux maritimes et jusqu’à la limite des eaux territoriales de la République du Bénin.

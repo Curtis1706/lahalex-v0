@@ -1,0 +1,5 @@
+Contributions des Etats membres
+1. Le mode de calcul des contributions des Etats Membres et les monnaies de leur paiement sont déterminés par le Conseil.
+1. Les Etats Membres s'engagent à effectuer le virement de leurs quotes-parts de contributions à la Communauté, suivant les mécanismes prévus
+1. Si un Etat membre est en retard de plus d'un an dans le reversement de sa quote-part budgétaire, pour des raisons autres que des troubles publics ou des catastrophes naturelles ou toute autre circonstance exceptionnelle portant gravement atteinte à son économie, ledit Etat peut, en vertu d'une décision de la Conférence, être privé du droit de prendre part aux activités de la Communauté et cesser de bénéficier des avantages prévus au titre du présent Traité.
+1. Les situations exceptionnelles évoquées au paragraphe 3 ci-dessus sont constatées par la Conférence, sur saisine du Président de la Commission.

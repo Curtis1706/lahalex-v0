@@ -1,0 +1,1 @@
+Quiconque a aliéné ou tenté d’aliéner la personne ou la liberté d’un mineur est condamné à la réclusion criminelle à perpétuité.

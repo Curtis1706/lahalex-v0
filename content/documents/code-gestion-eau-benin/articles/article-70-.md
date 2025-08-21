@@ -1,0 +1,1 @@
+Article 70 : La mise en mouvement de l’action publique devant les juridictions compétentes appartient au ministère public, au ministre, aux victimes ou à leurs ayants droit, ainsi qu'aux associations de protection de l'environnement.

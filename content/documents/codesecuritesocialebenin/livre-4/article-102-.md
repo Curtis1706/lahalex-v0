@@ -1,0 +1,1 @@
+Dans la détermination de la rémunération mensuelle moyenne toute augmentation de salaire supérieure à 10 % par an au cours des 10 dernières années de la carrière n’est pas en considération.

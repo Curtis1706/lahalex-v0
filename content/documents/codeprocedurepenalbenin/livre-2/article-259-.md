@@ -1,0 +1,1 @@
+Les assesseurs sont désignés par ordonnance du président de la cour d’appel parmi les conseillers ou à défaut parmi les magistrats du siège en fonction dans un tribunal de première instance du ressort de la cour d’appel.

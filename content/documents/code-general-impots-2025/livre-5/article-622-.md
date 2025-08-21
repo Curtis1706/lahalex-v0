@@ -1,0 +1,3 @@
+1) A défaut de biens meubles saisissables et lorsqu’il s’avère qu’il n’existe aucun autre moyen d’obtenir le paiement des sommes dues par le contribuable, il est dressé un procès-verbal de carence par l’agent de poursuites qui se fait assister à cet effet par un agent de la force publique.
+L’agent de la force publique contresigne le procès-verbal qui constate la carence. 2) Dans le cas d’insolvabilité notoire, l’agent de poursuites doit obtenir du maire un
+certificat attestant l’indigence du contribuable. Un procès-verbal de carence est dressé en double exemplaires, l’un joint à l’état des cotes irrécouvrables, l’autre mis à l’appui de l’état des frais à l’agent de poursuites.

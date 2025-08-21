@@ -1,0 +1,1 @@
+Article 379 : Le fait d’attenter aux mœurs, en incitant à la débauche et à la pornographie un enfant, est puni de six (06) mois à cinq (05) ans d’emprisonnement et d’une amende de cent mille (100 000) à cinq cent mille (500 000) francs CFA.

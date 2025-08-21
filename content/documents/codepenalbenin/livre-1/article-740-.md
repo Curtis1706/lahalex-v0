@@ -1,0 +1,1 @@
+Les dispositions des articles 735 et 738 du présent code sont applicables aux avances, crédits, prêts, avals ou garanties accordés par les sociétés, consortiums ou organismes privés de commercialisation agréés par l’Etat dans les conditions fixées par celui-ci.

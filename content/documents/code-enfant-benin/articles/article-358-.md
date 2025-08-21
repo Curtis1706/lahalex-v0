@@ -1,0 +1,1 @@
+Article 358 : Est puni de trois (3) mois à deux (02) ans d’emprisonnement et d’une amende de deux cent cinquante mille (250 000) à cinq cent mille (500 000) francs CFA, tout parent, tout tuteur ou tout gardien d’un enfant qui refuse ou s’oppose aux traitements, aux soins et de fait à la guérison de l’enfant malade, quelles que soient les raisons.

@@ -1,0 +1,3 @@
+Absence d'obligation générale de surveillance
+Les opérateurs fournissant un accès à internet et les fournisseurs de services en ligne ne sont pas soumis à une obligation générale de surveiller les informations qu'ils transmettent ou stockent, ni à une obligation générale de rechercher des faits ou des circonstances révélant des activités illicites. Ils sont toutefois tenus à l'obligation de vigilance prévue à l'article 377 du présent code.
+Le précédent alinéa est sans préjudice de toute activité de surveillance ciblée et temporaire demandée par les services de police, de gendarmerie ou l'autorité judiciaire.

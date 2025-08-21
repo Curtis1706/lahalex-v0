@@ -1,0 +1,1 @@
+Toute naissance, tout décès concernant un étranger se trouvant au Bénin doit être obligatoirement déclaré à l’officier de l’état civil béninois dans les formes et conditions prévues par le présent code.

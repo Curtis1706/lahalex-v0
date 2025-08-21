@@ -1,0 +1,1 @@
+Le délaissement est notifié à l’assureur par lettre recommandée ou par tout acte extra-judiciaire. 2 doit intervenir dans les trois mois de la connaissance de l’événement qui y donne lieu, ou de l’expiration du délai qui le permet.

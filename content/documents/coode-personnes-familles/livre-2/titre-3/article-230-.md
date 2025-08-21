@@ -1,0 +1,1 @@
+Le jugement constatant le divorce par consentement mutuel est rédigé dans la forme des jugements ordinaires. Il mentionne expressément que le consentement des époux a été librement donné et que rien dans les accords relatifs à la situation des biens et au sort des enfants n'apparaît comme étant contraire à l'ordre public et aux bonnes mœurs.

@@ -1,0 +1,2 @@
+Aucune poursuite pour violation du secret professionnel ne pourra être engagée contre les dirigeants ou préposés des organismes énumérés à l’article 563 du présent code, même si les enquêtes ou décisions judiciaires ultérieures révèlent que la déclaration qu’ils ont effectuée de bonne foi était sans fondement.
+L’indemnisation du préjudice éventuellement subi par les personnes concernées par la déclaration incombe exclusivement à l’Etat.

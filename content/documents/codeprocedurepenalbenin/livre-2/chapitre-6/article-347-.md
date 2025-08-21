@@ -1,0 +1,3 @@
+Une fois l’instruction à l’audience terminée, la victime, ses ayants droit, ou leurs représentants sont entendus, en leurs moyens et font part de leur intention de se constituer partie civile. Le ministère public prend ses réquisitions.
+L’accusé et son avocat présentent leur défense.
+La réplique est permise à la partie civile ou son avocat et au ministère public mais l’accusé ou son avocat ont toujours la parole les derniers.

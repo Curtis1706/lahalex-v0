@@ -1,0 +1,1 @@
+Le tribunal ordonnera que la décision portant condamnation pour infraction au contrôle des changes ou aux dispositions de l’article 660 sera, aux frais de la personne condamnée, insérée en entier ou par extraits dans les journaux qu’il désignera.

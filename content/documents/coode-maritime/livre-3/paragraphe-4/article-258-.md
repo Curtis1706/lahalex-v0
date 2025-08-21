@@ -1,0 +1,2 @@
+Les avances et les délégations ne sont pas restituées en cas de rupture du contrat d’engagement par le fait de l’armateur, du capitaine ou des affréteurs, ainsi qu’en cas de force majeure.
+En cas de rupture du contrat d’engagement par le fait du marin, les avances et les délégations doivent être restituées par le marin quand elles excèdent le montant du salaire ou des parts effectivement dues à celui-ci.

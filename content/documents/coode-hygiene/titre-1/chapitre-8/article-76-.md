@@ -1,0 +1,1 @@
+En l'absence d'un réseau d'adduction publique d'eau, les conditions d'utilisation des puits et des forages particuliers pour la consommation sont déterminées par voie réglementaire.

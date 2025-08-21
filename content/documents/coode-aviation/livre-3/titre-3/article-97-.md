@@ -1,0 +1,1 @@
+L'exploitant d'un aéronef est responsable de plein droit des dommages causés aux tiers situés à la surface, par les évolutions de l’aéronef ou par les personnes ou objets qui en tombent.

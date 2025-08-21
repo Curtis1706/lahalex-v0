@@ -1,0 +1,15 @@
+{
+  "id": "article-69-",
+  "title": "Article 69 : L'électeur n'est autorisé à voter que dans son poste de vote.",
+  "numero": "69 ",
+  "document": "code-electoral",
+  "path": [
+    "livre-1",
+    "titre-5"
+  ],
+  "navigation": {
+    "parent": "titre-5",
+    "previous": "article-68-",
+    "next": "article-70-"
+  }
+}

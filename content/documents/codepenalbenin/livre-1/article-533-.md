@@ -1,0 +1,1 @@
+Constitue une excuse atténuante, toute cause limitativement prévue par la loi et dont l’admission, sans faire disparaître l’infraction, entraine une atténuation obligatoire de la peine encourue.

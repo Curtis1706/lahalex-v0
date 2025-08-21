@@ -1,0 +1,1 @@
+La déduction des frais de développement doit être étalée sur quatre (4) ans si leur montant est supérieur à un million (1 000 000) de francs CFA.

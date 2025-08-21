@@ -1,0 +1,1 @@
+Est tenue au secret professionnel dans les termes de l’article 510 du présent code, et passible des peines prévues audit article, toute personne appelée, à l’occasion de ses fonctions ou attributions, à intervenir dans l’établissement, la perception ou le contentieux des impôts et taxes visés par le présent code.

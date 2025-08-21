@@ -1,0 +1,3 @@
+Le complot ayant pour but les crimes mentionnés à l’article 193, s’il a été suivi d’un acte commis ou commencé pour en préparer l’exécution, est puni de la détention criminelle à temps de dix (10) ans à vingt (20) ans.
+Si le complot n’a pas été suivi d’un acte commis ou commencé pour en préparer l’exécution, la peine est celle de la détention criminelle à temps de cinq (05) ans à dix (10) ans.
+Constitue un complot, la résolution arrêtée entre plusieurs personnes de commettre un attentat lorsque cette résolution est concrétisée par un ou plusieurs actes matériels.

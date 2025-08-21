@@ -1,0 +1,14 @@
+{
+  "id": "article-333-1-",
+  "title": "Article 333-1 : Sanctions",
+  "numero": "333-1 ",
+  "document": "cima-code-assurances-benin",
+  "path": [
+    "livre-3"
+  ],
+  "navigation": {
+    "parent": "livre-3",
+    "previous": "article-333-",
+    "next": "article-333-1-1-"
+  }
+}

@@ -1,0 +1,1 @@
+Quiconque exploite un ouvrage ou une installation, réalise des travaux ou exerce une activité en violation d’une mesure de cessation, d’interdiction, de suspension ou de destruction ordonnée par une juridiction, est puni de la peine visée à l’article 866 ci-dessus.

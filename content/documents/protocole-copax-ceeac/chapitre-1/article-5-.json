@@ -1,0 +1,14 @@
+{
+  "id": "article-5-",
+  "title": "Article 5 : POLITIQUES COMMUNAUTAIRES",
+  "numero": "5 ",
+  "document": "protocole-copax-ceeac",
+  "path": [
+    "chapitre-1"
+  ],
+  "navigation": {
+    "parent": "chapitre-1",
+    "previous": "article-4-",
+    "next": "article-6-"
+  }
+}

@@ -1,0 +1,1 @@
+Les règles édictées pour le tribunal de première Instance sont applicables devant la cour d’appel sous réserve des dispositions suivantes.

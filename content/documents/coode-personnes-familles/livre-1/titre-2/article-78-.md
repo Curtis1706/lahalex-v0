@@ -1,0 +1,2 @@
+En cas de décès dans les établissements pénitentiaires ou de rééducation, la déclaration en sera faite dans les quarante-huit (48) heures par les directeurs, régisseurs ou gardiens, à l’officier de l’état civil qui en rédigera l’acte, au vu du certificat de décès établi par un médecin.
+En cas d’exécution capitale, le greffier est tenu, dans les quarante-huit (48) heures de l’exécution, de faire la déclaration de décès à l’officier de l’état civil du lieu où le condamné a été exécuté.

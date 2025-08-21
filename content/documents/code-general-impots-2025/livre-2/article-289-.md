@@ -1,0 +1,1 @@
+Le taux de la taxe est fixé à 10%.

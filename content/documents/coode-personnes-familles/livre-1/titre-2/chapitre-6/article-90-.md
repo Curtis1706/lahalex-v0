@@ -1,0 +1,1 @@
+En cas de divorce ou de séparation de corps, l’un des conjoints peut obtenir, sur présentation du livret conservé par l’autre, qu’il lui en soit remis une copie conforme.

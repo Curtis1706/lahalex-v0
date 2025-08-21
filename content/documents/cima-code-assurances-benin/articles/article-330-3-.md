@@ -1,0 +1,2 @@
+Article 330-3 : Documents émis, mentions
+Les sociétés d’assurance mutuelles régies par la présente section doivent faire figurer dans leurs statuts et dans tous les documents prévus à l’article 304 l’une des deux mentions ci-après imprimées en caractères uniformes : « Société d’assurance mutuelle à cotisations fixes » ou « Société d’assurance mutuelle à cotisations variables », suivant le régime des cotisations appliqué aux sociétaires.

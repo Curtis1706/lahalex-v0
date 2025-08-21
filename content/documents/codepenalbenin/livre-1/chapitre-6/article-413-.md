@@ -1,0 +1,3 @@
+Dans l’un et l’autre des cas exprimés à l’article précédent le coupable peut de plus être interdit de séjour pendant cinq (05) ans à dix (10) ans du lieu où siège le magistrat.
+Cette disposition a son exécution à dater du jour où le condamné aura subi sa peine.
+Si le condamné enfreint cette décision avant l’expiration du temps fixé, il peut être condamné à une peine d’emprisonnement ne pouvant être inférieure à cinq (05) ans.

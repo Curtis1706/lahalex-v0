@@ -1,0 +1,2 @@
+En République du Bénin, l’autorité maritime, saisie par le capitaine ou l’un des officiers ou agents énumérés à l’article 660 du présent code, ou agissant d’office, complète s’il y a lieu l’enquête effectuée par le capitaine, ou procède, dès qu’elle a connaissance de l’infraction, à une enquête préliminaire.
+Elle saisit ensuite le procureur de la République dans les conditions prévues aux articles ci-après, sauf si elle estime que les faits ne constituent qu’une faute disciplinaire.

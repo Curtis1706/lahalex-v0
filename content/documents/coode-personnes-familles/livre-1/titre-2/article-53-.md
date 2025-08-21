@@ -1,0 +1,3 @@
+Les registres eux-mêmes ne peuvent être consultés directement par les intéressés.
+Seuls peuvent avoir communication des registres, les magistrats chargés de surveiller la tenue de l’état civil et les agents des administrations publiques qui y sont expressément autorisés par une disposition légale ou réglementaire.
+Toutefois, les registres de l’état civil datant de moins de cent (100) ans peuvent être consultés par les agents de l’Etat habilités à cet effet, et les personnes munies d’une autorisation écrite du procureur de la République.

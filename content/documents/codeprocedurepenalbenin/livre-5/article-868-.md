@@ -1,0 +1,7 @@
+La réhabilitation est acquise de plein droit au condamné qui n’a, dans les délais ci-après déterminés, subi aucune condamnation nouvelle à l’emprisonnement ou à une peine plus grave pour crime ou délit :
+1. pour la condamnation à l’amende, après un délai de cinq (05) ans, à compter du jour du paiement de l’amende ou de l’expiration de la contrainte par corps ou de la prescription accomplie ;
+2. pour la condamnation unique à une peine d’emprisonnement ne dépassant pas six (06) mois, après un délai de dix (10) ans, à compter soit de l’expiration de la peine subie, soit de la prescription accomplie ;
+3. pour la condamnation unique à une peine d’emprisonnement ne dépassant pas deux (02) ans ou pour les condamnations multiples dont l’ensemble ne dépasse pas un (01) an, après un délai de quinze (15) ans compté comme il est dit au 2<sup>ème</sup> point ;
+4. pour la condamnation unique à une peine supérieure à deux (02) ans d’emprisonnement ou pour les condamnations multiples dont l’ensemble ne dépasse pas deux (02) ans, après un délai de vingt (20) ans compté de la même manière.
+Sont, pour l’application des dispositions qui précèdent, considérées comme constituant une condamnation unique, les condamnations dont la confusion a été accordée.
+La remise totale ou partielle d’une peine par voie de grâce équivaut à son exécution totale ou partielle.

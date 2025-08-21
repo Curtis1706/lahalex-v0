@@ -1,0 +1,1 @@
+Les prélèvements se font de commun accord entre les époux ou leurs ayants droit ; en cas de litige, le tribunal civil statue.

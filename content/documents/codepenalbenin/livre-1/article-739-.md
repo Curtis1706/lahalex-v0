@@ -1,0 +1,1 @@
+Lorsque le bénéficiaire du prêt, de l’avance, de la garantie ou de l’aval est une personne morale, ses directeurs, gérants, administrateurs ou mandataires seront punis des peines prévues à l’article 735 du présent code.

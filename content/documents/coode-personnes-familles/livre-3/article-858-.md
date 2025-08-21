@@ -1,0 +1,2 @@
+Le donateur peut stipuler à son profit le droit de retour des objets donnés, soit pour le cas du prédécès du donataire seul, soit pour le cas du prédécès du donataire et de ses descendants.
+Ce droit ne peut être stipulé qu’au profit du donateur seul.

@@ -1,0 +1,1 @@
+Les individus contre lesquels la contrainte a été prononcée peuvent en prévenir ou en faire cesser les effets soit en payant, soit en consignant une somme suffisante pour éteindre la dette.

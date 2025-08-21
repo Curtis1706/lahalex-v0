@@ -1,0 +1,1 @@
+Le président peut, à tout moment, ordonner que le mineur se retire pendant tout ou partie des débats. Il peut de même ordonner aux témoins de se retirer après leur audition.

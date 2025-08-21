@@ -1,0 +1,15 @@
+{
+  "id": "article-47-",
+  "title": "Article 47 :",
+  "numero": "47 ",
+  "document": "traite-revise-ceeac",
+  "path": [
+    "titre-2",
+    "chapitre-6"
+  ],
+  "navigation": {
+    "parent": "chapitre-6",
+    "previous": "article-46-",
+    "next": "article-48-"
+  }
+}

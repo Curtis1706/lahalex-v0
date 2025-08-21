@@ -1,0 +1,3 @@
+Sont compétents, le procureur de la République du lieu de l’infraction, celui de la résidence de l’une des personnes soupçonnées d’avoir participé à l’infraction, celui du lieu d’arrestation ou de détention d’une de ces personnes, même lorsque cette arrestation ou détention a été opérée pour une autre cause.
+Au cas où aucun de ces liens de rattachement prévus à l’alinéa 1<sup>er</sup> ne serait déterminé, le procureur de la République près le tribunal de première instance de Cotonou est compétent.
+Toutefois, en matière de contravention, sauf connexité avec un crime ou un délit, est seul compétent, le procureur de la République du lieu de l’infraction.

@@ -1,0 +1,3 @@
+Principe général
+Toute personne exerçant une activité de commerce électronique en République du Bénin ou à destination des utilisateurs établis sur le territoire de la République du Bénin, fournit des biens ou services conformément aux contrats conclus avec les utilisateurs, et répond des défauts de conformité existant à la livraison.
+Elle répond également des défauts de conformité résultant de l'emballage, des instructions de montage ou de l'installation lorsque ceux-ci ont été mis à sa charge par le contrat ou ont été réalisés sous sa responsabilité.

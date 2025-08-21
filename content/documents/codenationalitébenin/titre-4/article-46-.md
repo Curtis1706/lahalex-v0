@@ -1,0 +1,1 @@
+Est réintégré de plein droit par arrêté du ministre chargé de la justice, sur simple demande portant renonciation à la déclaration prévue à l'article 38 cidessus et sans condition probatoire, le Béninois qui n'a pu obtenir la nationalité étrangère pour laquelle il avait sollicité la répudiation de la nationalité béninoise.

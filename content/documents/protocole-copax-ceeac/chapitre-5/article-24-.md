@@ -1,0 +1,3 @@
+FINANCEMENT
+1. Le fonctionnement des structures du COPAX et de ses instruments de mise en œuvre relève du budget de la Commission de la CEEAC.
+1. Il est institué un fonds d’affectation spéciale dénommé « Fonds COPAX », destiné au financement des activités majeures et des missions mandatées par la Conférence. Les modalités de constitution et de fonctionnement dudit fonds sont définies par le Conseil des Ministres de la CEEAC.

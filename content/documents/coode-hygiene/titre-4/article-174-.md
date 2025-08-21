@@ -1,0 +1,1 @@
+Les auteurs d'une violation des dispositions des articles 127, 128 et 129 sont passibles d'un emprisonnement de un (01) mois à 24 mois et d'une amende de cinq cent mille (500 000) à cinq millions (5 000 000) FCFA ou de l'une de ces peines seulement.

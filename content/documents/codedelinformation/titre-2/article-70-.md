@@ -1,0 +1,2 @@
+Tout citoyen a le droit d’accéder aux documents ou aux renseignements détenus par un organisme public ou par ses agents dans l’exercice de leurs fonctions.
+Ce droit s’exerce sur lesdits documents ou renseignements, qu’ils soient conservés par l’organisme public ou par un tiers.

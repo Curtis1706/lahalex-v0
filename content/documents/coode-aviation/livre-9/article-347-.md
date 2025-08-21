@@ -1,0 +1,3 @@
+Toutes les dispositions des lois relatives à la répression des infractions à la réglementation douanière sont applicables aux marchandises importées ou exportées par aéronef sous un régime douanier quelconque.
+Tout transport, déchargement ou jet de marchandises non autorisé autre que ce qui est indispensable à la sécurité de l'aéronef est sanctionné par les peines édictées par la réglementation douanière en matière de contrebande.
+En cas d'infraction, l'aéronef peut être immobilisé pour garantir le paiement de l'amende encourue, conformément à la législation douanière.

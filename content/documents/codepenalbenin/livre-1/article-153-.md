@@ -1,0 +1,1 @@
+L’amnistie ne préjudicie pas aux tiers.

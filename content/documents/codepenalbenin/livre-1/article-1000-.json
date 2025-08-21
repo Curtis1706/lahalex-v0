@@ -1,0 +1,14 @@
+{
+  "id": "article-1000-",
+  "title": "Article 1000 : L’article 986 du présent code est applicable à toutes les contraventions de police, sauf le cas où la loi en dispose autrement.",
+  "numero": "1000 ",
+  "document": "codepenalbenin",
+  "path": [
+    "livre-1"
+  ],
+  "navigation": {
+    "parent": "livre-1",
+    "previous": "article-999-",
+    "next": "article-1001-"
+  }
+}

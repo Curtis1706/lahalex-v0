@@ -1,0 +1,1 @@
+Le préfet adresse à la fin de chaque année un rapport sur l’état de la tutelle, au ministre chargé de l’administration territoriale.

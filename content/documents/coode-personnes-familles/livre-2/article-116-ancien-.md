@@ -1,0 +1,1 @@
+Les fiançailles ne peuvent être contractées que si les parties remplissent les conditions de fond exigées pour le mariage ; en particulier, chacun des fiancés doit donner librement son consentement, indépendamment du consentement des parents, nécessaire aux mineurs.

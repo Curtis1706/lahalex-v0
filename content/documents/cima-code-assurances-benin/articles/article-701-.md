@@ -1,0 +1,8 @@
+Article 701 : Dispositions générales relatives aux règles applicables au contrat de micro assurance
+Les dispositions du Livre I sont applicables au contrat de micro assurance à l’exclusion de celles de l’article 41 relatif à l’aliénation des véhicules terrestres à moteur, de celles des articles 51, 52, 53, 54 relatifs aux assurances de responsabilités et de celles de l’article 74 relatif aux valeurs de réduction et de rachat, avances.
+Les principes de gestion du risque généralement acceptés sont applicables à la micro assurance.
+Le contrat de micro assurance doit être rédigé dans un langage simple, clair et facilement compréhensible par la population cible.
+Par dérogation aux dispositions de l’article 7, le contrat de micro assurance peut être traduit et commercialisé dans la langue locale de la population cible. En cas de litige, la version en langue officielle fait foi sauf si la traduction en langue locale est plus favorable à l’assuré.
+Les clauses relatives à l’envoi d’une lettre recommandée par l’assuré avec demande d’avis de réception prescrites aux articles 12, 21, 26, 40, 65, 91 et 97 sont facultatives dans le cadre des opérations de micro-assurance. L’envoi d’une simple lettre suffit pour attester de l’exécution de l’obligation du souscripteur ou de l’assuré.
+Le délai de résiliation de deux mois minimum prévu à l’article 21 peut être réduit contractuellement.
+Dans le cas de la souscription d’un contrat de micro assurance par une personne morale, une entreprise ou une communauté, une attestation ou un certificat d’assurance doit être remis à chaque assuré par le souscripteur.

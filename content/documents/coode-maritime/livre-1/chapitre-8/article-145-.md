@@ -1,0 +1,1 @@
+Le fait d’invoquer la limitation de responsabilité et de constituer le fonds de limitation n’emporte pas reconnaissance de sa responsabilité par le propriétaire.

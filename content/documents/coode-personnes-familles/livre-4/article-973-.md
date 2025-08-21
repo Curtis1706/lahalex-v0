@@ -1,0 +1,1 @@
+L’état et la capacité des personnes, les régimes matrimoniaux, les successions, les libéralités, sont régis par la loi nationale, suivant les distinctions et sous les réserves exprimées au présent code.

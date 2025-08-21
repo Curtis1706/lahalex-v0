@@ -1,0 +1,3 @@
+La publicité ne peut insinuer l’idée d’une infériorité ou d’une subordination ou d’une subordination matérielle, même acceptée ou tolérée, d’une personne par rapport à une autre, ou de la femme à l’homme, ni réduire le rôle de la femme à des tâches ménagères en méconnaissance de ses autres aptitudes et aspirations.
+Toute représentation de la personne humaine est utilisée dans des conditions telles qu’elle ne soit pas de nature à être perçue comme une offense à la décence.
+Tout message publicitaire qui s’adresse à la femme ou dans lequel elle figure, respecte sa dignité et évite tout dénigrement direct ou indirect à son encontre.

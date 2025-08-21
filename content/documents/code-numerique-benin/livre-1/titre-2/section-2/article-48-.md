@@ -1,0 +1,2 @@
+Opérateurs non nationaux
+Sous réserve des engagements souscrits par le Bénin et comportant une clause de réciprocité applicable au secteur des communications électroniques, l’exercice de toute activité soumise au régime de la licence ne peut être autorisé qu’à des entreprises de droit béninois.

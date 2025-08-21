@@ -1,0 +1,1 @@
+Les créanciers de la succession, ainsi que les légataires de sommes d'argent, peuvent demander, dans tous les cas et contre tout créancier, la séparation du patrimoine du défunt d’avec le patrimoine de l’héritier.

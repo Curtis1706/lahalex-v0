@@ -1,0 +1,5 @@
+(ancien) Membres du Conseil de régulation
+Les neuf (09) membres du Conseil de régulation sont retenus en raison de leurs qualités morales, de leurs compétences et expériences professionnelles avérées dans le domaine des communications électroniques et de la poste aux plans technique, économique et/ou juridique. Ils sont des cadres ayant totalisé au moins dix (10) ans d’expériences professionnelles.
+Ils sont nommés par décret pris en Conseil des Ministres pour un mandat de cinq (05) ans renouvelable une fois à l'issue d'une procédure transparente d'appel à candidature ; sur proposition du Ministre chargé des communications électroniques et de la poste à l’issue d’une procédure transparente d’appel à candidatures.
+Les modalités de la procédure d’appel à candidatures sont fixées par décret pris en Conseil des Ministres.
+Avant la fin de leur mandat, les membres du Conseil de régulation ne peuvent être suspendus ou révoqués que pour faute lourde dûment constatée.

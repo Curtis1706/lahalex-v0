@@ -1,0 +1,15 @@
+{
+  "id": "article-125-",
+  "title": "Article 125 :",
+  "numero": "125 ",
+  "document": "code-admin-territorial",
+  "path": [
+    "titre-4",
+    "chapitre-1"
+  ],
+  "navigation": {
+    "parent": "chapitre-1",
+    "previous": "article-124-",
+    "next": "article-126-"
+  }
+}

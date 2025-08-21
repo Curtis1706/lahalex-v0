@@ -1,0 +1,3 @@
+L'Etat peut confier la construction, l'entretien, l’exploitation et la gestion des aérodromes qui lui appartiennent à des personnes morales de droit privé, dans le cadre d'une convention de concession de service public.
+La convention de concession est assortie d'un cahier des charges et est approuvée par décret pris en Conseil des ministres.
+La durée maximale de la convention, lorsqu’elle inclut la construction de l’aérodrome, est de trente ans, aussi bien pour les aéroports internationaux que pour les autres aérodromes.

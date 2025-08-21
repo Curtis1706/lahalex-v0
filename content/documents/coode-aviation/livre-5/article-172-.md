@@ -1,0 +1,1 @@
+Il est interdit de diriger intentionnellement ou de faire diriger vers un aéronef, un faisceau laser ou tout autre faisceau lumineux directif de haute intensité, de nature à créer un danger pour l'aviation, des dommages à l'aéronef ou des lésions à l'équipage ou aux passagers.

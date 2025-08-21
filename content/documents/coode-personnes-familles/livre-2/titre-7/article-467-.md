@@ -1,0 +1,2 @@
+Dans les huit (8) jours de la remise de la requête ou de sa réception, le greffe de la juridiction transmet le dossier à la cour d'appel qui, sauf si les parties demandent à comparaître, statue dans le délai de quinzaine sur pièces et renvoie le dossier au juge des tutelles.
+B - Du tuteur

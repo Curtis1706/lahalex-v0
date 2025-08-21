@@ -1,0 +1,3 @@
+Dans les vingt-quatre (24) heures de l’arrestation, le procureur de la République ou un substitut de son parquet compétent procède, si nécessaire avec l’aide d’un interprète, à un interrogatoire d’identité, notifie à l’étranger, le titre en vertu duquel il est arrêté, recueille ses déclarations après l’avoir prévenu qu’il est libre de n’en point faire et avisé de son droit de se faire assister d’un avocat.
+De tout, il est dressé procès-verbal signé du magistrat, de l’étranger et, le cas échéant, de l’interprète.
+En cas de refus de signer par l’étranger ou s’il ne sait signer, mention en est faite audit procès-verbal qui, le cas échéant, est également signé de l’interprète.

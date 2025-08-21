@@ -1,0 +1,2 @@
+Article 321 : Délai de séjour de l'enfant né en prison
+Tout enfant né en prison peut y vivre avec sa mère pendant un délai ne dépassant pas trois (3) ans. Si à l’issue de ce délai, la peine n’est pas purgée, l’enfant est remis à la famille ou à une institution d’encadrement de la petite enfance.

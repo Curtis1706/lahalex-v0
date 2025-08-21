@@ -1,0 +1,2 @@
+Expertises extérieurs
+Dans le cadre de l’accomplissement de sa mission, l’Autorité de régulation peut faire appel, en cas de nécessité, à toutes compétences et expertises extérieures, notamment sur le plan juridique, économique et technique.

@@ -1,0 +1,2 @@
+Œuvres de l’esprit
+Constitue une atteinte à la propriété intellectuelle, le fait, sans autorisation de l’auteur ou de ses ayants droit de reproduire, représenter ou de mettre à la disposition du public une œuvre de l’esprit protégée par le droit d’auteur ou un droit voisin au moyen d’un ou sur un réseau de communication électronique ou un système informatique.

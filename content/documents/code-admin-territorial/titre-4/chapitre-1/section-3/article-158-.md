@@ -1,0 +1,1 @@
+Le conseil d’arrondissement et le conseil de village ou de quartier de ville concourent à l’exécution des différentes activités relevant du domaine de compétence de l'Etat.

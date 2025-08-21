@@ -1,0 +1,2 @@
+Le tuteur ne peut sans y avoir été autorisé par le conseil de famille faire des actes de disposition au nom du mineur.
+Sans cette autorisation, il ne peut notamment emprunter pour le pupille, ni aliéner ou grever de droits réels les immeubles, fonds de commerce, valeurs mobilières et autres droits incorporels, non plus que les meubles précieux ou ceux qui constitueraient une part importante du patrimoine pupillaire.

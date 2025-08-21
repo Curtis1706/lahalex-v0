@@ -1,0 +1,1 @@
+Quel que soit le droit désigné par l’article précédent, les dispositions relatives aux effets pécuniaires communs à tous les époux prévus aux articles 173 à 183 du présent code, demeurent applicables.

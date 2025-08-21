@@ -1,0 +1,8 @@
+Les faits servant de base à la demande d’extradition doivent être :
+- au regard de l’Etat requérant et de la loi béninoise, soit une infraction passible d’une peine privative de liberté dont le minimum est au moins égal à deux (02) ans et dont la poursuite n’est pas rendue impossible par la prescription, l’amnistie ou toute autre cause légale, soit une peine privative de liberté encore légalement susceptible d’exécution, de six (06) mois au moins, compte non tenu de la contrainte par corps ;
+- au regard de la loi béninoise, une infraction de droit commun ;
+- tel qu’il ne résulte pas des circonstances et des faits, que l’extradition est demandée pour des raisons politiques, religieuses, raciales ou en raison de la nationalité de la personne mise en cause.
+Sont considérés comme infractions de droit commun pouvant justifier l’extradition, les crimes et délits non dirigés contre une forme de Gouvernement.
+Sont assimilées aux infractions de droit commun, les infractions à compétence universelle prévues par les conventions internationales ratifiées par la République du Bénin.
+Les dispositions précédentes s’appliquent aux infractions commises par les militaires, marins ou assimilés lorsqu’elles sont punies comme infractions de droit commun par la loi n° 2010-11 du 07 mars 2011 portant code maritime en République du Bénin.
+Il n’est pas innové, quant à la pratique relative à la remise des marins déserteurs.

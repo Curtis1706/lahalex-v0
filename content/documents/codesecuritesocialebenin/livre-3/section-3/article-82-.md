@@ -1,0 +1,2 @@
+Un arrêté du Ministre chargé de la sécurité sociale fixe les conditions dans lesquelles des services publics ou certaines entreprises privées pourront être autorisés à assurer euxmêmes, sous le contrôle des services compétents de la Caisse, le service des prestations afférentes aux soins et à l’indemnité journalière.
+Cet arrêté détermine également le montant de l’abattement du taux de cotisation correspondant.

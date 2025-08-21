@@ -1,0 +1,1 @@
+La taxe est perçue sur ordres de recettes des ordonnateurs des budgets communaux et acquittée aux caisses des receveurs des impôts.

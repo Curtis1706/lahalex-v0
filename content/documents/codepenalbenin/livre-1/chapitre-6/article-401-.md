@@ -1,0 +1,1 @@
+Les auteurs des crimes ou délits commis au cours ou à l’occasion d’une rébellion sont punis des peines prononcées pour chacun de ces crimes, si elles sont plus fortes que celles de la rébellion.

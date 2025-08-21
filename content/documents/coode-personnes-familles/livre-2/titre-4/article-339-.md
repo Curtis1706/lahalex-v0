@@ -1,0 +1,3 @@
+L’adoptant ne doit avoir, au jour de la requête, ni enfant, ni descendant légitime, sauf décision judiciaire accordant la dispense.
+En cas d’adoption conjointe par deux époux ou d’adoption par un époux des enfants de son conjoint, il suffit qu’à la même date les époux n'aient pas eu d'enfant issu de leur union.
+L'existence d’enfants adoptés ne fait pas obstacle à l’adoption ; pas plus que celle d’un ou plusieurs descendants nés postérieurement à l'accueil au foyer des époux, de l’enfant ou des enfants à adopter.

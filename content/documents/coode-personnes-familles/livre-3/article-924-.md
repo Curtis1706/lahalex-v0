@@ -1,0 +1,2 @@
+Le légataire universel, en concours avec un héritier réservataire, est tenu des dettes et charges de la succession personnellement pour sa part et portion, et hypothécairement pour le tout.
+Il est tenu d’acquitter tous les legs, sauf le cas de la réduction prévu au titre de la réserve héréditaire et de la réduction des dons et legs.

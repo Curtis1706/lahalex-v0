@@ -1,0 +1,2 @@
+Article 75 : Quiconque a effectué des prélèvements d’eau en violation des dispositions de l’article 57 de la présente loi est puni d’une peine d’emprisonnement de vingt (20) jours à trente (30) jours et d’une amende de cinquante mille (50 000) à cinq millions (5 000 000) de francs ou de l’une de ces deux peines seulement.
+En cas de récidive, la peine est portée à trois (03) mois et l’amende à dix millions (10 000 000) de francs, sans préjudice de l’interdiction desdits prélèvements qui ne saurait être d’une durée inférieure à six (06) mois.

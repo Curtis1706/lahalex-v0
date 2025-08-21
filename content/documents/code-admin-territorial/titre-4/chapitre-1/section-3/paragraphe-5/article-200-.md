@@ -1,0 +1,1 @@
+La procédure disciplinaire applicable au secrétaire administratif d'arrondissement est celle prévue par les dispositions statutaires et/ou stipulations contractuelles qui régissent son emploi.

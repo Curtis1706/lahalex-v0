@@ -1,0 +1,2 @@
+Sans préjudice des peines prévues à l’article précédent à l’égard du capitaine ou du responsable à bord, le propriétaire ou l’exploitant qui a donné l’ordre de commettre l’infraction est puni des mêmes peines.
+Lorsque le propriétaire ou l’exploitant est une personne morale, la responsabilité prévue au 1<sup>er</sup> alinéa ci-dessus incombe à celui ou à ceux des représentants légaux ou dirigeants de fait ou à toute personne habilitée qui a donné l’ordre.

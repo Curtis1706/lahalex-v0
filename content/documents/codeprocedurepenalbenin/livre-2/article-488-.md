@@ -1,0 +1,2 @@
+En cas de relaxe, le prévenu ne peut être condamné aux frais du procès.
+Toutefois, si le prévenu est relaxé à raison de son état de démence au moment des faits, le tribunal peut mettre à sa charge tout ou partie des dépens, mais la contrainte par corps n’est pas prononcée.

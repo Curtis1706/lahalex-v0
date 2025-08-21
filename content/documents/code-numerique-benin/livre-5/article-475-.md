@@ -1,0 +1,4 @@
+Secret professionnel
+Les membres et les agents de l'Autorité sont tenus au secret professionnel pour les informations dont ils ont connaissance dans le cadre ou à l’occasion de leurs fonctions.
+Le personnel de l'Autorité ainsi que les experts et agents assermentés sont soumis, y compris après cessation de leurs activités, à l'obligation de secret professionnel à l'égard de toute information confidentielle, fait ou acte dont ils ont eu connaissance dans l'exercice de leurs fonctions officielles.
+La violation des alinéas 1 ou 2 est punie des peines prévues par les dispositions du code pénal relatives au secret des correspondances.

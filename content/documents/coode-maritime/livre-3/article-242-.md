@@ -1,0 +1,1 @@
+Les membres de l’équipage, le subrécargue ou le pilote ne sont pas les préposés du capitaine. Le capitaine n’est pas civilement responsable des dommages qu’ils puissent causer à autrui.

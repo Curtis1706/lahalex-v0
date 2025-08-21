@@ -1,0 +1,2 @@
+Article 163 : Conditions de circulation de l'enfant immigré accompagné
+Dans le cas où un enfant de nationalité étrangère est accompagné d’une personne autre que celles énumérées à l’article 162 ci-dessus, il ne peut entrer, circuler, ou résider en République du Bénin que si, outre les pièces établissant son identité, sa provenance, sa destination et le motif de son voyage, celui qui l’accompagne n'est muni d’une pièce d’identité et d’une autorisation écrite du père et/ou de la mère de l’enfant ou de la personne ayant autorité sur lui.

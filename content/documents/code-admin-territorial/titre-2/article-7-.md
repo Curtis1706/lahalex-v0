@@ -1,0 +1,1 @@
+L'administration territoriale de l’Etat s'exerce dans le cadre du département.

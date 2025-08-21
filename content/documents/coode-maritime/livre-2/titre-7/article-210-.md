@@ -1,0 +1,2 @@
+L’expertise maritime peut être effectuée par un seul expert. Si l’expert l’estime nécessaire, il peut se faire assister par deux assesseurs.
+Lorsque l’expert est assisté de deux assesseurs, l’expertise maritime est considérée comme effectuée par un comité d’experts.

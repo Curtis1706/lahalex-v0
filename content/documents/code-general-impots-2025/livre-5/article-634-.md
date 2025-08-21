@@ -1,0 +1,1 @@
+Les comptables publics sont autorisés à utiliser l’avis à tiers détenteur pour le recouvrement de toutes les créances publiques et à l’encontre de toute personne poursuivie même si elle ne figure pas nominativement sur le titre exécutoire.

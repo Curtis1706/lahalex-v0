@@ -1,0 +1,2 @@
+Article 34 : Devoir de déclarer la naissance de l'enfant
+Tout parent, père ou mère, a l'obligation de déclarer, dans un délai maximum de vingt-et-un (21) jours, au centre d’état civil le plus proche du lieu d'accouchement, la naissance de son enfant.

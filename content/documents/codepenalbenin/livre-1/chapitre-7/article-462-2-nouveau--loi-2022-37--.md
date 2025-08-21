@@ -1,0 +1,2 @@
+Tout individu qui, par quelque moyen que ce soit, provoque ou favorise l'insoumission, qu'il ait été ou non suivi d'effets, est puni, en temps de paix, de deux (02) mois à cinq (05) ans d'emprisonnement.
+En temps de guerre, la peine prévue est de vingt (20) ans au maximum de réclusion criminelle.

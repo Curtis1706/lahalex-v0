@@ -1,0 +1,2 @@
+Article 333-1-4 : Publication
+Les décisions de la Commission Régionale de Contrôle des Assurances qui comportent à la charge des personnes physiques ou morales une obligation pécuniaire forment titre exécutoire et sont publiés au Journal officiel de la CIMA. Elles peuvent également être publiées dans un journal d’annonces légales de l’Etat sur le territoire duquel est située la société.

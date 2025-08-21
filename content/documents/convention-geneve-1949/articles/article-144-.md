@@ -1,0 +1,4 @@
+Diffusion Les Hautes Parties contractantes s’engagent à diffuser le plus largement pos- de la sible, en temps de paix et en temps de guerre, le texte de la présente Conven-
+Convention tion dans leurs pays respectifs, et notamment à en incorporer l’étude dans
+les programmes d’instruction militaire et, si possible, civile, de telle manière que les principes en soient connus de l’ensemble de la population.
+Les autorités civiles, militaires, de police ou autres qui, en temps de guerre, assu- meraient des responsabilités à l’égard des personnes protégées, devront possé- der le texte de la Convention et être instruites spécialement de ses dispositions.

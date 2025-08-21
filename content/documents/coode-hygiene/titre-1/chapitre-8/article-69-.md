@@ -1,0 +1,2 @@
+Dans les centres pourvus d'une distribution publique d'eau, il est interdit aux personnes physiques ou morales et notamment aux restaurateurs, hôteliers et tenanciers d'immeubles de toute nature, sauf autorisation du ministre chargé de l'eau, de livrer au public pour l'alimentation et pour les usages ayant un rapport avec l'alimentation, une eau autre que celle de distribution publique, à l'exception des eaux minérales naturelles et de table autorisées par le ministre chargé de la santé.
+Les conditions d'autorisation sont fixées par voie règlementaire.

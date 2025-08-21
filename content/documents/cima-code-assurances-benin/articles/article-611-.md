@@ -1,0 +1,9 @@
+Article 611 : Paiement pour compte par l’assureur (juridiction répressive ou transaction)
+Si la demande d’indemnité a été portée devant une juridiction répressive ou si une transaction approuvée par le Fonds de Garantie est intervenue avec le responsable de l’accident, la victime ou ses ayants droit peuvent demander à l’assureur le paiement des sommes qui leur seraient versées par le Fonds si le règlement était effectué par ce dernier, à la condition de justifier :
+1° que le Fonds de Garantie leur a fait connaître, conformément à l’article 609 :
+a) qu’il conteste le bien-fondé de l’exception invoquée par l’assureur ou qu’il n’est pas en mesure de prendre une décision définitive à ce sujet ;
+b) qu’en l’absence de garantie de l’assureur ils seraient admis à bénéficier de la garantie dudit Fonds.
+2°que le montant de l’indemnité a été fixé par une décision de justice exécutoire opposable au Fonds ou par une transaction approuvée par lui.
+L’assureur est alors tenu de procéder au paiement des sommes susmentionnées pour le compte de qui il appartiendra. S’il n’exécute pas cette obligation, il peut y être contraint par une ordonnance rendue par le juge des référés à la requête de la victime ou de ses ayants droit.
+Lorsque le bien-fondé de l’exception par lui opposée est reconnu soit par accord avec le Fonds de Garantie, soit judiciairement par une décision définitive opposable à cet organisme, cet assureur peut réclamer au Fonds de Garantie le remboursement des sommes qu’il a payées pour le compte de celui-ci après établissement de l’insolvabilité totale ou partielle du responsable dans les conditions prévues à l’article 614.
+En cas d’instance judiciaire, pour rendre opposable au Fonds de Garantie la décision à intervenir, l’assureur doit lui adresser une copie de l’acte introductif d’instance.

@@ -1,0 +1,4 @@
+Les condamnés à des peines privatives de liberté peuvent être employés en dehors d’un établissement pénitentiaire à des travaux contrôlés par l’administration.
+Ils peuvent bénéficier d’un régime de semi-liberté comportant le placement en dehors, sans surveillance continue et dans les conditions du travail des salariés libres, avec toutefois l’obligation de réintégrer la prison ou le lieu qui leur est assigné chaque soir, et d’y passer les jours fériés ou chômés.
+Il peut leur être accordé des permissions de sortir en vertu desquelles ils sont autorisés à s’absenter d’un établissement pénitentiaire pendant une période de temps déterminé qui s’impute sur la durée de la peine en cours d’exécution.
+Des décrets déterminent les conditions auxquelles ces diverses mesures sont accordées et appliquées.

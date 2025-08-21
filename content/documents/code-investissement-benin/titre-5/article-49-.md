@@ -1,0 +1,1 @@
+Article 49 : L’agrément à un régime du présent Code ne peut être ni renouvelé, ni prorogé. A l’expiration de la période d’agrément, l’entreprise perd ledit régime et ses activités relèvent des dispositions du droit commun.

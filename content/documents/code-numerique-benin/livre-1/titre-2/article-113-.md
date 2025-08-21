@@ -1,0 +1,3 @@
+Autorité de régulation
+Il est créé en République du Bénin, une autorité de Régulation des communications électroniques et de la poste ayant pour sigle “ARCEP BENIN”, ci-après dénommée Autorité de régulation.
+L’Autorité de régulation est une structure administrative indépendante dotée de la personnalité juridique, de l’autonomie financière et de gestion. Elle exerce ses missions de manière indépendante, impartiale, équitable et transparente.

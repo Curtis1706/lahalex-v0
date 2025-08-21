@@ -1,0 +1,1 @@
+L'arrosage des légumes et des fruits par des eaux usées ou polluées non traitées est interdit.

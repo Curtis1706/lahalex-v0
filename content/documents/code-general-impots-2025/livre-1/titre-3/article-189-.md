@@ -1,0 +1,6 @@
+1) Les marchands forains sont tenus de payer par anticipation en une seule fois la totalité des droits dont ils sont redevables et ce, avant le 1er mars de chaque année.
+2) Lorsque le marchand forain est en début d’activité ou demande le renouvellement
+d’une formule périmée, le fonctionnaire chargé de l’établissement de l’avis de mise en recouvrement lui remet immédiatement une fiche indiquant le montant des droits exigibles.
+Pour acquitter les droits dont ils sont ainsi redevables par anticipation, les marchands forains doivent se présenter spontanément au service des impôts du lieu où ils exercent leur profession, où il leur est remis une fiche portant indication du montant des droits dont ils doivent s’acquitter aux caisses des recettes des impôts. Sur présentation du reçu, il leur est remis leur formule annuelle de taxe professionnelle synthétique foraine.
+3) Tout marchand forain est tenu de conserver et de présenter à toutes réquisitions
+des agents des impôts, ainsi que de tous agents particulièrement habilités à cet effet par les Autorités locales, les pièces justifiant son imposition à la taxe professionnelle synthétique.

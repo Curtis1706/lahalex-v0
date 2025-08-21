@@ -1,0 +1,15 @@
+{
+  "id": "article-37-",
+  "title": "Article 37 : Vice propre de la chose assurée",
+  "numero": "37 ",
+  "document": "cima-code-assurances-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-36-",
+    "next": "article-38-"
+  }
+}

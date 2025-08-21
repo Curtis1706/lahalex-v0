@@ -1,0 +1,2 @@
+Article 405 : Quiconque se livre à un trafic d’ossements humains d’enfants ou d’organes d’enfants, est puni de dix (10) ans à vingt (20) ans de réclusion et d’une amende de un million (1 000 000) à cinq millions (5 000 000) de francs CFA.
+SEPTIEME PARTIE : DES DISPOSITIONS TRANSITOIRES ET FINALES

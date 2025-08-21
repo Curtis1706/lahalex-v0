@@ -1,0 +1,1 @@
+Le refus du capitaine d'obtempérer à l'injonction prononcée au titre du droit de reconnaissance ou de visite, ou à l'ordre de déroutement, ouvre la voie à des mesures de coercition pouvant aller jusqu’à l'emploi de la force.

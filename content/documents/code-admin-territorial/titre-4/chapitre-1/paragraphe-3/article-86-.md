@@ -1,0 +1,1 @@
+La participation aux travaux des commissions ne donne droit à aucune rémunération. Toutefois, elle donne lieu au remboursement de frais de repas et de déplacement.

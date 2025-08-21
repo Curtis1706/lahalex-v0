@@ -1,0 +1,1 @@
+Le contrôle global des recettes budgétaires de l’année s'effectue en retranchant du total des montants figurant sur les bordereaux de titres émis, le total des montants figurant sur les bordereaux de titres annulés.

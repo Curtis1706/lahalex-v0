@@ -1,0 +1,3 @@
+Le marin ne peut, sans autorisation du capitaine, charger à bord du navire des effets personnels pour son propre compte.
+En cas d’infraction à cette disposition, il peut être tenu de payer le fret.
+Le capitaine peut ordonner le jet à la mer des marchandises indûment chargées si elles sont de nature à mettre en péril le navire ou la cargaison, ou faire encourir des amendes ou confiscations pour infractions à la réglementation douanière, environnementale ou sanitaire.

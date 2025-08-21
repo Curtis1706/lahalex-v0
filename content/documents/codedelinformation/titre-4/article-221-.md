@@ -1,0 +1,3 @@
+Il est délivré au demandeur agréé un permis d’installation qui précise les conditions et les délais de réalisation de son projet.
+A l’achèvement des travaux d’installation, la Haute Autorité de l’Audiovisuel et de la Communication procède à un contrôle de conformité et délivre une licence d’exploitation au requérant ayant respecté ses engagements.
+Dans tous les cas, la décision de la Haute Autorité de l’Audiovisuel et de la Communication intervient dans les trente (30) jours à compter du dernier contrôle.

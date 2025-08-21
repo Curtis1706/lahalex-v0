@@ -1,0 +1,1 @@
+Dans le domaine de ses attributions propres, le secrétaire administratif d'arrondissement n'est pas soumis au pouvoir hiérarchique du chef d'arrondissement. Il entretient avec celui-ci des relations fonctionnelles destinées à faciliter le déroulement des activités de l'arrondissement.

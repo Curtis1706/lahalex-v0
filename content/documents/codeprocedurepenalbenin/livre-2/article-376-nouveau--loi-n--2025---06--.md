@@ -1,0 +1,1 @@
+Les accusés en fuite, cités à comparaître dans les formes édictées en matière correctionnelle, s'ils ne se présentent pas, sont jugés par défaut.

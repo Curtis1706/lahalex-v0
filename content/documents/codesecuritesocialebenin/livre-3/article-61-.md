@@ -1,0 +1,1 @@
+Lorsque l’accident du travail est survenu sur le territoire d’un pays qui n’est pas lié au Bénin par un accord en matière de sécurité sociale, le délai imparti à l’employeur pour faire la déclaration ne commence à courir que du jour où il a été informé de l’accident.

@@ -1,0 +1,1 @@
+La commune a la charge des réparations résultant des dommages survenus aux conseillers communaux, au maire et aux adjoints au maire et aux agents communaux, dans l'exercice de leur fonction ou à l'occasion de missions dont ils sont chargés par la commune.

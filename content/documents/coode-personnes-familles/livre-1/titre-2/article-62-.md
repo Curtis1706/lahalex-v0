@@ -1,0 +1,2 @@
+La naissance est déclarée même si l’enfant est décédé avant l’expiration du délai prévu pour la rédaction de l’acte.
+Lorsqu’il est déclaré un enfant mort-né, la déclaration est inscrite à sa date sur le registre des décès et non sur celui des naissances. Elle mentionne seulement qu’il a été déclaré un enfant sans vie sans qu’il en résulte une présomption sur le point de savoir si l'enfant a vécu ou non.

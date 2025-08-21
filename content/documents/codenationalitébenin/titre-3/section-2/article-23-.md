@@ -1,0 +1,1 @@
+Le mariage reconnu par la législation béninoise, avec un conjoint de nationalité béninoise permet d'acquérir la nationalité béninoise.

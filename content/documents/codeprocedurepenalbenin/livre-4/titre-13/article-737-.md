@@ -1,0 +1,10 @@
+L’extradition n’est pas accordée :
+1. lorsque l’individu, objet de la demande est un national béninois, la qualité de national étant appréciée à l’époque de l’infraction pour laquelle l’extradition est requise ;
+2. lorsque le crime ou délit a un caractère politique ou lorsqu’il résulte des circonstances que l’extradition est demandée dans un but politique, religieux, racial ou en raison de la nationalité ;
+3. lorsque la personne demandée est un refugié en territoire de la République du Bénin. En ce qui concerne les actes commis au cours d’une insurrection ou d’une guerre civile, par l’un ou l’autre des partis engagés dans la lutte et dans l’intérêt de sa cause, ils ne pourront donner lieu à l’extradition que s’ils constituent des actes de barbarie odieuse et de vandalisme défendus suivant les lois de la guerre, et seulement lorsque la guerre civile a pris fin ;
+4. lorsque les crimes ou délits ont été commis en République du Bénin;
+5. lorsque les crimes ou délits, quoique commis hors de la République du Bénin, y ont été poursuivis et jugés définitivement ;
+6. lorsque d’après les lois de l’Etat requérant ou celles de l’Etat requis, la prescription de l’action s’est trouvée acquise antérieurement à la demande d’extradition, ou la prescription de la peine antérieurement à l’arrestation de l’individu réclamé et d’une façon générale, toutes les fois que l’action publique de l’Etat requérant sera éteinte ;
+7. lorsque le fait à raison duquel l’extradition a été demandée est puni par la législation de l’Etat requérant d’une peine ou d’une mesure de sûreté contraire à l’ordre public béninois ;
+8. lorsque la personne réclamée serait jugée dans l’Etat requérant par un tribunal n’assurant pas les garanties fondamentales de procédures et de protection des droits de la défense ;
+9. lorsque le crime ou le délit constitue une infraction militaire prévue par les textes en vigueur.

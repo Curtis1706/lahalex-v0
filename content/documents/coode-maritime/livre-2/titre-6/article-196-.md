@@ -1,0 +1,3 @@
+Lorsqu’une enquête maritime est obligatoire, le capitaine du navire doit en informer sans délai l’autorité maritime ou consulaire.
+Lorsque l’événement donnant lieu à enquête se produit lors du séjour du navire dans un port de la République du Bénin, le capitaine doit en informer l’autorité maritime ou consulaire au plus tard avant la fin du jour ouvrable suivant celui de la survenance de l’événement ou de sa découverte, sous réserve des dispositions prévues à l’article 194 alinéa 2 ci-dessus.
+Dans les autres cas, l’autorité maritime ou consulaire doit être informée au plus tard dans les quarante- huit (48) heures suivant l’arrivée du navire dans un port.

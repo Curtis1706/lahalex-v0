@@ -1,0 +1,2 @@
+L’exercice de poursuite pour délit d’attroupement ne fait pas obstacle à la poursuite pour crimes ou délits particuliers qui auraient été commis au milieu des attroupements.
+Les dispositions des articles 377 et suivants du code de procédure pénale sont applicables aux délits prévus et punis par le présent chapitre commis sur les lieux mêmes de l’attroupement.

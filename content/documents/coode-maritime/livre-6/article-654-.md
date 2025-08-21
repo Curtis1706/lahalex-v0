@@ -1,0 +1,2 @@
+Afin de garantir le paiement de l’amende et des frais de procédure, le contrevenant doit consigner immédiatement un cautionnement égal au maximum de l’amende encourue, faute de quoi le navire est retenu par le directeur de la marine marchande, sur requête de l’agent verbalisateur.
+L’armateur condamné en première instance et qui interjette appel peut obtenir la libre sortie du navire en consignant le montant de la condamnation et de tous les frais.

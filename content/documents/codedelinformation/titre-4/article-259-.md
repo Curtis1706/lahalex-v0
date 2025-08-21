@@ -1,0 +1,1 @@
+Les opérateurs de téléphonie mobile et les usagers veillent, à se conformer aux dispositions de l’article 216, notamment en ce qui concerne l’exactitude et la véracité de l’information, la non présentation d’images, de publications, d’illustrations ou de photographies obscènes, licencieuses ou pornographiques.

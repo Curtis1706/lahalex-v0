@@ -1,0 +1,2 @@
+Utilisation frauduleuse d’un réseau de communications électroniques ouvert au public raccordé frauduleusement sur une ligne privée
+Toute personne qui utilise frauduleusement, à des fins personnelles ou non, un réseau de communications électroniques ouvert au public ou se raccorde frauduleusement, par tout moyen, sur une ligne privée, est punie d’un emprisonnement d’un (01) an à cinq (05) ans et d’une amende de un million (1 000 000) à dix millions (10 000 000) de francs CFA ou de l’une de ces deux peines seulement.

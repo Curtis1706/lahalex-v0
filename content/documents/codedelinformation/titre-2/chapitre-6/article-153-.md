@@ -1,0 +1,4 @@
+Pour un journal, un écrit quotidien ou périodique, la rectification est publiée en tête du plus prochain numéro et imprimée avec les mêmes caractères que l’écrit contesté, sans rajout, ni suppression.
+Pour une station de radiodiffusion sonore ou de télévision, la rectification est à diffuser avec une mention spéciale dans l’émission la plus proche et dans les mêmes conditions techniques que celles de l’émission incriminée.
+Pour un site audiovisuel, la rectification est à insérer et publier sur la même page que l’écrit contesté sans rajout, ni suppression, ni réponse et ce, dès réception de la demande.
+Dans tous les autres cas, la rectification intervient dans la plus prochaine publication, diffusion ou exposition suivant la réception de la requête.

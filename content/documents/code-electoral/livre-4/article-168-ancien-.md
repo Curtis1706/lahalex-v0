@@ -1,0 +1,4 @@
+Cinquante (50) jours avant l'ouverture de la campagne électorale, les candidats titulaires et suppléants présentent une déclaration en double exemplaire, revêtue de leurs signatures et portant engagement que tous les candidats et leurs suppléants remplissent les conditions d'éligibilité prévues au titre 2 du présent livre.
+Par ailleurs, la déclaration doit être accompagnée de :
+une attestation par laquelle le parti politique investit le ou les intéressé(s) en qualité de candidat(s) ;
+une déclaration par laquelle le candidat certifie sur l'honneur qu'il n'est candidat que sur cette liste et qu'il ne se trouve dans aucun des cas d'inéligibilité prévus par la présente loi.

@@ -1,0 +1,5 @@
+Conditions techniques et tarifaires et conventions d’accès et d’interconnexion
+L’Autorité de régulation peut imposer des obligations techniques et/ou tarifaires applicables aux prestations visées aux articles 73, 74, 76 et 77 du présent code, et peut notamment décider que la fourniture de certaines de ces prestations doit être orientée vers les coûts.
+L’Autorité de régulation peut également imposer que les prestations visées articles 73, 74 et 76 du présent code soient publiées dans un catalogue d’accès et d’interconnexion dans les conditions prévues à l’article 70 du présent code.
+Les conventions conclues en application des articles 73, 74, 76 et 77 du présent code sont communiquées, pour approbation, à l’Autorité de régulation, qui peut en demander la modification dans les conditions prévues à l’article 70 du présent code. Toute modification de ces conventions par les parties doit être notifiée à l’Autorité de régulation.
+Un décret pris en Conseil des Ministres fixe les modalités d’application de la présente Section.

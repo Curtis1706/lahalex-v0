@@ -1,0 +1,4 @@
+Est puni d’un emprisonnement de un (01) an à cinq (05) ans et d’une amende de deux millions (2.000.000) de francs CFA à dix millions (10.000.000) de francs CFA ou de l’une de ces deux peines seulement, quiconque aura fabriqué, souscrit, émis, utilisé, exposé, distribué, importé ou exporté :
+- soit des moyens de paiement ayant pour objet de suppléer ou de remplacer les signes monétaires ayant cours légal sur le territoire national ou à l’étranger ;
+- soit des imprimés, jetons ou autres objets qui présenteraient avec lesdits signes monétaires une ressemblance de nature à faciliter leur acceptation ou utilisation aux lieu et place desdits signes.
+La tentative sera punie comme le délit consommé.

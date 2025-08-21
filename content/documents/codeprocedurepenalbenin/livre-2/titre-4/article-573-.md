@@ -1,0 +1,2 @@
+Les poursuites du chef d’une des infractions prévues par la loi sur le contrôle des drogues et des précurseurs se prescrivent comme en matière criminelle.
+La peine prononcée en cas de condamnation, pour l’une de ces infractions, se prescrit de la même manière à compter de la date à laquelle la décision de condamnation est devenue définitive.

@@ -1,0 +1,1 @@
+L’affrètement à temps est la convention par laquelle le fréteur s’engage, moyennant un fret déterminé ou déterminable, à accomplir avec un navire déterminé, soit pendant un temps convenu, soit pendant un temps indéterminé mais déterminable, le ou les voyages exigés par l’affréteur.

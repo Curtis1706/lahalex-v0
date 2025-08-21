@@ -1,0 +1,1 @@
+Toute personne physique ou morale ayant connaissance de cas de pollution, rejet, incinération ou immersion susceptibles de causer ou causant des dommages aux zones maritimes béninoises doit informer immédiatement par tous les moyens l’autorité locale ou régionale qui devra, à son tour, en informer aussitôt le directeur de la marine marchande.

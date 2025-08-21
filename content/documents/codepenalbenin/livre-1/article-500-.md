@@ -1,0 +1,1 @@
+Constitue également un acte de traite d’enfants, toute convention ayant pour objet l’aliénation, soit à titre gratuit, soit à titre onéreux, de la liberté ou de la personne d’un enfant.

@@ -1,0 +1,1 @@
+Le procureur de la République est tenu d'agir s'il en est requis par une administration publique ou par une tierce personne ayant opposé l'exception de nationalité à une action portée devant une juridiction qui a sursis à statuer.

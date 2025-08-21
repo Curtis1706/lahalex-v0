@@ -1,0 +1,1 @@
+Les modalités de présentation et de contrôle de qualité des comptes de gestion sont déterminées par les lois et règlements.

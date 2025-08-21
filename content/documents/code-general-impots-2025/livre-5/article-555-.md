@@ -1,0 +1,4 @@
+1) Lorsque l’administration fiscale reçoit les observations du contribuable à l’issue d’une proposition de rectification, elle est tenue de confirmer les rectifications qu’elle entend maintenir dans un délai de deux (2) mois à compter de la date de réception desdites  observations.  À  défaut,  les  observations  formulées  par  le  contribuable  sont considérées comme acceptées dans leur intégralité.
+Ce délai peut être prorogé d’une nouvelle période d’un (1) mois par l’administration fiscale de manière expresse.
+2) Lorsque l’administration fiscale rejette les observations du contribuable, sa réponse
+doit être motivée.

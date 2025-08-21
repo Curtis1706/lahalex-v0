@@ -1,0 +1,5 @@
+Le procureur général est chargé de veiller à l’application de la loi pénale sur toute l’étendue du ressort de la cour d’appel.
+A cette fin, il lui est adressé, tous les mois, par chaque procureur de la République, un état des affaires de son ressort.
+Le procureur général a, dans l’exercice de ses fonctions, le droit de requérir directement la force publique.
+Toutefois, il ne peut se substituer au procureur de la République pour directement diligenter des poursuites ou faire accomplir aux officiers ou agents de police judiciaire, des actes de poursuite.
+Le procureur général peut enjoindre au procureur de la République, suivant instructions écrites, motivées et versées au dossier, d’engager des poursuites ou de saisir la juridiction compétente de telles réquisitions écrites qu’il juge opportunes.

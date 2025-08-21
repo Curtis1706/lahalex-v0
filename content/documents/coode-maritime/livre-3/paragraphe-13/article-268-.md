@@ -1,0 +1,1 @@
+Les marins sont soumis au régime de droit commun en matière de prestations familiales et de retraite sauf stipulations contraires expresses des parties.

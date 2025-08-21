@@ -1,0 +1,1 @@
+La menace d’incendier ou de détruire, par l’effet d’une mine ou de toute substance explosive, les objets compris dans l’énumération de l’article précédent, est punie de la peine portée contre la menace d’assassinat.

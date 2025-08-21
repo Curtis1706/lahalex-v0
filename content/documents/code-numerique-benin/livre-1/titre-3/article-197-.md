@@ -1,0 +1,2 @@
+Conséquences des servitudes
+Lorsque les servitudes entraînent la suppression ou la modification d’un immeuble, il est procédé, à défaut d’accord amiable, à l’expropriation pour cause d’utilité publique, conformément à la législation en vigueur.

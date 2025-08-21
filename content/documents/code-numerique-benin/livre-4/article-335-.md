@@ -1,0 +1,2 @@
+Prospection directe aux personnes vulnérables
+Lorsque la prospection directe est destinée aux enfants, aux personnes âgées, aux personnes malades ou vulnérables, ou à toute personne qui ne serait pas en mesure de comprendre pleinement les informations qui lui sont présentées, les exceptions prévues au présent Livre doivent être interprétées plus strictement.

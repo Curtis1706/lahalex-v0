@@ -1,0 +1,1 @@
+Le fonctionnement des aéro-clubs est soumis à l'approbation préalable du ministre chargé de l'aviation civile dans les conditions fixées par voie réglementaire.

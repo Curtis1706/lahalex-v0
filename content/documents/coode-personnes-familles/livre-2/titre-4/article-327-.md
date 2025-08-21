@@ -1,0 +1,1 @@
+Lorsqu’une filiation est établie par un acte ou un jugement, nulle filiation contraire ne pourra être postérieurement reconnue sans qu’un jugement établisse, préalablement, l’inexactitude de la première.

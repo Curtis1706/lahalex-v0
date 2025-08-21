@@ -1,0 +1,2 @@
+Article 26 : En vue de la conservation des ressources en eau, l’Etat et les collectivités territoriales assurent, dans le temps et dans l’espace, un équilibre entre la disponibilité de la ressource en eau en quantité et en qualité et les besoins à satisfaire selon les divers usages et fonctions de l’eau.
+A ces fins, le ministère coordonne la mise en œuvre de la politique définie par l’Etat en liaison avec les autres ministères compétents ainsi qu’avec les collectivités territoriales.

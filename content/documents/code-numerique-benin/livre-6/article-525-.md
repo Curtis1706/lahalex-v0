@@ -1,0 +1,2 @@
+Prostitution des personnes vulnérables
+Est puni des peines prévues à l’article 522 le fait de solliciter, d'accepter ou d'obtenir, en échange d'une rémunération ou d'une promesse de rémunération, des relations sexuelles de la part d'une personne qui se livre à la prostitution, y compris de façon occasionnelle, lorsque cette personne présente une particulière vulnérabilité, apparente ou connue de son auteur, due à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse.

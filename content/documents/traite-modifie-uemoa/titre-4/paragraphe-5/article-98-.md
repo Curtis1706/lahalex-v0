@@ -1,0 +1,1 @@
+Sans préjudice de l'application du Traité de l'UMOA, le Conseil, statuant à la majorité des deux tiers (2/3) de ses membres sur proposition de la Commission, arrête dès l'entrée en vigueur du présent Traité, par voie de règlement ou de directive, les dispositions utiles pour faciliter l'exercice de l'usage effectif des droits prévus aux articles 96 et 97.

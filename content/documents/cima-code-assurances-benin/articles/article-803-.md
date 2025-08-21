@@ -1,0 +1,17 @@
+Article 803 : _(Règlement 2015-02)_ Entreprises de réassurance habilitées à exercer dans les États membres de la CIMA
+Sont autorisées à exercer l’activité de réassurance à l’égard des entreprises d’assurances dans les États membres de la CIMA les entreprises suivantes :
+les entreprises de réassurance ayant leur siège social dans un État membre de la CIMA, dans les conditions définies à l’article 804 ci-après ;
+les entreprises de réassurance multilatérales et panafricaines dont un ou plusieurs États membres de la CIMA font partie et bénéficiant d’une notation par une agence internationale reconnue, dans les conditions fixées par la Commission Régionale de Contrôle des Assurances ;
+les entreprises d’assurance ou de réassurance ayant leur siège social dans un État non membre de la CIMA et exerçant à partir d’une succursale, d’un bureau de souscription, de représentation ou de liaison régulièrement établi sur le territoire d’un État membre dans les conditions fixées par la Commission Régionale de Contrôle des Assurances. Ces entités pourront exercer dans le cadre des accords avec des pays tiers prévus par les articles 812 et 813 du code des assurances ;
+les entreprises d’assurance ou de réassurance soumises au contrôle de leur État d’origine ou bénéficiant d’une notation par une agence internationale reconnue, dans les conditions fixées par la Commission Régionale de Contrôle des Assurances. Ces entités pourront exercer dans le cadre des accords avec des pays tiers prévus par les articles 812 et 813 du code des assurances ;
+les entreprises d’assurance agréées par le Ministre en charge du secteur des assurances d’un État membre après avis conforme de la Commission Régionale de Contrôle des Assurances dans le cadre d’opérations accessoires d’acceptation en réassurance.
+### CHAPITRE 2 : REGLES DE CONSTITUTION ET DE FONCTIONNEMENT
+rticle 804 : _(Règlement 2015-02)_ Agrément
+Les entreprises de réassurance et les succursales, les bureaux de souscription, de représentation ou de liaison des entreprises de réassurance dont le siège social n’est pas situé dans un État membre mentionnés à l’article 801 ne peuvent commencer leurs opérations qu’après avoir obtenu un agrément de la Commission Régionale de Contrôle des Assurances qui en informe le Ministre en charge des assurances du pays du siège.
+L’agrément obtenu est valable dans tout J’espace de la Conférence interafricaine des Marchés d’Assurances.
+Toutefois, une société de réassurance ayant son siège social dans un État membre ne peut installer une succursale, un bureau de souscription, de représentation ou de liaison dans un autre État membre, qu’après avoir obtenu l’autorisation du Ministre en charge des assurances de cet État membre.
+Pour l’octroi de l’agrément, les opérations de réassurance sont classées de la manière suivante :
+réassurance vie : réassurance des risques de même nature que ceux couverts par les entreprises d’assurance mentionnées au 1° de l’article 300 du code des assurances ;
+réassurance non vie : réassurance des risques de même nature que ceux couverts par les entreprises d’assurance mentionnées au 2° de l’article 300 du code des assurances.
+L’agrément est accordé sur demande de l’entreprise soit pour les opérations de réassurance vie, soit pour les opérations de réassurance non vie, soit pour l’ensemble de ces opérations.
+Les entreprises de réassurance ne peuvent avoir d’autre objet que celui de pratiquer l’activité de réassurance et les opérations directement liées.

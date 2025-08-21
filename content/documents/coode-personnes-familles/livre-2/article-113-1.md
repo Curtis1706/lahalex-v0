@@ -1,0 +1,1 @@
+Les fiançailles sont une convention solennelle par laquelle un homme et une femme se promettent mutuellement le mariage.

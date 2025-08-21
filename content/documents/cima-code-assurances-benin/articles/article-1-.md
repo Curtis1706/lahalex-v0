@@ -1,0 +1,2 @@
+Les titres 1, 2 et 3 du présent livre ne concernent que les assurances terrestres. Ils ne sont applicables ni aux assurances maritimes, ni aux assurances fluviales, ni aux réassurances conclues entre assureurs et réassureurs.
+Les opérations d’assurance-crédit ne sont pas régies par les titres mentionnés au premier alinéa.

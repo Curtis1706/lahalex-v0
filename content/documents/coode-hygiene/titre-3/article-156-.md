@@ -1,0 +1,1 @@
+Le traitement des stocks de pesticides périmés ou non utilisés avariés se fait conformément à la réglementation en vigueur.

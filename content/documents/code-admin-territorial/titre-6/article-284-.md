@@ -1,0 +1,1 @@
+Sauf dispositions particulières, les recours contre les décisions de l’autorité de tutelle s'exercent dans les conditions de droit commun.

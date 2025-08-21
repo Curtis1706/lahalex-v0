@@ -1,0 +1,1 @@
+Le membre d’équipage non professionnel est muni des titres de navigation requis. Les conditions et modalités de délivrance de ces titres sont fixées par voie réglementaire. '1

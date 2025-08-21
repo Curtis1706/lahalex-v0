@@ -1,0 +1,16 @@
+{
+  "id": "article-38-",
+  "title": "Article 38 : Identification des utilisateurs",
+  "numero": "38 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-4"
+  ],
+  "navigation": {
+    "parent": "chapitre-4",
+    "previous": "article-37-",
+    "next": "article-39-"
+  }
+}

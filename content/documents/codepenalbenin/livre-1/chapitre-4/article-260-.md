@@ -1,0 +1,4 @@
+Quiconque, par des dons ou libéralités en argent ou en nature, par des promesses de libéralités, de faveurs, d’emplois publics ou privés ou d’autres avantages, a influencé ou tenté d’influencer le vote d’un ou de plusieurs électeurs, soit directement, soit par l’entremise d’un tiers est puni d’un emprisonnement de un (01) an à cinq (05) ans et d’une amende de deux millions (2.000.000) à cinq millions (5.000.000) de francs CFA.
+Est puni de la même peine quiconque par les mêmes moyens, a déterminé ou tenté de déterminer un ou plusieurs électeurs à s’abstenir de voter.
+Ces peines sont assorties de la déchéance civile pendant une durée de trois (03) ans à cinq (05) ans.
+Sont punis des mêmes peines, ceux qui ont agréé ou sollicité les mêmes dons, libéralités ou promesses.

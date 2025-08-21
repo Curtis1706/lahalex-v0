@@ -1,0 +1,1 @@
+Si la filiation d’un enfant né hors mariage vient à être établie à l’égard d’un de ses parents après l’ouverture de la tutelle, le juge des tutelles pourra, à la requête de ce parent, décider de substituer à la tutelle l’administration légale soumise au contrôle judiciaire.

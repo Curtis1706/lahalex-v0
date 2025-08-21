@@ -1,0 +1,1 @@
+Le divorce dissout le mariage, met fin aux devoirs réciproques des époux et au régime matrimonial, conformément au titre relatif à la parenté et à l’alliance.

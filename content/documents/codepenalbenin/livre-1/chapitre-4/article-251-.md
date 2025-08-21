@@ -1,0 +1,2 @@
+Quiconque a voté ou tenté de voter soit en vertu d’un recensement électoral national obtenu frauduleusement soit en prenant faussement les noms et qualités d’un électeur recensé sera puni d’un emprisonnement de un (01) an à deux (02) ans et d’une amende de cinq cent mille (500.000) à un million (1.000.000) de francs CFA.
+Est puni des mêmes peines, tout citoyen qui a profité d’une inscription multiple pour voter plusieurs fois ou tenté de falsifier la carte d’électeur.

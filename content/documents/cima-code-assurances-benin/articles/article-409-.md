@@ -1,0 +1,4 @@
+Article 409 : Engagements en monnaie étrangère
+Dans le cas où l’entreprise possède un actif exprimé ou a des engagements libellés en monnaies étrangères, les comptes concernés sont tenus dans ces monnaies.
+L’inventaire annuel, le bilan, le compte d’exploitation, le compte de pertes et profits et les autres documents publiés sont établis en francs CFA ; les monnaies étrangères sont converties en francs CFA d’après les cours des changes constatés et notifiés à cet effet par la Commission de Contrôle des Assurances.
+Les plus-values nettes de change éventuellement dégagées sont portées selon le cas à un compte de « Réserve spéciale pour fluctuations de change » ou de « Réserve spéciale pour cautionnement à l’étranger »

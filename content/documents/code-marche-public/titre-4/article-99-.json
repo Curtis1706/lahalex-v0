@@ -1,0 +1,14 @@
+{
+  "id": "article-99-",
+  "title": "Article 99 : Régime fiscal",
+  "numero": "99 ",
+  "document": "code-marche-public",
+  "path": [
+    "titre-4"
+  ],
+  "navigation": {
+    "parent": "titre-4",
+    "previous": "article-98-",
+    "next": "article-100-"
+  }
+}

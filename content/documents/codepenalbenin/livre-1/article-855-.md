@@ -1,0 +1,2 @@
+Est punie d’une amende de un million (1.000.000) à cent millions (100.000.000) de francs CFA et d’un emprisonnement de un (01) an à trois (03) ans, ou de l’une de ces deux peines seulement, toute personne ayant contrevenu à la réglementation relative à la production, au transport, à la détention ou à l’utilisation de substances chimiques, nocives ou dangereuses.
+En cas de récidive, la peine est portée au double.

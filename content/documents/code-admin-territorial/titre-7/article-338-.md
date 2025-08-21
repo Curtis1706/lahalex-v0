@@ -1,0 +1,1 @@
+La procédure disciplinaire en cas de faute lourde est également applicable, en cas d'insuffisance de résultats du secrétaire permanent reprochée par le président du conseil de communauté.

@@ -1,0 +1,1 @@
+Tout puits ou forage dont l'usage est reconnu dangereux, par suite de causes extérieures ou permanentes auxquelles il ne peut être remédié, est fermé sous le contrôle des agents en charge de l'hygiène, de l'eau et de l'assainissement.

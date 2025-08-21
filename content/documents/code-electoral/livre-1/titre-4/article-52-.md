@@ -1,0 +1,1 @@
+Il est interdit, sous les peines prévues au code pénal, de distribuer le jour du scrutin, des bulletins, circulaires ou autres documents de propagande et de porter ou d'arborer des emblèmes ou des signes distinctifs des candidats.

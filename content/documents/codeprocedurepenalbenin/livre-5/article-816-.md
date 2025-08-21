@@ -1,0 +1,2 @@
+Si pendant le délai de cinq (05) ans à dater du jugement ou de l’arrêt, le condamné n’a encouru aucune poursuite suivie de condamnation à l’emprisonnement ou à une peine plus grave pour crime ou délit de droit commun, la condamnation assortie de sursis sera comme non avenue.
+Dans le cas contraire, cette condamnation sera d’abord exécutée sans qu’elle puisse se confondre avec la seconde.

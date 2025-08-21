@@ -1,0 +1,2 @@
+La contrainte par corps est réduite de moitié pour les condamnés qui justifient de leur insolvabilité en produisant un certificat de l’agent du trésor de leur domicile constatant qu’ils ne sont pas imposés à un impôt autre que celui du minimum fiscal.
+La réduction est constatée par le procureur de la République ou le procureur général.

@@ -1,0 +1,1 @@
+L’établissement de la filiation maternelle est régi par la loi nationale de la mère au jour de la naissance.

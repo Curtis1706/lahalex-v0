@@ -1,0 +1,1 @@
+La réserve héréditaire est partagée entre les héritiers réservataires, proportionnellement à leurs droits respectifs dans la succession ab intestat tels que définis par le présent code.

@@ -1,0 +1,14 @@
+{
+  "id": "article-900-",
+  "title": "Article 900 :",
+  "numero": "900 ",
+  "document": "coode-personnes-familles",
+  "path": [
+    "livre-3"
+  ],
+  "navigation": {
+    "parent": "livre-3",
+    "previous": "article-899-",
+    "next": "article-901-"
+  }
+}

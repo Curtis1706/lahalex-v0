@@ -1,0 +1,2 @@
+La révocation est la cessation définitive de fonction, prononcée pour une faute lourde commise par le chef de village ou de quartier de ville dans l'exercice de ses fonctions.
+Constituent une faute lourde, les faits prévus à l'article 119 de la présente loi.

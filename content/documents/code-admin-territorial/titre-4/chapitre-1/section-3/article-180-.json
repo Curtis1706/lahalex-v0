@@ -1,0 +1,16 @@
+{
+  "id": "article-180-",
+  "title": "Article 180 :",
+  "numero": "180 ",
+  "document": "code-admin-territorial",
+  "path": [
+    "titre-4",
+    "chapitre-1",
+    "section-3"
+  ],
+  "navigation": {
+    "parent": "section-3",
+    "previous": "article-179",
+    "next": "article-181-"
+  }
+}

@@ -1,0 +1,1 @@
+Nonobstant toutes conventions contraires, les époux contribuent aux charges du ménage à proportion de leurs facultés respectives. Chacun des époux s’acquitte de sa contribution par prélèvement sur les ressources dont il a l’administration et la jouissance et/ ou par son activité au foyer.

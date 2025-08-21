@@ -1,0 +1,4 @@
+Le travail à bord des navires est organisé par le capitaine sous le contrôle du directeur de la marine marchande sur la base de huit (08) heures par jour pendant six (06) jours, ou de quarante-huit (48) heures par semaine, ou de manière équivalente sur une période autre que la semaine sans dépasser le mois.
+Des heures supplémentaires peuvent être ordonnées pour tenir compte de l’exploitation du navire. Mais hormis le cas de force majeure, la durée effective du travail ne peut dépasser douze (12) heures par jour, sauf le jour du départ ou de l’arrivée du navire.
+En mer et sur la rade foraine, le service est organisé par bordées et par quarts.
+Les actes réglementaires fixent en tant que de besoin, l’organisation du travail à bord en fonction du genre de navigation effectuée, des différentes spécialités ainsi que des travaux exigibles du personnel.

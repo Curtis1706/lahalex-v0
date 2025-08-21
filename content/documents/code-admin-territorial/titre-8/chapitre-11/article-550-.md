@@ -1,0 +1,1 @@
+En cas de succession de comptables à un poste au cours d’un exercice, le compte de gestion précise la durée de la gestion des différents comptables.

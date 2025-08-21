@@ -1,0 +1,1 @@
+Faute de publicité réglementaire portant sur l’existence d’un ou de plusieurs gérants à la connaissance des tiers, tous les copropriétaires sont réputés gérants.

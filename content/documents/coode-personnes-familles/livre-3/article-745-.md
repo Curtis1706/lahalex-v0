@@ -1,0 +1,1 @@
+lorsque la succession est dévolue à plusieurs héritiers, chacun d’eux n’est tenu au paiement des dettes et charges de la succession qu’en proportion de sa part héréditaire, sauf les exceptions prévues à l’article suivant.

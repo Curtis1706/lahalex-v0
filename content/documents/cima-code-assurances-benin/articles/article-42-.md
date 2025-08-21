@@ -1,0 +1,3 @@
+Article 42 : Subrogation de l’assureur
+L’assureur qui a payé l’indemnité d’assurance est subrogé, jusqu’à concurrence de cette indemnité, dans les droits et actions de l’assuré contre les tiers qui ont causé le dommage ayant donné lieu à la garantie de l’assureur.
+L’assureur peut être déchargé de tout ou partie de sa garantie envers l’assuré, quand la subrogation ne peut plus, par le fait de l’assuré, s’opérer en faveur de l’assureur.

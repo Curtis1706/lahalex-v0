@@ -1,0 +1,2 @@
+La gestion comptable du Fonds National de Retraite est assurée par le Comptable Supérieur de l'Etat ;
+Celui-ci ouvre, dans ses écritures, un compte spécial où sont imputées toutes les recettes et les dépenses concernant le Fonds.

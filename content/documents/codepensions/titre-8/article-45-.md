@@ -1,0 +1,1 @@
+La concession des pensions et des rentes est effectuée par Arrêté du Ministre chargé des Finances. La signature du Ministre peut être déléguée,

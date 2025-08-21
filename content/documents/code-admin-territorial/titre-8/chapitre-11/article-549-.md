@@ -1,0 +1,2 @@
+A la clôture de l’année budgétaire, le comptable de la commune ou de l’établissement public de coopération intercommunale en fonction arrête les écritures, établit le compte de gestion et le transmet au comptable d’ordre pour déclaration de conformité au plus tard le 15 mars de l’année suivant l’exercice considéré.
+Le comptable d’ordre dispose d’un délai de trente (30) jours pour procéder à la déclaration de conformité.

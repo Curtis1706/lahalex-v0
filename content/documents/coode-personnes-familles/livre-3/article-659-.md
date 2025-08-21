@@ -1,0 +1,1 @@
+La déclaration visée à l’article ci-dessus doit être précédée ou suivie d’un inventaire fidèle et exact des biens de la succession, dressé dans les formes prévues par le code de procédure civile.

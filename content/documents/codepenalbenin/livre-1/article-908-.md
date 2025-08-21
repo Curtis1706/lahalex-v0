@@ -1,0 +1,1 @@
+Les conduites d’évacuation de fumée ne doivent pas déboucher sur la voie publique ou chez les voisins afin d’éviter la propagation de fumée, source de nuisance.

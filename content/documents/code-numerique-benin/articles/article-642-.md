@@ -1,0 +1,2 @@
+Modalités de mise en conformité
+Les modalités de mise en conformité des licences, cahiers de charges et conventions d’exploitation des opérateurs sont précisées par décret pris en Conseil des Ministres.

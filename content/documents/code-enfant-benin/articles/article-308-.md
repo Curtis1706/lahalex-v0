@@ -1,0 +1,4 @@
+Article 308 : Allocations familiales
+Les allocations familiales auxquelles l’enfant a droit sont versées à la personne ou à l’institution privée qui en a la charge ou au Trésor public, si l’enfant a été placé dans une institution d’Etat.
+La cessation du versement est faite à la réception d’une ordonnance du juge des enfants compétent. Dès réception de l’expédition de l’ordonnance, du jugement ou de l’arrêt qui ordonne la garde ou le placement de l’enfant, l’organisme chargé des prestations familiales fait le versement des allocations au bénéficiaire.
+S’il s’agit d’allocations familiales dues à un fonctionnaire par les services financiers de l’Etat, ces derniers cessent le paiement desdites allocations à l'intéressé si, l’enfant est placé dans une institution d’Etat ou en font un versement direct au civilement responsable si, l'enfant est placé auprès d'une personne ou d'une institution privée.

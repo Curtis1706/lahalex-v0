@@ -1,0 +1,3 @@
+Quiconque a volontairement mis le feu soit à des pailles ou récoltes en tas ou en meules, soit à des bois disposés en tas ou en stères, soit à des voitures ou wagons chargés ou non chargés de marchandises, ou autres mobiliers ne faisant point partie d’un convoi contenant des personnes, si ces objets ne lui appartiennent pas, est puni de la réclusion criminelle à temps de dix (10) ans à vingt (20) ans.
+Celui qui, en mettant ou en faisant mettre le feu à l’un des objets énumérés dans le présent article, et à lui-même appartenant, aura volontairement causé un préjudice quelconque à autrui, sera puni des mêmes peines.
+Est puni de la même peine celui qui a mis ou tenté de mettre le feu sur l'ordre du propriétaire.

@@ -1,0 +1,2 @@
+1) Les retenues afférentes aux salaires relatifs à un (1) mois déterminé doivent être reversées au plus tard le 10 du mois suivant.
+2) Le montant correspondant aux retenues faites à la source doit être présenté au guichet de la recette des impôts compétente, accompagné d’une déclaration fiscale mensuelle  établie  en  double  exemplaire  sur  le  modèle  des  imprimés  fournis  par l’administration.

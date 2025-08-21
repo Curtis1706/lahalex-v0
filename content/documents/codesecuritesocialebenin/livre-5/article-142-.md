@@ -1,0 +1,1 @@
+Sera punie d’une amende de 5.000 à 50.000 FCFA, toute personne qui aura contrevenu aux dispositions de l’article 87 de la présente loi.

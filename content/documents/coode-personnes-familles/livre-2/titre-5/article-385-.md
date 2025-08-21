@@ -1,0 +1,1 @@
+Les aliments comprennent tout ce qui est nécessaire à la vie notamment la nourriture, le logement, les vêtements, les frais de maladie.

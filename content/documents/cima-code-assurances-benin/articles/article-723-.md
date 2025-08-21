@@ -1,0 +1,2 @@
+Article 723 : Exigence de marge de solvabilité des sociétés mixtes
+Lorsqu’une société réalise à la fois des opérations dans les branches 1 à 7 et dans la branche 11 de l’article 717, conformément aux dispositions du sixième alinéa de l’article 715, le montant minimal réglementaire de la marge de solvabilité est calculé conformément aux dispositions de l’article 337-2. Le mode de gestion de la branche 11 est assimilé dans ce cas à celui de l’IARD.

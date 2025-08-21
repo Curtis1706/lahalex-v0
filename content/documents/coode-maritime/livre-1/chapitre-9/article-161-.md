@@ -1,0 +1,2 @@
+Le commandement est fait à la personne du propriétaire, à son domicile, ou à la personne de son représentant qualifié.
+Au cas où ni le propriétaire, ni un représentant permanent ne sont sur les lieux, le commandement peut être fait au capitaine si la créance du saisissant est relative au navire ou à l’expédition.

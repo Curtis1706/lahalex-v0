@@ -1,0 +1,15 @@
+{
+  "id": "article-47-",
+  "title": "Article 47 : Secours et mesures de sauvetage",
+  "numero": "47 ",
+  "document": "cima-code-assurances-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-46-",
+    "next": "article-48-"
+  }
+}

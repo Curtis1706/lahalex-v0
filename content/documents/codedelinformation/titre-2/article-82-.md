@@ -1,0 +1,1 @@
+Tout refus de donner communication d’un renseignement ou d’un document public doit être motivé.

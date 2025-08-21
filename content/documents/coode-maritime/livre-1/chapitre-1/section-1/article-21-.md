@@ -1,0 +1,4 @@
+Aucune exploration, exploitation, installation ou infrastructure affectant la zone économique exclusive ne peut être entreprise par les ressortissants d’un Etat tiers sans autorisation de l’Etat ou sans évoquer les termes d’un accord conclu par l’Etat béninois.
+La pose, le maintien et l’entretien d’ouvrages tels que câbles de télécommunications ou oléoducs sur fond de la mer dans la zone économique exclusive sont subordonnés à l’approbation par l’Etat béninois du tracé et des caractéristiques de l’ouvrage.
+Pour l’exploitation et la gestion de cette zone, l’Etat peut prendre toutes les mesures utiles pour conclure
+avec tout Etat ou toute entreprise, des accords particuliers d’association, de concession et de prise de participation.

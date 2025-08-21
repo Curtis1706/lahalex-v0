@@ -1,0 +1,2 @@
+Les organes de presse peuvent s’adjoindre des collaborateurs non journalistes ou recevoir, publier ou diffuser toutes opinions, analyses, émissions, à condition que les écrits, les émissions soient signés par un auteur identifiable.
+Le directeur de publication ou le rédacteur en chef assume la responsabilité des écrits et des émissions dont les auteurs ne sont pas identifiés.

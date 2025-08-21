@@ -1,0 +1,3 @@
+Quiconque construit ou exploite un ouvrage en violation des obligations imposées par les lois et règlements, est puni d’une peine d’emprisonnement de six (06) mois à douze (12) mois et d’une amende de cent mille (500.000) francs CFA à deux millions (2.000.000) de francs CFA ou de l’une de ces deux peines seulement, sans préjudice de la destruction de l’ouvrage, le cas échéant, sous astreinte.
+En cas de récidive, la peine est portée au double.
+La juridiction peut ordonner la remise en l’état, le ministre peut y procéder d’office, aux frais de la personne condamnée.

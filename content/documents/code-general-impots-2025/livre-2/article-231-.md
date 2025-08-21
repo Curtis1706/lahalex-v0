@@ -1,0 +1,4 @@
+1) Les marchés publics peuvent bénéficier d’un régime dérogatoire qui consiste à la prise en charge par l’État béninois de la fiscalité indirecte. Par fiscalité indirecte, il faut entendre d’une part, le droit de douane et les taxes au cordon douanier et, d’autre part, les taxes intérieures sur le chiffre d’affaires, que supporte le titulaire du marché, dans les prix et valeurs des biens, marchandises et fournitures acquis ou incorporés dans la réalisation du marché.
+Ce  régime  dérogatoire  est  celui  prévu  dans  le  cahier  des  charges  fiscales  des marchés publics.
+2)  Les  clauses  des  marchés  publics  établies  en  contravention  des  présentes
+dispositions sont inopposables à l’administration fiscale.

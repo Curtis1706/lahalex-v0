@@ -1,0 +1,1 @@
+Après cassation d'un arrêt de la cour d'appel statuant en matière criminelle, la Cour suprême prononce le renvoi de la procédure devant la même cour d'appel autrement composée ou une autre cour d’appel.

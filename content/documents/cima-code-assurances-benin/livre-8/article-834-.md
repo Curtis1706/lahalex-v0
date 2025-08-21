@@ -1,0 +1,2 @@
+_(Règlement 2015-02)_ Sanctions des règles relatives à la constitution, et aux souscriptions
+Seront punis d’un emprisonnement de un à cinq ans et d’une amende de 360.000 à 7.200.000 FCFA ou de l’une de ces deux peines seulement ceux qui sciemment auront procédé à des déclarations ou dissimulations frauduleuses dans tous documents produits à la Commission de contrôle des assurances, à la direction nationale des assurances ou portés à la connaissance du public.

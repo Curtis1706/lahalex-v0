@@ -1,0 +1,3 @@
+La loi nouvelle s’applique, pour la dissolution ou le relâchement du lien matrimonial, aux unions antérieures à la mise en vigueur du présent code.
+Les divorces et séparations de corps définitifs antérieurs à la mise en vigueur du présent code produisent les effets prévus par la loi en vigueur au moment où sont intervenus la rupture ou le relâchement du lien matrimonial.
+Les procédures en divorce ou en séparation de corps en cours lors de la mise en vigueur du présent code seront poursuivies selon les dispositions applicables au jour de la demande.

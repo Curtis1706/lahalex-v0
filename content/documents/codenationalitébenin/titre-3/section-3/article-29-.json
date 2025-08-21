@@ -1,0 +1,15 @@
+{
+  "id": "article-29-",
+  "title": "Article 29 :",
+  "numero": "29 ",
+  "document": "codenationalitébenin",
+  "path": [
+    "titre-3",
+    "section-3"
+  ],
+  "navigation": {
+    "parent": "section-3",
+    "previous": "article-28-",
+    "next": "article-30-"
+  }
+}

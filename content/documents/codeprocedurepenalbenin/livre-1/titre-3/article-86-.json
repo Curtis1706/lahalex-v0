@@ -1,0 +1,15 @@
+{
+  "id": "article-86-",
+  "title": "Article 86 :",
+  "numero": "86 ",
+  "document": "codeprocedurepenalbenin",
+  "path": [
+    "livre-1",
+    "titre-3"
+  ],
+  "navigation": {
+    "parent": "titre-3",
+    "previous": "article-85-",
+    "next": "article-87-ancien-"
+  }
+}

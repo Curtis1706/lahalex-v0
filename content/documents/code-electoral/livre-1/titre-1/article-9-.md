@@ -1,0 +1,1 @@
+Est électeur dans les conditions déterminées par la présente loi, toute personne de nationalité béninoise, âgée de dix-huit (18) ans révolus au jour du 1 scrutin d'une année et jouissant de ses droits civils et politiques.

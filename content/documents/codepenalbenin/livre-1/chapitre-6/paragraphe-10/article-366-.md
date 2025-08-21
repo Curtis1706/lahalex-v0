@@ -1,0 +1,2 @@
+Est puni comme tentative d’enrichissement illicite, le défaut de déclaration de leurs biens par le Président de la République, les membres du gouvernement, trois (03) mois au plus tard après leur entrée en fonction ou après la cessation de celles-ci.
+L’omission d’une partie de leurs biens à l’occasion de ladite déclaration est également punie comme la tentative d’enrichissement illicite.

@@ -1,0 +1,1 @@
+Sont exceptés des dispositions ci-dessus les faux prévus aux articles 311 à 316 sous réserve des dispositions particulières prévues à ces articles.

@@ -1,0 +1,2 @@
+Les allocations familiales sont maintenues pendant les périodes d’interruption d’études ou d’apprentissage pour cause de maladie.
+L’attribution des bourses d’enseignement ou d’apprentissage ne fait pas obstacle au droit aux allocations familiales sauf lorsque le boursier bénéficie d’une bourse entière d’entretien et que l’apprenti perçoit une rémunération au moins égale à la moitié du montant du salaire minimum interprofessionnel garanti.

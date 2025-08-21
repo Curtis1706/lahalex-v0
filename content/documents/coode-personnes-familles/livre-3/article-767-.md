@@ -1,0 +1,1 @@
+Lorsque le défunt laisse un ou plusieurs descendants mineurs, le maintien de l’indivision peut être demandé, soit par le conjoint survivant, soit par tout héritier, soit par le représentant légal des mineurs.

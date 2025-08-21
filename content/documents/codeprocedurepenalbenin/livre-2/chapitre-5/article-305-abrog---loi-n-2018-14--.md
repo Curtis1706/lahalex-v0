@@ -1,0 +1,1 @@
+L’accusé ne peut récuser plus de trois (03) jurés, le ministère public plus de deux (02).

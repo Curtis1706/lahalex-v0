@@ -1,0 +1,1 @@
+Les propriétés bâties sont imposées sur la base de leur valeur locative, selon des modalités fixées par arrêté du ministre chargé des finances.

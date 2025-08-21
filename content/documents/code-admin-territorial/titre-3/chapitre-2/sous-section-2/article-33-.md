@@ -1,0 +1,1 @@
+La commune initie les actes liés aux travaux d’aménagement, d’infrastructures et d'équipements qui relèvent de son patrimoine ainsi que les actions afférentes à leur gestion et à leur entretien. La commune est compétente pour l'urbanisation de son territoire.

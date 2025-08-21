@@ -1,0 +1,3 @@
+L’affrètement, la location et le crédit-bail constituent des formes d'exploitation d'aéronefs dont les modalités sont fixées par voie réglementaire.
+Ces modalités tiennent compte des dispositions de l'article 83 bis de la Convention relative à l'aviation civile internationale.
+Les contrats d'affrètement, de location et de crédit-bail sont approuvés par l'organisme national en charge de l'aviation civile.

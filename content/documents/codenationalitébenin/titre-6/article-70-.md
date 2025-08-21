@@ -1,0 +1,2 @@
+Dans le cas où la loi donne la faculté de souscrire une déclaration en vue de répudier la nationalité béninoise ou de renoncer à la qualité de Béninois, la preuve qu'une telle déclaration n'a pas été souscrite ne peut résulter que d'une attestation délivrée par l'autorité en charge de la délivrance des actes relatifs à la nationalité, à la demande de tout requérant.
+La possession d'état de Béninois est présumée jusqu'à preuve contraire.

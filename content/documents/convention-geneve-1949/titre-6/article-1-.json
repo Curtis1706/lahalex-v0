@@ -1,0 +1,14 @@
+{
+  "id": "article-1-",
+  "title": "Article 1 :",
+  "numero": "1 ",
+  "document": "convention-geneve-1949",
+  "path": [
+    "titre-6"
+  ],
+  "navigation": {
+    "parent": "titre-6",
+    "previous": "article-14-",
+    "next": "article-2-"
+  }
+}

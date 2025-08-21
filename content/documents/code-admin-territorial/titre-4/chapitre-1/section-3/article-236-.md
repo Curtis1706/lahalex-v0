@@ -1,0 +1,2 @@
+La révocation du chef de village ou de quartier de ville est prononcée par le maire, après délibération du conseil communal, sur saisine du chef d’arrondissement. Le maire convoque le conseil dans un délai de huit (08) jours à compter de sa saisine.
+Le conseil communal délibère sur la révocation à la majorité absolue des membres présents.

@@ -1,0 +1,1 @@
+Sont punis d'une amende maximale de cinq millions (5 000 000) de francs CFA et peuvent l'être en outre, suivant les circonstances, ceux qui ont contrevenu aux dispositions de l'article 67 de la présente loi ainsi qu’à celles des textes réglementaires édictés pour son application.

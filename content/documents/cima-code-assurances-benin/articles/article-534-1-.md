@@ -1,0 +1,3 @@
+Article 534-1 : Rapport contradictoire
+En cas de contrôle sur place ou sur pièces d’un courtier ou d’une société de courtage, un rapport contradictoire est établi. Les observations formulées par le contrôleur sont portées à la connaissance du courtier. Le Ministre en charge du secteur des assurances prend connaissance de ces observations ainsi que des réponses apportées par le courtier.
+Les résultats des contrôles sont communiqués au courtier par le Ministre.

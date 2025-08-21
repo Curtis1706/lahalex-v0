@@ -1,0 +1,1 @@
+En ce qui concerne les affiches visées par le paragraphe 1 de l’article 310 du présent code, la taxe est perçue préalablement à l’affichage par apposition de timbres mobiles.

@@ -1,0 +1,1 @@
+Le chargeur ou son représentant doit présenter les marchandises à temps et au lieu fixé par la convention des parties ou l’usage du port de chargement.

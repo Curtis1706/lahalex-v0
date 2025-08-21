@@ -1,0 +1,2 @@
+Article 309 : Cas des allocations familiales d'un enfant condamné à une peine d’emprisonnement
+Si un enfant a été condamné à une peine d’emprisonnement ferme, les allocations familiales auxquelles il a droit sont, par application des articles 310, 311 et 312 de la présente loi versées au Trésor public.

@@ -1,0 +1,1 @@
+La cour d’assises est présidée par le président de la cour d’appel. En cas d’empêchement, le président de la cour d’appel désigne par ordonnance le magistrat du siège appelé à le remplacer.

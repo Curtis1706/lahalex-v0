@@ -1,0 +1,3 @@
+Copie électronique
+La copie ou la reproduction d’un acte sous forme électronique a la même valeur et force probante que l’acte lui-même, sous réserve que la copie ou la reproduction ait conservé l'intégrité de l'acte électronique original.
+La preuve de cette intégrité peut être apportée au moyen d’un certificat de conformité délivré par un prestataire de services de confiance répondant aux exigences prévues au Livre III du présent code.

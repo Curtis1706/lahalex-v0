@@ -1,0 +1,15 @@
+{
+  "id": "article-20-",
+  "title": "Article 20 : Est auteur de l’infraction la personne qui :",
+  "numero": "20 ",
+  "document": "codepenalbenin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-19-",
+    "next": "article-21-"
+  }
+}

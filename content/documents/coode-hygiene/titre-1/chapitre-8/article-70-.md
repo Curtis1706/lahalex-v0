@@ -1,0 +1,2 @@
+Les fabricants de glaces alimentaires, d'eau gazeuse, de sodas, de jus de fruits, de produits agroalimentaires, ainsi que les brasseurs, utilisent l'eau du réseau d'adduction publique.
+Ils ne peuvent utiliser une autre eau que sur autorisation spéciale du ministre chargé de la santé, après avis du ministre chargé de l'eau.

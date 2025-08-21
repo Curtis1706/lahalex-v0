@@ -1,0 +1,16 @@
+{
+  "id": "article-15-",
+  "title": "Article 15 : La Commission électorale nationale autonome (CENA) est chargée notamment de :",
+  "numero": "15 ",
+  "document": "code-electoral",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "chapitre-1"
+  ],
+  "navigation": {
+    "parent": "chapitre-1",
+    "previous": "article-14-",
+    "next": "article-16-"
+  }
+}

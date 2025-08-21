@@ -1,0 +1,1 @@
+Les préfets, maires et autres administrateurs qui se sont immiscés dans l’exercice du pouvoir législatif comme il est dit à l’article 276 du présent code ou qui se sont ingérés de prendre des arrêtés généraux tendant à intimer des ordres ou des défenses quelconques à des cours ou tribunaux, sont punis de la détention criminelle à temps de cinq (05) ans à dix (10) ans.

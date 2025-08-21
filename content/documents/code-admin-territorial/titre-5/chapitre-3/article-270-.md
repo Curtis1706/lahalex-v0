@@ -1,0 +1,1 @@
+La commune est tenue de protéger les personnes visées à l'article 269 de la présente loi contre les menaces, outrages, diffamations ou attaques de quelque nature que ce soit, dont elles peuvent être l’objet, dans l’exercice de leur fonction.

@@ -1,0 +1,3 @@
+Le ministre de la justice peut dénoncer au procureur général les infractions à la loi pénale dont il a connaissance, lui enjoindre d’engager ou de faire engager des poursuites ou de saisir la juridiction compétente de telles réquisitions écrites qu’il juge opportunes.
+En tout état de cause, aucune instruction de non poursuite ne peut être donnée.
+Les instructions ci-dessus spécifiées devront être écrites, motivées et versées au dossier.

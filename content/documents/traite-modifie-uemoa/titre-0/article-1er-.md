@@ -1,0 +1,32 @@
+(modifié)
+Aux fins du présent Traité, on entend par :
+- "UEMOA" : l'Union Economique et Monétaire Ouest Africaine, objet du présent Traité ;
+- "Union" : l'Union Economique et Monétaire Ouest Africaine, objet du présent Traité ;
+- "UMOA" : l'Union Monétaire Ouest Africaine visée à l'article 2 du présent Traité ;
+- "Organes" : les différents organes de l'Union visés à l'article 16 du présent Traité ;
+- "Conférence" : la Conférence des Chefs d'Etat et de Gouvernement de l'Union prévue à l'article 17 du présent Traité ;
+- "Conseil" : le Conseil des Ministres de l'Union prévu à l'article 20 du présent Traité ;
+- "Commission" : la Commission de l'Union prévue à l'article 26 du présent Traité ;
+- "Parlement" : le Parlement de l'Union prévu à l'article 35 du présent Traité ;
+- "Cour de Justice" : la Cour de Justice de l'Union créée par l'article 38 du présent Traité et régie par la section 1 du protocole additionnel n° 1 ;
+- "Cour des Comptes" : la Cour des Comptes de l'Union créée par l'article 38 du présent Traité et régie par la section Il du protocole additionnel n° 1 ;
+- "Institutions spécialisées autonomes" : la BCEAO et la BOAD ;
+- "BCEAO" : la Banque Centrale des Etats de l'Afrique de l'Ouest visée à l'article 41 du présent Traité ;
+- "BOAD : la Banque Ouest Africaine de Développement visée à l'article 41 du présent Traité ;
+- "Traité de l'Union" : le présent Traité ;
+- "Protocole additionnel n° 1" : le protocole prévu à l'article 38 du présent Traité
+- "Protocole additionnel n° Il" : le protocole prévu à l'article 101 du présent Traité
+- "Acte additionnel" : l'acte visé à l'article 19 du présent Traité ;
+- "Règlement" : l'acte visé à l'article 43 du présent Traité ;
+- "Décision" : l'acte visé à l'article 43 du présent Traité ;
+- "Directive" l'acte visé à l'article 43 du présent Traité ;
+- "Recommandation" : l'acte visé à l'article 43 du présent Traité ;
+- "Avis" : l'acte visé à l'article 43 du présent Traité ;
+- "Marché commun" : le marché unifié constitué entre les Etats membres, visé aux articles 4 et 76 du présent Traité ;
+- "Politiques communes" : les politiques économiques communes prévues aux articles 62 à 100 du présent Traité ;
+- "Politiques sectorielles": les politiques sectorielles prévues à l'article 101 du présent Traité et régies par le protocole additionnel n° Il ;
+- "Surveillance multilatérale" : le mécanisme communautaire de définition et de contrôle des politiques économiques entre les Etats membres, prévu à l'article 63 et régi par les articles 64 à 75 du présent Traité ;
+- "Droit d'établissement" : le droit prévu à l'article 92 du présent Traité ;
+- "Etat membre" : l'Etat partie prenante au présent Traité tel que prévu par son préambule ;
+- "Membre associé" : tout Etat admis à participer à certaines politiques de l'Union conformément aux dispositions de l'article 104 du présent Traité ;
+- "Etat tiers" : tout Etat autre qu'un Etat membre.

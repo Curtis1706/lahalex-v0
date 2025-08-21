@@ -1,0 +1,1 @@
+Dans les cas où l’assistance du curateur n’était pas requise par la loi, les actes que le majeur en curatelle a pu faire seul restent néanmoins sujets aux actions en rescision ou réduction réglées à l’article 550 du présent code comme s’ils avaient été faits par une personne sous sauvegarde de justice.

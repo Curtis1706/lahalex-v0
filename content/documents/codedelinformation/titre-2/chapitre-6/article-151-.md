@@ -1,0 +1,2 @@
+Pour les services de vidéographie, la preuve du contenu du message peut être rapportée par tout moyen.
+Les messages et tous autres documents nécessaires à l’administration de la preuve des imputations dommageables de nature à porter atteinte à l’honneur ou à la réputation du demandeur, sont conservés sous la responsabilité du directeur de la station de radiodiffusion sonore, et de télévision ou de la presse écrite pendant soixante (60) jours, à compter de la date à laquelle ils ont cessé d’être mis à la disposition du public.

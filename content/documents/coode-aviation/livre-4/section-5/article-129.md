@@ -1,0 +1,1 @@
+Toute personne physique ou morale qui, dans l'exercice d'une activité régie par la présente loi, a connaissance d'un accident ou d'un incident d'aviation civile en rend compte sans délai au Bureau enquêtes-accidents.

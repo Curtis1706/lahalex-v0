@@ -1,0 +1,1 @@
+Les dispositions des articles 564, 565 et 566 du présent code sont applicables aux assurances du fret.

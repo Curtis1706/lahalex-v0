@@ -1,0 +1,18 @@
+{
+  "id": "article-41-",
+  "title": "Article 41 :",
+  "numero": "41 ",
+  "document": "code-general-impots-2025",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-1",
+    "section-2",
+    "paragraphe-10"
+  ],
+  "navigation": {
+    "parent": "paragraphe-10",
+    "previous": "article-40-",
+    "next": "article-42-"
+  }
+}

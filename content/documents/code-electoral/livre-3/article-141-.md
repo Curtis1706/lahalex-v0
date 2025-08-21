@@ -1,0 +1,2 @@
+La circonscription électorale est le territoire national, y compris les représentations diplomatiques et consulaires de la République du Bénin à l'étranger.
+La Commission électorale nationale autonome, en liaison avec le Gouvernement, prend les dispositions nécessaires pour permettre aux Béninois résidant à l'étranger d'exercer leur droit de vote dans le respect des textes en vigueur.

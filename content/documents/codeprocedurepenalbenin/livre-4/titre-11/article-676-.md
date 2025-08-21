@@ -1,0 +1,1 @@
+Le jugement peut être publié sans que le nom du mineur puisse être indiqué même par une initiale, sous peine des sanctions prévues à l’article précédent.

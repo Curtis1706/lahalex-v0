@@ -1,0 +1,4 @@
+Sont punis des peines prévues aux articles 986 et 987 du présent code ou de l’une de ces deux peines seulement :
+1. ceux qui, par maladresse, imprudence, inattention, négligence ou inobservation des règlements ont involontairement causé la mort ou la blessure des animaux ou bestiaux appartenant à autrui ;
+2. ceux qui ont exercé sans nécessité, publiquement ou non, des mauvais traitements envers un animal domestique ou apprivoisé ou tenu en captivité.
+En cas de condamnation du propriétaire de l’animal ou si le propriétaire est inconnu, le tribunal pourra décider que l’animal soit remis à une œuvre de protection animale reconnue d’utilité publique ou déclarée, laquelle pourra librement en disposer.

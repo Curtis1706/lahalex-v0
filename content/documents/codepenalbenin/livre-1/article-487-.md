@@ -1,0 +1,5 @@
+Sont punis d’un emprisonnement ferme de trois (03) mois à cinq (05) ans et d’une amende allant de cinq cent mille (500.000) francs CFA à cent millions (100.000.000) de francs CFA ceux qui, sciemment, auront contrevenu aux dispositions des articles 483, 484, 485 et 486.
+Toutefois, l’amende est de dix millions (10.000.000) de francs CFA à cent millions (100.000.000) de francs CFA et l’emprisonnement devra être appliqué si le délit de tromperie prévu à l’article 934 a été commis, soit à l’aide :
+- de poids, mesures et instruments de pesage ; de mesurage ou de dosage faux ou inexacts;
+- de manœuvres ou procédés tendant à fausser les opérations de l’analyse ou du dosage, du pesage ou du mesurage, ou tendant à modifier frauduleusement la composition, le poids ou le volume des denrées, même avant ces opérations ;
+- d’indications frauduleuses tendant à faire croire à une opération antérieure et exacte.

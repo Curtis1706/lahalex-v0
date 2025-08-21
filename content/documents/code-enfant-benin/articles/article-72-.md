@@ -1,0 +1,2 @@
+Article 72 : Restitution de l'enfant
+Si à l’expiration du délai de trois (03) mois, le consentement n’a pas été rétracté, les parents peuvent encore demander la restitution de l’enfant, lorsque celui-ci n'a pas été placé en vue de l’adoption et que la requête aux fins d’adoption n’a pas encore été déposée. Si la personne ou le service public spécialisé qui a recueilli l’enfant refuse de le rendre, les parents peuvent saisir le juge des enfants qui apprécie, compte tenu de l’intérêt de l’enfant.

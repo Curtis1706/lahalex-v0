@@ -1,0 +1,2 @@
+Les dispositions de la présente Convention ne font pas obstacle aux activités Activités humanitaires que le Comité international de la Croix-Rouge, ainsi que tout du Comité autre organisme humanitaire impartial, entreprendra pour la protection des international blessés et malades, ainsi que des membres du personnel sanitaire et reli- de la
+gieux, et pour les secours à leur apporter, moyennant l’agrément des Parties Croix-Rouge au conflit intéressées.

@@ -1,0 +1,1 @@
+L'installation d'activités bruyantes ou toute autre source de bruit intense est interdite aux abords des établissements des différents ordres d'enseignement, des formations sanitaires, des lieux de culte, des cimetières, des casernes, des zones d'habitation et autres services administratifs.

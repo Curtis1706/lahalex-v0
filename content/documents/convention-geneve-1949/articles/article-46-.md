@@ -1,0 +1,2 @@
+Fin Pour autant qu’elles n’auront pas été rapportées antérieurement, les mesures des mesures restrictives prises à l’égard des personnes protégées prendront fin aussi rapi- restrictives dement que possible après la fin des hostilités.
+Les mesures restrictives prises à l’égard de leurs biens cesseront aussi rapi- dement que possible après la fin des hostilités, conformément à la législation de la Puissance détentrice.

@@ -1,0 +1,1 @@
+Il peut être fait appel des ordonnances et des jugements pris en application des articles 700 à 704 du présent code dans les formes ordinaires. L’appel est porté devant la cour d’appel statuant en chambre des mineurs.

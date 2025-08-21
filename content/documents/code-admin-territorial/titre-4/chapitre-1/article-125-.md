@@ -1,0 +1,1 @@
+Le secrétariat exécutif de la mairie est organisé et fonctionne conformément à l'organigramme adopté par le conseil de supervision, au règlement intérieur et aux manuels des procédures de la commune.

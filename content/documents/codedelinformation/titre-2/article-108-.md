@@ -1,0 +1,2 @@
+Le Président de la République, Chef de l’Etat, agissant au nom du peuple béninois et garant de l’unité nationale intervient sans limitation et sans restriction aucune sur les médias de service public.
+Toutefois, les interventions du Président de la République en qualité de chef de parti, sont comptabilisées dans la tranche horaire mensuelle affectée à sa formation politique et traitées comme telles.

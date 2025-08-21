@@ -1,0 +1,1 @@
+Est puni comme délit d’initié d’un emprisonnement de deux (02) ans à cinq (05) ans et d’une amende de cinq millions (5000.000) à dix millions (10.000.000) de francs CFA, l’acquisition ou la prise à bail d’un ou de plusieurs biens appartenant à l’Etat, par le Président de la République ou un membre du gouvernement, par lui-même ou par intermédiaire, sans les autorisations légales.

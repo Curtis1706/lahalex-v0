@@ -1,0 +1,3 @@
+Sanction des règles relatives aux clauses types et à la contribution et la non production de documents aux autorités de contrôle
+Toute infraction aux dispositions des articles 302 et 307 sera punie d’une amende de 180.000 à 360.000 FCFA. En ce qui concerne les infractions aux dispositions de l’article 302, l’amende sera prononcée pour chacune des infractions constatées sans que le total des amendes encourues puisse excéder 3.000.000 FCFA.
+Les mêmes sanctions sont applicables en cas de non production de documents à la Commission de Contrôle et aux Directions Nationales d’Assurance.

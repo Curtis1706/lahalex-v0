@@ -1,0 +1,3 @@
+Risques accessoires
+Toute entreprise obtenant l’agrément pour un risque principal appartenant à une branche mentionnée aux 1 à 18 de l’article 328 peut également garantir des risques compris dans une autre branche sans que l’agrément soit exigé pour ces risques, lorsque ceux-ci sont liés au risque principal, concernent l’objet couvert contre le risque principal et sont garantis par le contrat qui couvre le risque principal.
+Toutefois, les risques compris dans les branches mentionnées aux 14, et 15 de l’article 328 ne peuvent être considérés comme accessoires à d’autres branches.

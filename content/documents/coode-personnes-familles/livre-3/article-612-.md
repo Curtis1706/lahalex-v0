@@ -1,0 +1,1 @@
+La branche est constituée par la ligne directe des parents issus d’une même souche.

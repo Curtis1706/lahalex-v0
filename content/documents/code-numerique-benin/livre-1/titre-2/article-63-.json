@@ -1,0 +1,15 @@
+{
+  "id": "article-63-",
+  "title": "Article 63 : Droit d’accès et d’interconnexion",
+  "numero": "63 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-62-",
+    "next": "article-64-"
+  }
+}

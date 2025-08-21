@@ -1,0 +1,1 @@
+Est puni de la réclusion criminelle de dix (10) ans à vingt (20) ans, quiconque s’est livré ou a participé à des pratiques de sorcellerie, de magie ou de charlatanisme, susceptibles de troubler l’ordre public ou de porter atteinte aux personnes et aux biens.

@@ -1,0 +1,5 @@
+Mise à disposition des infrastructures essentielles
+Toutes ressources et/ou capacités issues des infrastructures essentielles doivent être octroyées dans des conditions techniques et financières raisonnables et équitables.
+L’Autorité de régulation peut imposer des obligations techniques et/ou tarifaires à l’accès à ces infrastructures, et notamment imposer que la fourniture de certaines prestations doit être orientée vers les coûts.
+L’Autorité de régulation peut également imposer que ces infrastructures essentielles soient publiées dans un catalogue d’accès et d’interconnexion dans les conditions prévues à l’article 70 du présent code.
+Les conventions conclues en application du présent article sont communiquées, pour approbation, à l’Autorité de régulation, qui peut en demander la modification dans les conditions prévues à l’article 70 du présent code. Toute modification de ces conventions par les parties doit être notifiée à l’Autorité de régulation.

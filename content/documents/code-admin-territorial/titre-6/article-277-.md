@@ -1,0 +1,1 @@
+Les actes des autorités communales qui ne sont pas soumis à approbation deviennent exécutoires de plein droit, après la délivrance de l'accusé de réception par le préfet, sauf demande de seconde lecture de la part du préfet dans le délai légal du recours, et après leur publication ou leur notification aux intéressés.

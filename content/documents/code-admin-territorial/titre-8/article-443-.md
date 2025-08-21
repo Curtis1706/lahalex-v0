@@ -1,0 +1,2 @@
+Les créances de la commune ou de l'établissement public de coopération intercommunale font l'objet d'un titre qui matérialise ses droits.
+Le titre est un acte émis ou rendu exécutoire par l'ordonnateur ou toute autre autorité habilitée à cet effet, au profit de la commune ou de la coopération établissement public d’intercommunale, quelle qu'en soit la dénomination.

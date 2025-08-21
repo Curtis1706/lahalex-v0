@@ -1,0 +1,1 @@
+Le consentement à l’adoption est donné par acte authentique devant le juge du domicile ou de la résidence de la personne qui consent, ou devant un notaire béninois ou devant les agents diplomatiques ou consulaires béninois. Ce consentement est donné dans un délai de trois (3) mois au plus tard, pour compter de la date de la demande.

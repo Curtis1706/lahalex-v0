@@ -1,0 +1,2 @@
+Les enfants naturels dont la filiation est régulièrement établie ont vis-à-vis de leurs auteurs, les mêmes droits et obligations alimentaires que les enfants légitimes.
+Toutefois, ils ne pourront être élevés au domicile conjugal qu’avec le consentement du conjoint de leur auteur.

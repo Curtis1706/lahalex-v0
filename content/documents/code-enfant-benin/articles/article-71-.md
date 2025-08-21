@@ -1,0 +1,2 @@
+Article 71 : Rétractation du consentement
+Le consentement à l’adoption peut être rétracté dans les trois (03) mois et il est donné avis de cette possibilité par l’autorité qui le reçoit à celui qui l’exprime. Mention de cet avis est portée à l’acte. Le consentement ne devient définitif que passé le délai de trois (03) mois. La rétractation doit être faite par lettre recommandée avec demande d’avis de réception adressée à l’autorité qui a reçu le consentement à l’adoption. La remise de l’enfant à ses parents sur demande, même verbale, vaut également preuve de la rétractation.

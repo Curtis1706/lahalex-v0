@@ -1,0 +1,1 @@
+La cessation de fonction du conseil de village ou de quartier de ville intervient soit après sa dissolution, soit à l'expiration de la durée du mandat des conseillers ou en cas de démission collective du conseil.

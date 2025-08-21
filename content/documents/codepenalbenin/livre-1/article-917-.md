@@ -1,0 +1,1 @@
+L’utilisation abusive des haut-parleurs et des avertisseurs sonores et l’installation dans un tissu urbain dense de tout atelier bruyant sont interdites.

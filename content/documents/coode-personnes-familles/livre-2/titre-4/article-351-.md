@@ -1,0 +1,1 @@
+Le placement en vue de l’adoption met obstacle à toute restitution de l’enfant à la famille d’origine. Il fait échec à toute déclaration de filiation et à toute reconnaissance.

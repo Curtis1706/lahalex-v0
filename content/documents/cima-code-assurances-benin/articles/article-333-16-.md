@@ -1,0 +1,4 @@
+Article 333-16 : Transmission et publication de la décision
+Tout jugement ou arrêt de condamnation rendu suite à la saisine de la Commission Régionale de Contrôle des Assurances sera adressée au Secrétariat Général de la CIMA qui en assurera la publication.
+## TITRE 3 : REGIME FINANCIER
+### CHAPITRE 1 : LES ENGAGEMENTS REGLEMENTES ET LES PROVISIONS TECHNIQUES

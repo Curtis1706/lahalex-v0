@@ -1,0 +1,15 @@
+{
+  "id": "article-41-",
+  "title": "Article 41 : Aliénation des véhicules terrestres à moteur",
+  "numero": "41 ",
+  "document": "cima-code-assurances-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-40-",
+    "next": "article-42-"
+  }
+}

@@ -1,0 +1,2 @@
+Est punie d’une amende de cinq millions (5.000.000) à vingt-cinq millions (25.000.000) de francs CFA et d’une peine d’emprisonnement de (01) an à trois (03) ans, ou de l’une de ces deux peines seulement toute personne convaincue d’avoir falsifié le résultat d’une étude d’impact ou altéré les paramètres permettant la réalisation d’une étude d’impact.
+L’usage du résultat falsifié ou altéré d’une étude d’impact mentionné à l’alinéa précédent est puni des mêmes peines.

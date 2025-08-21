@@ -1,0 +1,1 @@
+La présente loi, qui abroge toutes dispositions antérieures contraires, sera exécutée comme Loi de l'Etat.

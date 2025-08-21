@@ -1,0 +1,2 @@
+Toutes activités et tous comportements susceptibles d’attirer les oiseaux près d'un aéroport du territoire national sont interdits.
+Les modalités de mise en œuvre des présentes prescriptions sont fixées par voie réglementaire.

@@ -1,0 +1,1 @@
+La suspension des délais susvisés prend fin dès l’arrêt de la cessation concertée du travail.

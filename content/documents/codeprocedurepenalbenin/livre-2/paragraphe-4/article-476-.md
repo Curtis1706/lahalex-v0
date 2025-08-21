@@ -1,0 +1,2 @@
+Si les débats ne peuvent être terminés au cours de la même audience, le tribunal renvoie l’affaire à la date qu’il fixe et qui est inscrite dans les notes tenues par le greffier.
+Les parties et les témoins non entendus, ou ceux qui ont été invités à rester à la disposition du tribunal, sont tenus de comparaître sans autres citations, à l’audience de renvoi.

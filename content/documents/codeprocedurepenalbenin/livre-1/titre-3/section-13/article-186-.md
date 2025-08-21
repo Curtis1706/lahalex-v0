@@ -1,0 +1,1 @@
+Nul ne peut puiser dans les actes annulés quelque renseignement que ce soit contre les parties aux débats.

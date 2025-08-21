@@ -1,0 +1,2 @@
+Article 255 : Interdiction de sévices sur l'enfant gardé à vue
+Sont interdits sous peine des sanctions prévues à l’article 346 de la présente loi, tous sévices sur la personne du mineur gardé à vue ou retenu au poste de police.

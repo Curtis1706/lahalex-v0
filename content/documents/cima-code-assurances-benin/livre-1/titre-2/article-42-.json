@@ -1,0 +1,15 @@
+{
+  "id": "article-42-",
+  "title": "Article 42 : Subrogation de l’assureur",
+  "numero": "42 ",
+  "document": "cima-code-assurances-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-41-",
+    "next": "article-43-"
+  }
+}

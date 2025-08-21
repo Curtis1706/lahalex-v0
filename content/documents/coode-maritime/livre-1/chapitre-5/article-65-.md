@@ -1,0 +1,1 @@
+Outre les navires qui sont la propriété de l’Etat, le propriétaire de tout navire immatriculé en République du Bénin et transportant plus de deux mille (2.000) tonnes d’hydrocarbures en vrac en tant que cargaison est tenue de souscrire une assurance ou une autre garantie financière à concurrence, par événement, du montant de sa responsabilité.

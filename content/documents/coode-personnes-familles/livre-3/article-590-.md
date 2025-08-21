@@ -1,0 +1,3 @@
+Les héritiers légitimes ou naturels et le ou les conjoint(s) survivant(s) sont saisis de plein droit des biens, droits et actions du défunt, sous l’obligation d’acquitter toutes les charges de la succession.
+Les titres exécutoires contre le défunt sont pareillement exécutoires contre l’héritier personnellement ; néanmoins, les créanciers ne peuvent en poursuivre l’exécution que huit (8) jours après la signification de ces titres à la personne ou au domicile de l’héritier.
+L’Etat doit se faire envoyer en possession.

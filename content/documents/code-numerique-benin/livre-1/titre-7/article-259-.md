@@ -1,0 +1,2 @@
+Utilisation de numéros ou de fréquences sans autorisation
+Est puni d’un emprisonnement de six (06) mois à vingt-quatre (24) mois et d’une amende de dix millions (10 000 000) à cinquante millions (50 000 000) de francs CFA ou de l’une de ces deux peines seulement, quiconque utilise un bloc de numéros sans autorisation ou une fréquence qui ne lui a pas été préalablement assignée par l’Autorité de régulation, sous réserve des assignations de fréquences réservées à la sécurité publique et à la défense nationale.

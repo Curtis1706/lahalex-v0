@@ -1,0 +1,1 @@
+Lorsque le mineur doit quelque chose au tuteur, celui-ci devra le déclarer dans l'inventaire, à peine de déchéance et ce, sur la réquisition que l’officier public sera tenu de lui en faire et dont mention sera portée au procès-verbal.

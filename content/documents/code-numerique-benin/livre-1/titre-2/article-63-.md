@@ -1,0 +1,4 @@
+Droit d’accès et d’interconnexion
+Les opérateurs nationaux bénéficient d’un droit d’accès 	et d’interconnexion aux 	réseaux de communications électroniques, aux infrastructures passives et actives et aux infrastructures alternatives dans les conditions prévues à la présente section et dans leur cahier des charges.
+Les opérateurs non nationaux bénéficient d’un droit d’accès et d’interconnexion limité aux réseaux, infrastructures et services couverts par le présent Chapitre dans les conditions qui seront précisées par décret pris en Conseil des Ministres.
+Tout opérateur bénéficiant d’un accès aux réseaux d’un autre opérateur ne peut revendre en l’état les capacités disponibles sur ce réseau, y compris les capacités nationales et internationales à d’autres opérateurs ou à ses utilisateurs.

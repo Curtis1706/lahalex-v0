@@ -1,0 +1,3 @@
+Chacune des branches du régime de sécurité sociale fait l’objet d’une gestion financière distincte dans le cadre de l’organisation financière générale de la Caisse.
+La part des frais communs d’administration imputée à chacune des branches du régime de sécurité sociale est fixée chaque année par le conseil d’administration.
+Le financement du fonds d’action sanitaire et sociale est assuré par une dotation prélevée sur les cotisations de la branche des prestations familiales.

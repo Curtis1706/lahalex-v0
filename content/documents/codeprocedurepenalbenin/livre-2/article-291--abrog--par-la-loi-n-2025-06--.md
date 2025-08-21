@@ -1,0 +1,2 @@
+Les procès-verbaux et autres pièces ou documents réunis au cours du complément d’information sont déposés au greffe et joints au dossier de la procédure.
+Ils sont mis à la disposition du ministère public et des parties qui sont avisées de leur dépôt par les soins du greffier.

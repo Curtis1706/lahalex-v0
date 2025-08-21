@@ -1,0 +1,5 @@
+Toutes saisies du produit des droits et taxes, faites
+entre les mains des receveurs ou en celles des redevables envers
+l'administration des douanes, sont nulles et de nul effet ; nonobstant
+lesdites saisies, les redevables sont contraints au paiement des sommes
+par eux dues.

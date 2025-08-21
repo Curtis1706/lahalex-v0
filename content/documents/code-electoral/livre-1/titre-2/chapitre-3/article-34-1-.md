@@ -1,0 +1,1 @@
+Les modalités de recrutement et de gestion du personnel administratif de la Direction générale des élections sont celles contenues dans les actes règlementaires portant Attributions. Organisation et Fonctionnement des agences.

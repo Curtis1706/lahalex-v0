@@ -1,0 +1,1 @@
+Si un mineur a été condamné à une peine d’emprisonnement sans sursis, les allocations familiales auxquelles il ouvre droit sont, par application des articles 714 à 716, versées au trésor public.

@@ -1,0 +1,3 @@
+Les contrats, conventions ou accords d’établissement fixent les modalités et le taux de la rémunération des heures supplémentaires prévues à l’article 230 du présent code.
+La rémunération horaire normale correspond au 1/208<sup>ème</sup> du salaire mensuel.
+Un mode forfaitaire de rémunération du travail supplémentaire peut être prévu par convention sous réserve de son homologation par le directeur de la marine marchande.

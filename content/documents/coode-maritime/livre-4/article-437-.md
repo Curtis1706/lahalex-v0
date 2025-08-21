@@ -1,0 +1,4 @@
+En cas de pertes ou avaries apparentes survenues aux marchandises, le réceptionnaire doit adresser des réserves écrites à l’acconier au plus tard au moment de la prise de livraison faute de quoi les marchandises sont présumées, sauf preuves contraires, avoir été reçues par lui telles qu’elles ont été remises par le bord à l’acconier.
+Les réserves peuvent être exprimées par toutes les formes écrites, même par lettre missive ou annotations des quittances reçues, bons de livraison ou décharge remis ou restitués à l’acconier.
+En cas de pertes ou d’avaries non apparentes, cette notification peut être valablement faite dans les trois (03) jours francs suivant la livraison.
+Le paiement du prix de l’acconier ne fait pas obstacle au dépôt ultérieur des réserves.

@@ -1,0 +1,1 @@
+La citation est délivrée dans les délais et forme prévus par les articles 538 et suivants du présent code.

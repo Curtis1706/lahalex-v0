@@ -1,0 +1,1 @@
+Le compte de gestion est adressé au directeur chargé de la production des comptes publics par le comptable de la commune ou de l’établissement public de coopération intercommunale au plus tard le 30 juillet de l’année suivant la clôture de l’exercice considéré, accompagné de toutes les justifications, pour mise en état d’examen avant sa transmission au juge des comptes.

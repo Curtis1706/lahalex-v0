@@ -1,0 +1,1 @@
+Toute personne a le droit de consulter sur place, le procès-verbal et/ou le compte rendu des délibérations du conseil communal, les divers actes communaux et d'en prendre copie à ses frais.

@@ -1,0 +1,1 @@
+La réintégration dans la nationalité béninoise est accordée par décret pris en Conseil des ministres ou par arrêté du ministre chargé de la justice selon les distinctions fixées aux articles ciaprès.

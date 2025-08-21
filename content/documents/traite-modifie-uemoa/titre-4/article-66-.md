@@ -1,0 +1,2 @@
+(modifié)
+Le Conseil, sur proposition de la Commission, examine dans quelle mesure les politiques des prix et des revenus des Etats membres, ainsi que les actions de certains groupes économiques, sociaux ou professionnels sont susceptibles de contrarier la réalisation des objectifs de politique économique de l'Union. Il adopte, au besoin, à la majorité des deux tiers (2/3) de ses membres, et sur proposition de la Commission, des recommandations et avis. Il en informe le Parlement et les organes consultatifs de l'Union.

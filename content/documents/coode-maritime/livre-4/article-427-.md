@@ -1,0 +1,1 @@
+L’acconage comprend l’ensemble des opérations juridiques et matérielles qu’impliquent la prise en charge, la délivrance, la manutention et la garde des marchandises.

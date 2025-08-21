@@ -1,0 +1,1 @@
+Article 22 : Les dispositions prévues à l’article 20 de la présente loi sont également applicables aux lacs, lagunes et autres étendues d’eau continentales.

@@ -1,0 +1,4 @@
+Sont considérées comme incapables protégées par l’un des régimes prévus au présent titre, les personnes entrant dans l’une des classifications ci-après :
+- les mineurs dont aucun des père et mère n’exerce l’autorité parentale à leur égard ;
+- les majeurs dont les facultés mentales et corporelles sont altérées par une maladie, une infirmité ou un affaiblissement dû à l’âge et qui empêchent la libre expression de leur volonté ;
+- les majeurs qui, par leur prodigalité, leur intempérance ou leur oisiveté s’exposent à tomber dans le besoin ou à compromettre l’exécution de leurs obligations familiales.

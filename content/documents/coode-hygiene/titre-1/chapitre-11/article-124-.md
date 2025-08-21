@@ -1,0 +1,1 @@
+Il est fait obligation aux établissements privés autres que ceux cités à l'article 123 ci-dessus, de mettre en place une filière complète de gestion des déchets menstruels, aboutissant à leur incinération.

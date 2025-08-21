@@ -1,0 +1,3 @@
+Assurance de groupe - Micro assurance
+Par dérogation aux dispositions de l’article 95 du code des assurances, un contrat de micro assurance groupe peut également être souscrit par une communauté de personnes non constituée sous la forme d’une personne morale ou d’une entreprise pour le compte de ses membres dans le cadre de la couverture des catégories de risques prévues à l’article 717 du code.
+La communauté de personnes doit cependant présenter des caractéristiques identiques et être clairement identifiée dans le contrat. Le représentant de cette communauté de personne agit en qualité de souscripteur pour le compte de la communauté.

@@ -1,0 +1,2 @@
+« La convention est passée en présence de deux témoins au moins pour chaque fiancé et d'un représentant de chaque famille. Les fiancés peuvent s'offrir réciproquement des présents.
+En cas de contestation, la preuve des fiançailles ou de la connaissance mutuelle des familles peut s’administrer par l’audition des témoins y ayant assisté ou par tout autre moyen ».

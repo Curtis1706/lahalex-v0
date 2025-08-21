@@ -1,0 +1,2 @@
+Exercice d’une activité de communications électroniques sans licence
+Est puni d’un emprisonnement d’un (01) an à cinq (05) ans et d’une amende de cinquante millions (50 000 000) à cent millions (100 000 000) de francs CFA ou de l’une de ces deux peines seulement, quiconque établit ou fait établir un réseau ou fournit ou fait fournir un service sans la licence prévue à l’article 46 du présent code ou le maintien en violation d’une décision de suspension ou de retrait.

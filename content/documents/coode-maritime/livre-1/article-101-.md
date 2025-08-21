@@ -1,0 +1,1 @@
+Le capitaine doit se conformer aux instructions du ou des gérants.

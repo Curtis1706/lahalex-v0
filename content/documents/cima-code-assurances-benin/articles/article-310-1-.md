@@ -1,0 +1,5 @@
+Article 310-1 : Surveillance complémentaire - Définitions
+Aux fins de la surveillance complémentaire des entreprises faisant partie d’un groupe d’assurance, on entend par :
+1° « entreprise d’assurance » : une entreprise ayant reçu l’agrément administratif conformément à l’article 326 et ayant son siège social dans un État membre de la CIMA ;
+2° « entreprise d’assurance d’un pays tiers » : une entreprise n’ayant pas son siège social dans un État membre qui, si elle opérait dans cet espace, serait tenue d’être agréée conformément à l’article 326 ;
+3° « entreprise de réassurance » : une entreprise autre qu’une entreprise d’assurance ou une entreprise d’assurance d’un pays tiers, dont l’activité principale consiste à accepter des risques cédés par une entreprise d’assurance, une entreprise d’assurance d’un pays tiers ou d’autres entreprises de réassurance.

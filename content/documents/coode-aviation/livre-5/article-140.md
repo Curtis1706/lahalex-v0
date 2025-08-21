@@ -1,0 +1,2 @@
+L'organisme national en charge de l'aviation civile assure la gestion de la sécurité en mettant en place un cadre compatible avec l'envergure et la complexité du système aéronautique de la République du Bénin.
+Il veille à la coordination entre les autorités chargées des différents éléments des fonctions d'aviation civile et à la supervision du système de gestion de la sécurité des prestataires de services aéronautiques.

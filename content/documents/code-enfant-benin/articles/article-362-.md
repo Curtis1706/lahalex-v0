@@ -1,0 +1,1 @@
+Article 362 : Les parents ou toute personne ayant contraint un enfant de moins de quatorze (14) ans à être vendeur ambulant sont punis d’une amende de cent mille (100 000) à cent cinquante mille (150 000) francs CFA.

@@ -1,0 +1,1 @@
+Le fret court du jour où le navire est mis à la disposition de l’affréteur dans les conditions du contrat.

@@ -1,0 +1,1 @@
+Les services accomplis postérieurement aux limites d’âge indiquées à l’article 3 nouveau-1 ci-dessus ne peuvent être pris en compte dans les annuités liquidables d’une pension.

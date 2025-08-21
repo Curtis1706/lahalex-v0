@@ -1,0 +1,1 @@
+Sous réserve des nécessités de l’information judiciaire, est interdite, sous peine de sanctions prévues à l’article 889 du présent code, toute communication ou toute divulgation, sans autorisation de l’inculpé, de ses ayants droit, du signataire ou du destinataire d’un document provenant d’une perquisition, à une personne non qualifiée par la loi pour en prendre connaissance.

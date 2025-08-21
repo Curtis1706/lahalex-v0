@@ -1,0 +1,1 @@
+En cas de condamnation, la juridiction peut ordonner la confiscation au profit de l’État de tout ou partie des biens saisis.

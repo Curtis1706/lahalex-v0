@@ -1,0 +1,2 @@
+Tout individu qui, pour commettre un vol, a enlevé ou tenté d’enlever des bornes servant de séparation aux propriétés, est puni d’un emprisonnement de deux (02) ans à cinq (05) ans et d’une amende de cent mille (100.000) francs CFA à cinq cent mille (500.000) francs CFA.
+Le coupable peut, en outre, être privé des droits mentionnés à l’article 38 pendant deux (02) ans au moins et dix (10) ans au plus à compter du jour où il aura subi sa peine.

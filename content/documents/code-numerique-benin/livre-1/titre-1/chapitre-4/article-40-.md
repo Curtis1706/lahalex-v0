@@ -1,0 +1,2 @@
+Identification de l’appelant
+A sa demande, tout utilisateur peut, sauf pour une raison liée au fonctionnement des services d'urgence ou à la tranquillité de l’appelé, s’opposer à l’identification par ses correspondants de son numéro de téléphone.

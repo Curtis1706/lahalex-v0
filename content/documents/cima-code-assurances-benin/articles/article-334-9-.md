@@ -1,0 +1,2 @@
+Article 334-9 : Montant
+Le montant minimal de la provision pour risques en cours doit être calculé conformément aux dispositions des articles 334-10 et 334-11. Cette provision doit être, en outre, suffisante pour couvrir les risques et les frais généraux afférents, pour chacun des contrats à prime ou cotisation payable d’avance, à la période comprise entre la date de l’inventaire et la prochaine échéance de prime ou cotisation ou, à défaut, le terme fixé par le contrat.

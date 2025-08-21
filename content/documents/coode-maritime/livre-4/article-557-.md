@@ -1,0 +1,3 @@
+Lorsque la valeur assurée du navire est une valeur agréée, les parties s’interdisent réciproquement toute autre estimation, réserve faite des dispositions de l’article 526 du présent code et sauf le cas de recours pour contribution d’avaries communes, rémunération d’assistance ou de sauvetage.
+La valeur assurée comprend indivisément le corps et les appareils moteurs du navire, ainsi que tous les accessoires et dépendances dont l’assuré est propriétaire, et dans lesquels sont compris les approvisionnements.
+Toute assurance, quelle que soit sa date, souscrite séparément sur des accessoires et dépendances appartenant à l’assuré, réduit d’autant, en cas de perte totale ou de délaissement, la valeur agréée.

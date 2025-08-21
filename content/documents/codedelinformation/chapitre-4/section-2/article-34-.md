@@ -1,0 +1,3 @@
+Les organes de presse, les éditeurs et les imprimeurs ou tous autres services de communication audiovisuelle en ligne ou non contribuent au respect du droit d’auteur sur les œuvres littéraires, artistiques et intellectuelles.
+Toute reproduction et toute diffusion des œuvres audiovisuelles, littéraires, artistiques et intellectuelles sont subordonnées à l’autorisation de l’auteur, lorsque cette autorisation est requise par la loi et/ou les conventions internationales.
+Toute violation du droit d’auteur est sanctionnée conformément aux lois en vigueur en République du Bénin.

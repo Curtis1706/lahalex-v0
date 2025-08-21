@@ -1,0 +1,15 @@
+{
+  "id": "article-102-",
+  "title": "Article 102 : Accès des personnes handicapées",
+  "numero": "102 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-101-",
+    "next": "article-103-"
+  }
+}

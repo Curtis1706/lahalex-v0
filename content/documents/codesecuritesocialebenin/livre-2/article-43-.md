@@ -1,0 +1,1 @@
+Les allocations familiales ont pour but d’apporter un complément de ressources aux familles, d’encourager la surveillance médicale systématique des enfants et la fréquentation scolaire. Elles aident les familles à appliquer à leurs enfants les conseils d’hygiène et d’éducation qui leur sont donnés par les personnes compétentes.

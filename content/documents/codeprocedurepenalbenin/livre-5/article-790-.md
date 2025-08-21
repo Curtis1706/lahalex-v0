@@ -1,0 +1,2 @@
+Le ministère public et les parties poursuivent l’exécution de la sentence chacun en ce qui le concerne.
+Néanmoins, les poursuites pour le recouvrement des amendes et confiscations sont faites au nom du ministère public par l’agent judiciaire du trésor.

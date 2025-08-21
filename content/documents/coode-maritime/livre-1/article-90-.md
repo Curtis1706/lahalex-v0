@@ -1,0 +1,1 @@
+L’entrepreneur qui a procédé à la réparation d’un navire est garant des vices cachés résultant de son travail dans les mêmes conditions qu’aux articles 88 et 89 ci-dessus.

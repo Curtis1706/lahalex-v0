@@ -1,0 +1,4 @@
+Article 700 : Définition
+La micro assurance est un mécanisme d’assurance caractérisé principalement par la faiblesse des primes et/ou des capitaux assurés, par la simplicité des couvertures, des formalités de souscription, de gestion des contrats, de déclaration de sinistres et d’indemnisation des victimes.
+La micro assurance vise à protéger les personnes à faible revenu contre des risques spécifiques en contrepartie du paiement de primes ou de cotisations.
+La souscription d’un contrat de micro assurance peut être effectuée par une personne morale, une entreprise ou une communauté pour le compte de ses employés, de ses clients ou de ses membres. Elle peut également être effectuée par une personne physique.

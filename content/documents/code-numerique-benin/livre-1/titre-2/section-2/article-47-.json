@@ -1,0 +1,16 @@
+{
+  "id": "article-47-",
+  "title": "Article 47 : Appel à la concurrence",
+  "numero": "47 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "section-2"
+  ],
+  "navigation": {
+    "parent": "section-2",
+    "previous": "article-46-",
+    "next": "article-48-"
+  }
+}

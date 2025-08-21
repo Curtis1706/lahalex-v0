@@ -1,0 +1,3 @@
+Le juge des libertés et de la détention ne peut délivrer un mandat de dépôt qu’après interrogatoire de première comparution réalisé par le juge d’instruction et si l’infraction comporte une peine d’emprisonnement correctionnelle ou une peine plus grave.
+Le dossier doit être immédiatement communiqué au procureur de la République, sur la mise en détention des personnes non visées au réquisitoire introductif aux fins qu’il appartiendra.
+L’agent chargé de l’exécution d’un mandat de dépôt remet l’inculpé au surveillant-chef de la maison d’arrêt, lequel lui délivre une reconnaissance de la remise de l’inculpé.

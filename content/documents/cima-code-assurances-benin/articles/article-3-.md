@@ -1,0 +1,3 @@
+Il est interdit aux personnes physiques résidant sur le territoire d’un Etat membre de la CIMA et aux personnes morales pour leurs établissements situés sur le territoire d’un État membre de la CIMA de souscrire des contrats d’assurance directe ou de rente viagère non libellés en francs CFA, sauf autorisation du Ministre en charge des assurances de l’État membre.
+Sont nuls de plein droit les contrats souscrits à dater de l’application du présent Code en infraction aux dispositions du présent article.
+Les sociétés d’assurance qui bénéficient d’une dérogation pour libeller des contrats en devises sont assimilées à des détenteurs agréés de devises et doivent effectuer auprès des banques centrales une déclaration de leurs engagements et avoirs en devises.

@@ -1,0 +1,5 @@
+Assurance au profit d’un bénéficiaire déterminé
+Le capital ou la rente garantis peuvent être payables lors du décès de l’assuré à un ou plusieurs bénéficiaires déterminés.
+Est considérée comme faite au profit de bénéficiaires déterminés la stipulation par laquelle le bénéfice de l’assurance est attribué à une ou plusieurs personnes qui, sans être nommément désignées, sont suffisamment définies dans cette stipulation pour pouvoir être identifiées au moment de l’exigibilité du capital ou de la rente garantis.
+En l’absence de désignation d’un bénéficiaire dans la police ou à défaut d’acceptation par le bénéficiaire, le contractant a le droit de substituer un bénéficiaire à un autre. Cette désignation ou cette substitution ne peut être opérée, qu’avec l’accord de l’assuré, lorsque celui-ci n’est pas le contractant.
+Cette désignation peut être réalisée soit par voie d’avenant au contrat, soit par voie testamentaire.

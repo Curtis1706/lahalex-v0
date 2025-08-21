@@ -1,0 +1,4 @@
+Fonctionnement
+1. Le Conseil se réunit deux (02) fois par an en session ordinaire en prélude à la Conférence des Chefs d’Etat et de Gouvernement. 50’une des sessions est consacrée à l’examen et à l’adoption du budget de la Communauté.
+1. Il peut être convoqué en session extraordinaire à l’initiative de son Président ou à la demande d’un État membre, sous réserve de l'approbation des deux tiers de ses membres.
+1. La présidence du Conseil est assurée par le Ministre en charge de l’Intégration régionale/Affaires Etrangères ou tout autre Ministre désigné par l'Etat membre dont le Chef d'Etat ou de Gouvernement préside la Conférence.

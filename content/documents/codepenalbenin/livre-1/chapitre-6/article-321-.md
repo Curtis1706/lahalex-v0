@@ -1,0 +1,1 @@
+L’application des peines portées contre ceux qui ont fait usage de monnaies, billets, sceaux, timbres, marteaux, poinçons, marques et écrits faux, contrefaits, fabriqués ou falsifiés, cesse toutes les fois que le faux n’a pas été connu de la personne qui a fait usage de la chose fausse.

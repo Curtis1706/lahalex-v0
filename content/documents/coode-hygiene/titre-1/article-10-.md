@@ -1,0 +1,1 @@
+Il est interdit d'abandonner sur les voies et places publiques tous objets, en l'occurrence des boîtes de conserve, des objets en matière plastique, des poissons ou des détritus, des épaves de toutes sortes, susceptibles d'en altérer la propreté.

@@ -1,0 +1,7 @@
+1°- Le droit à l'obtention ou à la jouissance de la pension ou de la rente viagère d’invalidité est suspendu :
+- par la condamnation à une peine afflictive et infamante pendant la durée de la peine ;
+- par les circonstances qui font perdre la qualité de citoyen béninois durant la privation de cette qualité ;
+- par la déchéance de la puissance paternelle pour les veuves. S'il y a lieu par la suite, à la liquidation ou au rétablis­sement de la pension ou de la rente d’invalidité, aucun rappel pour des arrérages antérieures n’est dû.
+2°- La suspension prévue au paragraphe 1 n'est pas applicable si le titulaire a une femme désignée sur la liste prévue à l'article 30 ci-dessus ou des enfants mineurs ouvrant droit à la pension d’orphelins en cas de décès. Dans ce cas ; les dispositions de l'article 33 sont applicables.
+Dans le cas où l’Agent Permanent de l'Etat Civil du Militaire n'est pas effectivement en jouissance, d’une pension ou d’une rente d'invalidité au moment où doit jouer la suspension, la femme et les enfants visés ci-dessus peuvent obtenir la pension définie à l'alinéa précédent si leur auteur remplit à ce moment la condi­tion durée de service exigée pour l'attribution d’une pension d'ancienneté
+Les frais de justice résultant de la condamnation du titu­laire ne peuvent être prélevés sur la portion des arrérages ainsi réservés au profit de la femme et des enfants.

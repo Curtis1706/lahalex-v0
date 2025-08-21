@@ -1,0 +1,2 @@
+Les perquisitions, visites domiciliaires et saisies de pièces à conviction ne peuvent être effectuées sans l’assentiment exprès de la personne chez qui l’opération a lieu. La mention de cet assentiment doit être portée au procès-verbal.
+Les formes prévues par les articles 50 et 53 au premier alinéa du présent article, sont applicables.

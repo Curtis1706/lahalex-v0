@@ -1,0 +1,1 @@
+Un organisme public ne peut refuser de communiquer un renseignement visé aux articles 74 à 76 ci-dessus, lorsque ce renseignement permet de connaître ou de confirmer l’existence d’un risque immédiat pour la santé ou la sécurité d’une personne ou d’une atteinte sérieuse ou irréparable à son droit, à la qualité de l’environnement, ou lorsque l’intérêt public l’exige.

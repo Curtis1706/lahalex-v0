@@ -1,0 +1,3 @@
+Article 89 : Exclusion de vocation successorale
+Lorsque le futur adoptant désire que l’adoption simple n’ouvre aucune vocation successorale entre lui et l’adopté et ses descendants, il doit en informer les personnes dont le consentement est requis.
+Le consentement exprimé doit préciser qu’il est donné après acceptation de cette condition. La même mention doit être portée dans la requête aux fins d’adoption et dans le jugement qui y fait droit.

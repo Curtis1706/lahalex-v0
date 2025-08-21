@@ -1,0 +1,1 @@
+Le légataire particulier n’est pas tenu des dettes et charges de la succession, sauf l’action hypothécaire sur l’immeuble légué.

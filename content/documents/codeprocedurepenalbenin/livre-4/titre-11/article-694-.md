@@ -1,0 +1,1 @@
+Les mesures édictées par l’article 693 ci-dessus doivent être fixées pour un temps déterminé sans pouvoir dépasser l’âge de dix-huit (18) ans.

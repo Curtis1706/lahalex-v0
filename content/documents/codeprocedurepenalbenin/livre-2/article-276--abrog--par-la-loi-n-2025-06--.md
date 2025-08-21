@@ -1,0 +1,1 @@
+Si l’accusé ne peut être saisi ou ne se présente pas, il est procédé contre lui par défaut.

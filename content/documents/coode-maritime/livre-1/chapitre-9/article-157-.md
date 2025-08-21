@@ -1,0 +1,1 @@
+La saisie conservatoire empêche le départ du navire. Elle ne porte aucune autre atteinte aux droits des propriétaires.

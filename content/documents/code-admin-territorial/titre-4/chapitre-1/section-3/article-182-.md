@@ -1,0 +1,1 @@
+Le chef d'arrondissement, dans le cadre de l'exercice de ses attributions, consulte pour ses prises de décision, le secrétaire administratif d'arrondissement, notamment sur les informations relatives à la gestion de l'arrondissement.

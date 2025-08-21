@@ -1,0 +1,3 @@
+Le chef de village ou de quartier de ville veille à la protection et à la promotion des activités agricoles.
+Il œuvre à la prévention et à l'extinction des feux de brousse, à l’élimination des animaux dangereux, à la protection des forêts et des espaces verts.
+Il prend toute mesure pour empêcher la divagation des animaux sur les terrains de culture. Il signale en temps opportun à l'autorité administrative, le déficit probable des réserves de denrées alimentaires pouvant provoquer la disette.

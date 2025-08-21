@@ -1,0 +1,1 @@
+Est punie comme coupables d’assassinat, toute personne, quelle que soit sa qualité, qui, pour l’exécution de son crime, aura usé de torture ou commis des actes de barbarie.

@@ -1,0 +1,6 @@
+Encourent une peine d’emprisonnement de trois (03) ans à dix (10) ans et une amende de deux millions (2.000.000) de francs CFA à dix millions (10.000.000) de francs CFA :
+1. ceux qui, sciemment par l’établissement de la déclaration notariée de souscription et de versement ou du certificat du dépositaire, ont affirmé sincères et véritables des souscriptions qu’ils savaient fictives ou ont déclaré que les fonds qui n’ont pas été mis définitivement à la disposition de la société ont été effectivement versés ;
+2. ceux qui auront remis au notaire ou au dépositaire, une liste des actionnaires ou des bulletins de souscription et de versement mentionnant des souscriptions fictives ou des versements de fonds qui n’ont pas été mis définitivement à la disposition de la société ;
+3. ceux qui sciemment, par simulation de souscription ou de versement ou par publication de souscription ou de versement qui n’existent pas ou de tous autres faits faux, ont obtenus ou tentés d’obtenir des souscriptions ou des versements ;
+4. ceux qui sciemment, pour provoquer des souscriptions ou des versements ont publié les noms de personnes désignées contrairement à la vérité comme étant ou devant être attachées à la société à un titre quelconque ;
+5. ceux qui, frauduleusement, ont fait attribuer à un apport en nature, une évaluation supérieure à sa valeur réelle.

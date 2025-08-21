@@ -1,0 +1,2 @@
+Article 299 : Contraintes à un placement dans un centre de rééducation
+S’il est établi qu’un enfant, par sa mauvaise conduite, son indiscipline ou son comportement dangereux, rend inopérantes les mesures de surveillance ou d’éducation prises à son égard, le juge des enfants peut, par ordonnance motivée, le placer dans un centre de rééducation pour enfants jusqu’à un âge qui ne peut dépasser dix-huit (18) ans.

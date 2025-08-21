@@ -1,0 +1,3 @@
+En cas de refus de communication ou de dissimulation de documents, le contrevenant sera en outre condamné à représenter les pièces scellées sous une astreinte de cinq mille (5.000) francs CFA à dix mille (10.000) francs CFA au moins par jour de retard, à dater du jugement, s’il est contradictoire, ou de sa signification s’il a été rendu par défaut.
+Cette astreinte cessera de courir à la date mentionnée dans un procès-verbal constatant la remise des pièces.
+L’astreinte définitivement liquidée est recouvrée comme une amende pénale.

@@ -1,0 +1,3 @@
+_(Règlement 2015-02)_ Sanction des règles relatives à la contribution et la non production de documents aux autorités de contrôle
+Toute infraction aux dispositions de l’article 819 sera punie d’une amende de 180.000 à 360.000 FCFA.
+Les mêmes sanctions sont applicables en cas de non production de documents à la Commission Régionale de Contrôle des Assurances et aux Directions nationales des assurances.

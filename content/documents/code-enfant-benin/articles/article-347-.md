@@ -1,0 +1,2 @@
+Article 347 : L’individu qui accomplit ou tente d’accomplir l’acte sexuel autorisé coutumièrement sur un enfant de sexe féminin âgé de moins de dix-huit (18) ans, est puni de deux (02) ans à cinq (05) ans d’emprisonnement et d’une amende de cent mille (100 000) à deux cent cinquante mille (250 000) francs CFA.
+Sont punies comme complices les personnes, y compris les parents qui ont sciemment provoqué les actes visés au présent article.

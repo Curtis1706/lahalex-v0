@@ -1,0 +1,6 @@
+Plan national des fréquences
+La gestion du spectre des fréquences radioélectriques fait l’objet d’un plan national des fréquences établi par l’Autorité de régulation et approuvé par décret pris en Conseil des Ministres sur proposition du Ministère en charge des communications électroniques.
+Le plan établi par l’Autorité de régulation est conforme au plan international des bandes de fréquences de l’Union Internationale des Télécommunications.
+Le plan national d’attribution des bandes de fréquences radioélectriques contient :
+- la répartition des bandes de fréquences radioélectriques entre les besoins exclusifs de la défense nationale et de la sécurité publique d’une part et les besoins communs d’autre part. Par besoins communs, sont visées les bandes de fréquences pouvant être utilisées à la fois pour des applications civiles et de la défense nationale ;
+- la répartition des bandes de fréquences radioélectriques attribuées aux besoins civils sur les différentes utilisations, en respectant en particulier les besoins pour l’exploitation des réseaux de communications électroniques ouverts au public.

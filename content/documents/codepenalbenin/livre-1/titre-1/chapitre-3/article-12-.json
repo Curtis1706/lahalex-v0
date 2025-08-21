@@ -1,0 +1,16 @@
+{
+  "id": "article-12-",
+  "title": "Article 12 : La loi pénale est applicable aux infractions commises sur des navires battant un pavillon béninois, ou à l’encontre de tels navires, en quelque lieu qu’ils se trouvent. Elle est seule applicable aux infractions commises à bord des navires de la marine nationale, ou à l’encontre de tels navires, en quelque lieu qu’ils se trouvent.",
+  "numero": "12 ",
+  "document": "codepenalbenin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-3"
+  ],
+  "navigation": {
+    "parent": "chapitre-3",
+    "previous": "article-11-",
+    "next": "article-13-"
+  }
+}

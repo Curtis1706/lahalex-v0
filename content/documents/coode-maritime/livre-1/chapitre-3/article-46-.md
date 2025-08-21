@@ -1,0 +1,1 @@
+Les cargaisons de toute nature en provenance ou à destination de la République du Bénin peuvent être réparties entre l’armement national et les armateurs étrangers.

@@ -1,0 +1,2 @@
+Le chef d'arrondissement est élu par le Conseil communal-ou-municipal parmi les Conseillers communaux-ou municipaux élus sur la liste de l'arrondissement concerné.
+A défaut d'un candidat-au poste de chef d'arrondissement parmi les Conseillers élus sur la liste de l'arrondissement n'importe quel autre Conseiller élu dans la commune peut être désigné chef d'arrondissement.

@@ -1,0 +1,3 @@
+Dès son entrée en fonction, l’administrateur provisoire doit établir et déposer au greffe du tribunal de première instance du ressort du dernier domicile de l’absent ou du disparu, un inventaire des biens appartenant à l’absent ou au disparu présumé.
+Il a pouvoir de faire les actes conservatoires et de pure administration. S’il y a urgence et nécessité dûment constatées, il peut être autorisé à faire des actes de disposition dans les conditions fixées par ordonnance.
+À tout moment, à la requête du ministère public ou de tout intéressé, il peut être procédé, dans les formes suivies pour la nomination, à la révocation et au remplacement éventuel de l’administrateur provisoire.

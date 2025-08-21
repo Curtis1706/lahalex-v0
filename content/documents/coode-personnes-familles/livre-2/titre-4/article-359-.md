@@ -1,0 +1,1 @@
+Le recours en cassation n’est recevable que contre l’arrêt qui refuse de prononcer l’adoption, et seulement pour vice de forme.

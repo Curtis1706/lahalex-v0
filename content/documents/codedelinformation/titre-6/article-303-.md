@@ -1,0 +1,1 @@
+Le défaut de dépôt légal d’une parution sera puni d’une amende de cinquante mille (50 000) à deux cent cinquante mille (250.000) francs CFA pour les journaux imprimés et les journaux électroniques.

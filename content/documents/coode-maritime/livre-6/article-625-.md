@@ -1,0 +1,1 @@
+Tout capitaine ou armateur qui ne s’est pas conformé aux dispositions des articles 279 et 280 du présent code concernant l’importance, la qualité ou la nationalité des effectifs à bord, ainsi qu’à celle des règlements pris pour leur application, est puni d’une amende de cinq cent mille (500.000) à deux millions (2.000.000) de francs pour chaque infraction constatée.

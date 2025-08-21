@@ -1,0 +1,1 @@
+Le certificat ou l'autorisation est délivré lorsque l’exploitant d'aérodrome démontre que les installations et équipements, les services, le personnel et les procédures d'exploitation assurent de façon satisfaisante, la sécurité des aéronefs et qu'un système acceptable de gestion de la sécurité est en place.

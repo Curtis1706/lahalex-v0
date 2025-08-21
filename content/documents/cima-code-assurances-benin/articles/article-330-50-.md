@@ -1,0 +1,4 @@
+Article 330-50 : Sociétés de groupe d’assurance mutuelles - Définition
+Lorsqu’une société de groupe d’assurance a, avec une entreprise affiliée au sens du 5) de l’article 301-1, des liens de solidarité financière importants et durables qui ne résultent pas de participations au sens du 3) de l’article 301-1, ces liens sont définis par une convention d’affiliation.
+Une société d’assurance mutuelle ne peut s’affilier à une société de groupe d’assurance que si ses statuts en prévoient expressément la possibilité.
+La société de groupe d’assurance peut décider de fonctionner sans capital social à condition de compter au moins deux entreprises affiliées. Ces entreprises affiliées ne peuvent être que des sociétés d’assurance mutuelles ou des sociétés de réassurance mutuelles ayant leur siège social dans un Etat membre de la CIMA. Si elle remplit ces conditions, la société de groupe d’assurance peut être dénommée « société de groupe d’assurance mutuelle ».

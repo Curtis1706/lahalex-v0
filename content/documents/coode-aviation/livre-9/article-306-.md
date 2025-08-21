@@ -1,0 +1,2 @@
+En cas de présomptions graves portant sur la responsabilité du commandant de bord ou d'un membre de l'équipage et en attendant les conclusions du conseil de discipline, le ministre chargé de l’aviation civile peut suspendre l'intéressé de ses fonctions pour une durée qui ne peut en aucun cas excéder deux mois.
+Pendant la durée de la suspension, l'intéressé conserve son salaire minimum mensuel garanti.

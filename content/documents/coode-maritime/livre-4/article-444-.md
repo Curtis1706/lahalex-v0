@@ -1,0 +1,2 @@
+Le remorquage de navires, qu’il soit portuaire ou de mer, est un louage d’ouvrage et, de ce fait, le capitaine du navire subordonné ne devient pas le préposé du capitaine du navire directeur de la manœuvre.
+Vis-à-vis des tiers victimes d’avaries, les armateurs du navire remorqué et du navire remorqueur sont solidairement tenus à réparation des dommages si ceux-ci résultent d’une faute commune ou de fautes partagées entre ces deux navires.

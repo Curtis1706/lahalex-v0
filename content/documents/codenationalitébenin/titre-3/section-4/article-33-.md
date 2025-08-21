@@ -1,0 +1,1 @@
+Les règles de fond et de forme de l'enquête aux fins de naturalisation, ainsi que celles relatives à la vérification des conditions probatoires prévues à l'article 34 sont fixées par arrêté du ministre chargé de la justice.

@@ -1,0 +1,4 @@
+Procédure à la demande d’une Partie au conflit, une enquête devra être ouverte, selon d’enquête le mode à fixer entre les Parties intéressées, au sujet de toute violation allé-
+guée de la Convention.
+Si un accord sur la procédure d’enquête n’est pas réalisé, les Parties s’enten- dront pour choisir un arbitre, qui décidera de la procédure à suivre.
+une fois la violation constatée, les Parties au conflit y mettront fin et la répri- meront le plus rapidement possible.

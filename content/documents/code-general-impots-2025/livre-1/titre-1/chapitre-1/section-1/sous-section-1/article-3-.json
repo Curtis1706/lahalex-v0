@@ -1,0 +1,18 @@
+{
+  "id": "article-3-",
+  "title": "Article 3 :",
+  "numero": "3 ",
+  "document": "code-general-impots-2025",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-1",
+    "section-1",
+    "sous-section-1"
+  ],
+  "navigation": {
+    "parent": "sous-section-1",
+    "previous": "article-2-",
+    "next": "article-4-"
+  }
+}

@@ -1,0 +1,1 @@
+Le juge peut commettre toute personne qualifiée pour recueillir des renseignements sur la situation matérielle et morale de la famille, sur les conditions dans lesquelles vivent et sont élevés les enfants et sur les mesures à prendre éventuellement quant à leur garde définitive.

@@ -1,0 +1,1 @@
+S’il est prévu que le navire sera livré avec un capitaine et un équipage à bord, le contrat doit préciser la date et l’heure à partir desquelles lesdits capitaines et équipages passeront sous l’autorité et la responsabilité de l’affréteur.

@@ -1,0 +1,1 @@
+Quiconque a volontairement mis le feu à des édifices, des navires, des aéronefs, des bateaux, des magasins, des chantiers, quand ils sont habités ou servant à l’habitation, et généralement aux lieux habités ou servant à l’habitation, qu’ils appartiennent ou n’appartiennent pas à l’auteur du crime, est puni de la réclusion criminelle à perpétuité.

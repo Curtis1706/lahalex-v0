@@ -1,0 +1,2 @@
+Secret des correspondances
+Toute personne autorisée à participer à la mise en œuvre d’un service de communications électroniques ou radioélectriques et qui viole le secret d’une correspondance ou qui, sans l’autorisation de l’expéditeur ou du destinataire, divulgue, publie ou utilise le contenu de ladite correspondance est punie d’une peine d’emprisonnement de six (06) mois à deux (02) ans et d’une amende de dix millions (10 000 000) à cinquante millions (50 000 000) de francs CFA.

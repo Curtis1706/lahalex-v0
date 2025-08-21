@@ -1,0 +1,13 @@
+{
+  "id": "article-1er-",
+  "title": "Article 1er : Définitions",
+  "numero": "1er ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-0"
+  ],
+  "navigation": {
+    "parent": "livre-0",
+    "next": "article-2-"
+  }
+}

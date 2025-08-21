@@ -1,0 +1,15 @@
+{
+  "id": "article-1-",
+  "title": "Article 1 : Domaine d’application",
+  "numero": "1 ",
+  "document": "cima-code-assurances-benin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-1"
+  ],
+  "navigation": {
+    "parent": "chapitre-1",
+    "next": "article-1-1-"
+  }
+}

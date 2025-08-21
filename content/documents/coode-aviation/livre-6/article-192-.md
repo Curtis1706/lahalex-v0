@@ -1,0 +1,5 @@
+La sûreté de l'aviation civile est une prérogative exclusive de l’Etat. Elle est organisée par voie réglementaire, conformément à l’annexe 17 à la Convention relative à l'aviation civile internationale. Elle comporte :
+- un programme national de sûreté de l'aviation civile couvrant l'ensemble des mesures destinées à assurer la protection de l'aviation civile contre les actes d'intervention illicite ;
+- une politique nationale de formation à la sûreté de l'aviation civile afin d'assurer l'efficacité du programme national de sûreté de l'aviation civile ;
+- un programme national de contrôle de la qualité de la sûreté de l'aviation civile afin d'évaluer régulièrement le degré d’application.
+Certains aspects opérationnels de la sûreté peuvent être délégués. Les modalités de cette délégation sont fixées par décret pris en Conseil des ministres.

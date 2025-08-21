@@ -1,0 +1,2 @@
+Pouvoir réglementaire
+Pour exercer les missions qui lui sont confiées par les dispositions du présent Livre, l'Autorité dispose d’un pouvoir réglementaire lui permettant d’autoriser certains traitements, d’adapter des mesures de simplification ou de dispense de déclaration et de définir les modalités d’exercice des droits des personnes, en particulier en matière d’information.

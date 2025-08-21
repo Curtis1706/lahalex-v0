@@ -1,0 +1,1 @@
+Le crime de mercenariat est puni de la réclusion criminelle à perpétuité.

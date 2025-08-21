@@ -1,0 +1,1 @@
+A aucun moment, au cours du scrutin, le nombre des membres du poste de vote présents dans le poste de vote ne peut être inférieur à deux (02).

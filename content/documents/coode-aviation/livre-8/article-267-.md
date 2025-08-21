@@ -1,0 +1,1 @@
+A titre exceptionnel, l'inscription sur les registres du personnel des membres d'équipage professionnels de l'aéronautique civile des personnes n'ayant pas la nationalité béninoise peut, pour chaque cas particulier, être autorisée par voie réglementaire.

@@ -1,0 +1,14 @@
+{
+  "id": "article-222-",
+  "title": "Article 222 : Certificat provisoire",
+  "numero": "222 ",
+  "document": "cima-code-assurances-benin",
+  "path": [
+    "livre-2"
+  ],
+  "navigation": {
+    "parent": "livre-2",
+    "previous": "article-221-",
+    "next": "article-223-"
+  }
+}

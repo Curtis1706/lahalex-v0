@@ -1,0 +1,5 @@
+Est puni des peines prévues à l’article 556 du présent code, tout individu qui :
+1. détient directement ou par personne interposée, gère, dirige, fait fonctionner, finance ou contribue à financer un établissement de prostitution ;
+2. détenant, gérant, faisant fonctionner, finançant, contribuant à financer un hôtel, une maison meublée, une pension, un débit de boisson, un restaurant, un club, un cercle, un dancing, un lieu de spectacle ou leurs annexes ou lieu quelconque ouvert au public ou utilisé par le public, accepte ou tolère habituellement qu’une ou plusieurs personnes se livrent à la prostitution à l’intérieur de l’établissement ou dans ses annexes ou y recherchant des clients en vue de la prostitution ;
+3. assiste les individus visés aux points 1 et 2 ci-dessus.
+En cas de nouvelle infraction dans un délai de dix (10) ans les peines encourues sont portées au double.

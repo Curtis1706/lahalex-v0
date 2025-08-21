@@ -1,0 +1,1 @@
+Après l’arrêt de renvoi, l’accusé, s’il est détenu, est transféré au lieu où se tiendront les assises trente (30) jours francs avant la tenue effective des assises.

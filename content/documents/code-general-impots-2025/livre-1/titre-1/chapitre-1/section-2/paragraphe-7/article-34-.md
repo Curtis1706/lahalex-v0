@@ -1,0 +1,1 @@
+Les rémunérations versées par une entreprise qui ne révèle pas l’identité et l’adresse du bénéficiaire ne sont pas déductibles.

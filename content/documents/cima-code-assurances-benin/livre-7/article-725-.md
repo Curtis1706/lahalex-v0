@@ -1,0 +1,3 @@
+Champ d’application
+Les dispositions du livre IV sont applicables aux opérations de micro assurance, à l’exception des articles 405, 411 et 411-1. Les entreprises de micro assurance ont la faculté de ne pas produire les états modèles prévus à l’article 422, à l’exception de ceux énumérés à l’article 729.
+Les entreprises d’assurance réalisant des opérations de micro assurance sont tenues d’enregistrer dans des comptes distincts lesdites opérations.

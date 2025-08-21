@@ -1,0 +1,2 @@
+Tout capitaine ou chef de quart qui s’est rendu auteur d’une infraction aux règles prescrites par les règlements maritimes sur les feux à allumer la nuit, les signaux à faire en temps de brume, sur la route à suivre ou sur les manœuvres à exécuter en cas de croisement et de dépassement d’un navire est puni d’une amende de cinq cent mille (500.000) à deux millions (2.000.000) de francs.
+Est puni de la même peine, tout pilote qui s’est rendu coupable d’une infraction aux règles sur la route à suivre.

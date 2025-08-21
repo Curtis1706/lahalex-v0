@@ -1,0 +1,1 @@
+En ligne collatérale, la représentation est admise en faveur des enfants et descendants de frères et sœurs du défunt.

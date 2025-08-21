@@ -1,0 +1,2 @@
+Droit à un recours juridictionnel effectif contre l'Autorité
+Toute personne concernée a le droit de former un recours effectif devant la juridiction administrative compétente lorsque l'Autorité ne traite pas une réclamation ou n'informe pas la personne concernée, dans un délai de quatre-vingt-dix (90) jours, de l'état d'avancement ou de l'issue de la réclamation qu'elle a introduite au titre de l'article précédent.

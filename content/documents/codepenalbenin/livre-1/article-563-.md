@@ -1,0 +1,2 @@
+Quiconque a contracté un autre mariage avant la dissolution du précédent est puni d’un emprisonnement de six (06) mois à trois (03) ans et d’une amende de cinquante mille (50.000) francs CFA à trois cent mille (300.000) francs CFA.
+L’officier d’état civil qui a prêté son ministère à ce mariage connaissant l’existence du précédent est condamné à la même peine.

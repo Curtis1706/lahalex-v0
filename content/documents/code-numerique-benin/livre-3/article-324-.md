@@ -1,0 +1,3 @@
+Usurpation de la qualité de prestataire de services de confiance
+Est puni d'une peine de trois (03) mois à six (06) mois de prison et d'une amende de cinq cent mille (500 000) francs CFA à dix millions (10 000 000) de francs CFA, ou d'une de ces peines seulement, quiconque aura usurpé la qualité de prestataire de services de confiance.
+Les peines prévues à l’alinéa 1 sont portées au double en cas d'usurpation de la qualité de prestataire de services de confiance qualifié.

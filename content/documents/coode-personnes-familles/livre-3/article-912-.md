@@ -1,0 +1,1 @@
+Le legs est caduc si la chose léguée a totalement péri pendant la vie du testateur. Il en est de même si elle a péri depuis sa mort, sans le fait et la faute de l’héritier, lorsque le legs délivré avec retard ou non eut de toute façon péri entre les mains du légataire.

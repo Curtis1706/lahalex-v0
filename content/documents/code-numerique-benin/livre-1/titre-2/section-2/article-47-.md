@@ -1,0 +1,6 @@
+Appel à la concurrence
+Les licences délivrées pour l’établissement et l’exploitation de réseaux ouverts au public et/ou la fourniture de services de communications électroniques au public qui nécessitent l’utilisation de fréquences radioélectriques identifiées par décret pris en Conseil des Ministres sont octroyées à la suite d’une procédure d’appel à la concurrence.
+L’Autorité de régulation est chargée de conduire la procédure de mise en concurrence jusqu’à la désignation de l’attributaire.
+Le candidat déclaré attributaire est celui dont l’offre est jugée la mieux-distante par rapport aux exigences prévues dans le dossier d’appel d’offres, notamment celles du cahier des charges, des conditions générales d’établissement et d’exploitation et des dispositions de la présente section qu’il s’engage à respecter.
+L'attribution de la licence à la suite d’un appel à concurrence fait l’objet d’un rapport présenté par le Ministre chargé des communications électroniques sur avis conforme de l’Autorité de régulation au Conseil des Ministres qui prend la décision d’octroi de la licence par décret.
+Les modalités d’attribution des licences sont précisées par décret pris en Conseil des Ministres.

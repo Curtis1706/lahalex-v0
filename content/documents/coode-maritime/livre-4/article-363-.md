@@ -1,0 +1,1 @@
+Le chargeur est responsable des dommages causés au navire ou aux autres marchandises par le fait des marchandises qu’il a fait transporter sans en avoir donné les spécificités.

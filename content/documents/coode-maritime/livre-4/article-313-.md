@@ -1,0 +1,1 @@
+Le contrat est résolu sans dommages-intérêts de part et d’autre si, avant le départ du navire, survient une interdiction de commercer avec le pays de destination, ou tout autre événement de force majeure qui rend impossible l’exécution du voyage.

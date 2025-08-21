@@ -1,0 +1,2 @@
+Si, par l’un des moyens prévus à l’article 273 du présent code, il a été concerté des mesures contre l’exécution des lois ou contre les ordres du Gouvernement, la peine sera l’emprisonnement de deux (02) ans à cinq (05) ans.
+Si ce concert a eu lieu entre les autorités civiles et les corps militaires ou leurs chefs, ceux qui en sont les auteurs ou provocateurs sont punis de la détention criminelle à temps de cinq (05) ans à dix (10) ans.

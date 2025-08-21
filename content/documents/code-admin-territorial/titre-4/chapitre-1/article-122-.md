@@ -1,0 +1,1 @@
+La sanction administrative du maire ou de l'adjoint au maire ne fait pas obstacle aux poursuites judiciaires.

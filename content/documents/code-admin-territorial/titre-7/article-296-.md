@@ -1,0 +1,1 @@
+Le mandat des conseillers communautaires est lié à celui du conseil communal qui les a désignés. Sauf s'il est interrompu pour l’une des causes prévues par la présente loi, ce mandat prend fin avec celui des conseils communaux concernés.

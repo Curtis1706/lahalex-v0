@@ -1,0 +1,2 @@
+transfert de personnel, de patrimoine et de contrats
+Les personnels du Secrétariat Exécutif de l’ex-ARCEP-Bénin, de l’ex-ABSU-CEP et de l’ex-CNIL, leurs patrimoines ainsi que les contrats en cours d’exécution y compris les contrats de travail, sont respectivement transférés à l’ARCEP-Bénin, à l’ABSU-CEP et à l'APDP créées par la présente loi.

@@ -1,0 +1,2 @@
+L'Etat crée un établissement public à caractère administratif et technique doté de la personnalité morale et de l’autonomie financière et de gestion, chargé d’assurer pour son compte, les missions de réglementation, de contrôle et de supervision des activités de l'aviation civile.
+Les ressources de l'organisme national en charge de l'aviation civile sont prévues par ses statuts.

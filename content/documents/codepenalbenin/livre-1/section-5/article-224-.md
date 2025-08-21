@@ -1,0 +1,1 @@
+Constitue un précurseur, tout réactif chimique qui entre à un stade quelconque dans la fabrication d’un produit chimique toxique, quel que soit le procédé utilisé.

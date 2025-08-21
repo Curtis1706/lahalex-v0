@@ -1,0 +1,1 @@
+« Le mariage ne peut être contracté qu'entre un homme âgé d'au moins dix-huit (18) ans et une femme âgée d'au moins dix- huit (18) ans».

@@ -1,0 +1,2 @@
+Les agents publics compétents pour recevoir les actes de l’état civil doivent fournir dans le courant des mois de janvier, avril, juillet et octobre, au service des impôts territorialement compétent, les relevés par eux certifiés des actes de décès du trimestre écoulé à peine de l’amende prévue à l’article 496 du présent code.
+Au  cas  où  aucune  succession  de  l’espèce  n’est  ouverte  pendant  un  trimestre déterminé, il est dressé un état négatif, dans le délai fixé au premier alinéa du présent article et sous la même sanction.

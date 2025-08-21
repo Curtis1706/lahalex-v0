@@ -1,0 +1,4 @@
+L’individu arrêté provisoirement dans les conditions prévues par l’article 745, peut être mis en liberté si, dans le délai de vingt (20) jours, à dater de son arrestation, lorsqu’elle aura été opérée à la demande du Gouvernement d’un pays limitrophe, le Gouvernement béninois ne reçoit l’un des documents mentionnés à l’article 743 du présent code.
+Le délai de vingt (20) jours précité est porté à un (01) mois, si le territoire du pays requérant est non limitrophe, à trois (03) mois si ce territoire est hors d’Afrique.
+La mise en liberté est prononcée sur requête adressée à la chambre de l’instruction, qui statue sans recours, dans la huitaine.
+Si, ultérieurement, les pièces susvisées parviennent au Gouvernement béninois, la procédure est reprise, conformément aux articles 744 et suivants du présent code.

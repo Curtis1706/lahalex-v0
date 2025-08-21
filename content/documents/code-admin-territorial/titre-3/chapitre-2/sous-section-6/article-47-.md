@@ -1,0 +1,1 @@
+La commune a la charge de l'aide sociale aux déshérités et aux sinistrés.

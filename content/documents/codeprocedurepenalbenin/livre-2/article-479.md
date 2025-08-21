@@ -1,0 +1,3 @@
+Si le tribunal estime que le fait constitue un délit ou une contravention, il prononce la peine ; le président fait connaître au prévenu non détenu condamné à l’emprisonnement qu’il peut consentir à exécuter la peine immédiatement mais alors il gardera prison même s’il interjette appel du jugement.
+Le tribunal statue, s’il y a lieu, sur l’action civile.
+Il a la faculté, s’il ne peut se prononcer en l’état sur la demande en dommages-intérêts, d’accorder une provision à la partie civile.

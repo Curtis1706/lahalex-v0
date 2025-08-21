@@ -1,0 +1,16 @@
+{
+  "id": "article-12-",
+  "title": "Article 12 : Confidentialité des communications",
+  "numero": "12 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-2"
+  ],
+  "navigation": {
+    "parent": "chapitre-2",
+    "previous": "article-11-",
+    "next": "article-13-"
+  }
+}

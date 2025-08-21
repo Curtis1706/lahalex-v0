@@ -1,0 +1,3 @@
+Quiconque est coupable de faux témoignage en matière correctionnelle soit contre le prévenu, soit en sa faveur, est puni d’un emprisonnement de deux (02) ans au moins et cinq (05) ans au plus et d’une amende de cinquante mille (50.000) francs CFA à deux cent cinquante mille (250.000) francs CFA.
+Si néanmoins le prévenu a été condamné à plus de cinq (05) ans d’emprisonnement, le faux témoin qui a déposé contre lui subira la même peine.
+Est puni de la même peine le fait de dénoncer mensongèrement à l’autorité judiciaire ou administrative des faits constitutifs d’un crime ou d’un délit qui ont exposé les autorités judiciaires à d’inutiles recherches.

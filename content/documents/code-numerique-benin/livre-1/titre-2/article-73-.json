@@ -1,0 +1,15 @@
+{
+  "id": "article-73-",
+  "title": "Article 73 : Dégroupage de la boucle locale et de la sous-boucle locale",
+  "numero": "73 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-72-",
+    "next": "article-74-"
+  }
+}

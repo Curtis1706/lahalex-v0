@@ -1,0 +1,1 @@
+Lorsqu’il est saisi d’un dossier d’information, le juge d’instruction peut, d’office ou sur la demande de la partie civile ou du ministère public, ordonner des mesures conservatoires sur les biens de l’inculpé.

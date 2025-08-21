@@ -1,0 +1,17 @@
+{
+  "id": "article-20-",
+  "title": "Article 20 :",
+  "numero": "20 ",
+  "document": "code-douane",
+  "path": [
+    "titre-1",
+    "chapitre-5",
+    "section-3",
+    "paragraphe-1"
+  ],
+  "navigation": {
+    "parent": "paragraphe-1",
+    "previous": "article-19-",
+    "next": "article-21-"
+  }
+}

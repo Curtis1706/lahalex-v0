@@ -1,0 +1,2 @@
+Les recettes de la section de fonctionnement de la commune ou de l'établissement public de coopération intercommunale en matière de portefeuille comprennent les dividendes, intérêts et redevances reçus de placement de portefeuille.
+Ces recettes comprennent également des gains de revenus, appelés plus-values réalisées sur la cession d'immobilisation.

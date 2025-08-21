@@ -1,0 +1,2 @@
+Lorsque la destruction totale ou partielle des ouvrages cités à l’article précédent procède d’un acte répréhensible sciemment orchestré et exécuté, les auteurs sont punis d’un emprisonnement de trois (03) ans à cinq (05) ans et d’une amende de cinquante mille (50.000) francs CFA à deux cent cinquante mille (250.000) francs CFA.
+PARAGRAPHES 7: DE L’USURPATION DE TITRES OU DE FONCTIONS

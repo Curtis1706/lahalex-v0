@@ -1,0 +1,1 @@
+La responsabilité du transporteur de personnes est régie par les dispositions de la Convention pour l'unification de certaines règles relatives au transport aérien international ou de toute autre convention ou protocole la modifiant ou la complétant et par les dispositions réglementaires qui la mettent en cause.

@@ -1,0 +1,15 @@
+{
+  "id": "article-136-",
+  "title": "Article 136 :",
+  "numero": "136 ",
+  "document": "coode-maritime",
+  "path": [
+    "livre-1",
+    "chapitre-7"
+  ],
+  "navigation": {
+    "parent": "chapitre-7",
+    "previous": "article-135-",
+    "next": "article-137-"
+  }
+}

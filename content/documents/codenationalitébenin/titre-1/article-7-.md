@@ -1,0 +1,1 @@
+La filiation n'a d'effet de plein droit en matière de nationalité béninoise que si elle est établie avant que l'enfant n'ait atteint l'âge de dixhuit (18) ans ou ne soit émancipé.

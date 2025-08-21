@@ -1,0 +1,2 @@
+Contrefaçon de marque, nom commercial, appellation d’origine, indication géographique
+Constitue une atteinte à la propriété intellectuelle, le fait sans autorisation de l’auteur ou de ses ayants droit, de reproduire, d’utiliser, de vendre, de dénigrer, de dénaturer une marque, un nom commercial, une appellation d’origine ou une indication géographique appartenant à un tiers au moyen d’un ou sur un réseau de communication électronique ou un système informatique.

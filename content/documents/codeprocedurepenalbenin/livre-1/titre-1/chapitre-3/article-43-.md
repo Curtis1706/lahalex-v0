@@ -1,0 +1,2 @@
+Le juge d’instruction est chargé de procéder aux informations.
+Dans tout tribunal de première instance, en cas d’empêchement du ou des juges d’instruction, les fonctions du juge d’instruction sont exercées soit par le président, soit par un ou plusieurs juges de ce tribunal, le tout conformément à la loi portant organisation judiciaire.

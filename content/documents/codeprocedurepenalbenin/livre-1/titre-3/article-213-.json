@@ -1,0 +1,15 @@
+{
+  "id": "article-213-",
+  "title": "Article 213 :",
+  "numero": "213 ",
+  "document": "codeprocedurepenalbenin",
+  "path": [
+    "livre-1",
+    "titre-3"
+  ],
+  "navigation": {
+    "parent": "titre-3",
+    "previous": "article-212-",
+    "next": "article-213-nouveau--loi-n--2018-14--"
+  }
+}

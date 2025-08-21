@@ -1,0 +1,1 @@
+Est punie d’un emprisonnement de deux (02) ans à (03) trois ans et d’une amende de deux cent mille (200.000) à deux millions (2.000.000) de francs CFA la cession sans autorisation d’une arme à feu, de ses munitions ou de ses éléments essentiels.

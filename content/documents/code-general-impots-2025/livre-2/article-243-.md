@@ -1,0 +1,1 @@
+La taxe sur la valeur ajoutée ayant grevé en amont les éléments du prix d’une opération imposable est déductible de la taxe sur la valeur ajoutée applicable à cette opération.

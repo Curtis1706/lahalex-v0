@@ -1,0 +1,1 @@
+Les parties sont libres de régler leur convention d’assurance comme elles l’entendent, notamment en se référant à toutes lois étrangères, toutes conventions types ou en combinant différentes lois ou conventions types, ou en créant de nouvelles.

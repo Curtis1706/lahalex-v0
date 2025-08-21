@@ -1,0 +1,3 @@
+Requête
+Les officiers de police judiciaire peuvent, par tout moyen, requérir toute personne susceptible d'avoir connaissance des mesures appliquées pour protéger les données auxquelles il est permis d'accéder dans le cadre de la perquisition de leur remettre les informations permettant d'accéder aux données mentionnées.
+Le fait de s'abstenir de répondre dans les meilleurs délais à cette réquisition est puni d'une amende de deux cent mille (200 000) francs CFA.

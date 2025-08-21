@@ -1,0 +1,1 @@
+En cas de décès ou de privation des droits civils et politiques du mandant, la procuration est annulée de plein droit.

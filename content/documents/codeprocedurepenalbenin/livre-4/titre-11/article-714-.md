@@ -1,0 +1,1 @@
+Les allocations auxquelles la garde du mineur ouvre droit sont versées à la personne ou à l’institution privée qui a la charge du mineur, ou au trésor public si le mineur a été placé dans une institution d’Etat.

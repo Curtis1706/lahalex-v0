@@ -1,0 +1,19 @@
+Droit d’accès
+Toute personne physique dont les données à caractère personnel font l’objet d’un traitement peut demander au responsable de ce traitement :
+1. les informations permettant de connaître et de contester le traitement de ses données à caractère personnel ;
+1. la confirmation que des données à caractère personnel la concernant font ou ne font pas l'objet de traitement, ainsi que des informations portant au moins sur les finalités du traitement, les catégories de données sur lesquelles il porte et les catégories de destinataires auxquels les données sont communiquées ;
+1. la communication sous forme intelligible des données à caractère personnel qui la concernent ainsi que de toute information disponible quant à l'origine de celles-ci ;
+1. le cas échéant, des informations relatives aux transferts de données à caractère personnel envisagés à destination d’un État tiers ;
+1. lorsque cela est possible, la durée de conservation des données à caractère personnel envisagée ou, lorsque ce n'est pas possible, les critères utilisés pour déterminer cette durée ;
+1. l'existence du droit de demander au responsable du traitement la rectification ou l'effacement de données à caractère personnel, ou une limitation du traitement des données à caractère personnel relatives à la personne concernée, ou du droit de s'opposer à ce traitement ;
+1. le droit d'introduire une réclamation auprès d'une Autorité de contrôle ;
+1. lorsque les données à caractère personnel ne sont pas collectées auprès de la personne concernée, toute information disponible quant à leur source ;
+1. l'existence d'une prise de décision automatisée, y compris un profilage, visée à l'article 401, et, au moins en pareils cas, des informations utiles concernant la logique sous-jacente, ainsi que l'importance et les conséquences prévues de ce traitement pour la personne concernée.
+A cette fin, la personne concernée adresse une demande datée et signée au responsable du traitement par voie postale ou électronique, ou son représentant.
+Une copie des renseignements lui est communiquée sans délai et au plus tard dans les soixante (60) jours de la réception de la demande.
+Le paiement des frais pour toute copie supplémentaire demandée par la personne concernée devra être fixé par note de service de la structure responsable du traitement sur la base des coûts administratifs conséquents.
+Toutefois, l'Autorité saisie contradictoirement par le responsable du fichier peut lui accorder :
+1. des délais de réponse ;
+1. l’autorisation de ne pas tenir compte de certaines demandes manifestement abusives par leur nombre, leur caractère répétitif ou systématique.
+Lorsqu’il y a lieu de craindre la dissimulation ou la disparition des informations mentionnées au premier alinéa du présent article, et même avant l’exercice d’un recours juridictionnel, il peut être demandé au juge compétent que soient ordonnées toutes mesures de nature à éviter cette dissimulation ou cette disparition.
+Lorsque les données relatives à la santé de la personne concernée sont traitées aux fins de recherches médico- scientifiques, qu'il est manifeste qu'il n'existe aucun risque qu'il soit porté atteinte à la vie privée de cette personne et que les données ne sont pas utilisées pour prendre des mesures à l'égard d'une personne concernée individuelle, la communication peut, pour autant qu'elle soit susceptible de nuire gravement auxdites recherches, être différée au plus tard jusqu'à l'achèvement des recherches. Dans ce cas, la personne concernée doit avoir préalablement donné son autorisation écrite au responsable du traitement que les données à caractère personnel la concernant peuvent être traitées à des fins médico-scientifiques et la communication de ces données peut dès lors être différée.

@@ -1,0 +1,3 @@
+Une conférence administrative départementale réunit les directeurs et les chefs des services déconcentrés de l'Etat dans le département.
+La Conférence administrative départementale est un cadre de concertation et de coordination des actions des services déconcentrés.
+Un décret pris en Conseil des ministres précise les attributions, l'organisation et les modalités de fonctionnement de la Conférence administrative départementale.

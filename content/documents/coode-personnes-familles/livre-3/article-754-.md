@@ -1,0 +1,2 @@
+La convention d’indivision peut être conclue pour une durée indéterminée. Elle peut dans ce cas, résulter d’un accord tacite.
+Le partage peut être provoqué à tout moment, pourvu qu’il ne le soit pas de mauvaise foi ou à contre temps ou contraire aux usages.

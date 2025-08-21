@@ -1,0 +1,17 @@
+{
+  "id": "article-49-",
+  "title": "Article 49 :",
+  "numero": "49 ",
+  "document": "code-general-impots-2025",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-1",
+    "section-4"
+  ],
+  "navigation": {
+    "parent": "section-4",
+    "previous": "article-48-",
+    "next": "article-50-"
+  }
+}

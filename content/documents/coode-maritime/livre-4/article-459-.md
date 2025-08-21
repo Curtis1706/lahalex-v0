@@ -1,0 +1,2 @@
+Les actions en réparation de dommages se prescrivent par un (1) an à partir de l’événement.
+Le délai pour intenter les actions en recours admises par l’alinéa 3 de l’article 455 du présent code est d’une année. Ce délai ne court pas si le navire n’a pu être saisi dans les eaux territoriales béninoises, lorsque le demandeur en dommages-intérêts est de nationalité béninoise ou est domicilié sur le territoire de la République du Bénin.

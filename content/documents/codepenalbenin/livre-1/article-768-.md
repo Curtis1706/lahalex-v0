@@ -1,0 +1,1 @@
+Sont punis d’un emprisonnement de un (01) mois à trois (03) mois et d’une amende de un million (1 000 000) de francs CFA à cinq millions (5 000 000) de francs CFA, ou l’une de ces deux peines seulement, les dirigeants sociaux qui, sciemment, n’établissent pas les procès-verbaux d’assemblées générales dans les formes prescrites par la loi.

@@ -1,0 +1,1 @@
+L’expertise maritime peut être rapportée comme élément de preuve lors d’une procédure judiciaire. Cependant, elle n’a pas d’effets obligatoires pour les parties intéressées ou pour le juge saisi.

@@ -1,0 +1,3 @@
+_(Règlement 2015-02)_ Forme de l’entreprise de réassurance
+A l’exception des sociétés de réassurance mutuelles mentionnées à l’article 330-41 du code des assurances et des entreprises de réassurance multilatérales et panafricaines mentionnées à l’article 803, toute entreprise de réassurance ayant son siège dans un État membre doit être constituée, sous la forme de société anonyme.
+Toutefois, une société de réassurance ne peut se constituer sous la forme d’une société anonyme unipersonnelle.

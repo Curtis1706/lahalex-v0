@@ -1,0 +1,2 @@
+Le Directeur Général des impôts est tenu de délivrer le quitus fiscal à tout candidat à jour du paiement de ses impôts, dans tes quinze (15) jours qui suivent la réception de la demande. Le refus de délivrance du quitus fiscal est motivé et comporte l'indication, en une seule fois, du détail des impôts non payés.
+Au cas où le requérant effectue le payement exigé, le quitus lui est délivré dans tes soixante-douze (72) heures suivant la date du paiement.

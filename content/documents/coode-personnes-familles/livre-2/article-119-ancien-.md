@@ -1,0 +1,1 @@
+Chacun des futurs époux, même mineur, doit consentir personnellement au mariage.

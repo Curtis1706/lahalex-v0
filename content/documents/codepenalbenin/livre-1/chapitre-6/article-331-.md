@@ -1,0 +1,4 @@
+Tout agent de l’Etat, d’un établissement public, semi-public ou subventionné par l’Etat, tout officier public, tout percepteur des droits, contributions ou deniers publics, leurs commis ou préposés qui ont reçu, exigé ou ordonné de percevoir pour droits, taxes, contributions ou deniers ou pour salaires ou traitements, ce qu’ils savaient n’être pas dû ou excéder ce qui était dû, sont punis, à savoir :
+- les agents de l’Etat, d’un établissement public, semi-public ou subventionné par l’Etat, les officiers publics ou les percepteurs, d’un emprisonnement de quatre (04) ans à dix (10) ans;
+- et leurs commis ou préposés, d’un emprisonnement de deux (02) ans à cinq (05) ans.
+Le condamné peut être interdit pendant dix (10) ans au plus à partir de l’expiration de la peine, des droits énumérés à l’article 38 du présent code. En outre, l’interdiction de séjour peut être prononcée pour une durée de cinq (05) ans à dix (10) ans.

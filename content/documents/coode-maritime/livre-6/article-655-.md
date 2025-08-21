@@ -1,0 +1,2 @@
+Toute infraction aux dispositions de l’article 184 du présent code est punie, indépendamment des dommages causés, d’une amende de dix millions (10.000.000) à cent millions (100.000.000) de francs.
+Cette peine est portée au double en cas de récidive.

@@ -1,0 +1,11 @@
+1)  Lorsque  le  prix  de  vente  d’un  immeuble  bâti  à  usage  principal d’habitation, c’est-à-dire dont les trois quarts (3/4) au moins de la superficie développée des bâtiments sont à usage d’habitation, a été stipulé payable par annuités, la perception du droit de mutation peut, sur la demande des parties, être effectuée en plusieurs fractions égales sans que le nombre de ces fractions puisse excéder celui des annuités prévues au contrat, ni être supérieur à six (6).
+2) Le paiement de la première fraction du droit a lieu au moment où le contrat est
+enregistré. Les autres fractions sont exigibles d’année en année et sont acquittées dans le trimestre qui suit l’échéance de chaque année, de manière que la totalité du droit soit acquittée dans l’espace de cinq (5) ans et trois (3) mois au maximum à partir du jour de l’enregistrement du contrat.
+3) Dans le cas où, par anticipation, l’acquéreur se libérerait entièrement de son prix
+avant le paiement intégral du droit, la portion restant due deviendrait exigible dans les trois (3) mois du règlement définitif, si ce dernier intervient avant le délai maximum de cinq (5) ans résultant des dispositions précédentes.
+La totalité du droit deviendra également exigible immédiatement dans le cas de revente de l’immeuble.
+4) Si la vente est résolue avant le paiement complet des droits, les termes acquittés
+ou échus depuis plus de trois (3) mois demeurent acquis au trésor, les autres tombent en non-valeur.
+La résolution volontaire ou judiciaire de contrat ne donne ouverture qu’au droit fixe des actes innomés.
+5) Le bénéfice du présent article n’est accordé que s’il est demandé dans l’acte
+même, qui doit contenir en outre, constitution d’hypothèque au profit de l’administration, avec réquisition d’inscription au moment même de l’inscription de la mutation. L’inspecteur de l’enregistrement qui a reçu l’acte a qualité pour donner mainlevée de l’hypothèque ainsi consentie, soit après paiement complet des droits, soit après paiement des seules fractions échues.

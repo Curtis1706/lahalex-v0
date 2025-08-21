@@ -1,0 +1,7 @@
+Le directeur général de la Caisse est nommé après avis du conseil d’administration sur proposition du Ministre de tutelle par décret pris en conseil des Ministres.
+Le directeur général ne peut exercer des fonctions rémunérées ou non dans aucune autre société à but lucratif dans laquelle la Caisse ou l’Etat n’aurait pas de participation.
+Le directeur général rend compte de ses activités par un rapport annuel qu’il soumet au conseil d’administration. Le conseil, après délibération transmet ledit rapport au Ministre de tutelle.
+Sous réserve des attributions du conseil d’administration et des commissaires aux comptes, le directeur général, en tant que responsable du fonctionnement de la Caisse, exerce tous pouvoirs de direction et de gestion de ladite Caisse.
+Le directeur général a pouvoir de gérer la Caisse, d’agir au nom de cette dernière, de la représenter, d’accomplir ou d’autoriser les actes et opérations relatifs à son objet.
+Le directeur général nomme et révoque le personnel conformément à la convention collective qui le régit.
+Sous réserve de l’inaliénabilité des immeubles et du matériel fixe apportés par l’Etat à titre de dotation, il a les pouvoirs les plus étendus pour la gestion de la Caisse. Ces pouvoirs sont fixés par décret pris en conseil des Ministres.

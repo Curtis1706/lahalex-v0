@@ -1,0 +1,1 @@
+Les membres du conseil départemental de concertation et de coordination ont droit à des frais de session et de déplacement dont le taux et les modalités de paiement sont fixés par décret pris en Conseil des ministres et imputables au budget national.

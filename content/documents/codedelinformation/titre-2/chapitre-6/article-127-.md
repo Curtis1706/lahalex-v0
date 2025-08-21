@@ -1,0 +1,3 @@
+L’insertion du droit de réponse est faite dans les mêmes dispositions, proportions, formats, polices et caractères que l’article qui l’a provoquée et sans aucune intercalation. La diffusion ou la publication de la réponse a lieu sur le même territoire dans les conditions équivalentes à celles de l’émission incriminée sans additif, sans coupure et sans montage.
+La publication ne comprend pas l’adresse, les salutations, les réquisitions d’usage et la signature, qui ne sont jamais comptés dans la réponse.
+Pendant les périodes électorales, le délai prévu pour l’insertion du droit de réponse est de vingt-quatre (24) heures suivant la réception de la requête.

@@ -1,0 +1,2 @@
+Validité des licences et autorisations en cours
+Les licences et autorisations visées au Livre I et délivrées avant l’entrée en vigueur de la présente loi, conservent leur validité jusqu’à leur date d’expiration ou de modification.

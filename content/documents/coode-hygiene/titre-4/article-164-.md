@@ -1,0 +1,1 @@
+Le non-respect des mesures d'hygiène intra ou extra domiciliaires ordonnées par les autorités compétentes, constitue une infraction punie conformément aux dispositions de la présente loi, sans préjudice de celles prévues par le code pénal.

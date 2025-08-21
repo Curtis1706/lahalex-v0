@@ -1,0 +1,1 @@
+Le prélèvement n’est pas imputable sur les impôts dus par les assujettis visés à l’article 135 du présent code. Il est dû à titre définitif et ne les dispense pas des obligations fiscales découlant de leurs régimes d’imposition.

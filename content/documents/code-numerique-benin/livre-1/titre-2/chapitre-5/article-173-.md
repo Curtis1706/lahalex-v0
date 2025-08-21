@@ -1,0 +1,2 @@
+Recours
+Les décisions prises par l’Autorité de régulation dans le cadre de la présente Section peuvent faire l’objet d’un appel devant la chambre administrative de la Cour suprême dans un délai d’un (01) mois.

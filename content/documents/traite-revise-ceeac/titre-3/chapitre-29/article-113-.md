@@ -1,0 +1,3 @@
+Dépositaire
+6) Le présent Traité rédigé en un exemplaire unique, en langues anglaise, espagnole, française et portugaise, les textes établis dans chacune de ces langues faisant également foi, sera déposé auprès du Secrétaire Général de la CEEAC, et après son entrée en vigueur auprès du Président de la Commission de la CEEAC qui remettra une copie certifiée conforme à chacun des Gouvernements des États signataires.
+6) La Commission de la CEEAC notifie aux Etats membres les dates de dépôt des instruments de ratification et d’adhésion et fait enregistrer le présent Traité auprès de l’Organisation des Nations Unies et de l’Union Africaine.

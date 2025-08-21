@@ -1,0 +1,1 @@
+Pour des raisons de défense nationale, l’Etat peut, par décret pris en Conseil des ministres, se substituer temporairement ou définitivement à l’exploitant d'un aérodrome.

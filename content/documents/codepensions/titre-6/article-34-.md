@@ -1,0 +1,6 @@
+1°- Les veuves des Agents Permanents de l'Etat Civils ou Militaires polygames quel que soit leur rang et qui sont désignée sur la liste prévue à l'article 30 ou dont la preuve du mariage est faite et leurs orphelins mineurs, ont droit à la pension prévue à l'article 31 dans les conditions suivantes :
+La pension prévue à l'article 31 est allouée à la famille et divisée par parts égales entre chaque lit représenté au décès de l'auteur par la veuve ou éventuellement, par les orphelins visés au paragraphe 1 de l'article 35.
+Au cas où l'un des lits cosse d'Être représenté, la part qui lui était attribuée est partagée entre les autres lits.
+2°- Les parts attribuées aux orphelins en vertu de l'article 33 sont obligatoirement versées aux veuves mères des orphelins. En cas de décès de celles-ci ou de leur remariage ou si elles n'ont pas la garde effective des orphelins les parts sont versées aux personnes chargées de leur entretien.
+3°- La preuve des naissance, mariage et autres mentions de l'Etat-Civil est faite selon les formes prévues par la réglementation en vigueur.
+4°- Le droit à pension de veuve n'existe pas s'il est de notoriété publique et dûment établi qu'elle a abandonné le domicile plus de trois ans avant le décès de son mari.

@@ -1,0 +1,15 @@
+{
+  "id": "article-126-",
+  "title": "Article 126 : Serment",
+  "numero": "126 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-125-",
+    "next": "article-127-"
+  }
+}

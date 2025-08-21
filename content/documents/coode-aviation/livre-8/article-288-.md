@@ -1,0 +1,1 @@
+La création des écoles ou organismes de formation aéronautique est subordonnée à l'agrément du ministre chargé de l'aviation civile, dans les conditions définies par voie réglementaire.

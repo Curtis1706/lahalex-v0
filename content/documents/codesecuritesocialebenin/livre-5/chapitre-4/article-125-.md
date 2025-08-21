@@ -1,0 +1,2 @@
+L’action du bénéficiaire de rente ou de pension en paiement n’est recevable que pour les quatre derniers trimestres échus à la date de la réclamation.
+Le droit aux pensions et allocations de vieillesse, d’invalidité ou de survivants ainsi que le droit aux rentes est prescrit après sept ans à compter de la date de l’ouverture des droits.

@@ -1,0 +1,1 @@
+La contribution au développement local peut faire l’objet de retenue à la source dans des conditions définies par voie réglementaire.

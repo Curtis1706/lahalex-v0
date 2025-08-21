@@ -1,0 +1,1 @@
+Si le copartageant tenu au rapport des dettes a lui-même des créances à faire valoir, il n’est tenu de rapporter que le solde dont il reste débiteur.

@@ -1,0 +1,2 @@
+Le village ou le quartier de ville constitue l'unité administrative de base au sein de laquelle s'organise la vie en milieu rural ou en milieu urbain.
+Tous les habitants du village ou du quartier de ville ont les mêmes droits et les mêmes devoirs au regard de la communauté.

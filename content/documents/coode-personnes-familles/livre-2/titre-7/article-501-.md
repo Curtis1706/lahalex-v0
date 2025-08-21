@@ -1,0 +1,1 @@
+Peuvent être exclues ou destituées des différentes charges de la tutelle les personnes dont l’inconduite notoire, l’improbité habituelle ou l’inaptitude aux affaires auraient été constatées.

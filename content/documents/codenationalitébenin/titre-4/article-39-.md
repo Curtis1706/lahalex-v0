@@ -1,0 +1,3 @@
+Tout Béninois qui épouse un étranger conserve la nationalité béninoise, à moins qu'il ne déclare expressément la répudier avant la célébration du mariage, dans les conditions et formes prévues aux articles 49, 50 et 51.
+Cette déclaration n'est valable que lorsque le Béninois acquiert ou peut acquérir la nationalité du conjoint, par application de la loi nationale de celuici.
+Le Béninois est, dans ce cas, libéré de son allégeance à l'égard de la République du Bénin à la date de la célébration du mariage.

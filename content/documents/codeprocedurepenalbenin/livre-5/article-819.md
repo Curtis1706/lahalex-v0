@@ -1,0 +1,1 @@
+Lorsqu’à l’occasion d’une même procédure, la personne poursuivie est reconnue coupable de plusieurs infractions en concours punissables des peines de même nature, il ne peut être prononcé à son encontre qu’une seule peine de cette nature dans la limite du maximum légal le plus élevé.

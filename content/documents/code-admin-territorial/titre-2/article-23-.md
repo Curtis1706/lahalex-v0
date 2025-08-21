@@ -1,0 +1,1 @@
+Un décret pris en Conseil des ministres précise les attributions du préfet, l'organisation et le fonctionnement des départements

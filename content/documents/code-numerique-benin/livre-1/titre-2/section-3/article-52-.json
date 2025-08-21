@@ -1,0 +1,16 @@
+{
+  "id": "article-52-",
+  "title": "Article 52 : Activités de communications électroniques soumises au régime de l’autorisation",
+  "numero": "52 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "section-3"
+  ],
+  "navigation": {
+    "parent": "section-3",
+    "previous": "article-51-",
+    "next": "article-53-"
+  }
+}

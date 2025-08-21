@@ -1,0 +1,4 @@
+Fraude informatique
+Quiconque, intentionnellement et sans droit, cause ou cherche à causer un préjudice patrimonial à autrui avec l’intention de procurer un avantage économique illégal à soi-même ou à une tierce partie, est puni d’un emprisonnement de cinq (05) ans à dix (10) ans et d'une amende de cinq millions (5 000 000) à cinquante millions (50 000 000) de francs CFA :
+1. en introduisant dans un système informatique, en modifiant, altérant ou effaçant des données qui sont stockées, traitées ou transmises par un système informatique ; ou
+1. en perturbant le fonctionnement normal d’un système informatique ou des données y contenues.

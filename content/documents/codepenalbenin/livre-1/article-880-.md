@@ -1,0 +1,3 @@
+Quiconque aura par imprudence, négligence, inattention, ou pour inobservation des règlements involontairement causé un feu de brousse ou un incendie de plantation sera puni de un (01) an à trois (03) ans et d’une amende de cinquante mille (50.000) francs CFA à cinq cent mille (500.000) francs CFA ou de l’une de ces deux peines seulement.
+Si l’incendie ou le feu de brousse a été allumé volontairement dans un intérêt personnel, de cultures ou autres, la peine d’emprisonnement qui pourra être élevée jusqu’à cinq (05) ans est obligatoirement sans préjudice des dommages-intérêts.
+Au cas où l’incendie ou le feu de brousse a été allumé volontairement dans une intention criminelle, la peine est portée au double.

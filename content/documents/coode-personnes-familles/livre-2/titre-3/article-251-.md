@@ -1,0 +1,3 @@
+Encore que la demande soit bien établie, le divorce peut ne pas être prononcé si l’intérêt des enfants exige le maintien du mariage.
+Dans la même hypothèse d’une demande bien établie, le tribunal peut ne pas prononcer immédiatement le divorce ; il maintient alors ou prescrit l’habitation séparée et les mesures provisoires pendant un délai qui ne peut excéder une année.
+Après le délai fixé par le tribunal, si les époux ne sont pas réconciliés, chacun d’eux peut faire convoquer ou citer l’autre devant le tribunal pour entendre prononcer le divorce.

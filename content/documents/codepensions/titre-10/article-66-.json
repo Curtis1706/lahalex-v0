@@ -1,0 +1,14 @@
+{
+  "id": "article-66-",
+  "title": "Article 66 :",
+  "numero": "66 ",
+  "document": "codepensions",
+  "path": [
+    "titre-10"
+  ],
+  "navigation": {
+    "parent": "titre-10",
+    "previous": "article-65-",
+    "next": "article-67-"
+  }
+}

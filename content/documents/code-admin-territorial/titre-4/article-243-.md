@@ -1,0 +1,1 @@
+Les communes à statut intermédiaire assurent, outre les compétences dévolues à toutes les communes, la construction, l'entretien, la réhabilitation et l’équipement des collèges d’enseignement général.

@@ -1,0 +1,1 @@
+Avant sa transmission au Conseil, le projet de budget est soumis pour avis au Comité des Experts visé à l'article 25.

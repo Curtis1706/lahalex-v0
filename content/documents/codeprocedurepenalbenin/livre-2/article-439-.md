@@ -1,0 +1,1 @@
+La constitution de partie civile se fait à l’audience par déclaration consignée par le greffier ou par dépôt de conclusions.

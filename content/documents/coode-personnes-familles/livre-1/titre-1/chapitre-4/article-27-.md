@@ -1,0 +1,1 @@
+La requête est présentée d’office ou à la demande de tout intéressé, par le procureur de la République au tribunal du lieu de la disparition si celle-ci s’est produite sur le territoire béninois, sinon au tribunal de première instance de Cotonou. Une requête collective peut être présentée lorsque plusieurs personnes ont disparu au cours des mêmes circonstances.

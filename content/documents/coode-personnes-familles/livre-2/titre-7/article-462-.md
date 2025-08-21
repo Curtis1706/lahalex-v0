@@ -1,0 +1,2 @@
+Les fonctions de juge des tutelles sont exercées par le président du tribunal de première instance ou par un juge appartenant à ce tribunal dans le ressort duquel le mineur à son domicile.
+Si ce domicile est transporté dans un autre ressort, le tuteur doit en aviser le juge des tutelles qui transmet le dossier au juge des tutelles du nouveau domicile ; mention de cette transmission sera conservée au greffe du tribunal de première instance.

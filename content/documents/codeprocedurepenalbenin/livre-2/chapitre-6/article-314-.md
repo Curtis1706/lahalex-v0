@@ -1,0 +1,3 @@
+Le président est investi d’un pouvoir discrétionnaire en vertu duquel il peut, en son honneur et conscience, prendre toutes mesures qu’il croit utiles pour découvrir la vérité.
+Il peut, au cours des débats, appeler, au besoin par mandat d’amener, et entendre toutes personnes ou se faire apporter toutes nouvelles pièces qui lui paraissent, d’après les développements donnés à l’audience, utiles à la manifestation de la vérité.
+Les témoins entendus en vertu du pouvoir discrétionnaire du président prêtent serment, sauf opposition du ministère public ou de la partie civile ou de l’accusé ou de leurs avocats.

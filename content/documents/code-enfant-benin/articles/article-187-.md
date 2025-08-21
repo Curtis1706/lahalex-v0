@@ -1,0 +1,2 @@
+Article 187 : Obligation de dénoncer les pratiques de mutilation sexuelle
+Toute personne, qui a connaissance de cas de mutilation sexuelle d’un enfant, en informe immédiatement le procureur de la République ou l’officier de police judiciaire le plus proche aux fins de droit.

@@ -1,0 +1,1 @@
+La Puissance détentrice des prisonniers de guerre sera tenue de pourvoir Entretien des gratuitement à leur entretien et de leur accorder gratuitement les soins mé- prisonniers dicaux que nécessite leur état de santé.

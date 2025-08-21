@@ -1,0 +1,1 @@
+L’acceptation n'a d’effet qu'en faveur des créanciers et jusqu’à concurrence seulement du montant de leurs créances. Elle ne doit en aucun cas profiter à l’héritier qui a renoncé.

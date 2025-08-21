@@ -1,0 +1,1 @@
+Les servitudes prévues à l'article 178 de la présente loi assurent à la navigation aérienne, des conditions de sécurité au moins équivalentes à celles prévues à l'annexe 14 à la Convention relative à l'aviation civile internationale concernant les aérodromes.

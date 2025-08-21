@@ -1,0 +1,4 @@
+Le droit d’accorder la libération conditionnelle appartient au ministre en charge de la justice, sur avis de la commission de surveillance prévue à l’article 808alinéa 3 du présent code.
+Le dossier de proposition comporte les avis du chef de l’établissement dans lequel l’intéressé est détenu et du ministère public près la juridiction qui a prononcé la condamnation.
+En matière criminelle, en cas de rejet de la demande par le ministre en charge de la justice, aucune autre demande ne peut être formulée dans un délai d’un (01) an à compter de la date de notification du rejet.
+Pour donner suite à la demande de libération conditionnelle, le ministre en charge de la justice dispose d’un délai d’un (01) mois.

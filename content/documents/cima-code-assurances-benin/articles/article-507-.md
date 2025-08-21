@@ -1,0 +1,3 @@
+Article 507 : Caractère limitatif - Conditions d’honorabilité
+Les opérations pratiquées par les entreprises mentionnées à l’article 300 ne peuvent être présentées par des personnes étrangères aux catégories définies aux 1) à 4) de l’article 501 que dans les cas et conditions fixées par les articles 502 à 504 sous réserve que ces personnes ne soient frappées d’aucune des incapacités prévues à l’article 506.
+### CHAPITRE 3 : CONDITIONS DE CAPACITE

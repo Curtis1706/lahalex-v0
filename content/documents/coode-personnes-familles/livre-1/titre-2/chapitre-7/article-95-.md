@@ -1,0 +1,1 @@
+Lorsqu’un acte de naissance, de décès ou de mariage n’aura pas été dressé ou que la demande d’établissement en aura été présentée tardivement, le président du tribunal de première instance dans le ressort duquel l’acte aurait dû être reçu, pourra, par jugement, en autoriser l’inscription par l'officier de l’état civil.

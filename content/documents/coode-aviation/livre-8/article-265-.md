@@ -1,0 +1,2 @@
+Nul ne peut foire partie du personnel membre d'équipage professionnel de l'aéronautique civile s'il n'est inscrit sur un registre aéronautique correspondant à sa catégorie.
+Toutefois, le personnel des services complémentaires de bord recruté pour une durée inférieure à six mois n'est pas inscrit sur le registre.

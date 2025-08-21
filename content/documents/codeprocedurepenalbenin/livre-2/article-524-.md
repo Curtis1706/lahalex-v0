@@ -1,0 +1,2 @@
+Les nombre, jours et heures des audiences ordinaires et extraordinaires de la cour d’appel statuant en matière pénale sont fixés par ordonnance du président de la cour d’appel après délibération de l’assemblée générale de la cour d’appel.
+Des audiences spéciales peuvent être fixées par l’assemblée générale à charge d’une part d’informer le ministre de la justice et d’autre part de ne pas mettre en péril les droits des parties à la défense.

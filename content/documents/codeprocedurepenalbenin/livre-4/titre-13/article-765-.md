@@ -1,0 +1,2 @@
+L’envoi des personnes détenues, en vue d’une confrontation, doit être demandé par voie diplomatique.
+Il est donné suite à la demande, à moins que des considérations particulières ne s’y opposent, et sous la condition de renvoyer lesdits détenus dans le plus bref délai.

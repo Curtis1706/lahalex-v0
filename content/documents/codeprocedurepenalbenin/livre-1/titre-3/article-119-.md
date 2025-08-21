@@ -1,0 +1,2 @@
+Si un témoin est dans l’impossibilité de comparaître, le juge d’instruction se transporte pour l’entendre, ou délivre à cette fin commission rogatoire dans les formes prévues à l’article 167 du présent code.
+Si le témoin entendu dans ces conditions n’était pas dans l’impossibilité de comparaître, le juge d’instruction peut prononcer contre lui, l’amende prévue à l’article 116alinéa 3 du présent code.

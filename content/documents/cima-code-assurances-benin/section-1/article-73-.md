@@ -1,0 +1,5 @@
+Article 73 : Action en paiement des primes afférentes aux contrats d’assurance vie ou de capitalisation
+L’assureur n’a pas d’action pour exiger le paiement des primes afférentes aux contrats d’assurance vie ou de capitalisation.
+Lorsqu’une prime ou une fraction de prime n’est pas payée dans les dix jours de son échéance, l’assureur adresse au contractant une lettre recommandée, par laquelle il l’informe qu’à l’expiration d’un délai de quarante jours à dater de l’envoi de cette lettre, le défaut de paiement entraîne soit la résiliation du contrat en cas d’inexistence ou d’insuffisance de la valeur de rachat, soit la réduction du contrat.
+L’envoi de la lettre recommandée par l’assureur rend la prime portable dans tous les cas.
+La procédure édictée au deuxième alinéa peut se faire également par lettre contresignée.

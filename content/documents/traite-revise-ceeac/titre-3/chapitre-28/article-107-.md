@@ -1,0 +1,2 @@
+Mise en place des Organes, des Institutions et dispositions transitoires
+Au terme de l’adoption du Traité par la Conférence des Chefs d’Etat et de Gouvernement, les membres de la Commission sont nommés en remplacement de l’exécutif du Secrétariat général en fin de mandat en attendant la ratification par les Etats membres.

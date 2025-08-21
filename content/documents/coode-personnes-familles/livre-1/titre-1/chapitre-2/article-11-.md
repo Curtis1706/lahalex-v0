@@ -1,0 +1,1 @@
+Il peut être procédé à des rectifications du nom dans les cas et selon les formes prévues au titre relatif aux actes d’état civil.

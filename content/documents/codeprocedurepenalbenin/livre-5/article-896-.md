@@ -1,0 +1,1 @@
+La présente loi entrera en vigueur dès sa publication au Journal Officiel de la République du Bénin et sera exécutée comme loi de l’Etat.

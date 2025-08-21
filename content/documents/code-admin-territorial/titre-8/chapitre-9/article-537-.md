@@ -1,0 +1,1 @@
+Lorsque la commune ou l'établissement public de coopération intercommunale vote le compte administratif après le budget primitif, les résultats sont intégrés au budget supplémentaire.

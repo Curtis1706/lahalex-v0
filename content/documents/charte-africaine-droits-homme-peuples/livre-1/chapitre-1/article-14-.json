@@ -1,0 +1,15 @@
+{
+  "id": "article-14-",
+  "title": "ARTICLE 14 :",
+  "numero": "14 ",
+  "document": "charte-africaine-droits-homme-peuples",
+  "path": [
+    "livre-1",
+    "chapitre-1"
+  ],
+  "navigation": {
+    "parent": "chapitre-1",
+    "previous": "article-13-",
+    "next": "article-15-"
+  }
+}

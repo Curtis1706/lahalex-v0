@@ -1,0 +1,1 @@
+En cas de divorce par consentement mutuel, il est fait masse des dépens qui sont mis pour moitié à la charge de chaque partie.

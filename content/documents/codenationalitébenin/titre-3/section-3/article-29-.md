@@ -1,0 +1,2 @@
+Peuvent réclamer la nationalité béninoise par déclaration souscrite, les personnes qui ont joui, d'une façon constante, de la possession d'état de Béninois, conformément aux dispositions de l'article 9, pendant les dix (10) années précédant leur déclaration.
+Lorsque la validité des actes passés antérieurement à la déclaration était subordonnée à la possession de la nationalité béninoise, cette validité ne peut être contestée pour le seul motif que le déclarant n'avait pas cette nationalité.

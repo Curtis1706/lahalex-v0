@@ -1,0 +1,1 @@
+L’un ou l'autre époux peut, dès l’ordonnance prévue à l’article 239 et sur l’autorisation du juge donnée à charge d’en référer, prendre pour la garantie de ses droits toutes mesures conservatoires utiles.

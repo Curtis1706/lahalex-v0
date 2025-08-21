@@ -1,0 +1,7 @@
+1°- La pension d’ancienneté ou proportionnelle est fixée à 2 % des émoluments de base par annuités liquidables :
+2°- La rémunération de l'ensemble des annuités liquida­bles, conformément aux dispositions de l’article précédent, ne peut être inférieure :
+a - dans une pension basée sur 25 annuités liquidables au moins de services effectifs ou de bonifications considérées comme tels, au traitement brut afférent à l'indice 100 dans l'échelle des traitements ;
+b - dans une pension basée sur moins de 25 annuités liquidables des services effectifs ou bonifications considérées comme tels, au montant brut de la pension calculée à raison de 2 % du trai­tement brut afférent à l'indice 100 dans l'échelle des traitements par annuité liquidable de ces seuls services ou bonifications.
+3°- Si le montant définitif de la pension n’est pas un multiple de 100 il est porté à celui de ces multiples immédiatement supérieurs.
+4°- Les titulaires d'une pension allouée au titre du présent régime bénéficie des avantages familiaux servis aux agents en activité.
+Toutefois, le nombre d'enfants y donnant droit, qu'ils soient légitimes, naturels reconnus ou adoptifs, né peut être supé­rieur à celui fixé par les textes en vigueur.

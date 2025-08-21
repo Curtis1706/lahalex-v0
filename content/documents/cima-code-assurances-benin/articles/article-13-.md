@@ -1,0 +1,9 @@
+Article 13 : Paiement de la prime
+La prime est payable au domicile de l’assureur ou de l’intermédiaire dans les conditions prévues à l’article 541.
+La prise d’effet du contrat est subordonnée au paiement de la prime par le souscripteur.
+Il est interdit aux entreprises d’assurance, sous peine des sanctions prévues à l’article 312, de souscrire un contrat d’assurance dont la prime n’est pas payée ou de renouveler un contrat d’assurance dont la prime n’a pas été payée.
+Par dérogation au principe énoncé aux alinéas précédents, un délai maximum de paiement de soixante jours à compter de la date de prise d’effet ou de renouvellement du contrat peut être accordé au souscripteur, pour les risques dont la prime du contrat excède quatre-vingt fois le SMIG annuel du pays de localisation à l’exception des contrats des branches automobiles, maladie et marchandises transportées.
+Toutefois, le souscripteur devra signer un engagement exprès à payer la prime du contrat avant l’expiration du délai prévu. Lorsque l’engagement express de payer la prime est matérialisé par un effet de commerce, le terme maximum stipulé ne peut excéder le délai de 60 jours ci-dessus.
+A défaut de paiement de la prime dans le délai convenu, le contrat est résilié de plein droit. La portion de prime courue reste acquise à l’assureur, sans préjudice des éventuels frais de poursuite et de recouvrement.
+Les dispositions des alinéas 2 à 6 ne s’appliquent pas aux risques de l’État et de ses démembrements pour lesquels des délais de paiement de primes pourraient être accordés dans les conditions définies par la Commission Régionale de Contrôle des Assurances.
+Les dispositions des alinéas 2 à 7 du présent article ne sont pas applicables aux assurances sur la vie.

@@ -1,0 +1,1 @@
+Le propriétaire d’une forêt qui aura défriché les terrains interdits par les lois et règlements, sera puni d’une amende de dix mille (10.000) francs CFA à cent mille (100.000) francs CFA sans préjudice de la remise des lieux en état. En cas de refus de remise en état des lieux, l’amende sera portée au double.

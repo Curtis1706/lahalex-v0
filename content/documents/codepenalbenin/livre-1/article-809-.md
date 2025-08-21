@@ -1,0 +1,1 @@
+Encourt une peine d’emprisonnement de un (01) an à cinq (05) ans et une amende de un million (1.000.000) de francs CFA à cinq millions (5.000.000) de francs CFA, le débiteur ou toute personne qui aura, par des manœuvres frauduleuses, totalement ou partiellement, privé le bailleur de son privilège sur les meubles garnissant les lieux loués.

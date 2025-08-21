@@ -1,0 +1,7 @@
+1) Est soumise au droit d’enregistrement de 5%, toute cession d’un droit à un bail ou du bénéfice d’une promesse de bail portant sur tout ou partie d’un immeuble, quelle que soit la forme qui lui est donnée par les parties, qu’elle soit qualifiée de cession de pas de porte, d’indemnité de départ ou autrement.
+2) Ce droit est perçu sur le montant de la somme ou indemnité stipulée par le cédant
+à son profit ou sur la valeur vénale réelle du droit cédé, déterminée par une déclaration estimative des parties, si la convention ne contient aucune stipulation expresse d’une somme ou indemnité au profit du cédant ou si la somme ou indemnité stipulée est inférieure à la valeur vénale réelle du droit cédé. Le droit ainsi perçu est indépendant de celui qui peut être dû pour la jouissance des biens loués.
+3) Les dispositions du présent article sont applicables à toutes conventions ayant pour
+effet de résilier un bail portant sur tout ou partie d’un immeuble pour le remplacer par un nouveau bail en faveur d’un tiers.
+4) Le crédit-bail sur fonds de commerce est enregistré gratis. L’acquisition du fonds
+par le crédit-preneur donne lieu au paiement du droit de mutation de fonds de commerce liquidé sur le prix de cession, quelle que soit la valeur vénale du bien à la date de son acquisition par le locataire.

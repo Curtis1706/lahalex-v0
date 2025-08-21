@@ -1,0 +1,3 @@
+L’emprisonnement sera de deux (02) mois à six (06) mois, s’il a été coupé du grain en vert.
+Dans les cas prévus par le présent article et les articles 826, 827, 829 et 830 du présent code, si le fait a été commis en haine d’un fonctionnaire public à raison de ses fonctions, le coupable sera puni du maximum de la peine établie par l’article auquel le cas se référera.
+Il en sera de même, quoique cette circonstance n’existe point, si le fait a été commis de nuit.

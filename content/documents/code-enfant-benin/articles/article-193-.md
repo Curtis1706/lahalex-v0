@@ -1,0 +1,2 @@
+Article 193 : Pédophilie
+La pédophilie s’entend de tout acte de pénétration sexuelle ou d’attouchements sexuels de quelque nature qu’ils soient, commis sur la personne d’un enfant, ou toute exposition ou exploitation aux fins commerciales ou touristiques de photographie, films ou dessins à caractère pornographique mettant en scène un ou plusieurs enfants.

@@ -1,0 +1,1 @@
+Les fiancés ne sont tenus à aucune obligation alimentaire, d’entretien ou de secours, soit l’un à l’égard de l’autre, soit chacun à l’égard de la famille de l’autre.

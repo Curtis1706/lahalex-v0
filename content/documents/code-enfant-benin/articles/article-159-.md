@@ -1,0 +1,3 @@
+Article 159 : Déplacement à l'intérieur du territoire national
+Aucun enfant ne peut être déplacé à l’intérieur du territoire national, si séparé de ses parents biologiques ou de la personne ayant autorité sur lui, il n’est muni d’une autorisation spéciale délivrée par l’autorité administrative compétente du lieu de sa résidence, sauf décision judiciaire ou les cas spécialement recommandés par les services sociaux et les services sanitaires.
+Les modalités de délivrance de cette autorisation sont fixées par décret pris en Conseil des ministres.

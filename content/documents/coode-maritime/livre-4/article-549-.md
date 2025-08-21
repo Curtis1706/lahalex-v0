@@ -1,0 +1,1 @@
+Si la mauvaise foi de l’assuré est établie, c’est-à-dire lorsque celui-ci essaie de se faire couvrir deux (02) fois, tous les contrats sont frappés de nullité.

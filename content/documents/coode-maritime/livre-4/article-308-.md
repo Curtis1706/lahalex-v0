@@ -1,0 +1,2 @@
+L’affréteur doit assurer le chargement et le déchargement de la marchandise dans les délais qui lui sont impartis dans la charte-partie.
+Si celle-ci établit distinctement un délai pour le chargement et un délai pour le déchargement, ces délais ne sont pas réversibles et doivent être décomptés séparément.

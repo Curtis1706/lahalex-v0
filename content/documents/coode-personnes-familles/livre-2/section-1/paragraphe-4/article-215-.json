@@ -1,0 +1,16 @@
+{
+  "id": "article-215-",
+  "title": "Article 215 :",
+  "numero": "215 ",
+  "document": "coode-personnes-familles",
+  "path": [
+    "livre-2",
+    "section-1",
+    "paragraphe-4"
+  ],
+  "navigation": {
+    "parent": "paragraphe-4",
+    "previous": "article-214-",
+    "next": "article-216-"
+  }
+}

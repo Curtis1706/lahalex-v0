@@ -1,0 +1,17 @@
+{
+  "id": "article-151-",
+  "title": "Article 151 : Obligation de séparation comptable",
+  "numero": "151 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "chapitre-5",
+    "sous-section-3"
+  ],
+  "navigation": {
+    "parent": "sous-section-3",
+    "previous": "article-150-",
+    "next": "article-152-"
+  }
+}

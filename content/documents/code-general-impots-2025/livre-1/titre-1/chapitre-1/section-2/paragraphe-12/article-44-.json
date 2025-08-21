@@ -1,0 +1,18 @@
+{
+  "id": "article-44-",
+  "title": "Article 44 :",
+  "numero": "44 ",
+  "document": "code-general-impots-2025",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-1",
+    "section-2",
+    "paragraphe-12"
+  ],
+  "navigation": {
+    "parent": "paragraphe-12",
+    "previous": "article-43-",
+    "next": "article-45-"
+  }
+}

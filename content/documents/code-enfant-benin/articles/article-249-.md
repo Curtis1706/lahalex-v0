@@ -1,0 +1,3 @@
+Article 249 : Information de la famille de l'enfant en situation de prévenu
+Dès qu’un enfant est appréhendé, l’officier de police judiciaire informe immédiatement de cette mesure les parents, le tuteur, le représentant légal, le gardien ou le service social compétent.
+L’enfant doit directement être informé, dans un très court délai ne pouvant excéder quatre (04) heures, des faits qui lui sont reprochés et de son droit à être assisté d’un conseil et si possible en présence d’un parent, du tuteur ou d’un représentant du service social_._

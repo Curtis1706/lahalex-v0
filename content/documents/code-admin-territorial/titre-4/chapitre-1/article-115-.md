@@ -1,0 +1,1 @@
+Le maire délègue aux adjoints au maire, ses pouvoirs d'officier d'état civil et de représentation de la commune devant les autorités centrales et départementales et dans le cadre de la coopération décentralisée, selon les différents domaines de compétence de la commune.

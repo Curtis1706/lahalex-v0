@@ -1,0 +1,1 @@
+En cas de construction, l’aliénateur est tenu de faire une déclaration détaillée  du  prix  de  cession  en  distinguant  la  valeur  de  la  parcelle  de  celle  de  la construction. La plus-value sur la construction est fixée à 10% de son prix de cession.

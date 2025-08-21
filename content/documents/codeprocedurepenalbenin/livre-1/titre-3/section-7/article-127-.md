@@ -1,0 +1,1 @@
+L’inculpé et la partie civile peuvent, à tout moment de l’information, faire connaître au juge d’instruction le nom de l’avocat choisi par eux. S’ils désignent plusieurs avocats, les convocations et notifications sont adressées à chacun d’eux.

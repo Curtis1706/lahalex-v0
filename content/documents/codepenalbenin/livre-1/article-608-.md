@@ -1,0 +1,4 @@
+Est puni d’un emprisonnement de six (06) mois à cinq (05) ans et d’une amende de cinq cent mille (500.000) francs CFA à deux millions (2.000.000) francs CFA, quiconque a volontairement porté atteinte à l’intimité de la vie privée d’autrui en :
+1. écoutant, en enregistrant ou transmettant au moyen d’un appareil quelconque des paroles prononcées dans un lieu privé par une personne sans le consentement de celle-ci ;
+2. fixant ou transmettant au moyen d’un appareil quelconque l’image d’une personne se trouvant dans un lieu privé, sans le consentement de celle-ci.
+Lorsque les actes énoncés au présent article auront été accomplis au cours d’une réunion au vu et au su de ses participants, le consentement de ceux-ci sera présumé.

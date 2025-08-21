@@ -1,0 +1,2 @@
+Le successible ne peut être tenu de prendre parti avant l’expiration du délai de trois (3) mois et quarante (40) jours à compter du jour où la succession lui est dévolue ainsi qu’il est dit à l’article 660 du présent code.
+Pendant ce délai, aucune condamnation ne peut être obtenue contre lui.

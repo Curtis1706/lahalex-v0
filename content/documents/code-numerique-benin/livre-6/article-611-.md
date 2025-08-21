@@ -1,0 +1,3 @@
+Organisation de l'OCRC
+La composition, l'organisation et les modalités de fonctionnement de l’OCRC sont précisés par décret pris en Conseil des Ministres.
+Pour accomplir sa mission, l’OCRC centralise, analyse, exploite et communique aux services de la police nationale, de la gendarmerie nationale, de la direction générale des douanes et droits indirects ainsi qu'aux autres administrations et services publics de l'État concernés, toutes informations relatives aux faits et infractions liés aux technologies de l'information et de la communication. Il établit également les liaisons utiles avec les organismes du secteur privé concernés.

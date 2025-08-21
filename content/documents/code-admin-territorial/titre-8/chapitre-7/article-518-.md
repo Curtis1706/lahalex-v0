@@ -1,0 +1,2 @@
+Les modalités de mise en œuvre des interventions financières et de la coopération mentionnée à l’article 517 de la présente loi sont fixées par les lois et règlements.
+CHAPITRES 8 : SERVICES PUBLICS LOCAUX

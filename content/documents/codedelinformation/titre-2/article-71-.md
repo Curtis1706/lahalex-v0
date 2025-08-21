@@ -1,0 +1,1 @@
+Tout agent ou organisme public qui refuse le droit d’accès aux sources publiques d’information, doit en justifier la décision. Toute entrave aux droits d’accès à l’information est passible de sanction administrative et/ou judiciaire.

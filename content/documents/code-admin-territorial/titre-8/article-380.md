@@ -1,0 +1,2 @@
+Les fonctions d'ordonnateur et celles de comptable public sont incompatibles.
+Dans les conditions prévues par les lois et règlements, l’exercice de certaines activités peut être interdit aux ordonnateurs et aux comptables de la commune ou de rétablissement public de coopération intercommunale.

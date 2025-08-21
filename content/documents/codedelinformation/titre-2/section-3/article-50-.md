@@ -1,0 +1,5 @@
+Toute personne a un droit exclusif sur son image et sur l’usage qu’on peut en faire.
+Le droit à l’image est le droit à la non reproduction et à la non utilisation de l’image d’une personne ou de ses traits sans son consentement. En conséquence, la publication, la diffusion, la reproduction, l’exposition, l’individualisation, la composition et la présentation de l’image ou des traits d’une personne à des fins commerciales, artistiques ou non, ne peuvent se faire sans le consentement de celle-ci.
+Sauf conventions contraires constatées par écrit, l’autorisation ou l’assentiment de la personne dont l’image doit être reproduite, exposée ou utilisée est spéciale et incessible.
+Lorsque l’autorisation de la personne concernée, prévue par les présentes dispositions n’est pas préalablement obtenue, toute publication ou diffusion constitue un usage frauduleux.
+Toute personne dont l’image est ainsi exploitée sans son autorisation est fondée à réclamer des dommages et intérêts par le seul fait de la reproduction et de l’utilisation de cette image.

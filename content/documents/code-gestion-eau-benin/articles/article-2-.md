@@ -1,0 +1,1 @@
+Article 2 : La présente loi a pour objet de déterminer les conditions d’une gestion intégrée des ressources en eau.

@@ -1,0 +1,2 @@
+Le subrécargue a rang d’officier. 2 est soumis à l’autorité du capitaine.
+Le subrécargue ne peut exercer à bord du navire que des fonctions commerciales. A cet égard, son acte de nomination doit préciser les fonctions commerciales qui lui sont attribuées. Le capitaine est présumé avoir conservé toutes celles de ses attributions qui n’ont pas été déléguées expressément au subrécargue.

@@ -1,0 +1,1 @@
+Article 17 : L’eau, élément du patrimoine commun national, fait partie du domaine public.

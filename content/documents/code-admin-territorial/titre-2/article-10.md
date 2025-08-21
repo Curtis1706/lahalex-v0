@@ -1,0 +1,2 @@
+Le préfet veille, sous l’autorité des ministres sectoriels, au bon fonctionnement des services déconcentrés des administrations civiles de l'Etat dans le département. Il entretient avec ces services, des relations fonctionnelles.
+Les unités de la police républicaine dans le département sont, indépendamment de la hiérarchie policière, placées sous l’autorité directe du préfet dans leurs missions de sécurité et de maintien de l'ordre. Il en est de même des unités concourant aux secours dans leur mission de protection civile.

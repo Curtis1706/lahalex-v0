@@ -1,0 +1,3 @@
+Les délibérations de la Commission sont acquises à la majorité simple de ses membres. En cas de partage, la voix du Président est prépondérante.
+Le Président de la Commission est désigné parmi les membres de celle-ci par la Conférence des Chefs d'Etat et de Gouvernement pour un mandat de quatre (4) ans, renouvelable. Cette désignation se fera de manière à appeler successivement à la présidence de la Commission tous les Etats membres.
+Le Président de la Commission détermine l'organigramme des services de la Commission dans la limite du nombre de postes autorisés par le budget de l'Union. Il nomme aux différents emplois.

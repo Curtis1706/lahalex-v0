@@ -1,0 +1,10 @@
+Article 29 : La période d’exploitation agréée au régime privilégié est fixée en fonction de la zone d’implantation du projet comme suit :
+- pour le régime privilégié A : cinq (5) années pour les investissements réalisés sur toute l’étendue du territoire national ;
+- pour le régime privilégié B :
+\- huit (08) années pour les investissements réalisés en zone 1 ;
+\- dix (10) années pour les investissements réalisés en zone 2 et ;
+\- douze (12) années pour les investissements réalisés en zone 3.
+- pour le régime C :
+\- quinze (15) années pour les investissements réalisés en zone 1 ;
+\- seize (16) années pour les investissements réalisés en zone 2 ;
+\- dix‐sept (17) années pour les investissements réalisés en zone 3.

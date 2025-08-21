@@ -1,0 +1,1 @@
+Le chef de village ou de quartier de ville fournit aux services administratifs et aux autorités compétentes, les informations relatives à l’état, la commodité et la sûreté des voies de communication, des places publiques et des ouvrages d'art.

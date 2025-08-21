@@ -1,0 +1,2 @@
+Pour l’assiette, le contrôle ou le recouvrement de l’impôt, toute personne physique ou morale, béninoise ou étrangère, est tenue de représenter à toute réquisition des agents de l’administration fiscale ayant au moins le grade d’inspecteur, les livres, registres et autres documents dont la tenue est prescrite par l’article 480 du présent code.
+À l’égard des sociétés, le droit de communication prévu à l’alinéa précédent s’étend aux registres de transfert d’actions et d’obligations ainsi qu’aux feuilles de présence aux assemblées générales.

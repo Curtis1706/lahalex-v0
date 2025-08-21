@@ -1,0 +1,15 @@
+{
+  "id": "article-222-",
+  "title": "Article 222 : Différend avec un opérateur non national",
+  "numero": "222 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-5"
+  ],
+  "navigation": {
+    "parent": "titre-5",
+    "previous": "article-221-",
+    "next": "article-223-"
+  }
+}

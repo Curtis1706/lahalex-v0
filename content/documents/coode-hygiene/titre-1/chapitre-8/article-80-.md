@@ -1,0 +1,1 @@
+Les réservoirs destinés à contenir l'eau de boisson sont étanches, protégés de la pollution, régulièrement nettoyés et désinfectés. Les parois intérieures des réservoirs sont en matériaux inertes vis-à-vis de l'eau.

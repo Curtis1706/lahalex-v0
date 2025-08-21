@@ -1,0 +1,13 @@
+Les services pris en compte dans la constitution du droit à pension d'ancienneté ou proportionnelle sont :
+1°- Les services accomplis en qualité d'Agent Permanent de l’Etat à partir de l’âge de 16 ans ;
+2°- Les services de stage rendus à partir de dix-huit ans à condition qu’ils aient donné lieu au reversement rétroactif de la retenue pour pension calculée sur le traitement initial de l’Agent Permanent de l'Etat titulaire ;
+3°- Les services d’auxiliaire, de temporaire, d'aide ou de contractuel dûment validés accomplis dans les Administrations, les Offices, les Collectivités Locales et les Sociétés d’Etat et d’Economie Mixte de la République Populaire du Bénin à partir de l’âge de 18 ans.
+Les services d’auxiliaire, de temporaire, d'aide ou de contractuel non validés avant la mise à la retraite de l'Agent Permanent de l’Etat feront l'objet d'une validation d’office.
+Le versement rétroactif des retenues pour pension de l'intéressé et la contribution de l'organisme employeur sera, pour­suivi par les soins de l'Administration.
+La validation demandée dans le délai de un (1) an visé suivant sa nomination à un emploi comportant affiliation au présent régime ou pour les services dont la validation ne sera autorisée que postérieurement à cette date dans la délai d'un an à compter de celle-ci est subordonnée au versement rétroactif de la retenue réglementaire calculée sur les émoluments attachés au 1 emploi de l'Agent Permanent de l'Etat titulaire.
+La validation demandée après expiration du délai de un (1) an visé à l'alinéa précédent est subordonnée au versement de la retenue réglémentaire calculée sur les émoluments de l'emploi Occupé à la date de la demande.
+4°- Les services militaires accomplis après l'âge de 16 ans
+5°- Sous réserve de réciprocité, les services accomplis sous les régimes des caisses de retraite des Etats auxquels le Bénin est lié par une convention bilatérale multilatérale ou inter­nationale.
+6°- Les services détachés à condition qu'ils aient donné lieu au versement des retenues pour pension et de la contribution de l’Administration employeur.
+7°- Le temps passé dans les grandes écoles par l'Agent Permanent de l'Etat nommé et titularisé dans l'une des catégories de la Fonction Publique peut être validé sur demande de l'intéressé,
+8°- Le temps normalement nécessaire pour franchir les échelons ayant fait l'objet de bonification est pris en compte pour le calcul des annuités liquidables.

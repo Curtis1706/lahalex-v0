@@ -1,0 +1,1 @@
+Article 367 : Est punie d’un emprisonnement de dix (10) jours à un (01) an et d’une amende de dix mille (10 000) à cent mille (100 000) francs CFA ou de l’une de ces deux peines, toute personne qui, assurant la garde légale d’un enfant, s’abstient sans motif légitime de lui rendre visite conformément aux dispositions de la présente loi.

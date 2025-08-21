@@ -1,0 +1,4 @@
+Est puni de la détention criminelle à temps de dix (10) ans à vingt (20) ans, tout gardien, tout dépositaire par fonction ou par qualité, d’un renseignement, objet, document ou procédé qui doit être tenu secret dans l’intérêt de la défense nationale ou dont la connaissance pourrait conduire à la découverte d’un secret de la défense nationale qui, sans intention de trahison ou d’espionnage a :
+1. détruit, soustrait, laissé détruire ou soustraire, reproduit ou laissé reproduire;
+2. porté ou laissé porter à la connaissance d’une personne non qualifiée ou du public.
+Cette peine est la détention criminelle à temps de cinq (05) ans à dix (10) ans si le gardien ou le dépositaire a agi par maladresse, imprudence, inattention, négligence ou inobservation des règlements.

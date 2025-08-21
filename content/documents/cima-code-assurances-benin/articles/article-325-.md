@@ -1,0 +1,3 @@
+Article 325 : Procédure, ouverture
+La faillite d’une société régie par le présent Code ne peut être prononcée à l’égard d’une entreprise soumise aux dispositions du présent livre qu’à la requête de la Commission de Contrôle des Assurances; le tribunal peut également se saisir d’office ou être saisi par le Ministère Public d’une demande d’ouverture de cette procédure après avis conforme de la Commission de Contrôle des Assurances.
+Le président du tribunal ne peut être saisi d’une demande d’ouverture du règlement amiable qu’après avis conforme de la Commission de Contrôle des Assurances.

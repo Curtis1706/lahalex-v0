@@ -1,0 +1,2 @@
+Les déclarations d'absence ou de décès sont régies par la loi nationale de l'intéressé au moment de sa disparition.
+La loi nationale détermine les effets personnels de l’absence ou de la disparition. Les effets patrimoniaux sont régis par la loi successorale.

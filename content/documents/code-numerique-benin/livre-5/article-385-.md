@@ -1,0 +1,2 @@
+Principe de confidentialité et de sécurité
+Les données à caractère personnel doivent être traitées de manière confidentielle et être protégées, notamment 	lorsque 	le 	traitement 	comporte 	des transmissions de données dans un réseau.

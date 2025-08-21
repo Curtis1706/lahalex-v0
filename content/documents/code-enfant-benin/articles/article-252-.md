@@ -1,0 +1,2 @@
+Article 252 : Application du code de procédure pénale
+Le juge d’instruction chargé des mineurs, sauf dispositions spéciales prévues par la présente loi, procède à l’instruction conformément aux règles édictées par le code de procédure pénale.

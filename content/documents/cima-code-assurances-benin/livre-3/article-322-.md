@@ -1,0 +1,2 @@
+Entreprises d’assurance sur la vie ou de capitalisation
+Si les circonstances l’exigent, la Commission de Contrôle des Assurances peut ordonner à une entreprise de suspendre le paiement des valeurs de rachat ou le versement d’avances sur contrats.

@@ -1,0 +1,4 @@
+Lorsqu’un témoin cité ne comparaît pas, la cour peut, sur réquisitions du ministère public ou même d’office, ordonner que ce témoin soit immédiatement amené par la force publique devant elle, ou renvoyer l’affaire à la prochaine session.
+En ce dernier cas, il peut être ordonné que le témoin soit amené par la force publique devant la cour à la date à laquelle l’affaire sera appelée.
+Dans tous les cas, le témoin qui ne comparaît pas ou qui refuse, soit de prêter serment, soit de faire sa déposition peut, sur réquisitions du ministère public, être condamné par la cour à une amende qui n’excédera pas deux cent mille (200 000) francs.
+La voie de l’opposition est ouverte au témoin condamné qui n’a pas comparu. L’opposition s’exerce dans les quinze (15) jours de la signification de l’arrêt faite à sa personne ou à son domicile. La cour statue sur cette opposition soit pendant la session en cours, soit au cours d’une session ultérieure.

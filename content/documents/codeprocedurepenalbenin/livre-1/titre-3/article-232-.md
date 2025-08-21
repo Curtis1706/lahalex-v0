@@ -1,0 +1,2 @@
+Si la chambre de l’instruction estime que les faits constituent un délit ou une contravention, elle prononce le renvoi de l’affaire devant le tribunal de première instance.
+En cas de renvoi pour délit, si l’emprisonnement est encouru, et sous réserve des dispositions de l’article 145 alinéa 1<sup>er</sup> du présent code, le prévenu arrêté demeure en état de détention. En cas de renvoi pour une contravention, le prévenu est mis en liberté.

@@ -1,0 +1,1 @@
+La Partie au conflit au pouvoir de laquelle se trouvent des personnes proté- 3. Responsa- gées est responsable du traitement qui leur est appliqué par ses agents, sans bilités <a name="_page172_x0.00_y651.97"></a>préjudice des responsabilités individuelles qui peuvent être encourues.

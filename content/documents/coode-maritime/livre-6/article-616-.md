@@ -1,0 +1,2 @@
+Toute personne qui a contracté ou tenté de contracter un engagement maritime en produisant sciemment de fausses pièces d’identité ou de fausses pièces professionnelles maritimes est punie d’un emprisonnement de un (1) an à cinq (05) ans et d’une amende de un million (1.000.000) à cinq millions (5.000.000) de francs.
+L’obtention ou la détention frauduleuse, de même que le trafic des pièces d’identité ou professionnelles maritimes est punie de la même peine.

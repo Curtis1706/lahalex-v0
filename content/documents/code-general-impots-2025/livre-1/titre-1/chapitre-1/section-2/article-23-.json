@@ -1,0 +1,17 @@
+{
+  "id": "article-23-",
+  "title": "Article 23 :",
+  "numero": "23 ",
+  "document": "code-general-impots-2025",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-1",
+    "section-2"
+  ],
+  "navigation": {
+    "parent": "section-2",
+    "previous": "article-22-",
+    "next": "article-24-"
+  }
+}

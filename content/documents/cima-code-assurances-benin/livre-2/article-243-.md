@@ -1,0 +1,3 @@
+Contenu de l’offre
+L’offre d’indemnité doit indiquer, outre les mentions exigées par l’article 231, l’évaluation de chaque chef de préjudice et les sommes qui reviennent au bénéficiaire.
+L’offre précise, le cas échéant, les limitations ou exclusions d’indemnisation, retenues par l’assureur, ainsi que leurs motifs. En cas d’exclusion d’indemnisation, l’assureur n’est pas tenu, dans sa notification, de fournir les indications et documents prévus au premier alinéa.

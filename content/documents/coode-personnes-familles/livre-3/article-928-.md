@@ -1,0 +1,1 @@
+Le légataire à titre universel est tenu des dettes et charges de la succession du testateur, personnellement pour sa part ou sa portion, à concurrence de la valeur des biens reçus, et hypothécairement pour le tout, sauf recours contre les héritiers et les autres légataires.

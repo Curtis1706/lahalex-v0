@@ -1,0 +1,1 @@
+Lorsqu’une peine a fait l’objet d’une grâce ou d’un relèvement, il est tenu compte, pour l’application de la confusion, de la peine résultant de la mesure ou de la décision.

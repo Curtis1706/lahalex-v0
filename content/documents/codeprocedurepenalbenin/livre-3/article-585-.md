@@ -1,0 +1,3 @@
+Lorsque le demandeur en cassation est détenu, il peut également faire connaître sa volonté de se pourvoir par une lettre qu’il remet au surveillant chef de la maison d’arrêt ; celui-ci lui en délivre récépissé.
+Le surveillant chef certifie sur cette lettre même que celle-ci lui a été remise par l’intéressé et précise la date de la remise.
+Ce document est transmis immédiatement au greffe de la juridiction qui a rendu la décision attaquée ; il est transcrit sur le registre des pourvois et annexé à l’acte dressé par le greffier.

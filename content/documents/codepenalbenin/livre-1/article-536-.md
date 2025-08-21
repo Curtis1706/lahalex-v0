@@ -1,0 +1,1 @@
+Le parricide n’est jamais excusable.

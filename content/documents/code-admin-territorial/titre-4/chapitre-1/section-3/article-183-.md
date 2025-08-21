@@ -1,0 +1,2 @@
+En matière administrative, le chef d'arrondissement qui commet une faute lourde peut être révoqué de ses fonctions.
+Constituent une faute lourde du chef d'arrondissement, les faits indiqués à l'article 119 de la présente loi.

@@ -1,0 +1,2 @@
+Article 222 : Statut civil de l'enfant apprenti
+L’enfant apprenti, bien qu'étant en formation pratique professionnelle auprès d'un chef d'atelier, d'entreprise, d'usine, de chantier ou de toute autre structure et, quel que soit le lien de parenté avec ce formateur, est assimilé à un jeune travailleur et est soumis aux conditions de la présente loi relatives aux jeunes travailleurs.

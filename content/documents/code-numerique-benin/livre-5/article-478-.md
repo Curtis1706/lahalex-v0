@@ -1,0 +1,2 @@
+Déclarations - Avis
+L'Autorité reçoit, par voie postale ou par voie électronique, les déclarations de 	traitements informatiques et donne son avis dans les cas prévus par les dispositions du présent Livre.

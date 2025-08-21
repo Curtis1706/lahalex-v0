@@ -1,0 +1,9 @@
+Données à caractère personnel relatives aux condamnations pénales et aux mesures de sûreté connexes
+Les traitements 	de données à caractère personnel relatives aux infractions, aux condamnations pénales et aux mesures de sûreté connexes peuvent uniquement être mises en œuvre par :
+1. les juridictions, les autorités publiques et les personnes morales gérant un service public dans le cadre de leurs attributions légales, notamment leurs missions de police judiciaire ou administrative ;
+1. les auxiliaires de justice, pour les stricts besoins de l’exercice des missions qui leur sont confiées par la loi notamment par des avocats ou d'autres conseils juridiques, pour autant que la défense de leurs clients l'exige ;
+1. par d'autres personnes lorsque le traitement est nécessaire à la réalisation de finalités fixées par ou en vertu d’une loi, d’un décret ou d’une ordonnance ;
+1. par des personnes physiques ou par des personnes morales de droit public ou de droit privé pour autant que la gestion de leurs propres contentieux l'exige.
+Le traitement des données relatives aux condamnations pénales ou aux mesures de sûreté connexes est interdit sauf lorsque le traitement est nécessaire au respect d'une obligation légale ou réglementaire à laquelle le responsable du traitement est soumis, ou à l'exécution d'une mission effectuée pour des motifs importants d'intérêt général, dans la mesure où ce traitement est autorisé par le droit des Etats membres de la CEDEAO ou par la législation d'un État membre prévoyant des garanties adéquates.
+Un registre complet des condamnations pénales ne peut être tenu que sous le contrôle de l'Autorité publique.
+Les personnes visées à l’alinéa 1 sont soumises au secret professionnel.

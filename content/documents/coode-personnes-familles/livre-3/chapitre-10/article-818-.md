@@ -1,0 +1,1 @@
+Sont présumées, sauf preuve contraire, être des donations, les aliénations faites à fonds perdu, avec réserve d’usufruit, au profit d’un enfant. Les successibles en ligne directe et conjoint ne pourront pas demander la réduction de ces aliénations lorsqu’ils y auront donné leur consentement.

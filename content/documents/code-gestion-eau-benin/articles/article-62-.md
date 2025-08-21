@@ -1,0 +1,1 @@
+Article 62 : Le traitement et l’évacuation des eaux usées sont des éléments du droit à l’eau. La personne publique qui en a la charge en assure la gestion selon les modalités mentionnées à l’article 60 de la présente loi.

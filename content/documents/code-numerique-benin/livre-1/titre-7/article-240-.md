@@ -1,0 +1,6 @@
+Sanctions administratives à l’égard des opérateurs soumis au régime de la déclaration
+Lorsqu’un opérateur soumis au régime de la déclaration ne respecte pas les obligations prescrites par les textes législatifs et réglementaires y compris celles des articles 12 à 18 du présent code ou les décisions de l’Autorité de régulation, celle-ci le met en demeure de s’y conformer.
+Si l’opérateur soumis au régime de la déclaration cité à l'alinéa précédent ne se conforme pas à la mise en demeure qui lui est adressée, l’Autorité de régulation prononce, à son encontre et à sa charge, par une décision motivée, une pénalité allant de deux millions (2 000 000) à cinq millions (5 000 000) de francs CFA.
+En cas de récidive, le montant de la pénalité est porté au double du plafond.
+Si la violation constatée et notifiée persiste, l’Autorité de régulation prononce, par une décision motivée, soit la suspension de la déclaration, soit son retrait définitif.
+L’opérateur de services de communications électroniques peut, en outre, être interdit d’exercer une activité de communications électroniques en République du Bénin.

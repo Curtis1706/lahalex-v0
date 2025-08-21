@@ -1,0 +1,1 @@
+Vaut citation à personne, le procès-verbal de convocation par officier de police judiciaire notifiée par un officier de police judiciaire sur instructions du procureur de la République ou du tribunal.

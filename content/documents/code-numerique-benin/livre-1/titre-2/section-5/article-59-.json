@@ -1,0 +1,16 @@
+{
+  "id": "article-59-",
+  "title": "Article 59 : Contribution au titre de la formation et de la normalisation",
+  "numero": "59 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "section-5"
+  ],
+  "navigation": {
+    "parent": "section-5",
+    "previous": "article-58-",
+    "next": "article-60-"
+  }
+}

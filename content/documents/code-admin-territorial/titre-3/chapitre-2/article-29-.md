@@ -1,0 +1,4 @@
+La commune dispose de compétences qui lui sont propres en tant que collectivité territoriale décentralisée. Elle exerce, en outre, sous le contrôle de l'autorité de tutelle, d’autres attributions qui relèvent des compétences de l'Etat.
+La commune concourt avec l'Etat et les autres collectivités à l'administration et à l'aménagement du territoire, au développement économique, social, sanitaire, culturel et scientifique ainsi qu'à la protection de l'environnement et à l’amélioration du cadre de vie. Dans ce cadre, elle contribue à l'établissement du plan de sécurité publique, de lutte contre la délinquance et la criminalité dans la commune et apporte, en cas de nécessité, nonobstant toutes dispositions contraires, un appui aux unités en charge de la sécurité et de la protection civile.
+La commune exerce les compétences dans les domaines définis à la présente section.
+SOUS-SECTION PREMIERE : DÉVELOPPEMENT LOCAL, AMÉNAGEMENT, HABITAT ET URBANISME

@@ -1,0 +1,1 @@
+Article 13 : Les pratiques coutumières ainsi que les conventions locales, dès lors qu’elles ne compromettent pas la réalisation des objectifs de la présente loi et n’en contredisent pas les dispositions, sont prises en compte par les autorités en charge de la gestion de l’eau.

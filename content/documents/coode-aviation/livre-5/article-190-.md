@@ -1,0 +1,2 @@
+Les exploitants de l’aviation civile se conforment aux normes en vigueur en matière de protection de l'environnement.
+A cet effet, ils sont soumis à l'obligation générale d'entretien des aérodromes, à travers notamment, l’élimination ou le recyclage des déchets et la lutte contre la pollution.

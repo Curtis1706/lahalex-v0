@@ -1,0 +1,1 @@
+Les officiers de port peuvent couper, en cas de nécessité, les amarres que les capitaines, patrons et autres, étant à bord des bâtiments, refusent de larguer après injonctions verbales réitérées.

@@ -1,0 +1,2 @@
+Avis de la Haute Autorité de l’Audiovisuel et de la Communication
+Lorsque les faits à l'origine du différend sont susceptibles de restreindre de façon notable l'offre de services de communication audiovisuelle, l’Autorité de régulation recueille l’avis de la Haute Autorité de l’Audiovisuel et de la Communication (HAAC) qui se prononce dans un délai maximum de trente (30) jours.

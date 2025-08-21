@@ -1,0 +1,2 @@
+Article 322 : Purgation de peine privative de liberté par la femme enceinte
+La femme enceinte à terme, condamnée à une peine privative de liberté, ne peut subir sa peine que douze (12) semaines après l’accouchement.

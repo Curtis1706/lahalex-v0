@@ -1,0 +1,2 @@
+Le capitaine ou le consignataire du navire doit livrer les marchandises au destinataire ou à son représentant désigné sur le titre de transport.
+Si ce titre est un connaissement, le destinataire est soit celui dont le nom est indiqué dans le connaissement à personne dénommée, soit celui qui présente le connaissement à l’arrivée, lorsque le connaissement est au porteur ou le dernier endossataire dans le connaissement à ordre.

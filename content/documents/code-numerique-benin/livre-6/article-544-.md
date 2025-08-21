@@ -1,0 +1,4 @@
+Sanctions du téléchargement illicite
+Lorsque l'infraction définie à l’article 542 est commise au moyen d'un service de communication au public en ligne, les personnes coupables des infractions de contrefaçons peuvent en outre être condamnées à la peine complémentaire d’une amende de un million (1 000 000) de francs CFA.
+Lorsque ce service est acheté selon des offres commerciales composites incluant d'autres types de services, tels que services de téléphonie ou de télévision, les décisions d’amende ne s'appliquent pas à ces services.
+La prononciation de l’amende n'affecte pas, par elle-même, le versement du prix de l'abonnement au fournisseur du service.

@@ -1,0 +1,2 @@
+Le transporteur dresse un manifeste contenant l'indication et la nature des marchandises transportées dans les conditions fixées par voie règlementaire. Un duplicata du manifeste se trouve à bord de l'aéronef et est communiqué, sur leur demande, aux inspecteurs de l’organisme national en charge de l'aviation civile et aux agents des douanes.
+Le récépissé comporte les mentions relatives en particulier à l'identification des parties, à la caractérisation des marchandises quant à leurs poids, quantité et qualité, aux lieux d'embarquement et de débarquement.

@@ -1,0 +1,4 @@
+Dans les quarante-huit (48) heures de l’incarcération de l’inculpé, il est procédé à son interrogatoire. A défaut et à l’expiration de ce délai, les dispositions de l’article 135alinéa 3 du présent code sont applicables.
+La présentation de l’inculpé au juge d’instruction, ou à défaut au président du tribunal ou au juge désigné par celui-ci en application de l’article 135 alinéa 3 du présent code met fin aux effets du mandat d’arrêt.
+Si l’inculpé est arrêté hors du ressort du juge d’instruction qui a délivré le mandat, il est conduit immédiatement devant le procureur de la République du lieu d’arrestation, lequel reçoit ses déclarations.
+Le procureur de la République informe sans délai le magistrat qui a délivré le mandat et requiert le transfèrement. Si celui-ci ne peut être effectué immédiatement, le procureur de la République en réfère au juge mandant.

@@ -1,0 +1,1 @@
+Les passagers sont soumis à la discipline du bord et conformément aux dispositions du présent code y relatives.

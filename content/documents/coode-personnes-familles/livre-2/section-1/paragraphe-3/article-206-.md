@@ -1,0 +1,2 @@
+Quand l’un des époux prend en main la gestion des biens de l'autre sans opposition de sa part, il est censé avoir reçu un mandat tacite couvrant les actes d’administration ; mais il ne peut avoir ni la jouissance ni la disposition des biens.
+Il n'est cependant responsable que des fruits existants ; pour ceux qu'il aurait négligé de percevoir ou ceux qu’il aurait consommés frauduleusement, il ne peut être poursuivi que dans la limite des cinq (5) dernières années.

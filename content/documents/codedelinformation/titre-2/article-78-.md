@@ -1,0 +1,2 @@
+Tout citoyen qui veut obtenir un renseignement ou un document auprès d’un organisme public en formule la demande. Cette demande est écrite ou verbale. Lorsqu’il s’agit d’une consultation sur place, la demande verbale est assortie d’un écrit.
+Ladite demande d’accès est adressée aux supérieurs hiérarchiques de l’agent public qui détient le document ou le renseignement au sein de l’organisme public.

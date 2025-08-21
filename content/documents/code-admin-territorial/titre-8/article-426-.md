@@ -1,0 +1,1 @@
+L’organe de la commune ou de l’établissement public de coopération intercommunale en charge des affaires économique et financière est saisi du projet de budget dans les mêmes délais que les membres de l’organe délibérant compétent de la commune ou de l’établissement public de coopération intercommunale pour examen.

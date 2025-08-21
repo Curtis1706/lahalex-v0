@@ -1,0 +1,15 @@
+{
+  "id": "article-9-",
+  "title": "Article 9 :",
+  "numero": "9 ",
+  "document": "codeforestierbenin",
+  "path": [
+    "titre-2",
+    "chapitre-1"
+  ],
+  "navigation": {
+    "parent": "chapitre-1",
+    "previous": "article-8-",
+    "next": "article-10-"
+  }
+}

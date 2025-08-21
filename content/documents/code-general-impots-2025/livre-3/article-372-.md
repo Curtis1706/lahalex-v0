@@ -1,0 +1,1 @@
+A l’exception des testaments déposés chez les notaires par les testateurs, il est défendu à tout notaire ou greffier, de recevoir un acte en dépôt sans dresser acte du dépôt.

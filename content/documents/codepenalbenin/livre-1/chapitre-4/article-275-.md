@@ -1,0 +1,1 @@
+Dans le cas où ce concert aurait eu pour objet ou résultat un complot attentatoire à la sûreté de l’Etat, les coupables seront punis de la détention criminelle à perpétuité.

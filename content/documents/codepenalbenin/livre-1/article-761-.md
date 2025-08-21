@@ -1,0 +1,3 @@
+Encourent une peine d’emprisonnement de trois (03) ans à dix (10) ans et d’une amende de un million (1.000.000) de francs CFA à cinq millions (5.000.000) de francs CFA :
+1. les dirigeants sociaux qui n’auront pas, pour chaque exercice social, dressé l’inventaire et établi les états financiers annuels ainsi que, le cas échéant, le rapport de gestion et le bilan social ;
+2. les dirigeants sociaux qui, en l’absence d’inventaire ou au moyen d’inventaire frauduleux, auront sciemment opéré entre les actionnaires ou les associés la répartition de dividendes fictifs.

@@ -1,0 +1,1 @@
+Le ministre chargé de la justice est habilité à délivrer, dans les conditions de l'article précédent, copies des actes d’état civil déposés dans les dossiers des personnes nées hors du Bénin et naturalisées par décret.

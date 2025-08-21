@@ -1,0 +1,1 @@
+Les auteurs d'une violation des dispositions des articles 82, 83, 84 et 116 sont passibles d'un emprisonnement de un (01) mois à deux (02) ans et d'une amende supérieure à cinquante mille (50 000) et n'excédant pas cinq cent mille (500 000) FCFA ou de l'une de ces peines seulement.

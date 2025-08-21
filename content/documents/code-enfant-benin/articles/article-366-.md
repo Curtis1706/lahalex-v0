@@ -1,0 +1,3 @@
+Article 366 : Toute personne tenue au paiement d’allocation pour entretien prévu à la présente loi et qui ne s’exécute pas est punie des mêmes peines que celles prévues au code pénal pour non assistance à personne en danger.
+Toute personne qui retient ou affecte à une autre destination le montant desdites allocations est punie des mêmes peines que celles prévues au code pénal pour abus de confiance.
+Tout personnel de l’administration pénitentiaire ou d’établissement spécialisé qui prive un enfant de sa ration alimentaire est puni d’une peine de deux (02) ans à cinq (05) ans d’emprisonnement et d’une amende de deux cent cinquante mille (250 000) à un million (1 000 000) de francs CFA ou de l’une de ces peines seulement.

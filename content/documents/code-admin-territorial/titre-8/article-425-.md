@@ -1,0 +1,1 @@
+Le projet de budget de la commune ou de l'établissement public de coopération intercommunale est transmis aux membres de l'organe délibérant compétent de la commune ou de l'établissement public de coopération intercommunale quinze (15) jours au moins avant l'ouverture de la session budgétaire.

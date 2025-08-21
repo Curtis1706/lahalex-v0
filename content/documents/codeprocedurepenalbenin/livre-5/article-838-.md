@@ -1,0 +1,2 @@
+Si le débiteur déjà incarcéré requiert qu’il en soit référé, il est conduit sur-le-champ devant le président du tribunal de première instance du lieu où l’arrestation a été faite. Ce magistrat statue en état de référé sauf à ordonner, s’il échet, le renvoi pour être statué dans les formes et conditions des articles 726et790 du présent code.
+Le même droit appartient au débiteur arrêté ou reconnu qui est conduit sur le champ devant le président du tribunal de première instance du lieu de détention.

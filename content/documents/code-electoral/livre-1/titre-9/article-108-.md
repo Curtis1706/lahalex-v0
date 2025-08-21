@@ -1,0 +1,1 @@
+Si la Cour constitutionnelle ou la Cour suprême estime le recours fondé, elle peut, par décision ou arrêt motivé soit annuler l'élection contestée, soit corriger le procès-verbal des résultats et proclamer le candidat régulièrement élu.

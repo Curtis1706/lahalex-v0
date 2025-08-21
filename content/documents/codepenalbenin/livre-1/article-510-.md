@@ -1,0 +1,2 @@
+Lorsqu’il y a eu préméditation ou guet-apens, la peine sera la réclusion criminelle à temps de dix (10) ans à vingt (20) ans.
+Si la mort s’en est suivie, si les violences ont été suivies de mutilation, d’amputation, ou de privation de l’usage d’un membre, de cécité, de perte d’un œil ou d’autres infirmités permanentes, la peine sera la réclusion criminelle à perpétuité.

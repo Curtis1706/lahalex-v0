@@ -1,0 +1,2 @@
+Le tribunal de première instance statuant en matière criminelle est composé d'un (01) président et de quatre (04) assesseurs.
+La cour d’appel statuant en matière criminelle est composée d'un (01) président et de quatre (04) assesseurs.

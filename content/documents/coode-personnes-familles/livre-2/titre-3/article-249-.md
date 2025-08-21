@@ -1,0 +1,3 @@
+L’action en divorce s’éteint par la réconciliation des époux survenue soit depuis les faits allégués dans la demande, soit depuis cette demande.
+Dans l’un et l’autre cas, le demandeur est déclaré non recevable dans son action ; il peut néanmoins en intenter une nouvelle pour cause nouvelle survenue ou découverte depuis sa réconciliation et se prévaloir des anciennes causes à l’appui de sa nouvelle demande.
+L’action s'éteint également par le décès de l’un des époux survenus avant que le jugement ou l’arrêt prononçant le divorce soit devenu définitif.

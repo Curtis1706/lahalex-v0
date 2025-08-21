@@ -1,0 +1,1 @@
+Le Ministre chargé des Finances peut confier la gestion des disponibilités du Fonds National aux organismes de crédit de la République Populaire du Bénin suivant convention passée avec eux.

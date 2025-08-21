@@ -1,0 +1,1 @@
+Lorsque la cause d'une invalidité est imputable à un tiers le fonds national de retraite du Bénin est subrogé de plein droit à la victime ou à ses ayants droit dans leur action contre le tiers responsable pour le remboursement des prestations versées.

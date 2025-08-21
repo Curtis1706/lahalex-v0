@@ -1,0 +1,15 @@
+{
+  "id": "article-34-",
+  "title": "Article 34 : Assurances cumulatives",
+  "numero": "34 ",
+  "document": "cima-code-assurances-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-33-",
+    "next": "article-35-"
+  }
+}

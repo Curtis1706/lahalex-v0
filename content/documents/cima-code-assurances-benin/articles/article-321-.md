@@ -1,0 +1,7 @@
+Article 321 : Mesures de sauvegarde
+Lorsque la situation financière d’une entreprise soumise à son contrôle est telle que les intérêts des assurés et bénéficiaires de contrats sont compromis ou susceptibles de l’être, la Commission ou le Ministre en charge du secteur des assurances dans l’État membre après avis conforme du Secrétaire Général de la CIMA, peut prendre l’une des mesures d’urgence suivantes :
+a) mise de l’entreprise sous surveillance permanente,
+b) restriction ou interdiction de la libre disposition de tout ou partie des actifs de l’entreprise,
+c) désignation d’un administrateur provisoire à qui sont transférés les pouvoirs nécessaires à l’administration et à la direction de l’entreprise. Cette désignation est faite soit à la demande des dirigeants lorsqu’ils estiment ne plus être en mesure d’exercer normalement leurs fonctions, soit à l’initiative de la Commission ou de son mandataire lorsque la gestion de l’établissement ne peut plus être assurée dans des conditions normales, ou lorsqu’a été prise la sanction prévue au 5e alinéa du paragraphe a) de l’article 312.
+Les mesures mentionnées aux b) et c) du présent article sont levées ou confirmées par la Commission, après procédure contradictoire, dans un délai de quatre mois.
+Pendant la période mentionnée au précédent alinéa, les dirigeants de l’entreprise sont mis à même d’être entendus. Ils peuvent se faire assister d’un professionnel en assurance de leur choix.

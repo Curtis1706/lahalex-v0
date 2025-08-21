@@ -1,0 +1,3 @@
+Tout acte constitutif, translatif ou extinctif de propriété ou de tout autre droit réel sur un navire béninisé doit, à peine de nullité, faire l’objet d’un acte authentique
+2 en est de même des contrats d’affrètement coque-nue conclu et des délégations de fret consenties pour une durée de plus d’un (01) an ou dont la prorogation peut aboutir à une pareille durée.
+L’acte doit comporter les mentions propres à l’identification des parties intéressées et du navire ainsi qu’il est précisé dans le présent code.

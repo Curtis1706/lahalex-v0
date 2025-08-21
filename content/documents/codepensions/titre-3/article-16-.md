@@ -1,0 +1,4 @@
+Les services et bonifications pris en compte dans la liquidation d'une pension d’ancienneté ou proportionnelle sont :
+1°- Pour les Agents Permanents de l’Etat ceux énumérés aux articles 6 et 9 exception faite des services militaires s'ils sont rémunérés par une pension.
+2°- Pour les Agents Permanents de l’Etat anciens combattant : les bénéfices de campagne double acquis au cours d’une guerre ou d’une expédition déclarée campagne de guerre donnent droit à une bonification égale au double de leur durée effective, dans les conditions définies à l’article 15, alinéa 2 ci-dessus.
+3°- Pour les militaires ceux énumérés aux articles 11, 12.

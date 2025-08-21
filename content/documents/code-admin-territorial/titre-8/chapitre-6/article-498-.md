@@ -1,0 +1,1 @@
+La comptabilité des recettes fait connaître à tout moment, au niveau de l'adoption par l'organe délibérant compétent de la commune ou de l’établissement public de coopération intercommunale et par article budgétaire, le montant des émissions réalisées.

@@ -1,0 +1,5 @@
+Eligibilité des schémas d’identification électronique
+Un schéma d’identification électronique est éligible si toutes les conditions suivantes sont remplies :
+1. les moyens d’identification relevant du schéma d’identification électronique peuvent être utilisés pour accéder au moins à un service fourni par une entité ou une administration publique exigeant une identification électronique ;
+1. le schéma d’identification électronique et les moyens d’identification électronique délivrés répondent aux exigences d’au moins un des niveaux de garantie prévus à l’article 278 du présent code ;
+1. les données d'identification et le moyen d'identification sont attribués à la personne concernée, conformément aux spécifications techniques, aux normes et aux procédures pour les niveaux de garantie prévues par le décret visé à l'article 278, alinéa 3.

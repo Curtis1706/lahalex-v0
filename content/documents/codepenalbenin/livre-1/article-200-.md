@@ -1,0 +1,1 @@
+Le fait de financer et/ou d’assumer le commandement de mercenaires ou de donner des ordres est exclusif de toutes circonstances atténuantes ou de toutes exemptions.

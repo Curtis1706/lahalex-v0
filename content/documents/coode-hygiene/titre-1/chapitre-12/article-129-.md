@@ -1,0 +1,1 @@
+L'exploitation des morgues traditionnelles est interdite.

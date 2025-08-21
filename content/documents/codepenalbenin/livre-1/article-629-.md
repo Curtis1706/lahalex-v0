@@ -1,0 +1,7 @@
+Sont punis de la réclusion criminelle à perpétuité, les individus coupables de vol s’ils étaient ou si l’un d’eux étaient porteurs d’une arme apparente ou cachée, même si le vol a été commis le jour et par une seule personne. Il en sera de même si les coupables ou l’un d’eux avaient l’arme dans le véhicule motorisé qui les aurait conduits sur le lieu de leur forfait ou qu’ils auraient utilisé pour assurer leur fuite.
+Sont punis de la réclusion criminelle à perpétuité les individus coupables de vol commis avec réunion de quatre (04) des cinq (05) circonstances suivantes :
+1. si le vol a été commis de nuit ;
+2. s’il a été commis par deux ou plusieurs personnes ;
+3. si le ou les coupables ont commis le crime, soit à l’aide d’effraction extérieure, ou d’escalade, ou de fausses clefs dans une maison, appartement, chambre ou logement habité ou servant à l’habitation, ou leurs dépendances, soit en prenant le titre d’un fonctionnaire public ou d’un officier civil ou militaire, ou après s’être revêtu de l’uniforme ou du costume de l’agent de l’Etat ou de l’officier, ou en alléguant un faux ordre de l’autorité civile ou militaire ;
+4. si le vol a été commis avec violence ;
+5. si le ou les coupables se sont assurés la disposition d’un véhicule motorisé en vue de faciliter leur entreprise ou de favoriser leur fuite.

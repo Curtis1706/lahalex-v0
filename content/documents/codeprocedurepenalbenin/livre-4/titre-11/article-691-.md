@@ -1,0 +1,1 @@
+Les mesures de garde provisoire sont révocables à tout moment par ordonnance motivée du juge des enfants.

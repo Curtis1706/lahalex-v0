@@ -1,0 +1,2 @@
+Le président du tribunal du domicile du mineur est seul compétent, à charge d’appel pour tout ce qui concerne l’assistance éducative.
+Il statue après consultation de tout parent intéressé ou plus généralement de toute personne dont l'audition paraît utile et doit s’efforcer d’obtenir l’adhésion de la famille à la mesure envisagée.

@@ -1,0 +1,3 @@
+La violation du scrutin faite, soit par les membres du bureau, soit par les agents de l’autorité préposés à la garde des bulletins non encore dépouillés est punie d’un emprisonnement de trois (03) ans à cinq (05) ans et d’une amende de un (01) million à deux (2.000.000) de francs CFA.
+Tout membre de bureau de vote qui, à l’issue des opérations de vote, n’a pas signé tous les procès-verbaux et les feuilles de dépouillement est puni d’un emprisonnement de un (01) an à deux (02) ans et d’une amende de un (01) million (1.000.000) à deux millions (2.000.000) de francs CFA.
+Est puni des mêmes peines, le président du bureau de vote qui a refusé de recevoir les réclamations des électeurs.

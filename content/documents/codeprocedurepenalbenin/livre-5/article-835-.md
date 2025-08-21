@@ -1,0 +1,1 @@
+Les réquisitions d’incarcération ne sont valables que jusqu’à l’expiration des délais de prescription de la peine. Cette prescription acquise, aucune contrainte par corps ne pourra être exercée à moins qu’elle ne soit en cours ou qu’elle n’ait fait l’objet antérieurement d’une recommandation sur écrou.

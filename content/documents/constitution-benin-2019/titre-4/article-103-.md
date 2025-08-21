@@ -1,0 +1,1 @@
+Les députés ont le droit d'amendement.

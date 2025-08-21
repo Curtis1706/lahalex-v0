@@ -1,0 +1,2 @@
+Prostitution de mineurs
+Le fait de solliciter, d'accepter ou d'obtenir, en échange d'une rémunération ou d'une promesse de rémunération, des relations de nature sexuelle de la part d'un mineur qui se livre à la prostitution, y compris de façon occasionnelle, est puni de vingt (20) ans d'emprisonnement et cinquante millions (50 000 000) de francs CFA d'amende lorsque la personne a été mise en contact avec l’auteur des faits au moyen d’un ou sur un réseau de communication électronique ou un système informatique.

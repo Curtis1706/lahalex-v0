@@ -1,0 +1,1 @@
+Les sociétés coopératives de messagerie de presse peuvent grouper et diffuser des publications d’autres entreprises éditrices autres que celles des organes de presse associés.

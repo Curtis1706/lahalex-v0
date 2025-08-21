@@ -1,0 +1,2 @@
+Demandes de raccordement
+Le Ministre chargé des communications électroniques et de la poste, avec l’appui de l’Autorité de régulation, s’assure que les demandes de raccordement à un réseau de communications électroniques sont satisfaites sur l’ensemble du territoire national par au moins un opérateur.

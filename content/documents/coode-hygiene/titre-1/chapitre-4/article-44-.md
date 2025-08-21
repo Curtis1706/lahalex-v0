@@ -1,0 +1,3 @@
+La vente des denrées alimentaires aux abords et dans l'enceinte des établissements des différents ordres d'enseignement s'effectue dans les conditions hygiéniques.
+Les personnes qui s'adonnent à ces activités sont soumises, au préalable et par semestre, à une visite et des analyses médicales.
+Le contrôle de la protection des denrées alimentaires aux abords et dans l'enceinte des écoles et universités relève de la compétence de la municipalité et du ministère en charge de la santé.

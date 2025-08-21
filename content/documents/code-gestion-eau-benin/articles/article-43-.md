@@ -1,0 +1,3 @@
+Article 43 : La réalisation des installations, ouvrages, travaux et activités soumis à autorisation en application des dispositions de l’article 42 ci-dessus, donne lieu à l’élaboration d’une étude d’impact sur l’environnement permettant de déterminer leurs incidences sur l’eau et les écosystèmes aquatiques, conformément à la législation en vigueur sur la protection de l'environnement et du cadre de vie.
+Dans le cas où l’étude d’impact sur l’environnement est obligatoire, son absence ou son insuffisance manifeste entraîne le refus de l’autorisation.
+Un décret pris en conseil des ministres précise les modalités d’application du présent article.

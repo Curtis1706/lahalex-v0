@@ -1,0 +1,1 @@
+Les comptes des médias de service public font l’objet, chaque année, d’un audit réalisé par une institution publique compétente.

@@ -1,0 +1,1 @@
+L’officier de l’état civil remplit le formulaire-type prévu par l’article 130 dernier alinéa. Il le signe et le fait signer par les futurs conjoints et, s’il y a lieu, par l’interprète prévu par l’article 126 alinéa 3.

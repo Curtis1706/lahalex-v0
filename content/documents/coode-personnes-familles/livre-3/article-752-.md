@@ -1,0 +1,3 @@
+En l’absence d’une convention expresse et sauf dispositions légales particulières, nul ne peut être contraint à demeurer dans l’indivision et le partage peut toujours être provoqué.
+Article753 : La convention d’indivision peut être conclue pour une durée déterminée qui, sauf stipulation contraire, est égale à cinq (5) ans. Cette convention est renouvelable.
+Le partage ne peut en ce cas être provoqué, sauf motif jugé légitime avant l’expiration du délai fixé.

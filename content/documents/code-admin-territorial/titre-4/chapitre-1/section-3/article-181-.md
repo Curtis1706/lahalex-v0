@@ -1,0 +1,2 @@
+Le chef d’arrondissement exerce ses fonctions en respectant la hiérarchie des structures administratives territoriales.
+Il relève directement de l’autorité du maire à qui il rend compte de ses activités.

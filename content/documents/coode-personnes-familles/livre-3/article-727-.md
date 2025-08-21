@@ -1,0 +1,1 @@
+Le rapport des dettes a lieu en moins prenant, le prélèvement effectué par les cohéritiers est opposable aux créanciers personnels de l’héritier qui doit le rapport.

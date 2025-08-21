@@ -1,0 +1,3 @@
+1)  Sont  susceptibles  de  poursuites  en  recouvrement  forcé,  tout contribuable, ses représentants ou ses ayants droit qui n’ont pas acquitté, à la date réglementaire, le terme échu, les impôts, droits et taxes de toutes natures perçus au profit du budget de l’État ou des communes.
+2)  Les  poursuites  peuvent  porter  sur  tout  élément  de  l’actif  du  patrimoine  du
+contribuable, de ses représentants ou de ses ayants-droits.

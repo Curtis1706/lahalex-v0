@@ -1,0 +1,6 @@
+1) Est considéré comme ayant un enfant à charge toute personne qui assure d’une manière générale, le logement, la nourriture, l’habillement, les soins de santé et l’éducation de cet enfant, lorsque ce dernier résidant au Bénin ou dans un pays ayant un accord de réciprocité avec le Bénin, rentre dans les catégories suivantes :
+les enfants de l’assuré ;
+les enfants que la femme de l’assuré a eu d’un mariage précédent, lorsqu’il y a eu décès régulièrement déclaré ou divorce judiciairement prononcé, sauf lorsque les enfants sont restés à la charge du premier mari ou que ce dernier contribue à leur entretien ;
+les enfants ayant fait l’objet d’une adoption par l’assuré marié, en conformité avec les dispositions du Code civil ou d’une légitimation adoptive, conformément aux règles du Code civil ;
+les orphelins de père et de mère précédemment assurés ; dans ce cas les prestations sont servies eu tuteur légal ;
+2) Le mariage à titre posthume ne produit pas d’effets au regard des dispositions du présent Code.

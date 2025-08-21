@@ -1,0 +1,2 @@
+Le dispositif du jugement déclaratif de décès doit être transcrit, selon les modalités prévues à l’article 84, sur les registres de l’état civil du lieu réel ou présumé du décès et, le cas échéant, sur ceux du lieu du dernier domicile.
+Mention de la transcription est faite aux registres à la date du décès, en marge de l'acte de naissance et, éventuellement, en marge de l’acte de mariage. En cas de jugement collectif, des extraits individuels du dispositif sont transmis aux officiers de l’état civil compétents, en vue de la transcription.

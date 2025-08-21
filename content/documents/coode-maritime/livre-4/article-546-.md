@@ -1,0 +1,2 @@
+En notifiant le délaissement, l’assuré est tenu de déclarer toutes les assurances qu’il a souscrites ou dont il a connaissance.
+L’assuré qui a fait de mauvaise foi une déclaration inexacte relative au sinistre est déchu du bénéfice de l’assurance.

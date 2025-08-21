@@ -1,0 +1,2 @@
+Compétence de l’Autorité de régulation
+La maîtrise des noms de domaine, de l’assignation de toutes les ressources nationales d’adressage ainsi que la gestion du plan national d’adressage sont de la compétence de l’Autorité de régulation.

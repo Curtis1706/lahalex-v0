@@ -1,0 +1,15 @@
+{
+  "id": "article-11-",
+  "title": "Article 11 :",
+  "numero": "11 ",
+  "document": "codeprocedurepenalbenin",
+  "path": [
+    "livre-0",
+    "titre-0"
+  ],
+  "navigation": {
+    "parent": "titre-0",
+    "previous": "article-10-",
+    "next": "article-12-"
+  }
+}

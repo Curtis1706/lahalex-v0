@@ -1,0 +1,1 @@
+L'Etat crée un fonds d'investissement communal pour contribuer au développement des communes.

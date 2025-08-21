@@ -1,0 +1,3 @@
+Compétences de l’Autorité de régulation
+L’établissement du plan national de numérotation et d’adressage, la maîtrise de l’assignation de toutes les ressources nationales de numérotation et d’adressage ainsi que la gestion du plan national de numérotation et d’adressage sont de la compétence de l’Autorité de régulation.
+L’Autorité de régulation peut imposer aux opérateurs la portabilité des numéros fixes et mobiles. Les modalités de mise en œuvre de la portabilité des numéros sont définies par l’Autorité de régulation.

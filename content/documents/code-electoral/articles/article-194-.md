@@ -1,0 +1,2 @@
+Le maire et ses adjoints sont désignés ou élus pour la même durée de mandat que celle du conseil communal ou municipal.
+En cas de vacance de poste de maire ou d'adjoint au maire par décès, démission ou empêchement définitif pour toute autre cause, il est procédé, sous quinzaine, à son remplacement dans les conditions édictées aux articles 189 et 190 nouveaux de la présente loi, la majorité à prendre en considération étant celle en cours au moment du remplacement.

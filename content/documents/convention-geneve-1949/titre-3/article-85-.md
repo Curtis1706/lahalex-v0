@@ -1,0 +1,2 @@
+Les prisonniers de guerre poursuivis en vertu de la législation de la Puissance Infractions détentrice pour des actes qu’ils ont commis avant d’avoir été faits prisonniers commises resteront, même s’ils sont condamnés, au bénéfice de la présente Convention. avant la
+capture

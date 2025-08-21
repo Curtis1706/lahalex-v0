@@ -1,0 +1,16 @@
+{
+  "id": "article-236-",
+  "title": "Article 236 :",
+  "numero": "236 ",
+  "document": "code-admin-territorial",
+  "path": [
+    "titre-4",
+    "chapitre-1",
+    "section-3"
+  ],
+  "navigation": {
+    "parent": "section-3",
+    "previous": "article-235-",
+    "next": "article-237-"
+  }
+}

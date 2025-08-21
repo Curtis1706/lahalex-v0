@@ -1,0 +1,1 @@
+Les collectivités décentralisées construisent dans les agglomérations du ressort de leur territoire, des ouvrages d'assainissement appropriés avec l'aide de l’Etat.

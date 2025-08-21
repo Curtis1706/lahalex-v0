@@ -1,0 +1,4 @@
+Dans le respect des dispositions de la présente loi, la Haute Autorité de l’Audiovisuel et de la Communication peut autoriser une ou plusieurs stations étrangères de radiodiffusions sonores de réputation internationale.
+Les modalités, conditions et spécifications complémentaires propres à chacune d’elles sont précisées dans la convention à signer avec la Haute Autorité de l’Audiovisuelle et de la Communication.
+Hormis le paiement de tous autres droits et taxes fixés par la loi, toute station étrangère de radiodiffusion sonore autorisée est assujettie au paiement d’une redevance annuelle dont le montant ne saurait être inférieur à la somme de vingt millions (20 000 000) de francs CFA ou de l’équivalent en devises étrangères.
+Les stations étrangères de radiodiffusion sonore autorisées installent un bureau comprenant au moins un correspondant qualifié et du personnel béninois.

@@ -1,0 +1,3 @@
+Il est attribué, pour l’animation de la vie politique nationale, à chaque parti politique ou à chaque alliance de partis politiques régulièrement déclaré, un temps d’antenne ou une tranche horaire mensuelle, en toutes langues confondues, à la radio, à la télévision nationale et des espaces rédactionnels dans la presse écrite de service public.
+La tranche horaire mensuelle à accorder à chaque parti politique ou à chaque alliance de partis politiques à la radio et à la télévision est fixée par décision de la Haute Autorité de l’Audiovisuel et de la Communication.
+La Haute Autorité de l’Audiovisuel et de la Communication veille à l’accès équitable des partis politiques alliances de partis politiques aux médias de service public.

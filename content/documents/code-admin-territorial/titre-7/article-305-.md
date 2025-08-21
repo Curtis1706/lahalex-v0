@@ -1,0 +1,1 @@
+Les documents relatifs aux questions sur lesquelles le conseil de communauté délibère sont préparés par le secrétaire permanent.

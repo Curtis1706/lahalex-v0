@@ -1,0 +1,15 @@
+{
+  "id": "article-34-",
+  "title": "Article 34 :",
+  "numero": "34 ",
+  "document": "code-douane",
+  "path": [
+    "titre-1",
+    "chapitre-6"
+  ],
+  "navigation": {
+    "parent": "chapitre-6",
+    "previous": "article-33-",
+    "next": "article-35-"
+  }
+}

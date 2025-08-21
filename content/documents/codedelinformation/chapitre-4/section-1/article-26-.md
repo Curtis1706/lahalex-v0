@@ -1,0 +1,2 @@
+Le journaliste exerce son métier en toute indépendance et en toute responsabilité.
+Les envoyés spéciaux des organes de presse étrangers sont libres de couvrir tous les événements se déroulant sur le territoire de la République du Bénin. Toutefois, ils sollicitent et obtiennent auprès de la Haute Autorité de l’Audiovisuel et de la Communication, une accréditation avant d’accomplir leur mission. Les conditions d’octroi de l’accréditation sont déterminées par la Haute Autorité de l’Audiovisuel et de la Communication.

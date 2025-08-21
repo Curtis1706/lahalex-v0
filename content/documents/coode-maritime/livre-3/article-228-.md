@@ -1,0 +1,1 @@
+Le marin n’est pas tenu, sauf dans les circonstances de force majeure et celles où le salut du navire est en jeu, circonstances dont le capitaine est seul juge, d’accomplir un travail incombant à une catégorie de personnel autre que celle dans laquelle il est engagé.

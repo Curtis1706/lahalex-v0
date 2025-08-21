@@ -1,0 +1,1 @@
+La loi détermine les principaux fondamentaux de la sécurité sociale.

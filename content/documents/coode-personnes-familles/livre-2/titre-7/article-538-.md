@@ -1,0 +1,2 @@
+Le mineur émancipé cesse d'être sous l’autorité de ses père et mère, du tuteur ou du conseil de famille.
+Ceux-ci ne sont pas responsables de plein droit, en leur seule qualité de père ou de mère, de tuteur ou de conseil de famille, du dommage qu'il peut causer à autrui postérieurement à son émancipation.

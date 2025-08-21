@@ -1,0 +1,1 @@
+L'utilisation d'eau impropre à la consommation est interdite pour la préparation et la conservation de toutes denrées et marchandises destinées à l'alimentation humaine ou animale.

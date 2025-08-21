@@ -1,0 +1,2 @@
+Restrictions extraordinaires
+Des mesures restreignant, au cas par cas, le libre exercice des activités encadrées par les dispositions du présent Livre, peuvent être prises par toute autorité gouvernementale, administrative ou judiciaire, lorsqu'il est porté atteinte ou qu'il existe un risque sérieux et grave d'atteinte au maintien de l'ordre ou de la sécurité publique, à la protection des personnes, à la protection des mineurs, à la santé publique ou à la préservation des intérêts de la défense nationale.

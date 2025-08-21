@@ -1,0 +1,2 @@
+Les infractions relatives à la pollution du milieu marin sont punies d’une amende de cent millions (100.000.000) de francs CFA et d’une peine d’emprisonnement de douze (12) mois à vingt-quatre (24) mois ou de l’une de ces deux peines seulement, sans préjudice des sanctions administratives en vigueur.
+L’administration maritime peut arraisonner tout navire surpris en flagrant délit de déversement de contaminants, y compris les hydrocarbures, en mer.

@@ -1,0 +1,1 @@
+Un arrêté du ministre en charge de la justice détermine les modalités d’application des dispositions des articles 65 à 67 et fixe les conditions dans lesquelles les représentants du personnel sont avisés de la date d’audience.

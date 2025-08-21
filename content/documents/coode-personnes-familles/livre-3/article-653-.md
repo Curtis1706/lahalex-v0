@@ -1,0 +1,3 @@
+Le privilège résultant de la séparation des patrimoines confère aux créanciers et aux légataires de sommes d’argent le droit d’exiger paiement sur les biens compris dans la succession, par préférence aux créanciers personnels, même privilégiés de l’héritier, sans préjudice de leur action sur les biens personnels de celui-ci.
+Le droit de suite sur les immeubles est exercé dans les conditions prévues par la loi relative à la propriété foncière.
+La séparation des patrimoines ne crée aucun droit de préférence dans les rapports respectifs des créanciers et légataires du défunt. Elle ne règle que leur situation vis-à-vis des créanciers personnels de l’héritier ;

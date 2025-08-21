@@ -1,0 +1,5 @@
+1) Si une personne morale dont le siège est situé hors du territoire national, a la disposition d’une ou plusieurs propriétés immobilières situées en République du Bénin ou en concède la jouissance gratuitement ou moyennant un loyer inférieur à la valeur locative réelle, elle est soumise à l’impôt sur les sociétés sur une base qui ne peut être inférieure à la valeur locative réelle de cette propriété ou de ces propriétés.
+2) Lorsque  l’occupant  a  son  domicile  fiscal  en  République  du  Bénin,  il  est
+solidairement responsable du paiement de cette imposition.
+3) Ces dispositions ne sont toutefois pas applicables aux organismes à but non lucratif
+qui exercent une activité désintéressée à caractère social ou philanthropique, éducatif ou culturel et qui établissent que l’exercice de cette activité en République du Bénin justifie la possession ou la disposition des propriétés immobilières en cause.

@@ -1,0 +1,3 @@
+Carte professionnelle pour les personnes habilitées à administrer et à présenter des opérations de micro assurance
+Pour obtenir la carte professionnelle délivrée par le Ministre en charge du secteur des assurances, la personne habilitée à administrer des opérations de micro assurance doit justifier d’une formation en assurance d’au moins quarante-huit heures ou d’une expérience dans le domaine des assurances.
+L’entreprise d’assurance ou de micro assurance répond des fautes commises par les personnes habilitées à présenter ou administrer des opérations de micro assurance dans l’exécution de leur mandat.

@@ -1,0 +1,8 @@
+Pour recevoir l’acte de béninisation, les navires doivent :
+- appartenir pour moitié au moins à des personnes physiques ou morales ayant la nationalité béninoise, ou des personnes physiques ou morales ayant la nationalité d’un autre Etat avec lequel a été passé un accord de réciprocité;
+- ou appartenir à une société dont le siège social est situé sur le territoire de la République du Bénin et qui répond aux conditions suivantes :
+- dans les sociétés anonymes, le président du conseil d’administration et de surveillance, les directeurs généraux et les commissaires aux comptes doivent être de nationalité béninoise ou de la nationalité d’un autre Etat avec lequel il a été passé un accord de réciprocité ;
+- dans les sociétés en commandite par actions, les gérants et la majorité des membres du conseil de surveillance doivent être de nationalité béninoise ou de la nationalité d’un autre Etat avec lequel il a été passé un accord de réciprocité ;
+- dans les sociétés à responsabilité limitée, les sociétés en nom collectif, les sociétés en commandite simple et les sociétés civiles, les gérants doivent être de nationalité béninoise et la moitié au moins du capital doit appartenir à des Béninois ou à des nationaux d’un autre Etat avec lequel il a été passé un accord de réciprocité.
+Indépendamment des cas prévus à l’alinéa 1<sup>er</sup> ci-dessus, la béninisation d’un navire peut être accordée par agrément spécial de l’autorité maritime lorsque ce navire a été affrété coque-nue par un armateur béninois qui en assure le contrôle, l’armement, l’exploitation et la gestion nautique, et si la loi du pavillon le permet, l’abandon du pavillon étranger.
+Des dérogations aux conditions prévues au présent article peuvent être accordées par voie réglementaire.

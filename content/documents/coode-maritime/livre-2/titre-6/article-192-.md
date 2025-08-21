@@ -1,0 +1,2 @@
+Les enquêtes maritimes prévues au présent titre sont ordonnées par l’autorité maritime compétente. A l’étranger, elles le sont par le consul de la République du Bénin.
+Toute enquête maritime ordonnée conformément aux dispositions du présent titre doit être conduite par une commission dont les membres sont nommés par l’autorité maritime compétente.

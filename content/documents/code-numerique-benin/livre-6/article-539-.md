@@ -1,0 +1,8 @@
+Altération
+Est puni de sept cent mille (700 000) francs CFA d'amende, le fait de porter atteinte sciemment, à des fins autres que la recherche, à une mesure technique efficace afin d'altérer la protection d'une interprétation, d'un phonogramme, d'un vidéogramme ou d'un programme par un décodage, un décryptage ou toute autre intervention personnelle destinée à contourner, neutraliser ou supprimer un mécanisme de protection ou de contrôle, lorsque cette atteinte est réalisée par d'autres moyens que l'utilisation d'une application technologique, d'un dispositif ou d'un composant existant mentionné au chapitre II du présent Livre.
+Est puni de six (6) mois d'emprisonnement et de cinq cent mille (500 000) francs CFA d'amende, le fait de procurer ou proposer sciemment à autrui, directement ou indirectement, des moyens conçus ou spécialement adaptés pour porter atteinte à une mesure technique efficace, par l'un des procédés suivants :
+1. en fabriquant ou en important une application technologique, un dispositif ou un composant, à des fins autres que la recherche ;
+1. en détenant en vue de la vente, du prêt ou de la location, en offrant à ces mêmes fins ou en mettant à disposition du public sous quelque forme que ce soit une application technologique, un dispositif ou un composant ;
+1. en fournissant un service à cette fin ;
+1. en incitant à l'usage ou en commandant, concevant, organisant, reproduisant, distribuant ou diffusant une publicité en faveur de l'un des procédés visés aux points 1 à 3.
+Ces dispositions ne sont pas applicables aux actes réalisés à des fins de sécurité informatique.

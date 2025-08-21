@@ -1,0 +1,3 @@
+Pour l’application du statut de la cour pénale internationale ratifié le
+22 janvier 2002, la République du Bénin participe à la répression des infractions et coopère avec cette juridiction dans les conditions fixées par le présent titre.
+Les dispositions qui suivent sont applicables à toute personne poursuivie devant la cour pénale internationale ou condamnée par celle-ci à raison des actes qui constituent, au sens des articles 6 à 8 et 25 du statut, un génocide, des crimes contre l’humanité ou des crimes de guerre.

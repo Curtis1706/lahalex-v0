@@ -1,0 +1,3 @@
+Droit d’introduire une réclamation auprès de l'Autorité
+Sans préjudice de tout autre recours administratif ou juridictionnel, toute personne concernée a le droit d'introduire une réclamation auprès de l'Autorité, si elle considère que le traitement de données à caractère personnel la concernant constitue une violation des dispositions du présent Livre.
+L'Autorité informe l'auteur de la réclamation de l'état d'avancement et de l'issue de la réclamation, y compris de la possibilité d'un recours juridictionnel en vertu de l'article suivant.

@@ -1,0 +1,14 @@
+{
+  "id": "article-93-",
+  "title": "Article 93 :",
+  "numero": "93 ",
+  "document": "coode-maritime",
+  "path": [
+    "livre-1"
+  ],
+  "navigation": {
+    "parent": "livre-1",
+    "previous": "article-92-",
+    "next": "article-94-"
+  }
+}

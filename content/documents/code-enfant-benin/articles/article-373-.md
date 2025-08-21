@@ -1,0 +1,2 @@
+Article 373 : Quiconque aide, assiste, sollicite l’exciseur ou l’exciseuse, lui fournit des moyens ou donne des instructions, est traité comme complice et condamné aux peines encourues par l’auteur principal.
+En cas de récidive, le maximum de la peine est appliqué sans bénéfice du sursis.

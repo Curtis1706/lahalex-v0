@@ -1,0 +1,2 @@
+Article 71 : Tout citoyen ayant connaissance de l’une des infractions prévues par la présente loi a l’obligation d’en informer soit le procureur de la République, soit le ministre ou les agents chargés de constater lesdites infractions ou les élus locaux qui sont chargés de faire remonter l’information aux agents assermentés.
+SECTION III : DES INFRACTIONS ET DES SANCTIONS

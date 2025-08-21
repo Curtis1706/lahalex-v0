@@ -1,0 +1,1 @@
+Est puni d’un emprisonnement de cinq (05) ans et d’une amende de dix millions (10.000.000) à vingt millions (20.000.000) de francs CFA, quiconque transporte à bord d’un navire une personne en sachant que cette personne a commis un acte qui constitue une infraction visée à la présente section et ayant l’intention d’aider cette personne à échapper à des poursuites pénales.

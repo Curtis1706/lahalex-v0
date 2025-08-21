@@ -1,0 +1,1 @@
+Les époux ne peuvent déroger ni aux devoirs ni aux droits qui résultent pour eux du mariage, ni aux règles relatives à l'autorité parentale, à l'administration légale et à la tutelle.

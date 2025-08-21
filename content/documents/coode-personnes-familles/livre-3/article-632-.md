@@ -1,0 +1,1 @@
+Lorsque le défunt laisse des enfants, le conjoint survivant a droit au quart de la succession.

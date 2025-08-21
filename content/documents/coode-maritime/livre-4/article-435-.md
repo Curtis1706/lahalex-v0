@@ -1,0 +1,3 @@
+L’acconier peut s’exonérer de sa responsabilité en prouvant que les pertes, avaries et retards qui lui sont imputés résultent de la faute du transporteur maritime, du chargeur ou du destinataire.
+2 a toujours le droit de demander qu’une constatation contradictoire de l’état des marchandises soit faite lors de leur réception.
+Toute clause tendant à exonérer l’acconier de la responsabilité qui lui est attribuée par le présent code est nulle.

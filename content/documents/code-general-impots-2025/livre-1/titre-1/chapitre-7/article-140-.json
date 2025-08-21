@@ -1,0 +1,16 @@
+{
+  "id": "article-140-",
+  "title": "Article 140 :",
+  "numero": "140 ",
+  "document": "code-general-impots-2025",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-7"
+  ],
+  "navigation": {
+    "parent": "chapitre-7",
+    "previous": "article-139-",
+    "next": "article-141-"
+  }
+}

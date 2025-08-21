@@ -1,0 +1,2 @@
+En matière financière, le secrétaire administratif d'arrondissement concourt, sous l'autorité du secrétaire exécutif, avec l'appui des membres du conseil d'arrondissement, au recouvrement des taxes et impôts.
+Dans le cadre de la préparation du budget de la commune, le secrétaire administratif d'arrondissement propose au secrétaire exécutif, avec le concours du conseil d’arrondissement, des prévisions de recettes et de dépenses.

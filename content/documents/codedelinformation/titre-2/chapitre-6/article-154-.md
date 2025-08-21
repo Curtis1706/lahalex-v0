@@ -1,0 +1,2 @@
+Les réactions et les commentaires des leaders des divers courants politiques et d’opinion suscités par les adresses ou allocutions du Président de la République ou des déclarations, interventions et communications des membres de son Gouvernement constituent des répliques politiques.
+La réplique s’exerce notamment dans le cadre défini aux articles 109, 111 et 112. Elle est susceptible d’un nouveau droit de réponse.

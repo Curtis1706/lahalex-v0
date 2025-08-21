@@ -1,0 +1,4 @@
+Sont punis des peines prévues aux articles 986 et 987 du présent code ou de l’une de ces deux peines seulement :
+1. ceux qui, sans autorisation ou déclaration régulière, offriront, mettront en vente ou exposeront en vue de la vente, des marchandises dans les lieux publics en contravention aux dispositions réglementaires sur la police de ces lieux ;
+2. ceux qui ont exposé ou fait exposer sur la voie publique ou dans des lieux publics des affiches ou images contraires à la décence ; le jugement de condamnation ordonnera, nonobstant toutes voies de recours, la suppression du ou des objets incriminés aux frais du condamné ;
+3. ceux qui, par gestes, paroles, écrits ou par tous autres moyens, ont procédé publiquement au racolage des personnes, de l’un ou l’autre sexe, en vue de les provoquer à la débauche.

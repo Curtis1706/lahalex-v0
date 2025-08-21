@@ -1,0 +1,1 @@
+Toute unité industrielle ou commerciale est pourvue d'un dispositif d'évacuation et de traitement des déchets et des installations sanitaires fonctionnelles assurant l'hygiène du personnel.

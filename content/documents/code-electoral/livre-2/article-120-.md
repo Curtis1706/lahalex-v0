@@ -1,0 +1,3 @@
+La liste électorale informatisée est une liste numérique unique, exhaustive et nationale avec photo de tous les citoyens en âge de voter pour toutes les élections organisées dans une même année.
+Elle est une liste exhaustive avec photo de tous les citoyens en âge de voter.
+La liste électorale informatisée est extraite du registre national ; il est le résultat d'opérations du recensement administratif à vocation d'identification des personnes physiques (RAVIP) et du traitement automatisé d'informations nominatives, personnelles et biométriques obtenues sur l'ensemble du territoire national et à l'étranger, dans les ambassades et consulats de la République du Bénin.

@@ -1,0 +1,2 @@
+Article 134 : Cadre de concertation pour la protection de l’enfant
+Il est créé, dans chaque commune, un cadre de concertation sur la délinquance juvénile présidé par le maire et composé des représentants locaux des ministères en charge de la sécurité publique, de la justice et de l'action sociale.

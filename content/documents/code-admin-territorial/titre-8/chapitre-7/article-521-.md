@@ -1,0 +1,3 @@
+Des budgets annexes sont établis pour les services publics locaux dotés de l'autonomie financière, mais sans personnalité juridique.
+Les budgets annexes retracent les opérations résultant de leurs activités de production de biens ou de prestation de services donnant lieu à paiement d’un prix.
+Les budgets annexes sont votés dans les mêmes conditions que le budget principal et approuvés selon le cas, par l'autorité de tutelle. Les opérations des budgets annexes sont prévues, autorisées et exécutées dans les mêmes conditions que le budget principal.

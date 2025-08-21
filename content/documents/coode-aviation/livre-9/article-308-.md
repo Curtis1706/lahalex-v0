@@ -1,0 +1,1 @@
+Le commandant de bord établit un rapport circonstancié adressé à l'organisme national en charge de l'aviation civile dans les quarante-huit heures suivant tout accident ou incident pouvant avoir des conséquences graves survenant, soit au sol, soit en vol, ou toute infraction à la réglementation de la circulation aérienne.

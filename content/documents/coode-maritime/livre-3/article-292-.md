@@ -1,0 +1,3 @@
+Lorsqu’une faute contre la discipline a été commise, le capitaine doit instruire l’affaire dans les quarante-huit (48) heures. 2 mentionne sur le livre de discipline la nature de la faute, les déclarations des témoins, les explications et les regrets éventuels de l’intéressé qui procède lui-même à la lecture de ces énonciations qu’il est requis de signer. Son refus de signer est enregistré.
+Si l’intéressé ne sait ni lire, ni écrire, traduction lui en est faite par un officier en présence de deux (02) témoins.
+Après instructions, le capitaine transmet le dossier de l’enquête au directeur de la marine marchande.

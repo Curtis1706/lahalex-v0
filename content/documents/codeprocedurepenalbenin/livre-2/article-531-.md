@@ -1,0 +1,3 @@
+S’il y a lieu de procéder à un supplément d’information, la cour commet par arrêt, un de ses membres qui dispose des pouvoirs prévus aux articles 167 à 172 du présent code.
+Ce supplément d’information obéit aux règles édictées par les articles 128 et 131 du présent code.
+Le procureur général peut obtenir, au besoin par voie de réquisitions, la communication du dossier de la procédure à toute époque du supplément d’information, à charge de rendre les pièces dans les vingt-quatre (24) heures.

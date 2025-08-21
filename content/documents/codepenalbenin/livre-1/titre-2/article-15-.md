@@ -1,0 +1,1 @@
+Nul n’est responsable pénalement que de son propre fait.

@@ -1,0 +1,4 @@
+Article 184 : Interdiction de rituels et cérémonies dangereuses
+Est considéré comme rituel et cérémonies dangereuses, l’ensemble des règles et des habitudes fixées par la tradition qui, dans le but de purifier l’enfant, expose sa vie au danger, notamment les breuvages, les mixtures, l’ingurgitation forcée, le gavage traditionnel, l’abandon de l’enfant sous une température trop froide ou trop chaude, le traitement de l’enfant avec des objets traditionnels non stérilisés, l’assujettissement du sort de l’enfant aux pratiques divinatoires.
+SECTION IX : DES MUTILATIONS SEXUELLES OU MUTILATIONS
+GENITALES FEMININES

@@ -1,0 +1,1 @@
+Si la saisie conservatoire est irrégulière ou si elle a été diligentée sans juste motif, le saisissant est responsable du dommage qui en résulte pour l'exploitant ou le propriétaire.

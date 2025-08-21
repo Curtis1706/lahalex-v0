@@ -1,0 +1,16 @@
+{
+  "id": "article-23-",
+  "title": "Article 23 : Publications des informations et tarifs par les opérateurs",
+  "numero": "23 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-3"
+  ],
+  "navigation": {
+    "parent": "chapitre-3",
+    "previous": "article-22-",
+    "next": "article-24-"
+  }
+}

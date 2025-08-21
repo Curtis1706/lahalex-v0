@@ -1,0 +1,4 @@
+L’opposition doit être formée dans les délais de dix (10) jours, si le prévenu réside en République du Bénin, trois (03) mois s’il n’y réside pas.
+Ces délais courent à compter de la signification du jugement.
+Toutefois, s’il s’agit d’un jugement de condamnation qui n’a pas été signifié à la personne du prévenu, et s’il ne résulte pas soit de l’avis constatant remise de la lettre recommandée prévue aux articles 545 et 546alinéas3 et 4 du présent code, soit d’un acte d’exécution quelconque, que le prévenu a eu connaissance de la signification, l’opposition tant en ce qui concerne les intérêts civils que la condamnation pénale, reste valable jusqu’à l’expiration des délais de prescription de la peine.
+Dans le cas visé à l’alinéa précédent, le délai d’opposition court à compter du jour où le prévenu a eu connaissance de la signification.

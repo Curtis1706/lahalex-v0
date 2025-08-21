@@ -1,0 +1,1 @@
+La réduction des donations entre vifs ne peut être réclamée en nature ; elle n’a pour objet que la valeur des biens donnés qui excède la quotité disponible.

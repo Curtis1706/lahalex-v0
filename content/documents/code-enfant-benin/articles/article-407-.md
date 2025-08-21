@@ -1,0 +1,2 @@
+Article 407 : En cas de nécessité, un tribunal pour enfants statuant en matière criminelle peut, provisoirement, couvrir la juridiction de plusieurs tribunaux de première instance.
+Cette extension provisoire de compétence territoriale est faite par décret pris en Conseil des ministres, sur proposition du ministre chargé de la justice.

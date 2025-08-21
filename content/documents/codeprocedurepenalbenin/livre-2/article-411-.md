@@ -1,0 +1,3 @@
+Si le contrevenant déclare faire opposition, il est cité devant le tribunal dans les formes ordinaires.
+Lorsque le contrevenant n’a pas reçu notification, à sa personne, de l’ordonnance d’arbitrage, il est considéré comme opposant s’il ne s’est pas acquitté de l’amende dans les (15) quinze jours de la notification.
+Dans le cas prévu par l’alinéa 1<sup>er</sup> du présent article, la décision rendue par le tribunal est réputée contradictoire, même si le prévenu ne comparaît pas.

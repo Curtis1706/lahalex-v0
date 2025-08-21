@@ -1,0 +1,1 @@
+Aucune mutation foncière ne peut se faire si le vendeur n’a au préalable justifié du paiement de la taxe lorsque celle-ci est exigible.

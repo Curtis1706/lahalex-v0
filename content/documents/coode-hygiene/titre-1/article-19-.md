@@ -1,0 +1,2 @@
+Il est interdit de construire des puits perdus, des puisards, des fosses septiques ou tous autres ouvrages d'assainissement individuel en dehors de sa propriété foncière.
+Toute construction visée à l'alinéa précédent doit respecter les périmètres de sécurité par rapport aux mitoyens et par rapport aux sources d'eau.

@@ -1,0 +1,1 @@
+Le conseiller communal démis dans les conditions prévues à l'article 81 de la présente loi, peut former un recours devant le tribunal administratif territorialement compétent, dans les deux (02) mois qui suivent la notification de la décision.

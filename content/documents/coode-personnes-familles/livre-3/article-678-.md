@@ -1,0 +1,2 @@
+Les créanciers de l’héritier qui renonce au préjudice de leurs droits peuvent se faire autoriser en justice à accepter la succession aux lieu et place de leur débiteur. Leur action doit être intentée dans le délai de trois (3) ans qui suit la renonciation.
+Toutefois, ils peuvent même après ce délai se faire relever de la forclusion par le tribunal, en cas de fraude manifeste à leurs droits et s’ils justifient n’avoir pas eu connaissance de la renonciation.

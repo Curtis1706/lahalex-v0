@@ -1,0 +1,1 @@
+Les associations, fondations et autres organismes concourent également au développement local. A ce titre, ils peuvent bénéficier de concours financiers de la part de la commune ou de l'établissement public de coopération intercommunale, dans les conditions prévues par les lois et règlements.

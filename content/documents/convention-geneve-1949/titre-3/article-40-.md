@@ -1,0 +1,1 @@
+Le port des insignes de grade et de nationalité, ainsi que des décorations, Insignes et sera autorisé. décorations

@@ -1,0 +1,15 @@
+{
+  "id": "article-190-",
+  "title": "Article 190 : Dispense d’autorisation",
+  "numero": "190 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-3"
+  ],
+  "navigation": {
+    "parent": "titre-3",
+    "previous": "article-189-",
+    "next": "article-191-"
+  }
+}

@@ -1,0 +1,1 @@
+L'héritier bénéficiaire majeur qui a aliéné les biens de la succession sans se conformer aux prescriptions de l’article 666 est déchu de son bénéfice.

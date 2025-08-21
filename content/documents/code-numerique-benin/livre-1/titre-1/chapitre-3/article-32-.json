@@ -1,0 +1,16 @@
+{
+  "id": "article-32-",
+  "title": "Article 32 : Protection de l’environnement contre les déchets électroniques",
+  "numero": "32 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-3"
+  ],
+  "navigation": {
+    "parent": "chapitre-3",
+    "previous": "article-31-",
+    "next": "article-33-"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "article-26-",
+  "title": "Article 26 :",
+  "numero": "26 ",
+  "document": "code-douane",
+  "path": [
+    "titre-1",
+    "chapitre-5",
+    "section-4"
+  ],
+  "navigation": {
+    "parent": "section-4",
+    "previous": "article-25-",
+    "next": "article-27-"
+  }
+}

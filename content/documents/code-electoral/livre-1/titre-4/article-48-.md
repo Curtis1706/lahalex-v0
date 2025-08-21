@@ -1,0 +1,1 @@
+Les partis politiques et les candidats sont seuls autorisés à organiser des réunions électorales,

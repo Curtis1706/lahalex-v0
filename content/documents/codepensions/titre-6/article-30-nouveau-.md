@@ -1,0 +1,11 @@
+Dès son entrée dans la fonction publique, l’agent permanent de l’Etat ou l’agent contractuel de l’Etat, civil, militaire ou paramilitaire est invité à établir une liste des ayants cause susceptibles de bénéficier au jour de son décès, d’une pension.
+Cette liste qui figure dans le dossier individuel, le bulletin de notes de l’agent permanent de l’Etat ou la fiche d’évaluation de l’agent contractuel de l’Etat et au dossier individuel du militaire ou du paramilitaire, peut faire l’objet de modifications annuelles jusqu’à la cessation de fonction. Elle désigne chaque bénéficiaire à titre personnel et doit obligatoirement être restreinte :
+- à l’époux et à l’épouse légitime.
+Toutefois, le mariage polygamique célébré avant la promulgation de la loi n° 2002-07 du 24 août 2004 portant code des personnes et de la famille continue d’avoir cours ;
+- aux enfants mineurs y compris les enfants adoptifs dont le nombre ne peut dépasser deux (02).
+L’agent permanent de l’Etat, l’agent contractuel de l’Etat, le militaire ou le paramilitaire, doit également désigner le ou les tuteur(s) de ses enfants ainsi que trois (03) administrateurs de ses biens, classés par ordre de préférence, dans l’éventualité où il viendrait à mourir.
+Toutefois, à défaut d’une telle désignation, le conjoint survivant est d’office tuteur de ses enfants et administrateur des biens desdits enfants au regard de la pension. En cas de polygamie, chaque femme est administratrice des biens et tutrice de ses enfants mineurs.
+Au cas où aucun tuteur des enfants et aucun administrateur des biens n’aurait été désigné ou que ceux choisis seraient devenus inhabiles, il reviendra au conseil de famille de procéder à la désignation.
+Le droit à pension d’ayants cause est intransmissible, sauf dans les cas expressément prévus par la loi.
+En l’absence de bénéficiaires nommément désignés, ou en l’absence de toutes preuves de bénéficiaires, aucun droit à pension d’ayants cause ne peut être reconnu.
+Le total des émoluments attribués aux ayants cause ne peut excéder le montant de la pension et éventuellement de la rente d’invalidité attribué ou qui auraient été attribué à l’agent permanent de l’Etat, à l’agent contractuel de l’Etat, au militaire ou paramilitaire.

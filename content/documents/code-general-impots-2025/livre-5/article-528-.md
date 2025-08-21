@@ -1,0 +1,3 @@
+Le  droit  d’enquête  est  une  procédure  administrative  destinée  à rechercher les manquements aux règles et obligations de facturation auxquelles sont tenus les assujettis à la taxe sur la valeur ajoutée et aux autres impôts indirects.
+Le droit d’enquête est une procédure distincte des procédures de contrôle de l’impôt et permet à l’administration fiscale  d’intervenir de manière inopinée chez un assujetti.
+Le  droit  d’enquête  porte  sur  non  seulement  les  périodes  couvertes  par  une déclaration mais aussi sur celles pour lesquelles l’échéance de déclaration n’est pas encore échue.

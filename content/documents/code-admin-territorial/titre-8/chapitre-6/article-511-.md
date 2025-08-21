@@ -1,0 +1,1 @@
+Les règles de tenue de la comptabilité des matières et de gestion des matières sont fixées par les dispositions réglementaires relatives à la comptabilité des matières.

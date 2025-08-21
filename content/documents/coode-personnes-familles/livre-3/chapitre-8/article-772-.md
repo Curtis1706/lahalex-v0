@@ -1,0 +1,1 @@
+Chacun des époux peut procéder seul au partage des biens à lui échus par voie de succession.

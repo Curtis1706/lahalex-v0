@@ -1,0 +1,3 @@
+Convention d’affiliation - contenu, approbation par les assemblées générales
+1.  La convention d’affiliation mentionnée au premier alinéa de l’article 330-50 contient la description des liens, des obligations, des engagements et des modalités de partage des coûts ou de toute autre forme de coopération entre une société de groupe d’assurance et l’entreprise affiliée. Elle doit comporter l’engagement de celle-ci de subordonner son retrait éventuel au respect des conditions posées au deuxième alinéa du 1) du I de l’article 330-52.
+2.  Les conventions d’affiliation, leurs modifications et leur résiliation éventuelle doivent être approuvées par les assemblées générales de la société de groupe d’assurance et de l’entreprise affiliée.

@@ -1,0 +1,2 @@
+Quiconque s’est rendu coupable de faux témoignage en matière criminelle soit contre l’accusé, soit en sa faveur est puni de la réclusion criminelle à temps de cinq (05) ans à dix (10) ans.
+Si néanmoins l’accusé a été condamné à une peine plus forte que celle de la réclusion criminelle à temps de cinq (05) ans à dix (10) ans, le faux témoin qui a déposé contre lui subira la même peine.

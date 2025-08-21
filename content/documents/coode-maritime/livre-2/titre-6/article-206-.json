@@ -1,0 +1,15 @@
+{
+  "id": "article-206-",
+  "title": "Article 206 :",
+  "numero": "206 ",
+  "document": "coode-maritime",
+  "path": [
+    "livre-2",
+    "titre-6"
+  ],
+  "navigation": {
+    "parent": "titre-6",
+    "previous": "article-205-",
+    "next": "article-207-"
+  }
+}

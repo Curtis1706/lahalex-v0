@@ -1,0 +1,3 @@
+Le capitaine a le droit de congédier le marin. Cependant, il ne peut le faire qu’avec l’accord du directeur de la marine marchande.
+Le marin congédié pour faute lourde n’a droit à aucune indemnité. Hormis ce cas, il a droit à une indemnité de licenciement dont le montant est fixé en tenant compte de la nature des services, de la durée du contrat et du préjudice subi.
+Le motif du congédiement doit être porté au rôle d’équipage.

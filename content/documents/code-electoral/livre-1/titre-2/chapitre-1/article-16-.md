@@ -1,0 +1,2 @@
+La Commission électorale nationale autonome (CENA) proclame les résultats définitifs de l'élection des membres des conseils communaux.
+Pour les élections législatives et l'élection du duo président de la République et vice-président de la République, la Commission électorale nationale autonome (CENA) compile les résultats certifiés au niveau arrondissement, publie les résultats provisoires et les transmet à la Cour constitutionnelle en vue de la proclamation des résultats définitifs.

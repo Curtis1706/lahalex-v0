@@ -1,0 +1,1 @@
+L’autorisation n’est pas requise pour la simple reproduction à des fins d’information de l’image d’un homme assumant des fonctions ou un rôle politique, d’une vedette de spectacles ou encore d’une personne qui participe à une manifestation publique ou qui se trouve mêlée à l’actualité judiciaire.

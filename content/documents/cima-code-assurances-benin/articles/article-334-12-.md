@@ -1,0 +1,6 @@
+Article 334-12 : Modalités de calcul
+La provision pour sinistres à payer est calculée exercice par exercice.
+Sans préjudice de l’application des règles spécifiques à certaines branches prévues à la présente section, l’évaluation des sinistres connus est effectuée dossier par dossier, le coût d’un dossier comprenant toutes les charges externes individualisables ; elle est augmentée d’une estimation du coût des sinistres survenus mais non déclarés. Les modalités d’estimation du coût des sinistres survenus mais non déclarés ou sinistres déclarés tardifs sont fixées par circulaire de la Commission de Contrôle des Assurances.
+La provision pour sinistres à payer doit toujours être calculée pour son montant brut, sans tenir compte des recours à exercer ; les recours à recevoir font l’objet d’une évaluation distincte.
+Par dérogation aux dispositions du deuxième alinéa du présent article, l’entreprise peut, avec l’accord de la Commission de Contrôle des Assurances, utiliser des méthodes statistiques pour l’estimation des sinistres survenus au cours des deux derniers exercices.
+\_NB - Voir la circulaire n°00230/CIMA/CRCA/PDT/2005 du 24 octobre 2005 relative à la méthode de détermination de la provision pour sinistres déclarés tardifs_\

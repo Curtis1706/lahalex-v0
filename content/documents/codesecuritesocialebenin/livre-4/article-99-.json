@@ -1,0 +1,14 @@
+{
+  "id": "article-99-",
+  "title": "Article 99 :",
+  "numero": "99 ",
+  "document": "codesecuritesocialebenin",
+  "path": [
+    "livre-4"
+  ],
+  "navigation": {
+    "parent": "livre-4",
+    "previous": "article-98-",
+    "next": "article-100-"
+  }
+}

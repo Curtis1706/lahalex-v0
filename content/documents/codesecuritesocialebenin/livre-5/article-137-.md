@@ -1,0 +1,3 @@
+Le conseil d’administration veille à la mise en œuvre correcte du présent Code et des textes subséquents.
+Le contrôle de l’application des dispositions de la présente loi et des mesures d’exécution est assuré conjointement par les inspecteurs et contrôleurs du travail et les inspecteurs et contrôleurs de la Caisse.
+Le domaine et les conditions d’exercice du contrôle seront précisés par décret pris en conseil des Ministres sur proposition du Ministre chargé de la sécurité sociale, après avis du conseil national du travail.

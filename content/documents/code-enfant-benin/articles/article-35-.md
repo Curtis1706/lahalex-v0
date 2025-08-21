@@ -1,0 +1,2 @@
+Article 35 : Devoir de nourrir l'enfant
+Les parents, le père et la mère ou toutes autres personnes ayant à charge l’enfant, ont le devoir de lui fournir une alimentation normale, suffisante et de qualité, conformément aux dispositions de la loi portant code des personnes et de la famille.

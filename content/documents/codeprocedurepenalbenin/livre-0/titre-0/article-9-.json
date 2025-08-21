@@ -1,0 +1,15 @@
+{
+  "id": "article-9-",
+  "title": "Article 9 :",
+  "numero": "9 ",
+  "document": "codeprocedurepenalbenin",
+  "path": [
+    "livre-0",
+    "titre-0"
+  ],
+  "navigation": {
+    "parent": "titre-0",
+    "previous": "article-8-3--loi-n--2022---37--",
+    "next": "article-10-"
+  }
+}

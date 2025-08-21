@@ -1,0 +1,2 @@
+Lorsque, saisi des réquisitions du procureur de la République tendant au placement en détention provisoire, le juge d’instruction estime que cette détention n’est pas justifiée et qu’il décide ne pas transmettre le dossier de la procédure au juge des libertés et de la détention, il est tenu de statuer sans délai par ordonnance motivée qui est immédiatement portée à la connaissance du procureur de la République.
+Cette ordonnance est susceptible d’appel dans les formes et délai prévus à l’article 200 du présent code.

@@ -1,0 +1,3 @@
+Le Bureau enquêtes-accidents peut solliciter des agents autres que les membres de son personnel pour effectuer, sous son autorité, des actes d'enquêtes. Ces agents sont dénommés enquêteurs de première information.
+Le Bureau enquêtes-accidents peut également faire appel à des experts de nationalité béninoise ou étrangère pour l'assister dans une enquête technique. Ces experts peuvent être des personnes physiques ou morales.
+SETION 2 : INDEPENDANCE DE L’ORGANISME D’ENQUÊTE

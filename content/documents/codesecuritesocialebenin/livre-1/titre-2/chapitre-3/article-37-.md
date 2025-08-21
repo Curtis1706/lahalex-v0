@@ -1,0 +1,2 @@
+La Caisse effectue au moins une fois tous les cinq ans, l’analyse des opérations financières et des estimations actuarielles des différentes branches du régime de sécurité sociale.
+Si l’analyse révèle un danger de déséquilibre financier dans une branche déterminée, il est procédé au réajustement du taux de cotisation de cette branche, selon la procédure prévue à l’article 24 de la présente loi, sans préjudice de toutes autres mesures appropriées.

@@ -1,0 +1,1 @@
+Tout acte passé dans un État étranger, est soumis au timbre avant qu’il puisse en être fait usage en République du Bénin, soit dans un acte public, soit dans une déclaration quelconque, soit devant une autorité judiciaire ou administrative.

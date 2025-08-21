@@ -1,0 +1,2 @@
+Article 162 : Immigration d'un enfant
+Aucun enfant de nationalité étrangère ne peut entrer sur le territoire de la République du Bénin, s’il n’est accompagné de son père, de sa mère ou d’une personne ayant autorité sur lui au regard de sa loi nationale et s’il n’est muni de documents établissant son identité, sa provenance, sa destination et le motif de son voyage, sauf les cas de guerres, de catastrophes naturelles ou d’autres situations exceptionnelles.

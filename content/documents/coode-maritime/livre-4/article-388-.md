@@ -1,0 +1,2 @@
+Si le départ du navire n’a pas lieu pour une raison non imputable au transporteur, le contrat est résolu sans indemnités de part et d’autre.
+Le transporteur doit une indemnité égale à la moitié du prix du passage s’il ne peut pas établir que l’événement ne lui est pas imputable.

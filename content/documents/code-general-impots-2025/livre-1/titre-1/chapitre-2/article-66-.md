@@ -1,0 +1,1 @@
+(Modifié  par  la  loi  de  finances  pour  2024)  L’impôt  sur  les  bénéfices d’affaires est déclaré et payé comme en matière d’impôt sur les sociétés. Les personnes morales non soumises à l’impôt sur les sociétés effectuent pour le compte de leurs associés le paiement de l’impôt sur le bénéfice des affaires dans les conditions prévues à l’article 51 du présent Code.

@@ -1,0 +1,1 @@
+L'établissement public de coopération intercommunale est doté de la personnalité juridique et de l'autonomie financière.

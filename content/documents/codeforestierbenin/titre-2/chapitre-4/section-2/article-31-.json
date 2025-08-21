@@ -1,0 +1,16 @@
+{
+  "id": "article-31-",
+  "title": "Article 31 :",
+  "numero": "31 ",
+  "document": "codeforestierbenin",
+  "path": [
+    "titre-2",
+    "chapitre-4",
+    "section-2"
+  ],
+  "navigation": {
+    "parent": "section-2",
+    "previous": "article-30-",
+    "next": "article-32-"
+  }
+}

@@ -1,0 +1,1 @@
+Le maire et ses adjoints, une fois désignés ou élus, doivent résider dans la commune.

@@ -1,0 +1,3 @@
+L’héritier apparent est tenu de restituer à l’héritier dont la qualité a été reconnue tous les biens composant l’hérédité.
+Il est tenu, dans les conditions prévues pour le possesseur, d’indemniser l’héritier véritable des dommages subis par ces biens et il a droit, dans les mêmes conditions, au remboursement de ses impenses.
+S’il est de mauvaise foi, il doit restituer tous les fruits produits par l’héritage ; s’il est de bonne foi, il fait siens les fruits jusqu’au jour de la demande.

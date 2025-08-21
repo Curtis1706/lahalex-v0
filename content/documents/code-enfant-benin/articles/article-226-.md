@@ -1,0 +1,2 @@
+Article 226 : Réquisition de l’inspecteur du travaiLes maîtres artisans, les patrons ou patronnes d’atelier , les chefs de chantier ou d’entreprise sont tenus de justifier à toute réquisition de l’inspecteur du travail, du contrat d’apprentissage signé avec les parents des enfants apprentis dont les noms figurent sur la liste de l’inspecteur du travail, aux fins de contrôle des dates de naissance des enfants apprentis, en formation dans leur structure.
+SECTION V : DES JEUNES TRAVAILLEURS

@@ -1,0 +1,3 @@
+Nouveau (Loi n°201010)
+Les dossiers en instance de liquidation à la date de promulgation de la présente loi sont liquidés conformément à ses dispositions, si elles sont plus favorables à l’assuré.
+La reprise et la révision des dossiers de pension en application des dispositions de l’article 95 nouveau de la loi n°200702 du 26 mars 2007 prennent effet pour compter de la date de jouissance effective des droits de chaque pensionné concerné.

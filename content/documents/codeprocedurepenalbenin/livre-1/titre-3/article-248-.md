@@ -1,0 +1,1 @@
+Les décisions prises par la chambre de l’instruction contre les officiers et agents supérieurs de police judiciaire sont notifiées, à la diligence du procureur général, aux autorités dont ils dépendent et qui doivent en tenir compte pour leur avancement ou promotion.

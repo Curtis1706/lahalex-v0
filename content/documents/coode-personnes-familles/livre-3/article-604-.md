@@ -1,0 +1,1 @@
+Les successions sont dévolues aux enfants et descendants du défunt, à ses ascendants, à ses parents collatéraux et à son conjoint survivant selon la ligne et le degré des héritiers dans l’ordre et suivant les règles ci-après fixées.

@@ -1,0 +1,15 @@
+{
+  "id": "article-96-",
+  "title": "Article 96 : Promotion des services innovants à des prix abordables",
+  "numero": "96 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-95-",
+    "next": "article-97-"
+  }
+}

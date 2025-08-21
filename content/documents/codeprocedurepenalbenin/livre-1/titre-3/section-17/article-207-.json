@@ -1,0 +1,16 @@
+{
+  "id": "article-207-",
+  "title": "Article 207 :",
+  "numero": "207 ",
+  "document": "codeprocedurepenalbenin",
+  "path": [
+    "livre-1",
+    "titre-3",
+    "section-17"
+  ],
+  "navigation": {
+    "parent": "section-17",
+    "previous": "article-206-",
+    "next": "article-208-"
+  }
+}

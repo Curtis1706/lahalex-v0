@@ -1,0 +1,1 @@
+Les certificats de navigabilité, les brevets d'aptitude et les licences délivrés ou rendus exécutoires par l’Etat dont l'aéronef possède la nationalité, sont reconnus valables pour la circulation au-dessus du territoire national si l'équivalence a été admise par la Convention relative à l'aviation civile internationale.

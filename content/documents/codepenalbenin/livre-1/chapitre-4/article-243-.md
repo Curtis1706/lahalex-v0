@@ -1,0 +1,1 @@
+Lorsque par attroupement, voies de fait ou menaces, on a empêché un ou plusieurs citoyens d’exercer leurs droits civiques, chacun des coupables est puni d’un emprisonnement de six (06) mois au moins et de deux (02) ans au plus, et de l’interdiction du droit de vote, d’élection et d’éligibilité pendant cinq (05) ans au moins et dix (10) ans au plus.

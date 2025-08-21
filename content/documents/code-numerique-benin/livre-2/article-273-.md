@@ -1,0 +1,2 @@
+Exigences d’envoi en plusieurs exemplaires.
+L’exigence d'envoi d'un écrit électronique en plusieurs exemplaires est réputée satisfaite dès lors que l’écrit peut être reproduit avec exactitude et dans son intégralité par le destinataire, sous sa forme non-électronique dans son intégralité et avec exactitude.

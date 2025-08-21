@@ -1,0 +1,2 @@
+Les peines prévues à l’article 556 du présent code sont prononcées, alors même que les divers actes qui sont les éléments constitutifs des infractions auraient été accomplis dans des Etats différents.
+La tentative des délits prévus aux articles 556 et 558 du présent code est punie des peines prévues pour ces délits.

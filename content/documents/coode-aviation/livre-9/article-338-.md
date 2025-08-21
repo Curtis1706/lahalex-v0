@@ -1,0 +1,1 @@
+Est puni des peines prévues au deuxième alinéa de l'article 336 de la présente loi, quiconque, par violence ou menace de violence, s'empare d'un aéronef ou en exerce le contrôle. Le complice d'une personne qui commet ou tente de commettre un tel acte est passible des mêmes peines.

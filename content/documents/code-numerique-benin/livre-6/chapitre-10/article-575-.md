@@ -1,0 +1,3 @@
+Atteinte au secret des correspondances commises sur internet
+Le fait, commis de mauvaise foi, d'ouvrir, de supprimer, de retarder ou de détourner des correspondances émises, transmises ou reçues par la voie électronique arrivées ou non à destination et adressées à des tiers, ou d'en prendre frauduleusement connaissance, est puni des mêmes peines que celles prévues dans les dispositions du code pénal relatives au secret des correspondances.
+Est puni des mêmes peines, le fait de procéder à l'installation d'appareils de nature à permettre la réalisation de telles interceptions.

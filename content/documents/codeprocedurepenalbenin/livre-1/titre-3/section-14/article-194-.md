@@ -1,0 +1,2 @@
+Les ordonnances aux fins de règlement ci-dessus spécifiées aux articles 191, 192et193 du présent code, doivent être prises dans le délai d’un (01) mois à compter de la réception des réquisitions du procureur de la République.
+Elles doivent être portées à la connaissance des parties dans un délai de soixante-douze (72) heures, sous peine d’une amende de cinq mille (5000) francs par jour de retard prononcée par le président de la chambre de l’instruction.

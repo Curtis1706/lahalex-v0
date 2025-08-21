@@ -1,0 +1,2 @@
+Les demandes de concession pour la diffusion des programmes de radiodiffusion sonore et de télévision sont adressées à la Haute Autorité de l’Audiovisuel et de la Communication.
+Elles précisent le type d’entreprise audiovisuelle envisagée conformément aux dispositions de la présente loi.

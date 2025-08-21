@@ -1,0 +1,2 @@
+Les agents de l'hygiène font des inspections intra-domiciliaires conformément à la réglementation en vigueur et prodiguent des conseils pour promouvoir l'hygiène et la salubrité dans les habitations.
+Ils font appliquer les normes d’hygiène et d'assainissement en vigueur, au niveau des habitations.

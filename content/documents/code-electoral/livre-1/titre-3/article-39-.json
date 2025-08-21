@@ -1,0 +1,15 @@
+{
+  "id": "article-39-",
+  "title": "Article 39 : Nul ne peut être candidat aux élections indiquées à l'article précédent, s'il n'est électeur.",
+  "numero": "39 ",
+  "document": "code-electoral",
+  "path": [
+    "livre-1",
+    "titre-3"
+  ],
+  "navigation": {
+    "parent": "titre-3",
+    "previous": "article-38-",
+    "next": "article-40-ancien-"
+  }
+}

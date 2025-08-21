@@ -1,0 +1,1 @@
+L’affréteur peut résilier le contrat avant tout commandement de chargement. 2 doit en pareil cas, une indemnité correspondant au préjudice subi par le fréteur et au plus égal au montant du fret.

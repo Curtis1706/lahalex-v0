@@ -1,0 +1,14 @@
+{
+  "id": "article-501-",
+  "title": "Article 501 :",
+  "numero": "501 ",
+  "document": "codeprocedurepenalbenin",
+  "path": [
+    "livre-2"
+  ],
+  "navigation": {
+    "parent": "livre-2",
+    "previous": "article-500-",
+    "next": "article-502-"
+  }
+}

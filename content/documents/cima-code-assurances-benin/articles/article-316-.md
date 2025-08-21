@@ -1,0 +1,2 @@
+Article 316 : Décisions exécutoires
+Les décisions de la Commission de Contrôle sont notifiées aux entreprises intéressées et au Ministre en charge du secteur des assurances dans l’État membre concerné. Les décisions sont exécutoires dès leur notification.

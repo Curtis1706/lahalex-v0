@@ -1,0 +1,1 @@
+Le directeur général du Bureau enquêtes-accidents ou toute personne désignée par lui, ne reçoit ni ne recherche, d'aucune autorité ni d’aucun organisme, quel qu'il soit, des instructions relatives à la conduite des enquêtes.

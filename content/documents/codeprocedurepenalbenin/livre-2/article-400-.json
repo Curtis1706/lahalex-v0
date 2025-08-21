@@ -1,0 +1,14 @@
+{
+  "id": "article-400-",
+  "title": "Article 400 :",
+  "numero": "400 ",
+  "document": "codeprocedurepenalbenin",
+  "path": [
+    "livre-2"
+  ],
+  "navigation": {
+    "parent": "livre-2",
+    "previous": "article-399-",
+    "next": "article-401-"
+  }
+}

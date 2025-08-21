@@ -1,0 +1,1 @@
+En cas de vacance du poste de chef d’arrondissement pour cause de décès, de démission, de révocation, d’empêchement définitif ou pour toute autre cause, il est pourvu à son remplacement dans les conditions prévues par le code électoral.

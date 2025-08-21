@@ -1,0 +1,2 @@
+Dirigeant d’entreprise - Notion
+Pour l’application des pénalités énumérées au présent chapitre, sont considérés comme dirigeants d’entreprise le président directeur général, le président, les administrateurs, les Directeurs Généraux Adjoints, les directeurs, les membres du Conseil de Surveillance et du directoire, les gérants et tout dirigeant de fait d’une entreprise d’un État membre, et, dans le cas d’une entreprise étrangère, le mandataire général.

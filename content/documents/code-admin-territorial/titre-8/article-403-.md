@@ -1,0 +1,2 @@
+Les ressources propres des communes et des établissements publics de coopération intercommunale sont celles indiquées aux articles 404 à 409 de la présente loi.
+Les critères de détermination du montant et de répartition des ristournes entre les communes et les établissements publics de coopération intercommunale sont précisés par les lois et règlements.

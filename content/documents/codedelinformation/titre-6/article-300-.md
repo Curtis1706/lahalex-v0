@@ -1,0 +1,1 @@
+Toute infraction aux dispositions de l’article 249 de la présente loi sera punie d’une amende de deux cent cinquante mille francs (250 000) à deux millions cinq cent mille (2 500 000) francs CFA, sans préjudice de la dissolution de la société qui peut être prononcée à la requête du ministère public.

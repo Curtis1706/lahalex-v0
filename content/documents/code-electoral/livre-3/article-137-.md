@@ -1,0 +1,1 @@
+Si plusieurs candidats concurrents adoptent les couleurs, les signes et/ou les sigles de nature à créer la confusion ou le doute dans l'esprit de l'électeur, la Commission électorale nationale autonome (CENA) se prononce dans un délai de deux (02) jours en accordant la priorité au candidat qui, notoirement en fait usage ou, à défaut, à celui qui a déposé le 1 sa candidature.

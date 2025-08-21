@@ -1,0 +1,4 @@
+Si le juge d'instruction estime que les faits constituent une infraction qualifiée crime par la loi, il prononce la mise en accusation devant le tribunal de première instance statuant en matière criminelle.
+Le mandat d'arrêt ou de dépôt décerné contre l'inculpé conserve sa force exécutoire même s'il est autrement statué par la chambre de l'instruction. Le contrôle judiciaire aussi continue à produire ses effets. Les pièces à conviction restent au greffe du tribunal sauf décision contraire.
+Si l’accusé n’était pas détenu ou s’il avait été mis en liberté provisoire, le juge d’instruction décerne contre lui une ordonnance de prise de corps.
+L'ordonnance de mise en accusation est notifiée à l'accusé détenu et signifiée à l’accusé non détenu.

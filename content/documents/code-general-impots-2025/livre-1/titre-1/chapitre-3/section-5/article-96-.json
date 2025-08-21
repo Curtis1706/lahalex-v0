@@ -1,0 +1,17 @@
+{
+  "id": "article-96-",
+  "title": "Article 96 :",
+  "numero": "96 ",
+  "document": "code-general-impots-2025",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-3",
+    "section-5"
+  ],
+  "navigation": {
+    "parent": "section-5",
+    "previous": "article-95-",
+    "next": "article-97-"
+  }
+}

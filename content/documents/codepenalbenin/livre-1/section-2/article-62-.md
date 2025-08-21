@@ -1,0 +1,3 @@
+Pour toutes les contraventions punies d’emprisonnement, la peine d’amende peut être remplacée par une ou plusieurs peines privatives ou restrictives de droits suivants :
+1. l’interdiction, pour une durée d’un (1) an au plus, d’émettre des chèques autres que ceux qui permettent, le retrait de fonds par le tireur auprès du tiré ou ceux qui sont certifiés ou d’utiliser les cartes de paiement.
+2. la confiscation de la chose qui a servi ou était destinée à commettre l’infraction ou de la chose qui en est le produit.

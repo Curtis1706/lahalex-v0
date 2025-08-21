@@ -1,0 +1,1 @@
+Le bénéfice de l’article 572 du présent code ne peut être invoqué par les entreprises créancières de l’État dont les déclarations souscrites au titre de l’année au cours de laquelle est née leur créance la plus ancienne et des années suivantes restent vérifiables tant que ladite créance demeure exigible.

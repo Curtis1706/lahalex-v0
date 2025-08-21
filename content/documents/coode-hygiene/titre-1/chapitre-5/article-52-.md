@@ -1,0 +1,1 @@
+La non déclaration à l'autorité sanitaire de tout cas de l'une des maladies visées à l'article 51 ci-dessus, constitue une infraction punie conformément aux dispositions en vigueur.

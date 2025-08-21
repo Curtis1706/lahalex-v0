@@ -1,0 +1,2 @@
+Quiconque aura introduit, détenu, multiplié, transporté dans le territoire de la République du Bénin ,des organismes nuisibles aux végétaux et produits végétaux préjudiciables à l’environnement, à la santé publique ou à l’économie nationale, en infraction à la réglementation en vigueur, sera puni d’une amende de cinquante mille (50.000) francs CFA à cinq cent mille (500.000) francs CFA et d’un emprisonnement de un (01) mois à trois (03) mois, ou de l’une de ces deux peines seulement.
+En cas de récidive, ces peines seront portées au double des maxima fixés ci-dessus.

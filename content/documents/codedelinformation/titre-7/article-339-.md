@@ -1,0 +1,1 @@
+La Haute Autorité de l’Audiovisuel et de la Communication définit, conformément aux textes qui la régissent, les modalités d’accès aux médias du service public et du secteur privé pendant les périodes de précampagne et de campagne électorales.

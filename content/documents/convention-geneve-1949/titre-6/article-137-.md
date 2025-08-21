@@ -1,0 +1,2 @@
+La présente Convention sera ratifiée aussitôt que possible et les ratifications Ratification seront déposées à Berne.
+Il sera dressé du dépôt de chaque instrument de ratification un procès-ver- bal dont une copie, certifiée conforme, sera remise par le Conseil fédéral suisse à toutes les Puissances au nom desquelles la Convention aura été si- gnée ou l’adhésion notifiée.

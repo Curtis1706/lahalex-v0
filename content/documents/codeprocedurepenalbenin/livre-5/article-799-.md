@@ -1,0 +1,1 @@
+Toutes communications et toutes facilités compatibles avec les exigences de la discipline et de la sécurité de la prison sont accordées aux inculpés, prévenus et accusés pour l’exercice de leur défense.

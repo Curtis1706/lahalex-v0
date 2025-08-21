@@ -1,0 +1,1 @@
+Lorsqu’une enquête maritime a été effectuée par des autorités étrangères à la suite de la survenance de l’un des événements mentionnés à l’article 190 du présent code, le propriétaire du navire ou le capitaine est tenu, sur demande de l’autorité maritime de la République du Bénin, de lui faire parvenir une copie du rapport établi par les autorités étrangères.

@@ -1,0 +1,15 @@
+{
+  "id": "article-21-",
+  "title": "Article 21 : La tentative est constituée dès lors que, manifestée par un commencement d’exécution, elle n’a été suspendue ou n’a manqué son effet qu’en raison de circonstances indépendantes de la volonté de son auteur.",
+  "numero": "21 ",
+  "document": "codepenalbenin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-20-",
+    "next": "article-22-"
+  }
+}

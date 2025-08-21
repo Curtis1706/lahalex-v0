@@ -1,0 +1,14 @@
+{
+  "id": "article-555-",
+  "title": "Article 555 :",
+  "numero": "555 ",
+  "document": "code-general-impots-2025",
+  "path": [
+    "livre-5"
+  ],
+  "navigation": {
+    "parent": "livre-5",
+    "previous": "article-554-",
+    "next": "article-556-"
+  }
+}

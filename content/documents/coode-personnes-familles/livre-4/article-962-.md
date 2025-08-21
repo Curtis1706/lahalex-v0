@@ -1,0 +1,1 @@
+Les règles internes de compétence déterminent, sauf dispositions contraires, la compétence internationale des juridictions et des autorités administratives béninoises.

@@ -1,0 +1,3 @@
+S’il en est expressément chargé, le consignataire de la cargaison doit à la marchandise les soins d’un dépositaire salarié.
+A défaut d’un tel mandat et en l’absence du destinataire ou d’un requérant qualifié lors de la livraison de la marchandise, le consignataire est tenu d’entreposer la marchandise en magasin.
+S’il est impossible de faire admettre la marchandise en magasin ou de lui assurer une protection équivalente contre les intempéries et le vol, le consignataire se trouve déchargé de la garde de la marchandise si le destinataire n’en a pas pris livraison à l’expiration d’un délai de quarante-huit (48) heures courant du lendemain de l’expédition d’un avis indiquant l’arrivée de la cargaison.

@@ -1,0 +1,1 @@
+Le tuteur qui n’exerce pas les prérogatives de l’autorité parentale remettra, à celui qui assure la charge du gouvernement de la personne de l’enfant, la part des revenus affectés à l'entretien et à l’éducation du pupille.

@@ -1,0 +1,1 @@
+Le rapport des enquêteurs techniques est établi en autant d'exemplaires que nécessaire, pour transmission au conseil de discipline des membres d'équipage de l’aéronautique civile et aux enquêteurs judiciaires.

@@ -1,0 +1,1 @@
+Le fréteur est responsable des dommages subis par les marchandises s’il est établi qu’ils sont dus à la non-exécution des obligations précisées à l’article 322 ci-dessus ou à un manquement dans la gestion nautique du navire.

@@ -1,0 +1,2 @@
+Appels d’urgence
+L’Autorité de régulation veille à ce qu’il soit possible de procéder gratuitement à des appels d’urgence à partir de tout poste fixe ou mobile y compris les points d’accès de services payants de communications électroniques.

@@ -1,0 +1,3 @@
+Article 22 : Tout déclassement doit être obligatoirement suivi d'un
+classement compensatoire de terrain de superficie, d'un seul tenant au
+moins égal à celle déclassée.

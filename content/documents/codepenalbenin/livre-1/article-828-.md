@@ -1,0 +1,1 @@
+Les peines seront celles prévues à l’article 827 du présent code à raison de chaque arbre mutilé, coupé ou écorcé de manière à le faire périr.

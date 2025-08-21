@@ -1,0 +1,2 @@
+Tout pétrolier d’une jauge brute égale ou supérieure à cent cinquante (150) ainsi que tout autre navire d’une jauge brute égale ou supérieure à quatre cents (400) sont soumis, de la part de l’autorité maritime à des visites à l’issue desquelles est délivré un certificat de prévention de la pollution par les hydrocarbures.
+Les conditions de délivrance et la durée de validité des certificats sont fixées par les dispositions réglementaires.

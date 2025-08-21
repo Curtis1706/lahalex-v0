@@ -1,0 +1,1 @@
+Les actions nées du contrat d’assurance se prescrivent par deux (02) ans.

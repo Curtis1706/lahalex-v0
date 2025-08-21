@@ -1,0 +1,2 @@
+Application des dispositions de lois relatives à la presse écrite et/ou au secteur audiovisuel et au code pénal
+Les dispositions du présent Livre ne font pas obstacle à l’application des dispositions des lois relatives à la presse écrite ou au secteur de l’audiovisuel et du code pénal qui prévoient les conditions d’exercice du droit de réponse et qui préviennent, limitent, réparent et, le cas échéant, répriment les atteintes à la vie privée et à la réputation des personnes physiques.

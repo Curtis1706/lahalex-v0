@@ -1,0 +1,2 @@
+Les jugements et arrêts rendus en matière de nationalité béninoise par le juge civil de droit commun ont effet même à l'égard de ceux qui n'y ont été ni parties, ni représentés.
+Tout intéressé est recevable cependant à les attaquer par la tierce opposition à condition de mettre en cause le procureur de la République.

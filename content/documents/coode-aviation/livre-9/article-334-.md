@@ -1,0 +1,1 @@
+Le procès-verbal établi pour contravention aux dispositions sur la protection de l'exploitation est transmis, sans délai, à l’autorité compétente pour engager les poursuites.

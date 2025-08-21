@@ -1,0 +1,2 @@
+Siège de l’ABSU-CEP
+Le siège de l’ABSU-CEP est fixé à Cotonou. Toutefois il peut être transféré en tout autre lieu du territoire national si les circonstances l’exigent, par décret pris en Conseil des Ministres sur proposition du Ministre chargé des communications électroniques et de la poste après avis du Conseil National d’Orientation.

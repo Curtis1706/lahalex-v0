@@ -1,0 +1,1 @@
+Les dépenses supplémentaires exposées pour la mise en œuvre d’une mesure d'assistance éducative incombent aux titulaires de l’autorité parentale au même titre que les frais normaux d'éducation et d’entretien de l'enfant.

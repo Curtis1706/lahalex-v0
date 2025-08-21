@@ -1,0 +1,4 @@
+En sus des peines principales prévues, il est prononcé les peines complémentaires suivantes :
+- la suspension du journal ou de l’écrit périodique par la même décision de justice pour une durée qui ne saurait excéder trois (03) mois ;
+- la suspension de la radio sonore ou de la télévision incriminée pendant une durée ne pouvant excéder quinze (15) jours, soit une amende de deux cent mille (200 000) francs à deux (2 000 000) millions de francs avec diffusion pendant quinze (15) jours du jugement ou de l’arrêt de condamnation à une heure de grande écoute ;
+- la fermeture du site web incriminé pendant une durée ne pouvant excéder quinze (15) jours avec diffusion pendant la même durée du jugement ou de l’arrêt de condamnation sur ledit site.

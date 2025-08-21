@@ -1,0 +1,2 @@
+Si les faits retenus à la charge des inculpés constituent une infraction qualifiée crime par la loi, la chambre de l'instruction prononce la mise en accusation devant le tribunal de première instance statuant en matière criminelle.
+Elle peut saisir également cette juridiction des infractions connexes.

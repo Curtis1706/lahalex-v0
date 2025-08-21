@@ -1,0 +1,6 @@
+Est coupable de banqueroute simple, toute personne physique en état de cessation de paiement qui se trouve dans un des cas suivants :
+1. si elle a contracté sans recevoir des valeurs en échange, des engagements jugés trop importants eu égard à sa situation lorsqu’elle les a contractés ;
+2. si dans l’intention de retarder la constatation de la cessation de paiement, elle a fait des achats en vue d’une revente au-dessous du cours ou si, dans la même intention, elle a employé des moyens ruineux pour se procurer des fonds ;
+3. si, sans excuse légitime, elle ne fait pas au greffe de la juridiction compétente la déclaration de son état de cessation de paiement dans le délai de trente (30) jours ;
+4. si sa comptabilité est incomplète ou irrégulièrement tenue ou si elle n’a tenu aucune comptabilité conforme aux règles comptables et aux usages reconnus de la profession eu égard à l’importance de l’entreprise ;
+5. si ayant été déclarée trois (03) fois en état de cessation de paiements dans un délai de cinq (05) ans, ces procédures ont été clôturées pour insuffisances d’actif.

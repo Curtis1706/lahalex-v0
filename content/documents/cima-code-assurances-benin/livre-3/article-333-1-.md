@@ -1,0 +1,3 @@
+Sanctions
+Sont passibles d’un emprisonnement de huit à quinze jours et d’une amende de 18.000 à 360.000 FCFA ou de l’une de ces deux peines seulement les dirigeants d’entreprise qui méconnaissent les obligations ou interdictions résultant des articles 310 alinéa 3, 303, 304, 306, 329-2, 329-5, 330-35 alinéa 1, 334-1, 335, 401, 404.
+En cas de récidive, la peine d’emprisonnement pourra être portée à un mois et celle d’amende de 360.000 à 720.000 FCFA.

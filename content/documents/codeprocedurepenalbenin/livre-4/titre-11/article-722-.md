@@ -1,0 +1,1 @@
+Les frais de transport des délégués à l’éducation surveillée sont payés comme frais de justice.

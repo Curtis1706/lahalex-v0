@@ -1,0 +1,2 @@
+Le consignataire du navire est responsable envers l’armateur dans les termes de son mandat.
+Envers les ayants droit aux marchandises débarquées, il ne répond que de ses fautes personnelles et de celles de ses propres préposés. 2 n’est pas responsable personnellement de la bonne exécution du contrat de transport maritime, même s’il est chargé du recouvrement du fret. En conséquence, il ne peut répondre sur ses biens personnels des condamnations pécuniaires du transporteur ou de l’armateur.

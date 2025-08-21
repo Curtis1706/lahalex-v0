@@ -1,0 +1,1 @@
+Les redevances d’affichage visées à l’article 201 sont des redevances locales dont le recouvrement est assuré par les services compétents de la circonscription administrative pour le compte du budget de la collectivité locale.

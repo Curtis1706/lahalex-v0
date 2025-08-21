@@ -1,0 +1,1 @@
+Le jury est composé de citoyens désignés conformément aux dispositions des articles264 à 266 du présent code.

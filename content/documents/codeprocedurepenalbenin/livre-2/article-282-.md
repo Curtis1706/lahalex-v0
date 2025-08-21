@@ -1,0 +1,2 @@
+L’avocat ne peut être choisi ou désigné que parmi les avocats inscrits à un barreau.
+Si l’avocat désigné d’office ne réside pas dans la ville où siège la cour d’assises, les frais assumés par lui pour la défense de l’accusé lui sont, s’il le requiert, et sur justifications, remboursés au titre des frais de justice en matière criminelle.

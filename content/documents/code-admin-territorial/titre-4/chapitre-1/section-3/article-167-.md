@@ -1,0 +1,1 @@
+Si le conseil d’arrondissement ne se réunit pas ou clôture ses travaux avant d’avoir pris une décision sur des questions qui lui sont obligatoirement soumises, le maire statue sur ces questions, après avis du conseil communal.

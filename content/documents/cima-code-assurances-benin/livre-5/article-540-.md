@@ -1,0 +1,2 @@
+Mentions obligatoires
+Tout document à usage professionnel émanant d’un courtier doit comporter la mention : « garantie financière et assurance de responsabilité civile professionnelle conformes aux articles 524 et 538 du Code des assurances ».

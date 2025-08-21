@@ -1,0 +1,16 @@
+{
+  "id": "article-10-",
+  "title": "Article 10 : La loi pénale est applicable aux infractions commises sur le territoire de la République du Bénin.",
+  "numero": "10 ",
+  "document": "codepenalbenin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-3"
+  ],
+  "navigation": {
+    "parent": "chapitre-3",
+    "previous": "article-9-",
+    "next": "article-11-"
+  }
+}

@@ -1,0 +1,1 @@
+L’article 38 du présent code est applicable aux faits prévus par les articles 755 et 756 du présent code.

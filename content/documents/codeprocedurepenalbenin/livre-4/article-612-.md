@@ -1,0 +1,1 @@
+Si, par l’effet d’un événement quelconque, un jugement ou un arrêt rendu n’a pu être signé, les autres membres de la juridiction qui ont concouru à la décision doivent attester, en signant, que ledit jugement ou arrêt a été rendu avec celui qui n’a pu signer.

@@ -1,0 +1,4 @@
+Lésés à la charge effective de la victime
+Le préjudice subi par les personnes physiques qui établissent être en communauté de vie avec la victime directe de l’accident peut ouvrir droit à réparation dans les limites ci-après :
+en cas de blessures graves réduisant totalement la capacité de la victime directe, seul(s) le(les) conjoint(s) sont admis à obtenir réparation du préjudice moral subi, et ce dans la limite de deux SMIG annuels, pour l’ensemble des bénéficiaires ;
+en cas de décès de la victime directe, la personne lésée par ricochet est assimilée, selon son âge, à un enfant majeur ou mineur. A ce titre, elle entre parmi les bénéficiaires énumérés aux articles 265 et 266 du présent Code. La réparation à laquelle elle peut prétendre entre dans la limite des plafonds fixés par ces textes.

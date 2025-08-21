@@ -1,0 +1,1 @@
+La contribution du timbre est établie sur tous les papiers destinés aux actes civils et judiciaires et aux écritures qui peuvent être produites en justice et y faire foi, ainsi qu’aux actes limitativement énumérés par la loi.

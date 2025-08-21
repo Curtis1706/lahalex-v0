@@ -1,0 +1,2 @@
+Les présentes dispositions ne font pas obstacle au droit des collectivités décentralisées de prescrire, par règlement, toute mesure de protection particulière propre à préserver la santé des populations, non prévue dans la présente loi, en vue d'assurer l'hygiène publique et ce, conformément à leurs compétences.
+Toutefois, elles requièrent l'avis de l'autorité de tutelle avant la publication et la mise en application dudit règlement.

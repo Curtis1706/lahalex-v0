@@ -1,0 +1,1 @@
+L'action est portée devant la juridiction du domicile ou, à défaut, de la résidence de celui dont la nationalité est en cause ou, s'il n'a en République du Bénin ni domicile ni résidence, devant le tribunal de première instance de Cotonou.

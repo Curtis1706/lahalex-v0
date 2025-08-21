@@ -1,0 +1,2 @@
+Les créanciers et légataires, qui ne se présentent qu’après les paiements régulièrement effectués en application des dispositions des deux articles précédents, n’ont d’action que sur le reliquat de la succession.
+Les créanciers ont néanmoins un recours contre les légataires payés à leur détriment. Ce recours se prescrit par trois (3) ans.

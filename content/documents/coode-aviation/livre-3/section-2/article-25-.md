@@ -1,0 +1,3 @@
+Au cas où l'une des conditions prévues aux articles 14, 15 et 17 de la présente loi ne se trouve plus remplie, le propriétaire de l'aéronef fait la déclaration à l'organisme national en charge de l'aviation civile. Celui-ci procède à la radiation de l'aéronef du registre d'immatriculation.
+A défaut de déclaration du propriétaire, la radiation du registre d’immatriculation est prononcée par l'organisme national en charge de l'aviation civile, s'il est établi que la condition indiquée au 1<sup>er</sup> alinéa du présent article est remplie.
+La radiation de l'immatriculation entraîne d'office la perte de la nationalité.

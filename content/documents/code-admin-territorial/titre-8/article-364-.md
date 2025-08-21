@@ -1,0 +1,1 @@
+Le principe de l’équilibre budgétaire vise l'égalité comptable des recettes et des dépenses, l'ensemble des dépenses ne devant pas être supérieur à l’ensemble des recettes.

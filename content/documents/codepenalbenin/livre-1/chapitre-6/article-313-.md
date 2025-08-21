@@ -1,0 +1,1 @@
+Les logeurs, aubergistes et hôteliers qui sciemment ont inscrit sur leurs registres sous des noms faux ou supposés, les personnes logées chez eux ou qui, de connivence avec elles, ont omis de les inscrire sont punis d’un emprisonnement de un (01) mois à six (06) mois et d’une amende de cinquante mille (50.000) à cinq cent mille (500.000) francs CFA.

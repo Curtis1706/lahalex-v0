@@ -1,0 +1,4 @@
+La détention provisoire ne peut être ordonnée ou prolongée que si elle constitue l’unique moyen de :
+1. conserver les preuves ou les indices matériels ou d’empêcher, soit une pression ou une subornation de témoins ou de victimes, soit une concertation frauduleuse entre le ou les inculpés ou leurs complices ;
+2. protéger l’inculpé, de garantir son maintien à la disposition de la justice, de mettre fin à l’infraction ou de prévenir son renouvellement ;
+3. mettre fin à un trouble exceptionnel et persistant à l’ordre public provoqué par la gravité de l’infraction, les circonstances de sa commission ou l’importance du préjudice qu’elle a causé.

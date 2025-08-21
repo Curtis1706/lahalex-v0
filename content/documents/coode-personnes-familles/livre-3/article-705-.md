@@ -1,0 +1,1 @@
+S’il s’élève un conflit relatif à la consistance des biens ou à leur évaluation, toute personne intéressée peut saisir le tribunal aux fins de règlement du litige.

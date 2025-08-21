@@ -1,0 +1,2 @@
+1) Les personnes qui versent des revenus imposables doivent retenir l’impôt à la source.
+2) Pour les contribuables autres que ceux soumis en République du Bénin à l’impôt sur les sociétés ou à l’impôt sur les bénéfices d’affaires, la retenue est libératoire de tout autre impôt ou taxe sur les mêmes revenus.

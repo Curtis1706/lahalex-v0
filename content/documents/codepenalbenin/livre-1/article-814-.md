@@ -1,0 +1,3 @@
+Quiconque a volontairement mis le feu à des édifices, des navires, des aéronefs, des bateaux, des magasins, des chantiers, lorsqu’ils ne sont ni habités, ni servant à l’habitation ou à des forêts, bois, taillis ou récoltes sur pied, lorsque ces objets ne lui appartiennent pas, est puni de la réclusion criminelle à perpétuité.
+Celui qui, en mettant ou en faisant mettre le feu à l’un des objets énumérés dans le présent article et à lui-même appartenant, aura volontairement causé un préjudice à autrui, sera puni de la réclusion criminelle à temps de dix (10) ans à vingt (20) ans.
+Est puni de la même peine celui qui a mis le feu sur ordre du propriétaire.

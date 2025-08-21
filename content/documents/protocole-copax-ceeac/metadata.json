@@ -1,0 +1,420 @@
+{
+  "id": "protocole-copax-ceeac",
+  "title": "Protocole relatif au Conseil de Paix et de Sécurité de l’Afrique Centrale (COPAX)",
+  "type": "ceeac",
+  "description": "Protocole adopté par les États membres de la Communauté Économique des États de l’Afrique Centrale (CEEAC) en application du Traité révisé, définissant les objectifs, l’organisation, les pouvoirs et les procédures du Conseil de Paix et de Sécurité de l’Afrique Centrale (COPAX). Le protocole précise le rôle de la CEEAC dans la prévention, la gestion et le règlement des conflits dans la région, ainsi que dans la promotion de la paix, de la sécurité, de la démocratie et de la bonne gouvernance.",
+  "structure": {
+    "sections": [
+      {
+        "id": "chapitre-1",
+        "title": "CHAPITRE 1 : DISPOSITIONS GENERALES",
+        "type": "chapitre",
+        "level": 3,
+        "order": 0,
+        "path": [
+          "chapitre-1"
+        ],
+        "children": [
+          "article-1-",
+          "article-2-",
+          "article-3-",
+          "article-4-",
+          "article-5-"
+        ]
+      },
+      {
+        "id": "article-1-",
+        "title": "Article 1 : EXPRESSIONS EMPLOYEES",
+        "type": "article",
+        "level": 2,
+        "order": 1,
+        "path": [
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-2-",
+        "title": "Article 2 : CREATION",
+        "type": "article",
+        "level": 2,
+        "order": 2,
+        "path": [
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-3-",
+        "title": "Article 3 : PRINCIPES ET ENGAGEMENTS DES ETATS MEMBRES",
+        "type": "article",
+        "level": 2,
+        "order": 3,
+        "path": [
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-4-",
+        "title": "Article 4 : OBJECTIFS",
+        "type": "article",
+        "level": 2,
+        "order": 4,
+        "path": [
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-5-",
+        "title": "Article 5 : POLITIQUES COMMUNAUTAIRES",
+        "type": "article",
+        "level": 2,
+        "order": 5,
+        "path": [
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-2",
+        "title": "CHAPITRE 2 : INSTANCES DU COPAX",
+        "type": "chapitre",
+        "level": 3,
+        "order": 6,
+        "path": [
+          "chapitre-2"
+        ],
+        "children": [
+          "article-6-",
+          "article-7-",
+          "article-8-",
+          "article-9-",
+          "article-10-",
+          "article-12-"
+        ]
+      },
+      {
+        "id": "article-6-",
+        "title": "ARTICLE 6 : COMPOSITION",
+        "type": "article",
+        "level": 2,
+        "order": 7,
+        "path": [
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-7-",
+        "title": "Article 7 : ATTRIBUTIONS DE LA CONFERENCE",
+        "type": "article",
+        "level": 2,
+        "order": 8,
+        "path": [
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-8-",
+        "title": "Article 8 : REUNIONS DE LA CONFERENCE",
+        "type": "article",
+        "level": 2,
+        "order": 9,
+        "path": [
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-9-",
+        "title": "Article 9 : COMPOSITION ET ATTRIBUTIONS DU CTSDSS",
+        "type": "article",
+        "level": 2,
+        "order": 10,
+        "path": [
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-10-",
+        "title": "Article 10 : REUNIONS DU CTSDSS",
+        "type": "article",
+        "level": 2,
+        "order": 11,
+        "path": [
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-12-",
+        "title": "Article 12 : REUNIONS DU COREP",
+        "type": "article",
+        "level": 2,
+        "order": 12,
+        "path": [
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-3",
+        "title": "CHAPITRE 3 : LA COMMISSION",
+        "type": "chapitre",
+        "level": 3,
+        "order": 13,
+        "path": [
+          "chapitre-3"
+        ],
+        "children": [
+          "article-13-",
+          "article-14-",
+          "article-15-"
+        ]
+      },
+      {
+        "id": "article-13-",
+        "title": "ARTICLE 13 : ROLE DE LA COMMISSION",
+        "type": "article",
+        "level": 2,
+        "order": 14,
+        "path": [
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-14-",
+        "title": "Article 14 : LE PRESIDENT DE LA COMMISSION",
+        "type": "article",
+        "level": 2,
+        "order": 15,
+        "path": [
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-15-",
+        "title": "Article 15 : LE DEPARTEMENT CHARGE DES AFFAIRES POLITIQUES, DE LA PAIX ET DE LA SECURITE",
+        "type": "article",
+        "level": 2,
+        "order": 16,
+        "path": [
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-4",
+        "title": "CHAPITRE 4 : INSTRUMENTS DE MISE EN ŒUVRE DU COPAX",
+        "type": "chapitre",
+        "level": 3,
+        "order": 17,
+        "path": [
+          "chapitre-4"
+        ],
+        "children": [
+          "article-16-",
+          "article-17-",
+          "article-18-",
+          "article-19-",
+          "article-20-",
+          "article-21-",
+          "article-22-"
+        ]
+      },
+      {
+        "id": "article-16-",
+        "title": "Article 16 : INSTRUMENTS DU COPAX",
+        "type": "article",
+        "level": 2,
+        "order": 18,
+        "path": [
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-17-",
+        "title": "Article 17 : LE COMITE DES SAGES",
+        "type": "article",
+        "level": 2,
+        "order": 19,
+        "path": [
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-18-",
+        "title": "Article 18 : LE MECANISME D’ALERTE RAPIDE DE 50’AFRIQUE CENTRALE",
+        "type": "article",
+        "level": 2,
+        "order": 20,
+        "path": [
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-19-",
+        "title": "Article 19 : LA FORCE MULTINATIONALE DE 50’AFRIQUE CENTRALE",
+        "type": "article",
+        "level": 2,
+        "order": 21,
+        "path": [
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-20-",
+        "title": "Article 20 : LA STRATEGIE DE SURETE ET DE SECURITE MARITIMES DE 50’AFRIQUE CENTRALE",
+        "type": "article",
+        "level": 2,
+        "order": 22,
+        "path": [
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-21-",
+        "title": "Article 21 : LE MECANISME REGIONAL DE COOPERATION POLICIERE ET JUDICIAIRE DE 50’AFRIQUE CENTRALE",
+        "type": "article",
+        "level": 2,
+        "order": 23,
+        "path": [
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-22-",
+        "title": "Article 22 : ORGANISMES DE FORMATION",
+        "type": "article",
+        "level": 2,
+        "order": 24,
+        "path": [
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-5",
+        "title": "CHAPITRE 5 : MANDATEMENT ET FINANCEMENT DES MISSIONS",
+        "type": "chapitre",
+        "level": 3,
+        "order": 25,
+        "path": [
+          "chapitre-5"
+        ],
+        "children": [
+          "article-23-",
+          "article-24-"
+        ]
+      },
+      {
+        "id": "article-23-",
+        "title": "ARTICLE 23 : MANDATEMENT",
+        "type": "article",
+        "level": 2,
+        "order": 26,
+        "path": [
+          "chapitre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-24-",
+        "title": "Article 24 : FINANCEMENT",
+        "type": "article",
+        "level": 2,
+        "order": 27,
+        "path": [
+          "chapitre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-6",
+        "title": "CHAPITRE 6 : DISPOSITIONS PARTICULIERES ET FINALES",
+        "type": "chapitre",
+        "level": 3,
+        "order": 28,
+        "path": [
+          "chapitre-6"
+        ],
+        "children": [
+          "article-25-",
+          "article-26-",
+          "article-27-",
+          "article-28-",
+          "article-29-"
+        ]
+      },
+      {
+        "id": "article-25-",
+        "title": "Article 25 : COOPERATION",
+        "type": "article",
+        "level": 2,
+        "order": 29,
+        "path": [
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-26-",
+        "title": "Article 26 : APPENDICES",
+        "type": "article",
+        "level": 2,
+        "order": 30,
+        "path": [
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-27-",
+        "title": "Article 27 : ENTREE EN VIGUEUR",
+        "type": "article",
+        "level": 2,
+        "order": 31,
+        "path": [
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-28-",
+        "title": "Article 28 : DEPOSITAIRE",
+        "type": "article",
+        "level": 2,
+        "order": 32,
+        "path": [
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-29-",
+        "title": "Article 29 : ABROGATION",
+        "type": "article",
+        "level": 2,
+        "order": 34,
+        "path": [
+          "chapitre-6"
+        ],
+        "children": []
+      }
+    ],
+    "totalArticles": 28
+  },
+  "source": "internationale"
+}

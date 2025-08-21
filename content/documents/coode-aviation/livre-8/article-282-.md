@@ -1,0 +1,1 @@
+Le personnel de l'aéronautique civile dont l'emploi est subordonné à la détention d’une licence justifie de son aptitude par un certificat médical d'aptitude physique et mentale délivré par un médecin ou un centre d’expertise agréé par l'organisme national en charge de l'aviation civile.

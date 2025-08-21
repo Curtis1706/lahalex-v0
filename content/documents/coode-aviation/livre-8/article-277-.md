@@ -1,0 +1,3 @@
+L'interruption de la mission décidée par le commandant de bord pour un motif de sécurité ne constitue pas un cas de rupture de contrat de travail.
+Le commandant de bord rend compte à l'exploitant, des circonstances qui l'ont amené à décider de l’interruption de la mission.
+Tous les frais résultant de cette interruption sont supportés par l’exploitant, y compris ceux cités à l'article 271 de la présente loi.

@@ -1,0 +1,1 @@
+Sans préjudice des dispositions du présent code sur l’homicide involontaire ou les blessures par imprudence, l’amende peut être portée à dix millions (10.000.000) de francs CFA et l’emprisonnement doit être appliqué si l’un quelconque des délits prévus ci-dessus a eu pour conséquence de faire courir un risque à la santé de l’homme.

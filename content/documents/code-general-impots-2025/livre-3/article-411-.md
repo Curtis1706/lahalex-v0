@@ -1,0 +1,3 @@
+1) Les timbres sont collés sur la première page de chaque feuille et oblitérés conformément aux règles générales posées par l’article 443 ci-deSOUS.
+2)  Les  timbres  des  copies  des  exploits  et  des  significations  de  toutes  décisions judiciaires sont acquittés par apposition par l’officier ministériel avant toute signification, à la marge gauche de la première page de l’original.
+Les copies des exploits, celles des significations de tous jugements, actes ou pièces doivent être correctes, lisibles et sans abréviation.

@@ -1,0 +1,2 @@
+Principe de transparence
+Le principe de transparence implique une information obligatoire et claire ainsi qu’intelligible de la part du responsable du traitement portant sur les données à caractère personnel.

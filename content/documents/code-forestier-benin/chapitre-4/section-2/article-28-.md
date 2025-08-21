@@ -1,0 +1,8 @@
+Article 28 : Les droits d'usage portant sur les fruits et les
+produits de la forêt naturelle s'exercent librement dans le domaine
+protégé. La récolte de ces produits doit être effectuée de manière à ne
+pas dé­truire les végétaux producteurs.
+En conséquence sont interdits (sauf autorisation du service forestier)
+l'abattage, l'émondage, l'ébranchage, la mutilation, l'arrachage,
+1'incinération, 1'annélation des essences protégées sans autorisation
+du service forestier.

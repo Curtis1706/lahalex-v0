@@ -1,0 +1,5 @@
+Article 234 : _(Règlement n°2014-02)_ Protection des mineurs et des incapables
+L’assureur doit soumettre aux parents vivants du mineur ou de l’incapable ou en l’absence de parents vivants, au juge des tutelles ou au conseil de famille, compétent suivant les cas pour l’autoriser, tout projet de transaction concernant un majeur sous tutelle ou un mineur.
+Il doit également donner avis sans formalité au juge des tutelles ou au conseil de famille, quinze jours au moins à l’avance, du paiement du premier arrérage d’une rente ou de toute somme devant être versée à titre d’indemnité au représentant légal de la personne protégée.
+Le paiement qui n’a pas été précédé de l’avis requis ou la transaction qui n’a pas été autorisée peut être annulé à la demande de tout intéressé ou du ministère public à l’exception de l’assureur.
+Toute clause par laquelle le représentant légal se porte fort de la ratification par le mineur ou le majeur en tutelle de l’un des actes mentionnés à l’alinéa premier du présent article est nulle.

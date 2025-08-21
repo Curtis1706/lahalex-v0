@@ -1,0 +1,4 @@
+La censure de la correspondance adressée aux prisonniers de guerre ou ex- Censure et pédiée par eux devra être faite dans le plus bref délai possible. Elle ne pourra contrôle être effectuée que par les états expéditeur et destinataire, et une seule fois
+pour chacun d’eux.
+Le contrôle des envois destinés aux prisonniers de guerre ne devra pas s’ef- fectuer dans des conditions telles qu’il compromette la conservation des denrées qu’ils contiennent et il se fera, à moins qu’il ne s’agisse d’un écrit ou d’un imprimé, en présence du destinataire ou d’un camarade dûment man - daté par lui. La remise des envois individuels ou collectifs aux prisonniers ne pourra être retardée sous prétexte de difficultés de censure.
+Toute interdiction de correspondance édictée par les Parties au conflit, pour des raisons militaires ou politiques, ne pourra être que temporaire et d’une durée aussi brève que possible.

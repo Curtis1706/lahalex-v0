@@ -1,0 +1,6 @@
+Mentions du procès-verbal
+Si l’auteur d’un accident corporel est inconnu, le procès-verbal ou le rapport dressé ou établi par l’autorité publique compétente et relatif à cet accident doit mentionner expressément cette circonstance.
+Dans le cas où l’auteur est connu et sur les déclarations que celui-ci est tenu de faire, le même document indique obligatoirement si ledit auteur est assuré. Dans l’affirmative, il précise le nom et l’adresse de l’entreprise d’assurance ainsi que le numéro de la police.
+Toute omission volontaire de déclaration ou fausse déclaration faite de mauvaise foi sera punie de l’amende prévue par les textes en vigueur dans chaque Etat membre.
+Si un ou plusieurs des renseignements prévus au second alinéa sont ignorés de l’auteur de l’accident au moment de l’établissement du procès-verbal ou du rapport, cette circonstance est mentionnée, ainsi que l’engagement qui doit avoir été pris par ledit auteur de faire parvenir ces renseignements sous huitaine. Dans ce cas, il est dressé ultérieurement un procès-verbal ou rapport complémentaire.
+Un exemplaire de tout procès-verbal ou rapport relatif à un accident corporel causé par un auteur inconnu ou non assuré est transmis au Fonds de Garantie dans les soixante jours de la date de l’accident par l’autorité publique compétente ou par toute personne y ayant intérêt.

@@ -1,0 +1,2 @@
+Les crimes et délits mentionnés à l’article 534 sont excusables, s’ils sont commis par l’un des époux sur son conjoint ainsi que sur le complice, à l’instant où il les surprend en flagrant délit d’adultère.
+Hormis ce cas, le meurtre commis par l’époux sur l’épouse ou par celle-ci sur son époux, n’est pas excusable si la vie de l’époux ou de l’épouse qui a commis le meurtre n’a pas été mise en péril au moment même où le meurtre a eu lieu.

@@ -1,0 +1,2 @@
+Dans tous les autres cas d’omissions ou d’erreurs, la requête en rectification peut être présentée par toute personne intéressée ou par le ministère public, au président du tribunal de première instance dans le ressort duquel l’acte à rectifier a été dressé.
+Il est fait application des dispositions des articles 97,98,103 et 104 du présent code.

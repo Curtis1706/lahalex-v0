@@ -1,0 +1,1 @@
+Le principe de l’unité de trésorerie signifie que tous les organismes publics soumis aux règles de la comptabilité publique, déposent leurs fonds au Trésor public, sauf dérogation expresse donnée par le ministre chargé des Finances.

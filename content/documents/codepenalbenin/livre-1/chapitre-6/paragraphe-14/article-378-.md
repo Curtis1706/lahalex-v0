@@ -1,0 +1,1 @@
+L’officier de l’état-civil est puni d’une amende de cent cinquante mille (150.000) à quatre cent mille (400.000) francs CFA lorsqu’il a, avant le temps prescrit par la loi, célébré le mariage d’une femme dont le précédent mariage a été dissout.

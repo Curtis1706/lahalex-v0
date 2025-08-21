@@ -1,0 +1,2 @@
+Dans le cas où une habitation, une industrie ou un établissement est desservi par une canalisation d'eau potable et une autre canalisation d'eau non potable, cette dernière est entièrement distincte de la première.
+La canalisation d'eau non potable est recouverte d’une peinture de couleur rouge avec la mention « eau dangereuse ; à ne pas boire ».

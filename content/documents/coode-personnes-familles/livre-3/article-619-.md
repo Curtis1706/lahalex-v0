@@ -1,0 +1,2 @@
+Les enfants ou leurs descendants succèdent à leurs père et mère ou autres ascendants sans distinction de sexe ni d’âge encore qu'ils soient issus de différents mariages, sous réserve des dispositions prévues au présent code relativement aux enfants incestueux.
+Ils succèdent par égales portions et par tête, quand ils sont tous au 1 degré et appelés de leur chef, ils succèdent par souche, lorsqu’ils viennent tous ou en partie par représentation.

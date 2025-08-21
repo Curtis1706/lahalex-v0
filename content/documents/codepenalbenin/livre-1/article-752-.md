@@ -1,0 +1,2 @@
+Le taux de l’intérêt légal est, en toute matière, fixé pour la durée de l’année civile. Il est, pour l’année considérée, égal aux taux d’escompte normal pratiqué par la Banque Centrale le 1er janvier de l’année précédente.
+En cas de modification du taux d’escompte portant sur une marge de deux points ou plus au cours de l’année de référence, le taux de l’intérêt légal est égal au nouveau taux d’escompte.

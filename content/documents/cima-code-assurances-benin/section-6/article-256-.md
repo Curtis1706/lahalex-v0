@@ -1,0 +1,4 @@
+Article 256 : Délai de prescription
+Les actions en responsabilité civile extracontractuelle, auxquelles le présent Code est applicable, se prescrivent par un délai maximum de cinq ans à compter de l’accident.
+Toutefois, pour les accidents dont le délai de prescription restant à courir est supérieur ou égal à cinq ans, ce délai court à compter de la date d’entrée en vigueur du présent Code. Pour les Etats ayant ratifié le Traité postérieurement à l’entrée en vigueur du code, le délai de prescription visé à l’alinéa 1 ci-dessus ne court qu’à compter de la date de ratification dudit Traité.
+Ne sont pas concernés par les dispositions du présent article les accidents dont le délai de prescription restant à courir à l’entrée en vigueur du Code est inférieur à cinq ans.

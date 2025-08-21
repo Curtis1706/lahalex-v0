@@ -1,0 +1,1 @@
+Les limites territoriales des communes sont constituées par celles de leurs unités administratives telles qu'indiquées et dénommées dans la loi fixant les unités administratives locales en République du Bénin.

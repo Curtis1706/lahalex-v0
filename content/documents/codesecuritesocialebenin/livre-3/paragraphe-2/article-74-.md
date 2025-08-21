@@ -1,0 +1,1 @@
+En cas d’incapacité permanente, la victime a droit à une rente égale au salaire annuel multiplié par le taux d’incapacité préalablement réduit de moitié pour la partie de ce taux qui ne dépasse pas 50 % et augmenté de moitié pour la partie qui excède 50 %.

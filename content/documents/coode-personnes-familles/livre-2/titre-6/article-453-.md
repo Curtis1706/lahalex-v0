@@ -1,0 +1,1 @@
+Les règles de la tutelle sont pour le surplus applicables à l’administration légale avec cette modalité que l’administration légale ne comporte ni conseil de famille ni subrogé tuteur.

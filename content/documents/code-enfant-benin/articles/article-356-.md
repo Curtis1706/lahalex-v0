@@ -1,0 +1,1 @@
+Article 356 : Quiconque utilise un enfant dans les différentes formes de criminalité organisée, telle que prévue à l’article 196 de la présente loi, est puni de deux (02) ans à cinq (05) ans d’emprisonnement et d’une amende de deux cent cinquante (250 000) à cinq cent mille (500 000) francs CFA.

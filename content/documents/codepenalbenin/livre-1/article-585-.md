@@ -1,0 +1,1 @@
+Les sanctions pénales applicables aux personnes morales telles que prévues à l’article 59 sont aussi ici applicables.

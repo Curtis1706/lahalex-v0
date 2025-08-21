@@ -1,0 +1,14 @@
+{
+  "id": "article-1-",
+  "title": "Article 1 : La présente loi a pour objet :",
+  "numero": "1 ",
+  "document": "codedelinformation",
+  "path": [
+    "titre-1",
+    "chapitre-1"
+  ],
+  "navigation": {
+    "parent": "chapitre-1",
+    "next": "article-2-"
+  }
+}

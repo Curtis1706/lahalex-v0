@@ -1,0 +1,1 @@
+Tous les actes passés postérieurement au jugement d’ouverture de la tutelle par la personne protégée seront nuis de droit, sous réserve des dispositions de l’article 558 du présent code.

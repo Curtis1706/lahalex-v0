@@ -1,0 +1,1 @@
+Un organisme public peut refuser de laisser consulter ou de communiquer un document administratif dont la consultation ou la communication est susceptible de porter atteinte à la monnaie et au crédit public, à la sûreté de l’Etat et à la sécurité publique.

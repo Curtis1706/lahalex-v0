@@ -1,0 +1,1 @@
+L’officier de l’état civil indique la date de délivrance, certifie la copie conforme à l’acte et la revêt de sa signature et du sceau du centre d’état civil. Les copies doivent être en outre légalisées sauf convention internationale contraire, lorsqu’il y a lieu de les produire devant une autorité étrangère.

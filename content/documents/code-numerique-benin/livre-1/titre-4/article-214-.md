@@ -1,0 +1,2 @@
+Procédure d’agrément
+L’Autorité de régulation détermine la procédure d’agrément des équipements et 	des laboratoires nationaux et internationaux ainsi que les conditions de reconnaissance des normes et spécifications techniques.

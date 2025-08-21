@@ -1,0 +1,1 @@
+Les informations devant faciliter l'établissement du budget sont prises en compte dans le budget supplémentaire, lorsqu’elles sont communiquées avec retard par les services compétents de l'Etat.

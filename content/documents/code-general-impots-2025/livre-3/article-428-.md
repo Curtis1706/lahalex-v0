@@ -1,0 +1,1 @@
+Les  droits  visés  par  la  présente  SOUS-SECTION  sont  acquittés  sur  états mensuels par les autorités concernées.

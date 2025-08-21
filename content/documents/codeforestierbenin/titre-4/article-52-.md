@@ -1,0 +1,7 @@
+Les actions et poursuites sont exercées par le Chef de
+service forestier ou son représentant devant les tribunaux suivant les
+règles générales de compétence sans préjudice du droit qui appartient au
+Ministère Public.
+Les Agents forestiers assermentés ont le droit d'exposer l'affaire
+devant le tribunal, et sont entendus en leurs conclusions. Ils siègent à
+la suite du Procureur et des substituts en uniforme et découverts.

@@ -1,0 +1,2 @@
+« Est puni d’une peine d’emprisonnement de six (06) mois à trois (03) ans et d’une amende de deux cent mille (200.000) francs CFA à deux millions (2.000.000) de francs CFA ou de l’une des deux peines seulement, le fait pour un ascendant légitime, naturel ou adoptif d’entretenir des relations sexuelles consenties avec un descendant légitime, naturel ou adoptif et vice-versa ».
+PARAGRAPHE V : DU PROXENETISME ET DE L’EXCITATION HABITUELLE DE MINEUR A LA DEBAUCHE

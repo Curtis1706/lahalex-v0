@@ -1,0 +1,1 @@
+Il est interdit de se baigner dans les eaux de surface destinées à la consommation humaine.

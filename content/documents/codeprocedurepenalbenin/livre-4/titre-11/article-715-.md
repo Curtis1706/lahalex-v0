@@ -1,0 +1,2 @@
+La caisse de sécurité sociale fait le versement des allocations au bénéficiaire, après réception de l’expédition de l’ordonnance, jugement ou arrêt qui ordonne la garde ou le placement de l’enfant.
+La cessation du versement se fait à la réception d’une attestation du juge des enfants compétent.

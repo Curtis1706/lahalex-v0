@@ -1,0 +1,2 @@
+L’action en révocation pour cause d’ingratitude appartient au donateur qui peut y renoncer expressément ou tacitement en pardonnant au donataire.
+Elle doit être intentée dans l’année à compter du jour du délit imputé par le donateur au donataire, ou à compter du jour ou le délit a été connu par le donateur.

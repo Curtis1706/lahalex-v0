@@ -1,0 +1,1 @@
+Le maire ou l’adjoint au maire nommé à une fonction incompatible avec son mandat communal est tenu de faire une déclaration d'option dans un délai de huit (08) jours. En l'absence de déclaration dans ce délai, il est réputé avoir renoncé à son mandat communal. Dans ce cas, l'autorité de tutelle prend un arrêté pour déclarer son poste vacant.

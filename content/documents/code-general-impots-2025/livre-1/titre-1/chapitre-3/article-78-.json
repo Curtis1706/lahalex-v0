@@ -1,0 +1,16 @@
+{
+  "id": "article-78-",
+  "title": "Article 78 :",
+  "numero": "78 ",
+  "document": "code-general-impots-2025",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-3"
+  ],
+  "navigation": {
+    "parent": "chapitre-3",
+    "previous": "article-77-",
+    "next": "article-79-"
+  }
+}

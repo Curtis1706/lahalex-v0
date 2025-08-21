@@ -1,0 +1,2 @@
+La capacité des personnes et les sanctions des incapacités qui peuvent les frapper sont déterminées par la loi nationale de l’incapable.
+L’incapacité de l’une des parties résultant soit de la loi nationale, soit d’un jugement, pourra être déclarée inopposable au contractant étranger qui l’a ignorée en contractant avec imprudence dans un Etat dont la loi n’admet pas cette incapacité.

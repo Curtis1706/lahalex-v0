@@ -1,0 +1,2 @@
+1) Les ventes publiques de biens meubles autres que ceux énumérés aux articles 334 et 335 du présent code sont assujetties à un droit de 1%.
+2) Ce droit est perçu sur le prix exprimé et le capital des charges qui peuvent s’ajouter au prix ou par une estimation des parties si la valeur est supérieure au prix augmenté des charges.

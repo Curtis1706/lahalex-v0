@@ -1,0 +1,4 @@
+Les mariages contractés conformément à la coutume, antérieurement à la date d’entrée en vigueur du présent code, demeurent soumis pour leur validité aux conditions de fond et de forme en vigueur lors de la formation du lien matrimonial. Il en est de même des mariages célébrés conformément au code civil.
+Leurs effets postérieurs sont régis par la loi nouvelle selon les distinctions établies ci-après :
+- les effets des mariages déclarés ou non, contractés conformément à la coutume, sont régis par les dispositions du présent code sous réserve de la pluralité d’épouses que peuvent comporter ces mariages.
+- les effets des mariages contractés conformément au code civil sont régis par les dispositions du présent code.

@@ -1,0 +1,1 @@
+L’établissement de l’imposition ne peut intervenir que dans un délai de quinze (15) jours suivant la notification de la base de taxation au contribuable.

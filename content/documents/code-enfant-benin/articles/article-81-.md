@@ -1,0 +1,2 @@
+Article 81 : Transcription des nouvelles données de l'adopté
+Dans le délai de quinze (15) jours à compter du jour où la décision n’est plus susceptible de recours, le ministère public près la juridiction procède aux diligences de transcription.

@@ -1,0 +1,1 @@
+Dans le cas où l’une des infractions prévues par les articles 624 à 632 ci-dessus a été commise par une personne exerçant le commandement dans les conditions régulièrement déterminées par l’article 608 du présent code, la peine est portée au double.

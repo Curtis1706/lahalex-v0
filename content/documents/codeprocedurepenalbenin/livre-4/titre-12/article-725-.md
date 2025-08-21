@@ -1,0 +1,2 @@
+La juridiction saisie statue en chambre du conseil sur les conclusions du ministère public, le requérant ou son avocat entendu ou dûment convoqué. S’il paraît nécessaire d’entendre un condamné qui se trouve détenu, il peut être procédé conformément aux dispositions de l’article 795 du présent code.
+La décision est signifiée à la requête du ministère public lorsqu’elle est rendue hors la présence du requérant ou de son avocat. Elle peut être, selon les cas, frappée d’appel ou déférée à la chambre judiciaire de la cour suprême.

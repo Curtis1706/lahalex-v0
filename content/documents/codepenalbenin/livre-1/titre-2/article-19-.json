@@ -1,0 +1,15 @@
+{
+  "id": "article-19-",
+  "title": "Article 19 : Il n’y a ni crime, ni délit sans intention de le commettre.",
+  "numero": "19 ",
+  "document": "codepenalbenin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-17-",
+    "next": "article-20-"
+  }
+}

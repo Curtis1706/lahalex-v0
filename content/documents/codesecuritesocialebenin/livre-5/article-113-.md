@@ -1,0 +1,3 @@
+1) Les prestations de sécurité sociale ne peuvent être saisies et ne sont cessibles que pour des dettes contractées envers un organisme public pour l’acquisition ou la construction d’habitation, ou pour cause d’obligation alimentaire prévue par la loi.
+2) Elles sont incessibles et insaisissables sauf dans les mêmes conditions et limites que les salaires, conformément aux dispositions du Code du travail.
+Les deniers de la Caisse sont insaisissables et aucune opposition ne peut être pratiquée sur les sommes dues à cet établissement.

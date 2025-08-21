@@ -1,0 +1,2 @@
+Règles générales de gestion du spectre de fréquences radioélectriques
+Les directives générales relatives à la gestion du spectre des fréquences radioélectriques sont définies par décret pris en Conseil des Ministres sur proposition du Ministre chargé des communications électroniques.

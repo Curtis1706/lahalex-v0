@@ -1,0 +1,1 @@
+Quiconque a coupé des grains ou des fourrages qu’il savait appartenir à autrui, est puni d’un emprisonnement de un (01) mois à trois (03) mois.

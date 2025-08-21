@@ -1,0 +1,1 @@
+En cas de démission, de décès ou d'empêchement définitif d'un membre du Conseil électoral, il est pourvu à son remplacement dans les conditions prévues aux articles 20 et 21 de la présente loi.

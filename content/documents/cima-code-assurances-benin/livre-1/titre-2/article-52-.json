@@ -1,0 +1,15 @@
+{
+  "id": "article-52-",
+  "title": "Article 52 : Clauses des polices",
+  "numero": "52 ",
+  "document": "cima-code-assurances-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-51-",
+    "next": "article-53-"
+  }
+}

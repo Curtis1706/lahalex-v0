@@ -1,0 +1,1 @@
+Sont punis d’une amende de cinq cent mille (500.000) francs CFA à deux (02) millions de francs CFA, les dirigeants sociaux, les dirigeants d’entité qui n’ont pas déposé, dans le mois qui suit leur approbation, les états financiers de synthèse.

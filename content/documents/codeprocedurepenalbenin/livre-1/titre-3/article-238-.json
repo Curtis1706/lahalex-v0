@@ -1,0 +1,15 @@
+{
+  "id": "article-238-",
+  "title": "Article 238 :",
+  "numero": "238 ",
+  "document": "codeprocedurepenalbenin",
+  "path": [
+    "livre-1",
+    "titre-3"
+  ],
+  "navigation": {
+    "parent": "titre-3",
+    "previous": "article-237-nouveau--loi-n--2025---06--",
+    "next": "article-239-"
+  }
+}

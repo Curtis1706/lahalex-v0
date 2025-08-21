@@ -1,0 +1,1 @@
+Sera puni d’une amende de deux cent mille (200 000) et d’un emprisonnement de trois (03) mois à deux (02) ans, tout surveillant chef de maison d’arrêt qui, de mauvaise foi, n’aura pas transmis immédiatement, conformément aux dispositions de l’article 159 du présent code au magistrat compétent, toute demande de mise en liberté formulée par tout inculpé, prévenu ou accusé.

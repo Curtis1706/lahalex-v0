@@ -1,0 +1,1 @@
+Il est fait mention sur l’acte de naissance des intéressés et sur les transcriptions éventuelles des mariages ou décès, ainsi que de tous les actes constitutifs ou modificatifs d’état et des décisions de justice dont l’inscription est ordonnée.

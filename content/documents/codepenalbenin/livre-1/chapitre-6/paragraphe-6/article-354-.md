@@ -1,0 +1,1 @@
+Est puni d’un emprisonnement de six (06) mois à douze (12) mois et d’une amende de cent mille (100.000) à un million (1.000.000) francs CFA, quiconque, par présence indue, interfère ou s’immisce dans le cours d’une enquête de police judiciaire ou d’une enquête judiciaire, dans le dessein d’empêcher l’accomplissement d’un acte relevant de l’enquête.

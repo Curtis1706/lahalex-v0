@@ -1,0 +1,1 @@
+Quiconque a menacé de voies de fait ou de violences non prévues par l’article 505 du présent code, si la menace a été faite avec ordre ou sous condition, est puni d’un emprisonnement de six (06) jours à trois (03) mois et d’une amende de cinquante mille (50.000) francs CFA à deux cent cinquante mille (250.000) francs CFA ou de l’une de ces deux peines seulement.

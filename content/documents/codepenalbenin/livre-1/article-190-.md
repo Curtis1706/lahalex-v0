@@ -1,0 +1,1 @@
+Est puni de la détention criminelle à temps de cinq (05) ans à dix (10) ans quiconque, en temps de paix, dans le but de nuire à la défense nationale, a entravé la circulation de matériels militaires ou a, par quelque moyen que ce soit, provoqué, facilité ou organisé une action violente ou concertée ayant ces entraves pour buts ou pour résultats.

@@ -1,0 +1,1 @@
+Les récipients, les emballages, les appareils, les installations, les locaux, les équipements et les lieux utilisés pour les denrées alimentaires sont maintenus en parfait état de propreté.

@@ -1,0 +1,3 @@
+La juridiction pour enfants prononcera contre un mineur de moins de treize(13)ans, suivant le cas, des mesures de protection, d’assistance, de surveillance ou d’éducation qui sembleront appropriées.
+Tout mineur de quinze (15) ans à dix-huit (18) ans, lorsque les circonstances paraissent l’exiger, peut faire l’objet de détention provisoire lorsqu’il commet une infraction criminelle.
+Lorsque les circonstances l’exigent, elle prononce à l’égard d’un mineur de plus de quinze (15) ans, une condamnation pénale.

@@ -1,0 +1,1 @@
+Dans le cas du partage d'une même succession entre des héritiers étrangers et béninois, ces derniers prélèvent sur les biens situés au BÉNIN une portion égale à la valeur des biens situés en pays étranger dont ils seraient exclus à quelque titre que ce soit, en vertu des lois, règlements et coutumes locaux.

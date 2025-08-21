@@ -1,0 +1,2 @@
+En matière de communication audiovisuelle, la réponse est faite dans les mêmes conditions et les mêmes proportions que la publication contestée.
+Les imputations vidéographiques ou télématiques ouvrent également droit à des réponses dont les longueurs sont proportionnées aux mises en cause sur les écrans d’origine.

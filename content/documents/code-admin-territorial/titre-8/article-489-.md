@@ -1,0 +1,1 @@
+Le comptable de la commune ou de l’établissement public de coopération intercommunale contrôle, sur pièces et sur place, les opérations et la comptabilité des régisseurs. Il est personnellement et pécuniairement responsable des opérations des régisseurs dans la limite des contrôles qui lui incombent.

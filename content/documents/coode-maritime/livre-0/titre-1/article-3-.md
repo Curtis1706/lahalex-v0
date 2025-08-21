@@ -1,0 +1,1 @@
+Les dispositions légales étrangères ou les stipulations contractuelles soumises à un droit étranger, régissant les rapports juridiques nés de et dans la navigation maritime ne sont applicables en République du Bénin que dans la mesure où elles ne sont pas contraires aux principes de l’ordre juridique national.

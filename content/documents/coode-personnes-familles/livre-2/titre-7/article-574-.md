@@ -1,0 +1,2 @@
+La tutelle cesse avec les causes qui l’ont déterminée ; néanmoins, la mainlevée n’en sera prononcée qu’en observant les formalités prescrites pour parvenir à son ouverture, et la personne en tutelle ne pourra reprendre l’exercice de ses droits qu’après le jugement de main levée.
+Les recours prévus par l’article 556 alinéa 3 du présent code ne peuvent être exercés que contre les jugements qui refusent de donner main levée de la tutelle.

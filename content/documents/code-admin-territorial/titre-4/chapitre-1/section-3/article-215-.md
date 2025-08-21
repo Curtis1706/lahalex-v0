@@ -1,0 +1,1 @@
+Il est procédé au remplacement des membres du conseil de village ou de quartier de ville dissous dans les quatre-vingt-dix (90) jours à compter de la date de la dissolution, dans les conditions prévues par le code électoral. Il en est de même en cas de démission de tous les membres du conseil. Le délai court, dans ce cas, à compter de la date d'effet de la dernière démission.

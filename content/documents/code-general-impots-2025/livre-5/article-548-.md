@@ -1,0 +1,21 @@
+1) Lorsque, au cours d’un examen contradictoire de la situation fiscale personnelle, il est constaté une disproportion marquée entre le train de vie du contribuable vérifié et ses revenus déclarés, le montant total de ses impôts personnels sur le revenu ne peut être inférieur à un impôt de référence déterminé sur la base des éléments du train de vie.
+2) Pour l’application du paragraphe 1 du présent article, il est entendu par impôts
+personnels, la somme de l’impôt sur les bénéfices d’affaires, de l’impôt sur le revenu des capitaux mobiliers, de l’impôt sur les revenus fonciers et de l’impôt sur les traitements et salaires acquittés au titre d’une même année.
+3) L’impôt de référence est calculé en appliquant le taux de l’impôt sur les bénéfices
+d’affaires sur les éléments du train de vie déterminés forfaitairement comme suit :
+| Éléments du train de vie                                                                                                                                            | Revenu forfaitaire annuel correspondant                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| 1) Résidences principales et secondaires (au Bénin ou hors du Bénin), dépenses d’entretien et occupation.<br>Majoration si la résidence comporte des piscines :<br>- par piscine | Trois fois la valeur locative<br>1 000 000 FCFA                |
+| 2) Gardien, cuisinier, jardinier et autres                                                                                                                          | 400 000 FCFA par personne                                      |
+| 3) Voitures automobiles de tourisme :<br>a) Puissance > 20 CV, par voiture<br>b) Puissance entre 15 et 20 CV, par voiture<br>c) Puissance < 15 CV, par voiture<br>*(Abattement : 20% après un an d’usage, puis 10% supplémentaires par année pendant 4 ans, sans descendre sous 500 000 FCFA. Réduction de moitié si usage exclusivement professionnel)* | 3 000 000 FCFA<br>2 500 000 FCFA<br>2 000 000 FCFA              |
+| 4) Bateaux de plaisance à voiles :<br>a) Jusqu’à trois tonneaux<br>b) Par tonneau supplémentaire (4 à 10)<br>c) Au-dessus de dix                                    | 200 000 FCFA<br>5 000 FCFA<br>100 000 FCFA                      |
+| 5) Bateaux de plaisance à moteur fixe hors-bord :<br>- Pour les 20 premiers chevaux<br>- Par cheval-vapeur supplémentaire                                           | 300 000 FCFA<br>20 000 FCFA                                    |
+| 6) Chevaux de course :<br>a) Par cheval pur-sang<br>b) Par cheval demi-sang<br>c) Par cheval local                                                                  | 1 500 000 FCFA<br>1 000 000 FCFA<br>500 000 FCFA                |
+| 7) Avions de tourisme                                                                                                                                                | 20 000 000 FCFA                                                |
+| 8) Voyages à l’étranger (revenu fonction du coût et de la durée du séjour)                                                                                          | Frais réels par jour                                           |
+| 9) Frais de subsistance                                                                                                                                              | Trois fois le SMIG                                             |
+| 10) Frais de scolarité pour les enfants inscrits à l’étranger                                                                                                       | Frais réels                                                    |
+Les éléments du train de vie sont ceux dont le contribuable a disposé pendant la ou les années dont les revenus sont examinés.
+La valeur locative à retenir pour les résidences principales ou secondaires est la valeur locative réelle ou estimée.
+4) En cas d’application des dispositions du présent article, l’administration fiscale
+prend  en  compte  les  revenus  expressément  exonérés  d’impôt  qu’aurait  perçus  le contribuable vérifié.

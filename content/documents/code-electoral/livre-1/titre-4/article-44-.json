@@ -1,0 +1,15 @@
+{
+  "id": "article-44-",
+  "title": "Article 44 : La campagne électorale est l'ensemble des opérations de propagande précédant une élection et visant à amener tes électeurs à soutenir tes candidats en compétition.",
+  "numero": "44 ",
+  "document": "code-electoral",
+  "path": [
+    "livre-1",
+    "titre-4"
+  ],
+  "navigation": {
+    "parent": "titre-4",
+    "previous": "article-43-",
+    "next": "article-45-"
+  }
+}

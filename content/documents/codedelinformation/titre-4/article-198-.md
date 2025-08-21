@@ -1,0 +1,1 @@
+Les affiches et les publications à caractère administratif ou judiciaire ne sont pas concernées par la présente loi.

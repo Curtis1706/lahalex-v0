@@ -1,0 +1,1 @@
+En cas de récidive dans le délai de (01) an à compter de la première condamnation, les peines sont doublées et peuvent comporter l’interdiction définitive d’exercer toute activité professionnelle.

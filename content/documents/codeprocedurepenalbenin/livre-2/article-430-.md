@@ -1,0 +1,2 @@
+Nul n’est recevable à déclarer qu’il fait défaut dès lors qu’il est présent au début de l’audience.
+Si le prévenu, après avoir répondu à l’appel de la cause, se retire de l’audience ou ne comparaît pas à l’audience à laquelle l’affaire a été expressément renvoyée, le débat est contradictoire.

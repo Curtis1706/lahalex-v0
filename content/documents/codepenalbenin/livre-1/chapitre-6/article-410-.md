@@ -1,0 +1,4 @@
+Quiconque a publiquement par actes, paroles ou écrits, cherché à jeter le discrédit sur un acte ou une décision juridictionnelle, dans des conditions de nature à porter atteinte à l’autorité de la justice ou à son indépendance, est puni de un (01) mois à six ( 06) mois d’emprisonnement et de cent mille (100.000) francs à un million (1.000.000) de francs CFA d’amende ou de l’une de ces deux peines seulement.
+Le tribunal peut en outre ordonner que sa décision soit affichée et publiée dans les conditions qu’il déterminera, aux frais du condamné, sans que ces frais puissent dépasser le maximum de l’amende prévue ci-dessus.
+Les dispositions qui précèdent ne peuvent en aucun cas être appliquées aux commentaires purement techniques dans les revues spécialisées, ni aux actes, paroles ou écrits tendant à la révision d’une condamnation.
+Lorsque l’infraction aura été commise par voie de presse, les dispositions de l’article 455 du présent code sont applicables.

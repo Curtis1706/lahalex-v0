@@ -1,0 +1,2 @@
+Article 1er : Toute personne a le droit à un environnement sain, satisfaisant et durable et a le devoir de le défendre. L’Etat veille à la protection de l’environnement et à la conservation des ressources naturelles en général, en l’occurrence l’eau.
+SECTION II : DE L’OBJET

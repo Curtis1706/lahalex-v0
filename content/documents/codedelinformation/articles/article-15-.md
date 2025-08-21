@@ -1,0 +1,2 @@
+Il est formellement interdit à tout organe de presse, tout journal, tout écrit périodique, toute radiodiffusion sonore, toute télévision, tout exploitant d’un service de communication audiovisuelle en ligne et/ou à ses collaborateurs de recevoir ou de se faire promettre une somme d’argent ou tous autres avantages aux fins de travestir une information ou de présenter l’actualité sous un faux jour.
+Tout contrevenant à cette disposition est sanctionné conformément à la loi organique de la Haute Autorité de l’Audiovisuel et de la Communication.

@@ -1,0 +1,2 @@
+Les actes additionnels, les règlements, les directives et les décisions sont publiés au Bulletin Officiel de l'Union. Ils entrent en vigueur après leur publication à la date qu'ils fixent.
+Les décisions sont notifiées à leurs destinataires et prennent effet à compter de leur date de notification.

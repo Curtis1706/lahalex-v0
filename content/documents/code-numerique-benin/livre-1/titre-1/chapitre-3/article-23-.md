@@ -1,0 +1,3 @@
+Publications des informations et tarifs par les opérateurs
+Les informations transparentes et actualisées relatives à l’ensemble des services proposés, aux tarifs pratiqués ainsi qu’aux conditions générales de vente et/ou de services, sont régulièrement publiées et mises à la disposition des utilisateurs par les opérateurs dans leurs points de vente et sur leur site internet.
+Le Ministère en charge des communications électroniques peut préciser la forme et le contenu de ces informations et documents.

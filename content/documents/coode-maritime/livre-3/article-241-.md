@@ -1,0 +1,1 @@
+Lorsque, en cours de voyage, les denrées indispensables viennent à manquer, le capitaine peut réquisitionner les marchandises et denrées se trouvant à bord et l’armateur doit rembourser la valeur aux propriétaires intéressés.

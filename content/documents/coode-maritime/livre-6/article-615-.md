@@ -1,0 +1,1 @@
+Tout membre de l’équipage qui a provoqué une visite de sécurité à bord sur la base d’allégations inexactes est puni d’une amende de cent mille (100.000) à un million (1.000.000) de francs.

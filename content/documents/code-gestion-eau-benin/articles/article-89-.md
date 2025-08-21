@@ -1,0 +1,2 @@
+Article 89 : Si les infractions prévues par la présente loi sont commises dans le cadre de l’activité d’une personne morale, la responsabilité pénale en incombe aux dirigeants de celle-ci.
+Toutefois, toute personne physique, préposée ou non de cette personne morale, qui y concourt de quelque manière que ce soit en raison de ses fonctions, est punie comme auteur.

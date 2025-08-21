@@ -1,0 +1,4 @@
+ORGANISMES DE FORMATION
+1. Les organismes de formation sont des institutions communautaires ou nationales dispensant des formations militaires, policières ou civiles, de métier, courtes ou longues, et des formations spécifiques pertinentes pour les missions du COPAX, ayant fait l’objet d’une homologation par les instances du COPAX.
+1. Ils constituent un réseau de Centres d’excellence dédiés aux missions du COPAX aux fins de la promotion et de l’harmonisation des standards de formation et d’entraînement ainsi que du renforcement des capacités civiles et des forces de défense et de sécurité nationales.
+1. Le statut et le fonctionnement des centres d’excellence sont définis par un protocole d’accord particulier.

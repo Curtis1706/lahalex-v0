@@ -1,0 +1,2 @@
+S’il existe une force majeure qui n’empêche que pour un temps la sortie du navire, les conventions subsistent sans dommages-intérêts à raison du retard.
+2 en est de même si la force majeure intervient pendant le voyage.

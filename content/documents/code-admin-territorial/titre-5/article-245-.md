@@ -1,0 +1,1 @@
+La gestion du patrimoine de la commune couvre le domaine communal, les biens, les dons et legs, les travaux communaux et toutes autres activités patrimoniales relevant de la compétence de la commune. Elle couvre en outre la gestion du personnel communal.

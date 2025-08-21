@@ -1,0 +1,1 @@
+Les contrevenants aux dispositions des articles 68, 69, 70, 71 et 73 sont passibles d'une amende de vingt-cinq mille (25 000) à cent mille (1 00 000) FCFA.

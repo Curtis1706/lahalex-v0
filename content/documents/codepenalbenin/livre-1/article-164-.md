@@ -1,0 +1,1 @@
+Les actes de terrorisme ne sont en aucun cas considérés comme des infractions politiques.

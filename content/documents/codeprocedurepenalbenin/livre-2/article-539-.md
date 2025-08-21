@@ -1,0 +1,2 @@
+L’exploit de citation ou de signification contient la désignation du requérant, la date, les nom, prénoms et adresse de l’huissier et du destinataire.
+La personne qui reçoit copie de l’exploit signe l’original ; si elle ne peut ou ne veut signer, mention est faite par l’huissier. En outre, si elle ne peut signer, elle appose ses empreintes digitales sur l’original.

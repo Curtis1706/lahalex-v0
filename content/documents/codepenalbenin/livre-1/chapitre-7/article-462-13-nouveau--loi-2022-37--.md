@@ -1,0 +1,1 @@
+Est puni du maximum de la réclusion criminelle à temps, tout militaire ou assimilé ou tout individu coupable de désertion à l'ennemi.

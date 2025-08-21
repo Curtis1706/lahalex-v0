@@ -1,0 +1,1 @@
+L'enfant qui est béninois en vertu des dispositions du présent titre, est réputé avoir obtenu cette nationalité dès sa naissance, même si l'existence des conditions requises par la loi pour l'attribution de la nationalité béninoise n'est établie que postérieurement.

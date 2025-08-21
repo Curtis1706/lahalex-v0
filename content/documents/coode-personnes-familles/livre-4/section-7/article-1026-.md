@@ -1,0 +1,1 @@
+La parenté et l’alliance s’établissent et produisent leurs effets conformément aux dispositions de la loi nouvelle quelle que soit la date des faits générateurs des liens familiaux.

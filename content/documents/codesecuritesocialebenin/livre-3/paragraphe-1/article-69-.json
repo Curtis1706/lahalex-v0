@@ -1,0 +1,15 @@
+{
+  "id": "article-69-",
+  "title": "Article 69 :",
+  "numero": "69 ",
+  "document": "codesecuritesocialebenin",
+  "path": [
+    "livre-3",
+    "paragraphe-1"
+  ],
+  "navigation": {
+    "parent": "paragraphe-1",
+    "previous": "article-68-",
+    "next": "article-70-"
+  }
+}

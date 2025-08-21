@@ -1,0 +1,2 @@
+Le juge d’instruction fait citer devant lui, par un (01) huissier ou par un (01) agent de la force publique, toutes les personnes dont la déposition lui paraît utile. Une copie de cette citation leur est délivrée.
+Les témoins peuvent aussi être convoqués par simple lettre, par lettre recommandée ou par la voie administrative ; ils peuvent en outre comparaître volontairement.

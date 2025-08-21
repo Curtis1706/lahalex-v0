@@ -1,0 +1,1 @@
+Toute signification faite au majeur en curatelle doit aussi l’être à son curateur, à peine de nullité.

@@ -1,0 +1,2 @@
+Le maire et ses adjoints sont désignés par le parti ayant obtenu la majorité absolue des conseillers.
+A défaut de majorité absolue, le maire et ses adjoints sont désignés par l'ensemble des partis ayant constitué une majorité absolue par la signature d'un accord de gouvernance communale. L'accord de gouvernance communale est notifié à l'autorité de tutelle.

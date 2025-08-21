@@ -1,0 +1,1 @@
+Les navires et aéronefs de tous les Etats jouissent des libertés de navigation et de mouillage ou de survol de l’espace aérien sous réserve du respect des droits de l’Etat béninois sur la zone économique exclusive.

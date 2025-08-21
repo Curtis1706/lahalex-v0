@@ -1,0 +1,1 @@
+La compétence à l’égard d’un prévenu s’étend à tous les co-auteurs et complices.

@@ -1,0 +1,2 @@
+Les personnes protégées se trouvant en détention préventive ou purgeant Personnes une peine privative de liberté seront, pendant leur détention, traitées avec détenues humanité.
+Elles pourront, dès leur libération, demander à quitter le territoire, confor - mément aux articles précédents.

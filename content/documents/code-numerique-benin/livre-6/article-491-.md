@@ -1,0 +1,2 @@
+Objet
+Les dispositions du présent Livre fixent les règles et les modalités de lutte contre la cybercriminalité en République du Bénin. Elles fixent également le cadre institutionnel, les règles et les modalités d’utilisation de la cryptologie en République du Bénin.

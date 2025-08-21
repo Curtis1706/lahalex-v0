@@ -1,0 +1,16 @@
+{
+  "id": "article-66-",
+  "title": "Article  66 :",
+  "numero": "66 ",
+  "document": "code-general-impots-2025",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-2"
+  ],
+  "navigation": {
+    "parent": "chapitre-2",
+    "previous": "article-65-",
+    "next": "article-67-"
+  }
+}

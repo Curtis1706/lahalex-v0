@@ -1,0 +1,1 @@
+La Direction générale des élections est placée sous l'autorité d'un Directeur général des élections. Le Directeur général des élections est l'ordonnateur du budget de la CENA.

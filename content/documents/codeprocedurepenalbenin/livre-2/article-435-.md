@@ -1,0 +1,4 @@
+Toute personne qui, conformément à l’article 2 du présent code, prétend avoir été lésée par un délit ou une contravention peut, si elle ne l’a déjà fait, se constituer partie civile à l’audience même.
+La partie civile peut, à l’appui de sa constitution, demander des dommages- intérêts correspondant au préjudice qui lui a été causé.
+Si la partie civile ne sait pas donner une évaluation convenable de ce préjudice, le montant de la demande peut être fixé ou rectifié par le ministère public.
+Lorsque la victime ou ses ayants droit dûment cités ne se présentent pour se constituer partie civile à l’audience, le tribunal sur réquisitions du ministère public peut réserver l’action civile.

@@ -1,0 +1,2 @@
+Article 839 : _(Règlement 2015-02)_ Délit d’entrave - Sanctions
+Tout obstacle mis à l’exercice des missions de la Commission Régionale de Contrôle des Assurances ou des commissaires contrôleurs des assurances est passible d’un emprisonnement de un mois à six mois et d’une amende de 360.000 à 1.000.000 FCFA ou de l’une de ces deux peines seulement.

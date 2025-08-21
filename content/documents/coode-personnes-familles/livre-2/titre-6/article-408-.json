@@ -1,0 +1,15 @@
+{
+  "id": "article-408-",
+  "title": "Article 408 :",
+  "numero": "408 ",
+  "document": "coode-personnes-familles",
+  "path": [
+    "livre-2",
+    "titre-6"
+  ],
+  "navigation": {
+    "parent": "titre-6",
+    "previous": "article-407-",
+    "next": "article-409-"
+  }
+}

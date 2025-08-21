@@ -1,0 +1,1 @@
+Article 17 : Le rapatriement de tout actif de l’investisseur est garanti sous réserve de sa régularité fiscale et légale, et dans les conditions fixées par la réglementation des changes.

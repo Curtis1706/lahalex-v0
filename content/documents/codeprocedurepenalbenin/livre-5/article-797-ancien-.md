@@ -1,0 +1,1 @@
+Le juge d’instruction, le président de la chambre de l’instruction, le président de la cour d’assises, ainsi que le procureur de la République et le procureur général, peuvent donner tous ordres nécessaires, qui devront être exécutés dans la maison d’arrêt.

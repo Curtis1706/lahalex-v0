@@ -1,0 +1,2 @@
+Le certificat de nationalité indique les dispositions légales en vertu desquelles l'intéressé a la qualité de Béninois, ainsi que les documents qui ont permis de l'établir.
+Il fait foi jusqu'à preuve contraire.

@@ -1,0 +1,3 @@
+Communication des documents et informations
+Dans le cadre d’une procédure de règlement de différend, l’Autorité de régulation peut exiger des parties qu’elles fournissent toute information ou document utile à la résolution du différend.
+Le cas échéant, l’Autorité de régulation peut mettre en demeure les parties concernées de lui fournir toute information ou document utile à la résolution du différend.

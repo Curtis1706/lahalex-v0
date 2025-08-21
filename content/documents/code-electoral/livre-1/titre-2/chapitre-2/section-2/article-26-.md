@@ -1,0 +1,1 @@
+Le Conseil électoral tient deux (02) sessions ordinaires par an, sur convocation de son président. Toutefois, en cas de nécessité ou à la demande de quatre (04) de ses membres, le Conseil électoral se réunit en session extraordinaire.

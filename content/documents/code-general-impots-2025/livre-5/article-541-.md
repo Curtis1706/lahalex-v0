@@ -1,0 +1,6 @@
+1) Lorsque la comptabilité est tenue au moyen de systèmes informatisés, le contrôle porte sur l’ensemble des informations, données et traitements informatiques qui concourent directement ou indirectement à la formation des résultats comptables ou fiscaux et à l’élaboration des déclarations rendues obligatoires par le présent code ainsi que sur la documentation relative aux analyses, à la programmation et à l’exécution des traitements.
+2) Le contribuable doit, pour ce faire, satisfaire à l’obligation de présentation des
+documents comptables mentionnés à l’article 480 du présent code en remettant, sous forme dématérialisée répondant à des normes fixées par arrêté du ministre chargé des finances, une copie du fichier des écritures comptables définies aux articles 14 et suivants de l’Acte uniforme relatif au droit comptable et à l’information financière.
+Le défaut  de représentation du  fichier des  écritures comptables  est sanctionné conformément aux dispositions de l’article 500 du présent code.
+3) L’administration  fiscale  peut  effectuer  des  tris,  classements  ainsi  que  tous  les
+traitements  et  calculs  aux  fins  de  s’assurer  de  la  concordance  entre  la  copie  des enregistrements concourant à la formation du résultat comptable et les déclarations fiscales du contribuable.

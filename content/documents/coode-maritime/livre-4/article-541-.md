@@ -1,0 +1,1 @@
+Les dommages et pertes sont réglés en avaries, sauf faculté pour l’assuré d’opter pour le délaissement dans les cas déterminés par la loi ou par la convention.

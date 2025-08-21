@@ -1,0 +1,1 @@
+Toute personne qui, depuis trente (30) jours, a établi sa résidence principale dans un village ou un quartier de ville est tenue de se faire inscrire sur un registre de la commune destiné à cette fin et tenu par le chef de village ou de quartier de ville.

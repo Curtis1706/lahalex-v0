@@ -1,0 +1,3 @@
+Article 155 : Infections avilissantes
+Tout enfant atteint d’une infection sexuellement transmissible (IST), ou du VIH/SIDA en particulier, ou de toute autre maladie, jouit sans discrimination de tous les droits reconnus par la présente loi.
+Il bénéficie en outre, d’une assistance particulière en matière d’appui psycho- social, de conseils et d’une garantie de confidentialité dans ses rapports avec les professionnels socio-sanitaires. Toute stigmatisation à l’égard de cet enfant est interdite.

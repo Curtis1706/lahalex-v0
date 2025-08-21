@@ -1,0 +1,1 @@
+Les prestations sont suspendues sauf accord de réciprocité ou de convention internationale lorsque le titulaire ou ses ayants droit ne résident pas sur le territoire national.

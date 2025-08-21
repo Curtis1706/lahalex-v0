@@ -1,0 +1,1 @@
+Toute édition d’écrit, de composition musicale, de film, de dessin, de peinture ou de toute autre production imprimée, enregistrée ou gravée en entier ou en partie, au mépris des lois et règlements relatifs à la propriété des auteurs, est une contrefaçon.

@@ -1,0 +1,1 @@
+Le principe du coût historique signifie que les biens acquis à titre onéreux sont enregistrés à leur coût d’acquisition, les biens acquis à titre gratuit, à leur valeur estimée et les biens produits, à leur coût de production, à la date d'entrée dans le patrimoine de la commune ou de l’établissement public de coopération intercommunale.

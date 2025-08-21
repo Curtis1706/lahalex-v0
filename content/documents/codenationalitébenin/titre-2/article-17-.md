@@ -1,0 +1,2 @@
+La nationalité de l'enfant qui a fait l'objet d'une adoption plénière est déterminée par la nationalité des parents adoptifs ou le lieu de naissance.
+Toutefois, l'établissement de la qualité de Béninois postérieurement à la naissance ne porte pas atteinte à la validité des actes antérieurement passés par l'intéressé ni aux droits antérieurement acquis à des tiers, sur le fondement de la nationalité apparente de l'intéressé.

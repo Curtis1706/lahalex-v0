@@ -1,0 +1,1 @@
+Le conseil communal statue sur toute question d’importance qui ne relève pas des attributions d'autres organes de la commune.

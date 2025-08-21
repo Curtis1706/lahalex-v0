@@ -1,0 +1,3 @@
+Article 133 : Centres d’accueil et de protection de l’enfant
+Il est créé dans chaque département, des centres d’accueil et de protection de l’enfant compte tenu des besoins de la population et des normes fixées par le ministère en charge de la protection de l’enfant.
+Ce centre est en outre chargé d’accueillir et d’héberger les enfants de la rue, les enfants maltraités, les enfants rejetés ou abandonnés.

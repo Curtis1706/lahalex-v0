@@ -1,0 +1,2 @@
+Un an après la requête, le tribunal, suivant les résultats de l’enquête, pourra déclarer la présomption d’absence.
+Le jugement confirme les effets du dépôt de la requête et les prolonge jusqu’à la déclaration d’absence.

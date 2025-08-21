@@ -1,0 +1,4 @@
+Transfert d’office
+Lorsque la Commission de Contrôle des Assurances décide, en application de l’article 312, d’imposer à une entreprise le transfert d’office de son portefeuille de contrats d’assurance, cette décision est portée à la connaissance de l’ensemble des entreprises d’assurance de l’Etat membre par un avis publié au Journal Officiel et/ou dans un Journal d’annonces légales. Cet avis fait courir un délai de quinze jours pendant lesquels les entreprises qui accepteraient de prendre en charge le portefeuille en cause doivent se faire connaître à la Commission.
+L’entreprise désignée par la Commission de Contrôle des Assurances pour prendre en charge le portefeuille de contrats d’assurances transféré est avisée de cette désignation par lettre recommandée avec demande d’avis de réception.
+La décision qui prononce le transfert en fixe les modalités et la date de prise d’effet.

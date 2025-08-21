@@ -1,0 +1,15 @@
+{
+  "id": "article-76-",
+  "title": "Article 76 : Accès des opérateurs mobiles virtuels",
+  "numero": "76 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-75-",
+    "next": "article-77-"
+  }
+}

@@ -1,0 +1,3 @@
+La désignation ou l'élection du maire ou de ses adjoints peut être frappée de nullité. Le délai de recours pour évoquer cette nullité est de quinze (15) jours et commence à courir vingt-quatre (24) heures après la désignation ou l'élection.
+Cette nullité est prononcée par la Cour suprême à la requête de tout organe ou de toute personne ayant capacité et intérêt à agir.
+En cas de nullité de la désignation ou de l'élection du maire ou d'un adjoint au maire, le conseil communal ou municipal est convoqué pour procéder à son remplacement dans un délai maximum de quinze (15) jours.

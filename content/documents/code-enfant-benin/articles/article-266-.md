@@ -1,0 +1,2 @@
+Article 266 : Procédure applicable devant le tribunal pour enfants
+Sous réserve des présentes dispositions, la procédure applicable devant le tribunal pour enfants est celle du tribunal de première instance statuant en matière correctionnelle.

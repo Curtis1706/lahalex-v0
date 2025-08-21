@@ -1,0 +1,16 @@
+{
+  "id": "article-29-",
+  "title": "Article 29 :",
+  "numero": "29 ",
+  "document": "codesecuritesocialebenin",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "section-2"
+  ],
+  "navigation": {
+    "parent": "section-2",
+    "previous": "article-28-",
+    "next": "article-30-"
+  }
+}

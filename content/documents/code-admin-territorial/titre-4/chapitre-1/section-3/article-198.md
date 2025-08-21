@@ -1,0 +1,2 @@
+Sous le contrôle du secrétaire exécutif, le secrétaire administratif d'arrondissement assure le relai des services déconcentrés de l'Etat dans l’arrondissement. Il est le principal répondant de ces services dont il facilite et suit les interventions dans l’arrondissement, il assure le respect des prescriptions en matière d'assainissement, d'hygiène et de salubrité publique.
+Il rend compte régulièrement au secrétaire exécutif de ses activités.

@@ -1,0 +1,2 @@
+Le complot ayant pour but le crime prévu à l’article 225, s’il a été suivi d’un acte commis ou commencé pour en préparer l’exécution, est puni de la détention criminelle à perpétuité.
+Constitue un complot, la résolution arrêtée entre plusieurs personnes de commettre un attentat lorsque cette résolution est concrétisée par un ou plusieurs actes matériels.

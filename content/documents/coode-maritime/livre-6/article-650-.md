@@ -1,0 +1,1 @@
+Toute personne qui a détourné, tenté de détourner ou recelé une épave maritime est punie d’une peine d’amende d’un million (1.000.000) à dix millions (10.000.000) de francs, à un montant équivalent au double de la valeur de l’épave et d’un emprisonnement d’un (01) an à cinq (05) ans, ou de l’une de ces deux (02) peines seulement.

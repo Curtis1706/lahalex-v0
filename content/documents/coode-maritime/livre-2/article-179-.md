@@ -1,0 +1,1 @@
+Les officiers de port peuvent, lorsqu’ils sont outragés dans l’exercice de leurs fonctions, procéder à l’arrestation provisoire des auteurs de ces actes, en dresser procès-verbal et requérir la force publique entre les mains de laquelle il les remet.

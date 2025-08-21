@@ -1,0 +1,1 @@
+Il est interdit de s’opposer aux visites des agents verbalisateurs lorsqu’elles sont effectuées conformément à la réglementation en vigueur.

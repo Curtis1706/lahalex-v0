@@ -1,0 +1,8 @@
+Article 328-6 : Entreprise étrangère
+1) Toute demande d’agrément présentée par une société dont le siège social est situé hors du territoire de l’État membre où elle désire opérer doit être produite en double exemplaire et comporter, outre les documents prévus aux a), e), f) et h) de l’article 328-4 :
+a) le bilan, le compte d’exploitation générale et le compte général de pertes et profits pour chacun des trois derniers exercices sociaux. Toutefois, lorsque l’entreprise compte moins de trois exercices sociaux, ces documents ne doivent être fournis que pour les exercices clôturés ;
+b) un certificat délivré par les autorités administratives compétentes, énumérant les branches que l’entreprise est habilitée à pratiquer ainsi que les risques qu’elle garantit effectivement et attestant qu’elle est constituée et qu’elle fonctionne dans son pays d’origine conformément aux lois de ce pays ;
+c) la proposition à l’acceptation de la Commission Régionale de Contrôle des Assurances d’une personne physique ayant la qualité de mandataire général et satisfaisant aux conditions fixées par le présent code ;
+d) un programme d’activités comportant les pièces mentionnées au g), 1) à 7) de l’article 328-4 ;
+e) la justification que l’entreprise possède sur le territoire de l’État membre, une succursale où elle fait élection de domicile.
+2) En cas de demande d’extension d’agrément, les documents mentionnés aux e) et f) de l’article 328-4 ainsi qu’aux c) et e) du présent article ne sont pas exigés.

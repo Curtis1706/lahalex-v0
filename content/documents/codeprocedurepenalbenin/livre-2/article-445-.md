@@ -1,0 +1,2 @@
+La partie civile, régulièrement citée à personne, qui ne comparaît pas ou n’est pas représentée à l’audience, est considérée comme se désistant de sa constitution de partie civile.
+Dans ce cas, et si l’action publique n’a été mise en mouvement que par la citation directe délivrée à la requête de la partie civile, le tribunal ne statue sur ladite action que s’il en est requis par le ministère public ; sauf au prévenu à demander au tribunal des dommages-intérêts pour abus de citation directe, comme il est prévu à l’article 486 du présent code.

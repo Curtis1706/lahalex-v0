@@ -1,0 +1,1419 @@
+{
+  "id": "traite-modifie-uemoa",
+  "title": "Traité modifié de l’Union Économique et Monétaire Ouest Africaine (UEMOA)",
+  "type": "uemoa",
+  "description": "Traité modifié instituant l’Union Économique et Monétaire Ouest Africaine (UEMOA), signé par les États membres pour compléter l’Union Monétaire Ouest Africaine (UMOA) par de nouveaux transferts de souveraineté. Le traité définit les objectifs, les institutions, les compétences et les politiques de l’UEMOA, visant à renforcer la cohésion économique et sociale, assurer la convergence des politiques économiques et promouvoir l’intégration régionale en Afrique de l’Ouest.",
+  "structure": {
+    "sections": [
+      {
+        "id": "article-0-",
+        "title": "Article 0 : PREAMBULE",
+        "type": "article",
+        "level": 1,
+        "order": 0,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "titre-0",
+        "title": "TITRE 0 : DEFINITIONS",
+        "type": "titre",
+        "level": 2,
+        "order": 1,
+        "path": [
+          "titre-0"
+        ],
+        "children": [
+          "article-1er-"
+        ]
+      },
+      {
+        "id": "article-1er-",
+        "title": "Article 1er : (modifié)",
+        "type": "article",
+        "level": 2,
+        "order": 2,
+        "path": [
+          "titre-0"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-1",
+        "title": "TITRE 1 : DES PRINCIPES ET OBJECTIFS DE 50’UNION",
+        "type": "titre",
+        "level": 2,
+        "order": 3,
+        "path": [
+          "titre-1"
+        ],
+        "children": [
+          "article-2-",
+          "article-3-",
+          "article-4-",
+          "article-5-",
+          "article-6-",
+          "article-7-",
+          "article-8-"
+        ]
+      },
+      {
+        "id": "article-2-",
+        "title": "Article 2 :",
+        "type": "article",
+        "level": 2,
+        "order": 4,
+        "path": [
+          "titre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-3-",
+        "title": "Article 3 :",
+        "type": "article",
+        "level": 2,
+        "order": 5,
+        "path": [
+          "titre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-4-",
+        "title": "Article 4 :",
+        "type": "article",
+        "level": 2,
+        "order": 6,
+        "path": [
+          "titre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-5-",
+        "title": "Article 5 :",
+        "type": "article",
+        "level": 2,
+        "order": 7,
+        "path": [
+          "titre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-6-",
+        "title": "Article 6 :",
+        "type": "article",
+        "level": 2,
+        "order": 8,
+        "path": [
+          "titre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-7-",
+        "title": "Article 7 :",
+        "type": "article",
+        "level": 2,
+        "order": 9,
+        "path": [
+          "titre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-8-",
+        "title": "Article 8 :",
+        "type": "article",
+        "level": 2,
+        "order": 10,
+        "path": [
+          "titre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-2",
+        "title": "TITRE 2 : DU SYSTEME INSTITUTIONNEL DE 50'UNION CHAPITRE 1 : DU STATUT DE 50'UNION",
+        "type": "titre",
+        "level": 2,
+        "order": 11,
+        "path": [
+          "titre-2"
+        ],
+        "children": [
+          "article-9-",
+          "article-10-",
+          "article-11-",
+          "article-12-",
+          "article-13-",
+          "article-14-",
+          "article-15-",
+          "chapitre-2",
+          "chapitre-3"
+        ]
+      },
+      {
+        "id": "article-9-",
+        "title": "Article 9 :",
+        "type": "article",
+        "level": 2,
+        "order": 12,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-10-",
+        "title": "Article 10 :",
+        "type": "article",
+        "level": 2,
+        "order": 13,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-11-",
+        "title": "Article 11 :",
+        "type": "article",
+        "level": 2,
+        "order": 14,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-12-",
+        "title": "Article 12 :",
+        "type": "article",
+        "level": 2,
+        "order": 18,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-13-",
+        "title": "Article 13 :",
+        "type": "article",
+        "level": 2,
+        "order": 16,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-14-",
+        "title": "Article 14 :",
+        "type": "article",
+        "level": 2,
+        "order": 17,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-15-",
+        "title": "Article 15 :",
+        "type": "article",
+        "level": 2,
+        "order": 19,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-2",
+        "title": "CHAPITRE 2 : DES ORGANES DE 50'UNION Article 16 (modifié)",
+        "type": "chapitre",
+        "level": 3,
+        "order": 20,
+        "path": [
+          "titre-2",
+          "chapitre-2"
+        ],
+        "children": [
+          "section-1",
+          "section-3",
+          "section-5"
+        ]
+      },
+      {
+        "id": "section-1",
+        "title": "Section 1 : Des organes de direction",
+        "type": "section",
+        "level": 4,
+        "order": 21,
+        "path": [
+          "titre-2",
+          "chapitre-2",
+          "section-1"
+        ],
+        "children": [
+          "paragraphe-1",
+          "paragraphe-2",
+          "paragraphe-3"
+        ]
+      },
+      {
+        "id": "paragraphe-1",
+        "title": "Paragraphe 1er : De la Conférence des Chefs d'Etat et de Gouvernement Article 17",
+        "type": "paragraphe",
+        "level": 6,
+        "order": 22,
+        "path": [
+          "titre-2",
+          "chapitre-2",
+          "section-1",
+          "paragraphe-1"
+        ],
+        "children": [
+          "article-18-"
+        ]
+      },
+      {
+        "id": "article-18-",
+        "title": "Article 18 :",
+        "type": "article",
+        "level": 5,
+        "order": 23,
+        "path": [
+          "titre-2",
+          "chapitre-2",
+          "section-1",
+          "paragraphe-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "paragraphe-2",
+        "title": "Paragraphe 2 : Du Conseil des Ministres Article 20",
+        "type": "paragraphe",
+        "level": 6,
+        "order": 24,
+        "path": [
+          "titre-2",
+          "chapitre-2",
+          "section-1",
+          "paragraphe-2"
+        ],
+        "children": [
+          "article-21-",
+          "article-22-",
+          "article-23-",
+          "article-24-"
+        ]
+      },
+      {
+        "id": "article-21-",
+        "title": "Article 21 :",
+        "type": "article",
+        "level": 5,
+        "order": 25,
+        "path": [
+          "titre-2",
+          "chapitre-2",
+          "section-1",
+          "paragraphe-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-22-",
+        "title": "Article 22 :",
+        "type": "article",
+        "level": 5,
+        "order": 26,
+        "path": [
+          "titre-2",
+          "chapitre-2",
+          "section-1",
+          "paragraphe-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-23-",
+        "title": "Article 23 :",
+        "type": "article",
+        "level": 5,
+        "order": 27,
+        "path": [
+          "titre-2",
+          "chapitre-2",
+          "section-1",
+          "paragraphe-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-24-",
+        "title": "Article 24 :",
+        "type": "article",
+        "level": 5,
+        "order": 28,
+        "path": [
+          "titre-2",
+          "chapitre-2",
+          "section-1",
+          "paragraphe-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "paragraphe-3",
+        "title": "Paragraphe 3 : De la Commission Article 26 (modifié)",
+        "type": "paragraphe",
+        "level": 6,
+        "order": 29,
+        "path": [
+          "titre-2",
+          "chapitre-2",
+          "section-1",
+          "paragraphe-3"
+        ],
+        "children": [
+          "article-29-",
+          "article-30-",
+          "article-31-",
+          "article-32-",
+          "article-34-",
+          "article-36-",
+          "article-37-"
+        ]
+      },
+      {
+        "id": "article-29-",
+        "title": "Article 29 :",
+        "type": "article",
+        "level": 5,
+        "order": 30,
+        "path": [
+          "titre-2",
+          "chapitre-2",
+          "section-1",
+          "paragraphe-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-30-",
+        "title": "Article 30 :",
+        "type": "article",
+        "level": 5,
+        "order": 31,
+        "path": [
+          "titre-2",
+          "chapitre-2",
+          "section-1",
+          "paragraphe-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-31-",
+        "title": "Article 31 :",
+        "type": "article",
+        "level": 5,
+        "order": 32,
+        "path": [
+          "titre-2",
+          "chapitre-2",
+          "section-1",
+          "paragraphe-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-32-",
+        "title": "Article 32 :",
+        "type": "article",
+        "level": 5,
+        "order": 33,
+        "path": [
+          "titre-2",
+          "chapitre-2",
+          "section-1",
+          "paragraphe-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-34-",
+        "title": "Article 34 :",
+        "type": "article",
+        "level": 5,
+        "order": 34,
+        "path": [
+          "titre-2",
+          "chapitre-2",
+          "section-1",
+          "paragraphe-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-36-",
+        "title": "Article 36 :",
+        "type": "article",
+        "level": 5,
+        "order": 35,
+        "path": [
+          "titre-2",
+          "chapitre-2",
+          "section-1",
+          "paragraphe-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-37-",
+        "title": "Article 37 :",
+        "type": "article",
+        "level": 5,
+        "order": 36,
+        "path": [
+          "titre-2",
+          "chapitre-2",
+          "section-1",
+          "paragraphe-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "section-3",
+        "title": "Section 3 : Des organes de contrôle juridictionnel Article 38",
+        "type": "section",
+        "level": 4,
+        "order": 37,
+        "path": [
+          "titre-2",
+          "chapitre-2",
+          "section-3"
+        ],
+        "children": [
+          "article-39-",
+          "article-40-"
+        ]
+      },
+      {
+        "id": "article-39-",
+        "title": "Article 39 :",
+        "type": "article",
+        "level": 4,
+        "order": 38,
+        "path": [
+          "titre-2",
+          "chapitre-2",
+          "section-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-40-",
+        "title": "Article 40 :",
+        "type": "article",
+        "level": 4,
+        "order": 39,
+        "path": [
+          "titre-2",
+          "chapitre-2",
+          "section-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "section-5",
+        "title": "Section 5 : Des institutions spécialisées autonomes Article 41",
+        "type": "section",
+        "level": 4,
+        "order": 40,
+        "path": [
+          "titre-2",
+          "chapitre-2",
+          "section-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-3",
+        "title": "CHAPITRE 3 : DU REGIME JURIDIQUE DES ACTES PRIS PAR LES ORGANES DE 50'UNION",
+        "type": "chapitre",
+        "level": 3,
+        "order": 41,
+        "path": [
+          "titre-2",
+          "chapitre-3"
+        ],
+        "children": [
+          "article-42-",
+          "article-43-",
+          "article-44-",
+          "article-45-",
+          "article-46-"
+        ]
+      },
+      {
+        "id": "article-42-",
+        "title": "Article 42 :",
+        "type": "article",
+        "level": 3,
+        "order": 42,
+        "path": [
+          "titre-2",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-43-",
+        "title": "Article 43 :",
+        "type": "article",
+        "level": 3,
+        "order": 43,
+        "path": [
+          "titre-2",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-44-",
+        "title": "Article 44 :",
+        "type": "article",
+        "level": 3,
+        "order": 44,
+        "path": [
+          "titre-2",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-45-",
+        "title": "Article 45 :",
+        "type": "article",
+        "level": 3,
+        "order": 45,
+        "path": [
+          "titre-2",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-46-",
+        "title": "Article 46 :",
+        "type": "article",
+        "level": 3,
+        "order": 46,
+        "path": [
+          "titre-2",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-3",
+        "title": "TITRE 3 : DU REGIME FINANCIER DE 50'UNION CHAPITRE 1 : DISPOSITIONS GENERALES",
+        "type": "titre",
+        "level": 2,
+        "order": 47,
+        "path": [
+          "titre-3"
+        ],
+        "children": [
+          "article-47-",
+          "article-48-",
+          "article-49-",
+          "article-50-",
+          "article-51-",
+          "article-17-",
+          "article-53-",
+          "article-55-",
+          "article-56-",
+          "article-57-",
+          "article-59-"
+        ]
+      },
+      {
+        "id": "article-47-",
+        "title": "Article 47 :",
+        "type": "article",
+        "level": 2,
+        "order": 48,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-48-",
+        "title": "Article 48 :",
+        "type": "article",
+        "level": 2,
+        "order": 49,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-49-",
+        "title": "Article 49 :",
+        "type": "article",
+        "level": 2,
+        "order": 50,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-50-",
+        "title": "Article 50 :",
+        "type": "article",
+        "level": 2,
+        "order": 51,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-51-",
+        "title": "Article 51 :",
+        "type": "article",
+        "level": 2,
+        "order": 52,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-17-",
+        "title": "Article 17 :",
+        "type": "article",
+        "level": 2,
+        "order": 53,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-53-",
+        "title": "Article 53 :",
+        "type": "article",
+        "level": 2,
+        "order": 54,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-55-",
+        "title": "Article 55 :",
+        "type": "article",
+        "level": 2,
+        "order": 56,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-56-",
+        "title": "Article 56 :",
+        "type": "article",
+        "level": 2,
+        "order": 57,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-57-",
+        "title": "Article 57 :",
+        "type": "article",
+        "level": 2,
+        "order": 58,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-59-",
+        "title": "Article 59 :",
+        "type": "article",
+        "level": 2,
+        "order": 60,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-4",
+        "title": "TITRE 4 : DES ACTIONS DE 50'UNION CHAPITRE 1 : DE 50'HARMONISATION DES LEGISLATIONS Article 60",
+        "type": "titre",
+        "level": 2,
+        "order": 61,
+        "path": [
+          "titre-4"
+        ],
+        "children": [
+          "article-61-",
+          "article-62-",
+          "article-64-",
+          "article-65-",
+          "article-66-",
+          "article-67-",
+          "article-68-",
+          "article-69-",
+          "article-70-",
+          "article-71-",
+          "article-72-",
+          "article-74-",
+          "article-75-",
+          "article-76-",
+          "article-78-",
+          "article-79-",
+          "article-80-",
+          "article-81-",
+          "article-83-",
+          "article-84-",
+          "article-85-",
+          "article-86-",
+          "article-87-",
+          "paragraphe-4",
+          "paragraphe-5",
+          "article-102-"
+        ]
+      },
+      {
+        "id": "article-61-",
+        "title": "Article 61 :",
+        "type": "article",
+        "level": 2,
+        "order": 62,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-62-",
+        "title": "Article 62 :",
+        "type": "article",
+        "level": 2,
+        "order": 64,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-64-",
+        "title": "Article 64 :",
+        "type": "article",
+        "level": 2,
+        "order": 65,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-65-",
+        "title": "Article 65 :",
+        "type": "article",
+        "level": 2,
+        "order": 66,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-66-",
+        "title": "Article 66 :",
+        "type": "article",
+        "level": 2,
+        "order": 67,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-67-",
+        "title": "Article 67 :",
+        "type": "article",
+        "level": 2,
+        "order": 68,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-68-",
+        "title": "Article 68 :",
+        "type": "article",
+        "level": 2,
+        "order": 69,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-69-",
+        "title": "Article 69 :",
+        "type": "article",
+        "level": 2,
+        "order": 70,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-70-",
+        "title": "Article 70 :",
+        "type": "article",
+        "level": 2,
+        "order": 71,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-71-",
+        "title": "Article 71 :",
+        "type": "article",
+        "level": 2,
+        "order": 72,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-72-",
+        "title": "Article 72 :",
+        "type": "article",
+        "level": 2,
+        "order": 73,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-74-",
+        "title": "Article 74 :",
+        "type": "article",
+        "level": 2,
+        "order": 74,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-75-",
+        "title": "Article 75 :",
+        "type": "article",
+        "level": 2,
+        "order": 75,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-76-",
+        "title": "Article 76 :",
+        "type": "article",
+        "level": 2,
+        "order": 77,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-78-",
+        "title": "Article 78 :",
+        "type": "article",
+        "level": 2,
+        "order": 79,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-79-",
+        "title": "Article 79 :",
+        "type": "article",
+        "level": 2,
+        "order": 80,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-80-",
+        "title": "Article 80 :",
+        "type": "article",
+        "level": 2,
+        "order": 81,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-81-",
+        "title": "Article 81 :",
+        "type": "article",
+        "level": 2,
+        "order": 82,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-83-",
+        "title": "Article 83 :",
+        "type": "article",
+        "level": 2,
+        "order": 84,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-84-",
+        "title": "Article 84 :",
+        "type": "article",
+        "level": 2,
+        "order": 85,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-85-",
+        "title": "Article 85 :",
+        "type": "article",
+        "level": 2,
+        "order": 86,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-86-",
+        "title": "Article 86 :",
+        "type": "article",
+        "level": 2,
+        "order": 87,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-87-",
+        "title": "Article 87 :",
+        "type": "article",
+        "level": 2,
+        "order": 88,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "paragraphe-4",
+        "title": "Paragraphe 4 : Des règles de concurrence",
+        "type": "paragraphe",
+        "level": 6,
+        "order": 89,
+        "path": [
+          "titre-4",
+          "paragraphe-4"
+        ],
+        "children": [
+          "article-88-",
+          "article-89-",
+          "article-90-"
+        ]
+      },
+      {
+        "id": "article-88-",
+        "title": "Article 88 :",
+        "type": "article",
+        "level": 3,
+        "order": 90,
+        "path": [
+          "titre-4",
+          "paragraphe-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-89-",
+        "title": "Article 89 :",
+        "type": "article",
+        "level": 3,
+        "order": 91,
+        "path": [
+          "titre-4",
+          "paragraphe-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-90-",
+        "title": "Article 90 :",
+        "type": "article",
+        "level": 3,
+        "order": 92,
+        "path": [
+          "titre-4",
+          "paragraphe-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "paragraphe-5",
+        "title": "Paragraphe 5 : De la libre circulation des personnes, des services et des capitaux Article 91 (modifié)",
+        "type": "paragraphe",
+        "level": 6,
+        "order": 93,
+        "path": [
+          "titre-4",
+          "paragraphe-5"
+        ],
+        "children": [
+          "article-92-",
+          "article-93-",
+          "article-94-",
+          "article-95-",
+          "article-96-",
+          "article-97-",
+          "article-98-",
+          "article-99-",
+          "article-100-"
+        ]
+      },
+      {
+        "id": "article-92-",
+        "title": "Article 92 :",
+        "type": "article",
+        "level": 3,
+        "order": 94,
+        "path": [
+          "titre-4",
+          "paragraphe-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-93-",
+        "title": "Article 93 :",
+        "type": "article",
+        "level": 3,
+        "order": 95,
+        "path": [
+          "titre-4",
+          "paragraphe-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-94-",
+        "title": "Article 94 :",
+        "type": "article",
+        "level": 3,
+        "order": 96,
+        "path": [
+          "titre-4",
+          "paragraphe-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-95-",
+        "title": "Article 95 :",
+        "type": "article",
+        "level": 3,
+        "order": 97,
+        "path": [
+          "titre-4",
+          "paragraphe-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-96-",
+        "title": "Article 96 :",
+        "type": "article",
+        "level": 3,
+        "order": 98,
+        "path": [
+          "titre-4",
+          "paragraphe-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-97-",
+        "title": "Article 97 :",
+        "type": "article",
+        "level": 3,
+        "order": 99,
+        "path": [
+          "titre-4",
+          "paragraphe-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-98-",
+        "title": "Article 98 :",
+        "type": "article",
+        "level": 3,
+        "order": 100,
+        "path": [
+          "titre-4",
+          "paragraphe-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-99-",
+        "title": "Article 99 :",
+        "type": "article",
+        "level": 3,
+        "order": 101,
+        "path": [
+          "titre-4",
+          "paragraphe-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-100-",
+        "title": "Article 100 :",
+        "type": "article",
+        "level": 3,
+        "order": 102,
+        "path": [
+          "titre-4",
+          "paragraphe-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-102-",
+        "title": "Article 102 :",
+        "type": "article",
+        "level": 2,
+        "order": 104,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-5",
+        "title": "TITRE 5 : DISPOSITIONS DIVERSES",
+        "type": "titre",
+        "level": 2,
+        "order": 105,
+        "path": [
+          "titre-5"
+        ],
+        "children": [
+          "chapitre-1",
+          "article-107-"
+        ]
+      },
+      {
+        "id": "chapitre-1",
+        "title": "CHAPITRE 1 : DE 50'ADMISSION DE NOUVEAUX ETATS MEMBRES ET DE MEMBRES ASSOCIES",
+        "type": "chapitre",
+        "level": 3,
+        "order": 106,
+        "path": [
+          "titre-5",
+          "chapitre-1"
+        ],
+        "children": [
+          "article-103-",
+          "article-104-",
+          "article-105-"
+        ]
+      },
+      {
+        "id": "article-103-",
+        "title": "Article 103 :",
+        "type": "article",
+        "level": 3,
+        "order": 107,
+        "path": [
+          "titre-5",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-104-",
+        "title": "Article 104 :",
+        "type": "article",
+        "level": 3,
+        "order": 108,
+        "path": [
+          "titre-5",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-105-",
+        "title": "Article 105 :",
+        "type": "article",
+        "level": 3,
+        "order": 109,
+        "path": [
+          "titre-5",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-107-",
+        "title": "Article 107 :",
+        "type": "article",
+        "level": 2,
+        "order": 111,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-6",
+        "title": "TITRE 6 : DISPOSITIONS TRANSITOIRES ET FINALES CHAPITRE 1 : DE LA MISE EN PLACE DES ORGANES DE 50'UNION Article 108",
+        "type": "titre",
+        "level": 2,
+        "order": 112,
+        "path": [
+          "titre-6"
+        ],
+        "children": [
+          "article-109-",
+          "article-110-",
+          "article-111-",
+          "article-113-",
+          "article-114-",
+          "article-115-"
+        ]
+      },
+      {
+        "id": "article-109-",
+        "title": "Article 109 :",
+        "type": "article",
+        "level": 2,
+        "order": 113,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-110-",
+        "title": "Article 110 :",
+        "type": "article",
+        "level": 2,
+        "order": 114,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-111-",
+        "title": "Article 111 :",
+        "type": "article",
+        "level": 2,
+        "order": 115,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-113-",
+        "title": "Article 113 :",
+        "type": "article",
+        "level": 2,
+        "order": 117,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-114-",
+        "title": "Article 114 :",
+        "type": "article",
+        "level": 2,
+        "order": 118,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-115-",
+        "title": "Article 115 :",
+        "type": "article",
+        "level": 2,
+        "order": 119,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      }
+    ],
+    "totalArticles": 93
+  },
+  "source": "internationale"
+}

@@ -1,0 +1,2 @@
+La décision du juge est notifiée à la diligence de celui-ci, dans le délai de dix (10) jours, au requérant, au tuteur, à l'administrateur légal et à tous ceux dont elle modifie les droits ou les charges, s’ils ne sont pas présents.
+Dans tous les cas, la décision du juge peut être frappée de recours dans les quinze (15) jours devant la cour d’appel. Le recours est ouvert aux personnes mentionnées à l’alinéa précédent à compter de la notification ou, si elles étaient présentes, du prononcé de la décision.

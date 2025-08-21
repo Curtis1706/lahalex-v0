@@ -1,0 +1,2 @@
+En vue de la préparation de l’acte de mariage, l’officier de l'état civil informe les futurs époux que, sauf convention matrimoniale contraire, ils sont soumis au régime de la séparation des biens.
+Les questions à poser par l’officier de l’état civil et les réponses des futurs époux sont consignées sur un formulaire -type d’un modèle fixé par décret.

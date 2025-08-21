@@ -1,0 +1,1 @@
+La contrainte par corps ne peut être prononcée contre les individus âgés de moins de dix-huit (18) ans accomplis à l’époque des faits qui ont motivé la poursuite, ni contre ceux qui ont commencé leur soixantième année au moment de la condamnation. Elle ne peut être prononcée contre le débiteur au profit de ses descendants.

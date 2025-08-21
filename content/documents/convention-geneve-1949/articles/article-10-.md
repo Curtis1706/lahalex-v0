@@ -1,0 +1,2 @@
+La Puissance qui aura créé une ou plusieurs zones sanitaires et de sécurité, ainsi que les par- ties adverses auxquelles leur existence aura été notifiée nommeront, ou feront désigner par
+les Puissances protectrices ou par d’autres Puissances neutres, les personnes qui pourront faire partie des commissions spéciales dont il est fait mention aux articles 8 et 9.

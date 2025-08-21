@@ -1,0 +1,2 @@
+Est puni de la réclusion criminelle à temps de dix (10) ans à vingt
+(20) ans et d’une amende de cent millions (100.000.000) à deux cent millions (200.000.000) de francs CFA, quiconque, menace, dans des circonstances qui rendent la menace crédible, de commettre une des infractions prévues à l’article 216 ci-dessus.

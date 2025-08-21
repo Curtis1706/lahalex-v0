@@ -1,0 +1,1 @@
+Les traitements, indemnités et pensions des membres de la Commission sont fixés par le Conseil, statuant à la majorité des deux tiers (2/3) de ses membres.

@@ -1,0 +1,15 @@
+{
+  "id": "article-128-",
+  "title": "Article 128 : Incompatibilités",
+  "numero": "128 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-127-",
+    "next": "article-129-"
+  }
+}

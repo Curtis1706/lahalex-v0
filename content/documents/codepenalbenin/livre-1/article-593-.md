@@ -1,0 +1,1 @@
+Quiconque s’est livré à la traite d’enfant est puni de la réclusion criminelle à perpétuité.

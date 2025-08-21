@@ -1,0 +1,4 @@
+Négligence caractérisée
+La peine complémentaire définie à l’article précédent peut être prononcée selon les mêmes modalités, en cas de négligence caractérisée définie ci-dessous, à l'encontre du titulaire de l'accès à un service de communication au public en ligne auquel le Bureau béninois du droit d’auteur et droits voisins a préalablement adressé, par voie d'une lettre remise contre signature ou de tout autre moyen propre à établir la preuve de la date de présentation, une recommandation l'invitant à mettre en œuvre un moyen de sécurisation de son accès à internet.
+La négligence caractérisée s'apprécie sur la base des faits commis au plus tard un (1) an après la présentation de la recommandation mentionnée à l'alinéa précédent.
+Dans ce cas, l’amende maximale est de cinq cent mille (500 000) francs CFA.

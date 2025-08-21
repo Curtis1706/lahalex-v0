@@ -1,0 +1,1 @@
+Le comptable de la commune ou de l’établissement public de coopération intercommunale élabore, en relation avec l'ordonnateur, un plan de trésorerie qu'il met périodiquement à jour en vue de maîtriser la gestion de la trésorerie.

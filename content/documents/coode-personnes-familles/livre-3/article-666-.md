@@ -1,0 +1,1 @@
+L'héritier bénéficiaire ne peut faire aucun paiement aux créanciers ou légataires avant l’expiration d’un délai de trois (3) mois à compter du jour de la déclaration prévue à l’article 658 du présent code.

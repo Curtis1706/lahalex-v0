@@ -1,0 +1,2 @@
+Interconnexion des fichiers comportant des données à caractère personnel
+L’interconnexion des fichiers visée à l’article 405 du présent code doit permettre d’atteindre des objectifs légaux ou statutaires présentant un intérêt légitime pour les responsables des traitements. Elle ne peut pas entraîner de discrimination ou de réduction des droits, libertés et garanties pour les personnes concernées ni être assortie de mesures de sécurité appropriées et doit en outre tenir compte du principe de pertinence des données faisant l’objet de l’interconnexion.

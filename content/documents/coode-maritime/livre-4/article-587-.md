@@ -1,0 +1,1 @@
+Peuvent être assurés le fret, les salaires, les frais d’entretien et de rapatriement, les profits espérés et généralement, toutes choses évaluables en argent sujettes aux risques de la navigation.

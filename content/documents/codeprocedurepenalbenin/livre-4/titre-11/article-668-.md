@@ -1,0 +1,2 @@
+Le juge des enfants doit recueillir par une enquête sociale, des renseignements sur la situation matérielle et morale du mineur poursuivi, sur le caractère, les antécédents et la personnalité du mineur, sur sa fréquentation scolaire, sur son attitude à l’école, sur les conditions dans lesquelles il a vécu et a été élevé, sur les moyens appropriés à sa rééducation ainsi que sur la situation morale et matérielle de ses parents.
+Cette enquête est complétée s’il y a lieu, par un examen médical ou médico- psychologique.

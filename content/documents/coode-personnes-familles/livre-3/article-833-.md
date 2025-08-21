@@ -1,0 +1,2 @@
+La disposition par laquelle un tiers serait appelé à recueillir le don, l’hérédité ou le legs, dans le cas où le donataire, l’héritier institué ou le légataire ne le recueillerait pas, ne sera pas regardée comme une substitution et sera valable.
+Il en sera de même de la disposition entre vifs ou testamentaire par laquelle l’usufruit sera donné à l'un et la nue-propriété à l’autre.

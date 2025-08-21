@@ -1,0 +1,3 @@
+Les marchandises sont assurées sans interruption, en quelque endroit qu’elles se trouvent, dans les limites définies par la police.
+Toute durée anormale de séjour, de transit ou de transbordement, toute escale ou tout déroutement non prévus lors de la conclusion du contrat, donnent droit pour l’assureur à une majoration de la prime.
+Les règles de l’assurance maritime sont applicables aux parties du voyage effectué par voies terrestre, fluviale ou aérienne.

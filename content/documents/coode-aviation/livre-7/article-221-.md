@@ -1,0 +1,1 @@
+Dans l'intérêt de la sécurité de l'aviation civile, l’organisme national en charge de l'aviation civile dispose des installations, de l'équipement et du personnel nécessaires à l’exécution de sa fonction de supervision de la sécurité aérienne.

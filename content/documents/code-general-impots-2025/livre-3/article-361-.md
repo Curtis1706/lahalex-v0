@@ -1,0 +1,1 @@
+Les officiers publics qui, aux termes de l’article 359 du présent code, auraient fait pour les parties l’avance des droits d’enregistrement, pourront en poursuivre le paiement conformément aux dispositions du code de procédure civile.

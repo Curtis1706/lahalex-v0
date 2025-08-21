@@ -1,0 +1,1 @@
+Les infractions aux dispositions de l’article 66 sont punies d’une peine d’amende de cinq millions (5.000.000) à cinquante millions (50.000.000) de francs, ou de l’une de ces deux (02) peines seulement.

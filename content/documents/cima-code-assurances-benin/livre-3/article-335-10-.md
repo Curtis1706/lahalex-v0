@@ -1,0 +1,4 @@
+Garantie des créances sur les réassureurs
+La garantie des créances sur les réassureurs mentionnés au deuxième alinéa de l’article 335-5 est constituée soit par des dépôts en espèces, soit par des lettres de crédits bancaires, soit par le nantissement des valeurs visées au 1) et 2) de l’article 335-1.
+Les valeurs reçues en nantissement sont évaluées conformément aux dispositions des articles 335-11 et 335-12.
+Les lettres de crédits mentionnées au premier alinéa du présent article ne peuvent être délivrées que par un établissement de crédit domicilié dans un Etat membre de la CIMA et n’appartenant pas au même groupe que la cédante et / ou le réassureur.

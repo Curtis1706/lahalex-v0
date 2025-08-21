@@ -1,0 +1,14 @@
+{
+  "id": "article-41-",
+  "title": "Article 41 :",
+  "numero": "41 ",
+  "document": "codepensions",
+  "path": [
+    "titre-8"
+  ],
+  "navigation": {
+    "parent": "titre-8",
+    "previous": "article-40-",
+    "next": "article-42-"
+  }
+}

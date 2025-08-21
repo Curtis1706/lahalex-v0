@@ -1,0 +1,3 @@
+Hors le cas de force majeure, les aéronefs ne peuvent atterrir et prendre départ que sur les aérodromes régulièrement établis.
+Un décret pris en Conseil des ministres sur proposition conjointe du ministre chargé de l'aviation civile et du ministre chargé de la sécurité publique, fixe les conditions dans lesquelles les aéronefs de certains types peuvent atterrir ou décoller ailleurs que sur un aérodrome, avec l'accord de la personne qui a la jouissance du terrain ou du plan d’eau utilisé.
+Cet accord n’est toutefois pas nécessaire lorsqu'il s'agit d’opérations d'assistance ou de sauvetage pour lesquelles il est recouru à des aéronefs.

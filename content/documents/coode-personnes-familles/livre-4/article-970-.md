@@ -1,0 +1,4 @@
+La reconnaissance ou la force exécutoire doit être refusée :
+- si le jugement ou l’arrêt étranger est incompatible avec les principes de l’ordre public béninois ;
+- si les parties n'ont pas été régulièrement citées ou déclarées défaillantes, si elles n’ont pu être régulièrement représentées ou faire valoir leurs moyens ;
+- si un litige entre les mêmes parties et ayant le même objet est pendant devant une juridiction béninoise antérieurement saisie ou y a déjà été jugé, ou a donné lieu à une décision judiciaire dans un autre Etat pour autant que cette dernière décision puisse être reconnue au Bénin.

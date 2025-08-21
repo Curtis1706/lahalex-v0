@@ -1,0 +1,1 @@
+La base d’imposition du versement patronal sur salaires est identique à celle de l’impôt sur les traitements et salaires.

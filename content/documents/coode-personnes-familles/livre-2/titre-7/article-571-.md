@@ -1,0 +1,1 @@
+Le testament fait après l’ouverture de la tutelle sera nul de plein droit, le testament antérieurement fait, restera valable, à moins qu’il ne soit établi que, depuis l’ouverture de la tutelle, a disparu la cause qui avait déterminé le testateur à disposer.

@@ -1,0 +1,14 @@
+{
+  "id": "article-101-",
+  "title": "Article 101 : Soustraitance",
+  "numero": "101 ",
+  "document": "code-marche-public",
+  "path": [
+    "titre-4"
+  ],
+  "navigation": {
+    "parent": "titre-4",
+    "previous": "article-100-",
+    "next": "article-102-"
+  }
+}

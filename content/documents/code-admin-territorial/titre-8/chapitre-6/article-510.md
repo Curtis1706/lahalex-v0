@@ -1,0 +1,1 @@
+La comptabilité des matières est une comptabilité d’inventaire permanent ayant pour objet la description des biens meubles et immeubles, autres que les deniers et valeurs de la commune ou de l’établissement public de coopération intercommunale.

@@ -1,0 +1,15 @@
+Renseignement généraux : entreprises étrangères
+Les renseignements généraux du dossier annuel à produire à la Commission de Contrôle des Assurances et au Ministre en charge des assurances dans l’Etat membre par les entreprises étrangères sont les suivants :
+a) la raison sociale de l’entreprise, la date de sa constitution, l’adresse de son siège social et de son siège spécial dans le pays concerné et, s’il y a lieu, la date d’agrément ;
+b) les nom, domicile, nationalité et profession des membres du Conseil d’Administration, des directeurs et du mandataire général ou de son représentant légal ; la date de l’acceptation du mandataire général ;
+c) la raison sociale de la société mère s’il y a lieu, et la liste des filiales ;
+d) un tableau indiquant les modifications apportées au cours de l’exercice au capital social et aux fonds sociaux ;
+e) un bilan et un compte de pertes et profits pour l’ensemble des opérations. En outre, les renseignements suivants doivent être fournis en ce qui concerne les opérations effectuées par le siège spécial dans le pays concerné ;
+f) la liste des branches exploitées, l’année du début de l’exploitation et la date des agréments ;
+g) un tableau indiquant les ventes et les achats de portefeuilles de contrats effectués au cours de l’exercice, les modifications aux branches exploitées dans le pays concerné ;
+h) la liste des accords conclus avec d’autres entreprises d’assurance en matière de tarifs, de conditions générales des contrats, d’organisation professionnelle, de concurrence ou de gestion financière ainsi que la liste des accords administratifs ou commerciaux avec d’autres entreprises d’assurance, de réassurance ou de capitalisation ;
+i) les obligations et les autres emprunts émis au cours de, l’exercice, les remboursements et les amortissements effectués ;
+j) la liste des personnes physiques ou morales qui se sont portées caution pour l’entreprise ;
+k) une déclaration aux termes de laquelle l’entreprise ne s’est portée caution pour aucune personne physique ou morale ou, dans le cas contraire, le nom des personnes pour lesquelles l’entreprise s’est portée caution et le montant des engagements garantis ; une déclaration aux termes de laquelle l’entreprise n’a pris aucun engagement de vente ou d’achat à terme et n’a signé aucune promesse d’achat ou de vente, ou, dans le cas contraire, la déclaration du montant des engagements de cette nature souscrits restant en cours au 31 décembre ;
+l) une déclaration relative aux engagements pris par l’entreprise si celle-ci pratique des opérations de coassurance ou de co-réassurance comportant solidarité entre les assureurs ou les réassureurs ;
+m) un tableau indiquant l’effectif, au dernier jour de l’exercice, du personnel salarié de l’entreprise dans le pays concerné ventilé en « personnel de direction et cadres », « inspecteurs du cadre », « agents de maîtrise », « employés », « autres producteurs salariés », « total du personnel salarié dans le pays concerné », ainsi que le nombre d’agents généraux dans le pays concerné.

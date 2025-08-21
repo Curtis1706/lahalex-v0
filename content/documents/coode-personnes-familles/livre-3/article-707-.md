@@ -1,0 +1,3 @@
+Le liquidateur peut vendre les fruits et récoltes ainsi que tous biens mobiliers qui sont sujets à dépérissement rapide ou qui exigent, pour leur garde ou leur conservation, des frais considérables ou des soins particuliers.
+Il ne peut vendre les autres biens mobiliers que dans la mesure où la vente est nécessaire pour acquitter les dettes de la succession.
+Il ne peut vendre les biens immobiliers qu’avec le consentement de tous les héritiers ou l’autorisation du tribunal.

@@ -1,0 +1,1 @@
+Les personnes qui habitent à l’étranger sont citées au parquet du procureur de la République du tribunal saisi, lequel vise l’original et envoie la copie au ministère en charge des affaires étrangères ou à toute autre autorité déterminée par les conventions internationales.

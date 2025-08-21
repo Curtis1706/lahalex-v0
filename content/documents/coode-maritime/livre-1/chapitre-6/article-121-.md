@@ -1,0 +1,2 @@
+Les privilèges prévus à l’article 114 ci-dessus suivent le navire en quelque main qu’il passe.
+Ils s’éteignent à l’expiration du délai d’un (01) an pour toute créance, autres que les créances de fournitures visées au point 6 dudit article ; dans ce dernier cas, le délai est réduit à six (06) mois.

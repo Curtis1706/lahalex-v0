@@ -1,0 +1,1 @@
+En cas de dommage résultant d’un acte malveillant et causé par des colis postaux ou du fret visé par la présente section, la responsabilité d’un agent habilité ne peut être engagée qu'en raison de l'inobservation des procédures de sûreté prévues par la présente loi ou en vertu de la présente loi.

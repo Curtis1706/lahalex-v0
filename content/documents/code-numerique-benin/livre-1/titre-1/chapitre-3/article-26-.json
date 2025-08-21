@@ -1,0 +1,16 @@
+{
+  "id": "article-26-",
+  "title": "Article 26 : Modification des contrats avec les utilisateurs",
+  "numero": "26 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-3"
+  ],
+  "navigation": {
+    "parent": "chapitre-3",
+    "previous": "article-25-",
+    "next": "article-27-"
+  }
+}

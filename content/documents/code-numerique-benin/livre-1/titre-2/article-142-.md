@@ -1,0 +1,2 @@
+Communication des rapports de contrôle externes
+Les rapports établis à la suite des contrôles externes sont communiqués simultanément au Ministre chargé des finances et au Ministre chargé des communications électroniques.

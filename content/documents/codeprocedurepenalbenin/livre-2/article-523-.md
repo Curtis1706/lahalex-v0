@@ -1,0 +1,2 @@
+Pour statuer sur l’appel des jugements rendus en matière pénale, la cour d’appel est composée d’un (01) président et de deux (02) conseillers désignés conformément aux dispositions de la loi portant organisation judiciaire.
+Les fonctions du ministère public sont exercées par le procureur général ou l’un de ses substituts, celle du greffe par un greffier de la cour d’appel.

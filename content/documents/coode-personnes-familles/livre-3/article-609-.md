@@ -1,0 +1,1 @@
+En ligne directe, on compte autant de degré qu’il y a de générations entre les personnes. Ainsi, le fils est, à l’égard du père, au 1 degré ; le petit-fils au second ; et réciproquement du père et de l’aïeul à l’égard des fils et petits-fils.

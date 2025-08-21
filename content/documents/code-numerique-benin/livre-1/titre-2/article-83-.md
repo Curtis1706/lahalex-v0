@@ -1,0 +1,2 @@
+Principe de non thésaurisation et de non spéculation
+Les ressources et/ou capacités issues d’infrastructures essentielles ne peuvent faire l’objet de spéculation ou de thésaurisation de la part des opérateurs qui les exploitent ou qui y ont accès.

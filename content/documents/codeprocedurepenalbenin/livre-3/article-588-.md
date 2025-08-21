@@ -1,0 +1,1 @@
+En matière correctionnelle et de police, le prévenu n’est pas recevable à présenter comme moyen de cassation les nullités commises en première instance s’il ne les a opposées devant la cour d’appel à l’exception de la nullité pour cause d’incompétence s’il y a eu appel du ministère public.

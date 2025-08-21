@@ -1,0 +1,2 @@
+Les  passeports  ordinaires  délivrés  par  la  République  du  Bénin  sont assujettis, soit lors de leur délivrance, soit lors de leur renouvellement, à un timbre de six cents (600) francs CFA.
+Sont dispensés du paiement de ce timbre, les passeports délivrés aux fonctionnaires se rendant en mission à l’étranger.

@@ -1,0 +1,1 @@
+Lorsque le Président de la République, les membres du gouvernement sont reconnus coupables d’infractions commises dans l’exercice ou à l’occasion de l’exercice de leurs fonctions, la déchéance de leurs fonctions est prononcée contre eux.

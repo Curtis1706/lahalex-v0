@@ -1,0 +1,1 @@
+Le chef de village ou de quartier de ville suit la qualité des points d'eau et le bon état des installations en eau potable dans le village ou le quartier de ville. Il veille à la santé des denrées alimentaires.

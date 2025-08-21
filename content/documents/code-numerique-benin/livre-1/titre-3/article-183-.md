@@ -1,0 +1,2 @@
+Non thésaurisation et utilisation optimale des ressources en fréquences
+En application du principe de non thésaurisation et d’utilisation optimale du spectre de fréquences radioélectriques, l’Autorité de régulation peut procéder au retrait de toute fréquence qui ne serait pas exploitée par un opérateur dans un délai de douze (12) mois suivant son assignation, sous réserve des fréquences qui lui sont nécessaires pour faire face à l’évolution prévisible de son activité dans les deux (02) années à venir.

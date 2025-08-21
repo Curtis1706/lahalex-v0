@@ -1,0 +1,1 @@
+Tout responsable d'unité industrielle prend des mesures pour la protection de la santé des travailleurs, de leurs familles et de la population riveraine.

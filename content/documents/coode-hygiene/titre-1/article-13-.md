@@ -1,0 +1,1 @@
+2 est interdit de jeter ou d'enfouir les cadavres d'animaux, les dépouilles de toute nature et les ordures ménagères sur les voies publiques.

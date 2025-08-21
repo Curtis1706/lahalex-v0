@@ -1,0 +1,3 @@
+L'action en responsabilité est portée, au choix du demandeur, soit devant la juridiction du lieu d’embarquement ou de destination, soit devant la juridiction du domicile du transporteur, du siège social de son exploitation ou du lieu où il possède un établissement par le soin duquel le contrat a été conclu.
+L'action en responsabilité est prescrite si elle n'a été intentée dans un délai de deux ans à compter du jour où l'aéronef est arrivé ou aurait dû arriver à destination, ou de l'arrêt du transport.
+Le mode de calcul du délai est déterminé par la loi de la juridiction saisie.

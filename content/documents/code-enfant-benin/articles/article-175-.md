@@ -1,0 +1,2 @@
+Article 175 : Droit à une vie décente
+L’enfant mentalement et/ou physiquement handicapé a droit à une vie décente dans des conditions qui garantissent sa dignité, favorisent son autonomie et facilitent sa participation à la vie de la communauté.

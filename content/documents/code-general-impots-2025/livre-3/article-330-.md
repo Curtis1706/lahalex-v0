@@ -1,0 +1,2 @@
+1)  L’assiette  des  droits  d’enregistrement  est  déterminée  par  le  prix exprimé dans l’acte de mutation immobilière, en y ajoutant toutes les charges en capital, ainsi que toutes les indemnités stipulées au profit du cédant, à quelque titre et pour quelque cause que ce soit, ou par une estimation d’experts.
+2) Lorsque la mutation porte à la fois sur un immeuble par nature et des immeubles par destination, ces derniers doivent faire l’objet d’un prix particulier et d’une désignation détaillée.

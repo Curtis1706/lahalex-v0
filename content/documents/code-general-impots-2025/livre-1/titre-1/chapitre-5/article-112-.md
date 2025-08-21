@@ -1,0 +1,6 @@
+1) La valeur d’acquisition est la somme ou contre-valeur déboursée par le cédant pour obtenir la propriété de l’immeuble ou du droit réel immobilier. Elle est déterminée à partir du prix d’achat ou de l’estimation de la valeur d’acquisition de l’immeuble ou du droit réel immobilier et des ouvrages qu’il comporte à l’époque de l’acquisition.
+Le prix d’achat ou l’estimation est révélé par les actes de toute nature ayant date
+certaine.
+2) À défaut de documents relatifs à l’immeuble lui-même ou en cas de majoration du  prix  d’achat,  la  plus-value  est  déterminée  à  partir  de  la  valeur  d’acquisition  de référence.
+La valeur d’acquisition de référence est la valeur actualisée de la somme ou contre- valeur qu’aurait déboursée le cédant pour obtenir la propriété de l’immeuble. Les valeurs d’acquisition de référence sont fixées et révisées périodiquement par arrêté du ministre chargé des finances.
+Toutefois, la somme déboursée en ce qui concerne un créancier saisissant demeuré, faute d’enchérisseurs, adjudicataire de l’immeuble hypothéqué à son profit, est celle qui figure au commandement qui a été signifié à son débiteur préalablement à la saisie, en application de l’article 1224 du code de procédure civile, pourvu que cette somme soit supérieure au prix d’adjudication.

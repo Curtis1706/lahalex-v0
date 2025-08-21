@@ -1,0 +1,1 @@
+Les dispositions du présent titre sont applicables aux seuls traitements, salaires et pensions, dont la charge incombe aux budgets des collectivités et Etablissements Publics du Bénin ainsi qu’à leurs Budgets annexes.

@@ -1,0 +1,1 @@
+Quiconque emploie sciemment en République du Bénin, la main-d’œuvre d’un enfant provenant de la traite d’enfants, quelle que soit la nature du travail, est puni d’une amende de cinq cent mille (500.000) francs CFA à cinq millions (5.000.000) de francs CFA et d’un emprisonnement de six (06) mois à vingt-quatre (24) mois ou de l’une de ces deux peines seulement.

@@ -1,0 +1,5 @@
+Nature des données conservées
+Les données conservées et traitées dans les conditions définies aux articles 34 à 36 portent exclusivement sur l’identification des utilisateurs, sur les caractéristiques techniques des communications assurées par les opérateurs et sur la localisation des équipements terminaux.
+Elles ne peuvent en aucun cas porter sur le contenu des correspondances échangées ou des informations consultées, sous quelque forme que ce soit, dans le cadre de ces communications.
+La conservation et le traitement de ces données s'effectuent dans le respect des dispositions du Livre V du présent code, relatives à la protection des données à caractère personnel.
+Les opérateurs de réseaux et/ou services de communications électroniques ouverts au public prennent toutes mesures pour empêcher une utilisation de ces données à des fins autres que celles prévues aux articles 33 à 36 du présent code.

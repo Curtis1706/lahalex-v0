@@ -1,0 +1,1 @@
+Les acquisitions immobilières et l'aliénation des biens par la commune sont soumises aux conditions prévues par la réglementation applicable aux opérations analogues effectuées par l'Etat.

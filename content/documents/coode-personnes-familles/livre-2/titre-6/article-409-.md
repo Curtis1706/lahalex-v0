@@ -1,0 +1,1 @@
+Les père et mère ou toute autre personne investie de l’autorité parentale surveillent les actes et relations de l’enfant.

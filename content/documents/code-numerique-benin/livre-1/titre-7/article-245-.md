@@ -1,0 +1,2 @@
+Prospection directe
+Est puni d’un emprisonnement de six (06) mois à douze (12) mois et d’une amende de cinq cent mille (500 000) francs CFA à deux millions (2 000 000) de francs CFA ou de l’une de ces deux peines seulement, sans préjudice des dommages et intérêts, quiconque fait de la prospection directe au moyen d’un automate d’appel, d’un télécopieur ou d’un courrier électronique utilisant, sous quelque forme que ce soit, les coordonnées d’une personne physique qui n’a pas exprimé son consentement préalable à recevoir ladite prospection.

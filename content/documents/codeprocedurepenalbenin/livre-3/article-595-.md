@@ -1,0 +1,1 @@
+Les demandes en révision sont réglées selon les dispositions des articles 596 à 602 du présent code.

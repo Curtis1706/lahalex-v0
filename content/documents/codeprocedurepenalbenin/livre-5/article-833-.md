@@ -1,0 +1,3 @@
+Dans le délai de trois (03) mois à compter du jour où la décision est devenue définitive, le condamné doit s’acquitter de sa dette entre les mains du trésorier payeur ou de l’un de ses comptables subordonnés.
+Le président de la juridiction ayant prononcé la condamnation au profit de l’Etat, avertit à l’audience le condamné du délai qui lui est imparti pour s’en acquitter et mention de cet avertissement doit être portée dans le jugement ou l’arrêt.
+Lorsqu’il y a lieu à signification du jugement ou de l’arrêt, le condamné est averti par l’acte de signification du délai qui lui est imparti pour s’acquitter de la contrainte.

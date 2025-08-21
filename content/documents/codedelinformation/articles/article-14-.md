@@ -1,0 +1,2 @@
+Les organes et agences de presse sont tenus d’assurer et de respecter le pluralisme de l’information.
+A ce titre, ils prennent toutes mesures de nature à garantir le caractère pluraliste de l’expression des courants de pensée et d’opinion ainsi que la crédibilité de l’information et son indépendance à l’égard des partis et regroupements politiques, des lobbies d’intérêts économiques, religieux et philosophiques.

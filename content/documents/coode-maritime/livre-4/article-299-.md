@@ -1,0 +1,1 @@
+Les navires peuvent être exploités par des sociétés d’armement constituées conformément au droit commun.

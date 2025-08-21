@@ -1,0 +1,2 @@
+Article 384 : Dans le cas où le délit visé à l’article 5 de la présente loi est commis par un étranger sur un enfant béninois en République du Bénin ou à l’étranger, la loi béninoise est applicable.
+La loi béninoise est également applicable, lorsque l’infraction est commise à l’étranger par un Béninois ou par un non Béninois résidant ou retrouvé en République du Bénin ou, lorsque la victime non béninoise vit en République du Bénin.

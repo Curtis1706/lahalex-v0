@@ -1,0 +1,3 @@
+Transmission de signaux ou correspondances
+Toute personne qui transmet, sans accomplissement des formalités requises des signaux ou correspondances d’un lieu à un autre, soit à l’aide d’appareils de communications électroniques soit par tout autre moyen prévu par le présent code, est punie d’un emprisonnement de trois (03) mois à douze (12) mois et d’une amende de cinq cent mille (500 000) francs CFA à deux millions (2 000 000) de francs CFA ou de l’une de ces deux peines seulement.
+Le tribunal peut, à la requête de l’Autorité de régulation, ordonner la confiscation des installations, des appareils ou moyens de transmission et/ou leur destruction aux frais du contrevenant.

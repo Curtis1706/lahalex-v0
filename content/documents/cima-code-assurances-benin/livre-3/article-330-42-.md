@@ -1,0 +1,3 @@
+Sociétés d’assurance mutuelles, constitution, formalités
+Dans le mois de la constitution de toute société d’assurance mutuelle, une expédition de l’acte constitutif, de ses annexes et une copie certifiée des délibérations prises par l’assemblée générale prévue à l’article 330-10 sont déposées en double exemplaire au greffe du Tribunal de Grande Instance du siège social.
+Ces mêmes documents doivent être déposés, dans le même délai, au ministère en charge du secteur des assurances dans l’État membre.

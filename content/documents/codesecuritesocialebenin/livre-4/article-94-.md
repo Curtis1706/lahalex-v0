@@ -1,0 +1,8 @@
+(Loi n°200702)
+Ancien L’assuré en activité qui devient invalide avant d’atteindre l’âge de cinquantecinq (55) ans a droit à une pension d’invalidité s’il a accompli au moins soixante (60) mois d’assurance dont obligatoirement six (06) au cours des douze (12) mois civils précédant le début de l’incapacité conduisant à l’invalidité.
+Nouveau L’assuré en activité qui devient invalide avant d’atteindre l’âge de soixante (60) ans a droit à une pension d’invalidité s’il a accompli au moins soixante (60) mois d’assurance dont obligatoirement six (06) au cours des douze (12) mois civils précédant le début de l’incapacité conduisant à l’invalidité.
+Nonobstant les dispositions de l’alinéa 1, au cas où l’invalidité est due à un accident, l’assuré a droit à une pension d’invalidité à condition d’occuper un emploi assujetti à l’assurance à la date de l’accident et d’avoir été immatriculé à la Caisse.
+Est considéré comme invalide, l’assuré qui, par suite de maladie ou d’accident d’origine non professionnelle a subi une diminution permanente de ses capacités physiques ou mentales dûment constatée par un médecin désigné ou agréé par la Caisse, le rendant incapable de gagner plus du tiers de la rémunération qu’un travailleur ayant la même formation peut se procurer par son travail.
+La pension d’invalidité est toujours concédée à titre temporaire et peut être révisée dans les conditions prescrites aux articles 111 et 112 du présent Code.
+Ancien La pension d’invalidité est remplacée par une pension de vieillesse de même montant lorsque le bénéficiaire atteint l’âge de cinquantecinq (55) ans.
+Nouveau La pension d’invalidité est remplacée par une pension de vieillesse de même montant lorsque le bénéficiaire atteint l’âge de soixante (60) ans.

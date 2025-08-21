@@ -1,0 +1,10 @@
+Article 231 : _(Règlement n°2014-02)_ Délai de présentation de l’offre
+Indépendamment de la réclamation que peut faire la victime, l’assureur qui garantit ta responsabilité civile du fait d’un véhicule terrestre à moteur est tenu de présenter dans un délai maximum de douze mois à compter de L’accident une offre d’indemnité à la victime qui a subi une atteinte à sa personne. En cas de décès de la victime, L’offre est faite à ses ayants droit tels qu’ils sont définis aux articles 265 et 266 dans les huit mois du décès.
+L’offre d’indemnité présentée ne saurait être inférieure au montant qui résulterait de l’application des modalités de calcul des articles 260 et suivants.
+L’absence de présentation d’offre dans les délais sus mentionnés, est passible des sanctions administratives prononcées par la Commission.
+L’offre comprend tous les éléments indemnisables du préjudice, y compris tes éléments relatifs aux dommages aux biens lorsqu’ils n’ont pas fait l’objet d’un règlement préalable.
+Elle peut avoir un caractère provisionnel lorsque l’assureur n’a pas, dans les six mois de l’accident, été informé de la consolidation de l’état de la victime. L’offre définitive d’indemnisation doit alors être faite dans un délai de six mois suivant la date à laquelle l’assureur a été informé de cette consolidation.
+En cas de pluralité de véhicules, et s’il y a plusieurs assureurs, l’offre est faite par l’assureur désigné par la procédure d’indemnisation pour compte d’autrui visée aux articles 267 et suivants, ou par l’assureur saisi comme il est dit ci-après s’il est différent de l’assureur désigné conformément aux articles 267 et suivants.
+La victime directe ou ses ayants droit ont la faculté de saisir l’assureur garant de la responsabilité civile du véhicule terrestre d’une demande motivée d’indemnisation.
+Celui-ci dispose d’un délai de 30 jours pour répondre à cette demande.
+Les dispositions qui précèdent ne sont pas applicables aux victimes à qui l’accident n’a occasionné que des dommages aux biens (véhicules et objets transportés).

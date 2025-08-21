@@ -1,0 +1,1 @@
+Les navires construits ou achetés à l’étranger reçoivent, avant de rejoindre la République du Bénin, un acte de béninisation provisoire délivré par l’autorité maritime ou l’autorité diplomatique ou consulaire ou l’autorité en tenant lieu.

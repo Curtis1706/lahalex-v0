@@ -1,0 +1,5 @@
+Le régime matrimonial légal est régi par la loi nationale commune des époux au moment de la célébration du mariage.
+En cas de nationalités distinctes, ledit régime est régi par la loi du 1 domicile commun des époux.
+A défaut de choix des époux effectué dans les limites prévues à l'alinéa 4 du présent article, le régime matrimonial conventionnel est régi par l’une des lois visées aux deux alinéas qui précèdent ; si la loi désignée en vertu de l’un des deux alinéas qui précèdent prévoit que les époux peuvent choisir le droit applicable à leur contrat de mariage, le droit choisi est applicable.
+Les époux peuvent choisir la loi nationale de l’un des époux pour régir leur contrat de mariage.
+En cas de modification de la nationalité commune ou lorsque l’un des conjoints acquiert la nationalité de l’autre, ou encore en cas de déplacement du domicile commun par rapport au 1 domicile commun, la faculté de modification du régime conventionnel et les conditions de fond d’une telle modification du régime matrimonial sont régies par la loi désignée par le nouvel élément matériel de rattachement.

@@ -1,0 +1,2 @@
+La minute du jugement ou de l’arrêt rendu après délibérations du tribunal statuant en matière criminelle ou de la cour d'appel de droit commun est signée par le président et par le greffier.
+Toutes les décisions doivent porter la mention de la présence du ministère public.

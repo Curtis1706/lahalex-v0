@@ -1,0 +1,1 @@
+Les membres des Conseils communaux sont élus pour un mandat de cinq (05) ans. Ils sont rééligibles.

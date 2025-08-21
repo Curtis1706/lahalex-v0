@@ -1,0 +1,1 @@
+A la fin de l'exercice budgétaire, le comptable produit les états financiers de la commune ou de l'établissement public de coopération intercommunale qui accompagnent le compte de gestion. Les états financiers comprennent le compte de résultat, le bilan, le tableau de flux de trésorerie et l'état annexé.

@@ -1,0 +1,1 @@
+Le calendrier électoral est rendu public par le président de la CENA, quatre-vingt-dix jours (90) avant la date du scrutin. Il est publié par voie de presse et tous autres canaux de appropriés.

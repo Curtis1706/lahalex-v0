@@ -1,0 +1,2 @@
+Tout témoin cité pour être entendu au cours de l’exécution d’une commission rogatoire est tenu de comparaître, de prêter serment s’il n’en est dispensé dans les cas prévus au 5<sup>ème</sup> alinéa de l’article 111 du présent code et de déposer.
+S’il ne satisfait pas à ces obligations, avis en est donné au magistrat mandant qui peut le contraindre à comparaître par la force publique et prendre contre lui les sanctions prévues à l’alinéa 3 de l’article 116 du présent code.

@@ -1,0 +1,2 @@
+Article 329-8 : Dividendes, répartitions
+Il ne peut être procédé à une distribution de dividendes qu’après constitution des réserves et provisions prescrites par les lois et règlements en vigueur, après amortissement intégral des dépenses d’établissement et après que les dispositions réglementaires concernant la marge de solvabilité et la couverture des engagements réglementés aient été satisfaites.

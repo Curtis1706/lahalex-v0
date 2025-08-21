@@ -1,0 +1,1 @@
+La contribution au développement local frappe les produits agricoles, forestiers, animaux, halieutiques, miniers, l’eau de surface et l’eau souterraine ainsi que les recettes de l’exploitation des sites touristiques.

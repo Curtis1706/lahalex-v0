@@ -1,0 +1,1 @@
+La prise d’otages étrangers est interdite sur le territoire d’une partie en conflit.

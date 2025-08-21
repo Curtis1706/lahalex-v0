@@ -1,0 +1,2 @@
+Dispositions impératives
+Ne peuvent être modifiées par convention les prescriptions des titres 1, 2 et 3 du présent livre, sauf celles qui donnent aux parties une simple faculté et qui sont limitativement énumérées dans les articles 4 alinéa 2, 5, 9, 10, 35 à 38, 42, 45, 46, 50, 51, 53, 58 et 72.

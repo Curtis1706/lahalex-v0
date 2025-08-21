@@ -1,0 +1,2 @@
+En cas de prédécès des père et mère d’une personne morte sans postérité, ses frères et sœurs ou leurs descendants sont appelés à la succession, à l’exclusion des ascendants et des autres collatéraux.
+Ils succèdent, ou de leur chef, ou par représentation, ainsi qu’il est réglé dans la section 1 du présent chapitre.

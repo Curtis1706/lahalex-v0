@@ -1,0 +1,4 @@
+Toute naissance doit être déclarée au centre d’état civil le plus proche du lieu dans un délai de dix (10) jours, le jour de l’accouchement non compté. Si le délai arrive à expiration un jour férié, la déclaration sera reçue valablement le 1 jour ouvrable suivant. Toutefois, ce délai est de trois (03) mois jusqu’à l’installation effective des organes décentralisés.
+Les déclarations peuvent émaner du père ou de la mère, d’un ascendant ou d’un proche parent, du médecin, de la sage-femme, de la matrone ou de toute autre personne ayant assisté à la naissance.
+En pays étranger, les déclarations aux agents diplomatiques ou aux consuls sont faites dans le même délai et dans les mêmes conditions.
+Le procureur de la République peut, à toute époque et en dehors des délais prévus ci- dessus, faire la déclaration d’une naissance dont il aurait eu connaissance et qui n'aurait pas été constatée à l’état civil.

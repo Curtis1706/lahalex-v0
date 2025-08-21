@@ -1,0 +1,1 @@
+Dans tout acte de disposition entre vifs ou testamentaire, les conditions impossibles, illicites ou immorales sont réputées non écrites.

@@ -1,0 +1,6 @@
+Effets du retrait d’agrément : liquidation
+La décision de la Commission Régionale de Contrôle des Assurances prononçant le retrait total de l’agrément emporte de plein droit, à dater de sa publication au Journal Officiel et/ou dans un Journal d’annonces légales, si elle concerne une entreprise d’un Etat membre, la dissolution de l’entreprise ou si elle concerne une entreprise étrangère, la liquidation de l’actif et du passif du bilan spécial de ses opérations sur le territoire national.
+Dans les deux cas, la liquidation est effectuée par un mandataire de justice désigné sur requête de la Commission par ordonnance rendue par le Président du tribunal compétent. Ce magistrat choisit un liquidateur parmi ceux qui sont agréés par le tribunal et figurant sur la liste communiquée par la Commission Régionale de Contrôle des Assurances dans sa requête.
+Il commet par la même ordonnance un juge chargé de contrôler les opérations de liquidation ; ce juge est assisté, dans l’exercice de sa mission, par un ou plusieurs commissaires contrôleurs désignés par la Commission Régionale de Contrôle des Assurances.
+Le juge et/ou le liquidateur sont remplacés dans les mêmes formes.
+Les ordonnances relatives à la nomination ou au remplacement du juge-contrôleur et du liquidateur ne peuvent être frappées ni d’opposition, ni d’appel, ni de recours en cassation.

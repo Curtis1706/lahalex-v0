@@ -1,0 +1,2 @@
+Article 27 : La période d’installation court à partir de la date d’effet de l’agrément et s’étend sur la période indiquée sur le certificat d’agrément.
+La fin de la période d’installation est constatée par la Commission de Contrôle des Investissements. A cette fin, le promoteur lui produit une liste détaillée des investissements réalisés. La Commission délivre une attestation de fin d’installation à l’investisseur après contrôle de l’effectivité des investissements.

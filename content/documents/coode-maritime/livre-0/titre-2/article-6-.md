@@ -1,0 +1,1 @@
+Tout autre mot, terme ou expression doit être entendu au sens qui lui est donné par les conventions internationales dont l’Organisation des Nations Unies ou ses agences spécialisées sont les dépositaires.

@@ -1,0 +1,1 @@
+Le présent code détermine les différents espaces maritimes béninois, en fixe le régime juridique et régit les rapports juridiques naissant de et dans la navigation maritime.

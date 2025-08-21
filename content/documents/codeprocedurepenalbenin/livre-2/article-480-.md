@@ -1,0 +1,1 @@
+Quand, après une décision de justice rendue par la chambre correctionnelle au pénal, la partie civile n’a pu être dédommagée ou indemnisée, le dossier de l’affaire terminée au pénal, est par les soins du procureur de la République, transmis au tribunal saisi de la demande de dommages-intérêts en vue de sa communication aux parties dans un délai d’un (01) mois.

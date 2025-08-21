@@ -1,0 +1,3 @@
+Le procureur général forme son appel par déclaration au greffe de la cour d’appel dans le délai de deux (02) mois à compter du jour du jugement.
+Expédition de la déclaration d’appel est transmise sans délai par le greffier de la cour d’appel au greffier du tribunal concerné qui en fait mention sur le registre des appels.
+Le procureur général notifie immédiatement son appel au prévenu et à la personne civilement responsable de l’infraction.

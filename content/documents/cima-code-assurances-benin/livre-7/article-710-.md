@@ -1,0 +1,2 @@
+Règlement d’un contrat de micro assurance
+Une demande de règlement adressée à une société de micro assurance doit être acceptée ou rejetée par celle-ci dans les sept jours suivant la réception de ladite demande. Si elle est acceptée, elle doit être payée dans les dix jours suivant la réception de la demande. Lorsque la demande est rejetée, l’assureur en informe l’assuré ou le bénéficiaire par écrit et lui précise le motif du rejet.

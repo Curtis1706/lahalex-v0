@@ -1,0 +1,16 @@
+{
+  "id": "article-15-",
+  "title": "Article 15 :",
+  "numero": "15 ",
+  "document": "coode-maritime",
+  "path": [
+    "livre-1",
+    "chapitre-1",
+    "section-1"
+  ],
+  "navigation": {
+    "parent": "section-1",
+    "previous": "article-14-",
+    "next": "article-16-"
+  }
+}

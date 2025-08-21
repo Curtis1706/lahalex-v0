@@ -1,0 +1,1 @@
+Les juges se retirent dans la salle des délibérations. Ils n’en peuvent sortir qu'après avoir pris leurs décisions.

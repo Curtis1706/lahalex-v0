@@ -1,0 +1,1 @@
+Usage L’usage des armes contre les prisonniers de guerre, en particulier contre ceux des armes qui s’évadent ou tentent de s’évader, ne constituera qu’un moyen extrême qui sera toujours précédé de sommations appropriées aux circonstances.

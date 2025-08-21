@@ -1,0 +1,1 @@
+Dans le cas où l’établissement public de coopération intercommunale possède en propre des biens meubles et immeubles, la liquidation des biens inscrits à son patrimoine s’effectue selon les dispositions prévues à ses statuts. La répartition des produits de la liquidation s’effectue selon la contribution relative de chaque commune membre de l'établissement.

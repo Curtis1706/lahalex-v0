@@ -1,0 +1,3 @@
+Lors de l’enregistrement, après paiement des droits, il est délivré une quittance  dont  les  mentions  sont  reportées  sur  l’acte  enregistré  ou  sur  l’extrait  de  la déclaration du nouveau possesseur.
+L’inspecteur y exprime la date de l’enregistrement, le folio du registre, le numéro et, en toutes lettres, la somme des droits perçus.
+Lorsque l’acte renferme plusieurs dispositions opérant chacune un droit particulier, l’inspecteur les indique sommairement dans sa quittance et y énonce distinctement la quotité de chaque droit perçu.

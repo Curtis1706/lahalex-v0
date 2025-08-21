@@ -1,0 +1,2 @@
+Article 231 : Saisine du juge des enfants
+Dans les matières concernant l'enfant, les règles ordinaires de recevabilité de l’action notamment l’intérêt et la capacité pour agir ne sont pas applicables. Les matières dont le juge des enfants est saisi sont des matières communicables sans que nécessairement la communication soit préalable.

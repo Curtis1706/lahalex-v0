@@ -1,0 +1,2 @@
+Certaines activités du domaine de l'aviation civile peuvent être déléguées à des prestataires de services. Toutefois, l'Etat conserve la responsabilité de supervision de la sécurité et de la sûreté de l’aviation civile.
+Les prestataires de services appliquent les dispositions règlementaires relatives à la sécurité et à la sûreté aériennes édictées par l'organisme national en charge de l'aviation civile en conformité aux normes et pratiques recommandées de l'Organisation de l'aviation civile internationale.

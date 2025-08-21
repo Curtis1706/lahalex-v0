@@ -1,0 +1,2 @@
+Le secrétaire exécutif peut également être révoqué pour faute lourde, par décret pris en Conseil des ministres, après rapport circonstancié du préfet.
+Le secrétaire exécutif est préalablement mis par le préfet, en mesure de fournir ses moyens de défense.

@@ -1,0 +1,2 @@
+Exonération des sanctions pécuniaires
+Une exonération totale ou partielle des sanctions pécuniaires peut être accordée à une entreprise ou à un organisme qui, avec d’autres, a mis en œuvre une pratique anticoncurrentielle s’il a contribué à établir la réalité de la pratique prohibée et à identifier ses auteurs, en apportant des éléments d’information dont l’Autorité de régulation ou l’administration ne disposaient pas antérieurement.

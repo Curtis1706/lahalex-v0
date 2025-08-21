@@ -1,0 +1,1 @@
+Le droit à la séparation des patrimoines ne peut plus être invoqué lorsque les créanciers du défunt ont fait, avec ou contre l'héritier ou ses créanciers personnels, des actes qui impliquent renonciation sans réserve à ce bénéfice.

@@ -1,0 +1,3 @@
+Article 58 : Les instruments d’aménagement du territoire et les règles d’urbanisme prennent en considération les exigences d’une gestion durable de l’eau.
+Sont définies par voie réglementaire les modalités de détermination des zones à l’intérieur desquelles l’édification de constructions ou de bâtiments, à usage d’habitation ou non, est interdite ou subordonnée à l’observation de prescriptions spéciales.
+CHAPITRE X : DES INTERVENTIONS PUBLIQUES RELATIVES A L’EAU

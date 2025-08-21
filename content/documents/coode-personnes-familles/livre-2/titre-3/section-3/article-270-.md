@@ -1,0 +1,1 @@
+Le parent qui assure à titre principal la charge d’enfants majeurs qui ne peuvent eux-mêmes subvenir à leurs besoins peut demander à l’autre de lui verser une contribution à leur entretien et à leur éducation.

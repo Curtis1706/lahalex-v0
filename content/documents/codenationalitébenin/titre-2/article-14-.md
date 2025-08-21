@@ -1,0 +1,2 @@
+Dans le cas visé à l'article 13 cidessus, nul ne peut répudier la nationalité béninoise s'il ne prouve qu'il a, par filiation, la nationalité d'un pays étranger, sous réserve des dispositions prévues par les conventions internationales.
+L'individu qui contracte un engagement dans les forces armées béninoises perd la faculté de répudier la nationalité béninoise.

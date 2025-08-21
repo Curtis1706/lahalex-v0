@@ -1,0 +1,16 @@
+{
+  "id": "article-76-",
+  "title": "Article 76 :",
+  "numero": "76 ",
+  "document": "code-admin-territorial",
+  "path": [
+    "titre-4",
+    "chapitre-1",
+    "paragraphe-3"
+  ],
+  "navigation": {
+    "parent": "paragraphe-3",
+    "previous": "article-75-",
+    "next": "article-77-"
+  }
+}

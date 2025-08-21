@@ -1,0 +1,3 @@
+Le contrat de transport de passagers est constaté par la délivrance d'un titre de transport individuel ou collectif de départ.
+Le titre de transport contient l’indication des points de départ et de destination ou l’indication d'une escale si les points de départ et de destination sont situés sur le territoire d'un même Etat et si une ou plusieurs escales sont prévues sur le territoire d’un autre Etat.
+Le contrat de transport court de l'enregistrement avec la remise du ticket d’embarquement, à la fin des formalités de débarquement, incluant la livraison des bagages accompagnés.

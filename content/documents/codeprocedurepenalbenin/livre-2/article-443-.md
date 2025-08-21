@@ -1,0 +1,1 @@
+La partie civile qui met en mouvement l’action publique doit, si elle n’a pas obtenu l’assistance judiciaire, et sous peine d’irrecevabilité de la citation, consigner au greffe la somme présumée nécessaire pour les frais de la procédure. Le tribunal fixe le montant et le délai de paiement de la consignation à la première audience où l’affaire est portée.

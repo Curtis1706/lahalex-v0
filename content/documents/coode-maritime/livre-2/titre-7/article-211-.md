@@ -1,0 +1,2 @@
+L’expertise maritime doit être entreprise dès que possible après réception de la demande d’expertise. L’expert ou le comité d’experts fait connaître au demandeur ainsi qu’au capitaine, au propriétaire du navire ou à l’affréteur, au propriétaire de la cargaison, à l’assureur ou à toute autre personne intéressée, les lieu et date auxquels il sera procédé à l’expertise.
+S’il apparaît lors de l’expertise maritime que le bon état de navigabilité du navire ou son état de sécurité sont également en cause, l’autorité maritime peut ordonner une contre-expertise.

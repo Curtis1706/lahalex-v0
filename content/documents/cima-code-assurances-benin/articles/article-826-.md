@@ -1,0 +1,2 @@
+Article 826 : _(Règlement 2015-02)_ Infractions à l’article 808
+Les infractions aux dispositions de l’article 808 seront punies d’un emprisonnement de six mois à deux ans et d’une amende de 300.000 à 3.000.000 FCFA ou de l’une de ces deux peines seulement.

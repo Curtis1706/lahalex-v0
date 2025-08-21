@@ -1,0 +1,1 @@
+Le principe de l'unité de caisse signifie qu’une seule caisse recueille toutes les recettes et paie toutes les dépenses de la commune ou de l’établissement public de coopération intercommunale, sauf dérogation expresse donnée par le ministre chargé des Finances,

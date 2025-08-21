@@ -1,0 +1,4 @@
+1°- Les titulaires de pensions reçoivent un titre ou livret de pension sur lequel sont notamment mentionnés le numéro, la nature de la pension, son indice, le pourcentage résultant de la liquidation et la date de chaque échéance.
+2°- Le titre est remis à l’intéressé par l'Administration, le Maire ou l'autorité administrative de sa résidence sur justifica­tion de son identité et sur production de sa photographie qui est immédiatement apposée dans le cadre à cet effet réservé et authenti­fiée par l'apposition d'un timbre officiel.
+3°- Le pensionné ou son représentant légal doit en outre au moment de la remise de son livret, apposer sa signature type sur les fiches mobiles qui seront conservées par 1'Administration pour le contrôle des paiements.
+4°- Un arrêté du Ministre chargé des Finances déterminera les formalités à remplir par les pensionnés ou leurs représentants qui ne savent pas signer.

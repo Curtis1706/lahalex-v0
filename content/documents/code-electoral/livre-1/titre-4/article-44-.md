@@ -1,0 +1,2 @@
+La campagne électorale est l'ensemble des opérations de propagande précédant une élection et visant à amener tes électeurs à soutenir tes candidats en compétition.
+Avant l'ouverture officielle de la campagne électorale, les partis politiques continuent, conformément à la Constitution et à la charte des partis politiques, d'animer la vie publique et d'assurer l'information des citoyens.

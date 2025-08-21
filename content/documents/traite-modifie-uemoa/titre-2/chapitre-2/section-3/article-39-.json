@@ -1,0 +1,16 @@
+{
+  "id": "article-39-",
+  "title": "Article 39 :",
+  "numero": "39 ",
+  "document": "traite-modifie-uemoa",
+  "path": [
+    "titre-2",
+    "chapitre-2",
+    "section-3"
+  ],
+  "navigation": {
+    "parent": "section-3",
+    "previous": "article-37-",
+    "next": "article-40-"
+  }
+}

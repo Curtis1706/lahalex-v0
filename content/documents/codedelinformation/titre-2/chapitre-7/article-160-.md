@@ -1,0 +1,1 @@
+La publicité respecte les droits des consommateurs en évitant toutes pratiques frauduleuses ou de mauvaise foi tendant à les induire en erreur et en mettant à leur disposition toutes les informations relatives aux biens, produits ou services, objet de la publicité, pour les aider à faire un choix éclairé selon leurs désirs et leurs besoins.

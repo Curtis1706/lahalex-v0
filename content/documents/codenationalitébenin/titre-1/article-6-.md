@@ -1,0 +1,1 @@
+L'acquisition, la perte de la nationalité béninoise ou la réintégration dans cette nationalité, de quelque cause qu'elles procèdent, n'ont pas d'effets rétroactifs.

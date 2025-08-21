@@ -1,0 +1,1 @@
+Toute commune peut, par délibération de son conseil, instituer une taxe sur la publicité faite à l’aide soit d’affiches peintes, soit de panneaux-réclame, soit de panneaux lumineux, soit d’appareils sonores.

@@ -1,0 +1,2 @@
+Le scrutin dure neuf (09) heures pour une élection ordinaire et dix (10) heures en cas de couplage de deux (02) élections.
+Le scrutin se déroule en un seul et même jour sur toute l'étendue du territoire national y compris les représentations diplomatiques et consulaires.

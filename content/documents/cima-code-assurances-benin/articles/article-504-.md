@@ -1,0 +1,2 @@
+Article 504 : Assurances collectives - Dérogations
+Les adhésions à des assurances de groupe définies à l’article 95 du livre I du présent Code peuvent être présentées par le souscripteur, ses préposés ou mandataires ainsi que les personnes physiques ou morales désignées expressément à cet effet dans le contrat d’assurance de groupe.

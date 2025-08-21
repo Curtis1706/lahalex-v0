@@ -1,0 +1,2 @@
+Administration douanière
+Les Etats membres, conformément aux dispositions du Protocole relatif à la coopération douanière joint au présent Traité en tant qu'annexe, prennent toutes mesures utiles pour harmoniser et normaliser leur réglementation et leurs formalités douanières de façon à permettre l'application efficace des dispositions du présent chapitre et à faciliter le mouvement des marchandises et des services à travers leurs frontières.

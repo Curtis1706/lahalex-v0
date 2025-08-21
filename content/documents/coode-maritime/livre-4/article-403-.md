@@ -1,0 +1,2 @@
+La vente maritime est une vente de marchandises à transporter ou en cours de transport par mer, dans laquelle le vendeur s’engage à livrer une marchandise d’une nature et d’une quantité déterminées dans les délais fixés, soit au port d’embarquement, soit au port de débarquement.
+Elle comporte l’obligation de délivrer les documents prévus par la convention des parties, la loi ou l’usage.

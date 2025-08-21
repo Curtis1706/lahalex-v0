@@ -1,0 +1,4 @@
+Cessation des activités des prestataires de services de confiance qualifiés
+Le prestataire de services de confiance qui délivre des certificats qualifiés informe l'autorité compétente et l’organe de contrôle dans un délai raisonnable, de son intention de cesser ses activités ou de tout fait qui pourrait conduire à la cessation de ses activités.
+Dans ce cas, il s'assure de la reprise de ses activités par un autre prestataire de services de confiance garantissant un niveau de qualité et de sécurité au moins équivalent. En l'absence de repreneur, le prestataire révoque, sous réserve d'un préavis de deux (2) mois, les certificats octroyés à ses titulaires.
+Le prestataire de services de confiance qui arrête ses activités pour des raisons indépendantes de sa volonté ou en cas de faillite, en informe immédiatement l'autorité compétente. Il procède, le cas échéant, à la révocation des certificats délivrés.

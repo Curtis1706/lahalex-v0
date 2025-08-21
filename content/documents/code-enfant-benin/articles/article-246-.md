@@ -1,0 +1,2 @@
+Article 246 : Constatation de la médiation pénale
+La médiation pénale, lorsqu’elle est constatée par un procès-verbal, s’impose à tous. Elle est, dans ces conditions, exonérée des frais d’enregistrement et de timbres.

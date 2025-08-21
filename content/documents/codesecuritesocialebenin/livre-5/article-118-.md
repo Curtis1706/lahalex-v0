@@ -1,0 +1,2 @@
+Tout paiement de prestations prévues par la présente loi doit s’effectuer en mains propres.
+Les exceptions au principe énoncé à l’alinéa 1 du présent article seront précisées par arrêté du Ministre chargé de la sécurité sociale.

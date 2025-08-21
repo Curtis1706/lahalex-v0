@@ -1,0 +1,16 @@
+{
+  "id": "article-10-",
+  "title": "Article 10 : Opposabilité des exceptions",
+  "numero": "10 ",
+  "document": "cima-code-assurances-benin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-2"
+  ],
+  "navigation": {
+    "parent": "chapitre-2",
+    "previous": "article-9-",
+    "next": "article-11-"
+  }
+}

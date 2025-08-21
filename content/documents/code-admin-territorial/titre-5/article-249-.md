@@ -1,0 +1,1 @@
+La commune est tenue de réserver, d'acquérir et d'entretenir les terrains consacrés aux inhumations.

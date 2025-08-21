@@ -1,0 +1,1 @@
+Le tribunal pour enfants statue sur le sort des inculpés adultes conformément aux règles du droit commun.

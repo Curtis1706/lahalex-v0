@@ -1,0 +1,16 @@
+{
+  "id": "article-33-",
+  "title": "Article 33 :",
+  "numero": "33 ",
+  "document": "codeprocedurepenalbenin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-2"
+  ],
+  "navigation": {
+    "parent": "chapitre-2",
+    "previous": "article-32-nouveau--loi-n--2018-14--",
+    "next": "article-34-"
+  }
+}

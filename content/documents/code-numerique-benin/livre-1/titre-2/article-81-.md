@@ -1,0 +1,2 @@
+Obligations imposées spécifiquement aux opérateurs dominants
+L’Autorité de régulation peut imposer les obligations prévues à la présente Section uniquement aux opérateurs désignés comme dominants en application de l’article 144 du présent code.

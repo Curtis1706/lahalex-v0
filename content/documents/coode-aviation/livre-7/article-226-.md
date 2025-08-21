@@ -1,0 +1,1 @@
+Les programmes horaires, tarifs et données techniques d’exploitation des entreprises étrangères de transport aérien assurant des services en provenance ou à destination de la République du Bénin sont soumis à l'organisme national en charge de l'aviation civile dans les conditions fixées par la réglementation en vigueur.

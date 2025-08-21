@@ -1,0 +1,2 @@
+Le maire accomplit, sous le contrôle de l'autorité judiciaire, les actes de police judiciaire qui lui sont autorisés par les dispositions du code de procédure pénale et toutes autres dispositions particulières.
+Le maire organise la protection civile.

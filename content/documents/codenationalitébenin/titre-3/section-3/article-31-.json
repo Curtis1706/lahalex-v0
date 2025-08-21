@@ -1,0 +1,15 @@
+{
+  "id": "article-31-",
+  "title": "Article 31 :",
+  "numero": "31 ",
+  "document": "codenationalitébenin",
+  "path": [
+    "titre-3",
+    "section-3"
+  ],
+  "navigation": {
+    "parent": "section-3",
+    "previous": "article-30-",
+    "next": "article-32-"
+  }
+}

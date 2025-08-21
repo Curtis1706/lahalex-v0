@@ -1,0 +1,5 @@
+Est puni de la réclusion criminelle à temps de dix (10) ans à vingt
+(20) ans et d’une amende de cent millions (100.000.000) à deux cent millions (200.000.000) de francs CFA, quiconque utilisant une installation nucléaire, lui cause un dommage ou en perturbe le fonctionnement, ou commet tout autre acte dirigé contre une installation nucléaire de façon à libérer ou à risquer de libérer des matières radioactives :
+1. dans l’intention de causer la mort ou des dommages corporels graves ou des dommages substantiels aux biens ou à l’environnement ;
+2. sachant qu’il peut provoquer la mort ou des blessures graves à autrui ou des dommages substantiels aux biens ou à l’environnement par suite de l’exposition à des rayonnements ou du relâchement de substances radioactives, à moins que cet acte ne soit entrepris en conformité avec le droit national de l’Etat partie sur le territoire duquel l’installation nucléaire est située ;
+3. pour contraindre une personne physique ou morale, une organisation internationale ou un Etat à accomplir ou à s’abstenir d’accomplir un acte.

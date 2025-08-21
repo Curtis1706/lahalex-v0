@@ -1,0 +1,1 @@
+Les dispositions des articles 635, 636 et 638 ci-dessus ne sont pas applicables aux bâtiments des forces armées de la République du Bénin ou, d’une manière générale, à tous les navires de l’Etat utilisés à des opérations de police ou de service public en mer.

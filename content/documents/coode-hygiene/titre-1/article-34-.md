@@ -1,0 +1,1 @@
+Les locaux et alentours des établissements industriels ou commerciaux sont maintenus salubres. Le traitement des déchets se fait selon la réglementation en vigueur.

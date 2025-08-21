@@ -1,0 +1,1 @@
+La vente se fait à l’audience de criée au tribunal, quinze (15) jours après une apposition d’affiche et une insertion dans un journal béninois d’annonces légales.

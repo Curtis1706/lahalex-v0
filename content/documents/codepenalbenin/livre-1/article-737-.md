@@ -1,0 +1,1 @@
+Le bénéficiaire de l’une des opérations prévues à l’article 735 du présent code doit, à tout moment, à la demande de l’organisme créancier, justifier de l’utilisation des sommes reçues ou les représenter. Faute par lui de pouvoir le faire, il sera puni des peines prévues audit article.

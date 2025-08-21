@@ -1,0 +1,1 @@
+Pour l’application des dispositions du présent livre, les autorités civiles et la force publique prêtent aide et assistance aux agents de l’administration fiscale pour l’exercice de leurs fonctions, toutes les fois qu’elles en sont requises.

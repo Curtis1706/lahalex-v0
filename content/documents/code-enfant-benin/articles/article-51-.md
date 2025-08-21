@@ -1,0 +1,3 @@
+Article 51 : Règlementation
+L’assistance médicale à la procréation est autorisée en République du Bénin.
+Elle désigne l’ensemble des méthodes permettant la procréation lorsque celle-ci ne peut se réaliser dans les conditions naturelles à savoir, entre autres, la conception in vitro, le transfert d’embryons et l’insémination artificielle ainsi que toutes techniques d’effets équivalents permettant la procréation en dehors du processus naturel.

@@ -1,0 +1,2 @@
+Les condamnés à des peines privatives de liberté, pour des faits qualifiés crimes ou délits de droit commun, sont astreints au travail.
+Les produits du travail de chaque condamné sont affectés selon des règles prévues par décret.

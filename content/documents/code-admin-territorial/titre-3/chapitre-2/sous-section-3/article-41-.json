@@ -1,0 +1,16 @@
+{
+  "id": "article-41-",
+  "title": "Article 41 :",
+  "numero": "41 ",
+  "document": "code-admin-territorial",
+  "path": [
+    "titre-3",
+    "chapitre-2",
+    "sous-section-3"
+  ],
+  "navigation": {
+    "parent": "sous-section-3",
+    "previous": "article-40-",
+    "next": "article-42-"
+  }
+}

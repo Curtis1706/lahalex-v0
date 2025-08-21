@@ -1,0 +1,2 @@
+le liquidateur doit établir la consistance de la succession en dressant un inventaire dans un délai de trois (3) mois pour compter du jour où il a acquis cette qualité. Ce délai est susceptible de prolongation par décision du tribunal.
+Chacun des éléments de la succession est l’objet, de la part du liquidateur, d’une évaluation provisoire avec, s’il y a lieu, l’assistance d’experts.

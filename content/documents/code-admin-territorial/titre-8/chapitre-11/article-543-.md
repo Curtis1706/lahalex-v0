@@ -1,0 +1,3 @@
+A la clôture de l'année budgétaire, le comptable de la commune ou de l'établissement public de coopération intercommunale établit avec le concours de l'ordonnateur, par section, chapitre et article, l’état des dépenses engagées et non mandatées de la gestion.
+Cet état est arrêté conjointement par le comptable de la commune ou de l'établissement public de coopération intercommunale et par l'ordonnateur et ce dernier mandate en priorité les dépenses y figurant, lorsque les créances sont exigibles. Le comptable de la commune ou de l'établissement public de coopération intercommunale refuse le paiement de toutes les autres dépenses, dès lors que cette obligation n'a pas été satisfaite.
+La copie de cet état est jointe au compte administratif.

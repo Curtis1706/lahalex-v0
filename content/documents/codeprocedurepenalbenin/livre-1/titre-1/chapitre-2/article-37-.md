@@ -1,0 +1,2 @@
+Le procureur de la République représente en personne ou par ses substituts, le ministère public près le tribunal de première instance.
+Il peut également, sur instructions du procureur général, représenter en personne ou par ses substituts, le ministère public auprès de la cour d’assises.

@@ -1,0 +1,2 @@
+Les entreprises étrangères assurant le transport de passagers, de marchandises ou de courrier contre rémunération dans le cadre de services aériens internationaux réguliers ou non, peuvent dans les conditions fixées par les accords de services aériens, embarquer ou débarquer des passagers, des marchandises ou du courrier.
+Le transport commercial de personnes et de marchandises entre deux points situés en République du Bénin est réservé aux transporteurs béninois et aux transporteurs des autres Etats membres de l’Union, sauf dérogations spéciales et temporaires.

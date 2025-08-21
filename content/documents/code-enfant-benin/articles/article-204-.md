@@ -1,0 +1,2 @@
+Article 204 : Proscription d’implication des enfants dans les conflits armés
+Aucun enfant ne doit être impliqué dans un conflit armé, participé ou être enrôlé dans les forces ou groupes armés, de quelque nature que ce soit.

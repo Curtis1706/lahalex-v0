@@ -1,0 +1,3 @@
+Le tuteur ou le subrogé-tuteur ne peut être exclu, destitué ou récusé qu’après avoir été entendu ou appelé.
+S’il adhère à la délibération, mention en est faite et le nouveau tuteur ou subrogé-tuteur entre aussitôt en fonction.
+S’il n’y adhère pas, il lui est loisible de faire opposition suivant les règles du code de procédure civile mais, s’il y a urgence, le conseil de famille peut prescrire séance tenante des mesures provisoires dans l’intérêt du mineur.

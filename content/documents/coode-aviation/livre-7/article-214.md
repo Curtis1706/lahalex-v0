@@ -1,0 +1,1 @@
+Tout travail aérien est soumis à une autorisation préalable de l'organisme national en charge de l'aviation civile, dans les conditions fixées par voie réglementaire.

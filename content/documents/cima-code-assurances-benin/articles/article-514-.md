@@ -1,0 +1,6 @@
+Article 514 : Courtiers et agents généraux d’assurances
+Les courtiers d’assurances, les associés ou tiers qui gèrent ou administrent une société de courtage d’assurances et les agents généraux d’assurances doivent justifier préalablement à leur entrée en fonction :
+soit de la possession d’un diplôme mentionné sur une liste fixée par la Commission de Contrôle après avis des instances professionnelles représentatives des compagnies d’assurance, ainsi que de l’accomplissement d’un stage professionnel ;
+soit de l’exercice à temps complet, pendant deux ans au moins, dans les services intérieurs ou extérieurs d’une entreprise d’assurance, d’un courtier ou d’une société de courtage d’assurance de fonctions relatives à la production ou à l’application de contrats d’assurance, ainsi que de l’accomplissement d’un stage professionnel, soit de l’exercice à temps complet pendant un an au moins d’une activité en qualité de cadre ou de dirigeant dans ces mêmes entreprises ;
+soit de l’exercice, pendant deux ans au moins, en qualité de cadre ou de chef d’entreprise, de fonctions de responsabilité dans une entreprise industrielle ou commerciale, ainsi que de l’accomplissement d’un stage professionnel ;
+soit de l’exercice pendant deux ans de fonctions de responsabilités en tant que cadre dans une administration de contrôle des assurances.

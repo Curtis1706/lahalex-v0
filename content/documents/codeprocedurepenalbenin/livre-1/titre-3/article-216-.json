@@ -1,0 +1,15 @@
+{
+  "id": "article-216-",
+  "title": "Article 216 :",
+  "numero": "216 ",
+  "document": "codeprocedurepenalbenin",
+  "path": [
+    "livre-1",
+    "titre-3"
+  ],
+  "navigation": {
+    "parent": "titre-3",
+    "previous": "article-215-",
+    "next": "article-217-"
+  }
+}

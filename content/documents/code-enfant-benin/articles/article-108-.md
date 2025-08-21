@@ -1,0 +1,2 @@
+Article 108 : Pouvoirs de l’Autorité centrale
+L’Autorité centrale prend soit directement, soit avec le concours des autorités publiques et/ou des organismes dûment agréés, toutes mesures pour l’accomplissement de ses missions.

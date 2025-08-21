@@ -1,0 +1,1 @@
+Article 54 : Les ouvrages construits dans le lit des cours d’eau doivent maintenir un débit minimal garantissant la satisfaction des besoins des usagers et la vie aquatique à l’aval de l’ouvrage. Lorsqu’ils sont implantés dans des cours d’eau fréquentés par des poissons migrateurs, ils doivent en outre être équipés de dispositifs de franchissement.

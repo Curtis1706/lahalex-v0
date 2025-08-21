@@ -1,0 +1,2 @@
+L'épandage des matières de vidange domestiques à la surface du sol est interdit sur tous les terrains où sont cultivés des fruits et légumes poussant à ras de terre et destinés à être consommés crus.
+L'épandage de ces matières de vidange, compte tenu des conditions locales particulières, est interdit dans les zones délimitées autour des agglomérations, des cours d'eau, des sources ou points d'eau.

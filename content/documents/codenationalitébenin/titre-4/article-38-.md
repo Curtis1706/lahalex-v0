@@ -1,0 +1,4 @@
+Tout Béninois désireux d'acquérir une nationalité étrangère, peut répudier la nationalité béninoise.
+La répudiation de la nationalité béninoise se fait par déclaration adressée au ministre chargé de la justice et déposée à l'autorité en charge de la délivrance des actes relatifs à la nationalité.
+Dans le délai d'un mois à compter de la réception de la déclaration, le ministre chargé de la justice prend un arrêté pour constater la perte de la nationalité par l'intéressé et libérer l'intéressé de son allégeance à l'égard de la République du Bénin.
+L'autorité en charge de la délivrance des actes relatifs à la nationalité procède à l'enregistrement de l'arrêté et en délivre copie à l'intéressé.

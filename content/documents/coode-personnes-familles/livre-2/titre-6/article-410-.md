@@ -1,0 +1,1 @@
+Les père et mère ou toute autre personne investie de l’autorité parentale sont tenus de subvenir aux frais d’entretien et d’éducation de l’enfant.

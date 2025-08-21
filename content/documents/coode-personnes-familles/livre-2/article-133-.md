@@ -1,0 +1,5 @@
+Mainlevée de l’opposition peut être demandée par les futurs époux, même mineurs, qui adressent à cet effet requête au président du tribunal.
+Les motifs fondant l’opposition peuvent être prouvés par tous moyens.
+Le président du tribunal statue dans les dix (10) jours. Toutefois, il pourra être exceptionnellement sursis à statuer si des vérifications s’imposent.
+L’appel est formé par déclaration au greffe de la juridiction qui a statué, dans un délai de trois (3) jours francs à compter du jour du prononcé de l’ordonnance. Les pièces de la procédure sont transmises dans les quarante-huit (48) heures, à la diligence du procureur de la République, au greffe de la cour d’appel. La cause est inscrite à la première audience utile et l’arrêt rendu contradictoirement à l’audience suivante, que les futurs époux comparaissent ou non.
+La procédure est gratuite. La décision est notifiée administrativement par le ministère public à l’officier de l’état civil et aux futurs époux dans les quarante-huit (48) heures

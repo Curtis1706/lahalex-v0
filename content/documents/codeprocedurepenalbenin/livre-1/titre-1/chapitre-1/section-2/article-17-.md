@@ -1,0 +1,5 @@
+Les officiers de police judiciaire ne peuvent être habilités à exercer effectivement les attributions attachées à leur qualité, que lorsqu’ils sont affectés à un emploi comportant lesdites attributions.
+Pour chaque fonctionnaire affecté à un tel emploi, une demande d’habilitation est adressée, par le supérieur hiérarchique de la structure à laquelle appartient ce fonctionnaire, au procureur général près la cour d’appel dans le ressort de laquelle se trouve le siège des fonctions de l’officier de police judiciaire intéressé.
+La demande doit préciser la nature de la fonction confiée à l’officier de police judiciaire et les limites territoriales dans lesquelles il est appelé à exercer ses fonctions habituelles.
+Lorsque l’officier de police judiciaire est appelé à exercer lesdites fonctions sur tout le territoire national, la demande est adressée par les directeurs généraux de la police ou de la gendarmerie au procureur général près la cour d’appel de Cotonou.
+Le procureur général accorde ou refuse l’habilitation.

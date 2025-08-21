@@ -1,0 +1,1 @@
+L’acceptation ou la renonciation prend effet au jour de l’ouverture de la succession.

@@ -1,0 +1,2 @@
+Les jurés absents ou radiés sont remplacés par les jurés suppléants suivant l’ordre de leur inscription.
+Si les jurés suppléants sont en nombre insuffisant pour remplacer les jurés titulaires absents ou radiés, et qu’il reste au total moins de douze (12) sur la liste, ce nombre est complété par un tirage au sort fait immédiatement en audience publique, parmi les jurés inscrits sur la liste annuelle du tribunal de première instance où siège la cour d’assises.

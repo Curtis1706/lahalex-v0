@@ -1,0 +1,3 @@
+1) Lorsque la décision du ministre chargé des finances ou son délégué ne donne pas entière satisfaction au contribuable, celui-ci peut porter le litige devant la juridiction compétente dans un délai de deux (2) mois.
+Ce délai court à compter de la date de notification de cette décision.
+2) En l’absence de réponse du ministre chargé des finances ou de son délégué, le délai de deux (2) mois de saisine de la juridiction compétente court à l’expiration du délai de deux (2) mois visé au paragraphe 5 de l’article 583 du présent code.

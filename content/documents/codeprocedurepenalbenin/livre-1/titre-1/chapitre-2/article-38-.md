@@ -1,0 +1,4 @@
+Le procureur de la République reçoit les plaintes et les dénonciations et apprécie la suite à leur donner.
+En cas de classement sans suite, il informe le plaignant et son avocat le cas échéant de son droit de se constituer partie civile ainsi qu’il avisera.
+Toutefois, dans tous les cas où il y a des motifs raisonnables de croire qu’un acte de torture a été commis, le procureur de la République a l’obligation de procéder immédiatement à une enquête objective et impartiale même en l’absence de toute plainte de la victime.
+En toute autre matière, il peut également s’autosaisir et mettre en mouvement l’action publique.

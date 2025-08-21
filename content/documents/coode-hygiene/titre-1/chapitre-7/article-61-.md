@@ -1,0 +1,1 @@
+La délivrance de tout certificat sanitaire ou de toute autre autorisation à visée sanitaire CIUX frontières est réservée, selon le cas, aux ministres chargés de la santé, de l'agriculture, de l'élevage, de la pêche, de l'environnement et du commerce.

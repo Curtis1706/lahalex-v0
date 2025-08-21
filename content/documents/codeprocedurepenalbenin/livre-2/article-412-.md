@@ -1,0 +1,1 @@
+La quittance délivrée au contrevenant est détachée d’un carnet à souches coté et paraphé avant tout usage par le préposé du trésor. Ce carnet à souches est présenté dans les cinq (05) premiers jours de chaque mois au visa de l’agent du trésor et le versement des recettes est effectué en même temps.

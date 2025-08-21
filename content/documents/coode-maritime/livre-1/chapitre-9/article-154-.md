@@ -1,0 +1,1 @@
+Si à l’expiration du délai fixé, le navire n’a pas rejoint ce port, la caution est acquise aux créanciers, sauf le jeu de l’assurance en cas de sinistre couvert par une police sur corps.

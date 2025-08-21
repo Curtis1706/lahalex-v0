@@ -1,0 +1,6 @@
+En cas de délit commis par des mineurs et des majeurs, tous sont renvoyés devant la juridiction pour enfants.
+En cas de crime où des majeurs et des mineurs sont impliqués, le juge des enfants rend une ordonnance par laquelle il renvoie les majeurs devant le tribunal de première instance statuant en matière criminelle et les mineurs devant le tribunal pour enfants statuant en matière criminelle.
+Au cas prévu à l’alinéa 2 du présent article, l'action civile est portée devant le tribunal de première instance statuant en matière criminelle et, en cas d'appel, devant la cour d'appel statuant en matière criminelle, qui statue à la fois à l'encontre des majeurs et des mineurs.
+Le juge des enfants, après son ordonnance de clôture, dispose d’un délai de trois jours pour transmettre le dossier de la procédure au procureur de la République, le cas échéant, en deux exemplaires. Celui-ci dispose d'un délai de huit jours pour faire comparaître les accusés devant le tribunal.
+Le non-respect des délais ci-dessus prescrits emporte la mise en liberté d’office des mineurs par ordonnance du juge des libertés et de la détention.
+L'appel se fait dans les formes et délais prévus par le présent code. Il est statué par la chambre des libertés et de la détention.

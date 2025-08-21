@@ -1,0 +1,7 @@
+1 °- Les bénéficiaires du présent régime supportent une retenue de 6 % sur les sommes payées au titre de leur traitement indiciaire à l’exclusion de toutes indemnités ou allocations de quelque mature qu'elles soient et des avantages familiaux.
+En cas de perception d'un traitement réduit pour cause de congé d'absence ou par mesure disciplinaire, la retenue est perçue sur le traitement entier.
+2°- L'Administration employeur contribue aux ressources du Fonds National de Retraite par un versement de 14% du traite­ment soumis à retenue visé au paragraphe précédent.
+3°- Aucune pension ne peut être concédée si le versement des retenues exigibles n'a pas été effectué.
+Sauf dispositions contraires, toute perception d’un trai­tement est soumise au prélèvement des retenues visées au présent article, même si les services ainsi rémunérés ne sont pas suscepti­bles d’être pris en compte pour la constitution du droit ou pour la liquidation de la pension.
+4°- Les retenues légalement perçues ne peuvent être répétées. Celles qui ont été irrégulièrement payées n'ouvrent aucun, droit à pension et peuvent être remboursées sans intérêt sur la demande des ayants droit. .
+5°- Le taux de 2 % des émoluments de base visé à l'article 19 ci-dessus ; la retenue de 6 % sur les traitements des assujettis du présent Code et la contribution de 14% de l'employeur, peuvent en cas de besoin être modifiés par décret.

@@ -1,0 +1,2 @@
+1) Le refus de communiquer les livres, pièces et documents sur lesquels porte le droit de communication est constaté par procès-verbal, suivi d’une mise en demeure notifiée au contribuable intéressé.
+2) Les amendes prévues aux paragraphes 5 et 6 de l’article 503 du présent code aux manquements à l’obligation de communication de renseignements sont constatées par le  directeur  général  des  impôts,  comprises  dans  un  ou  plusieurs  avis  de  mise  en recouvrement immédiatement exigibles pour la totalité.

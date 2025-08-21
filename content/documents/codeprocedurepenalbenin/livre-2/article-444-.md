@@ -1,0 +1,1 @@
+La partie civile peut également se faire représenter par un avocat. Dans ce cas, le jugement est contradictoire à son égard.

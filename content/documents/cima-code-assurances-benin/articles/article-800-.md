@@ -1,0 +1,9 @@
+Article 800 : _(Règlement 2015-02)_ Définition
+Au titre du présent livre, on entend par :
+a) « Réassurance » : l’activité d’un organisme qui consiste à accepter des risques d’assurance cédés, soit par une entreprise d’assurance, soit par une autre entreprise de réassurance.
+b) « Entreprise de Réassurance » : une entreprise, autre qu’une entreprise d’assurance, qui exerce l’activité de réassurance.
+c) « Succursale » : établissement qui ne bénéficie pas de la personnalité juridique, mais qui dispose d’une certaine autonomie de gestion et de direction par rapport à l’entreprise de réassurance à laquelle elle appartient.
+d) « Autorités compétentes » : les autorités habilitées, en vertu d’une loi ou d’une réglementation, à contrôler les entreprises de réassurance ;
+e) « Bureau de souscription, de représentation ou de liaison » : toute représentation d’une entreprise de réassurance qui souscrit ou qui facilite la souscription des risques pour le compte de celle-ci.
+f) « Entreprise captive de réassurance » : une entreprise de réassurance détenue par une entreprise financière autre qu’une entreprise d’assurances ou de réassurance ou un groupe d’entreprises d’assurances ou de réassurance, ou par une entreprise non financière, et qui a pour objet la fourniture de produits de réassurance couvrant exclusivement les risques de l’entreprise ou des entreprises auxquelles elle appartient ou d’une ou de plusieurs entreprises du groupe dont elle fait partie.
+Par extension, on entend également par captive, toute entreprise de réassurance appartenant à un groupe ou à un réseau d’entreprises d’assurance qui réassure uniquement les filiales du groupe ou les membres de ce réseau.

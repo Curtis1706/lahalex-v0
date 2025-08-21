@@ -1,0 +1,1 @@
+L’arrêt de renvoi est notifié à l’accusé détenu et signifié à l’accusé non détenu.

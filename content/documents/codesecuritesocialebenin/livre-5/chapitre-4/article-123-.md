@@ -1,0 +1,2 @@
+Le droit aux indemnités journalières et aux prestations en nature prévues par la branche des risques professionnels est prescrit après six mois à compter de la date de consolidation des lésions ou de la guérison de la maladie ou de la reprise de service de la femme en couche.
+L’action des praticiens, auxiliaires médicaux, fournisseurs et établissements pour les prestations qu’ils ont fournies est prescrite après un an à compter, soit de la date de l’exécution de l’acte, soit de la date de la fourniture, ou de la date à laquelle la victime a quitté l’établissement.

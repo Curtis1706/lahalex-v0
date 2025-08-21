@@ -1,0 +1,3 @@
+Dans son réquisitoire introductif, et à toute époque de l’information par réquisitoire supplétif, le procureur de la République peut requérir du magistrat instructeur, tous actes lui paraissant utiles à la manifestation de la vérité.
+Il peut à cette fin, se faire communiquer la procédure à charge de la rendre dans les vingt-quatre(24) heures.
+Si le juge d’instruction ne croit pas devoir procéder aux actes requis, il doit prendre, dans les cinq (05) jours des réquisitions du procureur de la République, une ordonnance motivée.

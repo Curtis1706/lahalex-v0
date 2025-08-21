@@ -1,0 +1,1 @@
+Le commerce des carburants, notamment l’essence super, l’essence tourisme, le pétrole, le gasoil, le mélange deux temps, ainsi que celui des lubrifiants aux abords des rues, dans les agglomérations et tout endroit autre que les dépôts et installations des distributeurs et sociétés pétrolières régulièrement agréés en République du Bénin est prohibé.

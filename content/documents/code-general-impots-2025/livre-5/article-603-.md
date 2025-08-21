@@ -1,0 +1,5 @@
+1) Le montant des versements sera ultérieurement imputé en lieu et place des impositions établies au cours de l’année pendant laquelle les versements auront été effectués à raison des revenus réalisés par le contribuable pendant l’année précédente.
+2) Si ces impositions représentent une somme inférieure au montant des versements
+anticipés, ceux-ci sont immédiatement imputés, à due concurrence, en lieu et place desdites impositions. Les fractions des versements anticipés demeurant disponibles, après que cette imputation a été opérée sont remboursées d’office au contribuable.
+3) Si le contribuable n’a pas été compris sur les titres de perception des impôts sur les
+revenus ou sur les bénéfices mis en recouvrement au cours de l’année pendant laquelle les versements ont été effectués, le montant de ces versements est remboursé d’office à l’intéressé.

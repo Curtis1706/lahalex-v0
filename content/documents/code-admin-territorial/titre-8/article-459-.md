@@ -1,0 +1,3 @@
+L’état des restes à recouvrer, accompagné des justifications de retard et des demandes d'admission en non-valeur formulées par le comptable, est soumis à l'organe délibérant compétent de la commune ou de l'établissement public de coopération intercommunale qui statue :
+1. sur la portion des restes à recouvrer dont il convient de poursuivre le recouvrement;
+2. sur la portion proposée pour être admise en non-valeur, au vu des justifications produites par le comptable, en raison, soit de l’insolvabilité des débiteurs, soit de la prescription des créances, ou de l'impossibilité matérielle prolongée d’atteindre les débiteurs.

@@ -1,0 +1,14 @@
+{
+  "id": "article-1-",
+  "title": "Article 1 : Au sens de la présente loi, les termes ci-après se définissent comme suit :",
+  "numero": "1 ",
+  "document": "coode-hygiene",
+  "path": [
+    "titre-1",
+    "chapitre-1"
+  ],
+  "navigation": {
+    "parent": "chapitre-1",
+    "next": "article-2-"
+  }
+}

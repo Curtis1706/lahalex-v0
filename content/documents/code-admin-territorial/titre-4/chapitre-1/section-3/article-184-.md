@@ -1,0 +1,2 @@
+La faute lourde est constatée par le maire qui, après avis du conseil communal, peut prononcer, par arrêté, la suspension du chef d’arrondissement, après l'avoir mis en mesure de faire valoir ses moyens de défense soit par écrit, soit devant le conseil communal. Il en dresse un rapport au préfet dans les huit (08) jours qui suivent la constatation de la faute.
+La durée de la suspension du chef d'arrondissement ne peut excéder soixante (60) jours. Passé ce délai, le chef d’arrondissement suspendu est de plein droit rétabli dans ses fonctions.

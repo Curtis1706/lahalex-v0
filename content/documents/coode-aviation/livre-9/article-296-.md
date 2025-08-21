@@ -1,0 +1,1 @@
+Les infractions et les sanctions non expressément prévues à la présente loi sont régies par les textes en vigueur.

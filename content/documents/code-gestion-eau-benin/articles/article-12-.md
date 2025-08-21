@@ -1,0 +1,1 @@
+Article 12 : Dans tous les projets de valorisation, de mobilisation, de protection et de conservation des ressources en eau, l’Etat et les collectivités territoriales encouragent la participation des personnes physiques et morales de droit privé du secteur national de l’eau, sous réserve que des considérations d’intérêt général ou d’efficacité ne s’y opposent.

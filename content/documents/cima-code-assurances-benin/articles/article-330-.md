@@ -1,0 +1,3 @@
+Article 330 : Sociétés d’assurance mutuelles - Définition
+Les sociétés d’assurance mutuelles ont un objet non commercial. Elles sont constituées pour assurer les risques apportés par leurs sociétaires. Moyennant le paiement d’une cotisation fixe ou variable, elles garantissent à ces derniers le règlement intégral des engagements qu’elles contractent. Toutefois, les sociétés d’assurance mutuelles pratiquant les opérations d’assurance sur la vie ou de capitalisation ne peuvent recevoir de cotisations variables.
+_I. Constitution_

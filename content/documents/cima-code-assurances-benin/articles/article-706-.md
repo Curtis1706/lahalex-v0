@@ -1,0 +1,2 @@
+Article 706 : Assurances indicielles pour les autres assurances de dommages non agricoles
+Les assurances de dommages non agricoles peuvent être assurées sur une base indicielle en tenant compte de périls ou d’évènements spécifiques, à une échelle régionale, facilement mesurables par un organisme habilité.

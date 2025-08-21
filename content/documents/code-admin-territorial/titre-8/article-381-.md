@@ -1,0 +1,1 @@
+Les conjoints, ascendants et descendants des ordonnateurs ne peuvent être comptables des communes ou des établissements publics de coopération intercommunale ou des établissements auprès desquels lesdits ordonnateurs exercent leurs fonctions.

@@ -1,0 +1,1 @@
+Tout juge statuant en matière criminelle ou un juré qui s’est laissé corrompre soit en faveur, soit au préjudice de l’accusé, est puni de la réclusion criminelle à temps de cinq (05) ans à dix (10) ans outre l’amende ordonnée par l’article 345 du présent code.

@@ -1,0 +1,1 @@
+La prescription de l’action publique ne court que du jour de la découverte de l’infraction.

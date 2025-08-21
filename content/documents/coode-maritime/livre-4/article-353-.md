@@ -1,0 +1,1 @@
+Le chargeur qui retire ses marchandises pendant le cours du voyage est tenu de payer le fret entier ainsi que tous les frais occasionnés par le déchargement, à moins que le retrait ne soit motivé par le fait du capitaine.

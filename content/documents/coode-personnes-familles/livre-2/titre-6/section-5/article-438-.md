@@ -1,0 +1,3 @@
+Peuvent être totalement ou partiellement déchues de l’autorité parentale par une disposition expresse du jugement pénal, les personnes qui auront été condamnées, soit :
+- comme auteurs, coauteurs ou complices d’un crime ou délit commis sur la personne d’un enfant à l’égard duquel elles sont investies de l’autorité parentale ;
+- comme coauteurs ou complices d’un crime ou délit commis sur un enfant à l’égard duquel elles sont investies de l'autorité parentale.

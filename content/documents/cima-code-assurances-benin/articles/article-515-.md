@@ -1,0 +1,4 @@
+Article 515 : Mandataires salariés ou non-salariés
+Les intermédiaires mentionnés aux 3) et 4) de l’article 501, à l’exception des personnes physiques salariées qui exercent les fonctions de responsable de bureau de production ou ont la charge d’animer un réseau de production, doivent justifier, préalablement à leur entrée en fonction :
+a) soit de la possession d’un diplôme mentionné sur une liste fixée par la Commission de Contrôle après avis des instances professionnelles représentatives des entreprises d’assurance ainsi que de l’accomplissement d’un stage professionnel ;
+b) soit de l’exercice à temps complet pendant six mois au moins de fonctions relatives à la production ou à l’application de contrats d’assurances, dans les services intérieurs ou extérieurs d’une entreprise d’assurance, d’un courtier ou d’une société de courtage d’assurance, d’un agent général d’assurance, ainsi que de l’accomplissement d’un stage professionnel.

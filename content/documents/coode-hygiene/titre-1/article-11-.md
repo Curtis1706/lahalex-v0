@@ -1,0 +1,1 @@
+Les autorités locales installent et entretiennent partout où cela est nécessaire, les infrastructures adéquates, notamment les douches, les cabinets d'aisance, les urinoirs et les poubelles.

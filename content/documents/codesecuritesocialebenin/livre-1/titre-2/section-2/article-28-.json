@@ -1,0 +1,16 @@
+{
+  "id": "article-28-",
+  "title": "Article 28 :",
+  "numero": "28 ",
+  "document": "codesecuritesocialebenin",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "section-2"
+  ],
+  "navigation": {
+    "parent": "section-2",
+    "previous": "article-27-",
+    "next": "article-29-"
+  }
+}

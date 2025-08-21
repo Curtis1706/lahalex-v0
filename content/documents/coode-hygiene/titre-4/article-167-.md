@@ -1,0 +1,2 @@
+La mise en mouvement de l'action publique appartient au ministère public et à l'autorité administrative compétente.
+L'autorité administrative compétente ou son représentant, les victimes ou leurs ayants droit, ainsi que les associations d'usagers, de consommateurs, de protection de l'environnement peuvent se constituer partie civile.

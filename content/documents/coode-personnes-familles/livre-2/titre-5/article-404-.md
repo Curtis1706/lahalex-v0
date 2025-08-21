@@ -1,0 +1,1 @@
+Cette procédure est également applicable au recouvrement de la contribution aux charges du ménage.

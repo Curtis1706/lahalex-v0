@@ -1,0 +1,2 @@
+Participer à l'organisation des élections est un devoir civique qui peut être confiée à fout citoyen.
+Quiconque accepte ce devoir ne peut s'y dérober, sous peine de sanctions sauf cas de force majeure.

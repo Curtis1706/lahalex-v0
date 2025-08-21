@@ -1,0 +1,1 @@
+Tout occupant d'une habitation en assure la propreté à l'intérieur et aux abords immédiats.

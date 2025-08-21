@@ -1,0 +1,3 @@
+A défaut de descendants, la succession est dévolue pour moitié aux père et mère du défunt et pour l’autre moitié à ses frères et sœurs ou, à défaut, aux descendants de ces derniers.
+La part dévolue aux père et mère se partage entre eux par tête ; si un seul d’entre eux vient à la succession, il recueille la totalité de cette part.
+La part dévolue aux frères et sœurs se partage entre eux par tête. Cependant, s’il existe à la fois des frères et sœurs germains et des frères et sœurs utérins ou consanguins, la part qui leur est dévolue se divise par moitié entre la ligne paternelle et la ligne maternelle ; les frères et sœurs germains prennent part dans les deux lignes et les frères et sœurs utérins ou consanguins dans une ligne seulement.

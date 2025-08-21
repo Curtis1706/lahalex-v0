@@ -1,0 +1,1 @@
+Il est interdit à tout parlementaire d'accepter, en cours de mandat, une fonction de membre de Conseil d'administration ou de surveillance ou toute fonction exercée de façon permanente en qualité de Conseil dans l'un des établissements, sociétés ou entreprises visés à l'article précédent.

@@ -1,0 +1,2 @@
+L’agence maritime est une succursale de l’armement. Le chef d’agence encore appelé commis succursaliste ou agent maritime se rapporte à l’armement dans le cadre d’un contrat d’emploi.
+L’agent maritime, dans le cadre du contrat d’emploi le liant à l’armement, agit en tant que consignataire d’un ou de plusieurs armements étrangers.

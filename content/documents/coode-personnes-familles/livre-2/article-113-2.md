@@ -1,0 +1,2 @@
+« La connaissance mutuelle des familles par la présentation réciproque de celles-ci vaut promesse de mariage entre un homme et une femme.
+Au terme de la connaissance mutuelle des familles, les deux partenaires qui y ont consenti deviennent des fiancés ».

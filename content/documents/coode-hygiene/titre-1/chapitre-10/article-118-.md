@@ -1,0 +1,1 @@
+Tout individu ou groupe d'individus ayant constaté la présence de rongeurs, de puces, de blattes, de chauves-souris ou autres vecteurs de maladie dans une habitation, sollicite l'intervention des services publics ou privés compétents.

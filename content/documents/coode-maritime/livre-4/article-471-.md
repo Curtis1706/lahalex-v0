@@ -1,0 +1,1 @@
+La preuve qu’un dommage, une perte ou une dépense doit être classée en avaries communes, incombe à celui qui réclame cette admission. A défaut de cette preuve, l’avarie est réputée particulière, supportée et payée par le propriétaire de la chose qui a éprouvé le dommage ou occasionné la dépense.

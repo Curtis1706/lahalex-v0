@@ -1,0 +1,1 @@
+Le cohéritier qui aliène son lot en tout ou partie n’est plus recevable à intenter l’action en nullité pour cause de dol, de violence ou d’erreur sur la cause si l’aliénation qu’il a faite est postérieure à la découverte de l'erreur ou du dol ou à la cessation de la violence.

@@ -1,0 +1,2 @@
+Pour les condamnations en faveur des particuliers, la durée de la contrainte par corps est fixée forfaitairement dans les limites de trois (03) jours à six (06) mois selon le montant des condamnations.
+Il n’est fixé qu’une seule durée, quel que soit le nombre des particuliers intéressés.

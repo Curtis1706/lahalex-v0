@@ -1,0 +1,1 @@
+Le conseil de supervision est consulté par le maire et le conseil communal pour toute question liée à l’exercice des pouvoirs propres conférés au secrétaire exécutif.

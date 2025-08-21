@@ -1,0 +1,2 @@
+Toute publication, même contenant des réserves expresses, est écartée lorsqu’elle est susceptible d’entraîner des torts pour autrui.
+Le traitement des informations susceptibles de mettre en péril l’ordre public requiert du journaliste rigueur professionnelle et circonspection.

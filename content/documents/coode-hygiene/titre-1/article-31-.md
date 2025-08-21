@@ -1,0 +1,1 @@
+Toute implantation d'établissement à caractère industriel ou commercial est soumise aux dispositions relatives aux installations et établissements classés de la loi-cadre sur l'environnement en République du Bénin.

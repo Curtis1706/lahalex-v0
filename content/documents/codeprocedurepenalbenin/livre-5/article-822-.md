@@ -1,0 +1,2 @@
+Lorsqu’une peine principale fait l’objet d’une grâce présidentielle, il y a lieu de tenir compte, pour l’application de la confusion, de la peine résultant de la mesure.
+VI : DE LA RECONNAISSANCE DE L’IDENTITÉ DES INDIVIDUS CONDAMNES

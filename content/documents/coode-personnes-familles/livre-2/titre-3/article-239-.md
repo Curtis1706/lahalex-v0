@@ -1,0 +1,2 @@
+En cas de non conciliation, le juge fixe par ordonnance la date de l’audience à laquelle l’affaire sera appelée devant le tribunal et invite les parties à s’y présenter. Si le défendeur est absent, il est attrait par voie d’assignation.
+Par la même ordonnance, le juge statue après avoir entendu les avocats des parties, si celles-ci le demandent, sur la résidence des époux durant l’instance, sur la remise des effets personnels et, s’il y a lieu, sur la garde provisoire des enfants, sur le droit de visite des parents et sur la demande d’aliments.

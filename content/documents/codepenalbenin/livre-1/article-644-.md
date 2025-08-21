@@ -1,0 +1,1 @@
+Sont qualifiés fausses-clefs, tous crochets, tous rossignols, tout passe-partout, toutes clefs imitées, contrefaites, altérées ou tous objets qui n’ont pas été destinés par le propriétaire, locataire, aubergiste ou logeur aux serrures, cadenas ou autres fermetures quelconques, auxquelles le coupable les a employées.

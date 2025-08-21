@@ -1,0 +1,21 @@
+Infractions pénales
+Constituent des 	infractions au sens des dispositions du présent Livre, sans préjudice de celles prévues par le code pénal :
+1. le fait d’entraver l’action de l'Autorité :
+- en s’opposant à l’exercice des missions confiées à ses membres ou aux agents habilités ;
+- en refusant de communiquer à ses membres ou aux agents habilités les renseignements et documents utiles à leur mission, ou en dissimulant lesdits documents ou renseignements, ou en les faisant disparaître ;
+- en communiquant des informations qui ne sont pas conformes au contenu des enregistrements tel qu’il était au moment où la demande a été formulée ou qui ne présentent pas ce contenu sous une forme directement accessible ;
+- toute personne physique ou morale qui, sans droit même par négligence, procède ou fait procéder à des traitements de données à caractère personnel sans avoir respecté les formalités préalables à leur mise en œuvre telles que prescrites par les dispositions du présent
+Livre ;
+- quiconque en connaissance de cause, décide de faire usage de données à caractère personnel collectées au moyen de données collectées par le procédé décrit au point (ii), sans en être l’auteur est également condamné comme s’il était l’auteur du traitement frauduleux ;
+- le fait, hors les cas où le traitement des données a été réalisé dans les conditions prévues par les dispositions des dispositions du présent Livre, de procéder ou de faire procéder à un traitement de données à caractère personnel parmi  lesquelles,  des  données  sensibles  relatives  à  des  infractions  ou  des  données  relatives  au  numéro d’identification national ;
+- le fait de procéder ou de faire procéder à un traitement de données à caractère personnel sans avoir mis en œuvre les mesures prescrites par les dispositions du présent Livre ;
+- le fait de collecter des données à caractère personnel par un moyen frauduleux, déloyal ou illicite ;
+- le fait, par toute personne détentrice de données à caractère personnel à l’occasion de leur enregistrement, de leur classement, de leur transmission ou de toute autre forme de traitement, de détourner et/ou de manipuler ces informations ;
+- quiconque a transféré, fait ou laissé transférer des données à caractère personnel vers un État tiers sans qu'il ait été satisfait aux exigences prévues au Chapitre 2 du Titre II du présent Livre ;
+- quiconque, pour contraindre une personne à lui communiquer les renseignements obtenus par l'exercice du droit consacré par l’article 436 du présent code, ou à donner son autorisation au traitement de données à caractère personnel la concernant, a usé à son égard de voies de fait, de violence ou menaces, de dons ou de promesses ;
+- le fait de procéder à un traitement des données à caractère personnel concernant une personne physique malgré la demande de rectification ou l’opposition de cette personne, lorsque cette demande de rectification ou cette opposition est fondée sur des motifs légitimes ;
+- le fait de ne pas respecter les dispositions du présent Livre relatives à l’information des personnes ;
+- le fait de ne pas respecter les dispositions du présent Livre relatives aux droits d’accès ;
+- le fait de conserver des données à caractère personnel au-delà de la durée prévue pour la déclaration préalable adressée à l'Autorité sauf si cette conservation est effectuée à des fins historiques, statistiques ou scientifiques au sens du présent Livre ;
+- le fait, par toute personne qui a recueilli, à l’occasion de leur enregistrement, de leur classement, de leur transmission ou d’une autre forme de traitement, des données à caractère personnel dont la divulgation aurait pour effet de porter atteinte à la considération de l’intéressé ou à l’intimité de sa vie privée, de porter sans autorisation de l’intéressé ces données à la connaissance d’un tiers qui n’a pas qualité pour les recevoir ;
+- le fait de participer à une association formée ou à une entente établie en vue de la commission d’une ou plusieurs infractions prévues par les dispositions du présent Livre.

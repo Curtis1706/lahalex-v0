@@ -1,0 +1,4 @@
+Le contrat d’engagement doit être rédigé en termes clairs et de nature à ne laisser aucun doute aux parties sur leurs droits et leurs obligations respectifs.
+2 indique si l’engagement est conclu pour une durée déterminée ou indéterminée, ou pour un voyage. 2 mentionne le service pour lequel le marin s’engage et la fonction qu’il doit exercer, le montant des salaires et accessoires, et les bases de calculs des parts et profits.
+Le lieu et la date d’embarquement du marin sont mentionnés au rôle d’équipage ainsi que dans son livret professionnel maritime.
+Les conditions d’application des dispositions ci-dessus énoncées sont fixées par voie réglementaire.

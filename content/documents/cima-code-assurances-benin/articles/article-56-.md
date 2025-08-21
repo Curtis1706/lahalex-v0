@@ -1,0 +1,5 @@
+Article 56 : Capital assuré
+En matière d’assurance sur la vie et d’assurance contre les accidents atteignant les personnes, les sommes assurées sont fixées par le contrat.
+En matière d’assurance sur la vie, le capital ou la rente garantis peuvent être exprimés en unités de compte constituées de valeurs mobilières ou d’actifs figurant sur une liste dressée par le Conseil des Ministres chargés des assurances dans les États membres de la CIMA.
+Dans tous les cas, le contractant ou le bénéficiaire a la faculté d’opter entre le règlement en espèces et la remise des titres ou des parts. Toutefois lorsque les unités de compte sont constituées par des titres ou des parts non négociables, le règlement ne peut être effectué qu’en espèces.
+La contre-valeur en espèces des sommes versées par l’assureur lors de la réalisation du risque ne peut toutefois être inférieure à celle du capital ou de la rente garantis, calculée sur la base de la valeur de l’unité de compte à la date de prise d’effet du contrat ou, s’il y a lieu, de son dernier avenant.

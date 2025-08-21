@@ -1,0 +1,4 @@
+Les dispositions relatives à la compétence, à la qualité de juge d’instruction, aux perquisitions, visites domiciliaires, saisies, à la liberté des inculpés et au respect des droits de la défense sont prescrites à peine de nullité absolue des actes dressés.
+Doivent être observées à peine de nullité de l’acte et même s’il y échet, de la procédure ultérieure, les dispositions substantielles du présent titre, et notamment celles concernant les droits de la défense.
+La chambre de l’instruction décide si la nullité doit être limitée à l’acte vicié ou s’étendre à tout ou partie de la procédure ultérieure.
+Les parties peuvent renoncer à se prévaloir de la nullité, lorsqu’elle n’est édictée que dans leur seul intérêt.

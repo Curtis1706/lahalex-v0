@@ -1,0 +1,2 @@
+Le tribunal peut, soit sur la demande de l'une des parties, soit, sur celle de l’un des membres de la famille, soit sur les réquisitions du ministère public, soit même d’office, ordonner toutes les mesures provisoires qui lui paraissent nécessaires dans l’intérêt des enfants.
+Il statue aussi sur les demandes relatives aux aliments pour la durée de l'instance, sur les provisions et sur toutes les autres mesures urgentes.

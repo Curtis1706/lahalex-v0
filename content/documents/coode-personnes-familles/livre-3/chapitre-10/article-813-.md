@@ -1,0 +1,1 @@
+La réserve héréditaire globale est de deux tiers (2/3) de la masse à partager. Le surplus constitue la quotité disponible.

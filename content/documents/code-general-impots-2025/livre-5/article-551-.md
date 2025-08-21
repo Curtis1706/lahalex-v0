@@ -1,0 +1,1 @@
+Le  contribuable  qui  accepte  formellement  ou  tacitement  les rectifications visées à l’article 554 du présent code conserve le droit de réclamer contre l’imposition, après sa mise en recouvrement, mais la charge de la preuve lui incombe.

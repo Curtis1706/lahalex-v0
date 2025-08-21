@@ -1,0 +1,3 @@
+1) Les mutations foncières sont effectuées à la diligence des parties intéressées.
+Elles  peuvent  cependant  être  appliquées  d’office  dans  les  avis  de  mise  en recouvrement par les agents chargés de l’assiette d’après les documents certains dont ils ont pu avoir communication.
+2) Tant que la mutation n’a pas été faite, l’ancien propriétaire continue à être imposé, et lui, ses ayants droit ou ses héritiers naturels peuvent être contraints au paiement de la taxe foncière unique, sauf le recours contre le nouveau propriétaire.

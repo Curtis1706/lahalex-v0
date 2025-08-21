@@ -1,0 +1,5 @@
+Toute juridiction d’instruction ou de jugement, dans le cas où se pose une question d’ordre technique, peut, soit à la demande du ministère public, soit d’office ou à la requête de l’une des parties, ordonner une expertise.
+Lorsque le juge d’instruction estime ne pas devoir faire droit à une demande d’expertise, il doit rendre une ordonnance motivée au plus tard dans un délai de trente (30) jours à compter de la date de réception de la demande d’expertise.
+Cette ordonnance est susceptible d’appel ainsi qu’il est prévu à l’article 188 alinéa 3 du présent code.
+Faute par le juge d’instruction de statuer dans le délai prévu à l’alinéa 2 du présent article, la partie qui demande l’expertise peut saisir directement le président de la chambre de l’instruction qui dispose d’un délai de quinze (15) jours pour apprécier par arrêt spécialement motivé le bien-fondé de la demande d’expertise.
+Les experts procèdent à leur mission sous le contrôle du juge d’instruction ou du magistrat que doit désigner la juridiction ordonnant l’expertise.

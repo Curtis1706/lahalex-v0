@@ -1,0 +1,1 @@
+Chacun des époux administre ses biens personnels et en perçoit les revenus.

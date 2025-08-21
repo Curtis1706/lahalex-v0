@@ -1,0 +1,1 @@
+La renonciation à l’action civile ne peut arrêter ni suspendre l’exercice de l’action publique, sous réserve des cas visés à l’alinéa 2 de l’article 7 du présent code.

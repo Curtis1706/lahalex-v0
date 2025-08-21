@@ -1,0 +1,1 @@
+Est puni d’un emprisonnement de six (06) mois à vingt-quatre (24) mois et d’une amende de cent mille (100.000) à un million (1.000.000) francs CFA, quiconque exerce une pression, de quelque nature que ce soit, sur un juge dans l’exercice de ses fonctions.

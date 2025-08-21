@@ -1,0 +1,1 @@
+la suspension de l’exécution de la peine est, de droit, révoquée en cas de nouvelle condamnation à une peine privative de liberté excédant trois (03) mois.

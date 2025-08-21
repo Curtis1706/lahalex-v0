@@ -1,0 +1,1 @@
+Au cas où le budget n'est pas adopté au 31 mars de l'exercice concerné, l’autorité de tutelle règle le budget et le rend exécutoire dans un délai de quinze (15) jours.

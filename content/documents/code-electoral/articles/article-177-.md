@@ -1,0 +1,2 @@
+Pour l'élection des membres du Conseil communal, la circonscription électorale est l'arrondissement.
+Les partis politiques sont tenus de présenter des listes de candidats dans tous les arrondissements du territoire national.

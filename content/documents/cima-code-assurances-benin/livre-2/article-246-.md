@@ -1,0 +1,3 @@
+Indication à la victime des recours des tiers payeurs
+L’offre d’indemnité doit indiquer, outre les mentions exigées par l’article 231, les créances de chaque tiers payeur et les sommes qui reviennent au bénéficiaire. Elle est accompagnée de la copie des décomptes produits par les tiers payeurs.
+Si la victime ou ses ayants droit n’a pas communiqué à l’assureur la liste des tiers payeurs, le paiement effectué est libératoire, les tiers payeurs devront adresser leurs recours à la victime ou ses ayants droit bénéficiaires de l’indemnité.

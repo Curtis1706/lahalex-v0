@@ -1,0 +1,1 @@
+Les lois relatives à la nature, aux cas d’ouverture des voies de recours, aux délais dans lesquels elles doivent être exercées ainsi qu’à la qualité des personnes admises à se pourvoir sont applicables aux recours formés contre les décisions prononcées après leur entrée en vigueur.

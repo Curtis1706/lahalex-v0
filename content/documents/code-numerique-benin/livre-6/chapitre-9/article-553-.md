@@ -1,0 +1,2 @@
+Incitation à la rébellion
+La provocation directe à la rébellion au moyen d’un ou sur un réseau de communication électronique ou un système informatique est punie de six (06) mois d'emprisonnement et de deux millions (2 000 000) à dix millions (10 0000 000) de francs CFA d'amende.

@@ -1,0 +1,4 @@
+Montant
+Le montant de la sanction pécuniaire prévue au point 1 de l’article précédent est proportionné à la gravité des manquements commis et aux avantages tirés de ce manquement.
+Lors du premier manquement, il ne peut excéder cinquante millions (50 000 000) de francs CFA. En cas de manquement réitéré dans les cinq (05) années à compter de la date à laquelle la sanction pécuniaire précédemment prononcée est devenue définitive, il ne peut excéder cent millions (100 000 000) de francs CFA ou, s’agissant d’une entreprise, cinq pour cent (5 %) du chiffre d’affaires hors taxes du dernier exercice clos dans la limite de cent millions (100 000 000) de francs CFA.
+Lorsque l'Autorité a prononcé une sanction pécuniaire devenue définitive avant que le juge pénal ait statué définitivement sur les mêmes faits ou des faits connexes, celui-ci peut ordonner que la sanction pécuniaire s’impute sur l’amende qu’il prononce.

@@ -1,0 +1,1 @@
+Sont interdits le déversement, l’immersion dans les eaux de mer, cours d’eau, lacs, étangs, des déchets industriels susceptibles de porter atteinte à la santé publique ainsi qu’à la faune et la flore aquatiques.

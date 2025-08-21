@@ -1,0 +1,1 @@
+L’officier de l’état civil qui a dressé ou transcrit l’acte donnant lieu à mention effectue celle-ci, dans les trois (3) jours suivant la réception de l’acte, sur les registres qu’il détient et, si le double du registre où la mention doit être effectuée se trouve au greffe, adresse un avis au procureur de la République du ressort.

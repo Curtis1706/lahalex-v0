@@ -1,0 +1,1 @@
+Aucune concession de fréquence ou de bande de fréquence n’est accordée à un parti politique ou à un membre de ses organes dirigeants.

@@ -1,0 +1,1 @@
+En cas de refus d'enregistrement d'une déclaration ou en cas de contestation, les candidats ou partis peuvent se pourvoir devant la Cour Constitutionnelle qui statue sans recours dans le délai de cinq (05) jours.

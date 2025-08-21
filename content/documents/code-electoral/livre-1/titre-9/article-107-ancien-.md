@@ -1,0 +1,1 @@
+Conformément aux dispositions des articles 124 alinéa 2 et 131 alinéa 3 de la Constitution, les décisions rendues par les deux (02) Cours visées à l'article 101 ci-dessus, ne sont susceptibles d'aucun recours.

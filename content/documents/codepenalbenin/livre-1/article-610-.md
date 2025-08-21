@@ -1,0 +1,2 @@
+Est puni des peines prévues à l’article 608, quiconque a sciemment publié, par quelque voie que ce soit, le montage réalisé avec les paroles ou l’image d’une personne sans le consentement de celle-ci, s’il n’apparaît pas à l’évidence qu’il s’agit d’un montage ou s’il n’en est pas expressément fait mention.
+Les poursuites sont exercées dans les conditions prévues à l’article 609 alinéas 1er et 2 du présent code.

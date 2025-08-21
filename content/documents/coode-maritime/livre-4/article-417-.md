@@ -1,0 +1,1 @@
+Le fait pour une même personne d’agir simultanément en qualité de consignataire du navire, consignataire de la cargaison et acconier n’est pas une cause d’annulation des contrats correspondants, si les divers services ont été loyalement exécutés et séparés en fait et en droit.

@@ -1,0 +1,1 @@
+Quiconque a abattu un ou plusieurs arbres qu’il savait appartenir à autrui, est puni d’un emprisonnement qui ne sera pas en-dessous d’un (01) mois ni au-dessus de six (06) mois, à raison de chaque arbre, sans que la totalité ne puisse excéder cinq (05) ans.

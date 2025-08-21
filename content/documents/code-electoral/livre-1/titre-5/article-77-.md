@@ -1,0 +1,1 @@
+Le vote de chaque électeur est constaté par l'apposition de l'empreinte de son pouce gauche à l'encre indélébile en face de son nom en présence des membres du poste de vote.

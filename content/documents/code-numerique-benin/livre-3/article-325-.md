@@ -1,0 +1,2 @@
+Publication de jugement définitif
+En condamnant du chef d'infraction visé à l'article 324, la juridiction compétente peut ordonner l'insertion du jugement, intégralement ou par extraits, dans un ou plusieurs journaux, dans les conditions qu'elle détermine, aux frais de la personne condamnée.

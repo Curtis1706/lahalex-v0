@@ -1,0 +1,1 @@
+Il est interdit de rejeter les eaux usées de quelque origine que ce soit, les graisses, les huiles de vidange, les excréments sur les voies et places publiques, dans les caniveaux et les cours d'eau.

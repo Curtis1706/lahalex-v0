@@ -1,0 +1,1 @@
+Les testaments compris dans la présente section sont signés par le testateur, par ceux qui les auront reçus et par les témoins.

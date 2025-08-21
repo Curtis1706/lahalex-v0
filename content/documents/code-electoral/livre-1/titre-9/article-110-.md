@@ -1,0 +1,4 @@
+Le contentieux électoral relatif à l'élection du président de la République et aux élections législatives est soumis à la Cour Constitutionnelle qui statue conformément aux textes en vigueur.
+Tout le contentieux électoral en ce qui concerne les élections communales, relève de la compétence de la Cour suprême.
+Dans tous les cas, la Cour suprême dispose de six (06) mois maximum à compter de l'introduction de tout recours pour rendre ses décisions et ordonner les reprises d'élections.
+La reprise partielle des élections législatives ou communales est organisée en deux fois maximum. Code électoral en République du Bénin

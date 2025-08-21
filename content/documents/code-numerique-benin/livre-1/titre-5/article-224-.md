@@ -1,0 +1,3 @@
+Types de procédures
+Les parties peuvent décider de saisir l’Autorité de régulation de tout différend relevant de sa compétence à la demande de l’une ou l’autre des parties, l’Autorité de régulation peut ouvrir une procédure de conciliation dont l’objectif est de parvenir à une solution à l’amiable qui fera l’objet d’un procès-verbal de conciliation.
+En cas d’échec de la procédure de conciliation, ou en cas de non-respect par une partie des termes du procès-verbal de conciliation, l’une ou l’autre partie peut saisir l’Autorité de régulation d’une procédure de règlement de différend.

@@ -1,0 +1,4 @@
+Sont punis d’un emprisonnement ferme de six (06) mois à deux (02) ans et d’une amende de dix mille (10.000) francs CFA à cinq cent mille (500.000) francs CFA ou de l’une de ces deux peines seulement ceux qui :
+1. se sont refusés ou opposés, de quelque façon que ce soit à l’exécution des mesures d’inspection sanitaire et de prophylaxie prévues par la règlementation en vigueur ;
+2. auront entravé, de la même manière à l’exercice de la fonction des agents du service de l’élevage et des industries animales agissant dans le cadre de la règlementation sanitaire des animaux.
+En cas de récidive, les peines sont portées de un (01) an à quatre (04) ans et de vingt mille (20.000) francs CFA à un million (1.000.000) de francs CFA.

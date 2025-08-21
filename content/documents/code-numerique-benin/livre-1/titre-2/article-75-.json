@@ -1,0 +1,15 @@
+{
+  "id": "article-75-",
+  "title": "Article 75 : Prestations d’itinérance internationale",
+  "numero": "75 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-74-",
+    "next": "article-76-"
+  }
+}

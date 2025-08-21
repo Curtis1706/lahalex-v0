@@ -1,0 +1,1 @@
+L’organisation et le fonctionnement du régime spécial en faveur des travailleurs indépendants, agricoles et du secteur informel sont fixés par une loi spécifique.

@@ -1,0 +1,2 @@
+Lorsqu’une enquête maritime est obligatoire, le propriétaire ou le capitaine du navire doit informer sans délai l’autorité maritime de toute mesure prise ayant pour effet l’ajournement de l’enquête maritime, en indiquant les raisons pour lesquelles l'enquête maritime est reportée.
+En cas de perte totale du navire, l’enquête maritime est effectuée au port d’immatriculation du navire, à moins que l’autorité maritime en décide autrement.

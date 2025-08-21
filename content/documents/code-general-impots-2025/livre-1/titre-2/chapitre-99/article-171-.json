@@ -1,0 +1,16 @@
+{
+  "id": "article-171-",
+  "title": "Article  171 :",
+  "numero": "171 ",
+  "document": "code-general-impots-2025",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "chapitre-99"
+  ],
+  "navigation": {
+    "parent": "chapitre-99",
+    "previous": "article-170-",
+    "next": "article-172-"
+  }
+}

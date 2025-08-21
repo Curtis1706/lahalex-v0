@@ -1,0 +1,1 @@
+L'Etat, la commune ou les communes déclarés civilement responsables peuvent exercer un recours contre les auteurs et complices des faits dommageables.

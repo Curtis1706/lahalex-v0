@@ -1,0 +1,2 @@
+Tout aéronef immatriculé en République du Bénin a la nationalité béninoise.
+Il porte les marques de nationalité et d'immatriculation prévues par les textes réglementaires en vigueur en République du Bénin.

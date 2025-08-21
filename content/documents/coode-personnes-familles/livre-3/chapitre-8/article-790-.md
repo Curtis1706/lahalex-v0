@@ -1,0 +1,1 @@
+Les cohéritiers sont respectivement garants, les uns envers les autres, des troubles et évictions qui procèdent d’une cause antérieure au partage.

@@ -1,0 +1,1 @@
+Nonobstant le contrôle de la qualité de l'eau effectué par le ministère en charge de l'eau et le ministère en charge de la santé, les services de distribution publique d'eau contrôlent régulièrement la qualité de l'eau livrée aux consommateurs.

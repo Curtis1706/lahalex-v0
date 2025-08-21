@@ -1,0 +1,2 @@
+Règles applicables aux activités soumises au régime de l’autorisation
+Les règles applicables aux activités soumises au régime de l’autorisation sont précisées par arrêté du Ministre en charge des communications électroniques.

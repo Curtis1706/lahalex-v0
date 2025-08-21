@@ -1,0 +1,1 @@
+Article 406 : En attendant la mise en place des structures appropriées de la protection de l’enfant, celle-ci est assurée conformément aux mécanismes en vigueur non contraires à la présente loi.

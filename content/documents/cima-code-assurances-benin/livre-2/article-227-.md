@@ -1,0 +1,4 @@
+Incidences de la faute du conducteur et impossibilité d’apprécier les fautes commises
+La faute commise par le conducteur du véhicule terrestre à moteur a pour effet de limiter ou d’exclure l’indemnisation des dommages corporels ou matériels qu’il a subis. Cette limitation ou cette exclusion est opposable aux ayants droit du conducteur et aux personnes lésées par ricochet.
+Lorsque les circonstances d’une collision entre deux ou plusieurs véhicules ne permettent pas d’établir les responsabilités encourues, chacun des conducteurs ne reçoit de la part du ou des autres conducteurs que la moitié de l’indemnisation du dommage corporel ou matériel qu’il a subi.
+Lorsque le conducteur d’un véhicule terrestre à moteur n’en est pas le propriétaire, la faute de ce conducteur peut être opposée au propriétaire pour l’indemnisation des dommages causés à son véhicule. Le propriétaire dispose d’un recours contre le conducteur sous réserve des dispositions prévues à l’article 42.

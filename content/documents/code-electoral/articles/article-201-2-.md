@@ -1,0 +1,2 @@
+Le nom du chef de village ou de quartier de ville est communiqué par arrondissement à l'autorité préfectorale par le parti, dans les trente (30) jours qui suivent l'installation du conseil communal.
+L'autorité préfectorale dispose de huit (08) jours après communication des noms par le parti pour les notifier par arrêté au maire qui dispose de quinze (15) jours pour leur installation.

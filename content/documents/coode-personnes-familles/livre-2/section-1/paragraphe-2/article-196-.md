@@ -1,0 +1,1 @@
+Les gains et salaires ne peuvent être saisis par les créanciers de son conjoint que si l'obligation a été contractée pour l’entretien du ménage ou l’éducation des enfants.

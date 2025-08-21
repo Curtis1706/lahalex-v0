@@ -1,0 +1,2 @@
+Article 85 : Quiconque exerce une activité agricole, pastorale ou artisanale en violation d’une mesure d’interdiction ou d’une règle édictée en application des dispositions de l’article 52 de la présente loi, est puni d’une peine d’emprisonnement de un (01) jour à soixante (60) jours et d’une amende de cinquante mille (50 000) à deux cent cinquante mille (250 000) francs CFA ou de l’une de ces deux peines seulement.
+En cas de récidive, les peines sont portées au double.

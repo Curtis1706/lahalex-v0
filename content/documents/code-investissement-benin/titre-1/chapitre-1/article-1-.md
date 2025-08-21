@@ -1,0 +1,19 @@
+Article 1 : Au sens de la présente loi, on entend par :
+- activité agricole : toute activité relevant de l’agriculture, de l’élevage, de la pêche, de la pisciculture et de la foresterie ;
+- activité touristique : toute prestation de services, de vente, de voyage ou d’utilisation d’infrastructures touristiques fournie à titre onéreux avec ou sans hébergement ;
+- agence nationale en charge de la promotion des investissements : structure ou institution mandatée par l’Etat pour assurer la promotion des investissements au Bénin ;
+- agrément : tout accord devant être obtenu par une entreprise pour que la réalisation des investissements puisse être exécutée en bénéficiant d’un régime douanier et fiscal de faveur ;
+- aménagement touristique : ensemble des travaux de réalisation des infrastructures de base sur des espaces et des étendues destinés à accueillir des investissements touristiques. Il est matérialisé par des études qui fixent la nature des aménagements et la typologie des activités des infrastructures ;
+- durée d’agrément : durée pendant laquelle l’entreprise bénéficie des avantages du Code des investissements, période d’installation et période d’exploitation ;
+- entreprise : toute unité de production, de transformation ou de distribution de biens ou de services à caractère marchand, constituée par une personne physique ou morale établie légalement en République du Bénin ;
+- entreprise sécurisée : entreprise qui a pris toutes les assurances et les mesures nécessaires à la sécurité de son activité ;
+- espace économique : zones ou régions précisément et spécifiquement prévues par l’Etat pour accueillir les entreprises et industries éligibles au présent Code ;
+- entreprise touristique et/ou hôtelière : tout établissement de tourisme et/ou hôtelier à caractère commercial offrant à une clientèle des prestations d’hébergement ainsi que des prestations annexes à savoir nourriture, boissons, activités de loisir, transport touristique et services divers ;
+- extension : tout accroissement de la capacité de production d’une entreprise existante ;
+- investisseur : toute personne physique ou morale de nationalité béninoise ou non réalisant dans les conditions définies, dans le cadre du présent Code, des opérations d’investissement sur le territoire béninois ;
+- investissement : tout engagement durable de capitaux à caractère lucratif effectué par toute personne, physique ou morale pour la réalisation d’un projet permettant de contribuer au développement de l’économie béninoise tout en assumant les risques y afférents ;
+- matériel et outillage : objets et instruments qui servent à la transformation ou au façonnage des matières premières. Ce sont notamment le matériel et outillage industriels, le matériel et outillage agricoles, le matériel et outillage d’élevage, de pêche et de pisciculture, le matériel de manutention, le matériel d’emballage, le matériel de réparation, le véhicule utilitaire destiné exclusivement à la production ;
+- matières premières : objets et fournitures destinés à être incorporés dans la fabrication ou la transformation d’un produit ;
+- modernisation ou rénovation : acquisition et installation d’équipements et de matériels plus performants et/ou la restauration d’infrastructures en vue d’améliorer la qualité et la quantité de la production ;
+- produits : objets physiques obtenus après une activité agricole, de transformation industrielle ou de service ;
+- valeur ajoutée : différence entre le chiffre d’affaires hors taxes et les consommations intermédiaires hors taxes.

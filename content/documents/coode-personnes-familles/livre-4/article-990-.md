@@ -1,0 +1,2 @@
+L’établissement de la filiation paternelle est régi par la loi nationale du père au jour de la naissance.
+Si la filiation paternelle ne peut être établie en vertu de la loi nationale du père, celle-ci peut être établie en vertu de la loi du domicile commun des parents au jour de la naissance ; à défaut par la loi du for.

@@ -1,0 +1,1 @@
+Sous réserve des dispositions des articles 411 dernier alinéa, 427 alinéa 2, 428 alinéas 2 et 3, 432 alinéas 3 et 4 du présent code, si la citation n’a pas été délivrée à la personne du prévenu, la décision, en cas de non comparution, est rendue par défaut.

@@ -1,0 +1,1 @@
+Les actes de l’état civil régulièrement dressés et les jugements supplétifs rendus antérieurement à la date de mise en vigueur du présent code conserveront tous leurs effets. Il en sera délivré des copies des extraits dans les formes et conditions prévues par le présent code.

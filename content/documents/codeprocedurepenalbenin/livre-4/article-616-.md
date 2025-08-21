@@ -1,0 +1,2 @@
+Lorsque la comparution n’a pas été demandée ou n’a pas été autorisée, la déposition est reçue par écrit dans la demeure du témoin, par le président de la cour d’appel ou, si le témoin réside hors du chef-lieu de la cour d’appel, par le président du tribunal de première instance de sa résidence.
+Il sera, à cet effet, adressé par la juridiction saisie de l’affaire, au magistrat ci- dessus désigné, un exposé des faits sur lesquels le témoignage est requis, ainsi qu’une liste de demandes et questions.

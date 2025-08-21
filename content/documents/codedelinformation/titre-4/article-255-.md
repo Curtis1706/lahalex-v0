@@ -1,0 +1,1 @@
+L’Etat met en œuvre une politique de promotion de l’internet en vue d’en faciliter l’accès aux diverses couches de la population. Il veille notamment à ce que les médias et les structures documentaires bénéficient de tarifs de connexion internet spéciaux.

@@ -1,0 +1,1 @@
+Les articles ou documents de caractère électoral qui comportent exclusivement une combinaison des couleurs du drapeau national sont interdits, sous peine pour l’auteur et le complice de cette infraction, d’une amende de cinq cent mille (500.000) francs CFA par infraction.

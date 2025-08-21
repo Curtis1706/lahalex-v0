@@ -1,0 +1,1 @@
+Les ordonnances rendues par le juge d’instruction en vertu de la présente section, contiennent les noms, prénoms, date, lieu de naissance, domicile et profession de l’inculpé. Elles indiquent la qualification légale du fait imputé à celui-ci et de façon précise, les motifs pour lesquels il existe ou non contre lui des charges suffisantes.

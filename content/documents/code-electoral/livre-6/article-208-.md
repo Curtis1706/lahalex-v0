@@ -1,0 +1,1 @@
+En vue de l'organisation des élections générales en 2026, le mandat des députés élus en 2023 a pour terme, la date d'entrée en fonction des députés élus en 2026 à 00 H.

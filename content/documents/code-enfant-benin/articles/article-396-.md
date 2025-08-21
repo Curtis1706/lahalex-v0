@@ -1,0 +1,2 @@
+Article 396 : Quiconque se livre à la traite d’enfants encourt dix (10) ans à vingt (20) ans de réclusion. Dans tous les cas où la traite d’enfants a lieu avec recours à l’un des moyens énumérés à l’article 398 de la présente loi, ou lorsque la victime est soumise à l’un des actes prévus à l’article 399 de la présente loi, le ou les coupables sont passibles de la réclusion à perpétuité.
+Le coupable est également puni de la réclusion à perpétuité, si l’enfant n’est pas retrouvé avant le prononcé de la condamnation ou est retrouvé mort.

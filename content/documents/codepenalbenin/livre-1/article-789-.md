@@ -1,0 +1,5 @@
+Est puni de la réclusion criminelle à temps de cinq (05) ans à vingt (20) ans et d’une amende de deux millions (2.000.000) de francs CFA à vingt millions (20.000.000) de francs CFA, le liquidateur qui, de mauvaise foi :
+1. a fait des biens ou du crédit de la société en liquidation, un usage qu’il savait contraire à l’intérêt de celle-ci, à des fins personnelles ou pour favoriser une autre personne morale dans laquelle il était intéressé, directement ou indirectement ;
+2. a cédé tout ou partie de l’actif de la société en liquidation à une personne ayant eu dans la société la qualité d’associé en nom, de commandité, de gérant, de membre du conseil d’administration général ou de commissaire aux comptes, sans avoir obtenu le consentement unanime des associés ou, à défaut, l’autorisation de la juridiction compétente.
+La peine sera un emprisonnement de un (01) an à cinq (05) ans et une amende de cinq cent mille (500.000) francs CFA à deux millions (2.000.000) de francs CFA lorsque le préjudice est inférieur ou égal à dix millions (10.000.000) de francs CFA.
+PARAGRAPHES 8 : DE LA BANQUEROUTE ET AUTRES INFRACTIONS ASSIMILABLES

@@ -1,0 +1,1 @@
+Sur proposition de la Commission, le Conseil arrête à la majorité des deux tiers (2/3) de ses membres un schéma relatif à l'harmonisation et à la reconnaissance mutuelle des normes techniques et sanitaires ainsi que des procédures d'homologation et de certification en vigueur dans les Etats membres.

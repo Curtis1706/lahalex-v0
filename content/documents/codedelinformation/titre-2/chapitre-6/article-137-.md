@@ -1,0 +1,3 @@
+La réponse est publiée dans les mêmes proportions, le format, les polices, le caractère et les dispositions de l’article qui l’a provoquée. Elle est ostensible et signalée.
+La publication de la réponse ne peut être accompagnée d’aucun commentaire, ni d’aucune note, sauf la liberté pour le journaliste d’écrire un autre article.
+Tout nouvel article de la part de la rédaction, ouvre la voie à une autre réponse qui s’exerce dans les mêmes conditions que le droit de réponse.

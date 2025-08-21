@@ -1,0 +1,11 @@
+Données rendues publiques - Droit à l’oubli
+Lorsque le responsable du traitement a rendu publiques les données à caractère personnel de la personne concernée, il prend toutes les mesures raisonnables, y compris les mesures techniques, en ce qui concerne les données publiées sous sa responsabilité, en vue d'informer les tiers qui traitent lesdites données qu'une personne concernée leur demande d'effacer tout lien vers ces données à caractère personnel, ou toute copie ou reproduction de celles-ci.
+Lorsque le responsable du traitement a autorisé un tiers à publier des données à caractère personnel de la personne concernée, il est réputé responsable de cette publication et prend toutes les mesures appropriées pour mettre en œuvre le droit à l’oubli numérique et à l’effacement des données à caractère personnel.
+Le responsable du traitement met en place des mécanismes appropriés assurant la mise en œuvre du respect du droit à l’oubli numérique et à l’effacement des données à caractère personnel ou examine périodiquement la nécessité de conserver ces données, conformément aux dispositions du présent Livre.
+Lorsque l'effacement est effectué, le responsable du traitement ne procède à aucun autre traitement de ces données à caractère personnel.
+Les alinéas 1, 2, 3 et 4 ne s'appliquent pas dans la mesure où ce traitement est nécessaire :
+1. à l'exercice du droit à la liberté d'expression et d'information ;
+1. pour respecter une obligation légale qui requiert le traitement ou pour exécuter une mission d'intérêt public ou relevant de l'exercice de l'autorité publique dont est investi le responsable du traitement ;
+1. pour des motifs d'intérêt public dans le domaine de la santé publique ;
+1. à des fins archivistiques dans l'intérêt public, à des fins de recherche scientifique ou historique ou à des fins statistiques conformément à l'article 366, dans la mesure où le droit visé à l’alinéa 1  est susceptible de rendre impossible ou de compromettre gravement la réalisation des objectifs dudit traitement ; ou
+1. à la constatation, à l'exercice ou à la défense de droits en justice.

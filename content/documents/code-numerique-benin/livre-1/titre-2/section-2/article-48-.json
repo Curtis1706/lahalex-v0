@@ -1,0 +1,16 @@
+{
+  "id": "article-48-",
+  "title": "Article 48 : Opérateurs non nationaux",
+  "numero": "48 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "section-2"
+  ],
+  "navigation": {
+    "parent": "section-2",
+    "previous": "article-47-",
+    "next": "article-49-"
+  }
+}

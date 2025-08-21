@@ -1,0 +1,2 @@
+Traductions. Les Hautes Parties contractantes se communiqueront par l’entremise du Lois Conseil fédéral suisse et, pendant les hostilités, par l’entremise des Puissances d’application protectrices les traductions officielles de la présente Convention, ainsi que les
+lois et règlements qu’elles pourront être amenées à adopter pour en assurer <a name="_page57_x0.00_y651.97"></a>l’application.

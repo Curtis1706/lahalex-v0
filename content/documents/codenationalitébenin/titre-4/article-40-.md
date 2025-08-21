@@ -1,0 +1,2 @@
+Le Béninois qui se comporte en fait comme le national d'un pays étranger et agit contre les intérêts de l'Etat béninois, peut, s'il a la nationalité de ce pays, être déclaré, par décret après avis conforme de la chambre administrative de la Cour suprême, avoir perdu la qualité de Béninois.
+Dans ce cas, il est libéré de son allégeance à l'égard de la République du Bénin à la date de ce décret.

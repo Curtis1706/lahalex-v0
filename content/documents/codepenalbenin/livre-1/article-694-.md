@@ -1,0 +1,1 @@
+Les associations reconnues d’utilité publique et à vocation sociale peuvent être autorisées à émettre une seule fois par an, une série de billets de tombola.

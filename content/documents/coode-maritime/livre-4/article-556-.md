@@ -1,0 +1,1 @@
+L’assureur ne garantit pas les dommages et pertes résultant soit d’un vice propre du navire, sauf s’il s’agit d’un vice caché, soit d’une faute intentionnelle du capitaine ou de l’équipage.

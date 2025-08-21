@@ -1,0 +1,1 @@
+Les parcs destinés à contenir du bétail dans la campagne de quelque matière qu’ils soient faits, sont aussi réputés enclos ; et lorsqu’ils tiennent aux cabanes mobiles ou autres abris destinés aux gardiens, ils sont réputés dépendant de maison habitée.

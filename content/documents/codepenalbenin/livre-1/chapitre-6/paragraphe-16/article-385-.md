@@ -1,0 +1,1 @@
+Les complices des infractions prévues au présent paragraphe sont punies des mêmes peines que leurs auteurs.

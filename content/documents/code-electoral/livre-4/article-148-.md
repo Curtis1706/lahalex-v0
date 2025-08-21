@@ -1,0 +1,1 @@
+Tout membre des Forces de défense et de sécurité qui désire être candidat aux fonctions de député doit au préalable donner sa démission des Forces de défense et de sécurité.

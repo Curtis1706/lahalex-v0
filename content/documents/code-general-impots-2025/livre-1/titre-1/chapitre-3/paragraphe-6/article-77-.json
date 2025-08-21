@@ -1,0 +1,17 @@
+{
+  "id": "article-77-",
+  "title": "Article 77 :",
+  "numero": "77 ",
+  "document": "code-general-impots-2025",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-3",
+    "paragraphe-6"
+  ],
+  "navigation": {
+    "parent": "paragraphe-6",
+    "previous": "article-76-",
+    "next": "article-78-"
+  }
+}

@@ -1,0 +1,3 @@
+Le tribunal qui a connu de l’affaire demeure compétent pour ordonner la restitution des objets placés sous main de justice, si aucune voie de recours n’a été exercée contre le jugement sur le fond.
+Il statue sur requête de toute personne qui prétend avoir droit sur l’objet ou à la demande du ministère public.
+Sa décision peut être déférée à la cour d’appel conformément aux dispositions de l’article 496 du présent code.

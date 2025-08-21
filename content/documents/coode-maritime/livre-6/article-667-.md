@@ -1,0 +1,2 @@
+La partie lésée a, pour tout crime ou délit, le droit de se porter partie civile devant les juridictions de droit commun conformément aux textes en vigueur.
+Toutefois, elle ne peut donner citation directement au prévenu devant le tribunal compétent mais doit saisir le juge d’instruction par plainte avec constitution de partie civile.

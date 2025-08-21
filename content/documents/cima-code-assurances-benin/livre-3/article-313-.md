@@ -1,0 +1,3 @@
+Contrôle sur place - Rapport contradictoire
+En cas de contrôle sur place, un rapport contradictoire est établi. Si des observations sont formulées par le vérificateur, il en est donné connaissance à l’entreprise. La Commission prend connaissance des observations formulées par le vérificateur et des réponses apportées par l’entreprise.
+Les résultats des contrôles sur place sont communiqués au Ministre en charge du secteur des assurances et au Conseil d’Administration de l’entreprise contrôlée et sont transmis aux commissaires aux comptes.

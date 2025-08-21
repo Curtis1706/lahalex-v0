@@ -1,0 +1,18 @@
+{
+  "id": "article-36-",
+  "title": "Article  36 :",
+  "numero": "36 ",
+  "document": "code-general-impots-2025",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-1",
+    "section-2",
+    "paragraphe-8"
+  ],
+  "navigation": {
+    "parent": "paragraphe-8",
+    "previous": "article-35-",
+    "next": "article-37-"
+  }
+}

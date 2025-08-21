@@ -1,0 +1,2 @@
+Commissaires contrôleurs
+Les entreprises doivent tenir à la disposition des commissaires contrôleurs, quinze jours au moins avant la réunion de l’assemblée générale chargée de statuer sur l’approbation des comptes, tous les éléments comptables et statistiques nécessaires à l’établissement des états C1, C10a et C10b prévus à l’article 422.

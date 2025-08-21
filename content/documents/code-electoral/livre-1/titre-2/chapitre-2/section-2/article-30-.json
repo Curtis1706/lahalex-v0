@@ -1,0 +1,17 @@
+{
+  "id": "article-30-",
+  "title": "Article 30 : Il peut être mis fin au mandat d'un membre du Conseil électoral dans l'un des cas ci-après :",
+  "numero": "30 ",
+  "document": "code-electoral",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "chapitre-2",
+    "section-2"
+  ],
+  "navigation": {
+    "parent": "section-2",
+    "previous": "article-29-",
+    "next": "article-30-1-"
+  }
+}

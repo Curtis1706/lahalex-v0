@@ -1,0 +1,4 @@
+Accusé de réception
+Après la passation d'une commande, l’auteur de l’offre doit accuser réception de l'acceptation de l’utilisateur qui passe la commande, sans retard injustifié et par tout moyen, y compris par voie électronique.
+L'accusé de réception doit être accompagné de la facture ou du justificatif de paiement présentant un récapitulatif détaillé de la commande ainsi que la date et l'heure de celle-ci.
+La commande, l'acceptation de l'offre, la confirmation, l'accusé de réception et la facture ou le justificatif de paiement, sont considérés comme reçus, lorsque les parties auxquelles ils sont adressés peuvent y avoir accès.

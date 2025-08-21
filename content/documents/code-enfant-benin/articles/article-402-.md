@@ -1,0 +1,2 @@
+Article 402 : Les excursions, les sorties pédagogiques et les voyages organisés par les établissements scolaires, les administrations publiques, ainsi que les déplacements rendus nécessaires pour des raisons académiques ne sont pas soumis aux dispositions de la présente loi.
+SECTION III : PEINES CONTRE LA PRATIQUE D'EXPERIMENTATION SUR LA PERSONNE DE L’ENFANT ET DE LA VENTE D’ORGANES DES ENFANTS

@@ -1,0 +1,16 @@
+{
+  "id": "article-3-",
+  "title": "Article 3 : Souscription de contrats non libellés en francs CFA - Interdiction",
+  "numero": "3 ",
+  "document": "cima-code-assurances-benin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-1"
+  ],
+  "navigation": {
+    "parent": "chapitre-1",
+    "previous": "article-2-",
+    "next": "article-4-"
+  }
+}

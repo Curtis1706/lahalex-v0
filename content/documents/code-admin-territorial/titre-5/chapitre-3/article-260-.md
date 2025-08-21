@@ -1,0 +1,1 @@
+En cas de silence ou de décision de refus motivé de l'autorité de tutelle, le contribuable saisit le tribunal administratif territorialement compétent.

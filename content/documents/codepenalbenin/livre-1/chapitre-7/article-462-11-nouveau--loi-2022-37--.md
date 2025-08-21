@@ -1,0 +1,3 @@
+Par bande armée, il faut entendre un groupe de deux (02) ou plusieurs membres des forces de défense et de sécurité dont l'un, au moins, est porteur d'arme.
+Est puni de dix (10) ans à vingt (20) ans de réclusion, qui déserte à bande armée.
+Est punie du maximum de la réclusion criminelle à temps, la désertion à bande armée commise en temps de guerre, en présence de bande armée ou en présence de l'ennemi ou sur un territoire sur lequel l'état de siège ou l'état d'urgence ou à l'occasion d'une opération de police tendant au maintien ou au rétablissement de l'ordre public.

@@ -1,0 +1,3 @@
+Les contribuables soumis à l’impôt sur les sociétés qui, directement ou indirectement, versent à des personnes dont ils ne révèlent pas l’identité, des commissions, courtages, ristournes commerciales ou non, gratifications et toutes autres rémunérations, sont assujettis à l’impôt sur le revenu des capitaux mobiliers à raison du montant global de ces sommes.
+L’application de l’impôt sur le revenu des capitaux mobiliers auxdits contribuables, ne met pas obstacle à l’imposition des sommes visées ci-dessus, au nom de leurs bénéficiaires, lorsque ceux-ci peuvent être identifiés par l’administration.
+PARAGRAPHE : REVENUS DES CREANCES, DEPOTS ET CAUTIONNEMENTS

@@ -1,0 +1,2 @@
+Article 325-6 : Salaires, privilèges
+En cas de liquidation effectuée dans les conditions prévues à l’article 325-1, les salaires correspondant aux soixante derniers jours du travail et les congés payés dus, plafonnés à trente jours de travail, doivent être payés nonobstant l’existence de tout autre privilège.

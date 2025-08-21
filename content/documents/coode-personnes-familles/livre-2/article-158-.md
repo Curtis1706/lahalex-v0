@@ -1,0 +1,2 @@
+Le mariage crée la famille légitime. Les époux contractent ensemble, par leur mariage, l’obligation de nourrir, entretenir, élever, et éduquer leurs enfants.
+Les modalités d’exécution de l’obligation d’entretenir les enfants sont réglées en même temps que les charges du mariage par le présent code.

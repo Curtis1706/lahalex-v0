@@ -1,0 +1,3 @@
+2 appartient au procureur de la République de poursuivre, s’il y a lieu, les crimes et délits commis à bord des navires béninois.
+Le ministère public ne peut engager les poursuites qu’au vu des conclusions de l’autorité maritime ou à l’expiration d’un délai de (15) quinze jours après qu’il aura réclamé ces conclusions par lettre recommandée.
+L’autorité maritime doit, si elle le demande, être entendue par le tribunal.

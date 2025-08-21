@@ -1,0 +1,2 @@
+Le président de la cour d’appel ou de la cour suprême notifie la requête dont il a été saisi au président de la juridiction à laquelle appartient le magistrat récusé.
+La requête en récusation ne dessaisit pas le magistrat dont la récusation est proposée. Toutefois, le président de la cour d’appel ou de la cour suprême peut, après avis du procureur général, ordonner qu’il soit sursis à la continuation de l’information ou des débats, ou au prononcé du jugement.

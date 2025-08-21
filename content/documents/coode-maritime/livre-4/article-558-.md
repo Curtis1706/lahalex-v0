@@ -1,0 +1,1 @@
+A l’exception des dommages aux personnes, l’assureur est garant du remboursement des dommages de toute nature dont l’assuré est tenu sur le recours des tiers en cas d’abordage par le navire assuré ou de heurt contre un bâtiment, corps fixe, mobile ou flottant.

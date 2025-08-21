@@ -1,0 +1,1 @@
+Les dispositions du présent chapitre s'appliquent sans préjudice des dispositions relatives aux eaux continentales, de la loi-cadre sur l'environnement en République du Bénin et de la loi portant gestion de l'eau en République du Bénin.

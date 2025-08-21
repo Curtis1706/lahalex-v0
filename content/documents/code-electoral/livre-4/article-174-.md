@@ -1,0 +1,1 @@
+En cas de décès constaté d'un ou de plusieurs candidats avant le jour du scrutin, le remplacement du ou des candidats décédés sera autorisé.

@@ -1,0 +1,5 @@
+Si, par l’effet d’un événement quelconque, un jugement rendu par un juge statuant seul n’a pu être signé, ou si celui-ci se trouve dans l’impossibilité de le signer, il en est référé par le ministère public à la cour d’appel, laquelle, en assemblée générale et sur les conclusions du procureur général, autorise un juge désigné pour remplir les fonctions du précédent, à signer en ses lieu et place en faisant précéder sa signature de la mention :
+« Par empêchement de M. X ............et par autorisation de la cour d’appel ».
+Si, par l’effet d’un événement quelconque, un arrêt n’a pu être signé ni par le président, ni par les deux (02) autres membres de la juridiction, il en est référé par le ministère public à la cour d’appel, laquelle en assemblée générale, autorise un juge désigné pour remplir les fonctions des précédents à signer en leurs lieu et place en faisant précéder sa signature de la mention :
+« Par empêchement de M. X .........et par autorisation de la cour d’appel ».
+Dans tous les cas où l’arrêt ne pourrait être signé par le greffier, il suffit que le magistrat ayant présidé l’audience ou le jugement ou l’arrêt a été rendu en fasse mention en signant.

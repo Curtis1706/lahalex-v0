@@ -1,0 +1,1 @@
+La désignation ou le résultat de l'élection du maire et de ses adjoints est rendu public dans un délai de vingt-quatre (24) heures par voie d'affichage à la mairie et est communiqué sans délai à l'autorité de tutelle qui en fait le constat par arrêté préfectoral publié au Journal officiel.

@@ -1,0 +1,1 @@
+Sont punis des peines prévues à l’article 268 du présent code, les procureurs généraux ou de la République, les substituts, les juges ou les officiers publics qui auront retenu ou fait retenir un individu hors des lieux déterminés par le Gouvernement ou par l’administration publique.

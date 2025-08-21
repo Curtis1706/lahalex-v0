@@ -1,0 +1,1 @@
+L’héritier conserve néanmoins, après l’expiration des délais accordés par l’article précédent, même de ceux donnés par le juge, la faculté de faire encore inventaire et de se porter héritier bénéficiaire, s'il n’a pas fait par ailleurs acte d'héritier, ou s’il n'existe pas contre lui de jugement passé en force de chose jugée, qui le condamne en qualité d’héritier pur et simple.

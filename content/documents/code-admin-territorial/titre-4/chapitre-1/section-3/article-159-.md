@@ -1,0 +1,3 @@
+Lorsqu’un conseiller d'arrondissement, de village ou de quartier de ville est empêché d'assister à une séance, il peut donner procuration à un autre conseiller de son choix.
+Chaque procuration est valable pour une seule session du conseil d'arrondissement, de village ou de quartier de ville. Le même conseiller ne peut recevoir plus d’une procuration pour une même session du conseil.
+Toutefois, la procuration pour cause de maladie dûment constatée est valable jusqu’à la guérison du mandant.

@@ -1,0 +1,1 @@
+La suspension prévue à l’article 118 de la présente loi est prononcée par arrêté du ministre chargé de l'administration territoriale et la révocation par décret pris en Conseil des ministres.

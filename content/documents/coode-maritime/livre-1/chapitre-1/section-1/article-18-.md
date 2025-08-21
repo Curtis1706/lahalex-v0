@@ -1,0 +1,1 @@
+L’Etat exerce dans la zone contiguë, tout contrôle nécessaire au respect de ses lois et règlements en matière d’immigration, de fiscalité, de police, de santé ou de douane pour prévenir ou réprimer les infractions commises sur son territoire ou dans sa mer territoriale.

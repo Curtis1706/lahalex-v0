@@ -1,0 +1,2 @@
+1) L’administration fiscale peut rejeter toute  dépense ou perte à la charge de l’entreprise qui ne se rattacherait pas à une gestion normale ou n’aurait pas été exposée dans l’intérêt direct de l’entreprise. Elle peut aussi réintégrer dans les bénéfices imposables toute recette qui aurait dû être réalisée dans le cadre d’une gestion normale, mais qui n’a pas été encaissée.
+2) La charge de la preuve du caractère anormal incombe à l’administration fiscale.

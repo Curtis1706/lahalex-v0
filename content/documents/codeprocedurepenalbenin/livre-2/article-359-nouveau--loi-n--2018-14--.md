@@ -1,0 +1,2 @@
+Lorsque le tribunal statuant en matière criminelle ou la cour d'appel statuant en matière criminelle prononce une peine correctionnelle, il peut être ordonné à la majorité des suffrages qu'il soit sursis à l'exécution de la peine.
+Le tribunal statuant en matière criminelle ou la cour d’appel statuant en matière criminelle délibère également sur les peines accessoires ou complémentaires.

@@ -1,0 +1,1 @@
+Lorsque le testateur a subordonné un legs à une condition ou a assorti un legs d’une charge, cette condition ou cette charge sont réputées non écrites lorsqu’elles sont impossibles ou contraires à la loi ou aux bonnes mœurs.

@@ -1,0 +1,1 @@
+En ouvrant la curatelle ou dans un jugement postérieur, le juge, sur l'avis du médecin traitant, peut énumérer certains actes que la personne en curatelle aura la capacité de faire seule par dérogation à l’article 580 du présent code ou, à l’inverse, ajouter d’autres cas à ceux pour lesquels cet article exige l’assistance du curateur.

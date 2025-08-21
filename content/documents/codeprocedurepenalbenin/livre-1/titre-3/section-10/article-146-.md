@@ -1,0 +1,4 @@
+La détention provisoire est une mesure exceptionnelle ; elle doit être nécessaire et utile à la conduite de l’information et à la manifestation de la vérité.
+Lorsque le juge des libertés et de la détention ordonne ou prolonge une détention provisoire ou qu’il rejette une demande de mise en liberté provisoire, son ordonnance doit comporter l’énoncé des considérations de droit et de fait qui motivent sa décision.
+Lorsque le juge des libertés et de la détention ordonne ou prolonge une mesure de contrôle judiciaire, son ordonnance doit comporter l’énoncé des considérations de droit et de fait qui motivent sa décision.
+Lorsque la détention provisoire est ordonnée ou doit être prolongée, les dispositions de l’article 145 du présent code doivent être appliquées.

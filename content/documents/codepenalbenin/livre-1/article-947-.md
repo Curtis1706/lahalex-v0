@@ -1,0 +1,1 @@
+Sont réputés en état de récidive ceux qui se rendent coupables d’une infraction du même genre que celle visée à l’article 940 du présent code, même si celle-ci a été suivie d’une simple transaction.

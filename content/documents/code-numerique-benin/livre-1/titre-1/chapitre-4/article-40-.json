@@ -1,0 +1,16 @@
+{
+  "id": "article-40-",
+  "title": "Article 40 : Identification de l’appelant",
+  "numero": "40 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-4"
+  ],
+  "navigation": {
+    "parent": "chapitre-4",
+    "previous": "article-39-",
+    "next": "article-41-"
+  }
+}

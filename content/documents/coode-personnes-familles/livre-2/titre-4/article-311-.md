@@ -1,0 +1,3 @@
+Celui dont la filiation est régulièrement établie à l’égard d’un père et d’une mère régulièrement mariés ou réputés mariés au moment de sa conception a la qualité d’enfant légitime.
+L’enfant a également la qualité d’enfant légitime lorsque l’union de ses parents intervient après établissement de sa filiation à l’égard de l’un ou de l’autre.
+Il en est de même lorsque le père vient à reconnaître, après son mariage avec la mère, l’enfant dont la filiation paternelle n’était pas établie.

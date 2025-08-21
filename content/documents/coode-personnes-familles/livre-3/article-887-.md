@@ -1,0 +1,1 @@
+Dans tous les cas prévus aux articles précédents, le testament mystique dans lequel n’auront point été observées les formalités légales, et qui sera nul comme tel, vaudra cependant comme testament olographe, si toutes les conditions requises pour sa validité comme testament olographe sont remplies, même s'il a été qualifié de testament mystique.

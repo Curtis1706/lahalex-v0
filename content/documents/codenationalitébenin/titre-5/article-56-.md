@@ -1,0 +1,2 @@
+Lorsqu'il apparaît, postérieurement à l'acte réglementaire de naturalisation ou de réintégration que l'intéressé ne remplissait pas les conditions requises par la loi pour pouvoir être naturalisé ou réintégré, cet acte est rapporté sans délai.
+Lorsque la validité des actes passés antérieurement au règlement de retrait était subordonnée à l'acquisition par l'intéressé de la qualité de Béninois, cette validité ne peut être contestée pour le motif que le demandeur n'a pas acquis cette nationalité, sauf cas de fraude établie.

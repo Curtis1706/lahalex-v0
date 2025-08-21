@@ -1,0 +1,4 @@
+Détermination des obligations applicables aux opérateurs dominants
+L'Autorité de régulation précise, en les motivant, les obligations des opérateurs dominants sur un marché du secteur des communications électroniques.
+Ces obligations qui s’appliquent pendant une durée limitée fixée par l'Autorité de régulation, pour autant qu'une nouvelle analyse du marché concerné, effectuée en application du présent article ne les rende pas caduques.
+Toute autre obligation résultant des dispositions du droit de la CEDEAO et de l’UEMOA qui sont d’application directe en République du Bénin peut être appliquée à un opérateur dominant.

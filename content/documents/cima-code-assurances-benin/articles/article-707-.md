@@ -1,0 +1,4 @@
+Article 707 : Assurances indicielles - Commission Régionale de Contrôle des Assurances et Direction Nationale des Assurances
+La Commission Régionale de Contrôle des Assurances pourra préciser par voie de circulaire et par pays, une liste d’événements spécifiques et l’identité des organismes en charge du recueil et de l’analyse des données liées à ces événements.
+Lorsqu’une entreprise d’assurance ou de micro assurance propose au public un contrat tarifé sur une base indicielle, elle devra fournir à la Direction Nationale des Assurances et/ou à la Commission un dossier relatif aux événements spécifiques couverts, à l’identité des organismes en charge du recueil et de l’analyse des données liées à ces événements et un historique des mesures effectuées au cours des trois dernières années.
+### CHAPITRE 2 : COTISATIONS, EXCLUSIONS ET INDEMNISATION

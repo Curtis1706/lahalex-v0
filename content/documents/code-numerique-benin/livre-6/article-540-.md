@@ -1,0 +1,4 @@
+Personnes facilitant sur les réseaux, les échanges illicites d’éléments protégés
+Est puni de trois (3) ans d'emprisonnement et de trois millions (3 000 000) de francs CFA d'amende, le fait:
+1. d'éditer, de mettre à la disposition du public ou de communiquer au public, sciemment et sous quelque forme que ce soit, un logiciel manifestement destiné à la mise à disposition du public non autorisée d'œuvres ou d'objets protégés ;
+1. d'inciter sciemment, y compris à travers une annonce publicitaire, à l'usage d'un logiciel mentionné au point 1, au moyen d’un ou sur un réseau de communication électronique ou un système informatique.

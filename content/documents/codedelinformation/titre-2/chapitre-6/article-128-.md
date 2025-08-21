@@ -1,0 +1,1 @@
+Dès l’ouverture des périodes électorales, tout changement de périodicité ou de programmation d’un organe de presse est porté à la connaissance de la Haute Autorité de l’Audiovisuel et de la Communication.

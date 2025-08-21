@@ -1,0 +1,2 @@
+Quiconque a conclu, en République du Bénin, une convention ayant pour objet d’aliéner à titre onéreux la liberté d’une tierce personne, est puni de la réclusion criminelle à perpétuité.
+L’argent, les marchandises et autres objets ou valeurs reçus en exécution de la convention ou comme arrhes d’une convention à intervenir, sont confisqués.

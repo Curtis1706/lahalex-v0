@@ -1,0 +1,3 @@
+Réparation des dommages causés
+Toute personne qui cause un dommage à une infrastructure de communications électroniques en supporte, outre les frais de réparation, les dommages-intérêts et les amendes prévus par le code pénal en la matière, sans préjudice des dommages et intérêts vis-à-vis des tiers.
+Les préjudices subis par les personnes physiques ou morales consécutifs aux infractions visées aux articles 244 à 265 du présent code ouvrent droit à réparation.

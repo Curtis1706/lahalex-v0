@@ -1,0 +1,2 @@
+Article 338-1 : Tarif d’inventaire
+Pour l’application de l’article 74 du Livre I du présent Code, le tarif d’inventaire comprend des chargements permettant la récupération des frais égaux à ceux prévus à l’article 334-3.

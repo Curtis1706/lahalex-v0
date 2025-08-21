@@ -1,0 +1,1 @@
+Les élections couplées, législatives et communales, sont organisées le deuxième dimanche du mois de janvier de l'année électorale.

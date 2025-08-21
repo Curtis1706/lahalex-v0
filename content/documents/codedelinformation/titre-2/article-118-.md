@@ -1,0 +1,1 @@
+Les institutions constitutionnelles et légales de la République autres que l’Assemblée Nationale ne sont pas soumises, dans l’exécution de leurs missions, aux répartitions horaires fixées dans la présente loi.

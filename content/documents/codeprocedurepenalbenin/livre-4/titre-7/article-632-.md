@@ -1,0 +1,2 @@
+S’il se commet une contravention ou un délit pendant la durée de l’audience, le tribunal ou la cour dresse procès-verbal du fait, entend le prévenu, les témoins, le ministère public et éventuellement, l’avocat et prononce sans désemparer les peines prévues par la loi.
+Si la peine prononcée est supérieure à un (01) mois d’emprisonnement, un mandat de dépôt peut être décerné.

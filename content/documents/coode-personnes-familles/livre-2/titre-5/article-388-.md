@@ -1,0 +1,1 @@
+En cas de séparation de corps, la pension alimentaire telle qu'elle est fixée, suivant le mode de séparation, par le juge ou par les parties, se substitue à l’obligation d’entretien.

@@ -1,0 +1,2 @@
+L’enfant dont le père et la mère sont inconnus a les prénoms et le nom qui lui sont attribués par l’officier de l’état civil qui a dressé l’acte de naissance.
+Ces prénoms et nom ne doivent porter atteinte ni à la considération de l’enfant, ni à celle d’autrui.

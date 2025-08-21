@@ -1,0 +1,6 @@
+Article 40 : Déclaration de naissance
+Toute naissance doit être déclarée à l’officier d’état civil du lieu de naissance dans un délai de vingt-et-un (21) jours. Si le délai arrive à expiration un jour férié, la déclaration sera reçue valablement le premier jour ouvrable suivant.
+Les déclarations peuvent émaner du père ou de la mère, d’un ascendant ou d’un proche parent, du médecin, de la sage-femme, de la matrone, du chef de village ou de quartier de ville ou de toute autre personne ayant assisté à la naissance.
+En pays étranger, les déclarations aux agents diplomatiques ou aux consuls sont faites dans le même délai et dans les mêmes conditions.
+Les chefs de village ou de quartier de ville ont l’obligation de rendre compte, tous les trente (30) jours, à l’officier de l’état civil, des naissances qui ont eu lieu en dehors des centres de santé dont ils ont eu connaissance sous peine de sanction.
+Le procureur de la République peut, à tout moment et en dehors des délais prévus ci-dessus, faire la déclaration d’une naissance dont il aurait eu connaissance et qui n’aurait pas été constatée à l’état civil.

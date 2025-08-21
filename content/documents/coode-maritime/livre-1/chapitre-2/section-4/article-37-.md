@@ -1,0 +1,4 @@
+2 est créé, auprès du ministre chargé de la marine marchande, une commission centrale de sécurité.
+Cette commission est saisie par l’autorité maritime de toute demande d’autorisation de construction ou de toute demande d’autorisation d’achat d’un navire étranger lorsque la construction ou l’achat concerne un navire de plus de cinquante (50) tonneaux de jauge brute.
+Un décret pris en conseil des ministres fixe la composition de la commission centrale de sécurité maritime, les modalités de son fonctionnement, la liste des plans et documents qui doivent lui être soumis pour examen ainsi que les conditions d’agrément des sociétés de classification.
+Outre la commission centrale de sécurité maritime, il est créé au sein de l’administration maritime, des commissions chargées des visites de contrôle, des visites périodiques et de visites de partance.

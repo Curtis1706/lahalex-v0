@@ -1,0 +1,2 @@
+La loi présume que l’enfant a été conçu pendant la période qui s’étend du 300è au 180è jours inclusivement avant la date de naissance. La conception est présumée avoir eu lieu à un moment quelconque de cette période, suivant ce qui est demandé dans l’intérêt de l’enfant.
+La preuve contraire est recevable pour combattre cette présomption.

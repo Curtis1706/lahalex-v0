@@ -1,0 +1,5 @@
+Communication des pièces et convocation
+L’Autorité de régulation peut demander la communication de toutes pièces ou documents et convoquer toute personne ou toute entreprise.
+En cas de refus de se rendre à une convocation ou de communiquer une pièce ou un document, ou en cas d’obstruction à l’instruction ou à l’enquête, notamment en fournissant des renseignements incomplets ou inexacts, ou en communiquant des pièces incomplètes ou dénaturées, l’Autorité de régulation peut :
+- prononcer une astreinte, dans la limite et suivant les modalités prévues à l’article 172 ;
+- infliger à l’intéressé une sanction pécuniaire dont le montant ne peut excéder 1 % du montant du chiffre d’affaires mondial hors taxes le plus élevé réalisé au cours d’un des exercices clos depuis l’exercice précédent celui au cours duquel les pratiques ont été mises en œuvre.

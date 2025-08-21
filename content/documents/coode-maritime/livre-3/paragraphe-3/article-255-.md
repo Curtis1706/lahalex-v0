@@ -1,0 +1,3 @@
+Le marin, qui s’absente sans autorisation au moment où il doit prendre son service, perd le droit au salaire pendant ce temps d’absence.
+L’inexécution des obligations qui incombent au marin ne peut donner lieu à aucune amende ou suspension partielle des salaires par l’armateur.
+Le directeur de la marine marchande peut faire prélever sur les salaires le montant des amendes disciplinaires qu’il a infligées au marin.

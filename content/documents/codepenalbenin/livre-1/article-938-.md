@@ -1,0 +1,2 @@
+En cas de condamnation, la juridiction peut ordonner la confiscation au profit de l’État de tout ou partie des biens saisis.
+Pour garantir le recouvrement des amendes et des confiscations prononcées par le tribunal, celui-ci peut ordonner la mise sous séquestre de tout ou partie des biens du condamné jusqu’à concurrence des sommes à garantir.

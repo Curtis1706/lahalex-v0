@@ -1,0 +1,4 @@
+Droit de réponse
+Toute personne nommée ou désignée au moyen d’un ou sur un réseau de communication électronique ou un système informatique, dispose d'un droit de réponse, sans préjudice des demandes de correction ou de suppression du message qu'elle peut adresser au service.
+Elle est présentée au plus tard dans un délai de trois (3) mois à compter de la mise à disposition du public du message justifiant cette demande.
+Le directeur de la publication est tenu d'insérer dans les trois (3) jours de leur réception, les réponses de toute personne nommée ou désignée dans le service de communication au public en ligne sous peine d'une amende de cinq cent mille (500 000)  francs CFA.

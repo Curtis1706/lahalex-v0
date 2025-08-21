@@ -1,0 +1,3 @@
+Mise en œuvre
+1. Pour la mise en œuvre des actions de coopération prévues à l'article 63 ci-dessus, et afin d’améliorer l’efficacité des services, la Commission formule des propositions au Conseil.
+1. La Commission met en place des modalités de mise en œuvre qui s’appuient sur : (i) un cadre de concertation des parties prenantes, (ii) la planification et l’harmonisation des interventions existantes et prévues, (iii) le suivi et l’évaluation, (iv) la sensibilisation et la communication, et (v) les modalités de financement.

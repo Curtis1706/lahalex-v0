@@ -1,0 +1,2 @@
+Les tribunaux de première instance sont compétents pour juger de toute contestation s’élevant entre les bénéficiaires des dispositions de la présente loi, les employeurs et la Caisse.
+Les règles de procédure applicables sont celles prévues par les dispositions du Code du travail.

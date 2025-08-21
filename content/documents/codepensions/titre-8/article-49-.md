@@ -1,0 +1,1 @@
+Le pensionné ou son représentant légal désigne au moment de la constitution de son dossier de pension le comptable public sur la caisse duquel les arrérages de la pension doivent être rendus payables.

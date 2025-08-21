@@ -1,0 +1,1 @@
+Il est interdit de déverser dans les cours d'eau, les mares, les étangs et la nature, des eaux usées ménagères, des déchets domestiques ou industriels.

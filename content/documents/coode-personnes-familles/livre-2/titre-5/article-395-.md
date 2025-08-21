@@ -1,0 +1,1 @@
+L'obligation alimentaire résultant des dispositions précédentes est réciproque.

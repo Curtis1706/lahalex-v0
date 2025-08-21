@@ -1,0 +1,1 @@
+Lorsque le tribunal est saisi, les mesures provisoires prescrites par le juge peuvent être modifiées ou complétées en cours d’instance par jugement du tribunal.

@@ -1,0 +1,4 @@
+Prisonniers Lorsque des prisonniers de guerre ne disposent pas du secours d’un aumô- dépourvus nier retenu ou d’un prisonnier ministre de leur culte, un ministre appar -
+d’un ministre tenant soit à leur confession, soit à une confession similaire ou, à défaut,
+de leur culte un laïque qualifié, lorsque cela est possible au point de vue confessionnel,
+sera désigné à la demande des prisonniers intéressés pour remplir cet office. Cette désignation, soumise à l’approbation de la Puissance détentrice, aura lieu en accord avec la communauté des prisonniers intéressés et, là où cela sera nécessaire, avec l’approbation de l’autorité religieuse locale de la même confession. La personne ainsi désignée devra se conformer à tous les règle- ments établis par la Puissance détentrice dans l’intérêt de la discipline et de la sécurité militaire.

@@ -1,0 +1,5 @@
+Au cours d’un voyage maritime ou aérien, soit en route, soit pendant un arrêt dans un port ou une escale, lorsqu'il y a impossibilité de communiquer avec la terre ou lorsqu’il n’existe pas dans le port ou à l’escale, si l’on est à l'étranger, d’agent diplomatique ou consulaire béninois investi des fonctions de notaire, les testaments des personnes présentes à bord du navire ou de l’aéronef sont reçus, en présence de deux témoins :
+- sur les bâtiments et aéronefs de l’Etat, par l’officier d'administration ou, à défaut, par le commandant ou celui qui en remplit les fonctions ;
+- sur les autres navires, par le capitaine, maître ou patron, assisté du second du navire ou, à leur défaut, par ceux qui les remplacent ;
+- sur les autres aéronefs, par le commandant de bord.
+L’acte indique celle des circonstances ci-dessus prévues dans laquelle il a été reçu.

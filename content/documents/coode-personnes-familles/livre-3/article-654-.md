@@ -1,0 +1,1 @@
+La séparation des patrimoines découle de plein droit de l’acceptation du bénéficiaire, de la vacance déclarée, de la succession et de la faillite après décès.

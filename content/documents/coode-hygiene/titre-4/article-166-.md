@@ -1,0 +1,2 @@
+Tout citoyen ayant connaissance de l'une des infractions prévues par la présente loi dénonce les faits soit au procureur de la République, soit à l'autorité administrative compétente ou aux agents habilités, à toutes fins utiles.
+Toute personne physique ou morale qui se considère victime de l'une des infractions prévues par la présente loi, peut déposer une plainte, soit au procureur de la République, soit à l'autorité administrative compétente ou aux agents habilités, à toutes fins utiles.

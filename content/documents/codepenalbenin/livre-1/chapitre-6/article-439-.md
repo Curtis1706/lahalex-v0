@@ -1,0 +1,2 @@
+Si le bris de scellés, les soustractions, enlèvements ou destructions de pièces ont été commis avec violence envers les personnes, la peine est celle de la réclusion criminelle à temps de dix (10) ans à vingt (20) ans, sans préjudice des peines plus fortes s’il y a lieu, d’après la nature des violences et des autres crimes qui y seraient joints.
+Est assimilé au bris de scellés et passible des mêmes peines, tout détournement d’objets figurant au procès-verbal d’enquête préliminaire ou d’apposition des scellés.

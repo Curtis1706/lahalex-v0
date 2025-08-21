@@ -1,0 +1,1 @@
+Lorsqu'une question de nationalité est soulevée à titre incident entre parties privées devant le tribunal, le ministère public est toujours entendu en ses conclusions. Le dossier lui est immédiatement transmis.

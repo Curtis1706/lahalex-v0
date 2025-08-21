@@ -1,0 +1,1 @@
+Dans la vente à l’embarquement, les frais d’embarquement, de transport et de débarquement sont à la charge de l’acquéreur.

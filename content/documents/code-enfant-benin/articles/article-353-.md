@@ -1,0 +1,1 @@
+Article 353 : Est puni de six (06) mois à cinq (05) ans d’emprisonnement et d’une amende de cent cinquante mille (150 000) à cinq cent mille (500 000) francs CFA, quiconque méconnaît, bafoue ou viole les droits de l’enfant reconnus par la présente loi.

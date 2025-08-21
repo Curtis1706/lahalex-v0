@@ -1,0 +1,2 @@
+L’établissement judiciaire et la contestation de la filiation sont régis par la loi nationale de l'enfant.
+En cas de changement de la loi nationale de l'enfant, celui-ci peut se placer au moment qui lui est le plus favorable pour déterminer la loi applicable.

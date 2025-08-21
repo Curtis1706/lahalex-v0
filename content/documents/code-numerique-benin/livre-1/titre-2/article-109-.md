@@ -1,0 +1,2 @@
+Création de l’Agence Béninoise de Service Universel des Communications Électroniques et de la Poste (ABSU-CEP)
+Il est créé une Agence Béninoise du Service Universel des Communications Electroniques et de la Poste, en abrégé ABSU-CEP. Elle est placée sous la tutelle du Ministère en charge des communications électroniques et de la poste.

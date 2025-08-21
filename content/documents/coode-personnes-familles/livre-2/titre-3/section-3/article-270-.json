@@ -1,0 +1,16 @@
+{
+  "id": "article-270-",
+  "title": "Article 270 :",
+  "numero": "270 ",
+  "document": "coode-personnes-familles",
+  "path": [
+    "livre-2",
+    "titre-3",
+    "section-3"
+  ],
+  "navigation": {
+    "parent": "section-3",
+    "previous": "article-269-",
+    "next": "article-271-"
+  }
+}

@@ -1,0 +1,4 @@
+Droits et obligations du professionnel
+En cas d'exercice du droit de rétractation, le professionnel est tenu de rembourser, sans délai, toute somme reçue du consommateur en paiement de sa commande ou liées à celle-ci.
+Ce remboursement intervient dans un délai maximum de trente (30) jours ouvrables, à compter de la date de réception par le professionnel du bien retourné, pour les contrats portant sur la fourniture de biens, et à compter de la date de notification de la rétractation, pour les contrats portant sur la fourniture de services.
+Si le remboursement ne s'opère pas dans le délai prévu à l’alinéa 2, les sommes dues au consommateur sont, de plein droit, majorées au taux d'intérêt légal, à compter du lendemain de l'expiration du délai.

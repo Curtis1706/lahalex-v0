@@ -1,0 +1,1 @@
+Est puni des peines prévues à l’article 410 ci-dessus quiconque a publié, avant l’intervention de la décision juridictionnelle définitive, des commentaires tendant à exercer des pressions sur les déclarations des témoins ou sur la décision des juridictions d’instruction ou de jugement.

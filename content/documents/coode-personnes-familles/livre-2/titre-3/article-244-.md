@@ -1,0 +1,2 @@
+Lorsque, à l’appel de la cause, le défendeur ne comparaît pas ou n’est pas représenté, une nouvelle convocation lui est adressée par le greffier pour une prochaine audience. Le délai ne peut excéder un (1) mois.
+Si cette convocation ne peut être remise à personne ou si le défendeur demeure introuvable, le tribunal autorise l’autre partie à assigner. Le demandeur doit user de la permission de citer dans un délai de deux (2) mois. Faute par lui de le faire, les mesures provisoires ordonnées à son profit cessent de plein droit.

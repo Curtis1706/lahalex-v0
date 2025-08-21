@@ -1,0 +1,4 @@
+Le procureur de la République près le tribunal de première instance est chargé de la poursuite des infractions commises par les mineurs.
+Toutefois, le procureur de la République saisi pour flagrant délit d’une affaire dans laquelle sont impliqués des mineurs, peut procéder à tous actes urgents de poursuite ou d’information à charge par lui de se dessaisir de l’information dans les plus brefs délais, en faveur du juge des enfants.
+Si le procureur de la République poursuit des majeurs en flagrant délit ou par voie de citation directe, il constitue un dossier spécial pour les mineurs impliqués dans l’affaire et en saisit le juge des enfants qui procédera ainsi qu’il est dit à l’article 667 du présent code.
+Si une information est ouverte, le juge des enfants informe à la fois contre les majeurs et les mineurs.

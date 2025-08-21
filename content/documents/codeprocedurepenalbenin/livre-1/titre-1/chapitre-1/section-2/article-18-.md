@@ -1,0 +1,1 @@
+Les maires exercent les fonctions de police judiciaire dans les conditions prévues à l’article 27 du présent code.

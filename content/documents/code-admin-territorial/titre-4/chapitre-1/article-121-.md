@@ -1,0 +1,2 @@
+Le maire ou l'adjoint au maire est mis en situation de faire valoir ses moyens de défense avant toute suspension ou révocation.
+La suspension ne peut excéder soixante (60) jours. Passé ce délai, le maire ou l’adjoint au maire suspendu est rétabli d’office dans ses fonctions.

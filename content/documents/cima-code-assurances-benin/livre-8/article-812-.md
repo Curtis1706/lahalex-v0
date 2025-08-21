@@ -1,0 +1,3 @@
+_(Règlement 2015-02)_ Principe et conditions régissant l’exercice de l’activité de réassurance
+Aucun État membre n’applique aux entreprises de réassurance ayant leur siège social hors de l’espace CIMA, et entamant ou exerçant l’activité de réassurance sur son territoire, des dispositions induisant un traitement plus favorable que celui réservé aux entreprises de réassurance ayant leur siège social sur son territoire.
+Les dispositions de l’alinéa précédent ne s’appliquent pas aux entreprises de réassurance multilatérales et panafricaines dont un ou plusieurs États membres de la CIMA font partie.

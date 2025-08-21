@@ -1,0 +1,1 @@
+Toutes les dispositions antérieures contraires au présent code sont abrogées.

@@ -1,0 +1,2 @@
+Saisine de l'Autorité
+L'Autorité peut être saisie par toute personne physique ou morale, agissant par elle-même, par l’entremise de son avocat ou par toute autre personne physique ou morale dûment mandatée.

@@ -1,0 +1,2 @@
+Facilitation de l’exercice des droits par le responsable du traitement
+Le responsable du traitement facilite l'exercice des droits conférés à la personne concernée au titre des articles 437 et 443. Dans les cas visés à l'article 399, alinéa 2, le responsable du traitement ne refuse pas de donner suite à la demande de la personne concernée d'exercer les droits que lui confèrent les articles 437 et 443, à moins que le responsable du traitement ne démontre qu'il n'est pas en mesure d'identifier la personne concernée.

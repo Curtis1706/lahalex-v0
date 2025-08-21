@@ -1,0 +1,7 @@
+Le duo président de la République et vice-président de la République est élu à la majorité absolue des suffrages exprimés. Si celle-ci n'est pas obtenue au 1 tour du scrutin, il est procédé à l'organisation d'un second tour.
+Sont admis au second tour, les deux duos de candidats ayant recueilli le plus grand nombre de suffrages au 1 tour de scrutin.
+En cas de retrait d'un duo les duos suivants sont retenus dans l'ordre de leur classement après le 1 tour.
+Le désistement, l'empêchement ou le décès d'un candidat aux fonctions de président de la République invalide la candidature du duo lorsque ces évènements interviennent après le dépôt de candidature.
+En cas de désistement, d'empêchement ou de décès d'un candidat aux fonctions de vice-président de la République après le dépôt de candidature, le candidat aux fonctions de président de la République pourvoit, si possible, à son remplacement conformément aux conditions prévues à l'article 44 de la Constitution.
+Sont déclarés élus au second tour aux fonctions de président de la République et de vice-président de la République, les candidats du duo ayant recueilli le plus grand nombre de voix.
+Les candidats d'un duo resté seul en lice au second tour par suite de désistements, d'empêchements ou de décès de candidats sont proclamés élus aux fonctions de président de la République et de vice-président de la République.

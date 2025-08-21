@@ -1,0 +1,2 @@
+Article 24 : Droit au bien-être
+L’enfant a le droit de jouir d’un meilleur état de santé possible. Ce droit inclut, dès sa naissance, les soins de santé primaires, l’allaitement maternel ainsi qu’une alimentation suffisante, équilibrée et variée.

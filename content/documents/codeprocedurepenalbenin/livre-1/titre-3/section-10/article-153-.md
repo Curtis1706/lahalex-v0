@@ -1,0 +1,2 @@
+Le juge des libertés et de la détention statue par ordonnance motivée. Lorsqu’il ordonne ou prolonge la détention provisoire, l’ordonnance doit comporter l’énoncé des considérations du contrôle judiciaire et du motif de la détention provisoire.
+Dans tous les cas, l’ordonnance est notifiée à l’inculpé qui en reçoit copie contre émargement au dossier de la procédure.

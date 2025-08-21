@@ -1,0 +1,3 @@
+La peine appliquée pour rébellion à des détenus prévenus, inculpés, accusés ou condamnés relativement à d’autres crimes ou délits, est par eux subie, à savoir :
+- par ceux qui sont ou seraient condamnés à une peine non perpétuelle, immédiatement après l’expiration de cette peine ;
+- et par les autres, immédiatement après l’arrêt ou jugement en dernier ressort qui les aura acquittés ou renvoyés absous du fait pour lequel ils étaient détenus.

@@ -1,0 +1,1 @@
+Le plateau continental comprend les zones sous-marines qui constituent le prolongement naturel du territoire terrestre de la République du Bénin, à savoir les fonds marins et leur sous-sol qui s’étendent au-delà de la mer territoriale, jusqu’à une limite de deux cents (200) milles marins de la ligne de base.

@@ -1,0 +1,1 @@
+Dans les tribunaux où il n’existe pas un juge des enfants, les fonctions de ce magistrat sont assurées par le juge d’instruction désigné par le président du tribunal.

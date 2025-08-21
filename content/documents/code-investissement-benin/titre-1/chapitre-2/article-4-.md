@@ -1,0 +1,9 @@
+Article 4 : Les investissements en République du Bénin sont soumis à un régime de droit commun et peuvent bénéficier de l’un des régimes privilégiés du présent Code.
+Les régimes privilégiés comportent trois (3) régimes privilégiés de base et deux (2) régimes spéciaux.
+Les régimes privilégiés de base offrent aux entreprises nationales et étrangères de droit béninois, des avantages douaniers et fiscaux. Ce sont les régimes ci‐après :
+- le régime A qui s’applique aux entreprises dont le montant hors taxes des investissements est supérieur ou égal à cinquante millions (50.000.000) et inférieur ou égal à un milliard (1.000.000.000 de francs CFA ;
+- le régime B qui s’applique aux entreprises dont le montant hors taxes des investissements est supérieur à un milliard (1.000.000.000) et inférieur à cinquante milliards (50.000.000.000) de francs CFA ;
+- le régime C qui s’applique aux entreprises dont le montant hors taxes des investissements est supérieur ou égal à cinquante milliards (50.000.000.000) de francs CFA.
+Les régimes spéciaux sont :
+- le régime d’incitation sectorielle qui vise à encourager les investissements dans des activités ou secteurs économiques jugés stratégiques pour les entreprises éligibles en régimes A et B conformément à un décret pris en Conseil des ministres ;
+- le régime des investissements spécifiques qui vise à faciliter la réalisation de projets d’infrastructures et d’équipements à usage touristique culturel, sportif, sanitaire et éducatif. Il vise également à faciliter la réalisation de certaines infrastructures pour l’industrie et le commerce destinées notamment à l’entreposage de produits tels que le gaz, les hydrocarbures, les produits chimiques.

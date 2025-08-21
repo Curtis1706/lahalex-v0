@@ -1,0 +1,2 @@
+Tirages au sort
+Il est interdit, pour les opérations autres que celles mentionnées au 23) de l’article 328, de stipuler ou de réaliser l’exécution de contrats ou l’attribution de bénéfices par la voie de tirage au sort.

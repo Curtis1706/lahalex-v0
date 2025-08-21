@@ -1,0 +1,2 @@
+Article 605 : Transaction : notification au Fonds
+Toute transaction ayant pour objet de fixer ou de régler les indemnités dues par les responsables non assurés de dommages résultant des atteintes à la personne nés d’un accident mentionné à l’article 600 du Code des assurances, doit être notifiée au Fonds de Garantie par le débiteur de l’indemnité dans un délai d’un mois par lettre recommandée avec demande d’avis de réception ou par tout autre moyen faisant foi de la réception, sous peine de l’amende prévue par les textes en vigueur dans chaque Etat membre.

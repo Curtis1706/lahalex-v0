@@ -1,0 +1,17 @@
+{
+  "id": "article-14-",
+  "title": "Article 14 :",
+  "numero": "14 ",
+  "document": "code-douane",
+  "path": [
+    "titre-1",
+    "chapitre-5",
+    "section-3",
+    "paragraphe-1"
+  ],
+  "navigation": {
+    "parent": "paragraphe-1",
+    "previous": "article-13-",
+    "next": "article-15-"
+  }
+}

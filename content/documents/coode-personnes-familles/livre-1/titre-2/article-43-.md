@@ -1,0 +1,1 @@
+Tout acte de l’état civil des Béninois et des étrangers dressé en pays étranger fait foi s’il a été rédigé dans les formes usitées dans ce pays ou en forme diplomatique et consulaire.

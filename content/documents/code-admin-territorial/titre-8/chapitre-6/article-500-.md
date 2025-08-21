@@ -1,0 +1,4 @@
+L'ordonnateur envoie à l'autorité de tutelle qui transmet au ministre chargé des finances, au plus tard quinze (15) jours après la fin de chaque trimestre, le point d’exécution trimestriel par source de financement des projets inscrits au budget de la commune ou de l'établissement public de coopération intercommunale, en vue de son insertion au rapport d’exécution du budget de l’Etat. Ce point intègre également l'état de mobilisation des subventions et transferts reçus de l’Etat et des partenaires techniques et financiers ainsi que le niveau de consommation de ces ressources.
+SECTION 2
+COMPTABILITES DU COMPTABLE DE LA COMMUNE OU DE L’ETABLISSEMENT PUBLIC
+DE COOPERATION INTERCOMMUNALE

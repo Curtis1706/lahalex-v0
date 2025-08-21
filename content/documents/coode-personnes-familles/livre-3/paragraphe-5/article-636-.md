@@ -1,0 +1,2 @@
+L’administration des domaines qui prétend avoir droit à la succession est tenue de faire apposer les scellés et de faire inventaire dans les formes prescrites pour l’acceptation des successions sous bénéfice d'inventaire.
+Elle doit demander l’envoi en possession au tribunal de première instance dans le ressort duquel la succession est ouverte.

@@ -1,0 +1,2 @@
+Outre les biens qui ne peuvent faire l'objet de saisie ou de mise en gage, ne peuvent être saisis, ni mis en gage l'équipement, les instruments et autres objets appartenant aux membres de l’équipage et affectés à l'exercice de leur profession.
+Les sommes dues aux intéressés pour les frais médicaux ou pharmaceutiques, de logement et de subsistance ainsi que les frais de rapatriement au lieu d'engagement, sont incessibles et insaisissables.

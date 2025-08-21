@@ -1,0 +1,1 @@
+La capacité testamentaire est régie par le droit de l’Etat dont le défunt avait la nationalité au moment de la rédaction du testament.

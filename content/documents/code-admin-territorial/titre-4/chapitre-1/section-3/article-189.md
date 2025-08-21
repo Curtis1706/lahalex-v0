@@ -1,0 +1,1 @@
+La fonction de secrétaire administratif d'arrondissement est la plus haute fonction administrative et technique de l’arrondissement.

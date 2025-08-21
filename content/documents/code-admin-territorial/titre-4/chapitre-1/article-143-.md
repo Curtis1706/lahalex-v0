@@ -1,0 +1,3 @@
+Le secrétaire exécutif est, en sa qualité de fonctionnaire ou d'agent contractuel, punissable du chef des faits constituant une faute disciplinaire en vertu et conformément aux règles statutaires ou stipulations contractuelles auxquelles il est soumis.
+Toutefois, le secrétaire exécutif peut être révoqué de ses fonctions, pour faute lourde.
+Constitue une faute lourde du secrétaire exécutif, l’un quelconque des faits indiqués à l'article 119 de la présente loi.

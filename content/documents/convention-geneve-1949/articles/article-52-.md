@@ -1,0 +1,2 @@
+aucun contrat, accord ou règlement ne pourra porter atteinte au droit de Protection chaque travailleur, volontaire ou non, où qu’il se trouve, de s’adresser aux des représentants de la Puissance protectrice pour demander l’intervention de travailleurs celle-ci.
+Toute mesure tendant à provoquer le chômage ou à restreindre les possi- bilités de travail des travailleurs d’un pays occupé, en vue de les amener à travailler pour la Puissance occupante, est interdite.

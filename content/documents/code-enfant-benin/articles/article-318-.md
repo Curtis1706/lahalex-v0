@@ -1,0 +1,2 @@
+Article 318 : Autorisation spéciale de sortie
+Tout responsable de l’établissement pénitentiaire, sur la demande des parents ou de toute personne assurant la garde légale de l’enfant, sauf avis contraire du juge des enfants, accorde mensuellement une autorisation spéciale de sortie de huit (8) heures à l’enfant si les conditions de représentation sont garanties.

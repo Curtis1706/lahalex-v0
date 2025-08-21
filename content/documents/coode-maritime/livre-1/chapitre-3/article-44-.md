@@ -1,0 +1,1 @@
+Dans le cas où des motifs d’intérêt national l’exigent ou pour répondre à des mesures discriminatoires prises par un Etat à l’encontre d’un navire battant pavillon béninois, l’autorité maritime compétente peut interdire une opération d’affrètement de navire béninois ou étranger.

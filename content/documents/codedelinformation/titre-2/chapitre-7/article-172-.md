@@ -1,0 +1,3 @@
+Constitue un délit de publicité mensongère ou trompeuse, toute publicité comportant des allégations ou des prétentions fausses, ayant pour but et/ou pour effet d’induire le consommateur en erreur.
+Le délit de publicité mensongère ou trompeuse est assimilé à la concurrence déloyale, toutes les fois que des concurrents subissent ou non des préjudices.
+Il est assimilé à l’escroquerie, toutes les fois qu’il fait croire à l’existence d’un crédit imaginaire.

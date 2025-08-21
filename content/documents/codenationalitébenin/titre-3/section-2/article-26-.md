@@ -1,0 +1,1 @@
+Dans le cas où sa loi nationale lui permet de conserver sa nationalité d'origine, le conjoint étranger a la faculté de déclarer antérieurement à la célébration du mariage et dans les formes prescrites aux articles 49, 50 et 51, qu'il renonce à la qualité de Béninois ou de Béninoise.

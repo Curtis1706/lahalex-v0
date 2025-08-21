@@ -1,0 +1,1 @@
+L’exploitation de toutes formes de jeux de hasard, d’argent et de paris telle que définie à l’article 690 du présent code par un établissement public à caractère industriel, commercial et social est autorisé.

@@ -1,0 +1,3 @@
+Le tribunal peut commettre un expert notamment lorsque les contestations portent sur les frais pour le traitement, sur le caractère professionnel de l’accident, sur la date de consolidation de la blessure, sur le taux d’incapacité permanente et sur l’action en révision.
+L’expert ainsi désigné ne peut être ni le médecin qui a soigné la victime, ni le médecin attaché à l’entreprise, ni le médecin conseil de la Caisse.
+Les médecins experts désignés par les tribunaux en sont immédiatement avisés par le greffier du tribunal ; ils doivent déposer leurs conclusions dans le délai maximum d’un mois, à défaut de quoi il est pourvu à leur remplacement, à moins qu’en raison des circonstances spéciales de l’expertise, ils n’aient obtenu du tribunal un délai plus long.

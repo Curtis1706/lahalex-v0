@@ -1,0 +1,2 @@
+Le 1 exercice financier s'étend de la date d'entrée en vigueur du Traité jusqu'au 31 décembre suivant. Toutefois, cet exercice s'étend jusqu'au 31 décembre de l'année suivant celle d'entrée en vigueur du Traité, si celle-ci intervient au cours du 2 semestre.
+En attendant l'adoption du statut des fonctionnaires et du régime applicable aux autres agents de l'Union, le personnel nécessaire est recruté par la Commission qui conclut à cet effet des contrats à durée déterminée.

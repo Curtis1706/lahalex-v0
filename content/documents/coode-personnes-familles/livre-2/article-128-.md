@@ -1,0 +1,1 @@
+A l’occasion de la remise des pièces ci-dessus indiquées, l’officier de l’état civil, même en l’absence de toute mention marginale, doit demander aux futurs époux s’ils ont déjà été mariés et leur faire préciser, dans l’affirmative, la date et les causes de la dissolution du mariage.

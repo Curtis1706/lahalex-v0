@@ -1,0 +1,2 @@
+Dans la mer territoriale, l’Etat béninois peut prendre toutes mesures nécessaires pour empêcher tout passage contraire au "passage inoffensif" tel que défini par la convention internationale des Nations-Unies sur le droit de la mer.
+Dans la mer territoriale, les sous-marins et autres bâtiments submersibles sont tenus de naviguer en surface et d’arborer leur pavillon.

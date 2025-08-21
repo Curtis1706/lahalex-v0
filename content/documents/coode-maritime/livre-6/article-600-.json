@@ -1,0 +1,14 @@
+{
+  "id": "article-600-",
+  "title": "Article 600 :",
+  "numero": "600 ",
+  "document": "coode-maritime",
+  "path": [
+    "livre-6"
+  ],
+  "navigation": {
+    "parent": "livre-6",
+    "previous": "article-599-",
+    "next": "article-601-"
+  }
+}

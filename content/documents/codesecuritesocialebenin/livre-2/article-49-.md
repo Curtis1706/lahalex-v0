@@ -1,0 +1,1 @@
+Toute femme salariée perçoit à l’occasion du congé de maternité une indemnité journalière de maternité telle qu’elle est définie par le Code du travail.

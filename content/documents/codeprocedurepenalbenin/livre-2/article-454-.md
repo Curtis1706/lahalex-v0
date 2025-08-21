@@ -1,0 +1,1 @@
+Si le tribunal estime qu’une expertise est nécessaire, il est procédé conformément aux articles 173 à 181 et 187 du présent code.

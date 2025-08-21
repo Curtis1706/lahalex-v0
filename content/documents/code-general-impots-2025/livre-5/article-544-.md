@@ -1,0 +1,1 @@
+Outre, les sanctions prévues à l’article 503 du présent code, les bases d’imposition concernées par la demande ou la mise en demeure sont évaluées par l’administration fiscale à partir des éléments dont elle dispose.

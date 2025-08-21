@@ -1,0 +1,6 @@
+Article 538 : Contrat d’assurance responsabilité civile professionnelle
+Le contrat d’assurances de responsabilité civile professionnelle prévu à l’article 537 comporte pour les entreprises d’assurance des obligations qui ne peuvent pas être inférieures à celles définies ci-dessous.
+Le contrat prévoit une garantie de 10 millions de Francs CFA par sinistres et par année pour un même courtier ou société de courtage d’assurances assuré.
+Il peut fixer une franchise par sinistre qui ne doit pas excéder 20 % du montant des indemnités dues. Cette franchise n’est pas opposable aux victimes.
+Il garantit la personne assurée de toutes réclamations présentées entre la date d’effet et la date d’expiration du contrat quelle que soit la date du fait dommageable ayant entraîné sa responsabilité dès lors que l’assuré n’en a pas eu connaissance au moment de la souscription.
+Il garantit la réparation de tout sinistre connu de l’assuré dans un délai maximum de douze mois à compter de l’expiration du contrat, à condition que le fait générateur de ce sinistre se soit produit pendant la période de validité du contrat.

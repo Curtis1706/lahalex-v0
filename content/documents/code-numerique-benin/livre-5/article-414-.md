@@ -1,0 +1,11 @@
+Obligations et pouvoirs de l'organe chargé du contrôle du respect du code de conduite
+Le contrôle du respect du code de conduite peut être effectué par un organe qui dispose d'un niveau d'expertise approprié au regard de l'objet du code et qui est agréé à cette fin par l'Autorité.
+L'organe visé à l’alinéa premier peut être agréé pour contrôler le respect du code de conduite lorsque cet organe a :
+1. démontré, à la satisfaction de l'Autorité, son indépendance et son expertise au regard de l'objet du code ;
+1. établi des procédures qui lui permettent d'apprécier si les responsables du traitement et les sous-traitants concernés satisfont  aux  conditions  pour  appliquer  le  code,  de  contrôler  le  respect  de  ses  dispositions  et  d'examiner périodiquement son fonctionnement ;
+1. établi des procédures et des structures pour traiter les réclamations relatives aux violations du code ou à la manière dont le code a été ou est appliqué par un responsable du traitement ou un sous-traitant et pour rendre ces procédures et structures transparentes à l'égard des personnes concernées et du public ; et
+1. démontré, à la satisfaction de l'Autorité, que ses tâches et ses missions n'entraînent pas de conflit d'intérêts.
+L'organe visé à l’alinéa premier du présent article prend, sous réserve des garanties appropriées, des mesures appropriées en cas de violation du code par un responsable du traitement ou un sous-traitant, et peut notamment suspendre ou exclure le responsable du traitement ou le sous-traitant concerné de l'application du code. Il informe l'Autorité de ces mesures et des raisons pour lesquelles elles ont été prises.
+L'Autorité compétente révoque l'agrément de l’organe visé à l’alinéa 1 si les conditions d'agrément ne sont pas ou ne sont plus réunies ou si les mesures prises par l'organe constituent une violation des dispositions du présent Livre.
+Le contrôle des traitements effectués par les autorités publiques et les organes publics ainsi que les sanctions administratives de leur non-conformité au présent livre, sont de la compétence exclusive de l'Autorité.
+Cette prérogative ne peut être déléguée à un organe tiers.

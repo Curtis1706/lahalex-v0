@@ -1,0 +1,2 @@
+Lorsque la cessation du service proviendra du fait des agents du fournisseur, les agents seront condamnés à une peine de deux (02) ans à cinq (05) ans et d’une amende qui ne pourra excéder le quart des dommages-intérêts, ni être en-dessous de cent mille (100.000) francs ; le tout sans préjudice de peines plus fortes en cas d’intelligence avec l’ennemi.
+Le fournisseur et ses agents seront également condamnés aux mêmes peines.

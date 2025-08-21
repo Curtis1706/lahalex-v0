@@ -1,0 +1,1 @@
+Les déclarations faites par le président en vertu des dispositions de l’article 350 du présent code, sont mentionnées par le greffier sur son procès-verbal. S’il s’élève un incident contentieux au sujet des déclarations du président, la cour statue dans les conditions prévues à l’article 320 du présent code.

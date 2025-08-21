@@ -1,0 +1,2 @@
+Identification des marchés pertinents
+L'Autorité de régulation détermine, au regard notamment des obstacles au développement d'une concurrence effective, les marchés du secteur des communications électroniques pertinents, en vue de l'application des articles 151 et suivants du présent code.

@@ -1,0 +1,8 @@
+Jeux de hasard illicite en ligne
+Quiconque, sans l’autorisation d'une autorité publique, organise publiquement ou propose un jeu de hasard ou met à disposition l'équipement nécessaire, au moyen d’un ou sur un réseau de communication électronique ou un système informatique, est puni d'une peine d'emprisonnement de un (01) mois à trois (03) ans et d'une amende de cinq cent mille (500 000) francs CFA à cinquante millions (50 000 000) de francs CFA, ou de l'une de ces peines seulement.
+Les jeux de hasard sans autorisation d’une autorité publique, en club ou en réunion privée dans lesquels les jeux de hasard sont régulièrement organisés, sont qualifiés de jeux organisés publiquement.
+Est puni d’un emprisonnement de trois (03) mois à cinq (05) ans et d'une amende de un million (1 000 000) à cent millions (100 000 000) de francs CFA, ou de l'une de ces peines seulement, quiconque, dans les cas mentionnés à l’alinéa 1 agit :
+1. professionnellement ;
+1. en tant que membre d'un groupe qui s'est constitué pour commettre en permanence de tels actes.
+Quiconque recrute pour un jeu de hasard public est puni d'une peine d'une durée maximale d'un (01) an ou d'une amende ne dépassant pas cinquante millions (50 000 000) de francs CFA, ou de l'une de ces peines seulement.
+Quiconque participe à un jeu de hasard public, est puni d'une peine de prison d'une durée maximale de six (06) mois et d'une amende de un million (1 000 000) à deux cent millions (200 000 000) de francs CFA, ou de l'une de ces peines seulement.

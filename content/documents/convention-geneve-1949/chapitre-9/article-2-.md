@@ -1,0 +1,1 @@
+Les personnes se trouvant, à quelque titre que ce soit, dans une zone sanitaire, ne devront se livrer à aucun travail qui aurait un rapport direct avec les opérations militaires ou la produc- tion du matériel de guerre ni à l’intérieur ni à l’extérieur de cette zone.

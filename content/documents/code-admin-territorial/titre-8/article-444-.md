@@ -1,0 +1,1 @@
+Les titres de recette émis par l’ordonnateur du budget ont force exécutoire.

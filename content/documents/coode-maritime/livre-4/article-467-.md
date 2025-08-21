@@ -1,0 +1,3 @@
+Les sacrifices et dépenses doivent être raisonnablement décidés par le capitaine, après avoir pris l’avis des personnes intéressées qui se trouvent à bord et des principaux de l’équipage.
+Le capitaine porte dans le journal de bord, dès qu’il en a les moyens, les date, heure et lieu de l’événement, les motifs et les avis qui ont déterminé sa décision et les mesures qu’il a ordonnées.
+Au 1 port où le navire abordera, le capitaine est tenu dans les vingt-quatre (24) heures de son arrivée, d’affirmer les faits ainsi consignés dans le journal de bord.

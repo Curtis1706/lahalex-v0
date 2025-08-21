@@ -1,0 +1,3464 @@
+{
+  "id": "code-electoral",
+  "title": "Code electoral en republique du Benin",
+  "type": "codes",
+  "description": "Le Code électoral du Bénin régit les règles de parrainage, déligibilité, de vote, et dorganisation des élections, institue la Commission Électorale Nationale Autonome (CENA) pour superviser le processus, et inclut des seuils et modalités renforcés introduits par la loi n° 2024-13 du 15 mars 2024",
+  "structure": {
+    "sections": [
+      {
+        "id": "titre-0",
+        "title": "TITRE 0 : DES DEFINITIONS",
+        "type": "titre",
+        "level": 2,
+        "order": 0,
+        "path": [
+          "titre-0"
+        ],
+        "children": [
+          "article-1-"
+        ]
+      },
+      {
+        "id": "article-1-",
+        "title": "Article 1 : Au sens du présent code, on entend par :",
+        "type": "article",
+        "level": 2,
+        "order": 1,
+        "path": [
+          "titre-0"
+        ],
+        "children": []
+      },
+      {
+        "id": "livre-1",
+        "title": "LIVRE 1 : DES REGLES COMMUNES AUX ELECTIONS GENERALES EN REPUBLIQUE DU BENIN",
+        "type": "livre",
+        "level": 1,
+        "order": 2,
+        "path": [
+          "livre-1"
+        ],
+        "children": [
+          "article-2-",
+          "article-3-",
+          "article-4-",
+          "article-5-",
+          "article-6-",
+          "article-7-",
+          "article-8-",
+          "titre-1",
+          "titre-2",
+          "titre-3",
+          "titre-4",
+          "titre-5",
+          "titre-6",
+          "titre-7",
+          "titre-8",
+          "titre-9"
+        ]
+      },
+      {
+        "id": "article-2-",
+        "title": "Article 2 : Les dispositions du présent livre concernent les règles communes aux élections générales en République du Bénin.",
+        "type": "article",
+        "level": 2,
+        "order": 3,
+        "path": [
+          "livre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-3-",
+        "title": "Article 3 : L'élection est le choix libre par le peuple du ou des citoyens appelés à conduire, à gérer ou à participer à la gestion des affaires publiques.",
+        "type": "article",
+        "level": 2,
+        "order": 4,
+        "path": [
+          "livre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-4-",
+        "title": "Article 4 : Le suffrage est universel, direct, égal et secret. Les partis politiques concourent à l'expression du suffrage.",
+        "type": "article",
+        "level": 2,
+        "order": 5,
+        "path": [
+          "livre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-5-",
+        "title": "Article 5 : Participer à l'organisation des élections est un devoir civique qui peut être confiée à fout citoyen.",
+        "type": "article",
+        "level": 2,
+        "order": 6,
+        "path": [
+          "livre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-6-",
+        "title": "Article 6 : Les élections se font avec une liste électorale informatisée (LEI).",
+        "type": "article",
+        "level": 2,
+        "order": 7,
+        "path": [
+          "livre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-7-",
+        "title": "Article 7 : Les élections couplées, législatives et communales, sont organisées le deuxième dimanche du mois de janvier de l'année électorale.",
+        "type": "article",
+        "level": 2,
+        "order": 8,
+        "path": [
+          "livre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-8-",
+        "title": "Article 8 : L'élection du président de la République est organisée le deuxième dimanche du mois d'avril de l'année électorale.",
+        "type": "article",
+        "level": 2,
+        "order": 9,
+        "path": [
+          "livre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-1",
+        "title": "TITRE 1 : DES CONDITIONS REQUISES POUR ETRE ELECTEUR",
+        "type": "titre",
+        "level": 2,
+        "order": 10,
+        "path": [
+          "livre-1",
+          "titre-1"
+        ],
+        "children": [
+          "article-9-",
+          "article-10-",
+          "article-11-",
+          "article-12-"
+        ]
+      },
+      {
+        "id": "article-9-",
+        "title": "Article 9 : Est électeur dans les conditions déterminées par la présente loi, toute personne de nationalité béninoise, âgée de dix-huit (18) ans révolus au jour du 1 scrutin d'une année et jouissant de ses droits civils et politiques.",
+        "type": "article",
+        "level": 3,
+        "order": 11,
+        "path": [
+          "livre-1",
+          "titre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-10-",
+        "title": "Article 10 : Ne peuvent être électeurs :",
+        "type": "article",
+        "level": 3,
+        "order": 12,
+        "path": [
+          "livre-1",
+          "titre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-11-",
+        "title": "Article 11 : Les individus condamnés pour infraction involontaire peuvent être électeurs.",
+        "type": "article",
+        "level": 3,
+        "order": 13,
+        "path": [
+          "livre-1",
+          "titre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-12-",
+        "title": "Article 12 : Nul ne peut voter :",
+        "type": "article",
+        "level": 3,
+        "order": 14,
+        "path": [
+          "livre-1",
+          "titre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-2",
+        "title": "TITRE 2 : DE LA STRUCTURE DE GESTION DES ELECTIONS",
+        "type": "titre",
+        "level": 2,
+        "order": 15,
+        "path": [
+          "livre-1",
+          "titre-2"
+        ],
+        "children": [
+          "chapitre-1",
+          "chapitre-2",
+          "chapitre-3"
+        ]
+      },
+      {
+        "id": "chapitre-1",
+        "title": "CHAPITRE 1 : DES GENERALITES",
+        "type": "chapitre",
+        "level": 3,
+        "order": 16,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-1"
+        ],
+        "children": [
+          "article-13-ancien-",
+          "article-13-",
+          "article-14-",
+          "article-15-",
+          "article-16-",
+          "article-17-1-",
+          "article-17-2-",
+          "article-18-"
+        ]
+      },
+      {
+        "id": "article-13-ancien-",
+        "title": "Article 13 ancien : Les élections sont gérées par une structure administrative permanente dénommée Commission électorale nationale autonome (CENA).",
+        "type": "article",
+        "level": 4,
+        "order": 17,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-13-",
+        "title": "Article 13 : Les élections sont gérées par une structure administrative permanente dénommée Commission électorale nationale autonome.",
+        "type": "article",
+        "level": 4,
+        "order": 18,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-14-",
+        "title": "Article 14 : Les avantages dont bénéficient les membres de la CENA sont fixés par décret pris en Conseil des ministres.",
+        "type": "article",
+        "level": 4,
+        "order": 19,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-15-",
+        "title": "Article 15 : La Commission électorale nationale autonome (CENA) est chargée notamment de :",
+        "type": "article",
+        "level": 4,
+        "order": 20,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-16-",
+        "title": "Article 16 : La Commission électorale nationale autonome (CENA) proclame les résultats définitifs de l'élection des membres des conseils communaux.",
+        "type": "article",
+        "level": 4,
+        "order": 21,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-17-1-",
+        "title": "Article 17-1 : L'Agence nationale d'identification des personnes (ANIP) transmet à la CENA, la liste électorale informatisée (LEI), au plus tard, soixante (60) jours avant la date du scrutin.",
+        "type": "article",
+        "level": 4,
+        "order": 22,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-17-2-",
+        "title": "Article 17-2 : L'Agence nationale d'identification des personnes transmet à la Commission électorale nationale autonome, les statistiques relatives à la liste électorale informatisée cent quatre-vingts (180) jours avant la date du scrutin, puis la liste électorale informatisée, au plus tard soixante (60) jours avant la date du 1 scrutin de l'année électorale.",
+        "type": "article",
+        "level": 4,
+        "order": 23,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-18-",
+        "title": "Article 18 : La Commission électorale nationale autonome (CENA) est composée de deux organes :",
+        "type": "article",
+        "level": 4,
+        "order": 24,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-2",
+        "title": "CHAPITRE 2 : DU CONSEIL ELECTORAL",
+        "type": "chapitre",
+        "level": 3,
+        "order": 25,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-2"
+        ],
+        "children": [
+          "section-1",
+          "section-2"
+        ]
+      },
+      {
+        "id": "section-1",
+        "title": "SECTION 1 : ATTRIBUTIONS ET COMPOSITION",
+        "type": "section",
+        "level": 4,
+        "order": 26,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-2",
+          "section-1"
+        ],
+        "children": [
+          "article-19-ancien-",
+          "article-19-nouveau-",
+          "article-20-",
+          "article-21-"
+        ]
+      },
+      {
+        "id": "article-19-ancien-",
+        "title": "Article 19 ancien : Le Conseil électoral :",
+        "type": "article",
+        "level": 5,
+        "order": 27,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-2",
+          "section-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-19-nouveau-",
+        "title": "Article 19 nouveau : Le Conseil électoral :",
+        "type": "article",
+        "level": 5,
+        "order": 28,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-2",
+          "section-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-20-",
+        "title": "Article 20 : Le Conseil électoral (CE) est composé de cinq (05) membres.",
+        "type": "article",
+        "level": 5,
+        "order": 29,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-2",
+          "section-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-21-",
+        "title": "Article 21 : Les membres du Conseil électoral sont nommés par décret pris en Conseil des ministres pour un mandat de cinq (05) ans non renouvelables.",
+        "type": "article",
+        "level": 5,
+        "order": 30,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-2",
+          "section-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "section-2",
+        "title": "SECTION 2 : FONCTIONNEMENT",
+        "type": "section",
+        "level": 4,
+        "order": 31,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-2",
+          "section-2"
+        ],
+        "children": [
+          "article-22-",
+          "article-23-",
+          "article-24-",
+          "article-25-",
+          "article-26-",
+          "article-27-",
+          "article-28-",
+          "article-29-",
+          "article-30-",
+          "article-30-1-"
+        ]
+      },
+      {
+        "id": "article-22-",
+        "title": "Article 22 : En cas de démission, de décès ou d'empêchement définitif d'un membre du Conseil électoral, il est pourvu à son remplacement dans les conditions prévues aux articles 20 et 21 de la présente loi.",
+        "type": "article",
+        "level": 5,
+        "order": 32,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-2",
+          "section-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-23-",
+        "title": "Article 23 : En cas de faute grave établie par décision de justice, il est mis fin au mandat du membre du Conseil électoral mis en cause par décret pris en Conseil des ministres.",
+        "type": "article",
+        "level": 5,
+        "order": 33,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-2",
+          "section-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-24-",
+        "title": "Article 24 : Avant leur prise de fonction, les membres du Conseil électoral prêtent le serment suivant devant le président de la République et le Bureau de l'Assemblée nationale :",
+        "type": "article",
+        "level": 5,
+        "order": 34,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-2",
+          "section-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-25-",
+        "title": "Article 25 : Le Conseil électoral est dirigé par un président et un rapporteur élu par leurs pairs.",
+        "type": "article",
+        "level": 5,
+        "order": 35,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-2",
+          "section-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-26-",
+        "title": "Article 26 : Le Conseil électoral tient deux (02) sessions ordinaires par an, sur convocation de son président. Toutefois, en cas de nécessité ou à la demande de quatre (04) de ses membres, le Conseil électoral se réunit en session extraordinaire.",
+        "type": "article",
+        "level": 5,
+        "order": 36,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-2",
+          "section-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-27-",
+        "title": "Article 27 : En année électorale, le Conseil électoral se réunit aussi souvent que nécessaire. Dans tous les cas, il se réunit au moins une fois tous les quinze (15) jours.",
+        "type": "article",
+        "level": 5,
+        "order": 37,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-2",
+          "section-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-28-",
+        "title": "Article 28 : Les sessions du Conseil électoral sont convoquées par le Président ou, en cas d'empêchement de ce dernier, par le rapporteur.",
+        "type": "article",
+        "level": 5,
+        "order": 38,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-2",
+          "section-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-29-",
+        "title": "Article 29 : Les décisions du Conseil électoral sont prises par consensus ou, à défaut, à la majorité simple des membres présents.",
+        "type": "article",
+        "level": 5,
+        "order": 39,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-2",
+          "section-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-30-",
+        "title": "Article 30 : Il peut être mis fin au mandat d'un membre du Conseil électoral dans l'un des cas ci-après :",
+        "type": "article",
+        "level": 5,
+        "order": 40,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-2",
+          "section-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-30-1-",
+        "title": "Article 30-1 : Les fonctions de membre du Conseil électoral sont incompatibles avec celles de membre du Gouvernement et de membre des autres institutions de la République.",
+        "type": "article",
+        "level": 5,
+        "order": 41,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-2",
+          "section-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-3",
+        "title": "CHAPITRE 3 : DE LA DIRECTION GENERALE DES ELECTIONS (DGF)",
+        "type": "chapitre",
+        "level": 3,
+        "order": 42,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-3"
+        ],
+        "children": [
+          "article-31-",
+          "article-32-",
+          "article-33-",
+          "article-34-",
+          "article-34-1-",
+          "article-34-2-",
+          "article-34-3-",
+          "section-3",
+          "section-4"
+        ]
+      },
+      {
+        "id": "article-31-",
+        "title": "Article 31 : La Commission électorale nationale autonome (CEMA) est dotée d'une Direction générale des Elections (DGE).",
+        "type": "article",
+        "level": 4,
+        "order": 43,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-32-",
+        "title": "Article 32 : La Direction Générale des élections assure :",
+        "type": "article",
+        "level": 4,
+        "order": 44,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-33-",
+        "title": "Article 33 : La Direction générale des élections est placée sous l'autorité d'un Directeur général des élections. Le Directeur général des élections est l'ordonnateur du budget de la CENA.",
+        "type": "article",
+        "level": 4,
+        "order": 46,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-34-",
+        "title": "Article 34 : Le Directeur général des élections, les directeurs techniques et la personne responsable des marchés publics sont recrutés par appel à candidature. Ces recrutements sont assurés par le Conseil électoral en collaboration avec le ministère en charge de la Fonction publique.",
+        "type": "article",
+        "level": 4,
+        "order": 47,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-34-1-",
+        "title": "Article 34-1 : Les modalités de recrutement et de gestion du personnel administratif de la Direction générale des élections sont celles contenues dans les actes règlementaires portant Attributions. Organisation et Fonctionnement des agences.",
+        "type": "article",
+        "level": 4,
+        "order": 48,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-34-2-",
+        "title": "Article 34-2 : Le mandat du directeur général des élections et celui des directeurs techniques sont renouvelables.",
+        "type": "article",
+        "level": 4,
+        "order": 49,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-34-3-",
+        "title": "Article 34-3 : Le directeur général des élections est révocable pour faute lourde établie par décision de justice.",
+        "type": "article",
+        "level": 4,
+        "order": 50,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "section-3",
+        "title": "SECTION 3 : LES DIRECTIONS TECHNIQUES",
+        "type": "section",
+        "level": 4,
+        "order": 51,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-3",
+          "section-3"
+        ],
+        "children": [
+          "article-35-",
+          "article-36-"
+        ]
+      },
+      {
+        "id": "article-35-",
+        "title": "Article 35 : La Direction générale des élections est composée de quatre (04) directions techniques :",
+        "type": "article",
+        "level": 5,
+        "order": 52,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-3",
+          "section-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-36-",
+        "title": "Article 36 : Les fonctions de Directeur général des élections et des directeurs techniques sont incompatibles avec les fonctions ou qualités visées à l'article 30-1 de la présente loi.",
+        "type": "article",
+        "level": 5,
+        "order": 53,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-3",
+          "section-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "section-4",
+        "title": "SECTION 4 : DU PERSONNEL DE LA CENA",
+        "type": "section",
+        "level": 4,
+        "order": 54,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-3",
+          "section-4"
+        ],
+        "children": [
+          "article-37-ancien-",
+          "article-37-"
+        ]
+      },
+      {
+        "id": "article-37-ancien-",
+        "title": "Article 37 ancien : Pour chaque élection, le Conseil électoral, sur proposition de la Direction générale des élections, désigne par arrondissement, un coordonnateur chargé de l'organisation des opérations électorales.",
+        "type": "article",
+        "level": 5,
+        "order": 55,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-3",
+          "section-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-37-",
+        "title": "Article 37 : Pour chaque élection, le Conseil électoral, sur proposition de la direction générale des élections, désigne par arrondissement, un coordonnateur chargé de l'organisation des opérations électorales.",
+        "type": "article",
+        "level": 5,
+        "order": 56,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-3",
+          "section-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-3",
+        "title": "TITRE 3 : DE LA DECLARATION DE CANDIDATURE",
+        "type": "titre",
+        "level": 2,
+        "order": 57,
+        "path": [
+          "livre-1",
+          "titre-3"
+        ],
+        "children": [
+          "article-38-ancien-",
+          "article-38-",
+          "article-39-",
+          "article-40-ancien-",
+          "article-40-",
+          "article-41-ancien-",
+          "article-41-",
+          "article-42-",
+          "article-43-"
+        ]
+      },
+      {
+        "id": "article-38-ancien-",
+        "title": "Article 38 ancien : Chaque candidat à l'élection du président de la République ou chaque liste de candidats aux élections législatives ou communales présente une déclaration de candidature auprès de la CENA.",
+        "type": "article",
+        "level": 3,
+        "order": 58,
+        "path": [
+          "livre-1",
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-38-",
+        "title": "Article 38 : Chaque candidat à l'élection du duo président de la République et vice-président de la République ou chaque liste de candidats aux élections législatives ou communales présente une déclaration de candidature physique et dématérialisée auprès de la Commission électorale nationale autonome.",
+        "type": "article",
+        "level": 3,
+        "order": 59,
+        "path": [
+          "livre-1",
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-39-",
+        "title": "Article 39 : Nul ne peut être candidat aux élections indiquées à l'article précédent, s'il n'est électeur.",
+        "type": "article",
+        "level": 3,
+        "order": 60,
+        "path": [
+          "livre-1",
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-40-ancien-",
+        "title": "Article 40 ancien : La déclaration de candidature est présentée, cinquante (50) jours avant la date fixée pour le démarrage de la campagne électorale à la CENA.",
+        "type": "article",
+        "level": 3,
+        "order": 61,
+        "path": [
+          "livre-1",
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-40-",
+        "title": "Article 40 : La déclaration de candidature est présentée :",
+        "type": "article",
+        "level": 3,
+        "order": 62,
+        "path": [
+          "livre-1",
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-41-ancien-",
+        "title": "Article 41 ancien : La déclaration de candidature comporte les nom, prénoms, profession, date et lieu de naissance ainsi que l'adresse complète du ou des candidats. Elle doit être accompagnée de :",
+        "type": "article",
+        "level": 3,
+        "order": 63,
+        "path": [
+          "livre-1",
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-41-",
+        "title": "Article 41 : La déclaration de candidature comporte les nom, prénoms, profession, date et lieu de naissance ainsi que l'adresse complète du ou des candidats. Elle doit être accompagnée :",
+        "type": "article",
+        "level": 3,
+        "order": 64,
+        "path": [
+          "livre-1",
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-42-",
+        "title": "Article 42 : Le Directeur Général des impôts est tenu de délivrer le quitus fiscal à tout candidat à jour du paiement de ses impôts, dans tes quinze (15) jours qui suivent la réception de la demande. Le refus de délivrance du quitus fiscal est motivé et comporte l'indication, en une seule fois, du détail des impôts non payés.",
+        "type": "article",
+        "level": 3,
+        "order": 65,
+        "path": [
+          "livre-1",
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-43-",
+        "title": "Article 43 : Le rejet d'une candidature ou d'une liste de candidatures est motivé.",
+        "type": "article",
+        "level": 3,
+        "order": 66,
+        "path": [
+          "livre-1",
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-4",
+        "title": "TITRE 4 : DE LA CAMPAGNE ELECTORALE",
+        "type": "titre",
+        "level": 2,
+        "order": 67,
+        "path": [
+          "livre-1",
+          "titre-4"
+        ],
+        "children": [
+          "article-44-",
+          "article-45-",
+          "article-46-",
+          "article-47-",
+          "article-48-",
+          "article-49-",
+          "article-50-",
+          "article-51-",
+          "article-52-",
+          "article-53-",
+          "article-54-",
+          "article-55-",
+          "article-56-",
+          "article-57-",
+          "article-58-"
+        ]
+      },
+      {
+        "id": "article-44-",
+        "title": "Article 44 : La campagne électorale est l'ensemble des opérations de propagande précédant une élection et visant à amener tes électeurs à soutenir tes candidats en compétition.",
+        "type": "article",
+        "level": 3,
+        "order": 68,
+        "path": [
+          "livre-1",
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-45-",
+        "title": "Article 45 : En période électorale, les candidats bénéficient d'un accès équitable aux organes de communication audiovisuelle publics ou privés.",
+        "type": "article",
+        "level": 3,
+        "order": 69,
+        "path": [
+          "livre-1",
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-46-",
+        "title": "Article 46 : La campagne électorale est déclarée ouverte par le président de la CENA. Elle dure quinze (15) jours.",
+        "type": "article",
+        "level": 3,
+        "order": 70,
+        "path": [
+          "livre-1",
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-47-",
+        "title": "Article 47 : Nul ne peut, par quelque moyen ou sous quelque forme que ce soit, faire campagne électorale en dehors de la période prévue à l'article précédent.",
+        "type": "article",
+        "level": 3,
+        "order": 71,
+        "path": [
+          "livre-1",
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-48-",
+        "title": "Article 48 : Les partis politiques et les candidats sont seuls autorisés à organiser des réunions électorales,",
+        "type": "article",
+        "level": 3,
+        "order": 72,
+        "path": [
+          "livre-1",
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-49-",
+        "title": "Article 49 : La réunion électorale a pour but, l'audition des candidats aux fonctions de président de la République, de député à l'Assemblée nationale, de conseillers communaux ou de leurs représentants, en vue de la vulgarisation de leur programme politique ou de leur projet de société.",
+        "type": "article",
+        "level": 3,
+        "order": 73,
+        "path": [
+          "livre-1",
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-50-",
+        "title": "Article 50 : Les réunions électorales sont libres. Elles ne peuvent être tenues sur les voies publiques. Elles sont interdites entre vingt-trois (23) heures et sept (07) heures.",
+        "type": "article",
+        "level": 3,
+        "order": 74,
+        "path": [
+          "livre-1",
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-51-",
+        "title": "Article 51 : Les manifestations et rassemblements électoraux se déroulent conformément aux dispositions de la loi sur les réunions et manifestations publiques sous réserve des dispositions contraires du présent code.",
+        "type": "article",
+        "level": 3,
+        "order": 75,
+        "path": [
+          "livre-1",
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-52-",
+        "title": "Article 52 : Il est interdit, sous les peines prévues au code pénal, de distribuer le jour du scrutin, des bulletins, circulaires ou autres documents de propagande et de porter ou d'arborer des emblèmes ou des signes distinctifs des candidats.",
+        "type": "article",
+        "level": 3,
+        "order": 76,
+        "path": [
+          "livre-1",
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-53-",
+        "title": "Article 53 : Il est interdit à tout agent public, sous les peines prévues au code pénal, de distribuer au cours de ses heures de service, des bulletins, circulaires ou autres documents de propagande et de porter ou d'arborer des emblèmes ou des signes distinctifs des candidats.",
+        "type": "article",
+        "level": 3,
+        "order": 77,
+        "path": [
+          "livre-1",
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-54-",
+        "title": "Article 54 :Les pratiques publicitaires à caractère commercial, l'offre de tissus, de tee-shirts, de stylos, de porte-clefs, de calendriers et autres objets utilitaires à l'effigie des candidats ou symbole des partis ainsi que leur port et leur utilisation, les dons et libéralités ou les faveurs administratives faits à un individu, à une commune ou à une collectivité quelconque de citoyens à des fins de propagande pouvant influencer ou tenter d'influencer le vote sont et restent interdits douze (12) mois avant tout scrutin et jusqu'à son terme.",
+        "type": "article",
+        "level": 3,
+        "order": 78,
+        "path": [
+          "livre-1",
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-55-",
+        "title": "Article 55 : L'utilisation des attributs, biens ou moyens de l'Etat, d'une personne morale publique, des institutions ou organismes publics aux mêmes fins est et reste interdite un (01) an avant tout scrutin et jusqu'à son terme, notamment ceux des sociétés, offices, projets d'Etat et d'institutions internationales, sous peine des sanctions prévues au code pénal.",
+        "type": "article",
+        "level": 3,
+        "order": 79,
+        "path": [
+          "livre-1",
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-56-",
+        "title": "Article 56 : En tout état de cause, il est interdit, sous peine des sanctions prévues au code pénal, à tout préfet et toute autorité non élue de l'administration territoriale, à tout chef de représentation diplomatique et consulaire, à tout membre de la Commission électorale nationale autonome (CENA), à tout membre d'institution en charge de la gestion des contentieux électoraux, tout agent public en service dans ces institutions, à tout le personnel électoral en général, de se prononcer publiquement d'une manière quelconque sur la candidature, l'éligibilité et l'élection d'un citoyen ou pour susciter ou soutenir sa candidature ou de s'impliquer dans toute action ou initiative qui y concourt",
+        "type": "article",
+        "level": 3,
+        "order": 80,
+        "path": [
+          "livre-1",
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-57-",
+        "title": "Article 57 : Les candidats et les partis politiques peuvent utiliser pour leur campagne, les médias d’Etat : radiodiffusion, télévision et presse écrite.",
+        "type": "article",
+        "level": 3,
+        "order": 81,
+        "path": [
+          "livre-1",
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-58-",
+        "title": "Article 58 : Les associations et les organisations non gouvernementales légalement reconnues ne peuvent soutenir, ni tenir des propos visant à ternir l'image des candidats ou des partis politiques sous peine de déchéance de leur statut et des sanctions prévues au code pénal contre les personnes physiques en charge des associations ou organisations concernées.",
+        "type": "article",
+        "level": 3,
+        "order": 82,
+        "path": [
+          "livre-1",
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-5",
+        "title": "TITRE 5 : DES OPERATIONS DE VOTE",
+        "type": "titre",
+        "level": 2,
+        "order": 83,
+        "path": [
+          "livre-1",
+          "titre-5"
+        ],
+        "children": [
+          "article-59-",
+          "article-60-",
+          "article-61-ancien-",
+          "article-61-",
+          "article-62-",
+          "article-63-ancien-",
+          "article-63-",
+          "article-64-",
+          "article-65-",
+          "article-66-ancien-",
+          "article-66-",
+          "article-67-",
+          "article-68-",
+          "article-69-",
+          "article-70-",
+          "article-71-ancien-",
+          "article-71-",
+          "article-72-",
+          "article-73-ancien-",
+          "article-73-",
+          "article-74-",
+          "article-75-",
+          "article-76-",
+          "article-77-"
+        ]
+      },
+      {
+        "id": "article-59-",
+        "title": "Article 59 : Le calendrier électoral est rendu public par le président de la CENA, quatre-vingt-dix jours (90) avant la date du scrutin. Il est publié par voie de presse et tous autres canaux de appropriés.",
+        "type": "article",
+        "level": 3,
+        "order": 84,
+        "path": [
+          "livre-1",
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-60-",
+        "title": "Article 60 : Le scrutin dure neuf (09) heures pour une élection ordinaire et dix (10) heures en cas de couplage de deux (02) élections.",
+        "type": "article",
+        "level": 3,
+        "order": 85,
+        "path": [
+          "livre-1",
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-61-ancien-",
+        "title": "Article 61 ancien : Le matériel électoral par poste de vote comprend notamment :",
+        "type": "article",
+        "level": 3,
+        "order": 86,
+        "path": [
+          "livre-1",
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-61-",
+        "title": "Article 61 : Le matériel électoral par poste de vote comprend :",
+        "type": "article",
+        "level": 3,
+        "order": 87,
+        "path": [
+          "livre-1",
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-62-",
+        "title": "Article 62 : Avant l'ouverture du scrutin, les membres du poste de vote s'assurent de la disponibilité en quantité suffisante des bulletins uniques et de tout le matériel électoral. Procès-verbal en est dressé.",
+        "type": "article",
+        "level": 3,
+        "order": 88,
+        "path": [
+          "livre-1",
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-63-ancien-",
+        "title": "Article 63 ancien : Chaque candidat pour l'élection du président de la République ou chaque liste de candidats pour les élections législatives, communales, a le droit de surveiller, par lui-même ou par un délégué dûment mandaté par le parti ou le candidat en lice toutes les opérations de vote, de dépouillement des bulletins et de décompte des voix, ainsi que le droit de faire inscrire au procès-verbal toutes observations faites avant ou après le dépouillement du scrutin.",
+        "type": "article",
+        "level": 3,
+        "order": 89,
+        "path": [
+          "livre-1",
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-63-",
+        "title": "Article 63 : Chaque candidat pour l'élection du duo président de la République et vice-président de la République ou chaque liste de candidats pour les élections législatives et communales, a le droit de surveiller, par lui-même ou par un délégué dûment mandaté par le parti ou le candidat en lice, toutes les opérations de vote, de dépouillement des bulletins et de décompte des voix, ainsi que le droit de faire inscrire au procès-verbal toutes observations faites avant ou après le dépouillement du scrutin.",
+        "type": "article",
+        "level": 3,
+        "order": 90,
+        "path": [
+          "livre-1",
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-64-",
+        "title": "Article 64 : Les délégués des partis politiques doivent être inscrits sur la liste électorale. Ils ne peuvent pas être expulsés du lieu de vote, sauf en cas de désordre provoqué par eux ou d'obstruction systématique.",
+        "type": "article",
+        "level": 3,
+        "order": 91,
+        "path": [
+          "livre-1",
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-65-",
+        "title": "Article 65 : La liste des centres et postes de vote est portée à la connaissance des candidats et des partis politiques par tous moyens appropriés trente (30) jours minimums avant le jour du scrutin.",
+        "type": "article",
+        "level": 3,
+        "order": 92,
+        "path": [
+          "livre-1",
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-66-ancien-",
+        "title": "Article 66 ancien : Le poste de vote est tenu selon qu'il s'agit d'élection seule ou d'élections couplées par trois (03) ou cinq (05) agents électoraux.",
+        "type": "article",
+        "level": 3,
+        "order": 93,
+        "path": [
+          "livre-1",
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-66-",
+        "title": "Article 66 : Le poste de vote est tenu, selon qu'il s'agit de l'élection du duo président de la République et vice-président de la République ou d'élections couplées par trois (03) ou cinq (05) agents électoraux.",
+        "type": "article",
+        "level": 3,
+        "order": 94,
+        "path": [
+          "livre-1",
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-67-",
+        "title": "Article 67 : Dans les ambassades et consulats de la République du Bénin, les opérations de vote, de dépouillement et de décompte des voix sont assurées par un bureau de trois (03) membres dont un (01) président et deux (02) assesseurs désignés par la Commission électorale nationale autonome (CENA) parmi les Béninois résidant dans la juridiction de cette ambassade ou de ce consulat, sur proposition des candidats aux élections concernées.",
+        "type": "article",
+        "level": 3,
+        "order": 95,
+        "path": [
+          "livre-1",
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-68-",
+        "title": "Article 68 : Le président est responsable de la police du poste de vote.",
+        "type": "article",
+        "level": 3,
+        "order": 96,
+        "path": [
+          "livre-1",
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-69-",
+        "title": "Article 69 : L'électeur n'est autorisé à voter que dans son poste de vote.",
+        "type": "article",
+        "level": 3,
+        "order": 97,
+        "path": [
+          "livre-1",
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-70-",
+        "title": "Article 70 : A l'exception des agents des Forces de défense et de sécurité régulièrement en mission et visés aux articles 69 alinéa 2 et 78 du présent code, nul ne peut être admis dans le poste de vote s'il est porteur d'une arme quelconque, apparente ou cachée.",
+        "type": "article",
+        "level": 3,
+        "order": 98,
+        "path": [
+          "livre-1",
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-71-ancien-",
+        "title": "Article 71 ancien : Sur le territoire national, le scrutin doit se dérouler dans les centres de vote retenus par la loi.",
+        "type": "article",
+        "level": 3,
+        "order": 99,
+        "path": [
+          "livre-1",
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-71-",
+        "title": "Article 71 : Sur le territoire national, le scrutin se déroule dans les centres de vote retenus par la loi.",
+        "type": "article",
+        "level": 3,
+        "order": 100,
+        "path": [
+          "livre-1",
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-72-",
+        "title": "Article 72 : A aucun moment, au cours du scrutin, le nombre des membres du poste de vote présents dans le poste de vote ne peut être inférieur à deux (02).",
+        "type": "article",
+        "level": 3,
+        "order": 101,
+        "path": [
+          "livre-1",
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-73-ancien-",
+        "title": "Article 73 ancien : A son entrée dans le poste de vote, l'électeur présente sa pièce d'identification et fait constater son inscription sur la liste électorale. Puis il prend lui-même un bulletin, se rend dans l'isoloir, marque son choix et plie le bulletin de manière à cacher son vote. Il fait ensuite constater qu'il n'est porteur d'un seul pli; le président le constate sans toucher le pli que l'électeur introduit lui-même dans l'urne.",
+        "type": "article",
+        "level": 3,
+        "order": 102,
+        "path": [
+          "livre-1",
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-73-",
+        "title": "Article 73 : A son entrée dans le poste de vote, l'électeur montre sa pièce d'identification aux délégués de candidats ou de listes de candidats et fait constater son inscription sur la liste électorale par le président du poste. Puis il prend lui-même un bulletin, se rend dans l'isoloir, marque son choix et plie le bulletin de manière à cacher son vote. Il fait ensuite constater qu'il n'est porteur que d'un seul pli; le président le constate sans toucher le pli que l'électeur introduit lui-même dans l'urne.",
+        "type": "article",
+        "level": 3,
+        "order": 103,
+        "path": [
+          "livre-1",
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-74-",
+        "title": "Article 74 : Chaque poste de vote est doté d'un ou de plusieurs isoloirs. Les isoloirs doivent assurer le secret du vote de chaque électeur. Ils doivent être placés de telle manière que le citoyen puisse cacher son vote.",
+        "type": "article",
+        "level": 3,
+        "order": 104,
+        "path": [
+          "livre-1",
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-75-",
+        "title": "Article 75 : L'urne est transparente et présente en outre, des garanties de sécurité et d'inviolabilité.",
+        "type": "article",
+        "level": 3,
+        "order": 105,
+        "path": [
+          "livre-1",
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-76-",
+        "title": "Article 76 : Tout électeur atteint d'infirmité ou d'incapacité physique certaine, le mettant dans l'impossibilité de plier et de glisser son bulletin dans l'urne, est autorisé à se faire assister d'une personne de son choix.",
+        "type": "article",
+        "level": 3,
+        "order": 106,
+        "path": [
+          "livre-1",
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-77-",
+        "title": "Article 77 : Le vote de chaque électeur est constaté par l'apposition de l'empreinte de son pouce gauche à l'encre indélébile en face de son nom en présence des membres du poste de vote.",
+        "type": "article",
+        "level": 3,
+        "order": 107,
+        "path": [
+          "livre-1",
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-6",
+        "title": "TITRE 6 : DU VOTE PAR PROCURATION",
+        "type": "titre",
+        "level": 2,
+        "order": 108,
+        "path": [
+          "livre-1",
+          "titre-6"
+        ],
+        "children": [
+          "article-78-",
+          "article-79-",
+          "article-80-",
+          "article-81-",
+          "article-82-",
+          "article-83-",
+          "article-84-",
+          "article-85-",
+          "article-86-"
+        ]
+      },
+      {
+        "id": "article-78-",
+        "title": "Article 78 : Peuvent exercer leur droit de vote par procuration, les électeurs appartenant à l'une des catégories ci-après énumérées, retenus par des obligations hors du centre de vote où ils sont inscrits :",
+        "type": "article",
+        "level": 3,
+        "order": 109,
+        "path": [
+          "livre-1",
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-79-",
+        "title": "Article 79 : Le mandataire doit jouir de ses droits électoraux et être inscrit sur la même liste électorale que le mandant.",
+        "type": "article",
+        "level": 3,
+        "order": 110,
+        "path": [
+          "livre-1",
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-80-",
+        "title": "Article 80 : Les procurations à donner par les personnes visées à l'article 78 sont établies sur des formulaires sécurisés et référencés conçus par la Commission électorale nationale autonome (CENA) conformément aux dispositions de l'article 69 du présent code.",
+        "type": "article",
+        "level": 3,
+        "order": 111,
+        "path": [
+          "livre-1",
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-81-",
+        "title": "Article 81 : Les procurations sont légalisées par les autorités administratives compétentes qui tiennent, à cet effet, une permanence dans leurs bureaux pendant la durée de la période électorale. Ces autorités administratives établissent la liste des références des formulaires légalisés qu'elles adressent au Maire ou au Préfet ou au Ministre de l'intérieur ou à la Commission électorale nationale autonome.",
+        "type": "article",
+        "level": 3,
+        "order": 112,
+        "path": [
+          "livre-1",
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-82-",
+        "title": "Article 82 : Le mandant peut annuler sa procuration à tout moment avant le vote.",
+        "type": "article",
+        "level": 3,
+        "order": 113,
+        "path": [
+          "livre-1",
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-83-",
+        "title": "Article 83 : En cas de décès ou de privation des droits civils et politiques du mandant, la procuration est annulée de plein droit.",
+        "type": "article",
+        "level": 3,
+        "order": 114,
+        "path": [
+          "livre-1",
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-84-",
+        "title": "Article 84 : En cas de couplage d'élections, la seule procuration est valable pour les deux scrutins.",
+        "type": "article",
+        "level": 3,
+        "order": 115,
+        "path": [
+          "livre-1",
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-85-",
+        "title": "Article 85 : Nul ne peut faire usage de plus d'une procuration.",
+        "type": "article",
+        "level": 3,
+        "order": 116,
+        "path": [
+          "livre-1",
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-86-",
+        "title": "Article 86 : Le mandataire participe au scrutin dans les conditions fixées à l'article 73 du présent code.",
+        "type": "article",
+        "level": 3,
+        "order": 117,
+        "path": [
+          "livre-1",
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-7",
+        "title": "TITRE 7 : DU DEPOUILLEMENT",
+        "type": "titre",
+        "level": 2,
+        "order": 118,
+        "path": [
+          "livre-1",
+          "titre-7"
+        ],
+        "children": [
+          "article-87-",
+          "article-88-",
+          "article-89-",
+          "article-90-ancien-",
+          "article-90-",
+          "article-91-",
+          "article-92-ancien-",
+          "article-92-",
+          "article-93-ancien-",
+          "article-93-",
+          "article-94-ancien-",
+          "article-94-",
+          "article-95-",
+          "article-96-"
+        ]
+      },
+      {
+        "id": "article-87-",
+        "title": "Article 87 : Le dépouillement suit immédiatement la clôture du scrutin. Il est conduit sans désemparer jusqu'à son achèvement complet.",
+        "type": "article",
+        "level": 3,
+        "order": 119,
+        "path": [
+          "livre-1",
+          "titre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-88-",
+        "title": "Article 88 : Les bulletins nuis ne sont pas considérés comme suffrages exprimés lors du dépouillement.",
+        "type": "article",
+        "level": 3,
+        "order": 120,
+        "path": [
+          "livre-1",
+          "titre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-89-",
+        "title": "Article 89 : Immédiatement après le dépouillement, le résultat du scrutin est rendu public et affiché sur les lieux mêmes du vote.",
+        "type": "article",
+        "level": 3,
+        "order": 121,
+        "path": [
+          "livre-1",
+          "titre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-90-ancien-",
+        "title": "Article 90 ancien : Le procès-verbal de déroulement du scrutin est établi sur un bloc en papier carbone spécial comportant cinq (05) feuillets autocopiants et numérotés de 1 à 5. Chaque feuillet numéroté a valeur d'original.",
+        "type": "article",
+        "level": 3,
+        "order": 122,
+        "path": [
+          "livre-1",
+          "titre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-90-",
+        "title": "Article 90 : Le procès-verbal de déroulement du scrutin est établi sur un bloc en papier carbone spécial comportant cinq (05) feuillets autocopiants et numérotés de 1 à 5. Chaque feuillet numéroté a valeur d'original.",
+        "type": "article",
+        "level": 3,
+        "order": 123,
+        "path": [
+          "livre-1",
+          "titre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-91-",
+        "title": "Article 91 : Tout membre de poste de vote qui délivre ou tente de délivrer un procès-verbal et/ou une feuille de dépouillement non conforme aux résultats du vote est passible des peines prévues au code pénal.",
+        "type": "article",
+        "level": 3,
+        "order": 124,
+        "path": [
+          "livre-1",
+          "titre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-92-ancien-",
+        "title": "Article 92 ancien : Dans chaque poste de vote, dès la fin du dépouillement, les membres du poste de vote remplissent les procès-verbaux et les feuilles de dépouillement. Le président du poste de vote établit autant de blocs de procès-verbal que de plis à confectionner et de représentants de candidats et de partis politiques présents :",
+        "type": "article",
+        "level": 3,
+        "order": 125,
+        "path": [
+          "livre-1",
+          "titre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-92-",
+        "title": "Article 92 : Dans chaque poste de vote, dès la fin du dépouillement, les membres du poste de vote remplissent les procès-verbaux de déroulement du scrutin et les feuilles de dépouillement.",
+        "type": "article",
+        "level": 3,
+        "order": 126,
+        "path": [
+          "livre-1",
+          "titre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-93-ancien-",
+        "title": "Article 93 ancien : Les plis scellés sont placés dans l'urne-scellée et immédiatement acheminés au chef-lieu de l'arrondissement pour être remis entre les mains-du-coordonnateur d'arrondissement par le président du poste de vote accompagné de ses assesseurs.",
+        "type": "article",
+        "level": 3,
+        "order": 127,
+        "path": [
+          "livre-1",
+          "titre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-93-",
+        "title": "Article 93 : Les plis scellés sont placés dans l'urne scellée et immédiatement acheminés au chef-lieu de l'arrondissement pour être remis entre les mains du coordonnateur d'arrondissement par le président du poste de vote accompagné de ses assesseurs.",
+        "type": "article",
+        "level": 3,
+        "order": 128,
+        "path": [
+          "livre-1",
+          "titre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-94-ancien-",
+        "title": "Article 94 ancien : Chaque coordonnateur d'arrondissement procède à la mise en cantine des plis scellés destinés respectivement à la Cour Constitutionnelle ou la Cour suprême et à la Commission électorale nationale autonome (CENA) auxquels est joint chaque fois un procès-verbal de constatation.",
+        "type": "article",
+        "level": 3,
+        "order": 129,
+        "path": [
+          "livre-1",
+          "titre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-94-",
+        "title": "Article 94 : Chaque coordonnateur d'arrondissement procède à la mise en cantine des plis scellés destinés respectivement à la Cour Constitutionnelle ou à la Cour suprême et à la Commission électorale nationale autonome auxquels est joint chaque fois un procès-verbal de constatation.",
+        "type": "article",
+        "level": 3,
+        "order": 130,
+        "path": [
+          "livre-1",
+          "titre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-95-",
+        "title": "Article 95 : Tout responsable de transmission tardive de cantines ou de plis scellés est passible de la peine prévue au code pénal. Toute transmission hors délai de cantines ou de plis scellés doit être dénoncée dans les soixante-douze (72) heures qui suivent la transmission tardive aux procureurs de la République compétents par le président de la Commission électorale nationale autonome (CENA).",
+        "type": "article",
+        "level": 3,
+        "order": 131,
+        "path": [
+          "livre-1",
+          "titre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-96-",
+        "title": "Article 96 :",
+        "type": "article",
+        "level": 3,
+        "order": 132,
+        "path": [
+          "livre-1",
+          "titre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-8",
+        "title": "TITRE 8 : DU FINANCEMENT DES ELECTIONS ET DU REMBOURSEMENT DES FRAIS DE CAMPAGNE",
+        "type": "titre",
+        "level": 2,
+        "order": 133,
+        "path": [
+          "livre-1",
+          "titre-8"
+        ],
+        "children": [
+          "article-97-",
+          "article-98-",
+          "article-99-",
+          "article-100-",
+          "article-101-"
+        ]
+      },
+      {
+        "id": "article-97-",
+        "title": "Article 97 : Il est interdit à tout parti politique ou à toute personne prenant part à l'élection du président de la République, des membres de l'Assemblée nationale, des membres des conseils communaux, d'engager pour la campagne électorale, par lui-même et/ou par une tierce personne :",
+        "type": "article",
+        "level": 3,
+        "order": 134,
+        "path": [
+          "livre-1",
+          "titre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-98-",
+        "title": "Article 98 : Les candidats à l'élection du président de la République, ainsi que les partis politiques prenant part aux élections législatives et communales établissent un compte prévisionnel de campagne précisant l'ensemble des ressources et des dépenses à effectuer en vue des opérations électorales par eux-mêmes et/ou pour leur compte.",
+        "type": "article",
+        "level": 3,
+        "order": 135,
+        "path": [
+          "livre-1",
+          "titre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-99-",
+        "title": "Article 99 : Soixante (60) jours au plus tard après la proclamation des résultats définitifs, les candidats ou les partis politiques ayant pris part au scrutin déposent contre récépissé auprès de la Cour des comptes, leur compte de campagne accompagné des pièces justificatives.",
+        "type": "article",
+        "level": 3,
+        "order": 136,
+        "path": [
+          "livre-1",
+          "titre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-100-",
+        "title": "Article 100 : Pour le remboursement des frais de campagne électorale aux partis politiques, l'Etat alloue un forfait par candidat élu en ce qui concerne les élections législatives.",
+        "type": "article",
+        "level": 3,
+        "order": 137,
+        "path": [
+          "livre-1",
+          "titre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-101-",
+        "title": "Article 101 : Les actes de procédure, les décisions et les registres relatifs aux élections communales, législatives, et à l'élection du président de la République sont dispensés de timbre, de l'enregistrement et des frais de justice.",
+        "type": "article",
+        "level": 3,
+        "order": 138,
+        "path": [
+          "livre-1",
+          "titre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-9",
+        "title": "TITRE 9 : DU CONTENTIEUX ELECTORAL",
+        "type": "titre",
+        "level": 2,
+        "order": 139,
+        "path": [
+          "livre-1",
+          "titre-9"
+        ],
+        "children": [
+          "article-102-",
+          "article-103-",
+          "article-104-",
+          "article-105-",
+          "article-106-",
+          "article-107-ancien-",
+          "article-107-",
+          "article-108-",
+          "article-109-",
+          "article-110-"
+        ]
+      },
+      {
+        "id": "article-102-",
+        "title": "Article 102 : Conformément aux dispositions de l'article 117 alinéa 2 de la Constitution du 11 décembre 1990, la Cour constitutionnelle :",
+        "type": "article",
+        "level": 3,
+        "order": 140,
+        "path": [
+          "livre-1",
+          "titre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-103-",
+        "title": "Article 103 : Conformément aux dispositions des articles 117 alinéa 3 et 81 alinéas 2 de la Constitution du 11 décembre 1990, la Cour Constitutionnelle :",
+        "type": "article",
+        "level": 3,
+        "order": 141,
+        "path": [
+          "livre-1",
+          "titre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-104-",
+        "title": "Article 104 : Dans le cas de l'élection du président de la République ou des élections législatives, la Cour constitutionnelle est saisie par une requête écrite adressée à son Secrétaire général.",
+        "type": "article",
+        "level": 3,
+        "order": 142,
+        "path": [
+          "livre-1",
+          "titre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-105-",
+        "title": "Article 105 : La Cour suprême est saisie par une requête écrite adressée au greffe de la Cour, ou au greffe du tribunal de première instance territorialement compétent, ou au chef d'arrondissement, ou au maire ou au préfet. Le greffe du tribunal de première instance territorialement compétent, le chef d'arrondissement, le maire, le préfet saisi, avise par tous moyens de communication appropriés, le greffe de la cour et assure sans délai la transmission de la requête dont il a été saisi.",
+        "type": "article",
+        "level": 3,
+        "order": 143,
+        "path": [
+          "livre-1",
+          "titre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-106-",
+        "title": "Article 106 : La requête n'a pas d'effet suspensif.",
+        "type": "article",
+        "level": 3,
+        "order": 144,
+        "path": [
+          "livre-1",
+          "titre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-107-ancien-",
+        "title": "Article 107 ancien : Conformément aux dispositions des articles 124 alinéa 2 et 131 alinéa 3 de la Constitution, les décisions rendues par les deux (02) Cours visées à l'article 101 ci-dessus, ne sont susceptibles d'aucun recours.",
+        "type": "article",
+        "level": 3,
+        "order": 145,
+        "path": [
+          "livre-1",
+          "titre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-107-",
+        "title": "Article 107 : Conformément aux dispositions des articles 124 alinéa 2 et 131 alinéa 3 de la Constitution, les décisions rendues par les deux (02) Cours visées à l'article 104 ci-dessus, ne sont susceptibles d'aucun recours.",
+        "type": "article",
+        "level": 3,
+        "order": 146,
+        "path": [
+          "livre-1",
+          "titre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-108-",
+        "title": "Article 108 : Si la Cour constitutionnelle ou la Cour suprême estime le recours fondé, elle peut, par décision ou arrêt motivé soit annuler l'élection contestée, soit corriger le procès-verbal des résultats et proclamer le candidat régulièrement élu.",
+        "type": "article",
+        "level": 3,
+        "order": 147,
+        "path": [
+          "livre-1",
+          "titre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-109-",
+        "title": "Article 109 : En cas d'annulation de l'élection du président de la République, il est procédé à l'organisation d'un nouveau scrutin dans les quatorze (14) jours suivant la décision.",
+        "type": "article",
+        "level": 3,
+        "order": 148,
+        "path": [
+          "livre-1",
+          "titre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-110-",
+        "title": "Article 110 : Le contentieux électoral relatif à l'élection du président de la République et aux élections législatives est soumis à la Cour Constitutionnelle qui statue conformément aux textes en vigueur.",
+        "type": "article",
+        "level": 3,
+        "order": 149,
+        "path": [
+          "livre-1",
+          "titre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "livre-2",
+        "title": "LIVRE 2 : DE L'ETABLISSEMENT DE LA LISTE ELECTORALE INFORMATISEE (LEI)",
+        "type": "livre",
+        "level": 1,
+        "order": 150,
+        "path": [
+          "livre-2"
+        ],
+        "children": [
+          "article-111-",
+          "article-112-",
+          "article-113-",
+          "article-114-",
+          "article-115-",
+          "article-116-",
+          "article-117-",
+          "article-118-",
+          "article-119-",
+          "article-120-",
+          "article-121-",
+          "article-122-",
+          "article-123-",
+          "article-124-",
+          "article-125-ancien-",
+          "article-125-",
+          "article-126-",
+          "article-127-"
+        ]
+      },
+      {
+        "id": "article-111-",
+        "title": "Article 111 : Chaque commune tient deux (02) registres distincts des personnes physiques, ci-après désigné par les termes « registre communal ». Le registre communal est composé :",
+        "type": "article",
+        "level": 2,
+        "order": 153,
+        "path": [
+          "livre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-112-",
+        "title": "Article 112 : Le registre communal est destiné à la collecte des données des personnes physiques qui établissent leur résidence habituelle sur le territoire d'une commune, ainsi que des données de toute autre personne visée par les dispositions de la loi portant identification de la personne physique.",
+        "type": "article",
+        "level": 2,
+        "order": 154,
+        "path": [
+          "livre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-113-",
+        "title": "Article 113 : Toute personne, dont les données font l'objet d'une inscription sur le registre national ou communal, a le droit de consulter par voie électronique et d'obtenir communication des données qui la concernent suivant les modalités fixées ci-dessous.",
+        "type": "article",
+        "level": 2,
+        "order": 156,
+        "path": [
+          "livre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-114-",
+        "title": "Article 114 : Il est mentionné sur l'extrait remis au demandeur que les informations qu'il contient, reproduisent de manière exacte l'ensemble des données relatives à cette personne qui est inscrite sur le registre national.",
+        "type": "article",
+        "level": 2,
+        "order": 157,
+        "path": [
+          "livre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-115-",
+        "title": "Article 115 : Si les données consultées ou communiquées à une personne au moment où elle est inscrite se révèlent être incomplètes ou inexactes, la personne concernée peut en demander la rectification.",
+        "type": "article",
+        "level": 2,
+        "order": 158,
+        "path": [
+          "livre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-116-",
+        "title": "Article 116 : A l'issue de la procédure de rectification, le demandeur reçoit un extrait du registre national ou d'un registre communal dans lequel toutes les données modifiées sont présentées.",
+        "type": "article",
+        "level": 2,
+        "order": 159,
+        "path": [
+          "livre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-117-",
+        "title": "Article 117 : Toute personne dont les données font l'objet d'une inscription sur le registre national ou sur un registre communal, a le droit d'obtenir de l'Agence Nationale d'identification des Personnes (ANIP), la liste des autorités, organismes ou services qui ont, au cours des six (06) mois précédant sa demande, consulté ou mis à jour ses données au registre national ou au registre communal, à l'exception des autorités administratives et judiciaires chargées de la recherche et de la répression des infractions pénales.",
+        "type": "article",
+        "level": 2,
+        "order": 160,
+        "path": [
+          "livre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-118-",
+        "title": "Article 118 : Sur décision du Tribunal de première instance territorialement compétent, l'Agence Nationale d'identification des Personnes (ANIP) est tenue de fournir à tout requérant les renseignements qu'il possède permettant de déterminer la résidence habituelle d'une personne inscrite sur le registre national ou le registre communal selon le cas.",
+        "type": "article",
+        "level": 2,
+        "order": 161,
+        "path": [
+          "livre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-119-",
+        "title": "Article 119 : L'extrait ou le certificat reprend uniquement les informations exigées par la procédure.",
+        "type": "article",
+        "level": 2,
+        "order": 162,
+        "path": [
+          "livre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-120-",
+        "title": "Article 120 : La liste électorale informatisée est une liste numérique unique, exhaustive et nationale avec photo de tous les citoyens en âge de voter pour toutes les élections organisées dans une même année.",
+        "type": "article",
+        "level": 2,
+        "order": 164,
+        "path": [
+          "livre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-121-",
+        "title": "Article 121 : La liste électorale informatisée comprend :",
+        "type": "article",
+        "level": 2,
+        "order": 165,
+        "path": [
+          "livre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-122-",
+        "title": "Article 122 : Tout citoyen qui change de résidence, pour être pris en compte sur la Liste électorale informatisée, doit faire une demande de transfert.",
+        "type": "article",
+        "level": 2,
+        "order": 166,
+        "path": [
+          "livre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-123-",
+        "title": "Article 123 : En prélude à l'organisation des élections, les réclamations des citoyens en rectification, inscription et radiation des électeurs sont formulées par tout citoyen jusqu'au dernier jour de l'affichage devant la personne responsable du registre communal à travers ses agents techniques de la localité. Elles sont transcrites sur des formulaires appropriés mis à leur disposition par les agents techniques.",
+        "type": "article",
+        "level": 2,
+        "order": 167,
+        "path": [
+          "livre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-124-",
+        "title": "Article 124 : Cent-vingt (120) jours avant la date des élections législatives et communales, une liste électorale informatisée provisoire (LEIP) est extraite du registre national : elle est présentée par centre de vote.",
+        "type": "article",
+        "level": 2,
+        "order": 168,
+        "path": [
+          "livre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-125-ancien-",
+        "title": "Article 125 ancien : La liste électorale informatisée est établie après la correction de la liste électorale informatisée provisoire (LEIP).",
+        "type": "article",
+        "level": 2,
+        "order": 169,
+        "path": [
+          "livre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-125-",
+        "title": "Article 125 : La liste électorale informatisée est établie après la correction de la liste électorale informatisée provisoire.",
+        "type": "article",
+        "level": 2,
+        "order": 170,
+        "path": [
+          "livre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-126-",
+        "title": "Article 126 : La liste électorale informatisée établie est publiée et affichée pendant quinze (15) jours puis remise à la CENA, au plus tard soixante (60) jours avant la date du scrutin.",
+        "type": "article",
+        "level": 2,
+        "order": 171,
+        "path": [
+          "livre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-127-",
+        "title": "Article 127 : Nonobstant les dispositions de la loi relative au Conseil national de la statistique, notamment en son article 25, sur autorisation de l'Autorité de protection des données à caractère personnel, les informations relatives aux nom, prénoms, âge, sexe, profession, filiation, numéro d'identification et localisation des citoyens recensés sont publiées dans le cadre de la liste électorale informatisée (LEI).",
+        "type": "article",
+        "level": 2,
+        "order": 172,
+        "path": [
+          "livre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "livre-3",
+        "title": "LIVRE 3 : DES REGLES PARTICULIERES POUR L'ELECTION DU DUO PRESIDENT DE LA REPUBLIQUE ET VICE PRESIDENT DE LA REPUBLIQUE",
+        "type": "livre",
+        "level": 1,
+        "order": 173,
+        "path": [
+          "livre-3"
+        ],
+        "children": [
+          "article-128-",
+          "article-129-",
+          "article-130-",
+          "article-131-",
+          "article-132-ancien-",
+          "article-132-nouveau--loi-n-2024-13--",
+          "article-133-",
+          "article-134-",
+          "article-135-ancien-",
+          "article-135-",
+          "article-136-",
+          "article-137-",
+          "article-138-ancien-",
+          "article-138-",
+          "article-139-ancien-",
+          "article-139-",
+          "article-140-",
+          "article-141-",
+          "article-142-ancien-",
+          "article-142-nouveau--loi-n-2024-13--"
+        ]
+      },
+      {
+        "id": "article-128-",
+        "title": "Article 128 : Le président de la République est élu au suffrage universel direct, pour un mandat de cinq ans, renouvelable une seule fois.",
+        "type": "article",
+        "level": 2,
+        "order": 174,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-129-",
+        "title": "Article 129 : Le président de la République est élu en duo avec un vice-président de la République.",
+        "type": "article",
+        "level": 2,
+        "order": 175,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-130-",
+        "title": "Article 130 : Le duo président de la République et vice-président de la République est élu à la majorité absolue des suffrages exprimés. Si celle-ci n'est pas obtenue au 1 tour du scrutin, il est procédé à l'organisation d'un second tour.",
+        "type": "article",
+        "level": 2,
+        "order": 176,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-131-",
+        "title": "Article 131 : Le président de la République élu entre en fonction et prête serment le quatrième dimanche du mois de mai de l'année électorale.",
+        "type": "article",
+        "level": 2,
+        "order": 177,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-132-ancien-",
+        "title": "Article 132 ancien : Nul ne peut être candidat aux fonctions de président de la République ou de vice-président de la République s'il :",
+        "type": "article",
+        "level": 2,
+        "order": 178,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-132-nouveau--loi-n-2024-13--",
+        "title": "Article 132 nouveau (Loi n°2024-13) : Nul ne peut être candidat aux fonctions de président de la République ou de vice-président de la République s'il :",
+        "type": "article",
+        "level": 2,
+        "order": 179,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-133-",
+        "title": "Article 133 : Tout membre des Forces de défense et de sécurité qui désire être candidat aux fonctions de président de la République doit, au préalable, donner sa démission des Forces de défense et de sécurité.",
+        "type": "article",
+        "level": 2,
+        "order": 180,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-134-",
+        "title": "Article 134 : Sont applicables à l'élection du duo Président de la République et vice-président de la République, les dispositions concernant les conditions d'éligibilité, de propagande électorale d'opérations de vote, de dépouillement, de proclamation des résultats ainsi que celles concernant les pénalités telles que prévues par le livre 1 du présent code et par les dispositions de la Constitution.",
+        "type": "article",
+        "level": 2,
+        "order": 181,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-135-ancien-",
+        "title": "Article 135 ancien : Les dépôts de candidature sont faits cinquante (50) jours avant l'ouverture de la campagne électorale pour le 1 tour du scrutin.",
+        "type": "article",
+        "level": 2,
+        "order": 182,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-135-",
+        "title": "Article 135 : Le dépôt de candidatures aux fonctions de président de la République et de vice-président de la République est effectué cent quatre-vingts (180) jours avant la date du 1 tour du scrutin.",
+        "type": "article",
+        "level": 2,
+        "order": 183,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-136-",
+        "title": "Article 136 : En application de l'article 42 de la loi n° 91-009 du 04 mars 1991 modifiée par la loi du 31 mai 2001 portant loi organique sur la Cour Constitutionnelle, le contentieux relatif aux candidatures relève de la compétence de la Cour constitutionnelle qui dispose de cinq (05) jours pour statuer.",
+        "type": "article",
+        "level": 2,
+        "order": 184,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-137-",
+        "title": "Article 137 : Si plusieurs candidats concurrents adoptent les couleurs, les signes et/ou les sigles de nature à créer la confusion ou le doute dans l'esprit de l'électeur, la Commission électorale nationale autonome (CENA) se prononce dans un délai de deux (02) jours en accordant la priorité au candidat qui, notoirement en fait usage ou, à défaut, à celui qui a déposé le 1 sa candidature.",
+        "type": "article",
+        "level": 2,
+        "order": 185,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-138-ancien-",
+        "title": "Article 138 ancien : Le montant du cautionnement à verser par le duo candidats aux postes de président de la République et de vice-président de la République est de cinquante millions (50.000.000) de francs CFA. Ce montant est versé au Directeur général du Trésor et de la Comptabilité publique et est remboursable aux candidats ayant obtenu au moins dix pour cent (10%) des suffrages exprimés au 1 tour.",
+        "type": "article",
+        "level": 2,
+        "order": 186,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-138-",
+        "title": "Article 138 : Le montant du cautionnement à verser par le duo de candidats aux postes de président de la République et de vice-président de la République est de vingt-cinq millions (25 000 000) de francs CFA. Ce montant est versé à la Caisse des dépôts et consignations du Bénin et est remboursé aux candidats ayant obtenu au moins dix pour cent (10%) des suffrages exprimés au 1 tour, au plus tard dans les trente (30) jours suivant la proclamation définitive des résultats.",
+        "type": "article",
+        "level": 2,
+        "order": 187,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-139-ancien-",
+        "title": "Article 139 ancien : Sauf cas de force majeure ou de décès du candidat à l'élection du président de la République avant le scrutin, le remboursement du cautionnement ne peut intervenir que dans les conditions définies à l'article 135 ci-dessus.",
+        "type": "article",
+        "level": 2,
+        "order": 188,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-139-",
+        "title": "Article 139 : Sauf cas de force majeure ou de décès du candidat à l'élection du président de la République avant le scrutin, le remboursement du cautionnement ne peut intervenir que dans les conditions définies à l'article 138 ci-dessus.",
+        "type": "article",
+        "level": 2,
+        "order": 189,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-140-",
+        "title": "Article 140 : Dès la publication de la liste des candidats à l'élection du duo président de la République et vice-président de la République par la Commission électorale nationale autonome, le Gouvernement prend les dispositions nécessaires pour assurer la sécurité des candidats.",
+        "type": "article",
+        "level": 2,
+        "order": 190,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-141-",
+        "title": "Article 141 : La circonscription électorale est le territoire national, y compris les représentations diplomatiques et consulaires de la République du Bénin à l'étranger.",
+        "type": "article",
+        "level": 2,
+        "order": 191,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-142-ancien-",
+        "title": "Article 142 ancien : La Cour constitutionnelle veille à la régularité du scrutin et en constate les résultats.",
+        "type": "article",
+        "level": 2,
+        "order": 192,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-142-nouveau--loi-n-2024-13--",
+        "title": "Article 142 nouveau (Loi n°2024-13) : La Cour constitutionnelle veille à la régularité du scrutin et en constate les résultats.",
+        "type": "article",
+        "level": 2,
+        "order": 193,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "livre-4",
+        "title": "LIVRE 4 : DES REGLES PARTICULIERES POUR L’ELECTION DES MEMBRES DE L’ASSEMBLEE NATIONALE",
+        "type": "livre",
+        "level": 1,
+        "order": 194,
+        "path": [
+          "livre-4"
+        ],
+        "children": [
+          "article-143-",
+          "article-144-",
+          "article-145-",
+          "article-146-ancien-",
+          "article-146-nouveau--loi-n-2024-13--",
+          "article-147-",
+          "article-148-",
+          "article-149-",
+          "article-150-",
+          "article-151-",
+          "article-152-",
+          "article-153-",
+          "article-154-",
+          "article-155-",
+          "article-156-",
+          "article-157-",
+          "article-158-",
+          "article-159-",
+          "article-160-",
+          "article-161-",
+          "article-162-",
+          "article-163-",
+          "article-164-",
+          "article-165-",
+          "article-166-",
+          "article-167-",
+          "article-168-ancien-",
+          "article-168-nouveau--loi-n-2024-13--",
+          "article-169-",
+          "article-170-",
+          "article-171-",
+          "article-172-",
+          "article-173-ancien-",
+          "article-173-",
+          "article-174-"
+        ]
+      },
+      {
+        "id": "article-143-",
+        "title": "Article 143 : Les députés à l'Assemblée nationale sont élus au suffrage universel direct au scrutin de liste à ta représentation proportionnelle pour un mandat de cinq (05) ans.",
+        "type": "article",
+        "level": 2,
+        "order": 196,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-144-",
+        "title": "Article 144 : Le nombre de députés à l'Assemblée nationale est de cent neuf (109) dont vingt-quatre sièges exclusivement réservés aux femmes.",
+        "type": "article",
+        "level": 2,
+        "order": 197,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-145-",
+        "title": "Article 145 : Les partis politiques, désireux de prendre part aux élections législatives, présentent des listes de candidats dans toutes les circonscriptions électorales.",
+        "type": "article",
+        "level": 2,
+        "order": 198,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-146-ancien-",
+        "title": "Article 146 ancien : Seules les listes, ayant recueilli au moins 10% des suffrages valablement exprimés au plan national, sont éligibles à l'attribution des sièges.",
+        "type": "article",
+        "level": 2,
+        "order": 199,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-146-nouveau--loi-n-2024-13--",
+        "title": "Article 146 nouveau (Loi n°2024-13) : Seules sont éligibles à l'attribution des sièges, les listes, ayant recueilli au moins vingt pour cent (20%) des suffrages valablement exprimés dans chacune des circonscriptions électorales législatives.",
+        "type": "article",
+        "level": 2,
+        "order": 200,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-147-",
+        "title": "Article 147 : Les élections couplées, législatives et communales, sont organisées le deuxième dimanche du mois de janvier de l'année électorale.",
+        "type": "article",
+        "level": 2,
+        "order": 201,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-148-",
+        "title": "Article 148 : Tout membre des Forces de défense et de sécurité qui désire être candidat aux fonctions de député doit au préalable donner sa démission des Forces de défense et de sécurité.",
+        "type": "article",
+        "level": 2,
+        "order": 202,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-149-",
+        "title": "Article 149 : Lorsqu'une vacance isolée se produit par décès, démission, ou empêchement définitif, le candidat suppléant personnel est appelé par le président de l'Assemblée nationale à exercer le mandat pour le reste de sa durée.",
+        "type": "article",
+        "level": 2,
+        "order": 203,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-150-",
+        "title": "Article 150 : Lorsque, nonobstant l'appel des candidats suppléants, des vacances isolées atteignent le cinquième (5ème) du nombre des députés, il est procédé à une élection complémentaire de remplacement.",
+        "type": "article",
+        "level": 2,
+        "order": 204,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-151-",
+        "title": "Article 151 : Nul ne peut être candidat s'il n'est âgé de vingt-cinq (25) ans révolus à la date d'entrée en fonction ; si, béninois de naissance, il n'est domicilié depuis un (01) an au moins en République du Bénin si, étranger naturalisé béninois, il n'est domicilié au Bénin et n'y vit sans interruption depuis dix (10) ans au moins.",
+        "type": "article",
+        "level": 2,
+        "order": 206,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-152-",
+        "title": "Article 152 : Sont inéligibles, les personnes condamnées lorsque la condamnation comporte la déchéance de leurs droits civils et politiques.",
+        "type": "article",
+        "level": 2,
+        "order": 207,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-153-",
+        "title": "Article 153 : Est interdit l'enregistrement de la candidature d'une personne inéligible en vertu des dispositions du présent code.",
+        "type": "article",
+        "level": 2,
+        "order": 208,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-154-",
+        "title": "Article 154 : Est déchu de plein droit de la qualité de membre de l'Assemblée nationale, celui dont l'inéligibilité est relevée après la proclamation des résultats de l'élection ou qui, pendant la durée de son mandat se trouve placé dans l'un des cas d'inéligibilité prévus par la présente loi.",
+        "type": "article",
+        "level": 2,
+        "order": 209,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-155-",
+        "title": "Article 155 : Les dispositions du présent titre sont applicables aux candidats suppléants.",
+        "type": "article",
+        "level": 2,
+        "order": 210,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-156-",
+        "title": "Article 156 : Le mandat de député est incompatible avec l'exercice de tout autre mandat électif qui ne procède pas du mandat parlementaire.",
+        "type": "article",
+        "level": 2,
+        "order": 212,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-157-",
+        "title": "Article 157 : Le mandat de député n'est pas incompatible avec les missions administratives temporaires confiées par le Chef de l'Etat, avec l'accord du bureau de l'Assemblée Nationale.",
+        "type": "article",
+        "level": 2,
+        "order": 213,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-158-",
+        "title": "Article 158 : A l'exception des missions des Organisations interparlementaires, le député ne peut accepter une mission temporaire d'un Etat étranger ou d'une Organisation internationale que sur une décision du Bureau de l'Assemblée Nationale après avis consultatif du Chef de l'Etat.",
+        "type": "article",
+        "level": 2,
+        "order": 214,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-159-",
+        "title": "Article 159 : Les fonctions de membre du Gouvernement sont incompatibles avec l'exercice de tout mandat parlementaire, sous réserve du bénéfice du délai de trente (30) jours prévus par l'article 166 ci-dessous.",
+        "type": "article",
+        "level": 2,
+        "order": 215,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-160-",
+        "title": "Article 160 : Sont également incompatibles avec le mandat de député, l'exercice de tout mandat électif local, les fonctions de directeur administratif, membre de conseil de surveillance, gérant ou représentant dont les sociétés, entreprises ou établissements jouissant à titre spécial, sous forme de garantie d'intérêts, de subventions ou autres équivalents, d'avantages assurés par l'Etat ou par une collectivité publique ainsi que dans les entreprises nationales.",
+        "type": "article",
+        "level": 2,
+        "order": 216,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-161-",
+        "title": "Article 161 : Sont incompatibles avec le mandat de député, les fonctions de chef d'entreprise, de président de Conseil d'administration, d'administrateur- délégué, directeur général, directeur général adjoint et gérant exercées dans :",
+        "type": "article",
+        "level": 2,
+        "order": 217,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-162-",
+        "title": "Article 162 : Il est interdit à tout parlementaire d'accepter, en cours de mandat, une fonction de membre de Conseil d'administration ou de surveillance ou toute fonction exercée de façon permanente en qualité de Conseil dans l'un des établissements, sociétés ou entreprises visés à l'article précédent.",
+        "type": "article",
+        "level": 2,
+        "order": 218,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-163-",
+        "title": "Article 163 : Les députés même non membres d'une assemblée locale élue, peuvent exercer les fonctions de président du Conseil d'administration, d'administrateur-délégué ou de membre du Conseil d'administration des sociétés d'économie mixte, d'équipement régional ou local.",
+        "type": "article",
+        "level": 2,
+        "order": 219,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-164-",
+        "title": "Article 164 : Il est interdit à tout parlementaire de faire ou de laisser figurer son nom suivi de l'indication de sa qualité dans toute publicité relative à une entreprise financière, industrielle ou commerciale.",
+        "type": "article",
+        "level": 2,
+        "order": 220,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-165-",
+        "title": "Article 165 : Il est interdit à tout avocat investi d'un mandat parlementaire de plaider ou de consulter contre l'Etat, les collectivités et établissements publics dont les affaires civiles et commerciales.",
+        "type": "article",
+        "level": 2,
+        "order": 221,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-166-",
+        "title": "Article 166 : Sous réserve des dispositions de l'article 158 ci-dessus, le député qui lors de son élection, se trouve dans l'un des cas d'incompatibilité visés au présent titre, est tenu d'établir dans les trente (30) jours qui suivent son entrée en fonction ou sa validation, qu'il s'est démis de ses fonctions incompatibles avec son mandat. A défaut, il est déclaré démissionnaire d'office de son mandat.",
+        "type": "article",
+        "level": 2,
+        "order": 222,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-167-",
+        "title": "Article 167 :",
+        "type": "article",
+        "level": 2,
+        "order": 223,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-168-ancien-",
+        "title": "Article 168 ancien : Cinquante (50) jours avant l'ouverture de la campagne électorale, les candidats titulaires et suppléants présentent une déclaration en double exemplaire, revêtue de leurs signatures et portant engagement que tous les candidats et leurs suppléants remplissent les conditions d'éligibilité prévues au titre 2 du présent livre.",
+        "type": "article",
+        "level": 2,
+        "order": 225,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-168-nouveau--loi-n-2024-13--",
+        "title": "Article 168 nouveau (Loi n°2024-13) : La déclaration de candidature est présentée :",
+        "type": "article",
+        "level": 2,
+        "order": 226,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-169-",
+        "title": "Article 169 : A défaut de signature de la déclaration par tous les candidats de la liste, une procuration dûment certifiée par l'autorité administrative devra être produite pour les candidats n'ayant pas signé personnellement la déclaration. Cette procuration doit donner pouvoir au signataire effectif de la déclaration.",
+        "type": "article",
+        "level": 2,
+        "order": 227,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-170-",
+        "title": "Article 170 : La déclaration doit mentionner :",
+        "type": "article",
+        "level": 2,
+        "order": 228,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-171-",
+        "title": "Article 171 : Si plusieurs listes adoptent la même couleur ou le même signe, la Commission électorale nationale autonome statue dans un délai de huit (08) jours, soit en accordant la priorité du choix à la liste qui a été déposée la première, soit en accordant la couleur ou le signe à la liste qui en est traditionnellement dépositaire.",
+        "type": "article",
+        "level": 2,
+        "order": 229,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-172-",
+        "title": "Article 172 : En cas de refus d'enregistrement d'une déclaration ou en cas de contestation, les candidats ou partis peuvent se pourvoir devant la Cour Constitutionnelle qui statue sans recours dans le délai de cinq (05) jours.",
+        "type": "article",
+        "level": 2,
+        "order": 230,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-173-ancien-",
+        "title": "Article 173 ancien : Le montant du cautionnement à verser par candidat titulaire aux élections législatives est de (05%) du montant maximum autorisé pour la campagne électorale. Le cautionnement total, par liste de candidats, est versé auprès du trésorier payeur du Bénin ou auprès d'un receveur-percepteur du trésor qui transmettra au trésorier-payeur.",
+        "type": "article",
+        "level": 2,
+        "order": 231,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-173-",
+        "title": "Article 173 : Le montant de cautionnement à verser par candidat titulaire aux élections législatives est de cinq pour cent (5%) du montant maximum autorisé pour la campagne électorale. Le cautionnement total par liste de candidats, est versé à la Caisse des dépôts et consignations du Bénin. Ce cautionnement est remboursé aux partis politiques dont les listes auront recueilli dix pour cent (10%) au moins des suffrages exprimés sur l'ensemble du territoire national, au plus tard dans les trente (30) jours suivant la proclamation définitive des résultats.",
+        "type": "article",
+        "level": 2,
+        "order": 232,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-174-",
+        "title": "Article 174 : En cas de décès constaté d'un ou de plusieurs candidats avant le jour du scrutin, le remplacement du ou des candidats décédés sera autorisé.",
+        "type": "article",
+        "level": 2,
+        "order": 233,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "livre-5",
+        "title": "LIVRE 5 : DES REGLES PARTICULIERES APPLICABLES AUX ELECTIONS DES MEMBRES DES CONSEILS COMMUNAUX, A LA DESIGNATION OU A L’ELECTION DES MAIRES, DE LEURS ADJOINTS ET DES CHEFS D’ARRONDISSEMENT AINSI QU’A LA DESIGNATION DES CHEFS DE VILLAGE ET DE QUARTIER DE VILLE",
+        "type": "livre",
+        "level": 1,
+        "order": 234,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-175-",
+        "title": "Article 175 : Les dispositions du présent livre fixent les règles particulières applicables aux élections des membres des Conseils communaux.",
+        "type": "article",
+        "level": 1,
+        "order": 237,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-176-",
+        "title": "Article 176 : Les membres élus du Conseil qui administrent la commune sont dénommés Conseillers communaux. Pour les communes à statut particulier, ils sont dénommés Conseillers municipaux.",
+        "type": "article",
+        "level": 1,
+        "order": 238,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-177-",
+        "title": "Article 177 : Pour l'élection des membres du Conseil communal, la circonscription électorale est l'arrondissement.",
+        "type": "article",
+        "level": 1,
+        "order": 239,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-178-",
+        "title": "Article 178 : Les membres des Conseils communaux sont élus pour un mandat de cinq (05) ans. Ils sont rééligibles.",
+        "type": "article",
+        "level": 1,
+        "order": 240,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-179-",
+        "title": "Article 179 : Nul ne peut :",
+        "type": "article",
+        "level": 1,
+        "order": 241,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-180-",
+        "title": "Article 180 : Les candidats aux fonctions de Conseiller communal doivent savoir lire et écrire en français.",
+        "type": "article",
+        "level": 1,
+        "order": 242,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-181-",
+        "title": "Article 181 : Le Conseil communal est l'organe délibérant de la commune.",
+        "type": "article",
+        "level": 1,
+        "order": 245,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-182-",
+        "title": "Article 182 : Le Conseil communal est composé de neuf (09) membres au moins et de quarante-neuf (49) membres au plus. Le nombre de Conseillers à élire par commune varie en fonction de l'importance de la population :",
+        "type": "article",
+        "level": 1,
+        "order": 246,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-183-",
+        "title": "Article 183 : La détermination du nombre de sièges par arrondissement s'effectue sur la base d'une répartition proportionnelle au poids démographique.",
+        "type": "article",
+        "level": 1,
+        "order": 247,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-184-",
+        "title": "Article 184 : Seules les listes ayant recueilli au moins 10% des suffrages valablement exprimés au plan national, sont éligibles à l'attribution des sièges.",
+        "type": "article",
+        "level": 1,
+        "order": 248,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-185-",
+        "title": "Article 185 : En tout état de cause, chaque arrondissement dispose au minimum, d'un siège au Conseil communal ou municipal, quelle que soit sa population.",
+        "type": "article",
+        "level": 1,
+        "order": 249,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-186-",
+        "title": "Article 186 : Dans les arrondissements comptant plus d'un (01) siège, les Conseillers communaux sont élus au suffrage universel direct au scrutin de liste à un (01) tour.",
+        "type": "article",
+        "level": 1,
+        "order": 250,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-187-",
+        "title": "Article 187 :",
+        "type": "article",
+        "level": 1,
+        "order": 251,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-188-",
+        "title": "Article 188 : Dans le cadre de l'élection des membres des Conseils communaux, tout électeur est éligible à condition :",
+        "type": "article",
+        "level": 1,
+        "order": 252,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-189-ancien-",
+        "title": "Article 189 ancien : Le maire et ses adjoints sont élus par le Conseil communal en son sein, au scrutin uninominal secret et à la majorité absolue.",
+        "type": "article",
+        "level": 1,
+        "order": 255,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-189-",
+        "title": "Article 189 : Le maire et ses adjoints sont désignés par le parti ayant obtenu la majorité absolue des conseillers.",
+        "type": "article",
+        "level": 1,
+        "order": 256,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-190-ancien-",
+        "title": "Article 190 ancien : Pour chacune de ces fonctions, en cas d'absence de majorité absolue lors du 1 tour de scrutin, il est procédé, en cas d'égalité de voix, à autant de tours qu'il sera nécessaire pour que le candidat ayant obtenu le plus grand nombre de suffrages exprimés soit déclaré élu.",
+        "type": "article",
+        "level": 1,
+        "order": 257,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-190-",
+        "title": "Article 190 : A défaut de majorité absolue ou d'accord de gouvernance communale, le maire et ses adjoints sont élus par le conseil communal ou municipal au scrutin uninominal secret à la majorité absolue. En cas d'absence de majorité absolue lors du 1 tour du scrutin, il est procédé, en cas d'égalité de voix, à autant de tours qu'il sera nécessaire pour que le candidat ayant obtenu le plus grand nombre de suffrages exprimés soit élu.",
+        "type": "article",
+        "level": 1,
+        "order": 258,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-191-",
+        "title": "Article 191 :",
+        "type": "article",
+        "level": 1,
+        "order": 259,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-192-ancien-",
+        "title": "Article 192 ancien : L'élection du maire et de ses adjoints a lieu, lors de la séance d'installation du Conseil communal ou municipal, au plus tard dans les quinze (15) jours qui suivent l'annonce-des résultats de l'élection communale ou municipale, nonobstant les recours éventuels.",
+        "type": "article",
+        "level": 1,
+        "order": 260,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-192-",
+        "title": "Article 192 : En vue de leur installation, les membres du conseil communal ou municipal sont convoqués par arrêté de l'autorité de tutelle.",
+        "type": "article",
+        "level": 1,
+        "order": 261,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-193-ancien-",
+        "title": "Article 193 ancien : Les résultats de l'élection du maire et de ses adjoints sont rendus publics dans un délai-de-vingt-quatre (24) heures, par voie d'affichage à la porte de la mairie et sont communiqués, sans délai, à l'autorité de tutelle.",
+        "type": "article",
+        "level": 1,
+        "order": 262,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-193-",
+        "title": "Article 193 : La désignation ou le résultat de l'élection du maire et de ses adjoints est rendu public dans un délai de vingt-quatre (24) heures par voie d'affichage à la mairie et est communiqué sans délai à l'autorité de tutelle qui en fait le constat par arrêté préfectoral publié au Journal officiel.",
+        "type": "article",
+        "level": 1,
+        "order": 263,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-194-ancien-",
+        "title": "Article 194 ancien : Le maire et ses adjoints sont élus pour la même durée que le Conseil communal ou municipal.",
+        "type": "article",
+        "level": 1,
+        "order": 264,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-194-",
+        "title": "Article 194 : Le maire et ses adjoints sont désignés ou élus pour la même durée de mandat que celle du conseil communal ou municipal.",
+        "type": "article",
+        "level": 1,
+        "order": 265,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-195-ancien-",
+        "title": "Article 195 ancien : Le maire ou ses adjoints ayant démissionné de leurs fonctions, conserve(nt) leur mandat de Conseiller communal ou municipal sauf incompatibilité.",
+        "type": "article",
+        "level": 1,
+        "order": 266,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-195-",
+        "title": "Article 195 : En cas de désaccord grave ou de crise de confiance entre le conseil communal ou municipal et le maire ou un adjoint au maire, le conseil peut, par un vote de défiance, lui retirer sa confiance.",
+        "type": "article",
+        "level": 1,
+        "order": 267,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-196-ancien-",
+        "title": "Article 196 ancien : L'élection du maire et de ses adjoints peut être frappée de nullité. Le délai de recours pour évoquer cette nullité est de quinze (15) jours et commence à courir-vingt-quatre (24) heures-après l'élection.",
+        "type": "article",
+        "level": 1,
+        "order": 268,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-196-",
+        "title": "Article 196 : La désignation ou l'élection du maire ou de ses adjoints peut être frappée de nullité. Le délai de recours pour évoquer cette nullité est de quinze (15) jours et commence à courir vingt-quatre (24) heures après la désignation ou l'élection.",
+        "type": "article",
+        "level": 1,
+        "order": 269,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-197-ancien-",
+        "title": "Article 197 ancien : Le maire et ses adjoints, une fois élus, doivent résider-dans-la-commune.",
+        "type": "article",
+        "level": 1,
+        "order": 270,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-197-",
+        "title": "Article 197 : Le maire et ses adjoints, une fois désignés ou élus, doivent résider dans la commune.",
+        "type": "article",
+        "level": 1,
+        "order": 271,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-198-",
+        "title": "Article 198 : L'arrondissement, subdivision de la commune, est doté d'un organe dénommé Conseil d'arrondissement composé du chef d'arrondissement qui en est le président, des autres Conseillers d'arrondissement élus, des chefs de village et/ou de quartier de ville.",
+        "type": "article",
+        "level": 1,
+        "order": 274,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-199-ancien-",
+        "title": "Article 199 ancien : Le chef d'arrondissement est élu par le Conseil communal-ou-municipal parmi les Conseillers communaux-ou municipaux élus sur la liste de l'arrondissement concerné.",
+        "type": "article",
+        "level": 1,
+        "order": 275,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-199-",
+        "title": "Article 199 : Le chef d'arrondissement est désigné ou élu parmi les conseillers communaux élus sur la liste de l'arrondissement concerné.",
+        "type": "article",
+        "level": 1,
+        "order": 276,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-200-ancien-",
+        "title": "Article 200 ancien : L'élection des chefs-d ‘arrondissement se fait dans les mêmes conditions que l'élection du maire et de ses adjoints.",
+        "type": "article",
+        "level": 1,
+        "order": 277,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-200-",
+        "title": "Article 200 : La désignation, l'élection, la destitution ou le remplacement d'un chef d'arrondissement s'effectue dans les mêmes conditions que celles relatives à la désignation, l'élection, la destitution ou le remplacement du maire et des adjoints au maire.",
+        "type": "article",
+        "level": 1,
+        "order": 278,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "chapitre-4",
+        "title": "CHAPITRE 4 : DE LA DESIGNATION DES CHEFS DE VILLAGE OU DE QUARTIER DE VILLE",
+        "type": "chapitre",
+        "level": 3,
+        "order": 279,
+        "path": [
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-201-ancien-",
+        "title": "Article 201 ancien : Une loi spéciale fixe les modalités d'organisation des élections des membres des conseils de villages ou de quartiers de villes.",
+        "type": "article",
+        "level": 1,
+        "order": 281,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-201-",
+        "title": "Article 201 : Le chef d'un village ou d'un quartier de ville est désigné par le parti ayant obtenu le plus grand nombre de suffrages valablement exprimés dans ce village ou quartier de ville et éligible à l'attribution des sièges.",
+        "type": "article",
+        "level": 1,
+        "order": 282,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-201-1-",
+        "title": "Article 201-1 : Nul ne peut être désigné chef de village ou de quartier de ville :",
+        "type": "article",
+        "level": 1,
+        "order": 283,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-201-2-",
+        "title": "Article 201-2 : Le nom du chef de village ou de quartier de ville est communiqué par arrondissement à l'autorité préfectorale par le parti, dans les trente (30) jours qui suivent l'installation du conseil communal.",
+        "type": "article",
+        "level": 1,
+        "order": 284,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-201-3-",
+        "title": "Article 201-3 : Le parti politique procède dans les mêmes conditions que celles décrites à l'article 201 de la présente loi, à la désignation d'un autre chef de village ou de quartier de ville :",
+        "type": "article",
+        "level": 1,
+        "order": 285,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "livre-6",
+        "title": "LIVRE 6 : DISPOSITIONS TRANSITOIRES ET FINALES",
+        "type": "livre",
+        "level": 1,
+        "order": 286,
+        "path": [
+          "livre-6"
+        ],
+        "children": [
+          "article-202-ancien-",
+          "article-205-ancien-",
+          "article-205-",
+          "article-206-",
+          "article-207-",
+          "article-208-",
+          "article-209-",
+          "article-210-ancien-",
+          "article-210-",
+          "article-211-",
+          "article-2--loi-n-2024-13--"
+        ]
+      },
+      {
+        "id": "article-202-ancien-",
+        "title": "Article 202 ancien : Nonobstant les dispositions du présent code relatives au Conseil électoral et à la Direction générale des élections, les membres de la CENA installés le 14 juillet 2014 restent en fonction jusqu'au terme de leur mandat-le-13-juillet 2021-lls exercent avec les organes et personnels de la CENA, les attributions dévolues au Conseil électoral-et-à-la-Direction générale des élections par le présent code. Supprimé (L 2024-13)",
+        "type": "article",
+        "level": 2,
+        "order": 287,
+        "path": [
+          "livre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-205-ancien-",
+        "title": "Article 205 ancien : Tout électeur qui ne détient pas une pièce d'identification-en cours de validité, se fait délivrer une carte d'électeur par l’ANIP.",
+        "type": "article",
+        "level": 2,
+        "order": 288,
+        "path": [
+          "livre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-205-",
+        "title": "Article 205 : Tout électeur qui ne détient pas une pièce d'identification en cours de validité, se fait délivrer le certificat du numéro personnel d'identification par L'agence nationale d'identification des personnes.",
+        "type": "article",
+        "level": 2,
+        "order": 289,
+        "path": [
+          "livre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-206-",
+        "title": "Article 206 : Nonobstant les dispositions du présent code relatives à l'ANIP et au rétablissement de la LEI, les membres du Conseil d'orientation et de supervision (COS) se renouvellent et supervisent la mise à jour du fichier électoral national jusqu'à l'établissement de la LEPI avec laquelle s'organise l'élection du président de la République en 2021.",
+        "type": "article",
+        "level": 2,
+        "order": 290,
+        "path": [
+          "livre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-207-",
+        "title": "Article 207 : Les dispositions nouvelles concernant l'élection et le mandat du président de la République entrent en vigueur à l'occasion de l'élection du président de la République en 2021.",
+        "type": "article",
+        "level": 2,
+        "order": 291,
+        "path": [
+          "livre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-208-",
+        "title": "Article 208 : En vue de l'organisation des élections générales en 2026, le mandat des députés élus en 2023 a pour terme, la date d'entrée en fonction des députés élus en 2026 à 00 H.",
+        "type": "article",
+        "level": 2,
+        "order": 292,
+        "path": [
+          "livre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-209-",
+        "title": "Article 209 : En vue de l'organisation des élections générales en 2026, le mandat des conseillers communaux élus en 2020, pour terme, la date d'entrée en fonction des conseillers communaux élus en 2026 à 00 H.",
+        "type": "article",
+        "level": 2,
+        "order": 293,
+        "path": [
+          "livre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-210-ancien-",
+        "title": "Article 210 ancien : En attendant l'entrée en vigueur d'une nouvelle loi relative à l'organisation des élections locales, les membres des conseils de village ou de quartier de ville, les chefs de village ou de quartier de ville en exercice, restent en fonction jusqu'à l'élection des nouveaux membres des conseils de village ou de quartier de ville et des chefs de village ou de quartier de ville.",
+        "type": "article",
+        "level": 2,
+        "order": 294,
+        "path": [
+          "livre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-210-",
+        "title": "Article 210 : A l'entrée en vigueur de la présente loi, les chefs de village et de quartier de ville sont désignés sur la base des résultats des élections communales de 2020",
+        "type": "article",
+        "level": 2,
+        "order": 295,
+        "path": [
+          "livre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-211-",
+        "title": "Article 211 : La présente loi, qui abroge toutes dispositions antérieures contraires, notamment celles de la loi n° 2009-18 du 15 juillet 2009, de la loi n° 97-028 du 15 janvier 1999 sera publiée au Journal officiel et exécutée comme loi de l'Etat.",
+        "type": "article",
+        "level": 2,
+        "order": 296,
+        "path": [
+          "livre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-2--loi-n-2024-13--",
+        "title": "Article 2 (Loi n°2024-13) : La présente loi abroge la loi n°2020-13 du 4 juin 2020 portant interprétation et complétant la loi n°2019-43 du 15 novembre 2019 portant code électoral ainsi que toutes dispositions antérieures contraires.",
+        "type": "article",
+        "level": 2,
+        "order": 298,
+        "path": [
+          "livre-6"
+        ],
+        "children": []
+      }
+    ],
+    "totalArticles": 256
+  },
+  "source": "nationale"
+}

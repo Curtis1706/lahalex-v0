@@ -1,0 +1,2 @@
+Est puni d’une peine d’emprisonnement de trois (03) ans à cinq (05) ans et d’une amende de cinq cent mille (500.000) francs CFA à cinq millions (5.000.000) de francs CFA, le fait pour un majeur d'exercer sans violence, contrainte, menace, ni surprise une atteinte sexuelle sur la personne d'un mineur de quinze (15) ans.
+Toutefois, lorsque ces faits sont commis par un ascendant légitime, naturel ou adoptif de la victime ou par une personne ayant autorité sur elle ou encore par une personne qui a abusé de l’autorité que lui confèrent ses fonctions, la peine est celle du viol.

@@ -1,0 +1,3 @@
+Droit Les prisonniers de guerre seront soumis aux lois, règlements et ordres géné- applicable raux en vigueur dans les forces armées de la Puissance détentrice. Celle-ci sera autorisée à prendre des mesures judiciaires ou disciplinaires à l’égard de
+tout prisonnier de guerre ayant commis une infraction à ces lois, règlements ou ordres généraux. Cependant, aucune poursuite ou sanction contraires aux dispositions du présent chapitre ne sera autorisée.
+Si des lois, règlements ou ordres généraux de la Puissance détentrice décla- rent punissables des actes commis par un prisonnier de guerre alors que ces actes ne le sont pas quand ils sont commis par un membre des forces armées de la Puissance détentrice, ils ne pourront comporter que des sanc- tions disciplinaires.

@@ -1,0 +1,1 @@
+L’action en responsabilité contre le transporteur se prescrit par un (01) an à compter du jour où le passager a été débarqué ou aurait dû l’être.

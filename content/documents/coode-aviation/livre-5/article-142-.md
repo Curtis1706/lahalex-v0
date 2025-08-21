@@ -1,0 +1,1 @@
+Pour garantir une amélioration continue des niveaux de sécurité de l'aviation civile, il est établi et maintenu un programme national de sécurité de l'aviation, conforme aux exigences de l'annexe 19 à la Convention relative à l’aviation civile internationale concernant la gestion de la sécurité.

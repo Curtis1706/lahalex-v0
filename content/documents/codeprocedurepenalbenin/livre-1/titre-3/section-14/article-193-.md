@@ -1,0 +1,2 @@
+Si le juge d’instruction estime que les faits constituent un délit, il prononce également le renvoi de l’affaire devant le tribunal de première instance.
+Si l’emprisonnement est encouru, et sous réserve des dispositions de l’article 145 alinéa 1<sup>er</sup> du présent code, le prévenu arrêté demeure en état d’arrestation.

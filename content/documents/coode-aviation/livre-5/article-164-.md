@@ -1,0 +1,1 @@
+Les gestionnaires des aérodromes sont astreints à la souscription d'une police d'assurance responsabilité civile et assurance tous risques.

@@ -1,0 +1,1 @@
+La procédure suivie en matière de nationalité, et notamment la communication au ministère public des assignations, conclusions et voies de recours, est déterminée par le code de procédure civile.

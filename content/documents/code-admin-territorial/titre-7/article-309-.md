@@ -1,0 +1,1 @@
+L’autorité de tutelle est informée de la tenue des sessions du conseil de communauté dans les mêmes conditions que les conseillers communautaires.

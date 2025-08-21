@@ -1,0 +1,2 @@
+La déposition écrite des représentants diplomatiques est demandée par l’entremise du ministère en charge des affaires étrangères.
+Si la demande est agréée, cette déposition est reçue par le président de la cour d’appel ou par le magistrat qu’il aura délégué.

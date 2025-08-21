@@ -1,0 +1,2 @@
+Celui qui, au cours d’une élection, ou à l’occasion d’une élection, a acheté ou tenté d’acheter, de même que celui qui a vendu ou tenté de vendre un suffrage à un prix quelconque sont privés de leur droit de vote, d’élection et d’éligibilité pendant deux (02) ans au moins et cinq (05) ans au plus.
+Sont également condamnés chacun à une amende double de la valeur des choses reçues ou promises, le vendeur et l’acheteur du suffrage.

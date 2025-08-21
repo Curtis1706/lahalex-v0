@@ -1,0 +1,1 @@
+En cas d’urgence, le délai prévu à l'article 67 de la présente loi peut être réduit à un jour. Dès l'ouverture de la séance, le maire informe le conseil qui se prononce de manière définitive sur l’urgence et peut décider du renvoi de la discussion pour tout ou partie de l’ordre du jour à une séance ultérieure.

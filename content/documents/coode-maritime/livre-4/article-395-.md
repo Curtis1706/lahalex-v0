@@ -1,0 +1,1 @@
+Pour les voyages de croisière touristiques, les transporteurs, armateurs, compagnies de navigation ou agences de voyage délivrent à chaque passager, un billet de passage dit ‘’billet de croisière’’ qui doit énumérer, en sus des énonciations habituelles, les escales prévues et services accessoires promis au passager.

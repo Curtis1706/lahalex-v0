@@ -1,0 +1,2 @@
+Lorsque plusieurs navires appartiennent à un même armateur, les contrats d’assurance concernant ces navires s’appliquent comme si chaque navire appartient à un armateur différent.
+Les marchandises ou autres biens de l’armateur sont traités au regard de l’assureur du navire comme s’ils appartenaient à des tiers.

@@ -1,0 +1,4 @@
+Les délibérations du conseil de famille peuvent être annulées pour dol, fraude ou omission d’une formalité substantielle.
+La nullité est couverte par une nouvelle délibération confirmant la première.
+L’action en nullité peut être exercée par le tuteur, le subrogé-tuteur, les membres du conseil de famille ou par le ministère public, dans les deux (2) ans de la délibération, ainsi que par le pupille devenu majeur ou émancipé, dans les six (6) mois de sa majorité ou de son émancipation.
+Les actes accomplis en vertu d’une délibération annulée sont eux-mêmes annulables de la même manière. Le délai courra, toutefois du jour de l’acte.

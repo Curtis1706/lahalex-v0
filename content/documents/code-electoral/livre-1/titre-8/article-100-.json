@@ -1,0 +1,15 @@
+{
+  "id": "article-100-",
+  "title": "Article 100 : Pour le remboursement des frais de campagne électorale aux partis politiques, l'Etat alloue un forfait par candidat élu en ce qui concerne les élections législatives.",
+  "numero": "100 ",
+  "document": "code-electoral",
+  "path": [
+    "livre-1",
+    "titre-8"
+  ],
+  "navigation": {
+    "parent": "titre-8",
+    "previous": "article-99-",
+    "next": "article-101-"
+  }
+}

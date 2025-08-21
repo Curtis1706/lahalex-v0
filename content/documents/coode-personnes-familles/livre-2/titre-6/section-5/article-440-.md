@@ -1,0 +1,1 @@
+L’action en déchéance est portée devant le tribunal civil du domicile du mineur par un membre de la famille, par le tuteur ou par le ministère public.

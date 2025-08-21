@@ -1,0 +1,1 @@
+Pour obtenir le certificat de sécurité aéroportuaire ou l'autorisation d’exploitation visés aux articles 160 et 161 de la présente loi, le demandeur soumet à l'approbation de l'organisme national en charge de l'aviation civile, un dossier dont la liste des pièces est fixée par arrêté du ministre chargé de l'aviation civile.

@@ -1,0 +1,1 @@
+Tout capitaine ou pilote qui, alors qu’il peut le faire sans danger sérieux pour son navire, son équipage ou ses passagers, n’a pas prêté assistance à toute personne en danger de se perdre, est puni d’une amende de un million (1.000.000) à dix millions (10.000.000) de francs et d’une peine d’emprisonnement de un (01) à cinq (05) ans.

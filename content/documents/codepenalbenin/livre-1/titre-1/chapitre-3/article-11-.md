@@ -1,0 +1,1 @@
+Pour l’application du présent code, le territoire de la République du Bénin inclut les espaces maritime et aérien qui lui sont liés.

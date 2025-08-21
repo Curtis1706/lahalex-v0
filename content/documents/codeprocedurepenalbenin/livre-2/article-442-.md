@@ -1,0 +1,2 @@
+L’irrecevabilité peut être soulevée par le ministère public, le prévenu, le civilement responsable, l’assureur ou une autre partie civile.
+Le tribunal apprécie la recevabilité de la constitution de partie civile.

@@ -1,0 +1,1 @@
+La reproduction, l’exposition ou la présentation de l’image d’une personne portant des menottes ne saurait être faite et utilisée que pour illustrer la procédure judiciaire ou l’événement public au cours duquel la photographie a été prise et dans le moment et le temps que dure cette procédure judiciaire ou cet événement.

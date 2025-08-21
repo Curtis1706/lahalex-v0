@@ -1,0 +1,1 @@
+S’il y a eu destruction d’une ou de plusieurs greffes, l’emprisonnement sera de un (01) mois à trois (03) mois, à raison de chaque greffe, sans que la totalité puisse excéder deux (02) ans.

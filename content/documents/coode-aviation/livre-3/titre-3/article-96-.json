@@ -1,0 +1,15 @@
+{
+  "id": "article-96-",
+  "title": "Article 96 :",
+  "numero": "96 ",
+  "document": "coode-aviation",
+  "path": [
+    "livre-3",
+    "titre-3"
+  ],
+  "navigation": {
+    "parent": "titre-3",
+    "previous": "article-95-",
+    "next": "article-97-"
+  }
+}

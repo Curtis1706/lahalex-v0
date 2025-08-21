@@ -1,0 +1,2 @@
+Tous les ans, début octobre, les présidents de tribunaux ou les juges par eux désignés, dressent une liste préparatoire qui comprend pour les tribunaux des villes, sièges des cours d’appel, cent cinquante (150) noms et pour les autres tribunaux quarante-cinq (45) noms.
+La liste préparatoire est dressée en deux (02) exemplaires dont l’un reste déposé au greffe du tribunal et l’autre est transmis au greffe de la cour d’appel au plus tard le quinze (15) novembre.

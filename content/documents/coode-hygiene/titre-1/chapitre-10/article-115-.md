@@ -1,0 +1,1 @@
+Tout propriétaire d'animal de compagnie est tenu de le faire vacciner régulièrement par les services compétents, suivant le calendrier vaccinal.

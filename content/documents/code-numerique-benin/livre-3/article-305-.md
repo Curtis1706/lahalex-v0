@@ -1,0 +1,2 @@
+Liberté d’établissement
+Sous réserve des régimes d’autorisation établis par les autorités publiques compétentes pour des motifs d’ordre public, de protection de la santé publique, de sécurité publique ou de protection des consommateurs, l’accès à l’activité de prestataire de services de confiance et l’exercice de celle-ci ne peuvent être soumis à un régime d’autorisation préalable ni à aucune autre exigence ayant un effet équivalent.

@@ -1,0 +1,4 @@
+Les coupables d’enlèvement, de recel ou de suppression d’un enfant, de substitution d’un enfant à un autre ou de supposition d’un enfant à une femme qui ne sera pas accouchée, sont punis de la réclusion criminelle à temps de cinq (05) ans à dix (10) ans.
+S’il n’est pas établi que l’enfant a vécu, la peine est de un (01) an à cinq (05) ans d’emprisonnement.
+S’il est établi que l’enfant n’a pas vécu, la peine est de un (01) mois à deux (02) ans d’emprisonnement.
+Sont punis de la réclusion criminelle à temps de cinq (05) ans à dix (10) ans ceux qui, étant chargés d’un enfant, ne le représenteront point aux personnes qui ont droit de le réclamer.

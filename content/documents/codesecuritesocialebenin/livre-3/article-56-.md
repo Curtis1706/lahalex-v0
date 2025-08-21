@@ -1,0 +1,1 @@
+La victime d’un accident du travail doit informer ou faire informer son employeur dans un délai de 24 heures sauf cas de force majeur, d’impossibilité absolue ou de motif légitime. La même obligation incombe aux ayants droit de l’assuré en cas de décès.

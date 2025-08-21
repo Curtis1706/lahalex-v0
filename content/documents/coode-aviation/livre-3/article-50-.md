@@ -1,0 +1,2 @@
+La saisie conservatoire est réalisée au profit d'un créancier.
+Le droit de rétention sur les aéronefs, sans le consentement de l'exploitant, est assimilé à la saisie conservatoire et son exercice est soumis au régime prévu par la législation en vigueur en République du Bénin.

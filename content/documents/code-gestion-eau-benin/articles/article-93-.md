@@ -1,0 +1,2 @@
+Article 93 : Pendant une durée de trois (03) ans au plus à compter de la promulgation de la présente loi, le ministre peut, par arrêté, soumettre certains ouvrages, installations, travaux et activités déjà existants à des prescriptions qu’il détermine.
+Les propriétaires, exploitants ou personnes concernés doivent satisfaire aux obligations qui leur sont ainsi imposées dans un délai de six (06) mois à compter de la date de prise de l’arrêté.

@@ -1,0 +1,5 @@
+Interdiction de la prospection directe
+Est interdite la prospection directe au moyen de systèmes automatisés de communications électroniques, de réseaux, services et/ou terminaux de communications électroniques, télécopieurs, courriers électroniques ou SMS utilisant les données à caractère personnel d'un utilisateur qui n'a pas préalablement exprimé son consentement à recevoir des prospections directes par ces moyens.
+Pour l'application du présent article, les appels et messages ayant pour objet d'inciter l'utilisateur à appeler un numéro surtaxé ou à envoyer un message textuel surtaxé relèvent de la prospection directe.
+Pour les besoins du présent article, on entend par consentement toute manifestation de volonté libre, spécifique et informée par laquelle une personne accepte que des données à caractère personnel la concernant soient utilisées à des fins de prospection directe. L'absence de réponse ne peut pas être considérée comme un consentement.
+La charge de la preuve du consentement du destinataire de la prospection directe incombe à la personne physique ou morale à l'origine de la prospection.

@@ -1,0 +1,1 @@
+Après avoir prononcé le jugement ou l'arrêt, le président, s'il y a lieu, avertit l'accusé de la faculté qui lui est accordée d'interjeter appel dans un délai de quinze (15) jours ou de se pourvoir en cassation et lui fait connaître le délai de ce recours.

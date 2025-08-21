@@ -1,0 +1,2 @@
+Sans préjudice de peines plus fortes s’il y a lieu, est puni des peines prévues par le droit commun ou toutes autres dispositions pénales en vigueur, le fait de détruire, de détourner ou de tenter de détruire ou de détourner un aéronef ou des pièces de rechange grevées d'une hypothèque régulièrement inscrite.
+Sont punies des mêmes peines, toutes manœuvres frauduleuses destinées à priver le créancier de sa garantie.

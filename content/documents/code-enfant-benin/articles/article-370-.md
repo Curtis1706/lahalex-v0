@@ -1,0 +1,2 @@
+Article 370 : Est punie d’un emprisonnement de six (06) mois à deux (02) ans et d’une amende de cinq cent mille (500 000) à un million (1 000 000) de francs CFA, toute personne qui met en circulation, projette ou fait projeter dans un lieu public ou ouvert au public des films interdits aux enfants.
+Les peines ainsi fixées sont portées au double si les enfants sont admis dans ces lieux.

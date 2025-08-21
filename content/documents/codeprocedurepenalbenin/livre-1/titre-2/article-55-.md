@@ -1,0 +1,2 @@
+L’officier de police judiciaire peut défendre à toute personne de s’éloigner du lieu de l’infraction jusqu’à la clôture de ses opérations.
+Toute personne dont il apparaît nécessaire, au cours des recherches judiciaires, d’établir ou de vérifier l’identité doit, à la demande de l’officier de police judiciaire ou de l’un des agents énumérés à l’article 25 se prêter aux opérations qu’exige cette mesure.

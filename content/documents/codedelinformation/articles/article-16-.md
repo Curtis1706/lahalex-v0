@@ -1,0 +1,2 @@
+Une personne physique ou une personne morale privée ne peut détenir à la fois plus d’un organe de même catégorie.
+Toutefois, une personne physique ou une personne morale privée peut détenir plusieurs organes thématiques ou plusieurs organes de catégories différentes.

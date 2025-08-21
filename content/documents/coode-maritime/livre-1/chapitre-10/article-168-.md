@@ -1,0 +1,1 @@
+Si, au jour fixé pour la vente, il n’y a pas d’offre, le tribunal détermine par jugement le jour où les enchères ont lieu, et la nouvelle mise à prix, inférieure à la première.

@@ -1,0 +1,31 @@
+Attributions de l’Autorité de régulation
+L’Autorité de régulation a pour attributions, entre autres :
+- de contribuer à l’élaboration, à la demande du Ministre chargé des communications électroniques ou sur son initiative :
+- des propositions visant à adapter le cadre juridique, économique et sécuritaire dans lequel s'exercent les activités de communications électroniques ;
+- des projets de lois, de décrets et d’arrêtés relatifs au régime des activités des différents opérateurs intervenant dans le secteur des communications électroniques ;
+- de préparer, à la demande du Ministère en charge des communications électroniques, les cahiers des charges assortis aux licences ;
+- d’instruire, à la demande du Ministère en charge des communications électroniques, les demandes de licences et de donner son avis, positif ou négatif, sur les demandes de licences ;
+- de proposer et d’instruire, à la demande du Ministère en charge des communications électroniques, les procédures d’attribution de licences par appel à la concurrence ;
+- d’instruire les demandes d’autorisation qui lui sont présentées et, le cas échéant, de les délivrer ;
+- de préparer les cahiers des charges fixant les droits et obligations des titulaires d’autorisation et de les adapter à l’évolution du secteur ;
+- de recevoir les déclarations préalables pour les activités de communications électroniques ne relevant pas du régime des licences ou des autorisations ;
+- de préparer les conditions d’établissement et d’exploitation que doivent respecter les exploitants de réseaux de communications électroniques et les fournisseurs de services de communications électroniques soumis au régime de la déclaration et de les adapter à l’évolution du secteur. Ces spécifications et règles ne sont opposables aux tiers qu’après leur publication au Journal officiel ;
+- de fixer les spécifications techniques et administratives d’agrément des équipements terminaux et des installations radioélectriques ;
+- d’apporter son appui à la mise en œuvre de la politique de développement du service universel des communications électroniques conformément aux dispositions du présent code ;
+- de participer, aux côtés du Ministre chargé des communications électroniques, aux réunions internationales traitant de la gestion du spectre des fréquences radioélectriques et de la réglementation des communications électroniques, ainsi que de participer aux travaux des organismes nationaux ou étrangers ayant pour objet l’étude et l’amélioration de la réglementation et de la gestion des communications électroniques ;
+- d’assurer le respect des dispositions légales et règlementaires applicables par les opérateurs titulaires de licences et d’autorisation, par les opérateurs soumis au régime de la déclaration et par les titulaires d’agrément ;
+- d’assurer le suivi du respect :
+- des termes des licences et des autorisations ainsi que des cahiers des charges associés à ces licences et autorisations ;
+- des conditions d’établissement et d’exploitation par les opérateurs titulaires de licences et d’autorisation et par les opérateurs soumis au régime de la déclaration ;
+- des spécifications techniques et administratives des titulaires d’agrément des équipements terminaux et des installations radioélectriques ;
+- de veiller au respect des règles de libre concurrence, et en particulier de veiller au respect de la concurrence loyale dans   le   secteur   des   communications   électroniques   et   de   trancher   les   litiges   afférents   aux   pratiques anticoncurrentielles;
+- d’assurer la veille technologique du secteur des communications électroniques ;
+- de mettre en place les procédures rapides, transparentes et non discriminatoires des règlements de différends ;
+- de gérer et de surveiller, dans le respect des contraintes liées à la sécurité publique et à la défense nationale, les ressources rares, et notamment les ressources en fréquences, les ressources en numérotation et les noms de domaine ;
+- de tenir à jour l’ensemble des documents relatifs à l’emploi des fréquences.  A cet effet, l’ensemble des administrations et autorités affectataires lui transmettent les données nécessaires, dans le respect des dispositions relatives à la protection du secret-défense ;
+- de coordonner les assignations de fréquences dans les bandes en partage et d’être informée des projets d’assignation de nouvelles fréquences dans les bandes exclusives avec dérogation sur lesquelles elle peut émettre un avis ;
+- de procéder à  la  notification  des  assignations  nationales  au  fichier  international des  fréquences  de  l’Union Internationale des Télécommunications dont elle est, pour ce domaine, l’interlocuteur unique ;
+- d’assurer les fonctions de bureau centralisateur prévu par le Règlement des Radiocommunications de l’Union Internationale des Télécommunications ;
+- d’assurer la coordination internationale des fréquences aux frontières et de celle des systèmes de communications électroniques par satellites ;
+- d’établir, en liaison avec l’ensemble des affectataires, le plan national d’attribution des bandes de fréquences radioélectriques ;
+- d’organiser et de coordonner le contrôle de l’utilisation des fréquences, sans préjudice des compétences de contrôles spécifiques exercées par les administrations et les autorités affectataires. Elle peut être saisie, par ces dernières ou par des tiers, des cas de brouillage qu’elle instruit. Elle transmet son rapport d’instruction à l’administration ou à l’autorité affectataire concernée.

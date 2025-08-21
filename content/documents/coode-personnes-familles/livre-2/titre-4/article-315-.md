@@ -1,0 +1,4 @@
+A défaut de titre et de possession constante, ou si l’enfant a été inscrit, soit sous de faux noms, soit né de mère inconnue ou d’une femme qui conteste être sa mère, la preuve de la filiation maternelle peut se faire par témoins.
+Cette preuve ne peut être admise que lorsqu’il y a commencement de preuve par écrit, ou lorsque les présomptions ou indices résultant de faits constants sont assez graves pour en déterminer l’admission.
+Le commencement de preuve par écrit résulte des titres de famille, des registres et papiers domestiques, des actes publics ou même privés émanés d’une partie engagée dans la contestation ou qui y aurait eu intérêt si elle était encore vivante
+La preuve contraire peut se faire par tous les moyens propres à établir que le réclamant n’est pas l’enfant de la mère qu’il prétend avoir ou, même la maternité prouvée, qu’il n’est pas l’enfant du mari de la mère.

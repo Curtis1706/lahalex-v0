@@ -1,0 +1,1 @@
+Pour l’exercice des compétences visées au présent chapitre, l’Etat transfère, aux communes concernées, les ressources nécessaires.

@@ -1,0 +1,1 @@
+Le programme national de sécurité de l'aviation civile de la République du Bénin est défini par voie réglementaire. Il établit la politique, les objectifs et les ressources en matière de sécurité, la gestion des risques de sécurité et la promotion de la sécurité de l’Etat béninois.

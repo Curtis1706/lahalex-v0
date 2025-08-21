@@ -1,0 +1,2 @@
+Le secrétaire exécutif peut déléguer son pouvoir d'ordonnateur en cas d’absence ou d'empêchement à un responsable administratif et/ou technique.
+Les responsables des établissements publics locaux peuvent déléguer leurs pouvoirs dans les conditions prévues par les lois et règlements régissant les établissements publics.

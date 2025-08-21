@@ -1,0 +1,18 @@
+{
+  "id": "article-34-",
+  "title": "Article 34 :",
+  "numero": "34 ",
+  "document": "code-general-impots-2025",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-1",
+    "section-2",
+    "paragraphe-7"
+  ],
+  "navigation": {
+    "parent": "paragraphe-7",
+    "previous": "article-33-",
+    "next": "article-35-"
+  }
+}

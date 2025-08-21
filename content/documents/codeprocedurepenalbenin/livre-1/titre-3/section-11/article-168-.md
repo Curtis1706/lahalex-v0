@@ -1,0 +1,3 @@
+Les magistrats ou officiers de police judiciaire commis pour l’exécution exercent, dans les limites de la commission rogatoire tous les pouvoirs du juge d’instruction.
+Le juge d’instruction commis rogatoirement peut décerner mandat de comparution et d’amener.
+Toutefois, les officiers de police judiciaire ne peuvent procéder aux interrogatoires et confrontations de l’inculpé. Ils ne peuvent procéder aux auditions de la partie civile qu’avec le consentement de celle-ci.

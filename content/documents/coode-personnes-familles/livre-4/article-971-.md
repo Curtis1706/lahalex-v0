@@ -1,0 +1,2 @@
+En matière d’état et de capacité des personnes, la reconnaissance ou la force exécutoire peut être refusée, si la juridiction étrangère a tranché une question d’état ou de capacité d’un Béninois et a abouti à un résultat différent de celui qui aurait été obtenu par application à cette question des règles de conflit des lois béninoises.
+Ce motif de refus ne peut être soulevé d’office et doit être expressément invoqué par la partie béninoise.

@@ -1,0 +1,15 @@
+{
+  "id": "article-242-",
+  "title": "Article 242 :",
+  "numero": "242 ",
+  "document": "codeprocedurepenalbenin",
+  "path": [
+    "livre-1",
+    "titre-3"
+  ],
+  "navigation": {
+    "parent": "titre-3",
+    "previous": "article-241-",
+    "next": "article-243-"
+  }
+}

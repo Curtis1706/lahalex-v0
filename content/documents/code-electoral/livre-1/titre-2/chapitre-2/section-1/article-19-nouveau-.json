@@ -1,0 +1,17 @@
+{
+  "id": "article-19-nouveau-",
+  "title": "Article 19 nouveau : Le Conseil électoral :",
+  "numero": "19 nouveau ",
+  "document": "code-electoral",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "chapitre-2",
+    "section-1"
+  ],
+  "navigation": {
+    "parent": "section-1",
+    "previous": "article-19-ancien-",
+    "next": "article-20-"
+  }
+}

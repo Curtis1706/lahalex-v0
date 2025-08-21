@@ -1,0 +1,1 @@
+Sauf cas de force majeure ou de décès du candidat à l'élection du président de la République avant le scrutin, le remboursement du cautionnement ne peut intervenir que dans les conditions définies à l'article 138 ci-dessus.

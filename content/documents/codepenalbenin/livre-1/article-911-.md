@@ -1,0 +1,3 @@
+Les fumiers provenant des écuries, étables, bouveries, bergeries, porcheries, élevage de volaille ou de petits animaux sont évacués aussi souvent qu’il est nécessaire. Leurs dépôts ne doivent en aucun cas être établis sur les terrains compris dans le périmètre de protection des sources et des captages d’eau à proximité du rivage maritime, à moins de mille (1000) mètres des aqueducs utilisés pour le transport des eaux potables à moins de cinquante (50) mètres des puits et citernes.
+Des mesures appropriées sont prises pour empêcher la prolifération des insectes.
+Tout dépôt de fumier, quelle que soit l’importance sera détruit s’il est reconnu susceptible de nuire à la santé publique.

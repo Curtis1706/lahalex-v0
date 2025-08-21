@@ -1,0 +1,2 @@
+Toute denrée alimentaire suspecte destinée au public fait l'objet d'une déclaration aux services techniques compétents en vue de son analyse ou de sa destruction, conformément à la réglementation en vigueur en la matière.
+Les frais d'analyse, de destruction et autres charges afférentes, sont intégralement à la charge du propriétaire de la denrée.

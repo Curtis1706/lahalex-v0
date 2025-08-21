@@ -1,0 +1,3 @@
+La chambre de l’instruction peut, dans tous les cas, à la demande du procureur général, d’une des parties ou même d’office, ordonner tout acte d’information complémentaire qu’elle juge utile.
+Saisie d’une procédure de crime flagrant dans les conditions prévues à l’article 71 du présent code, elle fait procéder à une enquête sur la personnalité de l’inculpé, et sur sa situation matérielle, familiale ou sociale.
+La chambre des libertés et de la détention peut, dans tous les cas, le ministère public entendu, prononcer d’office la mise en liberté de l’inculpé.

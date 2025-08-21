@@ -1,0 +1,4 @@
+Quiconque a, à dessein, brisé ou tenté de briser des scellés apposés sur les papiers ou effets de personne visée à l’article précédent, ou participé au bris de scellés ou à la tentative de bris de scellés, est puni d’un emprisonnement de un (01) an à trois (03) ans.
+Si c’est le gardien lui-même qui a brisé les scellés ou participé au bris des scellés, il est puni d’un emprisonnement de deux (02) ans à cinq (05) ans.
+Dans l’un et l’autre cas, le coupable est condamné à une amende de cinquante mille (50.000) francs CFA à deux cent cinquante mille (250.000) francs CFA.
+Il peut en outre être privé des droits mentionnés à l’article 38 du présent code pendant cinq ans au moins et dix (10) ans au plus à compter du jour où il aura subi sa peine.

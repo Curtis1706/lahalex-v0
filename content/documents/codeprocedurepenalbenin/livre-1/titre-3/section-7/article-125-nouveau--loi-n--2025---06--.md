@@ -1,0 +1,7 @@
+Lors de la première comparution, le juge d’instruction constate l'identité du mis en cause et l’informe de son droit de choisir un avocat parmi ceux inscrits au Barreau. Mention de cette formalité est faite au procès-verbal.
+Si l’avocat choisi est présent, il assiste immédiatement le mis en cause.
+Le juge d'instruction fait ensuite connaître expressément au mis en cause, chacun des faits qui lui sont imputés. Il l'avertit de son droit de ne faire aucune déclaration.
+Si l'inculpé désire faire des déclarations, celles-ci sont immédiatement reçues par le juge d'instruction, qui peut décider de procéder à son interrogatoire.
+En matière criminelle, si l'inculpé n'a pas constitué avocat mais exprime, sur interpellation du juge d'instruction, le besoin d’être assisté, le juge d'instruction saisit le bâtonnier qui lui en commet un d’office. Lorsqu'une liste des avocats qui peuvent être commis d'office est établie par le bâtonnier, le juge d'instruction désigne d'office un avocat sur cette liste. L’avocat de l'inculpé l’assiste à tous les actes de la procédure aussi bien pendant la phase d’instruction que pendant celle de jugement.
+La partie civile a également le droit de se faire assister d'un avocat dès sa première audition.
+Lors de la première comparution, le juge avertit l'inculpé qu’il doit l’informer de tous ses changements d’adresse ; l’inculpé peut en outre faire élection de domicile dans la localité où siège le tribunal.

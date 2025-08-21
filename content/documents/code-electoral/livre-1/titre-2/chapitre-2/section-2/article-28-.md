@@ -1,0 +1,1 @@
+Les sessions du Conseil électoral sont convoquées par le Président ou, en cas d'empêchement de ce dernier, par le rapporteur.

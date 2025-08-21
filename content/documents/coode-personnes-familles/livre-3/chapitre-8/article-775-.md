@@ -1,0 +1,1 @@
+Si parmi les successibles se trouve un enfant simplement conçu, le partage est suspendu jusqu’à la naissance.

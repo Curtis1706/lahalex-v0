@@ -1,0 +1,1 @@
+Est interdite, en période de précampagne et de campagne électorale, l’organisation en séries ou non d’émissions susceptibles d’être assimilées à la propagande politique.

@@ -1,0 +1,1 @@
+La présomption de paternité retrouve de plein droit sa force si l’enfant, à l’égard des époux a la possession d’état d'enfant légitime.

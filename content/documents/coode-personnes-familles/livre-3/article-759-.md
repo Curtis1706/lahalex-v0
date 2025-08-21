@@ -1,0 +1,2 @@
+Chaque indivisaire peut user et jouir des biens indivis conformément à leur destination, dans la mesure compatible avec le droit des autres indivisaires et avec les actes valablement passés par le gérant.
+Le droit privatif de chaque indivisaire est réglé, sauf convention contraire, par une décision des indivisaires prise à la majorité en nombre et en parts indivises, à défaut, par le président du tribunal statuant en référé.

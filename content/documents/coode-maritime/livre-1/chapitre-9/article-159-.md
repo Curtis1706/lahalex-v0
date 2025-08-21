@@ -1,0 +1,1 @@
+2 est procédé à la saisie conservatoire dans les formes prescrites ci-dessous pour la saisie-exécution.

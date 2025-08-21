@@ -1,0 +1,1 @@
+Est privé de tout droit aux prestations de survivants, le veuf, la veuve ou l’orphelin convaincu par décision de justice d’avoir pris une part quelconque dans le décès de l’assuré.

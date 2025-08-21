@@ -1,0 +1,6 @@
+Tout officier de police judiciaire en service dans une unité des forces de sécurité publique fait l’objet, de la part du procureur de la République de son ressort, d’une appréciation exprimant sa valeur professionnelle dans l’exercice de ses fonctions d’officier de police judiciaire. Cette appréciation est suivie d’une note chiffrée prise en compte pour moitié dans la note finale de l’intéressé.
+Toute note en dessous de la moyenne doit être accompagnée d’un rapport écrit du procureur de la République. Celle supérieure ou égale à huit sur dix (8/10) doit être justifiée par une observation écrite.
+A cet effet, l’officier de police judiciaire adresse, par voie hiérarchique, au procureur de la République, son bulletin annuel de note au plus tard le 30 novembre.
+La notation est établie par le procureur général après consultation, le cas échéant, du président de la chambre de l’instruction.
+La notation, par le procureur général de l’officier de police judiciaire habilité, est prise en compte pour toute décision d’avancement.
+Le procureur de la République établit chaque année et transmet au procureur général, pour chacun des fonctionnaires visés au présent article et exerçant dans son ressort, une proposition de notation.

@@ -1,0 +1,1 @@
+L’adoption plénière est irrévocable.

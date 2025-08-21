@@ -1,0 +1,3 @@
+L’action prévue à l'article précédent est admise contre tout acte qui a pour objet de faire cesser l'indivision entre cohéritiers, encore qu’il fût qualifié de vente, d’échange, de transaction ou de toute autre manière.
+Mais, après le partage ou l’acte qui en tient lieu, cette action n’est plus admissible contre la transaction faite sur les difficultés réelles que présentait le 1 acte, même quand il n’y aurait pas eu à ce sujet de procès commencé.
+Cette action se prescrit dans le délai prévu par les textes relatifs aux obligations civiles et commerciales.

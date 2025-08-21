@@ -1,0 +1,5 @@
+Les docteurs en médecine ou spécialistes, les agents et officiers de santé et les pharmaciens qui auront traité une personne pendant la maladie dont elle meurt, ne pourront profiter des dispositions entre vifs ou testamentaires qu’elle aurait faites en leur faveur pendant le cours de cette maladie.
+Sont exceptées :
+- les dispositions rémunératoires faites à titre particulier, eu égard aux facultés du disposant et aux services rendus ;
+- les dispositions universelles dans le cas de parenté jusqu’au quatrième degré inclusivement, pourvu toutefois que le décédé n’ait pas d’héritiers en ligne directe ou que celui au profit de qui la disposition a été faite ne soit pas lui-même du nombre de ces héritiers.
+Les mêmes dispositions seront observées à l’égard des ministres du culte et des tradi- praticiens agréés.

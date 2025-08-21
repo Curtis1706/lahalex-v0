@@ -1,0 +1,16 @@
+{
+  "id": "article-34-",
+  "title": "Article 34 : Les peines criminelles encourues par les personnes physiques sont :",
+  "numero": "34 ",
+  "document": "codepenalbenin",
+  "path": [
+    "livre-1",
+    "section-1",
+    "paragraphe-1"
+  ],
+  "navigation": {
+    "parent": "paragraphe-1",
+    "previous": "article-33-",
+    "next": "article-35-"
+  }
+}

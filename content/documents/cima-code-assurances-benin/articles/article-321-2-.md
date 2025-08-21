@@ -1,0 +1,4 @@
+Article 321-2 : Conseil de Surveillance
+Lorsque, conformément aux dispositions de l’article 321 c), un administrateur provisoire est désigné auprès d’une entreprise soumise au contrôle de la Commission en vertu des articles 300 et 309, un Conseil de Surveillance est mis en place par le Ministre en charge des assurances. Il est composé du Directeur des Assurances ou de son représentant, de l’Agent judiciaire de l’État ou de son représentant et d’un représentant de l’Agence Nationale de la Banque Centrale. Il est présidé par le Directeur des Assurances ou son représentant.
+Il exerce un contrôle permanent de la gestion de l’entreprise et doit notamment être avisé, préalablement à leur exécution de toutes les décisions prises par l’administrateur provisoire.
+Le Conseil de Surveillance approuve les états financiers arrêtés par l’administrateur provisoire ainsi que le rapport de gestion établi par les commissaires aux comptes.

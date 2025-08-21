@@ -1,0 +1,1 @@
+Une expertise maritime peut être demandée par le propriétaire du navire, l’affréteur, le propriétaire de la cargaison, l’assureur ou par toute autre partie intéressée.

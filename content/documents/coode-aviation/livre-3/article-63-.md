@@ -1,0 +1,5 @@
+L'utilisation des aéronefs sur les aires de mouvement des aérodromes et en vol se fait conformément à la réglementation de la circulation aérienne.
+La réglementation de la circulation aérienne ainsi que les attributions et le rôle des services civils de la circulation aérienne sont fixés par voie réglementaire.
+La réglementation de la circulation aérienne est applicable dans l'espace aérien placé sous le contrôle de l'organisme ou des organismes de la circulation aérienne situés sur le territoire de la République du Bénin.
+En dehors de l'espace aérien défini au présent article, elle s'impose aux aéronefs portant les marques de nationalité béninoise dans la mesure où elle est compatible avec les règles édictées par l’Etat béninois ou l'organisme international dont relève la gestion de l'espace aérien où se trouvent les aéronefs.
+Au-dessus de la haute mer, les règles applicables sont celles établies par les dispositions de l'annexe 2 à la Convention relative à l'aviation civile internationale et aucune dérogation n'est autorisée.

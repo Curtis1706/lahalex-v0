@@ -1,0 +1,1 @@
+Est puni de la réclusion criminelle à temps de cinq (05) ans à dix (10) ans et d’une amende de cinquante millions (50.000.000) à cent millions (100.000.000) de francs CFA, quiconque exige de prendre le contrôle d’une installation nucléaire par la menace, dans des circonstances qui la rendent crédible ou par la force.

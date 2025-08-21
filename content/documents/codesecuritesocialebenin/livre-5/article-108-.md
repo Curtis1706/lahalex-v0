@@ -1,0 +1,1 @@
+En dehors des cas prévus aux articles 101 et 104, les cotisations versées au titre de la présente loi ne sont pas remboursables.

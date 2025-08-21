@@ -1,0 +1,2 @@
+Exception au devoir de discrétion
+Les informaticiens appelés, soit à donner les renseignements à l'Autorité, soit à témoigner devant elle sont déliés autant que de besoin de leur obligation de discrétion.

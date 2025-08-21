@@ -1,0 +1,3 @@
+Article 335 : Couverture - Localisation - Congruence
+Les engagements réglementés tels que définis à l’article 334 doivent, à toute époque, être représentés par des actifs équivalents, placés et localisés sur le territoire de l’Etat membre sur lequel les risques ont été souscrits.
+Toutefois, dans une quotité maximale de 50 % des actifs représentatifs des engagements réglementés, les actifs placés et localisés dans d’autres Etats membres de la CIMA sont admis.

@@ -1,0 +1,3 @@
+Il est créé sur toute l’étendue du territoire de la République du Bénin, une redevance d’autorisation et une redevance annuelle sur les publicités ou les indications faites à l’aide d’affiche, telles que définies par les textes en vigueur.
+La redevance d’autorisation est unique pour les affiches ayant la même dénomination et le même bénéficiaire.
+La taxe annuelle est payable sur chaque face d’affiche.

@@ -1,0 +1,1 @@
+Sauf dispositions contraires, les peines prononcées pour une contravention se prescrivent par un (01) an révolu à compter de la date à laquelle la décision de condamnation est devenue définitive.

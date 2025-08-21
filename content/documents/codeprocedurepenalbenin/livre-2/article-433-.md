@@ -1,0 +1,1 @@
+Le prévenu qui comparaît a la faculté de se faire assister par un avocat.

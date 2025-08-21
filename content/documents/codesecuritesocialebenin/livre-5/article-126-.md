@@ -1,0 +1,1 @@
+Après la notification d’une décision d’attribution de toutes prestations, le bénéficiaire dispose d’un délai de trois mois à partir de la date de la réception pour formuler sa réclamation ; passé ce délai toute action du requérant est irrecevable.

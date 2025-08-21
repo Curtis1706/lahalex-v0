@@ -1,0 +1,6 @@
+Modifié par la loi de finances pour 2024
+1) Le défaut de production dans les délais prescrits d’une déclaration ou d’un acte comportant indication d’éléments à retenir pour l’assiette ou la liquidation d’un quelconque impôt entraîne l’application d’une pénalité de retard de 20 % sur le montant des droits mis à la charge du contribuable ou résultant de la déclaration ou de l’acte souscrit tardivement.
+Cette pénalité est également applicable au contribuable qui n’a pas fourni à l’appui de sa déclaration, les documents dont la production est exigée par les articles 50 et 66 du présent Code ou a fourni des renseignements inexacts ou incomplets.
+2) Lorsque la déclaration ou l’acte n’a pas été déposé dans les trente (30) jours
+suivant la réception d’une mise en demeure, ou lorsque le contribuable n’a pas déposé les déclarations ou documents exigés, deux (2) mois après la date de dépôt, la pénalité passe à 40% du montant des droits résultant de la déclaration.
+3) La pénalité prévue au présent article est réputée intégrer les intérêts de retard.

@@ -1,0 +1,2 @@
+Article 307 : Appel des ordonnances du juge des mineurs
+Il peut être interjeté appel des ordonnances prévues aux articles 306 et 308 alinéa 1er de la présente loi, dans les formes ordinaires. Il y est statué par la chambre des mineurs de la cour d’appel.

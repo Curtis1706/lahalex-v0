@@ -1,0 +1,2 @@
+Le dispositif de l’arrêt ou du jugement qui prononce le divorce est mentionné en marge de l’acte de mariage et des actes de naissance des époux ainsi que sur les transcriptions éventuelles. Si le mariage a été célébré à l’étranger, le dispositif du jugement ou de l’arrêt est en outre transcrit sur le registre des mariages de la commune de Cotonou.
+Extrait de la décision prononçant le divorce doit être publié dans un journal d’annonces légales lorsque l’un des époux exerce une activité commerciale.

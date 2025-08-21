@@ -1,0 +1,5 @@
+Le marin est payé de ses salaires et soigné aux frais du navire s’il est blessé au service du navire ou s’il tombe malade durant son embarquement.
+En cas de décès pendant l’embarquement, les frais funéraires sont à la charge de l’armateur.
+Le marin débarqué pour cause d’accident ou de maladie à l’étranger conserve à l’égard du navire les droits aux soins et aux salaires jusqu’au jour de son rapatriement, quelle que soit l’origine de la blessure ou de la maladie, sous réserve des dispositions de l’article 266 ci-dessous.
+Le marin blessé ou malade débarqué au port d’attache du navire est soumis au régime général des accidents de travail et des victimes de maladies professionnelles.
+Tout accident, ou maladie, constaté en cours d’embarquement fait l’objet d’un rapport détaillé établi par le capitaine.

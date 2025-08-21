@@ -1,0 +1,2 @@
+Article 37 : En cas de pollution accidentelle de l’eau, les personnes publiques intervenues matériellement ou financièrement ont droit au remboursement, par la ou les personnes à qui incombe la responsabilité de l’accident, des dépenses effectuées pour atténuer ou éviter l’aggravation des dommages.
+Le remboursement des sommes dues s’effectue sans préjudice de la réparation des autres dommages.

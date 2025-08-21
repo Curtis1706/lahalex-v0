@@ -1,0 +1,2 @@
+Le juge d’instruction doit convoquer les parties intéressées et leur donner connaissance des conclusions des experts dans les formes prévues aux articles 128 et 129 du présent code ; il reçoit leurs déclarations et leur fixe le délai dans lequel elles auront la faculté de présenter des observations ou de formuler des demandes, notamment aux fins de complément d’expertise ou de contre-expertise.
+En cas de rejet de ces demandes, le juge d’instruction doit rendre une ordonnance motivée.

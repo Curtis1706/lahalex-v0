@@ -1,0 +1,1 @@
+L’affiche faite pour le compte de l’Etat et des collectivités locales par les partis politiques, à l’exclusion des entreprises publiques et semi-publiques, est exonérée de redevance.

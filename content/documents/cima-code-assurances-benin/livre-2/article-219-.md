@@ -1,0 +1,2 @@
+Vol ou perte de documents
+En cas de perte ou de vol de l’attestation, l’assureur ou l’autorité compétente en délivre un duplicata sur la simple demande de la personne au profit de qui le document original a été établi.

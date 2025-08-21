@@ -1,0 +1,3 @@
+Quand les réparations provisoires sont effectuées sur un navire, dans un port de chargement, d’escale ou de refuge, pour le salut commun ou pour des avaries causées par un sacrifice d’avaries communes, le coût de ces réparations est admis en avaries communes.
+Lorsque des réparations provisoires d’un dommage fortuit sont effectuées simplement pour permettre l’achèvement du voyage, leur coût est admis en avaries communes, mais seulement jusqu’à concurrence de l’économie sur les dépenses qui ont été encourues et admises en avaries communes, si ces réparations n’ont pas été effectuées en ce lieu.
+Aucune déduction pour différence du vieux au neuf n’est faite du coût des réparations provisoires admissibles en avaries communes.

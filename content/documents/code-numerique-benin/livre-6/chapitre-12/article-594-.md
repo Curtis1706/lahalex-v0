@@ -1,0 +1,8 @@
+Interception et accès aux données par les autorités judiciaires
+À l’article 108, alinéa 1 du code de procédure pénale, sont apportées les modifications suivantes :
+« En matière criminelle 	et en matière correctionnelle, si la peine encourue est au moins égale à deux (02) ans d’emprisonnement, le juge d’instruction peut, lorsque les nécessités de l’information l’exigent, prescrire l’interception, l’enregistrement et la transcription de correspondances conformément aux dispositions de l’article 12 du présent code, y compris des données relatives au contenu, émises par voie de communications électroniques. »
+À l’article 108, 5ème alinéa du code de procédure pénale, sont apportées les modifications suivantes :
+« Le juge d’instruction ou l’officier de police judiciaire commis par lui peut requérir tout agent qualifié d’un service, organisme placé sous l’autorité ou la tutelle du Ministre chargé des communications électroniques ou tout agent qualifié d’un opérateur, en vue de procéder à l’installation d’un dispositif d’interception. »
+À l’article 108 du code de procédure pénale, deux nouveaux alinéas sont ajoutés après l’alinéa 5 :
+« Un agent qualifié d’un service, organisme placé sous l’autorité ou la tutelle du Ministre chargé des communications électroniques ou tout agent qualifié d’un opérateur visé à l’alinéa précédent est tenu au secret.
+Toute violation du secret est punie par les dispositions prévues par le code pénal relatives au secret professionnel. »

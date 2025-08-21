@@ -1,0 +1,1 @@
+Pour introduire une demande visant à obtenir la nationalité béninoise, l'étranger doit être en séjour régulier en République du Bénin à la date de l'introduction de cette demande.

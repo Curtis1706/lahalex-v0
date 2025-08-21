@@ -1,0 +1,2 @@
+Les obligations de confidentialité
+Le traitement des données à caractère personnel est confidentiel. Il est effectué exclusivement par des personnes qui agissent sous l’autorité du responsable du traitement et seulement sur ses instructions, sauf en vertu d’obligations légales contraires.

@@ -1,0 +1,1 @@
+Le chef de village ou de quartier de ville peut, en cas de besoin, faire appel à des personnes ressources.

@@ -1,0 +1,2 @@
+Quiconque, après avoir produit, dans une contestation judiciaire, quelque titre, pièce ou mémoire, l’aura soustrait de quelque manière que ce soit, sera puni d’une amende de cinquante mille (50.000) francs CFA à deux cent cinquante mille (250.000) francs CFA.
+Cette peine sera prononcée par le tribunal saisi de la contestation.

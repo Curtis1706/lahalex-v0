@@ -1,0 +1,1 @@
+La violation des dispositions de l'article 190 de la présente loi est punie conformément aux dispositions de la législation sur l'environnement en République du Bénin.

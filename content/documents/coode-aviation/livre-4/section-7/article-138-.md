@@ -1,0 +1,1 @@
+Le Bureau enquêtes-accidents se garde de divulguer les noms des personnes concernées par un accident ou un incident grave.

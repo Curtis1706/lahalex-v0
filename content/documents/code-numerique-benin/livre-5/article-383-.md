@@ -1,0 +1,11 @@
+Conditions générales de licéité des traitements de données à caractère personnel
+Les données à caractère personnel doivent être :
+1. traitées légitimement ;
+1. collectées, enregistrées, traitées, stockées et transmises de manière licite, loyale, transparente et non frauduleuse ;
+1. collectées pour 	des finalités déterminées, explicites et légitimes et ne pas être traitées ultérieurement de manière incompatible avec ces finalités, compte tenu de tous les facteurs pertinents, notamment des prévisions raisonnables de l’intéressé et des dispositions légales et réglementaires applicables ;
+1. adéquates, pertinentes et non excessives au regard des finalités pour lesquelles elles sont collectées et traitées ;
+1. exactes et, si nécessaire, mises à jour. Toutes les mesures raisonnables doivent être prises afin que les données inexactes ou incomplètes, au regard des finalités pour lesquelles elles sont collectées ou pour lesquelles elles sont traitées ultérieurement, soient effacées ou rectifiées ;
+1. conservées sous une forme permettant l'identification des personnes concernées pendant une durée n'excédant pas celle nécessaire à la réalisation des finalités pour lesquelles elles sont collectées ou pour lesquelles elles sont traitées.
+Les données à caractère personnel peuvent être conservées pour des durées plus longues dans la mesure où elles seront traitées exclusivement à des fins archivistiques dans l'intérêt public, à des fins de recherche scientifique ou historique ou à des fins statistiques conformément à l’article 396, pour autant que soient mises en œuvre les mesures techniques et organisationnelles appropriées requises par les dispositions du présent Livre afin de garantir les droits et libertés de la personne concernée ;
+1. traitées de façon à garantir une sécurité appropriée des données à caractère personnel, y compris la protection contre le traitement non autorisé ou illicite et contre la perte, la destruction ou les dégâts d'origine accidentelle, à l'aide de mesures techniques ou organisationnelles appropriées.
+Il incombe au responsable du traitement d’assurer le respect de l’alinéa premier.

@@ -1,0 +1,4 @@
+Atteinte à l’intégrité des données
+Quiconque, intentionnellement et sans droit, directement ou indirectement endommage, efface, détériore, altère ou supprime des données informatiques est puni d’un emprisonnement de six (06) mois à cinq (05) ans et d'une amende de cinq cent mille (500 000) francs CFA à deux millions (2 000 000) de francs CFA ou de l’une de ces peines seulement.
+Si l'infraction visée à l’alinéa 1 est commise avec une intention frauduleuse ou dans le but de nuire, la peine d'emprisonnement est de deux (02) ans à cinq (05) ans et d'une amende de cinq cent mille (500 000) francs à deux millions (2 000 000) de francs CFA ou l’une de ces peines seulement.
+La peine d’emprisonnement et l’amende sont applicables même si les conséquences sur le ou les systèmes informatiques visés aux alinéas précédents sont temporaires ou permanentes.

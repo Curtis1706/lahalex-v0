@@ -1,0 +1,5 @@
+Le Conseil fédéral suisse fera enregistrer la présente Convention au Secré- Enregistre- tariat des Nations unies. Le Conseil fédéral suisse informera également le ment aux Secrétariat des Nations unies de toutes les ratifications, adhésions et dénon- Nations ciations qu’il pourra recevoir au sujet de la présente Convention. Unies
+En foi de quoi les soussignées, ayant déposé leurs pleins pouvoirs respec - tifs, ont signé la présente Convention.
+Fait à Genève, le 12 août 1949, en langues française et anglaise, l’original devant être déposé dans les a rchives de la Confédération suisse. Le Conseil fédéral suisse transmettra une copie certifiée conforme de la Convention à chacun des états signataires, ainsi qu’aux états qui auront adhéré à la Convention.
+ANNEXE 1
+PROJET D’ACCORD RELATIF AUx ZONES ET LOCALITÉS SANITAIRES

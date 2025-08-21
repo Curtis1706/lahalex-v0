@@ -1,0 +1,1 @@
+Les conseillers de village ou de quartier de ville ont droit à une indemnité dont le taux est fixé par décret pris en Conseil des ministres, conformément à la loi de finances. Toutefois, les frais de déplacement des conseillers de village ou de quartier de ville sont à la charge de la commune ou de la structure de l'Etat qui a organisé l'activité à laquelle ils sont invités.

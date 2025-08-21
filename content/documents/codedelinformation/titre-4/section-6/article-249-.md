@@ -1,0 +1,1 @@
+Toute modification de situation doit faire l’objet d’une autorisation préalable de la Haute Autorité de l’Audiovisuel et de la Communication.

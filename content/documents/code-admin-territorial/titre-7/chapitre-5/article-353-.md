@@ -1,0 +1,1 @@
+Dans le cas où l'établissement public de coopération intercommunale a contracté des emprunts auprès d'organismes financiers, le décret d'approbation de la dissolution fixe les conditions de répartition du solde de l'encours des dettes en fonction de la contribution relative de chaque commune membre.

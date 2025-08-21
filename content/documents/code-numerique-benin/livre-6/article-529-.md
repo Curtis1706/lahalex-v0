@@ -1,0 +1,2 @@
+Dispositions existantes
+Les dispositions du présent chapitre viennent compléter les dispositions de la loi n° 2005-30 du 10 avril 2006 relative à la protection des droits d’auteurs et des droits voisins en République du Bénin.

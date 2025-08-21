@@ -1,0 +1,1 @@
+Constituent des circonstances atténuantes les circonstances particulières de la cause, de la personnalité du prévenu et, le cas échéant, de ses charges familiales et de son intégration au milieu social.

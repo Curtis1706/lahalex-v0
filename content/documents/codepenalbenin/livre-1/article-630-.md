@@ -1,0 +1,3 @@
+Est puni de la peine de réclusion criminelle à temps de dix (10) ans à vingt (20) ans tout individu coupable de vol commis à l’aide de violence.
+Si la violence à l’aide de laquelle le vol a été commis a laissé des traces de blessures ou de contusions, cette circonstance suffit pour que la peine de la réclusion criminelle à perpétuité soit prononcée.
+Si les violences ont entraîné la mort, la réclusion criminelle à perpétuité sera prononcée.

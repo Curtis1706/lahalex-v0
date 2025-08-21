@@ -1,0 +1,1 @@
+La dot a un caractère symbolique.

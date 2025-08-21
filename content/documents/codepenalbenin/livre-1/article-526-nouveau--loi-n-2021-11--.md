@@ -1,0 +1,1 @@
+En cas de récidive des infractions prévues aux articles 524 et 525 du présent code, le maximum de la peine est appliqué.

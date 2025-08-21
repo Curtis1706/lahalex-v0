@@ -1,0 +1,3 @@
+Les époux doivent faire une déclaration conjointe de réconciliation devant le juge de leur résidence qui fait dresser le procès-verbal par le greffier et procéder à la publicité dans les mêmes formes et conditions que pour le jugement de séparation de corps.
+Les époux peuvent également faire procéder à cette publication sur la production d’une expédition du procès-verbal prévu à l’alinéa précédent.
+La séparation des biens continue à régir les époux réconciliés.

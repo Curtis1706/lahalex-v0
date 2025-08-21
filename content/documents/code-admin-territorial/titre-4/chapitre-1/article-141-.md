@@ -1,0 +1,2 @@
+Le maire peut, par arrêté, réquisitionner le secrétaire exécutif pour l’exécution de ses instructions destinées à assurer des activités de la commune en cas de refus d’exécution de celui-ci. Le maire est responsable, dans ce cas, des résultats de la mise en œuvre sans faute de ses instructions.
+En cas de réquisition, le maire adresse sans délai, copie de l’acte de réquisition au préfet, suivi d'une lettre de motivation. Ce dernier, s'il l’estime injustifiée, abroge l'arrêté du maire. L'arrêté préfectoral d’abrogation est insusceptible de recours.

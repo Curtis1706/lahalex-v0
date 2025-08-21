@@ -1,0 +1,2 @@
+Chacun des actes de poursuites délivrés par les porteurs de contraintes, sous peine de nullité, relate le prix auquel il a été taxé.
+Ces actes sont exemptés de la formalité de timbre et de l’enregistrement, tant pour les originaux que pour les copies des actes accessoires.

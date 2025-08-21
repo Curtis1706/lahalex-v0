@@ -1,0 +1,2 @@
+1) Les déclarations produites par les contribuables pour l’établissement des impôts sur les revenus ou sur les bénéfices leur sont opposables pour la fixation des indemnités ou des dommages-intérêts qu’ils réclament à l’État ou aux communes lorsque le  montant  de  ces  indemnités  ou  dommages-intérêts  dépend  directement  ou indirectement du montant de leurs bénéfices ou de leurs revenus.
+2) Le contribuable demandeur est tenu de fournir à l’appui de sa demande une attestation de régularité fiscale délivrée par l’inspecteur des impôts du lieu de son domicile.

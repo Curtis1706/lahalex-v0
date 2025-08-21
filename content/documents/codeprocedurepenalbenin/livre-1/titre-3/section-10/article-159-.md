@@ -1,0 +1,1 @@
+Le surveillant-chef de la maison d’arrêt doit immédiatement transmettre, sous peine de sanctions prévues à l’article 891 du présent code, au magistrat compétent toute demande de mise en liberté formulée par tout inculpé, prévenu ou accusé.

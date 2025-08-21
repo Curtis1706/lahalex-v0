@@ -1,0 +1,1 @@
+Les conditions de détermination des taux d’incapacité en cas de lésions multiples provenant d’un accident du travail ou d’accidents successifs seront définies par décret pris en conseil des Ministres.

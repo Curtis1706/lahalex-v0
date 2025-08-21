@@ -1,0 +1,1 @@
+La femme séparée de corps conserve l’usage du nom du mari. Toutefois, le jugement de séparation de corps ou un jugement postérieur peut le lui interdire.

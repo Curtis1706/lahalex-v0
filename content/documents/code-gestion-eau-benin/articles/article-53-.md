@@ -1,0 +1,2 @@
+Article 53 : Les zones humides d’importance internationale inscrites sur la liste prévue par la Convention de Ramsar du 2 février 1971 sont dotées d’un plan de gestion.
+Le plan est réalisé par les autorités compétentes, en collaboration avec le point focal national de la Convention de Ramsar et l'agence. Il est approuvé par arrêté conjoint des ministres en charge de l’environnement et de l’eau et des autres ministres compétents.

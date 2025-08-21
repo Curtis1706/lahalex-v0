@@ -1,0 +1,1 @@
+L’adoption et la validation du budget interviennent au plus tard le 15 novembre.

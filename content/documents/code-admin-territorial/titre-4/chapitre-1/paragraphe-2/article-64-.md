@@ -1,0 +1,1 @@
+Le conseil communal est composé de conseillers dont le nombre varie en fonction de l'importance de la population de la commune, selon la répartition prévue au code électoral.

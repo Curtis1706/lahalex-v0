@@ -1,0 +1,16 @@
+{
+  "id": "article-263-",
+  "title": "Article 263 :",
+  "numero": "263 ",
+  "document": "coode-personnes-familles",
+  "path": [
+    "livre-2",
+    "titre-3",
+    "section-3"
+  ],
+  "navigation": {
+    "parent": "section-3",
+    "previous": "article-262-",
+    "next": "article-264-"
+  }
+}

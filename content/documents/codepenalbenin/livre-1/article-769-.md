@@ -1,0 +1,1 @@
+Encourent une peine d’emprisonnement de deux (02) mois à un (01) an et une amende de cinq cent mille (500.000) francs CFA à cinq millions (5.000.000) de francs CFA ou l’une de ces deux peines seulement, sans préjudice des réparations civiles, ceux qui, sciemment, ont empêché un actionnaire ou un associé de participer à une assemblée générale.

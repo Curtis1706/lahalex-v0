@@ -1,0 +1,2 @@
+Toute forme de harcèlement sexuel constitue une infraction quelle que soit la qualité de l’auteur ou de la victime et quel que soit le lieu de commission de l’acte.
+La situation de vulnérabilité de la victime peut résulter de son âge, de son statut social et ou économique ainsi que de son état physique ou mental ou de toute autre situation connexe laissée à l’appréciation du juge.

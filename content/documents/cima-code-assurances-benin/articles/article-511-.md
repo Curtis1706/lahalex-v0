@@ -1,0 +1,4 @@
+Article 511 : Carte professionnelle - Retrait
+Le Ministre qui a délivré la carte peut la retirer pour non-respect des dispositions prévues aux articles 501, 503 et 508. La décision est immédiatement exécutoire et peut faire l’objet, par tout intéressé, d’un recours devant le tribunal compétent.
+Toute modification aux conditions de capacité prévues à l’article 508 ainsi que tout retrait de mandat doivent être notifiés au Ministre en charge du secteur des assurances.
+Lorsque, soit de sa propre initiative, soit sur l’injonction du Ministre en charge du secteur des assurances, la personne qui a délivré le mandat veut le retirer, elle le notifie à son titulaire par lettre recommandée. Cette mesure prend effet à la date de l’envoi de ladite lettre.

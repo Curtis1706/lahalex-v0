@@ -1,0 +1,1 @@
+Est puni comme complice quiconque a sciemment et volontairement favorisé les auteurs des crimes prévus à l’article 450, en leur fournissant des instruments de crime, moyens de correspondance, logement ou lieu de réunion.

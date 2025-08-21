@@ -1,0 +1,3 @@
+La juridiction correctionnelle peut, le ministère public et les parties entendus, prononcer l’annulation des actes qu’elle estime atteints de nullité et décider si l’annulation doit s’étendre à tout ou partie de la procédure ultérieure.
+Au cas où l’annulation de l’acte entraînerait la nullité de toute la procédure ultérieure, elle ordonne un supplément d’information si la nullité est réparable, ou s’il échet, elle renvoie le ministère public à se pourvoir.
+Toutefois, la juridiction correctionnelle ne peut prononcer l’annulation des procédures d’instruction lorsque celles-ci ont été renvoyées devant elle par la chambre d’accusation.

@@ -1,0 +1,2 @@
+Le ministère public est tenu de prendre des réquisitions écrites conformes aux instructions qui lui sont données en vertu des articles 34 et 35 du présent code.
+Il développe librement les observations orales qu’il croit convenables à la bonne administration de la justice.

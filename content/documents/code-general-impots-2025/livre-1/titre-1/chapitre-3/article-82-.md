@@ -1,0 +1,2 @@
+L’impôt  est  dû,  que  les  sommes  ou  valeurs  attribuées  soient  ou  non prélevées sur les bénéfices.
+Dans les sociétés à associé unique, l'excédent du fonds social sur le capital social est réputé distribué.

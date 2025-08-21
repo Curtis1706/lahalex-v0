@@ -1,0 +1,3 @@
+Si les propos, discours, écrits, prêches religieux sont tenus au nom de l’organisation, de l’association, celles-ci encourent la suspension provisoire de cinq (05) ans à dix (10) ans.
+En l’absence de repenti explicite au terme de la suspension, celles-ci encourent l’interdiction définitive.
+Dans ce cas, l’interdiction définitive peut être demandée par toute autorité publique ou tout citoyen devant la juridiction civile compétente.

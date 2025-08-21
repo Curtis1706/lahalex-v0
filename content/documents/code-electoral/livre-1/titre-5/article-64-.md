@@ -1,0 +1,2 @@
+Les délégués des partis politiques doivent être inscrits sur la liste électorale. Ils ne peuvent pas être expulsés du lieu de vote, sauf en cas de désordre provoqué par eux ou d'obstruction systématique.
+Il peut être alors pourvu immédiatement à leur remplacement par un délégué suppléant. En aucun cas, les opérations de vote ne sont de ce fait interrompues.

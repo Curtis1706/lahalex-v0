@@ -1,0 +1,9 @@
+Article 321-3 : Restriction ou interdiction de la libre disposition des actifs
+Lorsque la Commission ou le Ministre en charge des assurances, après avis du Secrétaire Général de la CIMA, est amené à restreindre ou interdire la libre disposition des actifs d’une entreprise, l’une ou plusieurs des mesures suivantes peuvent être prises :
+prescription par lettre recommandée à toute société ou collectivité émettrice ou dépositaire de refuser l’exécution de toute opération portant sur des comptes ou des titres appartenant à l’entreprise intéressée, ainsi que le paiement des intérêts et dividendes afférents auxdits titres ;
+subordination de l’exécution de ces opérations au visa préalable d’un commissaire contrôleur ou de toute personne qui aura été accréditée à cet effet ;
+inscription sur les immeubles de l’entreprise, de l’hypothèque mentionnée par l’article 332-1 ;
+prescription aux conservateurs des hypothèques, par lettre recommandée, de refuser la transcription de tous actes, l’inscription de toute hypothèque portant sur les immeubles appartenant à l’entreprise ainsi que la radiation d’hypothèque consentie par un tiers au profit de l’entreprise ;
+dépôt auprès d’une banque des grosses de prêts hypothécaires consentis par ladite entreprise ;
+transfert auprès d’une banque, de tous les fonds, titres et valeurs détenus ou possédés par l’entreprise, dans des conditions à déterminer, pour y être déposés dans un compte bloqué. Ce compte ne pourra être débité sur ordre de son titulaire que sur autorisation expresse de la Commission ou du Ministre, et seulement pour un montant déterminé ;
+Les dirigeants de l’entreprise qui n’effectuent pas le transfert mentionné à l’alinéa précédent sont passibles des sanctions prévues à l’article 312.

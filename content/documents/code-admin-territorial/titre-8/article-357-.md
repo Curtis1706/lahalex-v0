@@ -1,0 +1,1 @@
+Le principe de l’annualité signifie que le budget est voté et exécuté pour un exercice budgétaire. L’exercice budgétaire coïncide avec l'année civile qui court du 1<sup>er</sup> janvier au 31 décembre de l'année considérée.

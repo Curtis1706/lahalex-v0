@@ -1,0 +1,1 @@
+Chaque époux a la pleine capacité juridique ; mais ses droits et pouvoirs sont limités par l’effet du régime matrimonial et les dispositions ci-après.

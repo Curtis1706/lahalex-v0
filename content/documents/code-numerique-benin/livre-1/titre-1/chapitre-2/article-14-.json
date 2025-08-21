@@ -1,0 +1,16 @@
+{
+  "id": "article-14-",
+  "title": "Article 14 : Accords entre les opérateurs fournissant un accès à internet et les utilisateurs",
+  "numero": "14 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-2"
+  ],
+  "navigation": {
+    "parent": "chapitre-2",
+    "previous": "article-13-",
+    "next": "article-15-"
+  }
+}

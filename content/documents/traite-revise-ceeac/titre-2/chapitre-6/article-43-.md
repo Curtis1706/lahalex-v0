@@ -1,0 +1,5 @@
+Mesures antidumping et mesures compensatoires
+1. Sous réserve des dispositions du Protocole relatif à la concurrence et à la protection des consommateurs annexé au présent Traité, aucune disposition n’empêchera les Etats parties d’adopter des mesures antidumping et des mesures compensatoires.
+1. Les Etats Parties coopèrent dans le domaine de la détection et des enquêtes relatives aux pratiques en matière de dumping ou de subventions, qu’elles émanent de la zone de libre- échange de la Communauté ou autrement, afin de remédier aux effets préjudiciables de telles pratiques.
+1. Les Etats parties coopéreront en vue de détecter les hausses soudaines des importations, d’enquêter sur celles-ci et d’imposer les mesures appropriées pour remédier aux préjudices qui en résultent.
+1. La mise en œuvre du présent article se fera conformément à l’annexe sur les mesures correctives commerciales.

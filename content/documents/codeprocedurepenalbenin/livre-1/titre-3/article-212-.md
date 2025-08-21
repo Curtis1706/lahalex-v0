@@ -1,0 +1,1 @@
+Les fonctions du ministère public auprès de la chambre de l’instruction et la chambre des libertés et de la détention sont exercées par le procureur général ou par ses substituts ; les fonctions du greffe y sont assurées par un greffier de la cour d’appel.

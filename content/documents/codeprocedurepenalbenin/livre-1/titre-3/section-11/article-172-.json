@@ -1,0 +1,16 @@
+{
+  "id": "article-172-",
+  "title": "Article 172 :",
+  "numero": "172 ",
+  "document": "codeprocedurepenalbenin",
+  "path": [
+    "livre-1",
+    "titre-3",
+    "section-11"
+  ],
+  "navigation": {
+    "parent": "section-11",
+    "previous": "article-171-",
+    "next": "article-173-"
+  }
+}

@@ -1,0 +1,2 @@
+En cas de décès, de démission, de suspension, d’empêchement ou de révocation du secrétaire exécutif, et jusqu'à la désignation d’un nouveau secrétaire exécutif, il est remplacé provisoirement par un cadre de la commune occupant une fonction de direction au secrétariat exécutif.
+Le remplacement intervient dans un délai de quinze (15) jours à compter de la constatation de la vacance du poste, pour le reste de la durée du mandat.

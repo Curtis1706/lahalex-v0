@@ -1,0 +1,2 @@
+Article 38 : Les modalités d’application des dispositions qui précèdent font l’objet d’un décret pris en conseil des ministres, sur proposition conjointe des ministres en charge respectivement des finances, de l’eau et de l’environnement, et des ministres dont les attributions correspondent à l’activité pour laquelle une redevance ou une contribution financière est envisagée.
+CHAPITRE VIII : DU REGIME DE L’EAU

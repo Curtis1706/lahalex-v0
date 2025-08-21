@@ -1,0 +1,2 @@
+Le dispositif de la décision portant rectification est transmis par le ministère public au dépositaire des registres où se trouve inscrit l'acte rectifié.
+Mention de ce dispositif est aussitôt portée, avec référence au jugement, en marge dudit acte, au cas où l’erreur porterait sur la date de l’acte, en marge du registre à la date où l'acte aurait dû être inscrit. Copie de l’acte ne peut plus être délivrée qu’avec les rectifications ordonnées.

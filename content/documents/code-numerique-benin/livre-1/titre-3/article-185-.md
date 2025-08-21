@@ -1,0 +1,2 @@
+Attribution des fréquences radioélectriques spécifiques
+Les bandes de fréquences radioélectriques attribuées pour les besoins de la défense nationale et de la sécurité publique sont exclusivement gérées par les Ministres chargés de la défense nationale et de la sécurité publique. Elles ne peuvent être utilisées que pour ces besoins.

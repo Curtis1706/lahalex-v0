@@ -1,0 +1,1 @@
+La chambre de l’instruction statue sur les conclusions du procureur général, la partie et son avocat entendus ou dûment convoqués.

@@ -1,0 +1,1 @@
+La tutelle de l'établissement public de coopération intercommunale est exercée par le préfet de la localité où se situe son siège.

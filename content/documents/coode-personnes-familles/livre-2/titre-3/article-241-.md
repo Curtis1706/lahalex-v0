@@ -1,0 +1,1 @@
+L’ordonnance est exécutoire par provision ; elle est susceptible d’appel dans les quinze (15) jours de son prononcé ou, en cas de défaut du défendeur, de sa signification.

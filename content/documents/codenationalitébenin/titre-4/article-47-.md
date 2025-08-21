@@ -1,0 +1,3 @@
+Est également réintégrée par arrêté du ministre chargé de la justice et sans condition probatoire si elle en fait la demande :
+toute personne résidant en République du Bénin qui établit qu'elle a antérieurement joui de la nationalité béninoise ;
+toute personne qui a perdu la nationalité béninoise en raison du mariage avec un étranger ou de l'acquisition par mesure individuelle d'une nationalité étrangère, si elle a conservé ou acquis avec la République du Bénin des liens manifestes, notamment d'ordre culturel, professionnel, économique ou familial.

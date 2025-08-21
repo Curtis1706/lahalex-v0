@@ -1,0 +1,1 @@
+La pornographie mettant en scène des enfants est punie de la réclusion criminelle à temps de dix (10) ans à vingt (20) ans.

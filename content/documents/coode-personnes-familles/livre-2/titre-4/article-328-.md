@@ -1,0 +1,1 @@
+Lorsque la filiation est légalement établie, les enfants nés hors mariage ont les mêmes droits que les enfants légitimes, sous les réserves prévues au titre des successions.

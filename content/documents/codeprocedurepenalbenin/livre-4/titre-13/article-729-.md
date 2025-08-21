@@ -1,0 +1,1 @@
+Peut également être poursuivi et jugé en République du Bénin, quiconque s’est rendu complice, à l’étranger, d’un crime ou d’un délit commis en République du Bénin.

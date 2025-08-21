@@ -1,0 +1,2 @@
+Est interdit l'enregistrement de la candidature d'une personne inéligible en vertu des dispositions du présent code.
+En cas de contestation, le candidat se pourvoit devant la Cour constitutionnelle qui statue dans les cinq (05) jours.

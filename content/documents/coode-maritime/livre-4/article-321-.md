@@ -1,0 +1,1 @@
+Le fréteur conserve la gestion nautique du navire pendant toute la durée du contrat.

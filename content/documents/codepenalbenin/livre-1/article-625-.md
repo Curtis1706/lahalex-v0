@@ -1,0 +1,1 @@
+Toute personne qui aura enlevé ou tenté d’enlever tout ou partie d’un corps une fois remis au laboratoire d’une université, sera punie d’une peine d’emprisonnement de six (06) mois à trois (03) ans et d’une amende de cent mille (100 000) francs CFA à cinq cents mille (500 000) francs CFA ou de l’une des deux peines.

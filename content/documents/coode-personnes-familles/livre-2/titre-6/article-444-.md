@@ -1,0 +1,1 @@
+Les père et mère ont l’administration et la jouissance des biens de leurs enfants mineurs.

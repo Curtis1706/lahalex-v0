@@ -1,0 +1,2 @@
+_(Règlement 2015-02)_ Sanctions en cas de liquidation des succursales des entreprises étrangères
+Les dispositions des articles 829 à 832 sont applicables lors de la liquidation de l’actif et du passif du bilan spécial des opérations d’une entreprise étrangère dont le siège social n’est pas sur le territoire d’un État membre.

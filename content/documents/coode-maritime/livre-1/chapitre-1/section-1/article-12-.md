@@ -1,0 +1,1 @@
+La mer territoriale béninoise s’étend sur une largeur de douze (12) milles marins à compter de la ligne de base.

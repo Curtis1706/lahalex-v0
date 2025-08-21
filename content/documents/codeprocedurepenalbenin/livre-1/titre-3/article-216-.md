@@ -1,0 +1,2 @@
+Le procureur général notifie à chacune des parties et à son avocat, la date à laquelle l’affaire sera appelée à l’audience.
+Le dossier qui comprend les réquisitions du procureur général est alors déposé au greffe de la chambre d’accusation ou celui de la chambre des libertés et de la détention et tenu à la disposition des avocats des inculpés et des parties civiles.

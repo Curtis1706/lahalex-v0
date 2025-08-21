@@ -1,0 +1,2 @@
+Le délaissement transfère les droits de l’assuré sur l’objet assuré à l’assureur, à charge pour lui de payer la totalité de l’indemnité d’assurance ; les effets de ce transfert entre les parties remontent au moment où l’assuré notifie à l’assureur sa volonté de délaisser.
+Le délaissement ne peut être ni partiel ni conditionnel.

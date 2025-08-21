@@ -1,0 +1,1 @@
+En cas de perte d’un titre de pension, le titulaire doit en aviser aussitôt le comptable assignataire et lui adresser une déclaration de perte ou de vol. Un duplicata de son titre lui est délivré.

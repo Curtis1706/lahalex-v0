@@ -1,0 +1,1 @@
+Tout bâtiment public possède un système d'évacuation approprié des déchets liquides et solides.

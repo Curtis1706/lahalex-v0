@@ -1,0 +1,2 @@
+Article 337-4 : Cas des sociétés mixtes
+Lorsqu’une société réalise à la fois des opérations dans les branches 1 à 18 et dans les branches 20 à 23 de l’article 328, conformément aux dispositions du dernier alinéa de l’article 326, le montant minimal réglementaire de la marge de solvabilité est égal à la somme des marges de solvabilité minimales obtenues en appliquant séparément les méthodes définies aux articles 337-2 et 337-3 respectivement aux opérations réalisées dans les branches 1 à 18 et aux opérations réalisées dans les branches 20 à 23 de l’article 328.

@@ -1,0 +1,2 @@
+La seconde partie du cautionnement est toujours restituée en cas de non-lieu, d’absolution ou d’acquittement.
+En cas de condamnation, elle est affectée aux frais, à l’amende, aux restitutions et dommages-intérêts accordés à la partie civile, dans l’ordre énoncé à l’article 160 du présent code. Le surplus est restitué.

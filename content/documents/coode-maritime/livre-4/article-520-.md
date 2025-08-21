@@ -1,0 +1,2 @@
+L’assurance ne produit aucun effet lorsque les risques n’ont pas commencé dans les deux (02) mois de sa conclusion ou de la date qui a été fixée pour prise en charge.
+Cette disposition n’est applicable pour les polices d’abonnement que pour le 1 aliment.

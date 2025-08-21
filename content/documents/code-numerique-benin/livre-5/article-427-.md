@@ -1,0 +1,12 @@
+Responsabilités
+Le responsable du traitement doit notifier, sans délai, à l'Autorité et à la personne concernée toute rupture de la sécurité ayant affecté les données à caractère personnel de la personne concernée.
+Le sous-traitant doit avertir, sans délai, le responsable du traitement de toute rupture de la sécurité ayant affecté les données à caractère personnel qu'il traite pour le compte et au nom du responsable du traitement.
+La notification visée à l’alinéa 1 doit, à tout le moins :
+1. décrire la nature de la rupture de sécurité ayant affecté des données à caractère personnel y compris, si possible, les catégories et le nombre approximatif de personnes concernées par la rupture et les catégories et le nombre approximatif d'enregistrements de données à caractère personnel concernés ;
+1. communiquer le nom et les coordonnées du délégué à la protection des données ou d'un autre point de contact auprès duquel des informations supplémentaires peuvent être obtenues ;
+1. décrire les conséquences probables de la rupture de sécurité ;
+1. décrire les mesures prises ou que le responsable du traitement propose de prendre pour remédier à la rupture de sécurité, y compris, le cas échéant, les mesures pour en atténuer les éventuelles conséquences négatives.
+La communication à la personne concernée visée à l’alinéa 1 n'est pas nécessaire si l'une ou l'autre des conditions suivantes est remplie :
+1. le  responsable  du  traitement a  mis  en  œuvre  les  mesures  de  protection  techniques  et organisationnelles appropriées et ces mesures ont été appliquées aux données à caractère personnel affectées par ladite rupture, en particulier les mesures qui rendent les données à caractère personnel incompréhensibles pour toute personne qui n'est pas autorisée à y avoir accès, telles que le chiffrement ;
+1. le responsable du traitement a pris des mesures ultérieures qui garantissent que le risque élevé pour les droits et libertés des personnes concernées visé à l’alinéa 1  n'est plus susceptible de se matérialiser ;
+1. elle exigerait des efforts disproportionnés. Dans ce cas, il est plutôt procédé à une communication publique ou à une mesure similaire permettant aux personnes concernées d'être informées de manière tout aussi efficace.

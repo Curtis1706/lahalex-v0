@@ -1,0 +1,3 @@
+Article 232 : _(Règlement n°2014-02)_ Modalités de la communication du procès-verbal
+A l’occasion de sa première correspondance avec la victime, l’assureur est tenu, à peine de nullité relative de la transaction qui pourrait intervenir, d’informer la victime qu’elle peut obtenir de sa part, sur simple demande, la copie du procès-verbal d’enquête de la force publique et de lui rappeler qu’elle peut à son libre choix, et à ses frais, se faire assister du conseil de son choix.
+Toutefois, même en présence d’un conseil, tes chèques et autres moyens de paiements devront être libellés exclusivement aux noms de la victime et/ou des ayants droit.

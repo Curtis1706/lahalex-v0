@@ -1,0 +1,2 @@
+Défaut connu
+L'acquéreur est en droit d'exiger la conformité du bien à la commande. Il ne peut cependant contester la conformité en invoquant un défaut qu'il connaissait ou ne pouvait ignorer à la passation de la commande. Il en va de même lorsque le défaut à son origine dans les matériaux qu'il a lui-même fournis.

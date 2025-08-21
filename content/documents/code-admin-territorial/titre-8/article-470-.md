@@ -1,0 +1,1 @@
+Les pièces justificatives à l'appui de chaque nature de dépenses sont fixées par les lois et règlements.

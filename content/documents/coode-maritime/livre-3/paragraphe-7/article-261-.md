@@ -1,0 +1,3 @@
+Un repos complet d’une journée par semaine, en principe le dimanche, doit être accordé au marin lorsque l’engagement maritime a une durée supérieure à six (06) jours.
+Quand le repos hebdomadaire n’a pu être donné à la date prévue, il doit être remplacé par un repos de vingt-quatre (24) heures consécutives, soit au retour du navire au port d’attache, soit par accord mutuel dans un port d’escale.
+Tout repos hebdomadaire non donné à sa date et non compensé ainsi qu’il est stipulé ci-dessus donne droit à un jour de congé payé.

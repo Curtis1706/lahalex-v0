@@ -1,0 +1,1 @@
+Le contrôle sanitaire aux frontières est régi sur le territoire de la République du Bénin par les dispositions des règlements sanitaires de l’Organisation mondiale de la santé, des lois et règlements nationaux ainsi que par les arrangements internationaux intervenus en cette matière.

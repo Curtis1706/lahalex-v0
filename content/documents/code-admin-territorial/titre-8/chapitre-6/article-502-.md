@@ -1,0 +1,1 @@
+La comptabilité budgétaire est destinée à faire suivre, en permanence, la consommation des crédits votés et à retracer les recettes et les dépenses.

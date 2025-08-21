@@ -1,0 +1,1 @@
+Il est interdit à toutes personnes, à toutes sociétés, à tous établissements publics, d’encaisser ou de faire encaisser pour leur compte ou pour le compte d’autrui, même sans leur acquit, des effets de commerce ou toutes autres valeurs visées à l’article 413 du présent code non timbrés ou non visés pour timbre.

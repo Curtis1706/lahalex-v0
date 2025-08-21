@@ -1,0 +1,3 @@
+Les futurs époux se présentent personnellement devant l’officier de l’état civil au jour choisi par eux et à l’heure déterminée par lui. Ils sont assistés chacun d’un témoin majeur, parent ou non.
+Toutefois, lorsque la comparution personnelle de l’un ou de l’autre des futurs époux n'est pas possible, le mariage peut être célébré par procuration ; dans ce cas le futur époux qui ne peut comparaître personnellement peut se faire représenter par un mandataire.
+Si l'un des futurs époux est mineur, il doit justifier du consentement au mariage donné par la personne exerçant l'autorité parentale à son égard, ou de l’autorisation judiciaire en tenant lieu.

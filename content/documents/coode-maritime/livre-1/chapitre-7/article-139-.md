@@ -1,0 +1,2 @@
+Toute opération volontaire qui entraîne la perte de la béninisation d’un bâtiment grevé d’une hypothèque est interdite.
+Si cette opération est, en outre, commise dans l’intention de violer cette interdiction, l’auteur est passible des peines prévues par les dispositions du code pénal.

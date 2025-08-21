@@ -1,0 +1,1 @@
+Article 82 : Quiconque exploite un ouvrage ou une installation, réalise des travaux ou exerce une activité en violation d’une mesure de cessation, d’interdiction, de suspension ou de destruction ordonnée par le tribunal, est puni de la peine visée à l’article 73 de la présente loi.

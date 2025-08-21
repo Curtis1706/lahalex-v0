@@ -1,0 +1,1 @@
+Les dispositions des articles 48 à 75 du présent code sont applicables aux infractions flagrantes dans tous les cas où la loi prévoit une peine privative de liberté. Elles ne sont pas applicables dans les cas où un mineur est mis en cause.

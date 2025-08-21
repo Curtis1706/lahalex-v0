@@ -1,0 +1,2 @@
+Conformément aux lois et règlements, le budget de la commune ou de l'établissement public de coopération intercommunale est élaboré sur la base d’un cadrage budgétaire pluriannuel découlant des orientations retenues.
+Le processus budgétaire est conduit suivant une approche inclusive. Il implique tous les services locaux et déconcentrés concernés par l'atteinte des objectifs budgétaires ainsi que les acteurs au niveau infra communal.

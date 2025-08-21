@@ -1,0 +1,1 @@
+Il est interdit de poser des actes susceptibles de porter atteinte à l'hygiène publique.

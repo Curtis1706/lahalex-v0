@@ -1,0 +1,3 @@
+Article 148 : Nom de l'enfant
+Aucune mère ne peut attribuer à l'enfant nouveau-né, le nom d'un présumé géniteur que sur présentation d'un certificat de mariage ou d’une déclaration de reconnaissance de la grossesse établie par l'officier de l'état civil.
+Aucune sage-femme, aucun médecin accoucheur ne peut inscrire sur la fiche de naissance, le nom d'un quelconque présumé père si la femme n'apporte pas au moment de l'accouchement, la preuve du mariage ou de la reconnaissance de la grossesse.

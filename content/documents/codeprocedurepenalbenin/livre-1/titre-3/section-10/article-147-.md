@@ -1,0 +1,10 @@
+En matière correctionnelle, lorsque le maximum de la peine prévue par la loi est inférieure à deux (02) ans d’emprisonnement, l’inculpé domicilié en République du Bénin ne peut être détenu plus de quarante-cinq (45) jours après sa première comparution devant le juge d’instruction ou devant le procureur de la République en cas de procédure de flagrant délit s’il n’a pas déjà été condamné pour crime ou délit de droit commun.
+En tout autre cas, aussi longtemps que le juge d’instruction demeure saisi de l’affaire, la détention provisoire ne peut excéder six (06) mois.
+Si le maintien en détention apparaît nécessaire, le juge d’instruction saisit le juge des libertés et de la détention qui, sur réquisitions motivées du procureur de la République et après avoir requis les observations de l’inculpé ou de son avocat, peut prolonger la détention par ordonnance spécialement motivée d’après les éléments de la procédure.
+La décision du juge des libertés et de la détention doit intervenir conformément aux délais prévus au présent article.
+En l’absence d’une telle ordonnance, l’inculpé est immédiatement mis en liberté par le président de la chambre des libertés et de la détention sans qu’il ne puisse être placé à nouveau sous mandat de dépôt sous la même inculpation. Le juge d’instruction saisi devra sans délai être informé par le régisseur de la mainlevée d’écrou.
+Aucune prolongation ne peut être ordonnée pour une durée de plus de six (06) mois, renouvelable une seule fois en matière correctionnelle et six (06) mois renouvelable trois (03) fois en matière criminelle, hormis les cas de crimes de sang, d’agression sexuelle et de crimes économiques.
+Les autorités judiciaires sont tenues de présenter l’inculpé aux juridictions de jugement dans un délai de :
+- cinq (05) ans en matière criminelle ;
+- trois (03) ans en matière correctionnelle.
+En matière de crimes économiques, l’inculpé peut être poursuivi sans mandat s’il offre, soit de consigner immédiatement la moitié des fonds mis à sa charge, soit s’il justifie des biens réels mobiliers et immobiliers suffisants qu’il affecte en garantie par acte notarié.

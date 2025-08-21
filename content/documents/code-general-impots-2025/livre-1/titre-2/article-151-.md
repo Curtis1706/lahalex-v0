@@ -1,0 +1,1 @@
+La taxe foncière unique est une contribution annuelle sur les propriétés foncières sises en République du Bénin.

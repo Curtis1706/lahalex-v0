@@ -1,0 +1,2 @@
+L’immatriculation d’un navire, autre qu’une pirogue au nom du nouveau propriétaire, fait l’objet d’une publication au Journal Officiel de la République du Bénin ou dans un journal d’annonces légales dans les deux mois qui suivent l’immatriculation.
+Sauf opposition dûment notifiée dans un délai de deux (02) mois à compter de cette publication, le transfert de propriété est considéré comme inattaquable et définitif.

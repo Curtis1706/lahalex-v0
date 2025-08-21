@@ -1,0 +1,3 @@
+Article 434-7 : Communication de l’accord de combinaison
+L’accord visé au premier alinéa du 1° ou du 2° de l’article 434-6 est transmis à la Commission dans les quinze jours de sa signature. Il est porté dans les mêmes délais à la connaissance des commissaires aux comptes de toutes les entreprises incluses dans le périmètre de la combinaison.
+Un règlement particulier précise le contenu minimal de l’accord de combinaison.

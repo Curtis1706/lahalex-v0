@@ -1,0 +1,2 @@
+Les personnes physiques ou morales dont le chiffre d’affaires ou les recettes annuelles sont au minimum égales au seuil fixé par arrêté du ministre en charge des finances sont assujetties à la taxe sur la valeur ajoutée, quelle que soit leur forme juridique ou la nature de leurs activités.
+SOUS-SECTION  : EXONERATIONS

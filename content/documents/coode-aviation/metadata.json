@@ -1,0 +1,4608 @@
+{
+  "id": "coode-aviation",
+  "title": "Code de l'aviation civile et commerciale en République du Bénin",
+  "type": "codes",
+  "description": "Code de l'aviation civile et commerciale en République du Bénin, fixant les règles relatives à l'aviation civile et commerciale",
+  "structure": {
+    "sections": [
+      {
+        "id": "livre-1",
+        "title": "LIVRE 1 : DISPOSITIONS GENERALES",
+        "type": "livre",
+        "level": 1,
+        "order": 0,
+        "path": [
+          "livre-1"
+        ],
+        "children": [
+          "titre-1",
+          "titre-2"
+        ]
+      },
+      {
+        "id": "titre-1",
+        "title": "TITRE 1 : DEFINITIONS",
+        "type": "titre",
+        "level": 2,
+        "order": 1,
+        "path": [
+          "livre-1",
+          "titre-1"
+        ],
+        "children": [
+          "article-1-"
+        ]
+      },
+      {
+        "id": "article-1-",
+        "title": "Article 1 :",
+        "type": "article",
+        "level": 3,
+        "order": 2,
+        "path": [
+          "livre-1",
+          "titre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-2",
+        "title": "TITRE 2 : GENERALITES",
+        "type": "titre",
+        "level": 2,
+        "order": 3,
+        "path": [
+          "livre-1",
+          "titre-2"
+        ],
+        "children": [
+          "chapitre-1",
+          "chapitre-2"
+        ]
+      },
+      {
+        "id": "chapitre-1",
+        "title": "CHAPITRE 1 : CHAMP D'APPLICATION",
+        "type": "chapitre",
+        "level": 3,
+        "order": 4,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-1"
+        ],
+        "children": [
+          "article-2-",
+          "article-3-",
+          "article-4-"
+        ]
+      },
+      {
+        "id": "article-2-",
+        "title": "Article 2 :",
+        "type": "article",
+        "level": 4,
+        "order": 5,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-3-",
+        "title": "Article 3 :",
+        "type": "article",
+        "level": 4,
+        "order": 6,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-4-",
+        "title": "Article 4 :",
+        "type": "article",
+        "level": 4,
+        "order": 7,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-2",
+        "title": "CHAPITRE 2 : PRESTATAIRES DE SERVICES",
+        "type": "chapitre",
+        "level": 3,
+        "order": 8,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-2"
+        ],
+        "children": [
+          "article-5-"
+        ]
+      },
+      {
+        "id": "article-5-",
+        "title": "Article 5 :",
+        "type": "article",
+        "level": 4,
+        "order": 9,
+        "path": [
+          "livre-1",
+          "titre-2",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "livre-2",
+        "title": "LIVRE 2 : ORGANISME NATIONAL DE L'AVIATION CIVILE",
+        "type": "livre",
+        "level": 1,
+        "order": 10,
+        "path": [
+          "livre-2"
+        ],
+        "children": [
+          "article-6",
+          "article-7-",
+          "article-8-",
+          "article-9-",
+          "article-10-",
+          "article-11-"
+        ]
+      },
+      {
+        "id": "article-6",
+        "title": "Article 6: L'Etat crée un établissement public à caractère administratif et technique doté de la personnalité morale et de l’autonomie financière et de gestion, chargé d’assurer pour son compte, les missions de réglementation, de contrôle et de supervision des activités de l'aviation civile.",
+        "type": "article",
+        "level": 2,
+        "order": 13,
+        "path": [
+          "livre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-7-",
+        "title": "Article 7 :",
+        "type": "article",
+        "level": 2,
+        "order": 16,
+        "path": [
+          "livre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-8-",
+        "title": "Article 8 :",
+        "type": "article",
+        "level": 2,
+        "order": 18,
+        "path": [
+          "livre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-9-",
+        "title": "Article 9 :",
+        "type": "article",
+        "level": 2,
+        "order": 19,
+        "path": [
+          "livre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-10-",
+        "title": "Article 10 :",
+        "type": "article",
+        "level": 2,
+        "order": 20,
+        "path": [
+          "livre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-11-",
+        "title": "Article 11 : Sur présentation de leur document officiel d'identité, les inspecteurs de l’aviation civile ont accès à tout moment et sans restriction aux aéronefs, aux terrains, aux locaux à usage professionnel et aux installations où s'exercent les activités contrôlées. Ils ont également accès aux documents de toute nature en relation avec les opérations pour lesquelles le contrôle est exercé.",
+        "type": "article",
+        "level": 2,
+        "order": 21,
+        "path": [
+          "livre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "livre-3",
+        "title": "LIVRE 3 : AERONEFS",
+        "type": "livre",
+        "level": 1,
+        "order": 22,
+        "path": [
+          "livre-3"
+        ],
+        "children": [
+          "section-1",
+          "section-2",
+          "section-3",
+          "article-33-",
+          "article-34-",
+          "article-35-",
+          "article-36-",
+          "article-37-",
+          "article-38-",
+          "article-39-",
+          "article-40-",
+          "article-41-",
+          "article-42-",
+          "article-43-",
+          "article-44-",
+          "article-45-",
+          "article-46-",
+          "article-47-",
+          "article-48-",
+          "article-49-",
+          "article-50-",
+          "article-51-",
+          "article-52-",
+          "article-53-",
+          "article-54-",
+          "article-55-",
+          "article-56-",
+          "article-57-",
+          "article-58-",
+          "article-59-",
+          "article-60-",
+          "article-61-",
+          "article-62-",
+          "article-63-",
+          "article-64-",
+          "article-65-",
+          "article-66-",
+          "article-67-",
+          "article-68-",
+          "article-69-",
+          "article-70-",
+          "chapitre-3",
+          "chapitre-4",
+          "chapitre-5",
+          "titre-3"
+        ]
+      },
+      {
+        "id": "section-1",
+        "title": "SECTION 1 : IMMATRICULATION",
+        "type": "section",
+        "level": 4,
+        "order": 25,
+        "path": [
+          "livre-3",
+          "section-1"
+        ],
+        "children": [
+          "article-12-",
+          "article-13-",
+          "article-14-",
+          "article-15",
+          "article-16-",
+          "article-17",
+          "article-18-",
+          "article-19",
+          "article-20-",
+          "article-21-",
+          "article-22-"
+        ]
+      },
+      {
+        "id": "article-12-",
+        "title": "Article 12 :",
+        "type": "article",
+        "level": 3,
+        "order": 26,
+        "path": [
+          "livre-3",
+          "section-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-13-",
+        "title": "Article 13 :",
+        "type": "article",
+        "level": 3,
+        "order": 27,
+        "path": [
+          "livre-3",
+          "section-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-14-",
+        "title": "Article 14 :",
+        "type": "article",
+        "level": 3,
+        "order": 28,
+        "path": [
+          "livre-3",
+          "section-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-15",
+        "title": "Article 15:",
+        "type": "article",
+        "level": 3,
+        "order": 29,
+        "path": [
+          "livre-3",
+          "section-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-16-",
+        "title": "Article 16 :",
+        "type": "article",
+        "level": 3,
+        "order": 30,
+        "path": [
+          "livre-3",
+          "section-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-17",
+        "title": "Article 17:",
+        "type": "article",
+        "level": 3,
+        "order": 31,
+        "path": [
+          "livre-3",
+          "section-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-18-",
+        "title": "Article 18 :",
+        "type": "article",
+        "level": 3,
+        "order": 32,
+        "path": [
+          "livre-3",
+          "section-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-19",
+        "title": "Article 19:",
+        "type": "article",
+        "level": 3,
+        "order": 33,
+        "path": [
+          "livre-3",
+          "section-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-20-",
+        "title": "Article 20 : L'inscription sur le registre identifie l'aéronef.",
+        "type": "article",
+        "level": 3,
+        "order": 34,
+        "path": [
+          "livre-3",
+          "section-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-21-",
+        "title": "Article 21 :",
+        "type": "article",
+        "level": 3,
+        "order": 35,
+        "path": [
+          "livre-3",
+          "section-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-22-",
+        "title": "Article 22 :",
+        "type": "article",
+        "level": 3,
+        "order": 36,
+        "path": [
+          "livre-3",
+          "section-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "section-2",
+        "title": "SECTION 2 : NATIONALITE",
+        "type": "section",
+        "level": 4,
+        "order": 37,
+        "path": [
+          "livre-3",
+          "section-2"
+        ],
+        "children": [
+          "article-23-",
+          "article-24-",
+          "article-25-",
+          "article-26-",
+          "article-27-",
+          "article-28-"
+        ]
+      },
+      {
+        "id": "article-23-",
+        "title": "Article 23 :",
+        "type": "article",
+        "level": 3,
+        "order": 38,
+        "path": [
+          "livre-3",
+          "section-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-24-",
+        "title": "Article 24 :",
+        "type": "article",
+        "level": 3,
+        "order": 39,
+        "path": [
+          "livre-3",
+          "section-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-25-",
+        "title": "Article 25 :",
+        "type": "article",
+        "level": 3,
+        "order": 40,
+        "path": [
+          "livre-3",
+          "section-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-26-",
+        "title": "Article 26 : Sauf cas de vente forcée, un aéronef ne peut être radié du registre d'immatriculation s'il n'a été donné mainlevée préalable du droit inscrit conféré.",
+        "type": "article",
+        "level": 3,
+        "order": 41,
+        "path": [
+          "livre-3",
+          "section-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-27-",
+        "title": "Article 27 :",
+        "type": "article",
+        "level": 3,
+        "order": 42,
+        "path": [
+          "livre-3",
+          "section-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-28-",
+        "title": "Article 28 :",
+        "type": "article",
+        "level": 3,
+        "order": 43,
+        "path": [
+          "livre-3",
+          "section-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "section-3",
+        "title": "SECTION 3 : PROPRIETE",
+        "type": "section",
+        "level": 4,
+        "order": 44,
+        "path": [
+          "livre-3",
+          "section-3"
+        ],
+        "children": [
+          "article-29-",
+          "article-30-",
+          "article-31-",
+          "article-32-"
+        ]
+      },
+      {
+        "id": "article-29-",
+        "title": "Article 29 :",
+        "type": "article",
+        "level": 3,
+        "order": 45,
+        "path": [
+          "livre-3",
+          "section-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-30-",
+        "title": "Article 30 :",
+        "type": "article",
+        "level": 3,
+        "order": 46,
+        "path": [
+          "livre-3",
+          "section-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-31-",
+        "title": "Article 31 : L'organisme national en charge de l'aviation civile crée un système d'enregistrement des documents affectant le titre de propriété ou le droit de propriété sur tout aéronef civil en République du Bénin et sur tous moteur, propulseur, appareil ou pièces détachées destinés à être utilisés sur un aéronef.",
+        "type": "article",
+        "level": 3,
+        "order": 47,
+        "path": [
+          "livre-3",
+          "section-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-32-",
+        "title": "Article 32 :",
+        "type": "article",
+        "level": 3,
+        "order": 48,
+        "path": [
+          "livre-3",
+          "section-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-33-",
+        "title": "Article 33 :",
+        "type": "article",
+        "level": 2,
+        "order": 51,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-34-",
+        "title": "Article 34 :",
+        "type": "article",
+        "level": 2,
+        "order": 52,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-35-",
+        "title": "Article 35 :",
+        "type": "article",
+        "level": 2,
+        "order": 53,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-36-",
+        "title": "Article 36 :",
+        "type": "article",
+        "level": 2,
+        "order": 54,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-37-",
+        "title": "Article 37 : L'hypothèque est, à peine de nullité, constituée par écrit.",
+        "type": "article",
+        "level": 2,
+        "order": 55,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-38-",
+        "title": "Article 38 :",
+        "type": "article",
+        "level": 2,
+        "order": 56,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-39-",
+        "title": "Article 39 :",
+        "type": "article",
+        "level": 2,
+        "order": 57,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-40-",
+        "title": "Article 40 : S'il y a deux ou plusieurs hypothèques sur le même aéronef, leur rang est déterminé par l'ordre des dates d’inscription.",
+        "type": "article",
+        "level": 2,
+        "order": 58,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-41-",
+        "title": "Article 41 : L'inscription conserve l’hypothèque pendant dix ans à compter de sa date. Son effet cesse si l'inscription n'a pas été renouvelée avant l'expiration de ce délai.",
+        "type": "article",
+        "level": 2,
+        "order": 59,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-42-",
+        "title": "Article 42 :",
+        "type": "article",
+        "level": 2,
+        "order": 60,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-43-",
+        "title": "Article 43 :",
+        "type": "article",
+        "level": 2,
+        "order": 61,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-44-",
+        "title": "Article 44 :",
+        "type": "article",
+        "level": 2,
+        "order": 62,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-45-",
+        "title": "Article 45 :",
+        "type": "article",
+        "level": 2,
+        "order": 63,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-46-",
+        "title": "Article 46 :",
+        "type": "article",
+        "level": 2,
+        "order": 64,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-47-",
+        "title": "Article 47 :",
+        "type": "article",
+        "level": 2,
+        "order": 65,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-48-",
+        "title": "Article 48 :",
+        "type": "article",
+        "level": 2,
+        "order": 66,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-49-",
+        "title": "Article 49 :",
+        "type": "article",
+        "level": 2,
+        "order": 68,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-50-",
+        "title": "Article 50 :",
+        "type": "article",
+        "level": 2,
+        "order": 69,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-51-",
+        "title": "Article 51 :",
+        "type": "article",
+        "level": 2,
+        "order": 70,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-52-",
+        "title": "Article 52 :",
+        "type": "article",
+        "level": 2,
+        "order": 71,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-53-",
+        "title": "Article 53 :",
+        "type": "article",
+        "level": 2,
+        "order": 72,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-54-",
+        "title": "Article 54 :",
+        "type": "article",
+        "level": 2,
+        "order": 73,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-55-",
+        "title": "Article 55 :",
+        "type": "article",
+        "level": 2,
+        "order": 74,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-56-",
+        "title": "Article 56 : Si la saisie conservatoire est irrégulière ou si elle a été diligentée sans juste motif, le saisissant est responsable du dommage qui en résulte pour l'exploitant ou le propriétaire.",
+        "type": "article",
+        "level": 2,
+        "order": 75,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-57-",
+        "title": "Article 57 :",
+        "type": "article",
+        "level": 2,
+        "order": 76,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-58-",
+        "title": "Article 58 :",
+        "type": "article",
+        "level": 2,
+        "order": 77,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-59-",
+        "title": "Article 59 : Tout créancier inscrit peut requérir la mise aux enchères de l’aéronef en offrant de porter le prix à un dixième en sus et de donner une caution pour le paiement du prix et des charges.",
+        "type": "article",
+        "level": 2,
+        "order": 78,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-60-",
+        "title": "Article 60 :",
+        "type": "article",
+        "level": 2,
+        "order": 79,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-61-",
+        "title": "Article 61 :",
+        "type": "article",
+        "level": 2,
+        "order": 80,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-62-",
+        "title": "Article 62 :",
+        "type": "article",
+        "level": 2,
+        "order": 83,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-63-",
+        "title": "Article 63 : L'utilisation des aéronefs sur les aires de mouvement des aérodromes et en vol se fait conformément à la réglementation de la circulation aérienne.",
+        "type": "article",
+        "level": 2,
+        "order": 84,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-64-",
+        "title": "Article 64 :",
+        "type": "article",
+        "level": 2,
+        "order": 85,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-65-",
+        "title": "Article 65 :",
+        "type": "article",
+        "level": 2,
+        "order": 86,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-66-",
+        "title": "Article 66 :",
+        "type": "article",
+        "level": 2,
+        "order": 87,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-67-",
+        "title": "Article 67 :",
+        "type": "article",
+        "level": 2,
+        "order": 88,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-68-",
+        "title": "Article 68 :",
+        "type": "article",
+        "level": 2,
+        "order": 90,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-69-",
+        "title": "Article 69 :",
+        "type": "article",
+        "level": 2,
+        "order": 91,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-70-",
+        "title": "Article 70 :",
+        "type": "article",
+        "level": 2,
+        "order": 92,
+        "path": [
+          "livre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-3",
+        "title": "CHAPITRE 3 : POLICE DE LA CIRCULATION AERIENNE ET SECURITE AERIENNE",
+        "type": "chapitre",
+        "level": 3,
+        "order": 93,
+        "path": [
+          "livre-3",
+          "chapitre-3"
+        ],
+        "children": [
+          "article-71-",
+          "article-72-",
+          "article-73-",
+          "article-74-",
+          "article-75-",
+          "article-76-",
+          "article-77-",
+          "article-78-",
+          "article-79-",
+          "article-80-",
+          "article-81-",
+          "article-82-",
+          "article-83-",
+          "article-84-",
+          "article-85-",
+          "article-86-",
+          "article-87-"
+        ]
+      },
+      {
+        "id": "article-71-",
+        "title": "Article 71 :",
+        "type": "article",
+        "level": 3,
+        "order": 95,
+        "path": [
+          "livre-3",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-72-",
+        "title": "Article 72 :",
+        "type": "article",
+        "level": 3,
+        "order": 96,
+        "path": [
+          "livre-3",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-73-",
+        "title": "Article 73 :",
+        "type": "article",
+        "level": 3,
+        "order": 97,
+        "path": [
+          "livre-3",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-74-",
+        "title": "Article 74 :",
+        "type": "article",
+        "level": 3,
+        "order": 98,
+        "path": [
+          "livre-3",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-75-",
+        "title": "Article 75 :",
+        "type": "article",
+        "level": 3,
+        "order": 99,
+        "path": [
+          "livre-3",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-76-",
+        "title": "Article 76 : Tout aéronef civil étranger qui, sans titre, survole le territoire national ou dont il y a des motifs raisonnables de conclure qu'il est utilisé dans l'espace béninois à des fins incompatibles avec les buts de la Convention relative à l'aviation civile internationale, se soumet aux injonctions des services de police et de douane, sous quelque forme que ces injonctions lui sont données.",
+        "type": "article",
+        "level": 3,
+        "order": 100,
+        "path": [
+          "livre-3",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-77-",
+        "title": "Article 77 : Tout aéronef civil immatriculé en République du Bénin ou utilisé par un exploitant qui a le siège principal de son exploitation ou sa résidence permanente en République du Bénin :",
+        "type": "article",
+        "level": 3,
+        "order": 101,
+        "path": [
+          "livre-3",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-78-",
+        "title": "Article 78 :",
+        "type": "article",
+        "level": 3,
+        "order": 102,
+        "path": [
+          "livre-3",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-79-",
+        "title": "Article 79 :",
+        "type": "article",
+        "level": 3,
+        "order": 103,
+        "path": [
+          "livre-3",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-80-",
+        "title": "Article 80 :",
+        "type": "article",
+        "level": 3,
+        "order": 105,
+        "path": [
+          "livre-3",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-81-",
+        "title": "Article 81 :",
+        "type": "article",
+        "level": 3,
+        "order": 106,
+        "path": [
+          "livre-3",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-82-",
+        "title": "Article 82 :",
+        "type": "article",
+        "level": 3,
+        "order": 107,
+        "path": [
+          "livre-3",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-83-",
+        "title": "Article 83 :",
+        "type": "article",
+        "level": 3,
+        "order": 108,
+        "path": [
+          "livre-3",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-84-",
+        "title": "Article 84 :",
+        "type": "article",
+        "level": 3,
+        "order": 109,
+        "path": [
+          "livre-3",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-85-",
+        "title": "Article 85 :",
+        "type": "article",
+        "level": 3,
+        "order": 110,
+        "path": [
+          "livre-3",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-86-",
+        "title": "Article 86 :",
+        "type": "article",
+        "level": 3,
+        "order": 111,
+        "path": [
+          "livre-3",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-87-",
+        "title": "Article 87 :",
+        "type": "article",
+        "level": 3,
+        "order": 112,
+        "path": [
+          "livre-3",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-4",
+        "title": "CHAPITRE 4 : REDEVANCE DE ROUTE",
+        "type": "chapitre",
+        "level": 3,
+        "order": 113,
+        "path": [
+          "livre-3",
+          "chapitre-4"
+        ],
+        "children": [
+          "article-88-",
+          "article-89-"
+        ]
+      },
+      {
+        "id": "article-88-",
+        "title": "Article 88 :",
+        "type": "article",
+        "level": 3,
+        "order": 114,
+        "path": [
+          "livre-3",
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-89-",
+        "title": "Article 89 :",
+        "type": "article",
+        "level": 3,
+        "order": 115,
+        "path": [
+          "livre-3",
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-5",
+        "title": "CHAPITRE 5 : RECHERCHE ET SAUVETAGE DES AERONEFS EN DETRESSE",
+        "type": "chapitre",
+        "level": 3,
+        "order": 116,
+        "path": [
+          "livre-3",
+          "chapitre-5"
+        ],
+        "children": [
+          "article-90-",
+          "article-91-",
+          "article-92-",
+          "article-93-",
+          "article-94-"
+        ]
+      },
+      {
+        "id": "article-90-",
+        "title": "Article 90 : Le commandant de bord d'un aéronef en situation de détresse dans l'obligation d'atterrir sur un aérodrome non douanier sollicite les instructions des services de la circulation aérienne.",
+        "type": "article",
+        "level": 3,
+        "order": 117,
+        "path": [
+          "livre-3",
+          "chapitre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-91-",
+        "title": "Article 91 :",
+        "type": "article",
+        "level": 3,
+        "order": 118,
+        "path": [
+          "livre-3",
+          "chapitre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-92-",
+        "title": "Article 92 : Toute personne qui découvre une épave d'aéronef est tenue d'en faire la déclaration à l'autorité administrative ou locale la plus proche dans les quarante-huit heures de la découverte.",
+        "type": "article",
+        "level": 3,
+        "order": 119,
+        "path": [
+          "livre-3",
+          "chapitre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-93-",
+        "title": "Article 93 :",
+        "type": "article",
+        "level": 3,
+        "order": 120,
+        "path": [
+          "livre-3",
+          "chapitre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-94-",
+        "title": "Article 94 :",
+        "type": "article",
+        "level": 3,
+        "order": 121,
+        "path": [
+          "livre-3",
+          "chapitre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-3",
+        "title": "TITRE 3 : RESPONSABILITE RESULTANT DE L'EXPLOITATION DES AERONEFS",
+        "type": "titre",
+        "level": 2,
+        "order": 122,
+        "path": [
+          "livre-3",
+          "titre-3"
+        ],
+        "children": [
+          "article-95-",
+          "article-96-",
+          "article-97-",
+          "article-98-",
+          "article-99-",
+          "article-100"
+        ]
+      },
+      {
+        "id": "article-95-",
+        "title": "Article 95 :",
+        "type": "article",
+        "level": 3,
+        "order": 123,
+        "path": [
+          "livre-3",
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-96-",
+        "title": "Article 96 :",
+        "type": "article",
+        "level": 3,
+        "order": 124,
+        "path": [
+          "livre-3",
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-97-",
+        "title": "Article 97 :",
+        "type": "article",
+        "level": 3,
+        "order": 125,
+        "path": [
+          "livre-3",
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-98-",
+        "title": "Article 98 :",
+        "type": "article",
+        "level": 3,
+        "order": 126,
+        "path": [
+          "livre-3",
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-99-",
+        "title": "Article 99 :",
+        "type": "article",
+        "level": 3,
+        "order": 127,
+        "path": [
+          "livre-3",
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-100",
+        "title": "Article 100:",
+        "type": "article",
+        "level": 3,
+        "order": 128,
+        "path": [
+          "livre-3",
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "livre-4",
+        "title": "LIVRE 4 : ACCIDENTS ET INCIDENTS D’AVIATION",
+        "type": "livre",
+        "level": 1,
+        "order": 129,
+        "path": [
+          "livre-4"
+        ],
+        "children": [
+          "article-101-",
+          "article-102-",
+          "article-103-",
+          "article-104-",
+          "article-105-",
+          "article-106",
+          "article-107-",
+          "article-108-",
+          "article-109-",
+          "article-110-",
+          "article-111-",
+          "article-112-",
+          "article-113-",
+          "article-114-",
+          "article-115-",
+          "article-116-",
+          "article-117",
+          "article-118-",
+          "article-119",
+          "article-120-",
+          "article-121-",
+          "article-122-",
+          "article-123-",
+          "article-124-",
+          "article-125-",
+          "section-4",
+          "section-5",
+          "section-6",
+          "section-7",
+          "section-8"
+        ]
+      },
+      {
+        "id": "article-101-",
+        "title": "Article 101 :",
+        "type": "article",
+        "level": 2,
+        "order": 131,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-102-",
+        "title": "Article 102 :",
+        "type": "article",
+        "level": 2,
+        "order": 134,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-103-",
+        "title": "Article 103 :",
+        "type": "article",
+        "level": 2,
+        "order": 135,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-104-",
+        "title": "Article 104 : L’enquête technique de l'accident ou de l'incident survenu sur le territoire national ou dans l’espace aérien béninois, est de la compétence du Bureau enquêtes-accidents.",
+        "type": "article",
+        "level": 2,
+        "order": 136,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-105-",
+        "title": "Article 105 :",
+        "type": "article",
+        "level": 2,
+        "order": 137,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-106",
+        "title": "Article 106:",
+        "type": "article",
+        "level": 2,
+        "order": 138,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-107-",
+        "title": "Article 107 :",
+        "type": "article",
+        "level": 2,
+        "order": 139,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-108-",
+        "title": "Article 108 :",
+        "type": "article",
+        "level": 2,
+        "order": 140,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-109-",
+        "title": "Article 109 :",
+        "type": "article",
+        "level": 2,
+        "order": 141,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-110-",
+        "title": "Article 110 : L'enquête menée en vertu des dispositions de la présente loi donne accès sans restriction et sans délai à tous les éléments de preuve sans être empêchée par des enquêtes ou des procédures administratives ou judiciaires.",
+        "type": "article",
+        "level": 2,
+        "order": 142,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-111-",
+        "title": "Article 111 :",
+        "type": "article",
+        "level": 2,
+        "order": 143,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-112-",
+        "title": "Article 112 :",
+        "type": "article",
+        "level": 2,
+        "order": 144,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-113-",
+        "title": "Article 113 :",
+        "type": "article",
+        "level": 2,
+        "order": 145,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-114-",
+        "title": "Article 114 :",
+        "type": "article",
+        "level": 2,
+        "order": 146,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-115-",
+        "title": "Article 115 :",
+        "type": "article",
+        "level": 2,
+        "order": 147,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-116-",
+        "title": "Article 116 :",
+        "type": "article",
+        "level": 2,
+        "order": 148,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-117",
+        "title": "Article 117:",
+        "type": "article",
+        "level": 2,
+        "order": 151,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-118-",
+        "title": "Article 118 : Lorsqu'un accident ou incident d'aviation civile survient, le Bureau enquêtes-accidents décide de l'ouverture de l’enquête, de sa conduite ou de sa délégation.",
+        "type": "article",
+        "level": 2,
+        "order": 153,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-119",
+        "title": "Article 119:",
+        "type": "article",
+        "level": 2,
+        "order": 154,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-120-",
+        "title": "Article 120 : L'enquêteur désigné a le pouvoir exclusif de conduire l’enquête au nom du Bureau enquêtes-accidents. II :",
+        "type": "article",
+        "level": 2,
+        "order": 155,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-121-",
+        "title": "Article 121 :",
+        "type": "article",
+        "level": 2,
+        "order": 156,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-122-",
+        "title": "Article 122 :",
+        "type": "article",
+        "level": 2,
+        "order": 157,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-123-",
+        "title": "Article 123 :",
+        "type": "article",
+        "level": 2,
+        "order": 158,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-124-",
+        "title": "Article 124 :",
+        "type": "article",
+        "level": 2,
+        "order": 159,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-125-",
+        "title": "Article 125 : Lorsqu'une enquête technique est menée par le Bureau enquêtes- accidents, les Etats ci-après ont chacun la faculté de désigner un représentant accrédité et de lui associer un ou plusieurs conseillers au cours de l'enquête :",
+        "type": "article",
+        "level": 2,
+        "order": 161,
+        "path": [
+          "livre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "section-4",
+        "title": "SECTION 4 : OBLIGATION DE CONFIDENTIALITE ET CONFLITS D'INTERETS",
+        "type": "section",
+        "level": 4,
+        "order": 162,
+        "path": [
+          "livre-4",
+          "section-4"
+        ],
+        "children": [
+          "article-126-",
+          "article-127-"
+        ]
+      },
+      {
+        "id": "article-126-",
+        "title": "Article 126 :",
+        "type": "article",
+        "level": 3,
+        "order": 163,
+        "path": [
+          "livre-4",
+          "section-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-127-",
+        "title": "Article 127 :",
+        "type": "article",
+        "level": 3,
+        "order": 164,
+        "path": [
+          "livre-4",
+          "section-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "section-5",
+        "title": "SECTION 5 : NOTIFICATIONS DES ACCIDENTS ET INCIDENTS D’AVIATION",
+        "type": "section",
+        "level": 4,
+        "order": 165,
+        "path": [
+          "livre-4",
+          "section-5"
+        ],
+        "children": [
+          "article-128-",
+          "article-129",
+          "article-130",
+          "article-131-",
+          "article-132-"
+        ]
+      },
+      {
+        "id": "article-128-",
+        "title": "Article 128 :",
+        "type": "article",
+        "level": 3,
+        "order": 166,
+        "path": [
+          "livre-4",
+          "section-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-129",
+        "title": "Article 129:",
+        "type": "article",
+        "level": 3,
+        "order": 167,
+        "path": [
+          "livre-4",
+          "section-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-130",
+        "title": "Article 130:",
+        "type": "article",
+        "level": 3,
+        "order": 168,
+        "path": [
+          "livre-4",
+          "section-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-131-",
+        "title": "Article 131 : Toute personne qui découvre une épave ou un élément d'aéronef en fait la déclaration sans délai auprès du Bureau enquêtes-accidents ou de l'autorité locale ou militaire la plus proche.",
+        "type": "article",
+        "level": 3,
+        "order": 169,
+        "path": [
+          "livre-4",
+          "section-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-132-",
+        "title": "Article 132 :",
+        "type": "article",
+        "level": 3,
+        "order": 170,
+        "path": [
+          "livre-4",
+          "section-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "section-6",
+        "title": "SECTION 6 : GARDE DE L’AERONEF, DU LIEU DE L’ACCIDENT ET IDENTIFICATION DES TEMOINS",
+        "type": "section",
+        "level": 4,
+        "order": 171,
+        "path": [
+          "livre-4",
+          "section-6"
+        ],
+        "children": [
+          "article-133-",
+          "article-134"
+        ]
+      },
+      {
+        "id": "article-133-",
+        "title": "Article 133 :",
+        "type": "article",
+        "level": 3,
+        "order": 172,
+        "path": [
+          "livre-4",
+          "section-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-134",
+        "title": "Article 134:",
+        "type": "article",
+        "level": 3,
+        "order": 173,
+        "path": [
+          "livre-4",
+          "section-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "section-7",
+        "title": "SECTION 7 : PROTECTION DES ELEMENTS DE L'ENQUETE SUR LES ACCIDENTS ET INCIDENTS",
+        "type": "section",
+        "level": 4,
+        "order": 174,
+        "path": [
+          "livre-4",
+          "section-7"
+        ],
+        "children": [
+          "article-135",
+          "article-136-",
+          "article-137-",
+          "article-138-"
+        ]
+      },
+      {
+        "id": "article-135",
+        "title": "Article 135:",
+        "type": "article",
+        "level": 3,
+        "order": 175,
+        "path": [
+          "livre-4",
+          "section-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-136-",
+        "title": "Article 136 :",
+        "type": "article",
+        "level": 3,
+        "order": 176,
+        "path": [
+          "livre-4",
+          "section-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-137-",
+        "title": "Article 137 : Dans le cadre de l'enquête technique, le contenu des enregistreurs et les résultats des autopsies et examens médicaux effectués ne sont pas divulgués et ne sont exploités que pour la détermination des circonstances et des causes de l’accident ou de l'incident et pour la compréhension des recommandations de sécurité.",
+        "type": "article",
+        "level": 3,
+        "order": 177,
+        "path": [
+          "livre-4",
+          "section-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-138-",
+        "title": "Article 138 :",
+        "type": "article",
+        "level": 3,
+        "order": 178,
+        "path": [
+          "livre-4",
+          "section-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "section-8",
+        "title": "SECTION 8 : REOUVERTURE DE L’ENQUÊTE",
+        "type": "section",
+        "level": 4,
+        "order": 179,
+        "path": [
+          "livre-4",
+          "section-8"
+        ],
+        "children": [
+          "article-139-"
+        ]
+      },
+      {
+        "id": "article-139-",
+        "title": "Article 139 :",
+        "type": "article",
+        "level": 3,
+        "order": 180,
+        "path": [
+          "livre-4",
+          "section-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "livre-5",
+        "title": "LIVRE 5 : GESTION DE LA SECURITE",
+        "type": "livre",
+        "level": 1,
+        "order": 181,
+        "path": [
+          "livre-5"
+        ],
+        "children": [
+          "article-140",
+          "article-141-",
+          "article-142-",
+          "article-143",
+          "article-144-",
+          "article-145-",
+          "article-146-",
+          "article-147",
+          "article-148-",
+          "article-149-",
+          "article-150-",
+          "article-151-",
+          "article-152",
+          "article-153-",
+          "article-154",
+          "article-155",
+          "article-156-",
+          "article-157-",
+          "article-158-",
+          "article-159-",
+          "article-160-",
+          "article-161-",
+          "article-162-",
+          "article-163",
+          "article-164-",
+          "article-165-",
+          "article-166-",
+          "article-167-",
+          "article-168-",
+          "article-169-",
+          "article-170-",
+          "article-171-",
+          "article-172-",
+          "article-173-",
+          "article-174-",
+          "article-175",
+          "article-176-",
+          "article-177-",
+          "article-178-",
+          "article-179-",
+          "article-180-",
+          "article-181-",
+          "article-182-",
+          "article-183",
+          "article-184",
+          "article-185-",
+          "article-186-",
+          "article-187",
+          "article-188-",
+          "article-189-",
+          "article-190-",
+          "article-191-"
+        ]
+      },
+      {
+        "id": "article-140",
+        "title": "Article 140:",
+        "type": "article",
+        "level": 2,
+        "order": 184,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-141-",
+        "title": "Article 141 :",
+        "type": "article",
+        "level": 2,
+        "order": 187,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-142-",
+        "title": "Article 142 :",
+        "type": "article",
+        "level": 2,
+        "order": 189,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-143",
+        "title": "Article 143:",
+        "type": "article",
+        "level": 2,
+        "order": 190,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-144-",
+        "title": "Article 144 :",
+        "type": "article",
+        "level": 2,
+        "order": 191,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-145-",
+        "title": "Article 145 :",
+        "type": "article",
+        "level": 2,
+        "order": 192,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-146-",
+        "title": "Article 146 :",
+        "type": "article",
+        "level": 2,
+        "order": 194,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-147",
+        "title": "Article 147:",
+        "type": "article",
+        "level": 2,
+        "order": 195,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-148-",
+        "title": "Article 148 :",
+        "type": "article",
+        "level": 2,
+        "order": 197,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-149-",
+        "title": "Article 149 :",
+        "type": "article",
+        "level": 2,
+        "order": 198,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-150-",
+        "title": "Article 150 :",
+        "type": "article",
+        "level": 2,
+        "order": 200,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-151-",
+        "title": "Article 151 :",
+        "type": "article",
+        "level": 2,
+        "order": 201,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-152",
+        "title": "Article 152:",
+        "type": "article",
+        "level": 2,
+        "order": 205,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-153-",
+        "title": "Article 153 :",
+        "type": "article",
+        "level": 2,
+        "order": 206,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-154",
+        "title": "Article 154:",
+        "type": "article",
+        "level": 2,
+        "order": 207,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-155",
+        "title": "Article 155:",
+        "type": "article",
+        "level": 2,
+        "order": 208,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-156-",
+        "title": "Article 156 :",
+        "type": "article",
+        "level": 2,
+        "order": 209,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-157-",
+        "title": "Article 157 :",
+        "type": "article",
+        "level": 2,
+        "order": 210,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-158-",
+        "title": "Article 158 :",
+        "type": "article",
+        "level": 2,
+        "order": 212,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-159-",
+        "title": "Article 159 :",
+        "type": "article",
+        "level": 2,
+        "order": 213,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-160-",
+        "title": "Article 160 :",
+        "type": "article",
+        "level": 2,
+        "order": 215,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-161-",
+        "title": "Article 161 :",
+        "type": "article",
+        "level": 2,
+        "order": 216,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-162-",
+        "title": "Article 162 :",
+        "type": "article",
+        "level": 2,
+        "order": 217,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-163",
+        "title": "Article 163:",
+        "type": "article",
+        "level": 2,
+        "order": 218,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-164-",
+        "title": "Article 164 :",
+        "type": "article",
+        "level": 2,
+        "order": 219,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-165-",
+        "title": "Article 165 :",
+        "type": "article",
+        "level": 2,
+        "order": 220,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-166-",
+        "title": "Article 166 :",
+        "type": "article",
+        "level": 2,
+        "order": 221,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-167-",
+        "title": "Article 167 :",
+        "type": "article",
+        "level": 2,
+        "order": 222,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-168-",
+        "title": "Article 168 :",
+        "type": "article",
+        "level": 2,
+        "order": 224,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-169-",
+        "title": "Article 169 :",
+        "type": "article",
+        "level": 2,
+        "order": 225,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-170-",
+        "title": "Article 170 :",
+        "type": "article",
+        "level": 2,
+        "order": 226,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-171-",
+        "title": "Article 171 :",
+        "type": "article",
+        "level": 2,
+        "order": 228,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-172-",
+        "title": "Article 172 :",
+        "type": "article",
+        "level": 2,
+        "order": 229,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-173-",
+        "title": "Article 173 : Toute personne qui utilise ou prévoit d'utiliser des lasers ou d’autres faisceaux lumineux directifs de haute intensité en plein air, tels que les faisceaux lasers ou autres faisceaux lumineux directifs pénétrant dans l'espace aérien navigable avec une puissance susceptible de causer un danger pour l'aviation, le notifie par écrit à l'organisme national en charge de l'aviation civile.",
+        "type": "article",
+        "level": 2,
+        "order": 230,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-174-",
+        "title": "Article 174 :",
+        "type": "article",
+        "level": 2,
+        "order": 231,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-175",
+        "title": "Article 175:",
+        "type": "article",
+        "level": 2,
+        "order": 232,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-176-",
+        "title": "Article 176 :",
+        "type": "article",
+        "level": 2,
+        "order": 234,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-177-",
+        "title": "Article 177 :",
+        "type": "article",
+        "level": 2,
+        "order": 237,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-178-",
+        "title": "Article 178 :",
+        "type": "article",
+        "level": 2,
+        "order": 238,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-179-",
+        "title": "Article 179 :",
+        "type": "article",
+        "level": 2,
+        "order": 239,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-180-",
+        "title": "Article 180 :",
+        "type": "article",
+        "level": 2,
+        "order": 240,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-181-",
+        "title": "Article 181 :",
+        "type": "article",
+        "level": 2,
+        "order": 241,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-182-",
+        "title": "Article 182 :",
+        "type": "article",
+        "level": 2,
+        "order": 242,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-183",
+        "title": "Article 183:",
+        "type": "article",
+        "level": 2,
+        "order": 243,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-184",
+        "title": "Article 184:",
+        "type": "article",
+        "level": 2,
+        "order": 244,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-185-",
+        "title": "Article 185 :",
+        "type": "article",
+        "level": 2,
+        "order": 245,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-186-",
+        "title": "Article 186 :",
+        "type": "article",
+        "level": 2,
+        "order": 247,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-187",
+        "title": "Article 187:",
+        "type": "article",
+        "level": 2,
+        "order": 248,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-188-",
+        "title": "Article 188 :",
+        "type": "article",
+        "level": 2,
+        "order": 250,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-189-",
+        "title": "Article 189 :",
+        "type": "article",
+        "level": 2,
+        "order": 251,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-190-",
+        "title": "Article 190 :",
+        "type": "article",
+        "level": 2,
+        "order": 252,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-191-",
+        "title": "Article 191 :",
+        "type": "article",
+        "level": 2,
+        "order": 253,
+        "path": [
+          "livre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "livre-6",
+        "title": "LIVRE 6 : SURETE DE L’AVIATION CIVILE - FACILITATION",
+        "type": "livre",
+        "level": 1,
+        "order": 254,
+        "path": [
+          "livre-6"
+        ],
+        "children": [
+          "article-192-",
+          "article-193",
+          "article-194-",
+          "article-195-",
+          "article-196-",
+          "article-197-",
+          "article-198-",
+          "article-199-",
+          "article-200-",
+          "article-201-",
+          "article-202-",
+          "article-203-",
+          "article-204-",
+          "article-205-",
+          "article-206-",
+          "article-207-",
+          "article-208-",
+          "article-209-",
+          "article-210-",
+          "article-211-",
+          "article-212-"
+        ]
+      },
+      {
+        "id": "article-192-",
+        "title": "Article 192 :",
+        "type": "article",
+        "level": 2,
+        "order": 257,
+        "path": [
+          "livre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-193",
+        "title": "Article 193:",
+        "type": "article",
+        "level": 2,
+        "order": 258,
+        "path": [
+          "livre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-194-",
+        "title": "Article 194 :",
+        "type": "article",
+        "level": 2,
+        "order": 260,
+        "path": [
+          "livre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-195-",
+        "title": "Article 195 :",
+        "type": "article",
+        "level": 2,
+        "order": 261,
+        "path": [
+          "livre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-196-",
+        "title": "Article 196 :",
+        "type": "article",
+        "level": 2,
+        "order": 263,
+        "path": [
+          "livre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-197-",
+        "title": "Article 197 :",
+        "type": "article",
+        "level": 2,
+        "order": 264,
+        "path": [
+          "livre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-198-",
+        "title": "Article 198 :",
+        "type": "article",
+        "level": 2,
+        "order": 265,
+        "path": [
+          "livre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-199-",
+        "title": "Article 199 :",
+        "type": "article",
+        "level": 2,
+        "order": 267,
+        "path": [
+          "livre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-200-",
+        "title": "Article 200 :",
+        "type": "article",
+        "level": 2,
+        "order": 268,
+        "path": [
+          "livre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-201-",
+        "title": "Article 201 :",
+        "type": "article",
+        "level": 2,
+        "order": 269,
+        "path": [
+          "livre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-202-",
+        "title": "Article 202 :",
+        "type": "article",
+        "level": 2,
+        "order": 270,
+        "path": [
+          "livre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-203-",
+        "title": "Article 203 :",
+        "type": "article",
+        "level": 2,
+        "order": 271,
+        "path": [
+          "livre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-204-",
+        "title": "Article 204 :",
+        "type": "article",
+        "level": 2,
+        "order": 272,
+        "path": [
+          "livre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-205-",
+        "title": "Article 205 :",
+        "type": "article",
+        "level": 2,
+        "order": 273,
+        "path": [
+          "livre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-206-",
+        "title": "Article 206 : Sont exemptées des mesures d'inspection et de filtrage applicables aux personnes ainsi qu'à leurs bagages de cabine, que ce soit dans le cadre de leurs déplacements officiels ou privés :",
+        "type": "article",
+        "level": 2,
+        "order": 274,
+        "path": [
+          "livre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-207-",
+        "title": "Article 207 :",
+        "type": "article",
+        "level": 2,
+        "order": 275,
+        "path": [
+          "livre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-208-",
+        "title": "Article 208 :",
+        "type": "article",
+        "level": 2,
+        "order": 277,
+        "path": [
+          "livre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-209-",
+        "title": "Article 209 : L'organisme national en charge de l'aviation civile met en place des politiques et des obligations en matière de facilitation de l’aviation civile conformes à la réglementation en vigueur et aux dispositions de l'annexe 9 à la Convention relative à l'aviation civile internationale.",
+        "type": "article",
+        "level": 2,
+        "order": 279,
+        "path": [
+          "livre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-210-",
+        "title": "Article 210 :",
+        "type": "article",
+        "level": 2,
+        "order": 280,
+        "path": [
+          "livre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-211-",
+        "title": "Article 211 :",
+        "type": "article",
+        "level": 2,
+        "order": 281,
+        "path": [
+          "livre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-212-",
+        "title": "Article 212 :",
+        "type": "article",
+        "level": 2,
+        "order": 282,
+        "path": [
+          "livre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "livre-7",
+        "title": "LIVRE 7 : TRANSPORT AERIEN",
+        "type": "livre",
+        "level": 1,
+        "order": 283,
+        "path": [
+          "livre-7"
+        ],
+        "children": [
+          "article-213-",
+          "article-214",
+          "article-215-",
+          "article-216-",
+          "article-217-",
+          "article-218",
+          "article-219-",
+          "article-220-",
+          "article-221-",
+          "article-222-",
+          "article-223-",
+          "article-224-",
+          "article-225-",
+          "article-226-",
+          "article-227-",
+          "article-228-",
+          "article-229-",
+          "article-230-",
+          "article-231-",
+          "article-232-",
+          "article-233-",
+          "article-234-",
+          "article-235-",
+          "article-236-",
+          "article-237-",
+          "article-238-",
+          "article-239-",
+          "article-240-",
+          "article-241-",
+          "article-242-",
+          "article-243-",
+          "article-244-",
+          "article-245-",
+          "article-246-",
+          "article-247-",
+          "article-248-",
+          "article-249-",
+          "article-250-",
+          "article-251-",
+          "article-252-",
+          "article-253-",
+          "article-254-",
+          "article-255-",
+          "article-256-",
+          "article-257-",
+          "article-258-"
+        ]
+      },
+      {
+        "id": "article-213-",
+        "title": "Article 213 :",
+        "type": "article",
+        "level": 2,
+        "order": 285,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-214",
+        "title": "Article 214:",
+        "type": "article",
+        "level": 2,
+        "order": 286,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-215-",
+        "title": "Article 215 : Les conditions d'exécution des vols privés sont fixées par la présente loi et ses textes d'application.",
+        "type": "article",
+        "level": 2,
+        "order": 287,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-216-",
+        "title": "Article 216 :",
+        "type": "article",
+        "level": 2,
+        "order": 290,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-217-",
+        "title": "Article 217 :",
+        "type": "article",
+        "level": 2,
+        "order": 291,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-218",
+        "title": "Article 218:",
+        "type": "article",
+        "level": 2,
+        "order": 292,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-219-",
+        "title": "Article 219 :",
+        "type": "article",
+        "level": 2,
+        "order": 293,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-220-",
+        "title": "Article 220 :",
+        "type": "article",
+        "level": 2,
+        "order": 294,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-221-",
+        "title": "Article 221 :",
+        "type": "article",
+        "level": 2,
+        "order": 295,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-222-",
+        "title": "Article 222 : L'organisme national en charge de l'aviation civile est chargé de mener les inspections nécessaires, notamment celles des installations et infrastructures, des aérodromes, des services de navigation aérienne, des aéronefs, des centres de maintenance et des centres de formation aéronautique, hangars, ateliers, aires de trafic, installations des dépôts de carburant, bureaux des exploitants, zones de manutention du fret, installations situées à l'intérieur ou à l'extérieur du périmètre d'un aéroport ou en zone de sûreté à accès réglementé d’un aéroport et utilisées pour des opérations aéroportuaires ou des opérations commerciales liées à un aéroport ou au profit ou pour le compte d’un exploitant d'aéronef, afin de veiller au maintien de la sécurité de l'exploitation, conformément aux dispositions de la Convention relative à l’aviation civile internationale.",
+        "type": "article",
+        "level": 2,
+        "order": 296,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-223-",
+        "title": "Article 223 :",
+        "type": "article",
+        "level": 2,
+        "order": 297,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-224-",
+        "title": "Article 224 :",
+        "type": "article",
+        "level": 2,
+        "order": 299,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-225-",
+        "title": "Article 225 :",
+        "type": "article",
+        "level": 2,
+        "order": 300,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-226-",
+        "title": "Article 226 :",
+        "type": "article",
+        "level": 2,
+        "order": 301,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-227-",
+        "title": "Article 227 :",
+        "type": "article",
+        "level": 2,
+        "order": 302,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-228-",
+        "title": "Article 228 : Le contrat de transport de marchandises est constaté par une lettre de transport aérien ou un récépissé émis par le transporteur.",
+        "type": "article",
+        "level": 2,
+        "order": 305,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-229-",
+        "title": "Article 229 :",
+        "type": "article",
+        "level": 2,
+        "order": 306,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-230-",
+        "title": "Article 230 :",
+        "type": "article",
+        "level": 2,
+        "order": 307,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-231-",
+        "title": "Article 231 :",
+        "type": "article",
+        "level": 2,
+        "order": 308,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-232-",
+        "title": "Article 232 :",
+        "type": "article",
+        "level": 2,
+        "order": 309,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-233-",
+        "title": "Article 233 :",
+        "type": "article",
+        "level": 2,
+        "order": 310,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-234-",
+        "title": "Article 234 :",
+        "type": "article",
+        "level": 2,
+        "order": 311,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-235-",
+        "title": "Article 235 :",
+        "type": "article",
+        "level": 2,
+        "order": 312,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-236-",
+        "title": "Article 236 :",
+        "type": "article",
+        "level": 2,
+        "order": 313,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-237-",
+        "title": "Article 237 :",
+        "type": "article",
+        "level": 2,
+        "order": 314,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-238-",
+        "title": "Article 238 :",
+        "type": "article",
+        "level": 2,
+        "order": 315,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-239-",
+        "title": "Article 239 :",
+        "type": "article",
+        "level": 2,
+        "order": 316,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-240-",
+        "title": "Article 240 :",
+        "type": "article",
+        "level": 2,
+        "order": 317,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-241-",
+        "title": "Article 241 :",
+        "type": "article",
+        "level": 2,
+        "order": 319,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-242-",
+        "title": "Article 242 :",
+        "type": "article",
+        "level": 2,
+        "order": 321,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-243-",
+        "title": "Article 243 :",
+        "type": "article",
+        "level": 2,
+        "order": 322,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-244-",
+        "title": "Article 244 :",
+        "type": "article",
+        "level": 2,
+        "order": 323,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-245-",
+        "title": "Article 245 :",
+        "type": "article",
+        "level": 2,
+        "order": 324,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-246-",
+        "title": "Article 246 :",
+        "type": "article",
+        "level": 2,
+        "order": 325,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-247-",
+        "title": "Article 247 :",
+        "type": "article",
+        "level": 2,
+        "order": 326,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-248-",
+        "title": "Article 248 :",
+        "type": "article",
+        "level": 2,
+        "order": 327,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-249-",
+        "title": "Article 249 :",
+        "type": "article",
+        "level": 2,
+        "order": 329,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-250-",
+        "title": "Article 250 :",
+        "type": "article",
+        "level": 2,
+        "order": 330,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-251-",
+        "title": "Article 251 :",
+        "type": "article",
+        "level": 2,
+        "order": 331,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-252-",
+        "title": "Article 252 :",
+        "type": "article",
+        "level": 2,
+        "order": 332,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-253-",
+        "title": "Article 253 :",
+        "type": "article",
+        "level": 2,
+        "order": 333,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-254-",
+        "title": "Article 254 :",
+        "type": "article",
+        "level": 2,
+        "order": 334,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-255-",
+        "title": "Article 255 :",
+        "type": "article",
+        "level": 2,
+        "order": 336,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-256-",
+        "title": "Article 256 :",
+        "type": "article",
+        "level": 2,
+        "order": 337,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-257-",
+        "title": "Article 257 :",
+        "type": "article",
+        "level": 2,
+        "order": 338,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-258-",
+        "title": "Article 258 :",
+        "type": "article",
+        "level": 2,
+        "order": 339,
+        "path": [
+          "livre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "livre-8",
+        "title": "LIVRE 8 : PERSONNELS DE L’AVIATION CIVILE",
+        "type": "livre",
+        "level": 1,
+        "order": 340,
+        "path": [
+          "livre-8"
+        ],
+        "children": [
+          "article-259-",
+          "article-260-",
+          "article-261-",
+          "article-262-",
+          "article-263-",
+          "article-264-",
+          "article-265-",
+          "article-266-",
+          "article-267-",
+          "article-268-",
+          "article-269-",
+          "article-270-",
+          "article-271-",
+          "article-272-",
+          "article-273-",
+          "article-274-",
+          "article-275-",
+          "article-276-",
+          "article-277-",
+          "article-278-",
+          "article-279-",
+          "article-280-",
+          "article-281-",
+          "article-282-",
+          "article-283-",
+          "article-284-",
+          "article-285-",
+          "article-286-",
+          "article-287-",
+          "article-288-",
+          "article-289-",
+          "article-290-",
+          "article-291-",
+          "article-292-",
+          "article-293",
+          "article-294-"
+        ]
+      },
+      {
+        "id": "article-259-",
+        "title": "Article 259 :",
+        "type": "article",
+        "level": 2,
+        "order": 343,
+        "path": [
+          "livre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-260-",
+        "title": "Article 260 :",
+        "type": "article",
+        "level": 2,
+        "order": 344,
+        "path": [
+          "livre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-261-",
+        "title": "Article 261 :",
+        "type": "article",
+        "level": 2,
+        "order": 347,
+        "path": [
+          "livre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-262-",
+        "title": "Article 262 :",
+        "type": "article",
+        "level": 2,
+        "order": 348,
+        "path": [
+          "livre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-263-",
+        "title": "Article 263 : Tout titulaire d'une licence détient un carnet de vol dont le modèle est défini par voie réglementaire et sur lequel sont inscrites la nature et la durée des vols.",
+        "type": "article",
+        "level": 2,
+        "order": 349,
+        "path": [
+          "livre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-264-",
+        "title": "Article 264 :",
+        "type": "article",
+        "level": 2,
+        "order": 350,
+        "path": [
+          "livre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-265-",
+        "title": "Article 265 :",
+        "type": "article",
+        "level": 2,
+        "order": 352,
+        "path": [
+          "livre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-266-",
+        "title": "Article 266 :",
+        "type": "article",
+        "level": 2,
+        "order": 353,
+        "path": [
+          "livre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-267-",
+        "title": "Article 267 :",
+        "type": "article",
+        "level": 2,
+        "order": 354,
+        "path": [
+          "livre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-268-",
+        "title": "Article 268 :",
+        "type": "article",
+        "level": 2,
+        "order": 356,
+        "path": [
+          "livre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-269-",
+        "title": "Article 269 : Les fonctions de commandant de bord sont exercées par un pilote.",
+        "type": "article",
+        "level": 2,
+        "order": 357,
+        "path": [
+          "livre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-270-",
+        "title": "Article 270 :",
+        "type": "article",
+        "level": 2,
+        "order": 358,
+        "path": [
+          "livre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-271-",
+        "title": "Article 271 :",
+        "type": "article",
+        "level": 2,
+        "order": 359,
+        "path": [
+          "livre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-272-",
+        "title": "Article 272 :",
+        "type": "article",
+        "level": 2,
+        "order": 362,
+        "path": [
+          "livre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-273-",
+        "title": "Article 273 :",
+        "type": "article",
+        "level": 2,
+        "order": 363,
+        "path": [
+          "livre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-274-",
+        "title": "Article 274 :",
+        "type": "article",
+        "level": 2,
+        "order": 364,
+        "path": [
+          "livre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-275-",
+        "title": "Article 275 :",
+        "type": "article",
+        "level": 2,
+        "order": 365,
+        "path": [
+          "livre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-276-",
+        "title": "Article 276 :",
+        "type": "article",
+        "level": 2,
+        "order": 366,
+        "path": [
+          "livre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-277-",
+        "title": "Article 277 :",
+        "type": "article",
+        "level": 2,
+        "order": 367,
+        "path": [
+          "livre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-278-",
+        "title": "Article 278 :",
+        "type": "article",
+        "level": 2,
+        "order": 368,
+        "path": [
+          "livre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-279-",
+        "title": "Article 279 :",
+        "type": "article",
+        "level": 2,
+        "order": 369,
+        "path": [
+          "livre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-280-",
+        "title": "Article 280 :",
+        "type": "article",
+        "level": 2,
+        "order": 370,
+        "path": [
+          "livre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-281-",
+        "title": "Article 281 :",
+        "type": "article",
+        "level": 2,
+        "order": 372,
+        "path": [
+          "livre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-282-",
+        "title": "Article 282 :",
+        "type": "article",
+        "level": 2,
+        "order": 374,
+        "path": [
+          "livre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-283-",
+        "title": "Article 283 :",
+        "type": "article",
+        "level": 2,
+        "order": 375,
+        "path": [
+          "livre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-284-",
+        "title": "Article 284 : Les conditions d'agrément des médecins et des centres d’expertise médicale du personnel professionnel dont l'emploi est subordonné à la détention d'une licence sont fixées par voie réglementaire.",
+        "type": "article",
+        "level": 2,
+        "order": 376,
+        "path": [
+          "livre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-285-",
+        "title": "Article 285 :",
+        "type": "article",
+        "level": 2,
+        "order": 378,
+        "path": [
+          "livre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-286-",
+        "title": "Article 286 :",
+        "type": "article",
+        "level": 2,
+        "order": 379,
+        "path": [
+          "livre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-287-",
+        "title": "Article 287 :",
+        "type": "article",
+        "level": 2,
+        "order": 380,
+        "path": [
+          "livre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-288-",
+        "title": "Article 288 :",
+        "type": "article",
+        "level": 2,
+        "order": 381,
+        "path": [
+          "livre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-289-",
+        "title": "Article 289 :",
+        "type": "article",
+        "level": 2,
+        "order": 382,
+        "path": [
+          "livre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-290-",
+        "title": "Article 290 :",
+        "type": "article",
+        "level": 2,
+        "order": 385,
+        "path": [
+          "livre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-291-",
+        "title": "Article 291 :",
+        "type": "article",
+        "level": 2,
+        "order": 386,
+        "path": [
+          "livre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-292-",
+        "title": "Article 292 :",
+        "type": "article",
+        "level": 2,
+        "order": 388,
+        "path": [
+          "livre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-293",
+        "title": "Article 293:",
+        "type": "article",
+        "level": 2,
+        "order": 389,
+        "path": [
+          "livre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-294-",
+        "title": "Article 294 :",
+        "type": "article",
+        "level": 2,
+        "order": 390,
+        "path": [
+          "livre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "livre-9",
+        "title": "LIVRE 9 : SANCTIONS, DISPOSITIONS DIVERSES ET FINALES",
+        "type": "livre",
+        "level": 1,
+        "order": 391,
+        "path": [
+          "livre-9"
+        ],
+        "children": [
+          "article-295-",
+          "article-296-",
+          "article-297-",
+          "article-298-",
+          "article-299-",
+          "article-300",
+          "article-301-",
+          "article-302-",
+          "article-303-",
+          "article-304-",
+          "article-305-",
+          "article-306-",
+          "article-307-",
+          "article-308-",
+          "article-309-",
+          "article-310-",
+          "article-311-",
+          "article-312",
+          "article-313-",
+          "article-314-",
+          "article-315-",
+          "article-316-",
+          "article-317",
+          "article-318",
+          "article-319-",
+          "article-320-",
+          "article-321-",
+          "article-322-",
+          "article-323-",
+          "article-324-",
+          "article-325-",
+          "article-326-",
+          "article-327-",
+          "article-328",
+          "article-329-",
+          "article-330-",
+          "article-331-",
+          "article-332-",
+          "article-333-",
+          "article-334-",
+          "article-335-",
+          "article-336-",
+          "article-337-",
+          "article-338-",
+          "article-339-",
+          "article-340-",
+          "article-341-",
+          "article-342-",
+          "article-343-",
+          "article-344-",
+          "article-345-",
+          "article-346-",
+          "article-347-",
+          "article-348-",
+          "article-349-"
+        ]
+      },
+      {
+        "id": "article-295-",
+        "title": "Article 295 :",
+        "type": "article",
+        "level": 2,
+        "order": 394,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-296-",
+        "title": "Article 296 :",
+        "type": "article",
+        "level": 2,
+        "order": 395,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-297-",
+        "title": "Article 297 :",
+        "type": "article",
+        "level": 2,
+        "order": 396,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-298-",
+        "title": "Article 298 :",
+        "type": "article",
+        "level": 2,
+        "order": 397,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-299-",
+        "title": "Article 299 :",
+        "type": "article",
+        "level": 2,
+        "order": 398,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-300",
+        "title": "Article 300:",
+        "type": "article",
+        "level": 2,
+        "order": 400,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-301-",
+        "title": "Article 301 :",
+        "type": "article",
+        "level": 2,
+        "order": 401,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-302-",
+        "title": "Article 302 :",
+        "type": "article",
+        "level": 2,
+        "order": 403,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-303-",
+        "title": "Article 303 :",
+        "type": "article",
+        "level": 2,
+        "order": 404,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-304-",
+        "title": "Article 304 :",
+        "type": "article",
+        "level": 2,
+        "order": 405,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-305-",
+        "title": "Article 305 :",
+        "type": "article",
+        "level": 2,
+        "order": 406,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-306-",
+        "title": "Article 306 :",
+        "type": "article",
+        "level": 2,
+        "order": 408,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-307-",
+        "title": "Article 307 :",
+        "type": "article",
+        "level": 2,
+        "order": 409,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-308-",
+        "title": "Article 308 :",
+        "type": "article",
+        "level": 2,
+        "order": 410,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-309-",
+        "title": "Article 309 :",
+        "type": "article",
+        "level": 2,
+        "order": 411,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-310-",
+        "title": "Article 310 :",
+        "type": "article",
+        "level": 2,
+        "order": 412,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-311-",
+        "title": "Article 311 :",
+        "type": "article",
+        "level": 2,
+        "order": 415,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-312",
+        "title": "Article 312:",
+        "type": "article",
+        "level": 2,
+        "order": 416,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-313-",
+        "title": "Article 313 :",
+        "type": "article",
+        "level": 2,
+        "order": 417,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-314-",
+        "title": "Article 314 :",
+        "type": "article",
+        "level": 2,
+        "order": 418,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-315-",
+        "title": "Article 315 :",
+        "type": "article",
+        "level": 2,
+        "order": 419,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-316-",
+        "title": "Article 316 : Quiconque a apposé ou fait apposer sur un aéronef des marques d'immatriculation non conformes à celles du certificat d'immatriculation ou a supprimé ou fait supprimer, rendu ou fait rendre illisibles les marques exactement apposées, est puni d'une amende maximale de dix millions (10 000 000) de francs CFA et d'un emprisonnement maximal d'un an.",
+        "type": "article",
+        "level": 2,
+        "order": 420,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-317",
+        "title": "Article 317:",
+        "type": "article",
+        "level": 2,
+        "order": 421,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-318",
+        "title": "Article 318:",
+        "type": "article",
+        "level": 2,
+        "order": 422,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-319-",
+        "title": "Article 319 :",
+        "type": "article",
+        "level": 2,
+        "order": 423,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-320-",
+        "title": "Article 320 :",
+        "type": "article",
+        "level": 2,
+        "order": 424,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-321-",
+        "title": "Article 321 :",
+        "type": "article",
+        "level": 2,
+        "order": 425,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-322-",
+        "title": "Article 322 :",
+        "type": "article",
+        "level": 2,
+        "order": 426,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-323-",
+        "title": "Article 323 :",
+        "type": "article",
+        "level": 2,
+        "order": 427,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-324-",
+        "title": "Article 324 :",
+        "type": "article",
+        "level": 2,
+        "order": 428,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-325-",
+        "title": "Article 325 : Sans préjudice de peines plus fortes s’il y a lieu, est puni des peines prévues par le droit commun ou toutes autres dispositions pénales en vigueur, le fait de détruire, de détourner ou de tenter de détruire ou de détourner un aéronef ou des pièces de rechange grevées d'une hypothèque régulièrement inscrite.",
+        "type": "article",
+        "level": 2,
+        "order": 429,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-326-",
+        "title": "Article 326 :",
+        "type": "article",
+        "level": 2,
+        "order": 430,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-327-",
+        "title": "Article 327 :",
+        "type": "article",
+        "level": 2,
+        "order": 431,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-328",
+        "title": "Article 328:",
+        "type": "article",
+        "level": 2,
+        "order": 432,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-329-",
+        "title": "Article 329 :",
+        "type": "article",
+        "level": 2,
+        "order": 433,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-330-",
+        "title": "Article 330 :",
+        "type": "article",
+        "level": 2,
+        "order": 434,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-331-",
+        "title": "Article 331 :",
+        "type": "article",
+        "level": 2,
+        "order": 435,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-332-",
+        "title": "Article 332 :",
+        "type": "article",
+        "level": 2,
+        "order": 436,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-333-",
+        "title": "Article 333 :",
+        "type": "article",
+        "level": 2,
+        "order": 437,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-334-",
+        "title": "Article 334 :",
+        "type": "article",
+        "level": 2,
+        "order": 438,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-335-",
+        "title": "Article 335 :",
+        "type": "article",
+        "level": 2,
+        "order": 439,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-336-",
+        "title": "Article 336 :",
+        "type": "article",
+        "level": 2,
+        "order": 440,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-337-",
+        "title": "Article 337 :",
+        "type": "article",
+        "level": 2,
+        "order": 441,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-338-",
+        "title": "Article 338 :",
+        "type": "article",
+        "level": 2,
+        "order": 442,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-339-",
+        "title": "Article 339 : Commet une infraction dirigée contre l'aviation civile toute personne qui :",
+        "type": "article",
+        "level": 2,
+        "order": 443,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-340-",
+        "title": "Article 340 :",
+        "type": "article",
+        "level": 2,
+        "order": 444,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-341-",
+        "title": "Article 341 :",
+        "type": "article",
+        "level": 2,
+        "order": 445,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-342-",
+        "title": "Article 342 :",
+        "type": "article",
+        "level": 2,
+        "order": 446,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-343-",
+        "title": "Article 343 :",
+        "type": "article",
+        "level": 2,
+        "order": 448,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-344-",
+        "title": "Article 344 :",
+        "type": "article",
+        "level": 2,
+        "order": 449,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-345-",
+        "title": "Article 345 :",
+        "type": "article",
+        "level": 2,
+        "order": 450,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-346-",
+        "title": "Article 346 :",
+        "type": "article",
+        "level": 2,
+        "order": 451,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-347-",
+        "title": "Article 347 : Toutes les dispositions des lois relatives à la répression des infractions à la réglementation douanière sont applicables aux marchandises importées ou exportées par aéronef sous un régime douanier quelconque.",
+        "type": "article",
+        "level": 2,
+        "order": 453,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-348-",
+        "title": "Article 348 :",
+        "type": "article",
+        "level": 2,
+        "order": 454,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-349-",
+        "title": "Article 349 :",
+        "type": "article",
+        "level": 2,
+        "order": 457,
+        "path": [
+          "livre-9"
+        ],
+        "children": []
+      }
+    ],
+    "totalArticles": 349
+  },
+  "source": "nationale"
+}

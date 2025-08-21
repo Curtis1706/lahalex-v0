@@ -1,0 +1,1 @@
+Tout patentable exerçant à demeure est tenu, dans son établissement, de justifier du paiement de la patente au titre de l’année en cours, lorsqu’il en est requis par les agents de l’administration fiscale.

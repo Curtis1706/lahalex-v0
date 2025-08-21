@@ -1,0 +1,1 @@
+Ceux qui se sont rendus coupables d'une violation des articles 132, 137, 138, 144, 147 et 148, sont punis d'un emprisonnement de un (01) an à trois (03) ans et d'une amende de cent mille (100 000) à cinq millions (5 000 000) FCFA ou de l'une de ces deux peines seulement.

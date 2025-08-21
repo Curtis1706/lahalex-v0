@@ -1,0 +1,1 @@
+Les dispositions du présent code s’appliquent aux actes et faits juridiques postérieurs à son entrée en vigueur ainsi qu’aux conséquences que la loi tire des actes et faits antérieurs ayant créé une situation juridique régulière au regard de la coutume et de la loi.

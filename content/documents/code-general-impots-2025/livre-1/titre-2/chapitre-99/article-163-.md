@@ -1,0 +1,1 @@
+Tous  fermiers  ou  locataires  sont  tenus  de  payer,  en  l’acquit  des propriétaires, la taxe foncière unique pour les biens qu’ils ont pris à ferme ou à loyer et les propriétaires sont obligés de recevoir les quittances de cette taxe à valoir sur le prix des fermages ou loyers.

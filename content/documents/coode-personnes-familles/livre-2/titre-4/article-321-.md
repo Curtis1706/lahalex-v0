@@ -1,0 +1,2 @@
+L’indication du nom de la mère sur l’acte de naissance de l’enfant suffit à établir la filiation maternelle. Toutefois, la femme dont le nom est indiqué à l’acte peut contester être la mère de l'enfant lorsqu’elle n’a pas été l’auteur de la déclaration de naissance.
+L'enfant peut être reconnu par la mère lorsque le nom de celle-ci n’est pas indiqué sur son acte de naissance.

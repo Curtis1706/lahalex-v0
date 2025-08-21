@@ -1,0 +1,1 @@
+Si un incident à la liberté surveillée révèle un défaut de surveillance caractérisé de la part des parents, tuteur, gardien, des entraves systématiques à la surveillance des délégués, le juge des enfants, quelle que soit la décision prise pour le mineur, peut condamner les coupables à une amende de dix mille (10 000) à cent mille (100 000) francs après avis du ministère public.

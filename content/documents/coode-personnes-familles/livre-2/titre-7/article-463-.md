@@ -1,0 +1,2 @@
+Le juge des tutelles a un pouvoir de haute direction et de surveillance générale sur les tutelles et administrations légales de son ressort.
+En dehors des cas spécialement prévus par la loi, il peut, dans l’exercice de ce pouvoir, et à tout moment convoquer les personnes chargées de l’administration légale ou tutélaire, leur réclamer des éclaircissements, leur adresser des observations et prononcer contre elles des injonctions. Il peut condamner ceux qui n’auraient pas déféré à ces injonctions à une amende civile de vingt-cinq mille (25.000) à cent mille (100.000) francs.

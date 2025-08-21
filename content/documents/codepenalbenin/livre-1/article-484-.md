@@ -1,0 +1,1 @@
+Il est interdit de falsifier toutes denrées, en leur faisant subir une manipulation quelconque non autorisée ayant pour but ou pour effet de leur donner l’apparence d’une marchandise de meilleure qualité, de leur enlever certains éléments, ou de leur en substituer d’autres.

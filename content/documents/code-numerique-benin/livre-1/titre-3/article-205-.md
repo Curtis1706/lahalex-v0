@@ -1,0 +1,2 @@
+Non thésaurisation et utilisation optimale des ressources en numérotation
+En application du principe de non thésaurisation et d’utilisation optimale des ressources en numérotation, l’Autorité de régulation peut procéder au retrait de toute ressource en numérotation qui ne serait pas exploitée par un opérateur dans un délai de douze (12) mois suivant son assignation, sous réserve des ressources qui lui sont nécessaires pour faire face à l’évolution prévisible de son activité dans les douze (12) mois à venir.

@@ -1,0 +1,2 @@
+(Modifié par la loi de finances pour 2023) Sont exonérées du paiement de la taxe, les entreprises, propriétaires ou copropriétaires d’un club professionnel de sport engagé dans un championnat national, au profit duquel elles réalisent des dépenses de fonctionnement ou d’investissement.
+Les conditions ci-dessus s’appliquent également aux classes sportives.

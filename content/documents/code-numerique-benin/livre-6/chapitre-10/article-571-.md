@@ -1,0 +1,2 @@
+Chantage
+Quiconque extorque, en menaçant de révéler ou d'imputer des faits de nature à porter atteinte à l'honneur ou à la considération, soit une signature, un engagement ou une renonciation, soit la révélation d'un secret, soit la remise de fonds, de valeurs ou d'une chose quelconque au moyen d’un ou sur un réseau de communication électronique ou un système informatique, est puni de six (6) ans d'emprisonnement et de cinq millions (5 000 000) de francs CFA d'amende.

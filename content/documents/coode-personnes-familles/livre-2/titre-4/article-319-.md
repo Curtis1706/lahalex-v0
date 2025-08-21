@@ -1,0 +1,3 @@
+La filiation naturelle est légalement établie par reconnaissance volontaire.
+Elle peut aussi être légalement établie par la possession d’état ou par l’effet d’un jugement.
+Néanmoins, s’il existe entre les père et mère de l’enfant naturel un des empêchements à mariage prévus par le présent code pour cause de parenté, la filiation étant déjà établie à l’égard de l’un, il est interdit de l’établir à l’égard de l’autre.

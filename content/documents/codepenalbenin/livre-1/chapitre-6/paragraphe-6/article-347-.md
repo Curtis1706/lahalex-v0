@@ -1,0 +1,4 @@
+Seront solidairement punis d’un emprisonnement de un (01) mois à un (01) an et d’une amende de cent mille (100.000) à deux millions (2.000.000) de francs CFA ou de l’une de ces deux peines seulement, les membres du comité de direction d’une entreprise publique ou semi-publique :
+1. qui n’auront pas établi, pour chaque exercice, les comptes d’exploitation prévisionnels et le budget d’investissement prévisionnel ;
+2. qui n’auront pas établi, à la fin de chaque exercice, l’inventaire, le compte d’exploitation générale, le compte de pertes et profits, le bilan et un rapport écrit sur la situation de l’entreprise et l’activité de celle-ci pendant l’exercice écoulé ;
+3. qui n’auront pas employé, pour l’établissement de ces documents, les mêmes formes et les mêmes méthodes d’évaluation que celles prévues par le plan comptable national.

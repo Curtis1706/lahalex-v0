@@ -1,0 +1,3 @@
+Lien d’autorité
+Lorsque le traitement de données à caractère personnel, visées aux articles 394 et 395 du présent code, est exclusivement autorisé par le consentement écrit que ce soit sur un support papier, support électronique ou tout autre support équivalent de la personne concernée, ce traitement reste, néanmoins, interdit lorsque le responsable du traitement est l'employeur présent ou potentiel de la personne concernée ou lorsque la personne concernée se trouve dans une situation de dépendance vis-à-vis du responsable du traitement qui l'empêche de refuser librement de donner son consentement.
+Cette interdiction est levée lorsque le traitement vise l'octroi d'un avantage à la personne concernée.

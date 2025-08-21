@@ -1,0 +1,2 @@
+Lorsque l’exécution provisoire n’a pas été ordonnée, le recours exercé dans le délai suspend l’exécution de la décision.
+Le recours est formé par une requête signée par l'intéressé ou un avocat et remise ou adressée par lettre recommandée au greffe du tribunal de première instance.

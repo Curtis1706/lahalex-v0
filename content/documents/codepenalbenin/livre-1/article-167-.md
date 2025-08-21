@@ -1,0 +1,1 @@
+Une personne morale peut être déclarée pénalement responsable d’actes de terrorisme.

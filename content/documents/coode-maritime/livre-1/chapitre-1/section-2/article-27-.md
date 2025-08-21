@@ -1,0 +1,1 @@
+Le domaine public maritime est la partie du domaine public national qui comprend dans la limite des eaux intérieures, un domaine public naturel et un domaine public artificiel.

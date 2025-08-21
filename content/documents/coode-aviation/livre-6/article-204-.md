@@ -1,0 +1,3 @@
+Le transporteur aérien met en œuvre des mesures de sûreté sur le fret et les colis postaux avant leur embarquement dans les aéronefs.
+Le transporteur aérien effectue les contrôles de sûreté mentionnés à l'article 205 de la présente loi sur le fret et les colis postaux qui lui sont remis ou s'assure que ce fret ou ces colis lui sont remis par un agent habilité.
+Le fret et les colis postaux qui, de par leurs caractéristiques, ne peuvent pas être contrôlés après leur conditionnement, sont remis à l'agent habilité ou à défaut, au transporteur aérien, exclusivement par un expéditeur connu.

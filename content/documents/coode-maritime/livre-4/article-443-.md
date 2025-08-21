@@ -1,0 +1,2 @@
+Les opérations de remorquage en mer s’effectuent sous la direction du capitaine du remorqueur, et les dommages de tous ordres provoqués par le navire remorqué ou par le remorqueur sont à la charge de ce dernier à moins qu’il n’établisse la faute du navire remorqué.
+Les parties peuvent par convention expresse et écrite inverser la présomption de responsabilité susvisée.

@@ -1,0 +1,2 @@
+Article 546 : Mise en conformité - Autorisation
+Les courtiers et les sociétés de courtage, qui exercent dans les Etats membres de la CIMA devront déposer auprès du Ministre en charge du secteur des assurances de chaque pays membre, dans les trois mois qui suivent l’entrée en vigueur du présent Code, une demande de régularisation d’autorisation conformément aux dispositions de l’article 533.

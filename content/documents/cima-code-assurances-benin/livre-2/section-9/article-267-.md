@@ -1,0 +1,3 @@
+Accident de plusieurs véhicules
+En cas d’accident ne mettant en cause qu’un seul véhicule, la procédure d’offre incombe à l’assureur de responsabilité civile de ce véhicule quelle que soit la qualité de la victime : personne transportée ou tiers circulant (piéton, cycliste, cavalier…).
+Lorsque plusieurs véhicules participent à la survenance d’un accident à conséquences corporelles, l’offre d’indemnisation aux victimes intervient selon les modalités ci-après.

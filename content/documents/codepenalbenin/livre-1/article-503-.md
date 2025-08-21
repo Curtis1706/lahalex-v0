@@ -1,0 +1,1 @@
+Est puni de la même peine le fait d’introduire, ou tenter d’introduire en République du Bénin, des individus destinés à faire l’objet de la convention citée en l’article précédent ou de faire sortir ou tenter de faire sortir des individus de la République du Bénin en vue d’une telle convention à contracter à l’étranger.

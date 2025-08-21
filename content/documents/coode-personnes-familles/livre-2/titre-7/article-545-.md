@@ -1,0 +1,2 @@
+Quel que soit le régime de protection applicable, le logement de la personne protégée et les meubles meublants dont il est garni doivent être conservés à sa disposition aussi longtemps qu’il est possible.
+Le pouvoir d’administrer, en ce qui touche ses biens, ne permet que des conventions de jouissance précaire, lesquelles devront cesser, malgré toutes dispositions ou stipulations contraires, dès le retour de la personne protégée.

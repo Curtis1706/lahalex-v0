@@ -1,0 +1,14 @@
+{
+  "id": "article-800-",
+  "title": "Article 800 :",
+  "numero": "800 ",
+  "document": "codeprocedurepenalbenin",
+  "path": [
+    "livre-5"
+  ],
+  "navigation": {
+    "parent": "livre-5",
+    "previous": "article-799-",
+    "next": "article-801-"
+  }
+}

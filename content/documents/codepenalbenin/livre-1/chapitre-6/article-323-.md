@@ -1,0 +1,1 @@
+Les jugements ou arrêts rendus contre tout faussaire condamné feront l’objet d’une très large publicité à ses frais.

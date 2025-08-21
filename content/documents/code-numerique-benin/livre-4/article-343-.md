@@ -1,0 +1,3 @@
+Conditions de validité du contrat conclu par voie électronique
+Pour qu’un contrat soit valablement conclu par voie électronique, l'utilisateur doit avoir eu la possibilité, par des moyens techniques appropriés, efficaces et aisément accessibles, de vérifier le détail de sa commande et d'y apporter les corrections nécessaires, avant de confirmer son acceptation. Le détail de la commande doit permettre un consentement éclairé et avisé.
+L'utilisateur doit avoir eu la possibilité d’interrompre la passation de la commande à tout moment, avant de confirmer son acceptation.

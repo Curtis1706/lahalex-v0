@@ -1,0 +1,1 @@
+Toutes donations faites aux époux par contrat de mariage sont, lors de l'ouverture de la succession du donateur, réductibles à la portion disponible.

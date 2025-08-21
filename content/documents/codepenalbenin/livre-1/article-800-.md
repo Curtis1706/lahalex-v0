@@ -1,0 +1,4 @@
+Les complices de banqueroute, simple ou frauduleuse, encourent suivant le cas, même s’ils n’ont pas la qualité de commerçant, les peines suivantes :
+1. les banqueroutiers simples, d’un emprisonnement de deux (02) ans à cinq (05) ans et d’une amende de cinq cent mille (500.000) francs CFA à deux millions (2.000.000) de francs CFA ;
+2. les banqueroutiers frauduleux, d’un emprisonnement de cinq (05) ans à dix (10) ans et d’une amende de deux millions (2 000 000) de francs CFA à cinq millions (5 000 000) de francs CFA.
+En outre, l’interdiction des droits mentionnés à l’article 38 du présent code pourra être prononcée à l’encontre des banqueroutiers frauduleux.

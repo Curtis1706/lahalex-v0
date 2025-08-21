@@ -1,0 +1,2 @@
+Si, dans une cause pénale, la comparution personnelle d’un témoin résidant en République du Bénin est jugée nécessaire par un Gouvernement étranger, le Gouvernement béninois, saisi par voie diplomatique l’engage à se rendre à l’invitation qui lui est adressée.
+Néanmoins, la citation n’est reçue et signifiée qu’à la condition que le témoin ne pourra être poursuivi ou détenu pour des raisons antérieures à sa comparution.

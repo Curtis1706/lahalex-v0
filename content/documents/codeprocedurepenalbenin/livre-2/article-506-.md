@@ -1,0 +1,1 @@
+La personne civilement responsable et la partie civile peuvent former opposition à tout jugement par défaut à leur encontre, dans les délais fixés à l’article 505 alinéa 1<sup>er</sup> du présent code, lesquels courent à compter de la signification du jugement, quel qu’en soit le mode.

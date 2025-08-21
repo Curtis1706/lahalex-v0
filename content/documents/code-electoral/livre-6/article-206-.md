@@ -1,0 +1,1 @@
+Nonobstant les dispositions du présent code relatives à l'ANIP et au rétablissement de la LEI, les membres du Conseil d'orientation et de supervision (COS) se renouvellent et supervisent la mise à jour du fichier électoral national jusqu'à l'établissement de la LEPI avec laquelle s'organise l'élection du président de la République en 2021.

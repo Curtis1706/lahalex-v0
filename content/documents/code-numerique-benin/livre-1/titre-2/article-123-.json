@@ -1,0 +1,15 @@
+{
+  "id": "article-123-",
+  "title": "Article 123 : Délibérations du Conseil de régulation",
+  "numero": "123 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-122-",
+    "next": "article-124-"
+  }
+}

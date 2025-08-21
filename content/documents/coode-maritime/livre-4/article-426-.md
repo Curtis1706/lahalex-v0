@@ -1,0 +1,1 @@
+Les actions intentées par les ayants droit à la marchandise contre le consignataire de la cargaison se prescrivent par un (01) an.

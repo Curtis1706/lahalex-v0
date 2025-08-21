@@ -1,0 +1,1 @@
+Les photocopies et toutes autres reproductions obtenues par un moyen photographique, établies pour tenir lieu des expéditions, extraits ou copies respectant les critères prévus par l’article 411 ci-deSOUS, sont soumises à un droit de timbre égal à celui perçu sur les écrits reproduits.

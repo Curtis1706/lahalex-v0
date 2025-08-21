@@ -1,0 +1,2 @@
+La comptabilité générale de la commune ou de l'établissement public de coopération intercommunale a pour objet de décrire le patrimoine de la commune ou de l’établissement public de coopération intercommunale et son évolution. Elle est tenue en partie double et est fondée sur le principe de la constatation des droits et des obligations.
+Les opérations sont prises en compte au titre de l'exercice auquel elles se rattachent, indépendamment de leur date de paiement ou d'encaissement.

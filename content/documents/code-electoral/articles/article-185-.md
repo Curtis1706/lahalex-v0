@@ -1,0 +1,1 @@
+En tout état de cause, chaque arrondissement dispose au minimum, d'un siège au Conseil communal ou municipal, quelle que soit sa population.

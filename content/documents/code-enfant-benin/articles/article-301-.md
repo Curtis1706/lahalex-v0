@@ -1,0 +1,2 @@
+Article 301 : Pouvoirs du juge des enfants
+Le juge des enfants a toutes possibilités de convoquer en son cabinet et de visiter l’enfant, ses parents, son gardien et toutes personnes susceptibles de lui donner des renseignements sur sa conduite et sur l’utilité des mesures prises.

@@ -1,0 +1,2 @@
+Le tribunal correctionnel est tenu de statuer au fond dans le délai maximum de quarante-cinq (45) jours à compter de la première audience.
+En cas de diffamation ou d’injure pendant la période électorale contre un candidat à une fonction élective, il est obligatoirement statué sur la cause avant le jour fixé pour le scrutin.

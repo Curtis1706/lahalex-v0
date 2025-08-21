@@ -1,0 +1,2 @@
+Les entreprises nouvelles régulièrement créées sont exonérées de la contribution des patentes sur les douze (12) premiers mois d’activité.
+Au titre de l’année d’expiration de la période d’exonération, la contribution est due à partir du premier jour du mois suivant celui au cours duquel le délai est expiré.

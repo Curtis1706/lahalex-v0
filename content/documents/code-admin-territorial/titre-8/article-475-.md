@@ -1,0 +1,1 @@
+Le comptable de la commune ou de l’établissement public de coopération intercommunale ne peut subordonner ses actes de paiement à une appréciation de l'opportunité des décisions prises par l'ordonnateur.

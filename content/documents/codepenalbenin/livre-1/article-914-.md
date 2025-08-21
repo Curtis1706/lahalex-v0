@@ -1,0 +1,2 @@
+L’épandage des matières de vidange à la surface des terres est interdit sur tous les terrains où sont cultivés des fruits et légumes poussant à ras de terre et destinés à être consommés crus.
+L’épandage de ces matières de vidange peut aussi, compte tenu des conditions locales particulières, être interdit par les services d’hygiène et d’assainissement dans des zones délimitées autour des agglomérations, cours d’eau, sources, point d’eau.

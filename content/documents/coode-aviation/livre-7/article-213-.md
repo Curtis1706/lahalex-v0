@@ -1,0 +1,2 @@
+L'exercice d'une activité de transport aérien à titre professionnel et contre rémunération est subordonné à l'obtention préalable d'un agrément délivré par le ministre chargé de l'aviation civile, suivant des modalités fixées par voie réglementaire.
+L'agrément est complété par un permis d'exploitation aérienne délivré par l'organisme national en charge de l'aviation civile et dont les modalités de délivrance, de validité, de maintien et de retrait sont définies conformément à la réglementation en vigueur.

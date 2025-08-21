@@ -1,0 +1,5 @@
+L'hypothèque est, à peine de nullité, constituée par écrit.
+L'acte constitutif peut être authentique ou sous-seing privé. Il mentionne chacun des éléments sur lesquels porte l'hypothèque.
+Il peut être à ordre ; dans ce cas, l’endos emporte translation du droit hypothécaire.
+La mention dans l'acte de vente d'un aéronef que tout ou partie du prix reste dû en valeur entraîne, sauf stipulation contraire, l’hypothèque au profit du vendeur en garantie de la somme indiquée comme restant, à condition que le vendeur requière l'inscription de cette hypothèque dans la forme prévue par la réglementation en vigueur.
+Un aéronef en construction ne peut être hypothéqué que s’il a été préalablement déclaré au service chargé de la tenue du registre d'immatriculation. Cette déclaration indique les principales caractéristiques de l’aéronef en construction. Il en est délivré récépissé.

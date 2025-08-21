@@ -1,0 +1,1 @@
+Les sommes non réclamées sont versées à la caisse des dépôts et consignations ou à l’organisme en tenant lieu.

@@ -1,0 +1,1 @@
+La location peut également se faire sous forme de crédit-bail.

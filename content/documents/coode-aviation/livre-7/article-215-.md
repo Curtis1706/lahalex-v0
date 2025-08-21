@@ -1,0 +1,1 @@
+Les conditions d'exécution des vols privés sont fixées par la présente loi et ses textes d'application.

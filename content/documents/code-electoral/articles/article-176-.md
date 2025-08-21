@@ -1,0 +1,1 @@
+Les membres élus du Conseil qui administrent la commune sont dénommés Conseillers communaux. Pour les communes à statut particulier, ils sont dénommés Conseillers municipaux.

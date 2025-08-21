@@ -1,0 +1,4 @@
+Conventions d’accès et d’interconnexion
+L’accès et l’interconnexion font l'objet d'une convention de droit privé entre les parties concernées. Cette convention détermine, dans le respect des dispositions du présent Chapitre et des actes règlementaires pris pour son application, les conditions techniques et financières relatives à ces prestations.
+Les conventions d’accès et d’interconnexion sont communiquées, pour approbation, à l’Autorité de régulation, qui peut en demander la modification dans un délai d’un (01) mois suivant leur réception. Toute modification de ces conventions par les parties doit être notifiée à l’Autorité de régulation.
+Un décret pris en Conseil des Ministres fixe les modalités d’application de la présente 	section, notamment les conditions générales et les principes de tarification applicables aux 	accords d’accès et d’interconnexion.

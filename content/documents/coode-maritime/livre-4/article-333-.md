@@ -1,0 +1,2 @@
+L’affrètement coque nue consiste à mettre pour un temps défini un navire déterminé, sans équipage et sans armement matériel, ou avec un armement matériel plus ou moins complet, à la disposition d’un affréteur qui l’exploitera lui-même, contre paiement d’un loyer.
+L’affrètement coque nue peut également consister dans la mise du navire équipé et de son équipage à la disposition d’un affréteur qui l’exploite lui-même.

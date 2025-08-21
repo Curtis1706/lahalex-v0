@@ -1,0 +1,3 @@
+Pour l’application du présent code, est considéré comme navire tout bâtiment exploité en milieu marin, de quelque type que ce soit y compris les submersibles, les hydroptères, les aéroglisseurs ainsi que les plates-formes, installations et tout engin flottant qu’il soit autopropulsé ou non.
+La qualité de navire résulte de son immatriculation par les soins de l’autorité maritime et de son affectation à la navigation maritime.
+Les navires et les autres bâtiments de mer sont meubles, mais sont susceptibles d’hypothèques.

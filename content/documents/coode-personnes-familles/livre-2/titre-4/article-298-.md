@@ -1,0 +1,2 @@
+Les tribunaux règlent les conflits de filiation pour lesquels la loi n’a pas fixé d’autres principes, en déterminant par tous les moyens de preuve, la filiation la plus vraisemblable.
+A défaut d’éléments suffisants de conviction, ils ont recours à la possession d'état.

@@ -1,0 +1,1 @@
+La Haute Autorité de l’Audiovisuel et de la Communication accorde les autorisations d’exploitation aux radiodiffusions sonores privées non commerciales dans la mesure des disponibilités de fréquences.

@@ -1,0 +1,1 @@
+Tout étranger qui, antérieurement à la date de publication de la présente loi, a épousé une personne à laquelle la qualité de Béninois est reconnue par les dispositions qui précèdent, acquiert la nationalité béninoise, conformément aux dispositions des articles 23 à 27 de la présente loi.

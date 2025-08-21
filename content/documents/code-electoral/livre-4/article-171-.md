@@ -1,0 +1,1 @@
+Si plusieurs listes adoptent la même couleur ou le même signe, la Commission électorale nationale autonome statue dans un délai de huit (08) jours, soit en accordant la priorité du choix à la liste qui a été déposée la première, soit en accordant la couleur ou le signe à la liste qui en est traditionnellement dépositaire.

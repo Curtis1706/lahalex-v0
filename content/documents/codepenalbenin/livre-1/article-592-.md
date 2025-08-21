@@ -1,0 +1,1 @@
+Est punie d’une amende de cent mille (100.000) francs CFA à deux cent cinquante (250.000) francs CFA, toute personne qui, ayant connaissance du déplacement frauduleux d’un enfant, s’est abstenue d’en informer l’autorité administrative territorialement compétente ou l’officier de police judiciaire le plus proche.

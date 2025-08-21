@@ -1,0 +1,3 @@
+La contribution à l’avarie commune est le rapport entre la masse créancière et la masse débitrice.
+La masse créancière comprend toutes les créances nées à raison des sacrifices réalisés admissibles en avaries.
+La masse débitrice comprend la valeur nette, réelle, calculée au jour où cesse la communauté d’intérêt des marchandises sauvées et des marchandises sacrifiées, admissibles en avaries communes, ainsi que la valeur du navire et le montant du fret, sous réserve des déductions admises par les usages.

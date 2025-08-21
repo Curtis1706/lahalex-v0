@@ -1,0 +1,15 @@
+{
+  "id": "article-573-",
+  "title": "Article 573 :",
+  "numero": "573 ",
+  "document": "codeprocedurepenalbenin",
+  "path": [
+    "livre-2",
+    "titre-4"
+  ],
+  "navigation": {
+    "parent": "titre-4",
+    "previous": "article-572-",
+    "next": "article-574-"
+  }
+}

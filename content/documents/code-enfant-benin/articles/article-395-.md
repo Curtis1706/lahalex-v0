@@ -1,0 +1,1 @@
+Article 395 : Est punie d’une amende de dix mille (10 000) à cinquante mille (50 000) francs CFA, toute personne qui, ayant connaissance du déplacement frauduleux d’un enfant, s’abstient d’en informer l’autorité administrative territorialement compétente ou l’officier de police judiciaire le plus proche.

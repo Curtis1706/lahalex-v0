@@ -1,0 +1,1 @@
+Quiconque a sciemment fait usage des documents informatisés mentionnés à l’article 684 ci-dessus est puni d’un emprisonnement de un (01) an à cinq (05) ans et d’une amende de deux millions (2.000.000) de francs CFA à vingt millions (20.000.000) de francs CFA.

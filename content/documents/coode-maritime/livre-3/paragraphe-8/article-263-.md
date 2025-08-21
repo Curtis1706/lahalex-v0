@@ -1,0 +1,4 @@
+Les marins ont droit à un congé payé à la charge de l’armateur, calculé à raison de trois (03) jours minimum par mois d’embarquement.
+Le congé est proportionnel à la durée du service. L’armateur doit donner les congés payés chaque année. Toutefois, la mise en congé du marin est décidée par le capitaine en fonction des intérêts du navire sur demande du marin.
+Si le navire est en voyage, la mise en congé, sauf accord particulier, ne peut être effectuée qu’au retour du navire à son port d’attache.
+Pendant les périodes de congés payés, les marins ont droit au salaire fixe tel que stipulé par les dispositions du contrat et à l’indemnité de nourriture prévue à l’article 264 du présent code.

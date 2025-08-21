@@ -1,0 +1,3 @@
+L’injure commise envers les particuliers, sera punie d’une amende de cinq cent mille (500 000) francs à deux millions (2 000 000) de francs CFA.
+L’injure commise envers un groupe de personnes qui appartiennent, par leur origine, à une race, une ethnie, une région ou une religion déterminée ou encore à un quelconque courant et communauté philosophique dans le but d’inciter à la haine entre les citoyens ou habitants sera punie d’une amende de dix millions (10 000 000) de francs CFA.
+Si l’injure n’est pas publique, elle ne sera punie que de la peine prévue au code pénal.

@@ -1,0 +1,2 @@
+Le gouvernement peut s'opposer par décret pris en Conseil des ministres, à l'acquisition de la nationalité béninoise par le conjoint étranger pour indignité, atteinte à l'ordre public ou aux bonnes mœurs.
+Cette opposition n'est pas valable si elle a pour conséquence de faire du conjoint étranger un apatride.

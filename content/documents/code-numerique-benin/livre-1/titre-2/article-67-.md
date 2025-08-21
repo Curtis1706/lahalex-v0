@@ -1,0 +1,2 @@
+Opérateurs contrôlant l’accès aux utilisateurs finaux
+Les opérateurs qui contrôlent l’accès aux utilisateurs finaux peuvent se voir imposer des obligations en vue d'assurer le bon fonctionnement et l’interconnexion de leurs réseaux ainsi que l’accès aux services fournis sur d’autres réseaux.

@@ -1,0 +1,14 @@
+{
+  "id": "article-401-",
+  "title": "Article 401 :",
+  "numero": "401 ",
+  "document": "coode-maritime",
+  "path": [
+    "livre-4"
+  ],
+  "navigation": {
+    "parent": "livre-4",
+    "previous": "article-400-",
+    "next": "article-402-"
+  }
+}

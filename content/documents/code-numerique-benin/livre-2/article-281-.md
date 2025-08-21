@@ -1,0 +1,2 @@
+Responsabilité
+La personne offrant un moyen d’identification électronique est responsable des   dommages causés intentionnellement ou par sa négligence à tout utilisateur du moyen d’identification électronique.

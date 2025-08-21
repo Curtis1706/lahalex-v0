@@ -1,0 +1,3 @@
+Article 74 : Placement de l'enfant en vue de l'adoption
+Le placement en vue de l’adoption est décidé par le juge des enfants sur requête présentée par les personnes désignées par la présente loi, par le futur adoptant, le service social ou par le ministère public.
+Le placement en vue de l’adoption met obstacle à toute restitution de l’enfant à la famille d’origine. Il fait échec à toute déclaration de filiation et à toute reconnaissance.

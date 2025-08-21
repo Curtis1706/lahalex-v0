@@ -1,0 +1,1 @@
+Le greffier fait l’appel des jurés. Une carte portant leur nom est déposée dans une urne.

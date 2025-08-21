@@ -1,0 +1,3 @@
+Article 25 : L’investisseur s’abstient de tout acte de corruption et de tout acte d’infractions connexes avant, pendant ou après son établissement.
+Les actes de corruption en matière d’investissement sont punis conformément à la législation en vigueur et entrainent, de plein droit, la déchéance des avantages accordés.
+Les fonds utilisés pour réaliser des investissements sur le territoire de la République du Bénin ne peuvent provenir d’activités illicites et notamment résulter d’opérations de blanchiment d’argent et de terrorisme.

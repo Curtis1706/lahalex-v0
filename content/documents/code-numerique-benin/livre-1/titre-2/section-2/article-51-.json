@@ -1,0 +1,16 @@
+{
+  "id": "article-51-",
+  "title": "Article 51 : Contenu du cahier des charges de la licence",
+  "numero": "51 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "section-2"
+  ],
+  "navigation": {
+    "parent": "section-2",
+    "previous": "article-50-",
+    "next": "article-52-"
+  }
+}

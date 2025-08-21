@@ -1,0 +1,4 @@
+Obligation de correction des manquements des prestataires de services de confiance
+Lorsque l’organe de contrôle exige du prestataire de services de confiance qualifié qu’il corrige un manquement aux exigences prévues au présent code et que le prestataire n’agit pas en conséquence, et le cas échéant après expiration d’un délai raisonnable fixé par l’organe de contrôle, ce dernier a la possibilité, en tenant compte notamment de l’ampleur, de la durée et des conséquences de ce manquement, de saisir la juridiction compétente, notamment afin de :
+1. faire cesser la délivrance de certificats qualifiés par le prestataire de services de confiance ;
+1. obliger le prestataire de services de confiance à informer immédiatement les titulaires des certificats qualifiés qu'il a délivrés, de leur non-conformité aux dispositions du présent code.

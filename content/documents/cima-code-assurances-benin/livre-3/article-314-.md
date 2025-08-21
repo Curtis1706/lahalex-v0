@@ -1,0 +1,2 @@
+Décisions
+Les injonctions et les sanctions prononcées par la Commission prennent la forme de décisions prises à l’issue d’une procédure contradictoire au cours de laquelle les dirigeants ont été mis en mesure de présenter leurs observations.

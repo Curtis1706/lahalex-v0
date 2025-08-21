@@ -1,0 +1,1 @@
+Les actes publics étrangers exécutoires dans l’Etat d’origine sont déclarés exécutoires au Bénin s’ils réunissent les conditions nécessaires à leur authenticité dans l’Etat où ils ont été dressés et si les dispositions de l’acte dont l’exécution est demandée ne sont pas contraires à l’ordre public béninois.

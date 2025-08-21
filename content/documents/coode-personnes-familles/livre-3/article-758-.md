@@ -1,0 +1,1 @@
+Le gérant représente les indivisaires dans la limite de ses pouvoirs, soit dans les actes de la vie civile, soit en justice tant en demande qu’en défense. Il est tenu de donner dans son 1 acte de procédure l’indication des prénoms, nom, âge, profession et domicile de tous les indivisaires.

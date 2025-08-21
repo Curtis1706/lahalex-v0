@@ -1,0 +1,1 @@
+Lorsqu’une décision sur la garde aura été prise par les juges à l’occasion d'une requête en divorce ou en séparation de corps, elle ne pourra être modifiée que si un fait nouveau de nature à entraîner un danger pour le mineur s’est révélé postérieurement à la décision statuant sur les modalités de l’exercice de l’autorité parentale ou confiant l’enfant à un tiers.

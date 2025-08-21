@@ -1,0 +1,17 @@
+{
+  "id": "article-et-de-la-m-thode-utilis-e-pour-y-parvenir",
+  "title": "article et de la méthode utilisée pour y parvenir.",
+  "numero": "et de la méthode utilisée pour y parvenir",
+  "document": "code-douane",
+  "path": [
+    "titre-1",
+    "chapitre-5",
+    "section-3",
+    "paragraphe-1"
+  ],
+  "navigation": {
+    "parent": "paragraphe-1",
+    "previous": "article-17-",
+    "next": "article-18-"
+  }
+}

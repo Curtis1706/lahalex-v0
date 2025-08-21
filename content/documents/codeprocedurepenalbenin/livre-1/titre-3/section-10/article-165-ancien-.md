@@ -1,0 +1,2 @@
+L’accusé qui a été mis en liberté ou qui n’a jamais été détenu en cours d’information doit se constituer prisonnier au plus tard la veille de l’audience.
+L’ordonnance de prise de corps est exécutée si, dûment convoqué par la voie administrati_ve_ au greffe de la cour d’assises et sans motif légitime d’excuse, l’accusé ne se présente pas au jour fixé pour être interrogé par le président de la cour d’assises.

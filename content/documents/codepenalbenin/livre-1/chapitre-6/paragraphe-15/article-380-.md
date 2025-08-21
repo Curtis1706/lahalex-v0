@@ -1,0 +1,1 @@
+Tout fonctionnaire qui est entré en fonction sans avoir prêté le serment requis, est poursuivi et puni d’une amende de deux cent mille (200.000) à cinq cent mille (500.000) francs CFA.

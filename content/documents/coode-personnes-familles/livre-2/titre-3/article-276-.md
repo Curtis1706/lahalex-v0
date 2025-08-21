@@ -1,0 +1,1 @@
+Chacun des époux a droit à un domicile propre et il est mis fin au pouvoir de représentation des époux tel que prévu par les dispositions du présent code.

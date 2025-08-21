@@ -1,0 +1,1 @@
+Le testament olographe est celui qui est écrit en entier, daté et signé de la main du testateur.

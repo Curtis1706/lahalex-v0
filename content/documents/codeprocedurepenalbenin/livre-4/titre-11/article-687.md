@@ -1,0 +1,1 @@
+Les dispositions des articles 673 à 678 et 681 à 683 du présent code s’appliquent au tribunal pour enfants statuant en matière criminelle.

@@ -1,0 +1,3 @@
+Le département est administré par un représentant de l'Etat qui prend le titre de préfet.
+Le préfet est le dépositaire de l'autorité de l’Etat dans le département. En cette qualité, il représente chacun des ministres sur son territoire de compétence, sous réserve des dispositions particulières de la présente loi.
+Le préfet relève hiérarchiquement du ministre chargé de l'administration territoriale.

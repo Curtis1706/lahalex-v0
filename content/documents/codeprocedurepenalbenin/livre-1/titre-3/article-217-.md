@@ -1,0 +1,2 @@
+Les parties et leurs avocats sont admis jusqu’au jour de l’audience à produire des mémoires qu’ils communiquent au ministère public et aux autres parties.
+Ces mémoires sont déposés au greffe de la chambre de l’instruction ou de la chambre des libertés et de la détention et visés par le greffier avec l’indication du jour et de l’heure du dépôt.

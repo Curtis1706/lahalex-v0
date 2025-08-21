@@ -1,0 +1,2 @@
+Le jury de jugement est formé de quatre (04) jurés. Lorsqu’un procès paraît de nature à entraîner de longs débats, le président peut ordonner qu’il soit tiré au sort un ou deux jurés supplémentaires qui assistent aux débats.
+Dans l’ordre où ils ont été appelés par le sort, les jurés supplémentaires remplacent les jurés empêchés de suivre les débats jusqu’au prononcé de l’arrêt de la cour d’assises.

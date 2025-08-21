@@ -1,0 +1,1 @@
+Sauf les cas prévus par les articles 411 dernier alinéa, 427, 431, 432, 434, 444 du présent code, toute personne régulièrement citée qui ne comparaît pas au jour et à l’heure fixés par la citation est jugée par défaut conformément à l’article 429 du présent code.

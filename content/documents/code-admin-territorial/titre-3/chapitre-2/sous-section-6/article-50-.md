@@ -1,0 +1,1 @@
+La commune a la charge de la construction, de l'équipement, de la réhabilitation, de l'entretien et de la gestion des marchés et des abattoirs.

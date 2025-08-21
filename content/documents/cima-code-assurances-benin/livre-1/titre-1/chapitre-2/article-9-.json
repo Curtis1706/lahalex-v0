@@ -1,0 +1,16 @@
+{
+  "id": "article-9-",
+  "title": "Article 9 : Transmission de la police d’assurance",
+  "numero": "9 ",
+  "document": "cima-code-assurances-benin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-2"
+  ],
+  "navigation": {
+    "parent": "chapitre-2",
+    "previous": "article-8-",
+    "next": "article-10-"
+  }
+}

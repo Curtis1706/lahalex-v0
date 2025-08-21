@@ -1,0 +1,1 @@
+Le tribunal de première instance ou la cour d'appel statuant en matière criminelle rédige le jugement ou l'arrêt. Les textes de loi appliqués y sont indiqués. Le greffier met en forme le jugement ou l'arrêt.

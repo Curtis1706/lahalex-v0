@@ -1,0 +1,10 @@
+187.1 : Les sièges sont attribués aux candidats d'après l'ordre de présentation sur chaque liste. Il est attribué à la liste qui a obtenu la majorité absolue ou à défaut 40% ou moins des suffrages exprimés, un nombre de sièges égal à la majorité absolue des sièges à pourvoir.
+187.2 : Au cas où deux (02) listes de candidats obtiendraient chacune au moins 40% des suffrages exprimés, il est attribué à la liste ayant obtenu le plus fort suffrage, la majorité absolue des sièges à pourvoir.
+187.3 : Une fois effectuée l'attribution visée à l'alinéa précédent, les sièges restants sont répartis entre toutes les listes à la représentation proportionnelle suivant la règle de la plus forte moyenne à l'exclusion des listes ayant obtenu moins de dix pour cent (10%) des suffrages exprimés.
+187.4 : Si plusieurs listes ont la même moyenne pour l'attribution du dernier siège, celui-ci revient à la liste qui a obtenu le plus grand nombre de suffrages.
+En cas d'égalité de suffrages, le siège est attribué au plus âgé des candidats susceptibles d'être proclamés élus.
+187.5 : Si aucune liste n'a recueilli ni la majorité absolue ni les quarante pour cent (40%) au moins des suffrages, les sièges sont répartis entre toutes les listes à la représentation proportionnelle suivant la règle de la plus forte moyenne à l'exclusion des listes ayant obtenu moins de dix pour cent (10%) des suffrages exprimés.
+187.6 : Dans les circonscriptions électorales comptant un siège, les membres du Conseil communal ou municipal sont élus au suffrage universel direct au scrutin uninominal majoritaire à un tour. Dans ce cas, le candidat qui a obtenu le plus de suffrages exprimés est proclamé élu.
+En cas d'égalité de voix entre deux ou plusieurs candidats, le plus âgé est désigné Conseiller communal ou municipal.
+187.7 : Chaque liste comprend un nombre de candidats égal à celui de sièges à pourvoir.
+187.8 : Chaque candidat a un suppléant personnel qui figure sous cette appellation sur la liste.

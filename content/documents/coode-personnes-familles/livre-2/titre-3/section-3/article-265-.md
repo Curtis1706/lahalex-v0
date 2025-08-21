@@ -1,0 +1,2 @@
+La garde des enfants issus du mariage est confiée à l’un ou l’autre des époux, en tenant compte uniquement de l'intérêt des enfants.
+A titre exceptionnel, et si l’intérêt des enfants l’exige, la garde peut être confiée, soit à une autre personne choisie de préférence dans leur parenté, soit si cela s’avérait impossible, à toute autre personne physique ou morale.

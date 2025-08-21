@@ -1,0 +1,2 @@
+Diffusion de matériel raciste et xénophobe par le biais d’un système informatique.
+Quiconque, intentionnellement, crée, télécharge, diffuse ou met à disposition sous quelque forme que ce soit, par le biais d’un système informatique du matériel raciste et xénophobe, au sens du présent code, est puni d’un emprisonnement de six (06) mois à sept (07) ans et d’une amende de un million (1 000 000) à dix (10 000 000) de francs CFA.

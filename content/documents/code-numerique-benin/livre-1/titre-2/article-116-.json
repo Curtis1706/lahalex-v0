@@ -1,0 +1,15 @@
+{
+  "id": "article-116-",
+  "title": "Article 116 : Enquêtes, vérifications, analyses et communication de documents",
+  "numero": "116 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-115-",
+    "next": "article-117-"
+  }
+}

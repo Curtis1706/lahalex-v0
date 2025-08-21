@@ -1,0 +1,1 @@
+Le commandement se prescrit par dix (10) jours francs.

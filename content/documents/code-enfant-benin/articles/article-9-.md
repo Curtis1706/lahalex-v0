@@ -1,0 +1,2 @@
+Article 9 : Respect de l’opinion de l’enfant
+Dans toute procédure judiciaire ou administrative concernant un enfant, ses points de vue et son opinion sont entendus, soit directement, soit par le truchement d’un représentant ou par tout autre procédé déterminé par l’autorité compétente et peuvent être pris en considération par l’autorité concernée.

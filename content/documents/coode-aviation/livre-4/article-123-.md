@@ -1,0 +1,3 @@
+Les enquêteurs techniques écoutent les représentants des entreprises ou organismes ainsi que le personnel navigant en relation avec l'accident ou l'incident. Ils peuvent également écouter toute autre personne dont ils estiment l'audition utile.
+Les enquêteurs techniques peuvent obtenir, sans que puisse leur être opposé le secret professionnel, la communication de toute information ou de tout document concernant les circonstances, les personnes, les entreprises ou les organismes et les matériels en relation avec l'accident ou l'incident.
+Toutefois, les dossiers médicaux ou les données médicales ne peuvent être communiqués qu'à un médecin rattaché au Bureau enquêtes-accidents ou mandaté par lui.

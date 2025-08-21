@@ -1,0 +1,3 @@
+Les dispositions relatives à la nationalité contenues dans les conventions internationales dûment ratifiées et publiées sont directement applicables en République du Bénin.
+Toutefois, un changement de nationalité ne peut en aucun cas résulter d'une convention internationale, si celleci ne le prévoit expressément.
+Lorsqu'un changement de nationalité est subordonné dans les termes d'une convention internationale, à l'accomplissement d'un acte d'option, cet acte est déterminé dans sa forme par la loi de celui des pays contractants dans lequel, il est institué.

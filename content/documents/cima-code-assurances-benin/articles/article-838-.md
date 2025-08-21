@@ -1,0 +1,2 @@
+Article 838 : _(Règlement 2015-02)_ Infractions aux règles relatives à la forme des entreprises, à la publicité, à l’agrément, et aux procédures de sauvegarde
+Toute infraction aux dispositions des articles 802 et 804 est punie d’une peine d’emprisonnement de un mois à cinq ans et d’une amende de 360.000 à 3.600.000 FCFA ou de l’une de ces deux peines seulement.

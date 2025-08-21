@@ -1,0 +1,1 @@
+Les comptables de fait encourent les mêmes responsabilités que les comptables publics.

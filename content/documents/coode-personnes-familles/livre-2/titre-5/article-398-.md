@@ -1,0 +1,3 @@
+Si plusieurs personnes sont tenues de l’obligation alimentaire, le créancier d’aliments peut poursuivre indistinctement l’un quelconque d’entre les débiteurs.
+La dette alimentaire est solidaire entre les débiteurs. Celui qui a été condamné a un recours contre les autres débiteurs pour leur part et portion suivant les textes en vigueur.
+Les débiteurs d'aliments peuvent valablement convenir que les aliments seront versés à leur créancier commun par l’un d’entre eux moyennant contribution de chacun des débiteurs. Cette convention n’est opposable au créancier que s’il l’a acceptée et sauf révision décidée pour motif grave par le juge à la demande du créancier.

@@ -1,0 +1,2 @@
+Article 38 : Devoir de fournir des conseils à l'enfant
+Les parents, et le cas échéant, les personnes exerçant l’autorité tutélaire fournissent à l’enfant des conseils et orientations dans l’exercice des droits visés aux articles 11 à 21 d’une part, et dans la mesure compatible avec l’évolution des capacités et l’intérêt supérieur de l’enfant, d’autre part.

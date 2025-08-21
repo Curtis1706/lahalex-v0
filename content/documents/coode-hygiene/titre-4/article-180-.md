@@ -1,0 +1,1 @@
+Les vingt pour cent (20%) versés à la collectivité décentralisée servent à financer les opérations de désinfection, de désinsectisation et de dératisation ou toutes autres opérations nécessaires liées à l'hygiène publique.

@@ -1,0 +1,1 @@
+Toute personne ayant fait l’objet d’une garde à vue ou d’une détention abusive peut, lorsque la procédure aboutit à une décision de non-lieu, de relaxe ou d’acquittement passée en force de chose jugée, obtenir une indemnisation si elle établit qu’elle a subi du fait de sa détention ou garde à vue un préjudice actuel d’une gravité particulière.

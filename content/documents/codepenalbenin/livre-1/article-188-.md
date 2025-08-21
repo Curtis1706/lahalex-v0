@@ -1,0 +1,3 @@
+Est puni de la détention criminelle à temps de dix (10) ans à vingt (20) ans, quiconque, en temps de guerre a :
+1. entretenu, sans autorisation du gouvernement, une correspondance ou des relations avec les sujets ou les agents d’une puissance ennemie ;
+2. fait directement ou par intermédiaire, des actes de commerce avec les sujets ou les agents d’une puissance ennemie, au mépris des prohibitions édictées.

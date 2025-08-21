@@ -1,0 +1,2 @@
+Article 271 : Subrogation du payeur pour compte
+L’assureur qui a versé les sommes dues à la victime ainsi qu’aux tiers-payeurs est subrogé dans les droits des personnes indemnisées à concurrence des paiements effectués.

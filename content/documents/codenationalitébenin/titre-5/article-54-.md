@@ -1,0 +1,1 @@
+Les actes réglementaires prévus à l'article 53 cidessus sont motivés et notifiés à l'intéressé qui peut en solliciter l'annulation devant la juridiction compétente dans les formes et délais de droit commun.

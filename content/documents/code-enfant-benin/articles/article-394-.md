@@ -1,0 +1,1 @@
+Article 394 : Est punie des peines spécifiées à l’article 393 de la présente loi, toute personne, quelle que soit sa nationalité qui, accompagnant un ou plusieurs enfants de nationalité béninoise et/ou étrangère, est trouvée sur le territoire de la République du Bénin, alors qu’elle n’y a pas sa résidence habituelle, sans remplir les conditions prévues par la présente loi.

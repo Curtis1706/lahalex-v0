@@ -1,0 +1,1 @@
+L’enfant incestueux n’a de droits successoraux qu’à l’égard du parent qui l’a reconnu conformément à l’article 319 du présent code.

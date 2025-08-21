@@ -1,0 +1,3 @@
+Application des décisions et recours contre les décisions de l’Autorité de régulation
+L’application des décisions de l’Autorité de régulation adoptées en application du présent Titre s’impose aux parties nonobstant tout recours.
+Les décisions prises par l’Autorité de régulation dans le cadre du présent Titre peuvent faire l’objet d’un appel devant la chambre administrative de la Cour Suprême dans un délai de trente (30) jours.

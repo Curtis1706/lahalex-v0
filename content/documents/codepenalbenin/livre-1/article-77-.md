@@ -1,0 +1,6 @@
+Quiconque ayant été condamné à une peine afflictive et infamante ou seulement infamante, aura commis un second crime emportant comme peine principale la peine de la réclusion criminelle à temps de dix (10) ans à vingt (20) ans sera condamné au maximum de la peine, laquelle pourra être élevée jusqu’au double :
+- si le second crime emporte la peine de la réclusion criminelle à temps de cinq (05) ans à dix (10) ans, la peine pourra être élevée jusqu’à vingt (20) ans ;
+- si le second crime emporte la peine de la détention criminelle à temps de dix (10) ans à vingt (20) ans, il pourra être prononcé le maximum de la même peine, laquelle pourra être élevée jusqu’au double ;
+- si le second crime emporte la peine de la détention criminelle à temps de cinq (05) ans à dix (10) ans, la peine pourra être élevée jusqu’à vingt (20) ans ;
+- si le second crime emporte comme peine principale la dégradation civique, la peine pourra être celle de la détention criminelle à temps de cinq (05) ans à dix (10) ans.
+Toutefois, l’individu condamné pour une infraction militaire ne sera, en cas de crime ou délit postérieur passible des peines de la récidive, qu’autant que la première condamnation aura été prononcée pour des crimes ou délits punissables d’après les lois pénales ordinaires.

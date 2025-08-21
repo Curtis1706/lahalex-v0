@@ -1,0 +1,1 @@
+Aucune structure destinée à la baignade ne saurait communiquer d'une manière ou d'une autre, directement avec le réseau d'eau potable.

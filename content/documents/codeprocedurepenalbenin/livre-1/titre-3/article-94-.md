@@ -1,0 +1,2 @@
+Toute partie civile qui ne demeure pas dans la localité où siège le tribunal, est tenue d’y élire domicile par acte au greffe de ce tribunal.
+A défaut d’élection de domicile, la partie civile ne peut opposer le défaut de notification des actes qui auraient dû lui être notifiés aux termes de la loi.

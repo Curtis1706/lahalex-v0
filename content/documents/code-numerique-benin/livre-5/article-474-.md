@@ -1,0 +1,5 @@
+Inamovibilité et indépendance des membres de l'Autorité
+Les membres de l'Autorité sont inamovibles pendant la durée de leur mandat.
+Toutefois, en cas de faute grave dûment constatée de l’un des membres de l'Autorité ou de la perte de la qualité au titre de laquelle il a été élu ou désigné, il est mis fin à ses fonctions et procédé à son remplacement conformément aux dispositions du présent Livre et du Règlement intérieur de l'Autorité.
+Le mandat du successeur ainsi désigné est limité à la période restant à courir. Ce dernier peut être désigné pour un seul mandat.
+Dans les limites de leurs attributions, le Président et les membres ne reçoivent d'instructions de personne. Ils ne peuvent être relevés de leur charge en raison des opinions qu'ils émettent ou des 	actes 	qu'ils accomplissent pour remplir leurs fonctions.

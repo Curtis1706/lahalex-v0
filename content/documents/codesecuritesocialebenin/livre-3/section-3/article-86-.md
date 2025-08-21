@@ -1,0 +1,4 @@
+1) Lors de la fixation de la rente, la Caisse peut, si elle estime que l’accident est dû à une faute inexcusable de la victime, diminuer la rente sauf recours du bénéficiaire devant la juridiction compétente.
+2) Lorsque l’accident est dû à une faute inexcusable de l’employeur ou de ses préposés, les indemnités dues à la victime ou à ses ayants droit en vertu de la présente loi sont majorées.
+Les modalités de réduction ou de majoration de la rente sont fixées par arrêté.
+2) Les différentes fautes sont déterminées par arrêté du Ministre chargé de la sécurité sociale après avis du conseil national du travail.

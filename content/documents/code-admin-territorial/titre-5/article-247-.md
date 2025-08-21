@@ -1,0 +1,2 @@
+Le domaine communal comprend le domaine public et le domaine privé. Ils sont régis par les dispositions du code foncier et domanial et de loi portant protection du patrimoine culturel en République du Bénin.
+1. BIENS PATRIMONIAUX DES COMMUNES

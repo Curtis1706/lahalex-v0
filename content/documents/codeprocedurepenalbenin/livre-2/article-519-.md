@@ -1,0 +1,1 @@
+Pendant les délais d’appel et durant l’instance d’appel il est sursis à l’exécution du jugement, sous réserve des dispositions des articles 485, 512, 518 et 521 du présent code.

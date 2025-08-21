@@ -1,0 +1,1 @@
+Toute  infraction  aux  dispositions  du  présent  chapitre  donne  lieu,  à l’application des sanctions fiscales édictées aux articles 485 et suivants du présent code.

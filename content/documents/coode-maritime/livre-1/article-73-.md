@@ -1,0 +1,1 @@
+Les pirogues sont dispensées de l’acte de béninisation.

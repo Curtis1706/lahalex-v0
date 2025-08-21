@@ -1,0 +1,2 @@
+Seront punis comme complices d’une infraction qualifiée de crime ceux qui, soit par la presse écrite ou audiovisuelle, des imprimés vendus ou distribués, mis en vente ou exposés dans les lieux publics, ou par des placards et affiches publics soit par tous les moyens modernes de communication de masse, auront directement provoqué l’auteur ou les auteurs à commettre ladite infraction si la provocation a été suivie d’effet.
+Cette disposition sera également applicable lorsque la provocation n’a été suivie que d’une tentative.

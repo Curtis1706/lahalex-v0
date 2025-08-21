@@ -1,0 +1,1 @@
+Le journaliste a droit, sur toute l’étendue du territoire national, à la sécurité de sa personne et de son matériel de travail. En dehors des espaces et des objectifs légalement protégés, il ne saurait lui être refusé le droit de filmer des événements, de publier et de commenter des informations à caractère public.

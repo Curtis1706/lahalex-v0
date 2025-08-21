@@ -1,0 +1,1 @@
+Le Bureau enquêtes-accidents est fonctionnellement indépendant des autres autorités nationales de l'aviation et des autres entités intéressées par la conduite ou l'objectivité d’une enquête.

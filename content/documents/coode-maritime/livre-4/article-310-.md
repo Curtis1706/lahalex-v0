@@ -1,0 +1,1 @@
+En cas de dépassement des délais, l’affréteur doit une indemnité dite de surestaries considérée comme un supplément de fret.

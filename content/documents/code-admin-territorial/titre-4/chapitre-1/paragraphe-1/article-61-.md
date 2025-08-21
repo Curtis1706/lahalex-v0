@@ -1,0 +1,1 @@
+Le conseil communal valide le budget de la commune après son adoption par le conseil de supervision. Le conseil communal peut, dans ce cadre, demander une nouvelle délibération du conseil de supervision pour la prise en compte de dépenses assorties de propositions de nouvelles recettes qu'il a dûment identifiées.

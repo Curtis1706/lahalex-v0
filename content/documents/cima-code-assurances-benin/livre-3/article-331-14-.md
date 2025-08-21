@@ -1,0 +1,6 @@
+Conseil d’Administration - Responsabilités
+Le Conseil d’Administration délègue ses responsabilités et fixe les procédures de prise de décision.
+Il établit à l’intention des administrateurs, de la direction et de l’ensemble du personnel, des règles de gestion et de déontologie concernant, notamment, les transactions privées, les délits d’initiés, le traitement préférentiel de certaines entités en interne comme en externe, ainsi que d’autres pratiques commerciales exceptionnelles échappant au libre jeu de la concurrence. L’entreprise doit être dotée d’un système permanent, approprié et efficace permettant de garantir le respect de ces règles.
+Le Conseil d’Administration peut créer des comités chargés de missions spécifiques, telles que les rémunérations, l’audit ou la gestion des risques.
+Lorsque ces comités spéciaux sont créés au sein du Conseil d’Administration, leur mandat, leur composition et leurs procédures de fonctionnement doivent être clairement définis et rendus publics par le Conseil d’Administration.
+Le Conseil d’Administration doit veiller à ce que le système de rémunération des administrateurs et des cadres dirigeants soit raisonnable au regard des ressources de la société et exclut des primes ou avantages exceptionnels susceptibles d’encourager des comportements imprudents.

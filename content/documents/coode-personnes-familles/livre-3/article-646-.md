@@ -1,0 +1,1 @@
+Si le successible n’a pas été poursuivi et n’a pas pris parti dans un délai de trente (30) ans à compter du jour de l’ouverture de la succession, sa faculté d’option est prescrite et il est réputé avoir renoncé à la succession.

@@ -1,0 +1,3 @@
+Dans la liquidation d’une pension normale ou proportionnelle, les services et bonifications prévus à l’article 16 de la loi n° 86-014 du 26 septembre 1986 portant code des pensions civiles et militaires de retraite sont comptés pour leur durée effective.
+Dans le décompte final des annuités liquidables, la fraction d’année égale ou supérieure à six (06) mois est comptée pour l’année entière. La fraction de semestre égale ou supérieure à trois (3) mois est comptée pour six (06) mois. La fraction de semestre inférieure à trois (3) mois est négligée.
+Le maximum des annuités liquidables dans les pensions normales ou proportionnelles est fixé à quarante (40) annuités.

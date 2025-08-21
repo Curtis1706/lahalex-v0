@@ -1,0 +1,6 @@
+1) La valeur des biens meubles transmis à titre gratuit est déterminée par déclaration détaillée et estimative des parties, sans déduction des charges, sauf ce qui est prévu aux articles 390 et suivants du présent code.
+2) Pour les valeurs mobilières de sociétés béninoises ou étrangères admises à une cote
+officielle, l’estimation ne peut être inférieure au cours moyen de la bourse au jour de la transmission.
+3) La valeur des biens immeubles transmis à titre gratuit est déterminée d’après la
+déclaration  détaillée  et  estimative  des  parties  sans  déduction  des  charges  sauf éventuellement celles prévues aux articles 390 et suivants du présent code.
+Néanmoins, si dans les deux (2) années qui ont précédé ou suivi, soit l’acte de donation, soit le point de départ des délais pour souscrire la déclaration de succession, les immeubles transmis ont fait l’objet d’une adjudication publique, les droits exigibles ne peuvent être calculés sur une somme inférieure au prix de l’adjudication, en y ajoutant toutes les charges en capital, à moins qu’il ne soit justifié que la consistance des immeubles a subi, dans l’intervalle, des transformations susceptibles d’en modifier la valeur.

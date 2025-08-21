@@ -1,0 +1,2 @@
+Le règlement des avaries communes doit être établi, tant pour l’estimation des pertes que pour la contribution sur la base des valeurs au moment et au lieu où se termine l’expédition maritime.
+Cette règle est sans influence sur la détermination du lieu où le règlement doit être établi.

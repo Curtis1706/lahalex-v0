@@ -1,0 +1,1 @@
+La construction des centres de détention est faite de manière à assurer le maximum de sécurité et de confort sanitaire conformément aux normes en vigueur.

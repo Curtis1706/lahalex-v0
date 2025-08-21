@@ -1,0 +1,2 @@
+Lorsque la cour d’assises prononce une peine correctionnelle, elle peut ordonner à la majorité des suffrages qu’il soit sursis à l’exécution de la peine.
+La cour d’assises délibère également sur les peines accessoires ou complémentaires.

@@ -1,0 +1,3 @@
+Ceux qui, sciemment, ont recelé, en tout ou en partie, des choses enlevées, détournées ou obtenues à l’aide d’un crime ou d’un délit, sont punis d’un emprisonnement de trois (03) mois à trois (03) ans et d’une amende de cent mille (100.000) francs CFA à deux millions (2.000.000) de francs CFA ou de l’une de ces deux peines seulement.
+L’amende peut être portée au-delà de deux millions (2.000.000) de francs CFA jusqu’à la moitié de la valeur des objets recelés.
+Le tout sans préjudice de plus fortes peines, s’il échet, en cas de complicité de crime, conformément aux articles 22 et 23 du présent code.

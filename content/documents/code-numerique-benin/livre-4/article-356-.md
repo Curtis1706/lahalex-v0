@@ -1,0 +1,4 @@
+Résolution ou résiliation de contrat
+Sous réserve d'accord express entre les parties, le professionnel exécute la commande dans un délai maximum de trente (30) jours ouvrables, à compter du lendemain de la conclusion du contrat.
+En cas de manquement contractuel du professionnel, y compris le dépassement des délais de livraison, le consommateur obtient de plein droit la résolution ou la résiliation du contrat, par simple notification adressée au professionnel par courrier avec accusé de réception.
+En cas de résolution ou résiliation du contrat par le consommateur, le professionnel est tenu de lui rembourser les sommes dues au titre du contrat, le cas échéant, dans un délai de trente (30) jours ouvrables à compter du jour de la notification de la résolution ou résiliation par le consommateur.

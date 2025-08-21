@@ -1,0 +1,1 @@
+Ceux qui ont contrefait, falsifié ou altéré les billets de loterie de tirage, les billets de loterie instantanée, les bulletins de pronostics sportifs ou tous autres jeux organisés par les maisons de jeu de hasard agréées, sont punis d’un emprisonnement de six (06) mois à trois (03) ans.

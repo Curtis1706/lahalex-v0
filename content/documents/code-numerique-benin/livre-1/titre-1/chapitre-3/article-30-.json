@@ -1,0 +1,16 @@
+{
+  "id": "article-30-",
+  "title": "Article 30 : Protection des personnes contre les effets des champs électriques, magnétiques et électromagnétiques",
+  "numero": "30 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-3"
+  ],
+  "navigation": {
+    "parent": "chapitre-3",
+    "previous": "article-29-",
+    "next": "article-31-"
+  }
+}

@@ -1,0 +1,1 @@
+Les magasins d'alimentation, les restaurants et les débits de boisson sont maintenus propres, aérés, ventilés et suffisamment éclairés. Ils sont équipés de dispositifs appropriés, de manière à protéger les denrées alimentaires des insectes, des intempéries et des pollutions de toute nature.

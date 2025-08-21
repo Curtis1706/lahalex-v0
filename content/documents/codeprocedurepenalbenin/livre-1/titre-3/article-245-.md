@@ -1,0 +1,3 @@
+La chambre d’accusation une fois saisie, fait procéder à une enquête; elle entend le procureur général et l’officier ou l’agent supérieur de police judiciaire en cause.
+L’officier ou l’agent supérieur de police judiciaire doit avoir été préalablement mis à même de prendre connaissance de son dossier tenu au parquet général de la cour d’appel.
+L’officier ou l’agent supérieur de police judiciaire en cause peut se faire assister soit par un avocat soit par l’un de ses pairs au moins de même grade.

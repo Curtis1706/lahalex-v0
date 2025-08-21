@@ -1,0 +1,1 @@
+Les dispositions du précédent article sont applicables à l’étranger incarcéré en exécution d’une contrainte par corps.

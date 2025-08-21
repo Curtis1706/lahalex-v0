@@ -1,0 +1,3 @@
+Changement de dirigeant
+Toute entreprise agréée en application de l’article 326 est tenue de soumettre à l’approbation du Ministre en charge du secteur des assurances dans l’Etat membre après avis conforme de la Commission, préalablement à sa réalisation, tout changement de titulaire concernant les fonctions de Président ou de Directeur Général.
+Ces Autorités disposent d’un délai de trois mois pour se prononcer. L’absence de réaction à l’expiration de ce délai vaut acceptation.

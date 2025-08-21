@@ -1,0 +1,1 @@
+Tout emplacement de décharge contrôlée est conforme aux dispositions de la loi-cadre sur l'environnement en République du Bénin.

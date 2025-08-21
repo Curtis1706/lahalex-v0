@@ -1,0 +1,3 @@
+Si le fait déféré au tribunal est de nature à entraîner une peine criminelle, le tribunal peut, le ministère public entendu, décerner mandat de dépôt contre le prévenu puis il renvoie le ministère public à se pourvoir ainsi qu’il avisera.
+Lorsque le prévenu ne comparait libre, le président confirme le précédent mandat dont il avait fait l’objet. Le ministère public ouvre une information dans un délai de vingt-quatre (24) heures et se conforme aux dispositions des articles 86 et suivants du présent code.
+Ce mandat produit ses effets jusqu’à la saisine du juge des libertés et de la détention.

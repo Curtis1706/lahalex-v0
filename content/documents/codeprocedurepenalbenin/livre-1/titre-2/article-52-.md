@@ -1,0 +1,1 @@
+Sous réserve des nécessités des enquêtes, est interdite, sous peine des sanctions prévues à l’article 24 du présent code, toute communication ou toute divulgation sans l’autorisation de l’inculpé ou de ses ayants droit ou du signataire ou du destinataire d’un document provenant d’une perquisition à une personne non qualifiée par la loi pour en prendre connaissance.

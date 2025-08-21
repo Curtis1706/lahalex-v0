@@ -1,0 +1,1 @@
+Le consignataire de la cargaison représente le destinataire. La livraison entre ses mains libère le transporteur.

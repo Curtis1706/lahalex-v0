@@ -1,0 +1,2 @@
+Article 252 bis : Divergences sur les conclusions de l’expertise
+S’il y a divergence sur les conclusions de l’examen médical, l’expert de l’assureur et l’expert désigné par la victime désignent un tiers expert d’un commun accord. L’avis de ce dernier s’impose. Le délai imparti à l’assureur pour présenter l’offre d’indemnité est prorogé d’un mois.

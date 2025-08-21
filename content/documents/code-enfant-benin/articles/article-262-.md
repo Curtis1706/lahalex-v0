@@ -1,0 +1,5 @@
+Article 262 : Fonctionnement du tribunal pour enfants
+Pour statuer, les assesseurs doivent être présents. En cas d’absence ou d’empêchement des assesseurs, il est pourvu sur-le-champ à leur remplacement par le président du tribunal de première instance.
+Le tribunal pour enfants statue après avoir entendu l’enfant, les majeurs coinculpés, les témoins, les parents, le tuteur et/ou le gardien, les parties civiles, les assistants sociaux et les délégués à la surveillance éducative des enfants, le ministère public et l’avocat de la défense.
+Le président du tribunal pour enfants peut, si l’intérêt supérieur de l’enfant l’exige, dispenser ce dernier de comparaître à l’audience.
+L’enfant est représenté par son conseil, ses parents, son tuteur ou son représentant légal. La décision est réputée avoir été rendue contradictoirement.

@@ -1,0 +1,2 @@
+Choix entre Lorsqu’il s’agira de savoir si une infraction commise par un prisonnier de guerre les voies doit être punie disciplinairement ou judiciairement, la Puissance détentrice disciplinaire veillera à ce que les autorités compétentes usent de la plus grande indulgence ou judiciaire dans l’appréciation de la question et recourent à des mesures disciplinaires plu-
+tôt qu’à des poursuites judiciaires, chaque fois que cela sera possible.

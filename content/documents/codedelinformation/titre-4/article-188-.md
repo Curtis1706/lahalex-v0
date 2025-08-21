@@ -1,0 +1,1 @@
+Toute entreprise de presse écrite est libre d’assurer, elle-même, la distribution de ses propres journaux et autres publications périodiques par les moyens qu’elle juge convenables.

@@ -1,0 +1,1 @@
+Les officiers publics et ministériels et les fonctionnaires investis d’attributions du même ordre sont, dans tous les cas, tenus responsables du paiement de la taxe dont l’exigibilité est révélée par les actes qu’ils reçoivent ou les documents qu’ils annexent ou dont ils font usage.

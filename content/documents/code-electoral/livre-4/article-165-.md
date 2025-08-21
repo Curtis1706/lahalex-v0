@@ -1,0 +1,1 @@
+Il est interdit à tout avocat investi d'un mandat parlementaire de plaider ou de consulter contre l'Etat, les collectivités et établissements publics dont les affaires civiles et commerciales.

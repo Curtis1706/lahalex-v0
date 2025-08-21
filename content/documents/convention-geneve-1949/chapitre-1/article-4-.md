@@ -1,0 +1,2 @@
+Application Les Puissances neutres appliqueront par analogie les dispositions de la pré- par les sente Convention aux blessés et malades, ainsi qu’aux membres du personnel Puissances sanitaire et religieux, appartenant aux forces armées des Parties au conflit, qui
+neutres seront reçus ou internés sur leur territoire, de même qu’aux morts recueillis.

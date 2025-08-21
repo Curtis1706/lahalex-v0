@@ -1,0 +1,2 @@
+Le déversement des eaux usées issues des établissements industriels, ou hospitaliers ou commerciaux dans la nature, sans traitement préalable est interdit.
+Tout établissement industriel, hospitalier ou commercial dispose d'un système de traitement adapté et fonctionnel des eaux usées, conformément à la réglementation en vigueur.

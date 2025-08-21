@@ -1,0 +1,3 @@
+La commune domicilie ses recettes budgétaires auprès du comptable de la commune.
+Sous réserve des dispositions de la présente loi, les recettes de la commune ne peuvent être affectées aux dépenses de souveraineté de l'Etat.
+Le comptable de la commune tient en permanence à la disposition de la commune, la trésorerie nécessaire aux dépenses communales. Il ne peut en aucun cas juger de l'opportunité des dépenses ordonnancées par le secrétaire exécutif de la mairie.

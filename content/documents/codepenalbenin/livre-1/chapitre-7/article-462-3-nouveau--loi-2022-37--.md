@@ -1,0 +1,1 @@
+Est punie de deux (02) ans d'emprisonnement au maximum, l'absence non autorisée du corps pendant plus de trois (03) jours.

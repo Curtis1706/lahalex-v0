@@ -1,0 +1,9 @@
+Sanctions administratives à l’égard des opérateurs titulaires de licence ou d’autorisation
+Lorsqu’un opérateur titulaire d’une licence ou d’une autorisation ne respecte pas les obligations prescrites par les textes législatifs et réglementaires applicables y compris celles des articles 12 à 18 du présent code, les décisions de l’Autorité de régulation et les conditions fixées dans sa licence, son autorisation, son cahier des charges ou sa convention d’exploitation, l’Autorité de régulation le met en demeure de :
+- réparer les préjudices causés ;
+- se conformer à ses obligations.
+Si l’opérateur titulaire de la licence ou de l’autorisation ne se conforme pas à la mise en demeure qui lui est adressée, l’Autorité de régulation prononce, à son encontre et à sa charge, par une décision motivée et selon la gravité du manquement, une pénalité dont le montant varie de zéro virgule un pour cent (0,1 %) à quatre pour cent (4 %) de son chiffre d’affaires consolidé du dernier exercice comptable.
+En cas de récidive, le montant de la pénalité est porté au double.
+Si la violation constatée et notifiée persiste, ou en cas de manquement grave ou répété d’un opérateur titulaire de licence ou d’autorisation à une obligation essentielle, l’Autorité de régulation prononce, par une décision motivée, la suspension partielle ou totale de la licence ou de l’autorisation, la réduction de la durée ou le retrait de la licence ou de l’autorisation.
+Le retrait de la licence est prononcé à la demande motivée de l’Autorité de régulation par décret pris en Conseil des Ministres, sur proposition motivée de l’Autorité de régulation.
+L’opérateur peut, en outre, être interdit d’exercer une activité de communications électroniques en République du Bénin.

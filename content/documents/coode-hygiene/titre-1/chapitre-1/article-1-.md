@@ -1,0 +1,51 @@
+Au sens de la présente loi, les termes ci-après se définissent comme suit :
+- additif alimentaire : substance ajoutée à une denrée alimentaire pour des raisons de fabrication, de présentation ou de conservation ;
+- aération : renouvellement régulier de l'air d'une pièce ;
+- agent de l'hygiène : agent public chargé du respect de la législation et de la réglementation en matière d'hygiène ;
+- assainissement : ensemble des actions permettant d'améliorer le cadre de vie des populations, de préserver leur santé et de protéger les ressources naturelles et l'environnement contre les risques liés au rejet des déchets solides et eaux usées et pluviales ;
+- assainissement de base : procédé qui consiste à mettre en place les infrastructures sanitaires comme les latrines et assurer la gestion des déchets dans une communauté ;
+- assainissement du milieu : méthode dont les techniques et les activités visent à assurer la salubrité du cadre de vie ;
+- autorité sanitaire compétente : ministère en charge de la santé ;
+- baignade : endroit comprenant une ou plusieurs zones d'eau douce dans lesquelles les activités de bain se font ;
+- barrière élevée ou érigée sur les voies publiques pour protéger les propriétés privées : assemblage de pièces de bois, de métal, en forme de clôture, fermant un passage qui donne accès aux maisons et qui débouche sur la voie publique ;
+- chaussée : partie d'une voie publique réservée à la circulation des engins ;
+- décharge : espace naturel ou aménagé où sont stockés les déchets ;
+- décharge contrôlée : lieu de traitement et de stockage des déchets selon les normes environnementales ;
+- déchet : reste ou résidu provenant des activités de production ou des rejets après utilisation. Il en existe de plusieurs types, à savoir : ordinaire ou ménager, hospitalier ou industriel, pouvant prendre les formes solide, liquide ou gazeuse ;
+- déchet dangereux : déchet solide, liquide ou gazeux qui en raison de sa composition ou de ses propriétés, présente un danger pour la santé humaine, animale ou environnementale, à travers ses effets directs ou indirects à court, moyen ou long terme ;
+- déchet toxique : reste ou débris ayant des propriétés toxiques, inflammables, corrosives, réactives ou radioactives qui mettent en danger la santé des personnes ou qui peuvent causer des dommages sur l'environnement ;
+- denrée : produit destiné à la consommation alimentaire ;
+- eau usée : eau altérée par l'activité humaine, qu'elle soit domestique ou industrielle ;
+- égout : conduit souterrain destiné à collecter et à évacuer les eaux usées ;
+- environnement : ensemble des éléments physiques, chimiques ou biologiques naturels et artificiels qui entourent un être vivant ;
+- espace sanitaire : espace relatif aux installations et appareils destinés aux soins de propreté et d'hygiène. Il s'agit de l'ensemble des lavabos, WC, robinetterie, baignoire, etc.
+- excréta : substance rejetée hors de l'organisme, constituée principalement de déchets de la nutrition et du métabolisme ;
+- excrément : mélange de selles et d'urines d'animaux ;
+- fosse septique : ouvrage destiné à la collecte et à la liquéfaction des matières excrémentielles. Cet ouvrage est obligatoirement suivi d'un dispositif épurateur. Les eaux épurées sont évacuées directement vers un milieu naturel (cours d'eau, nappes souterraines) ou indirectement par l'intermédiaire d'un mécanisme d'évacuation ;
+- gestion des déchets : processus de collecte, de transport, de stockage, d'évacuation et de traitement des déchets ;
+- gestion des eaux résiduaires des morgues : traitement combinant des processus physiques, biologiques et chimiques entraînant une réduction supplémentaire du risque potentiel d'exposition de l'agent pathogène et des polluants chimiques contenus dans les eaux de rejet provenant des services mortuaires ou d'autopsie ;
+- hygiène : ensemble des principes et des pratiques tendant à préserver et à améliorer la santé. Partie de la médecine qui étudie les moyens propres à conserver la santé, en permettant l'accompagnement normal des fonctions de l'organisme et en harmonisant les rapports entre l'homme et les milieux dans lesquels il vit, afin d'éliminer notamment les influences nocives que peuvent éventuellement comporter ces milieux ;
+- hygiène des aliments : ensemble des mesures garantissant l'innocuité, le bon état et la salubrité des aliments à tous les stades, notamment la production, la transformation, la conservation, la commercialisation et la consommation ;
+- hygiène dans les établissements recevant du public : ensemble de mesures destinées à prévenir les infections et l'apparition de maladies infectieuses ainsi que la contamination et la propagation des maladies dans les structures destinées à recevoir du public ;
+- hygiène menstruelle : fait pour les femmes et les filles d'utiliser un ensemble de mesures consistant en l'utilisation de matériel propre de gestion des règles, permettant d'absorber le sang et pouvant être changé en toute intimité et aussi souvent que nécessaire pendant toute la durée des règles et l'accès à des installations permettant de se débarrasser du matériel utilisé ;
+- hygiène publique : partie de l'hygiène ayant pour objet, dans le cadre de la collectivité, de combattre les nuisances pour prévenir des maladies ;
+- incinération : procédé de traitement par la chaleur qui permet de réduire en cendres les déchets solides ;
+- lavage de voiture sur les voies publiques : nettoyage à l'eau, au savon et/ou avec des produits chimiques conduisant au rejet des résidus d'hydrocarbure et d'huile sur les voies publiques ou dans les canalisations publiques ;
+- lieu public : lieu ouvert au public et à usage collectif, indépendamment de son régime de propriété et des conditions d'accès. Il peut être clos, ouvert ou semi-ouvert ;
+- matériel de protection hygiénique : ensemble des dispositifs amovibles jetables ou réutilisables, tels que les serviettes hygiéniques, tampons et autres utilisés afin d'éviter des épanchements sanguins extérieurs, principalement lors des menstruations ;
+- morgue traditionnelle : structure ou établissement privé où sont provisoirement conservés les cadavres sans la chaine du froid ;
+- nuisance : tout facteur de la vie qui constitue une gêne, un préjudice, un danger pour la santé de l'homme ainsi que pour les autres êtres vivants ;
+- périmètre de protection : domaine délimité autour d'un captage utilisé pour la production d'eau potable, dans lequel diverses mesures sont prises et des servitudes ou des interdictions sont prescrites dans le but de protéger les installations et la qualité de l'eau captée ;
+- périmètre de protection éloigné : zone de rayon supérieur à 400 mètres du point d'eau selon le bassin versant, qui vise à le protéger contre la migration souterraine de substances polluantes ;
+- périmètre de protection immédiat : zone de rayon inférieur à 300 mètres du point d'eau selon le bassin versant, qui vise à le protéger contre la migration souterraine de substances polluantes ;
+- périmètre de protection rapproché : zone d'un rayon compris entre trois cent (300) et quatre cent (400) mètres du point d'eau qui vise à le protéger contre la migration souterraine de substances polluantes ;
+- pollution : toute modification défavorable du milieu naturel qui apparaît en totalité ou en partie comme un sous-produit de l'action humaine, au travers d'effets directs ou indirects altérant les critères de répartition des flux d'énergie, des niveaux de radiation, de la constitution physico-chimique du milieu naturel et des espèces vivantes ;
+- polluant : tout élément solide, liquide ou gazeux de nature physique, chimique ou biologique qui conduit à la dégradation du cadre de vie,
+- poubelle : récipient de forme variée, fabriqué en divers matériaux, en général étanche, doté d'un couvercle, destiné à recevoir les déchets, notamment les détritus ménagers ;
+- risque : probabilité d'apparition d'effet toxique après l'exposition des organismes à un polluant ;
+- risque sanitaire : risque immédiat ou à long terme, plus ou moins probable auquel la santé des populations est exposée,
+- rue : voie bordée de maisons, dans une agglomération,
+- salubrité publique : partie de l'hygiène publique qui embrasse ce qui concerne les soins de propreté des villes, l'éclairage, la surveillance des halles et marchés, la vente des comestibles, les falsifications et sophistications des aliments et des boissons, les inhumations, les constructions des rues, des habitations, des égouts, des canaux, des institutions et des établissements publics divers, des prisons, des hôpitaux, des hospices, des salles d'asile et les mesures concernant les épidémies et les vaccinations ;
+- santé : état de complet bien-être physique, mental et social et ne consistant pas seulement en une absence de maladie ou d'infirmité ;
+- trottoir : partie d'une voie publique surélevée, réservée à la circulation des piétons, sur les côtés de la rue ;
+- vecteur de maladie : tout organisme transmettant des germes pathogènes ou des parasites d'un hôte ou d'un milieu infecté à un autre hôte ou à un autre milieu.

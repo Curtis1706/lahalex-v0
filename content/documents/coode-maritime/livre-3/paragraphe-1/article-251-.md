@@ -1,0 +1,2 @@
+Le marin payé au voyage a droit à une augmentation proportionnelle de son salaire en cas de prolongation du voyage, à une indemnité en cas de retardement sauf si ces circonstances proviennent d’un cas de force majeure.
+2 ne subit aucune réduction de salaire en cas d’abrègement du voyage pour quelque cause qui ne lui soit imputable.

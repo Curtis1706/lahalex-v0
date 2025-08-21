@@ -1,0 +1,1 @@
+Le travailleur de nationalité étrangère assujetti au régime de pension qui quitte définitivement le territoire national alors qu’il n’a pas atteint l’âge d’admissibilité à pension, pourra, s’il n’existe pas de convention de coordination entre le Bénin et son pays d’origine, demander le remboursement des cotisations personnelles au titre de l’assurance vieillesse.

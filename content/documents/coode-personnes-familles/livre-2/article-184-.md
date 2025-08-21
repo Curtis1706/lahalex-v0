@@ -1,0 +1,1 @@
+A défaut de contrat de mariage, les époux sont soumis au régime de la séparation de biens.

@@ -1,0 +1,1 @@
+L'accès des animaux, même accompagnés, aux magasins d'alimentation et aux restaurants ou tous autres lieux de production des denrées alimentaires est interdit.

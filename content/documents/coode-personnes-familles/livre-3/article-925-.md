@@ -1,0 +1,1 @@
+Le légataire universel n'est tenu aux dettes et charges de la succession qu’à concurrence de la valeur des biens reçus, à moins qu’il n’ait omis de faire inventaire.

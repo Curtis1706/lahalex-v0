@@ -1,0 +1,17 @@
+Constituent des créances maritimes, les prétentions à un droit ou à une créance ayant l’une des causes suivantes :
+- dommages causés par un navire, soit par abordage, soit autrement ;
+- pertes de vies humaines ou dommages corporels causés par un navire ou provenant de l’exploitation d’un navire ;
+- assistance et sauvetage ;
+- contrats relatifs à l’utilisation ou à la location d’un navire par charte-partie ou autre convention ;
+- contrats relatifs au transport des marchandises par un navire en vertu d’une charte-partie, d’un connaissement ou autrement ;
+- pertes ou dommages aux marchandises ou bagages transportés par un navire ;
+- avaries communes ;
+- remorquage ;
+- pilotage ;
+- fourniture, quel qu’en soit le lieu, de produits ou de matériel, faite à un navire en vue de son exploitation ou de son entretien ;
+- construction, réparation, équipement d’un navire ou frais de cale ;
+- salaires du capitaine, des officiers ou hommes d’équipage ;
+- débours du capitaine et ceux effectués par les chargeurs, les affréteurs ou les agents pour le compte du navire ;
+- litige sur la propriété ou la copropriété d’un navire ;
+- exploitation ou droits aux produits d’exploitation d’un navire ;
+- toute hypothèque maritime et généralement toute créance qui a sa source dans l’une des causes qui permettent l’application de la limitation de responsabilité des propriétaires ou armateurs de navire.

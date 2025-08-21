@@ -1,0 +1,1 @@
+Tout conseiller de village ou de quartier de ville peut être suspendu par le conseil communal lorsqu'il est placé sous mandat de dépôt ou a commis une faute lourde dans l'exercice de ses fonctions.

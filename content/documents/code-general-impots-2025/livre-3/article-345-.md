@@ -1,0 +1,8 @@
+1) Sont assujettis à un droit de 1%, les constitutions de rentes perpétuelles ou viagères, ou de pensions à titre onéreux, leurs cessions, transports et autres mutations, ainsi que les remboursements ou rachats de rentes et redevances de toute nature.
+2) La base d’imposition est déterminée par le capital constitué.
+Les rentes et pensions stipulées payables en nature ou sur la base du cours de certains produits sont évaluées aux mêmes capitaux, d’après une déclaration estimative de la valeur des produits à la date de l’acte.
+3) Pour les rentes et pensions créées sans expression de capital, leurs transports et
+amortissements, ladite valeur est déterminée à raison d’un capital formé de vingt (20) fois la rente perpétuelle et de dix (10) fois la rente viagère ou la pension, quel que soit le prix stipulé pour le transport ou l’amortissement.
+Toutefois, lorsque l’amortissement ou le rachat d’une rente ou pension constituée à titre gratuit est effectué moyennant l’abandon d’un capital supérieur à celui formé de vingt (20) fois la rente perpétuelle et de dix (10) fois la rente viagère ou la pension, un supplément de droit de donation est exigible sur la différence entre ce capital et la valeur imposée lors de la constitution.
+4) Les contrats de rentes viagères passés par les sociétés d’assurance sont exemptés
+de la formalité de l’enregistrement, ainsi que tous actes ayant exclusivement pour objet la formation, la modification ou la résiliation amiable de ces contrats.

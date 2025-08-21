@@ -1,0 +1,1 @@
+Est puni de la détention criminelle à perpétuité, tout béninois ou tout étranger qui, dans l’intention de les livrer à une puissance étrangère, a rassemblé des renseignements, objets, documents ou procédés dont la réunion et l’exploitation sont de nature à nuire à la défense nationale.

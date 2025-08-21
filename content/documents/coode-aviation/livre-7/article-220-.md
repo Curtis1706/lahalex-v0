@@ -1,0 +1,1 @@
+Tout aéronef se trouvant sur un aérodrome béninois est soumis à des inspections pour s'assurer de sa conformité avec les normes de sécurité et de sûreté qui lui sont applicables, qu'elles soient nationales, communautaires ou prises en application de la Convention relative à l'aviation civile internationale.

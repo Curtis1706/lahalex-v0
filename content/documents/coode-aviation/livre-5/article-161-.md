@@ -1,0 +1,1 @@
+Nul ne peut exploiter un aérodrome utilisé pour les vols nationaux s’il n'a obtenu de l'organisme national en charge de l'aviation civile, une autorisation d’exploitation.

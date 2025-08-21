@@ -1,0 +1,16 @@
+{
+  "id": "article-564-",
+  "title": "Article 564 :",
+  "numero": "564 ",
+  "document": "codeprocedurepenalbenin",
+  "path": [
+    "livre-2",
+    "titre-4",
+    "paragraphe-6"
+  ],
+  "navigation": {
+    "parent": "paragraphe-6",
+    "previous": "article-563-",
+    "next": "article-565-"
+  }
+}

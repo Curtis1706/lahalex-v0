@@ -1,0 +1,2 @@
+Tout vendeur de denrées alimentaires immédiatement consommables les protège de manière adéquate et assure la propreté des abords immédiats des lieux de vente.
+Toute personne qui manipule les denrées alimentaires est tenue de porter un calot et une bavette.

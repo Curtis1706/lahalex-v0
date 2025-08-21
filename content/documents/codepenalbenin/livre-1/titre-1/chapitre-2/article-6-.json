@@ -1,0 +1,16 @@
+{
+  "id": "article-6-",
+  "title": "Article 6 : Sont punissables, les faits constitutifs d’une infraction à la date à laquelle ils ont été commis.",
+  "numero": "6 ",
+  "document": "codepenalbenin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-2"
+  ],
+  "navigation": {
+    "parent": "chapitre-2",
+    "previous": "article-5-",
+    "next": "article-7-"
+  }
+}

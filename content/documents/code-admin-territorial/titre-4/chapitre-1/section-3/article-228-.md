@@ -1,0 +1,1 @@
+Le chef de village ou de quartier de ville exerce une fonction de conciliation pour les questions intéressant la vie collective dans la communauté.

@@ -1,0 +1,5 @@
+Stages professionnels
+Les stages professionnels mentionnés aux articles 514 et 515 doivent être effectués en une seule période. Ils comportent une période d’enseignement théorique et une période de formation pratique dans un institut africain ou de la zone franc dispensant un enseignement spécifique en matière d’assurance. L’enseignement théorique doit être dispensé par des professionnels qualifiés, préalablement à la formation pratique dont la durée ne peut excéder la moitié de la durée totale du stage professionnel.
+La formation pratique est effectuée sous le contrôle permanent et direct de personnes habilitées à présenter des opérations d’assurances ou de capitalisation.
+Les stages professionnels peuvent être effectués auprès d’une entreprise d’assurance, d’un courtier ou d’une société de courtage d’assurances, d’un agent général d’assurances ou d’un centre de formation choisi par les organisations représentatives de la profession.
+Les stages professionnels doivent avoir une durée raisonnable et suffisante sans pouvoir être inférieure à cinq cents heures.

@@ -1,0 +1,3 @@
+Les aéronefs qui effectuent un parcours international ne peuvent se poser que sur les aéroports douaniers dans les conditions fixées par la réglementation en vigueur.
+Ils peuvent être tenus de suivre une route aérienne pour franchir la frontière ou la limite des eaux territoriales.
+Toutefois, certaines catégories d'aéronefs peuvent, en raison de la nature de leur exploitation, être dispensées d’atterrir aux aéroports douaniers en vertu d'une autorisation administrative délivrée sur demande adressée au ministre chargé de l'aviation civile. L'autorisation fixe, dans ce cas, les aérodromes de départ et d'arrivée et éventuellement, la route à suivre et les signaux à donner aux passages de la frontière ou de la limite des eaux.

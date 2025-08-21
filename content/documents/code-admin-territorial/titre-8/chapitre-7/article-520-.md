@@ -1,0 +1,1 @@
+Le service public à caractère industriel et commercial est financé principalement par les redevances payées par les usagers.

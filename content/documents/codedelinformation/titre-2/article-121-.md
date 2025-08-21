@@ -1,0 +1,1 @@
+Les partis politiques ou alliances de partis politiques représentés à l’Assemblée Nationale bénéficient sur leur tranche horaire mensuelle, d’un quota horaire supplémentaire déterminé au prorata du nombre de leurs députés au parlement.

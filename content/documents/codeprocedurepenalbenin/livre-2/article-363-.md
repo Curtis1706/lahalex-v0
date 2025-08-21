@@ -1,0 +1,1 @@
+Aucune personne acquittée légalement ne peut plus être prise ou accusée des mêmes faits, même sur une qualification différente.

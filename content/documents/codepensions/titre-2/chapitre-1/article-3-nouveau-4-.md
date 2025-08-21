@@ -1,0 +1,4 @@
+Est dispensé de la condition d’âge fixée à l’article 3 nouveau-1 ci-dessus :
+1. l’agent permanent de l’Etat ou l’agent contractuel de l’Etat qui est reconnu hors d’état de continuer ses fonctions, après avis de la commission de réforme prévue à l’article 24 de la loi n° 86-014 du 26 septembre 1986 par l’autorité ayant qualité pour procéder au recrutement ou à la nomination ;
+2. l’agent permanent de l’Etat ou l’agent contractuel de l’Etat licencié pour insuffisance professionnelle, à condition qu’il n’ait commis aucune faute dans l’exercice de ses fonctions ;
+3. l’agent permanent de l’Etat ou l’agent contractuel de l’Etat licencié pour suppression d’emploi.

@@ -1,0 +1,3 @@
+Identification des publicités par voie électronique
+Toute publicité, sous quelque forme que ce soit, accessible par un service de 	communications électroniques ouvert au public ou un service en ligne, doit pouvoir être clairement identifiée comme telle, dès sa réception. Elle rend clairement identifiable son expéditeur, ainsi que la personne physique ou morale pour le compte de laquelle elle est réalisée.
+La publicité peut notamment être identifiée comme telle en raison de son titre, de sa présentation ou de son objet. A défaut, elle comporte la mention “Publicité” de manière claire, lisible, apparente et non équivoque, le cas échéant dans l'objet ou dans le corps du message qui la véhicule.

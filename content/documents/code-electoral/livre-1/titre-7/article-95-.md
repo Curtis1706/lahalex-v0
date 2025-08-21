@@ -1,0 +1,2 @@
+Tout responsable de transmission tardive de cantines ou de plis scellés est passible de la peine prévue au code pénal. Toute transmission hors délai de cantines ou de plis scellés doit être dénoncée dans les soixante-douze (72) heures qui suivent la transmission tardive aux procureurs de la République compétents par le président de la Commission électorale nationale autonome (CENA).
+La non dénonciation de la transmission tardive rend le président de la Commission électorale nationale autonome (CENA) passible de la même peine.

@@ -1,0 +1,2 @@
+La décision rendue par un organe judiciaire est publique.
+Toutefois, un organisme public ne peut communiquer un renseignement contenu dans un dossier de justice alors que la juridiction de jugement en interdit la communication, au motif qu’il a été obtenu alors que l’organisme a siégé à huis clos, ou que celui-ci a rendu à son sujet une ordonnance de non publication, de non divulgation ou de non diffusion ou que sa communication aurait révélé un renseignement dont la confirmation de l’existence ou la communication est refusée en vertu de la présente loi.

@@ -1,0 +1,1 @@
+En cas de dissolution de l’établissement public de coopération intercommunale, les biens meubles et immeubles mis à sa disposition par les communes membres leur sont restitués avec les droits et obligations qui s'y rattachent, sauf convention contraire.

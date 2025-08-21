@@ -1,0 +1,16 @@
+{
+  "id": "article-166-",
+  "title": "Article 166 :",
+  "numero": "166 ",
+  "document": "code-general-impots-2025",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "chapitre-99"
+  ],
+  "navigation": {
+    "parent": "chapitre-99",
+    "previous": "article-165-",
+    "next": "article-167-"
+  }
+}

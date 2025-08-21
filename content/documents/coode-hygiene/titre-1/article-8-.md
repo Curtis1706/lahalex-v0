@@ -1,0 +1,1 @@
+Nul n'a le droit d'obstruer les voies publiques et les canaux d'écoulement.

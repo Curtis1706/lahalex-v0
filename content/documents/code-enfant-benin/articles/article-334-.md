@@ -1,0 +1,1 @@
+Article 334 : Tout médecin accoucheur, toute sage-femme ou toute matrone qui ne transmet pas à l’officier de l’état civil, dans les délais requis par la loi, les fiches de naissance des enfants nés dans son centre de travail, est puni d'une amende de cinquante mille (50 000) à deux cent mille (200 000) francs CFA ou d'une peine d'emprisonnement de quinze (15) à trente (30) jours.

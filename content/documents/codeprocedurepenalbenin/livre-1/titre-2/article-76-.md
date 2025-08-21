@@ -1,0 +1,1 @@
+Les officiers de police judiciaire, les agents supérieurs de police judiciaire et les agents de police judiciaire procèdent à des enquêtes préliminaires, soit sur les instructions du procureur de la République, soit d’office.

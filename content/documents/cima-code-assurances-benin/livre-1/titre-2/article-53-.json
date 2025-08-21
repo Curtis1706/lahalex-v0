@@ -1,0 +1,15 @@
+{
+  "id": "article-53-",
+  "title": "Article 53 : Reconnaissance de responsabilité et transaction",
+  "numero": "53 ",
+  "document": "cima-code-assurances-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-52-",
+    "next": "article-54-"
+  }
+}

@@ -1,0 +1,2 @@
+Par dérogation aux dispositions du code des marchés publics et jusqu'à la mise en place des organes compétents, les secrétaires exécutifs de mairie sont les personnes responsables des marchés publics dans les communes autres que celles à statut particulier et intermédiaire.
+Le maire est autorité approbatrice des marchés publics dans lesdites communes.

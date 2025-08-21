@@ -1,0 +1,4 @@
+Article 298 : Remise ou restitution de garde
+Lorsqu’une année au moins s’est écoulée depuis la décision de placement de l’enfant hors de sa famille, les parents de l’enfant ou le tuteur peuvent formuler une demande de remise ou de restitution de garde, en justifiant de leur aptitude à élever l’enfant, et d’un amendement suffisant de ce dernier.
+Si cette demande est rejetée, il ne peut être fait une nouvelle demande avant le délai de un (01) an sauf si des circonstances nouvelles justifient une pareille demande.
+Les mesures prononcées contre l’enfant font d’office l’objet d’une révision tous les ans lorsque leurs effets n’ont pas cessé dans l’intervalle.

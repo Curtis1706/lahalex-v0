@@ -1,0 +1,6 @@
+Quiconque aura coupé ou enlevé des arbres, les aura mutilés, ébranchés, écorcés, incinérés abusivement ou exploité des produits forestiers accessoires sans y avoir été autorisé et sans jouir du droit d’usage est puni d’une amende de cinq mille (5.000) francs CFA à cinquante mille (50.000) francs CFA et d’un emprisonnement de quinze (15) jours à six (06) mois ou de l’une de ces deux peines seulement.
+Si l’infraction est commise dans une forêt classée non mise en concession, le contrevenant est puni d’une amende de vingt mille (20.000) francs CFA à deux cent cinquante mille (250.000) francs CFA et d’un emprisonnement d’un (01) mois à un (01) an.
+Les produits de l’infraction sont saisis et vendus aux enchères.
+Si l’infraction est commise dans une portion de forêt classée concédée en vue de son exploitation par adjudication, en plus des peines prévues à l’alinéa précédent, les produits exploités et non enlevés ainsi que les restitutions et dommages-intérêts reviendront aux exploitants autorisés ou acheteurs de la coupe.
+Il en est de même dans le cas d’une infraction commise sur une portion des forêts classées concédées à un établissement privé ou à une collectivité publique en vue de son enrichissement ou de son reboisement.
+Dans chacun des cas cités ci-dessus, il est procédé à la saisie des matériels ayant servi à commettre l’infraction.

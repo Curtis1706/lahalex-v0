@@ -1,0 +1,1 @@
+Les demandes et déclarations relatives à la nationalité, introduites avant l'entrée en vigueur de la présente loi sont instruites conformément à la loi n° 6517 du 23 juin 1965 à moins que les nouvelles dispositions ne soient plus favorables aux requérants et déclarants.

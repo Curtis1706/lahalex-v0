@@ -1,0 +1,15 @@
+{
+  "id": "article-42-",
+  "title": "Article 42 : Pendant un délai de trois (03) jours ouvrables,",
+  "numero": "42 ",
+  "document": "code-douane",
+  "path": [
+    "titre-1",
+    "chapitre-6"
+  ],
+  "navigation": {
+    "parent": "chapitre-6",
+    "previous": "article-41-",
+    "next": "article-43-"
+  }
+}

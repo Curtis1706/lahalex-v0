@@ -1,0 +1,3 @@
+Article 336-4 : Dérogations
+Les entreprises ne sont tenues de faire les calculs mentionnés aux articles 336-1 à 336-3 que lorsque le revenu annuel, non compris les bénéfices provenant de ventes ou de conversions, est inférieur au montant des intérêts dont les provisions mathématiques doivent être créditées. Les calculs sont faits en se plaçant pour les entreprises au 31 décembre. Ils peuvent être révisés chaque année.
+### CHAPITRE 4 : SOLVABILITE DES ENTREPRISES

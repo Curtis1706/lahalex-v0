@@ -1,0 +1,3 @@
+Article 542 : Délai
+Les primes encaissées par les intermédiaires doivent être reversées à l’assureur, accompagnées d’un bordereau justificatif, dans un délai de trente jours suivant leur encaissement.
+En cas de non reversement par l’intermédiaire des primes encaissées dans les délais prévus, les sommes non reversées produisent intérêt de plein droit au double du taux d’escompte, dans la limite du taux de l’usure à compter de l’expiration du délai de reversement stipulé.

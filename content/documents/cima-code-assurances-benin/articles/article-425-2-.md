@@ -1,0 +1,3 @@
+Article 425-2 : _(Règlement n°2014-01)_ Autres états intermédiaires - Envoi
+Les entreprises doivent transmettre au Ministre en charge des assurances dans l’Etat membre, sous format électronique dans le mois suivant la fin de chaque trimestre ou chaque semestre, l’ensemble des états prévus à l’article 422-2.
+Elles doivent adresser les mêmes documents dans les mêmes conditions à la Commission Régionale de Contrôle des Assurances.

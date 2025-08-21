@@ -1,0 +1,1 @@
+La saisie administrative est une mesure de poursuite exécutée par un agent de recouvrement ou un porteur de contraintes visant les biens meubles corporels, les fruits, les récoltes et les immeubles appartenant à un contribuable défaillant en vue de leur vente.

@@ -1,0 +1,15 @@
+{
+  "id": "article-55-",
+  "title": "Article 55 : Communication électronique",
+  "numero": "55 ",
+  "document": "codemarchepublic",
+  "path": [
+    "titre-3",
+    "chapitre-6"
+  ],
+  "navigation": {
+    "parent": "chapitre-6",
+    "previous": "article-54-",
+    "next": "article-56-"
+  }
+}

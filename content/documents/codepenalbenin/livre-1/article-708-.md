@@ -1,0 +1,5 @@
+Tous ceux qui :
+- par des faits calomnieux, ont semés sciemment dans le public, par des offres jetées sur le marché à dessein de troubler les cours, par des suroffres faites aux prix que demandaient les vendeurs eux-mêmes, par des voies ou moyens frauduleux quelconques ;
+- en exerçant ou tentant d’exercer soit individuellement, soit par réunion ou coalition, une action sur le marché dans le but de se procurer un gain qui ne serait pas le résultat du jeu naturel de l’offre et de la demande ;
+- ont, directement ou par personne interposée, opéré ou tenté d’opérer la hausse ou la baisse artificielle du prix des denrées ou marchandises ou des effets publics ou privés, sont punis d’un emprisonnement de deux (02) mois à deux (02) ans et d’une amende de cinquante mille (50.000) francs CFA à deux cent cinquante mille (250.000) francs CFA.
+Le tribunal peut de plus prononcer contre les coupables la peine de l’interdiction de séjour pour deux (02) ans au moins et cinq (05) ans au plus.

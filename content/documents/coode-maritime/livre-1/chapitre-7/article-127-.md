@@ -1,0 +1,1 @@
+L’hypothèque peut être constituée sur un bâtiment de mer en construction. Dans ce cas, elle devra être précédée d’une déclaration faite à l’autorité maritime indiquant les dimensions, tonnages, caractéristiques principales du navire et le chantier de construction.

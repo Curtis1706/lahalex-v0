@@ -1,0 +1,8 @@
+(Modifié par la loi de finances pour 2024) 1) Les constructions nouvelles, les reconstructions et les additions de constructions exclusivement destinées à l’habitation du propriétaire et de sa famille ne sont soumises à la taxe foncière unique que la quatrième année suivant celle de leur achèvement ou de leur première utilisation.
+Si lesdits immeubles ou portions d’immeubles sont ultérieurement affectés à un usage autre que l’habitation exclusive du propriétaire et de sa famille, ils cesseront d’avoir droit à l’exemption pour le reste de la période à compter de l’année de leur transformation.
+2) Pour bénéficier de l’exemption temporaire, le propriétaire adresse au service des
+impôts, dans l’année de l’achèvement des travaux ou de la première utilisation des constructions nouvelles, additions de constructions ou reconstructions et au plus tard avant le 1er janvier de l’année suivant celle de cet achèvement ou de cette utilisation, une lettre, accompagnée d’une copie du permis de construire. Il atteste de sa qualité de propriétaire par le titre foncier.
+En aucun cas, l’exemption temporaire ne peut être accordée si le propriétaire n’est à jour de la taxe foncière unique due à raison de l’immeuble préexistant.
+À défaut de déclaration dans le délai, les constructions, les additions de constructions et reconstructions sont imposées définitivement dès le 1er janvier de l’année de leur découverte.
+3) L’exemption ne concerne que la résidence principale et ne peut être accordée
+qu’une seule fois à la même personne.

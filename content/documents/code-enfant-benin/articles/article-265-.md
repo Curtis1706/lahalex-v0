@@ -1,0 +1,2 @@
+Article 265 : Autorisation de publication du jugement et protection de l’identité
+Le jugement rendu contre un enfant peut être publié sans que le nom de l’enfant puisse être indiqué même pas par une initiale sous peine des sanctions prévues à l’article 675 alinéa 2 du code de procédure pénale. Aussi, toute information sur l’identité et la personnalité de l’enfant est formellement interdite.

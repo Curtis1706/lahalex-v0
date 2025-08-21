@@ -1,0 +1,2 @@
+Lorsque les libéralités testamentaires excèdent, soit la quotité disponible, soit la portion de cette quotité qui resterait après avoir déduit la valeur des donations entre vifs, la réduction est, sauf disposition contraire du testament, faite au marc le franc, sans aucune distinction entre legs universels et legs particuliers, entre legs de sommes d’argent et legs de corps certain.
+Le testateur peut notamment imposer aux légataires universels l’exécution intégrale des legs particuliers, si ceux-ci sont sujets à réduction.

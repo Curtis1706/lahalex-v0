@@ -1,0 +1,2 @@
+Article 243 : Conditions d'appel à la médiation pénale
+Lorsque les circonstances l'obligent à prononcer à l’égard d’un mineur une condamnation pénale, le juge peut inviter les parties à une médiation pénale pour trouver une mesure de rechange qui permet d'assurer la réparation du dommage causé à la victime, de mettre fin au trouble résultant de l’infraction et de contribuer au reclassement de l’auteur de l’infraction.

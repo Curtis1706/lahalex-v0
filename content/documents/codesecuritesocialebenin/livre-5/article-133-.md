@@ -1,0 +1,1 @@
+Les infrastructures aux dispositions de la présente loi sont constatées par les inspecteurs du travail par procèsverbal faisant foi jusqu’à inscription de faux. Les inspecteurs et les contrôleurs de la sécurité sociale peuvent saisir l’inspecteur du travail du ressort des infractions constatées dans l’exercice de leurs fonctions.

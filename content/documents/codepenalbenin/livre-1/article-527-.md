@@ -1,0 +1,3 @@
+Toute personne qui, informée de la préparation d’une mutilation génitale féminine, n’aurait pas agi pour empêcher sa commission, est poursuivie pour non-assistance à personne en danger et punie de six (06) mois à deux (02) ans d’emprisonnement et d’une amende de deux cent cinquante mille (250.000) francs CFA à cinq cent mille (500.000) francs CFA.
+Toute personne qui a connaissance d’une mutilation génitale féminine est tenue d’en informer immédiatement le procureur de la République ou l’officier de police judiciaire le plus proche aux fins de droit.
+La non dénonciation est punie d’une amende de deux cent cinquante mille (250.000) francs CFA à cinq cent mille (500.000) francs CFA.

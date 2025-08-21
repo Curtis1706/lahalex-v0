@@ -1,0 +1,15 @@
+{
+  "id": "article-79-",
+  "title": "Article 79 :",
+  "numero": "79 ",
+  "document": "coode-personnes-familles",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-78-",
+    "next": "article-80-"
+  }
+}

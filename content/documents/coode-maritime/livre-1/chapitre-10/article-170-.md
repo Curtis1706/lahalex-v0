@@ -1,0 +1,1 @@
+Les affiches sont apposées sur la partie la plus apparente du bâtiment saisi, à la porte principale du tribunal, à la capitainerie du port, à la chambre de commerce et à la direction de la marine marchande.

@@ -1,0 +1,12 @@
+{
+  "id": "article-premie",
+  "title": "Article premier",
+  "numero": "premie",
+  "document": "code-gestion-eau-benin",
+  "path": [],
+  "navigation": {
+    "parent": "code-gestion-eau-benin",
+    "previous": "article-94-",
+    "next": "article-1"
+  }
+}

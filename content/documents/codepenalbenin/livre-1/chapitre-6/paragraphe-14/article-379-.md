@@ -1,0 +1,1 @@
+Les peines prévues aux articles précédents contre les officiers de l’état-civil leur sont appliquées, alors même que la nullité de leurs actes n’aurait pas été demandée ou aurait été couverte ; le tout sans préjudice des peines plus fortes prononcées en cas de collusion et sans préjudice aussi des autres dispositions de la loi.

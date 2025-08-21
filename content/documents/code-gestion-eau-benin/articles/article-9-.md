@@ -1,0 +1,2 @@
+Article 9 : La gestion durable de l’eau consiste en une utilisation prudente et rationnelle fondée sur les données scientifiques, les solidarités caractérisant les eaux superficielles et souterraines, le respect des engagements internationaux et les principes généraux de protection de l’environnement reconnus par les lois de la République du Bénin.
+L’Etat et les collectivités territoriales, dans leurs domaines respectifs de compétences, veillent à la gestion durable de l’eau, en vue d’en garantir aux usagers un accès équitable.

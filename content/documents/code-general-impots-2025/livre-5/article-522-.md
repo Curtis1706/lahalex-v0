@@ -1,0 +1,1 @@
+Les transporteurs ou conducteurs, présentent sur le champ, à toute demande des agents des impôts ayant au moins le grade d’inspecteur, toutes pièces administratives et documents fiscaux concernant les produits ou marchandises soumis à des formalités particulières en matière de circulation.

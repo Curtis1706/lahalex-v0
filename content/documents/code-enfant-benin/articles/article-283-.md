@@ -1,0 +1,2 @@
+Article 283 : Garde provisoire avec régime de liberté surveillée
+La garde provisoire confiée à la famille, à une personne digne de confiance ou à une institution charitable peut être assortie, le cas échéant, du régime de liberté surveillée.

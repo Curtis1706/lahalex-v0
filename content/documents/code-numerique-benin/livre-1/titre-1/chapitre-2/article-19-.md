@@ -1,0 +1,3 @@
+Neutralité technologique
+Dans le cadre de leurs attributions, le Ministère en charge des communications électroniques et l’Autorité de régulation veillent à appliquer en toutes circonstances le principe de la neutralité technologique.
+Le principe de neutralité technologique s’entend comme l’obligation générale de non-discrimination légale, réglementaire, institutionnelle ou autre des technologies au regard des services fournis.

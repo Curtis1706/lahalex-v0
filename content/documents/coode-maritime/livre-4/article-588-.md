@@ -1,0 +1,2 @@
+Lorsque le fret qui n’est pas acquis à tout événement est assuré, il n’est garanti que jusqu’à concurrence de soixante pour cent (60%).
+L’assurance du fret ne garantit, dans la limite de la somme assurée, que la contribution de ce fret aux avaries communes et son remboursement s’il y a délaissement du navire à la suite d’un risque couvert, mais à charge pour l’armateur, dans les cas prévus aux articles 563 et 564 du présent code, de justifier qu’il n’a pu acheminer la marchandise à destination.

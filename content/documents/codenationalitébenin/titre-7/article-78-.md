@@ -1,0 +1,1 @@
+Il est perçu sans addition d'aucun droit d'enregistrement, un droit de chancellerie pour les déclarations, demandes et radiations relatives à l'acquisition de nationalité, la renonciation, la réintégration, la répudiation, le certificat de nationalité et la délivrance de copie des décrets.

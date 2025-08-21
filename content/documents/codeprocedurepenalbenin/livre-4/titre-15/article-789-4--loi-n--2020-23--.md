@@ -1,0 +1,4 @@
+Pour l’exécution d'une demande d'entraide adressée à cette fin à la République du Bénin sur le fondement de la convention des Nations-Unies contre la corruption, l’audition ou l'interrogatoire d'une personne ainsi que la confrontation entre plusieurs personnes peuvent être effectuées sur le territoire national et à l'étranger, au moyen d'une vidéoconférence ou de tout autre moyen technique approprié.
+Lorsque la demande émane des autorités judiciaires béninoises, ces actes sont exécutés conformément à la loi béninoise.
+Lorsque la demande émane des autorités judiciaires étrangères, ces actes sont exécutés en présence, s’il y a lieu, de l’autorité judiciaire béninoise aux côtés de la personne entendue ou interrogée.
+Dans tous les cas, il est dressé un procès-verbal des opérations qui ont été effectuées sur le territoire béninois.

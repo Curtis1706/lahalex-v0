@@ -1,0 +1,4 @@
+Sociétés de réassurance mutuelles
+Il peut être formé, entre sociétés régies par la présente section, des sociétés de réassurance mutuelles ayant pour objet la réassurance des risques garantis directement par les sociétés qui en font partie.
+Ces sociétés de réassurance sont soumises aux dispositions de la présente section. Toutefois, elles sont valablement constituées lorsqu’elles réunissent au moins sept sociétés adhérentes. Leurs statuts fixent, sans condition de montant minimal, le montant de leur fonds d’établissement ; l’assemblée générale est composée de toutes les sociétés adhérentes.
+1.  _Publicité_

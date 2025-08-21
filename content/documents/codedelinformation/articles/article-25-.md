@@ -1,0 +1,2 @@
+La fonction de journaliste est incompatible avec toute subordination fonctionnelle à une autorité publique.
+La fonction d’attaché de presse, de chargé des relations publiques ou autres fonctions assimilées est incompatible avec l’exercice cumulé de la profession de journaliste.

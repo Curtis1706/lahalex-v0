@@ -1,0 +1,2 @@
+Le juge d’instruction peut se transporter sur les lieux pour y effectuer toutes constatations utiles ou procéder à des perquisitions. Il en donne avis au procureur de la République qui a la faculté de l’accompagner.
+Le juge d’instruction est assisté d’un greffier qui dresse un procès-verbal des opérations effectuées.

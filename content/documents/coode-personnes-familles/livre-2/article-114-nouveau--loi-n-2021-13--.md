@@ -1,0 +1,1 @@
+« On peut contracter le mariage sans avoir fait au préalable célébré des fiançailles ou faire la connaissance mutuelle des familles. Lorsqu’il y a connaissance mutuelle des familles ou fiançailles, ces conventions n'obligent pas les fiancés à contracter le mariage ».

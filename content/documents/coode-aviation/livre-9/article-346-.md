@@ -1,0 +1,2 @@
+L'aéronef dont le certificat de navigabilité et le certificat d'immatriculation ne peuvent être produits ou dont les marques d’immatriculation ne concordent pas avec celles du certificat d'immatriculation est retenu et la charge incombe au propriétaire.
+En cas de location de l'aéronef inscrite au registre d'immatriculation, la charge incombe au locataire inscrit jusqu’à ce que l'identité du propriétaire soit établie.

@@ -1,0 +1,1 @@
+L’assureur ne peut être contraint de réparer ou de remplacer les objets assurés.

@@ -1,0 +1,3 @@
+Au cas où un navire ne peut prendre la mer sans danger pour lui-même, l’équipage, les personnes embarquées ou le milieu marin et ses intérêts connexes tels que définis par les conventions internationales applicables, notamment la convention de Bruxelles du 29 novembre 1969 sur l’intervention en haute mer en cas d’accident entraînant ou pouvant entraîner une pollution par les hydrocarbures, son appareillage peut être ajourné ou interdit après visite.
+L’autorité maritime compétente prend, dans ce cas toutes les dispositions nécessaires pour en empêcher l’appareillage.
+S’il s’agit d’un navire étranger, elle informe par écrit l’ambassadeur, le consul ou le consignataire intéressé de la décision prise et des circonstances qui l’ont motivée.

@@ -1,0 +1,1 @@
+Dans le cadre de l’exercice des pouvoirs de tutelle, les actes pris par les autorités communales sont transmis au préfet, qui en délivre aussitôt un accusé de réception.

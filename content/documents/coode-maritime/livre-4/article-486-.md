@@ -1,0 +1,2 @@
+Le dommage causé aux machines de propulsion et aux chaudières d’un navire échoué dans une position périlleuse par les efforts faits pour le renflouer, est admis en avaries communes lorsqu’il est établi, qu’il procède de l’intention réelle de renflouer le navire pour le salut commun au risque d’un tel dommage.
+Mais lorsqu’un navire est à flot, aucune perte ou avarie causée par le fonctionnement des machines et chaudières y compris la perte ou avarie due à un forcement de machine ou à une manœuvre de ce genre, n’est en aucune circonstance admise en avaries communes.

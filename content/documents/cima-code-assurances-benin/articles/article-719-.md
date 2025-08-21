@@ -1,0 +1,3 @@
+Article 719 : Fonds d’établissement
+Les entreprises soumises au contrôle en application de l’article 712, constituées sous forme de sociétés mutuelles de micro assurances et dont le siège social se trouve sur le territoire d’un État membre doivent avoir un fonds d’établissement au moins égal à 300 millions de francs CFA.
+Les entreprises soumises au contrôle en application de l’article 300, constituées sous forme de sociétés mutuelles d’assurance qui demandent un agrément pour pratiquer des opérations de micro-assurance doivent satisfaire aux exigences réglementaires de couverture des engagements réglementés et de marge de solvabilité.

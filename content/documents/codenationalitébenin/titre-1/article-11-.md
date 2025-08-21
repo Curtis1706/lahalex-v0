@@ -1,0 +1,2 @@
+Les lois nouvelles relatives à l'attribution de la nationalité d'origine s'appliquent aux personnes encore mineures à la date de leur entrée en vigueur, sans préjudice des droits acquis. Elles ne remettent pas en cause, pour cause de nationalité, la validité des actes antérieurement passés.
+L'acquisition et la perte de la nationalité béninoise sont régies par la loi en vigueur au temps de l'acte ou du fait auquel la loi attache ces effets.

@@ -1,0 +1,2 @@
+Lorsque les dons et legs sont grevés de charges, de conditions ou d'affectation spéciale, l'acceptation ou le refus est préalablement autorisé par délibération du conseil communal.
+BIENS ET DROITS INDIVIS ENTRE LES COMMUNES

@@ -1,0 +1,1 @@
+Est puni d’un emprisonnement de deux (02) ans à cinq (05) ans et d’une amende cinq cent mille (500.000) francs CFA à cinq millions (5.000.000) de francs CFA, la détention, hors les cas où elle est autorisée par les lois ou les règlements, des plantes ou substances classées comme stupéfiants ou substances psychotropes ou leurs préparations.

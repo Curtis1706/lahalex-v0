@@ -1,0 +1,1 @@
+Le secrétariat des séances du conseil communal est assuré à la diligence du secrétaire exécutif.

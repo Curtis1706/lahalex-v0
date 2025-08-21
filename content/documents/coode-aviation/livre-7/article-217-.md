@@ -1,0 +1,1 @@
+Pour la détermination de ses tarifs, l'entreprise de transport aérien se conforment à la réglementation en vigueur.

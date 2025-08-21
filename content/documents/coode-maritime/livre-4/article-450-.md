@@ -1,0 +1,2 @@
+Les avaries causées au bateau-pilote au cours des opérations de pilotage, d’embarquement ou de débarquement du pilote sont, sauf faute lourde du pilote, à la charge de l’armateur.
+Les dommages causés en cours de pilotage à des tiers par le navire piloté, peuvent engager la responsabilité personnelle du pilote. 2 en sera ainsi s’il a commis une fausse manœuvre.

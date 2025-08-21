@@ -1,0 +1,3 @@
+Article 173 : Responsabilité civile du citoyen
+Tout citoyen ou tout responsable d'une institution publique ou privée, qui a connaissance de cas d'enfants en situation d'abandon ou de cas d'enfants abandonnés, doit en informer immédiatement les autorités administratives, policières ou judiciaires aux fins de la mise en œuvre des mesures de protection de l'enfant.
+En cas, de négligence ou de rétention de l'information, ce citoyen est responsable des déconvenues.

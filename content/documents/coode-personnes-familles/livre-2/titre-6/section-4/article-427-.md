@@ -1,0 +1,2 @@
+Chaque fois qu’il est possible, le mineur doit être maintenu dans son milieu actuel. Dans ce cas, une personne qualifiée ou un service d’assistance sociale ou d’éducation reçoit mission d’apporter aide et conseil à la famille, afin de suivre le développement de l’enfant et d’en faire périodiquement rapport au président du tribunal.
+Le président peut aussi, subordonner le maintien de l’enfant dans son milieu à des obligations particulières telles que celles de fréquenter régulièrement un établissement sanitaire ou d’éducation, ou d’exercer une activité professionnelle.

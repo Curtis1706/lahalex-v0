@@ -1,0 +1,5 @@
+1) Les taux de cotisations sont fixés en pourcentage des rémunérations soumises à cotisation, de manière que les recettes totales de chaque branche permettent de couvrir l’ensemble des dépenses de prestations de cette branche, la partie des frais à la constitution d’une réserve de sécurité, du fonds de roulement et d’une réserve technique.
+1) Les taux de cotisations sont fixés par décret pris en conseil des Ministres après avis du conseil d’administration.
+La révision intervient par décret pris en conseil des Ministres obligatoirement dans les cas visés aux articles 36 et 37 de la présente loi.
+1) Si les recettes provenant des cotisations et du placement des fonds d’une branche sont inférieures aux dépenses courantes de prestations et d’administration de cette branche, le taux de cotisation est relevé, selon la procédure décrite à l’alinéa 2 du présent article, de manière à garantir de façon permanente l’équilibre financier du régime.
+Toutefois, si le taux de cotisation se révèle déjà trop élevé, il peut être procédé à un rééquilibrage des prestations au niveau de la branche concernée.

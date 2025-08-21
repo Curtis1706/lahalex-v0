@@ -1,0 +1,1 @@
+Tout membre du conseil départemental de concertation et de coordination qui perd la qualité en vertu de laquelle il siège au sein du conseil cesse de plein droit d'en être membre. Le cas échéant, il est pourvu au remplacement du préfet dans un délai de quinze (15) jours et des autres membres dès la plus prochaine session du conseil.

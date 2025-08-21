@@ -1,0 +1,1 @@
+Le défaut de payement est présumé volontaire, sauf preuve contraire. L’insolvabilité qui résulte de l’inconduite habituelle, de la paresse ou de l’ivrognerie n’est en aucun cas un motif d’excuse valable pour le débiteur.

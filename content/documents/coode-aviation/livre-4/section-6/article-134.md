@@ -1,0 +1,1 @@
+Pendant les investigations sur les lieux de l'accident ou de l'incident, les membres de l'équipage ainsi que les représentants de l'exploitant de l'aéronef n'ont accès à l’épave que s'ils y sont invités et accompagnés par les enquêteurs techniques. Il leur est interdit de prélever toutes pièces, débris ou documents provenant de l'aéronef accidenté.

@@ -1,0 +1,1 @@
+En cas de rébellion en bande ou attroupement, les articles 96 et 97 du présent code sont applicables aux rebelles sans fonctions ni emplois dans la bande, qui se seront retirés au premier avertissement de l’autorité publique ou même depuis, s’ils n’ont été appréhendés que hors du lieu de la rébellion, et sans nouvelle résistance et sans armes.

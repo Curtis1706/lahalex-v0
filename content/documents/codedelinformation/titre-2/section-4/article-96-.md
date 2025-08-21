@@ -1,0 +1,1 @@
+Un organisme public peut refuser de laisser consulter ou de communiquer un document administratif dont la consultation ou la communication est de nature à porter atteinte au secret de la vie privée, des dossiers personnels et médicaux de ses membres.

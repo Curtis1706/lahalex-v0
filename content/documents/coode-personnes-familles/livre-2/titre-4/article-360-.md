@@ -1,0 +1,3 @@
+Si l’adoptant vient à décéder après la présentation de la requête aux fins d’adoption, l’instruction est continuée et l’adoption prononcée s’il y a lieu.
+Dans ce cas, elle produit ses effets au moment du décès de l’adoptant.
+En cas de décès de l’un des époux ayant formulé une requête conjointe aux fins d’adoption, l’instruction est continuée et l’adoption prononcée s’il y a lieu. Dans ce cas, l’adoption produit ses effets à l’égard de l'époux prédécédé au moment de son décès et au jour du prononcé de l’adoption à l’égard de l’époux survivant. Les héritiers de l’adoptant peuvent, s’ils croient l’adoption inadmissible, remettre au ministère public tous mémoires et observations à ce sujet.

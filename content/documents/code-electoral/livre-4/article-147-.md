@@ -1,0 +1,2 @@
+Les élections couplées, législatives et communales, sont organisées le deuxième dimanche du mois de janvier de l'année électorale.
+Les députés élus à l'Assemblée nationale entrent en fonction et sont installés le deuxième dimanche du mois de février de l'année électorale.

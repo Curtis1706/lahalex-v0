@@ -1,0 +1,2 @@
+Exercice d’une activité de communications électroniques sans autorisation
+Est puni d’un emprisonnement de six (06) mois à douze (12) mois et d’une amende de cinq millions (5 000 000) à dix millions (10 000 000) de francs CFA ou de l’une de ces deux peines seulement, quiconque établit ou fait établir un réseau ou fournit ou fait fournir un service sans l’autorisation prévue à l’article 52 du présent code ou le maintien en violation d’une décision de suspension ou de retrait de cette autorisation.

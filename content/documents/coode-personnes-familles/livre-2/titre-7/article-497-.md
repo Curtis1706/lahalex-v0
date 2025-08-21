@@ -1,0 +1,2 @@
+Celui qui n’était ni parent, ni allié des père et mère du mineur, ne peut être forcé d’accepter la tutelle que dans le cas où il n’existe pas, dans le département du domicile de l’enfant, des parents ou alliés en état d’assurer la charge.
+Si la tutelle reste vacante, le juge des tutelles la défère à l’Etat.

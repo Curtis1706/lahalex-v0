@@ -1,0 +1,15 @@
+{
+  "id": "article-89-",
+  "title": "Article 89 : Travaux de voirie",
+  "numero": "89 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-88-",
+    "next": "article-90-"
+  }
+}

@@ -1,0 +1,1 @@
+Le résultat d'investissement est, pour un exercice budgétaire, le surplus ou le besoin de recettes d'investissement par rapport aux dépenses d'investissement réalisées au cours de l'exercice.

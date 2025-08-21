@@ -1,0 +1,13 @@
+{
+  "id": "article-1-",
+  "title": "Article 1 :",
+  "numero": "1 ",
+  "document": "code-admin-territorial",
+  "path": [
+    "titre-0"
+  ],
+  "navigation": {
+    "parent": "titre-0",
+    "next": "article-2-"
+  }
+}

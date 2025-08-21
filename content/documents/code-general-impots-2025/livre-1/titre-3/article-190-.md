@@ -1,0 +1,3 @@
+1) Le produit de la taxe professionnelle synthétique est affecté à raison de 50% au budget de l’État et 50% au budget de la collectivité locale où est exercée l’activité.
+Toutefois, le produit de la taxe professionnelle synthétique foraine est affecté en intégralité  au  budget  de  la  collectivité  locale  dans  laquelle  les  opérations  de recouvrement ont eu lieu.
+2) Une déduction de 10% représentant le coût administratif de l’impôt est opérée sur la part revenant à la collectivité locale. Un arrêté du ministre chargé des finances précise les modalités d’application des présentes dispositions.

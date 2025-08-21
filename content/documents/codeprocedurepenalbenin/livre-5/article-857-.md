@@ -1,0 +1,1 @@
+Il est tenu au greffe de la cour d’appel de Cotonou, un casier judiciaire central qui reçoit les fiches concernant les personnes nées à l’étranger et celles dont l’acte de naissance n’est pas retrouvé ou dont l’identité est douteuse.

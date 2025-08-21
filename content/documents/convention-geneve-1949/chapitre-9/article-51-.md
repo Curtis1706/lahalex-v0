@@ -1,0 +1,2 @@
+aucune Partie contractante ne pourra s’exonérer elle-même, ni exonérer une 3. Respon- autre Partie contractante, des responsabilités encourues par elle-même ou sabilités
+par une autre Partie contractante en raison des infractions prévues à l’article des Parties <a name="_page58_x0.00_y651.97"></a>précédent. contractantes

@@ -1,0 +1,1 @@
+Si certains incapables ayant un même représentant ont des intérêts opposés dans le partage, il sera nommé à chacun d’eux un représentant particulier.

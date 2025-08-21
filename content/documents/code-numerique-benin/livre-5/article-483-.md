@@ -1,0 +1,31 @@
+Formalités - Attributions – Pouvoirs - Devoirs
+L'Autorité s’assure que les technologies de l’information et de la communication (TIC) ne comportent pas de menace au regard des libertés publiques et de la vie privée. Elle veille à ce que les traitements des données à caractère personnel soient mis en œuvre conformément aux dispositions du présent Livre.
+À ce titre, l'Autorité est en charge :
+1. de répondre à toute demande d’avis ou recommandation portant sur un traitement de données à caractère personnel ;
+1. d’émettre de sa propre initiative des avis motivés ou des recommandations sur toute question relative à l'application des principes fondamentaux de la protection de la vie privée dans le cadre du présent Livre, ainsi que des lois contenant des dispositions relatives à la protection de la vie privée à l'égard des traitements de données à caractère personnel ;
+1. d’informer les personnes concernées et les responsables de traitements de leurs droits et obligations ;
+1. d’autoriser ou refuser les traitements de fichiers dans un certain nombre de cas, notamment les fichiers sensibles ;
+1. de recevoir les formalités préalables à la création de traitements des données à caractère personnel et le cas échéant autoriser ces traitements ;
+1. de recevoir, par la voie postale ou par voie électronique, les réclamations, les pétitions et les plaintes relatives à la mise en œuvre des traitements des données à caractère personnel et informer leurs auteurs des suites données à celles-ci notamment si un complément d’enquête ou une coordination avec une autre autorité de protection nationale est nécessaire ;
+1. d’effectuer, sans préjudice de toute action devant les tribunaux, des enquêtes, soit de sa propre initiative, soit à la suite d'une réclamation ou à la demande d'une autre Autorité de protection nationale, et informe la personne concernée, si elle l'a saisie d'une réclamation, du résultat de ses enquêtes dans un délai raisonnable ;
+1. d’informer sans délai l’autorité judiciaire pour certains types d’infractions dont elle a connaissance ;
+1. d’informer, sans délai, le procureur de la République, conformément aux dispositions du code de procédure pénale, des violations des dispositions du présent Livre, constitutives d’infractions pénales ;
+1. d'informer l’Assemblée nationale, le Gouvernement ou d'autres institutions politiques, ainsi que le public, de toute question relative à la protection des données à caractère personnel ;
+1. de conduire de fréquentes consultations avec des parties prenantes sur des questions que l'Autorité considère comme pouvant nuire à la protection effective des données à caractère personnel pour les services, les installations, les appareils ou les annuaires au titre du présent
+Livre ;
+1. de requérir des experts ou agents assermentés, en vue de participer à la mise en œuvre des missions de vérification portant sur tout traitement des données à caractère personnel sur le territoire de la République du Bénin ;
+1. de veiller au respect des autorisations et consultations préalables ;
+1. de prononcer la rectification, l'effacement ou la destruction de toutes les données lorsqu'elles ont été traitées en violation des dispositions du présent Livre et la notification de ces mesures aux tiers auxquels les données ont été divulguées ;
+1. de demander au responsable du traitement ou au sous-traitant de satisfaire aux demandes d'exercice des droits prévus par les dispositions du présent Livre présentées par la personne concernée ;
+1. de prononcer des sanctions, administratives et pécuniaires, à l’égard des responsables de traitement ;
+1. de mettre à jour un répertoire des traitements des données à caractère personnel et à la disposition du public ;
+1. de surveiller les faits nouveaux présentant un intérêt, dans la mesure où ils ont une incidence sur la protection des données à caractère personnel, notamment l'évolution des technologies de l'information et des communications et celle des pratiques commerciales ;
+1. d’informer le responsable du traitement ou le sous-traitant d'une violation alléguée des dispositions régissant le traitement des données à caractère personnel et, le cas échéant, d’ordonner au responsable du traitement ou son sous-traitant de remédier à cette violation par des mesures déterminées, afin d'améliorer la protection de la personne concernée ;
+1. de conseiller les personnes physiques ou morales qui procèdent à des traitements des données à caractère personnel ou à des essais ou expériences de nature à aboutir à de tels traitements ;
+1. d’autoriser ou refuser des transferts transfrontaliers de données à caractère personnel vers des États tiers ;
+1. de sensibiliser le public aux risques, aux règles, aux garanties et aux droits relatifs au traitement des données à caractère personnel. Les activités destinées spécifiquement aux enfants, personnes âgées ou personnes gravement malades ou à tous ceux qui ne peuvent pas être en mesure de comprendre la portée des activités qui leur sont proposées, font l'objet d'une attention particulière ;
+1. de faire des propositions de modifications législatives ou réglementaires susceptibles de simplifier et d’améliorer le cadre législatif et réglementaire à l’égard du traitement des données ;
+1. d’homologuer les codes de conduite et de recueillir et d’autoriser, le cas échéant, les projets, modifications ou prorogations desdits codes ;
+1. de mettre en place des mécanismes de coopération avec les autorités de protection des données à caractère personnel d’États tiers dont le partage d’informations et l’assistance mutuelle;
+1. de participer aux négociations internationales en matière de protection des données à caractère personnel.
+L'accomplissement des formalités auprès de l'Autorité est gratuit pour la personne concernée. Lorsque les demandes sont manifestement excessives, en raison, notamment, de leur caractère répétitif, l'Autorité peut, néanmoins, exiger le paiement de frais ou ne pas prendre les mesures sollicitées par la personne concernée. Il incombe à l'Autorité d'établir le caractère manifestement excessif de la demande.

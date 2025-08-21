@@ -1,0 +1,2 @@
+Sauf pour les fonctions inscrites au fichier national des principales fonctions administratives des mairies, le secrétaire exécutif nomme aux emplois communaux de rang de chef de service au moins, après avis de non objection du conseil de supervision.
+Il met fin, en cas de nécessité, à leurs fonctions et en rend compte au conseil de supervision.

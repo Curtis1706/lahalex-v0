@@ -1,0 +1,1 @@
+Quiconque a frauduleusement accédé ou s’est maintenu dans tout ou partie d’un système de traitement automatisé de données sera puni d’un emprisonnement de deux (02) mois à un (01) an et d’une amende de cent mille (100.000) francs CFA à un million (1.000.000) de francs CFA.

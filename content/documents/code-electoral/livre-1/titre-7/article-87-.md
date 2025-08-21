@@ -1,0 +1,8 @@
+Le dépouillement suit immédiatement la clôture du scrutin. Il est conduit sans désemparer jusqu'à son achèvement complet.
+Le dépouillement du scrutin est public. Il a lieu dans le poste de vote. Il se déroule de la manière suivante:
+l'urne est ouverte et le nombre de plis est vérifié. Si ce nombre est supérieur à celui des émargements de la liste, mention en est immédiatement faite au procès-verbal ;
+les membres du poste de vote effectuent le dépouillement des votes et le décompte des voix, assistés de scrutateurs choisis par le président parmi les électeurs présents sachant lire et écrire le français ;
+le dépouillement s'effectue sur une table unique ou sur plusieurs tables assemblées sur lesquelles le président répartit les plis. A chaque table, l'un des scrutateurs déplie le bulletin et la passe déplié à un autre scrutateur. Celui-ci le lit à haute voix et le montre au recto et au verso au public. Le vote exprimé sur le bulletin est reporté au tableau par l'un des scrutateurs puis relevé par l'un des membres du poste de vote sur les feuilles de dépouillement ;
+les tables sur lesquelles s'opère le dépouillement sont disposées de manière à être visibles pour les électeurs.
+En cas de couplage des élections, la même procédure est suivie pour la deuxième urne.
+Dans ce cas, les feuilles de dépouillement et les procès-verbaux sont de couleurs différentes et portent en en-tête en caractère gras, la dénomination de l'élection concernée.

@@ -1,0 +1,1 @@
+Article 50 :	Aucune décision législative ou réglementaire prenant effet à une date postérieure à celle de l’agrément, ne peut avoir pour effet de supprimer ou de restreindre à l’égard de l’entreprise les dispositions du régime dont elle bénéficie pour la durée de l’agrément sauf dans le cas des sanctions prévues aux articles 41 à 44 ci‐ dessus.

@@ -1,0 +1,3 @@
+Lorsque les risques de guerre civile ou étrangère sont couverts, l’assureur répond de tous dommages et pertes qui arrivent aux objets assurés :
+- par hostilités, représailles, capture, prises, arrêts, contraintes et molestations par tous Gouvernements et autorités quelconques, reconnus ou non reconnus, mines et tous engins de guerre, même s’il n’y a pas eu de déclaration de guerre ou lorsque la guerre est terminée ;
+- par actes de sabotage ou de terrorisme, émeutes, mouvements populaires, grèves ou lock-out ayant un caractère politique ou se rattachant à la guerre.

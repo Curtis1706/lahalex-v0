@@ -1,0 +1,1 @@
+Article 401 : Les complices de la traite d’enfants sont punis des mêmes peines que celles prévues pour les auteurs.

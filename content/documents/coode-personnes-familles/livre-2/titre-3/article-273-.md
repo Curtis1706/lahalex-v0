@@ -1,0 +1,1 @@
+La séparation de corps est régie quant aux conditions de fond et de forme par les règles applicables au divorce.

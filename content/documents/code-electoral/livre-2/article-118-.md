@@ -1,0 +1,1 @@
+Sur décision du Tribunal de première instance territorialement compétent, l'Agence Nationale d'identification des Personnes (ANIP) est tenue de fournir à tout requérant les renseignements qu'il possède permettant de déterminer la résidence habituelle d'une personne inscrite sur le registre national ou le registre communal selon le cas.

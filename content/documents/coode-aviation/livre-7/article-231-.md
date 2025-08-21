@@ -1,0 +1,1 @@
+Le jet de marchandises indispensable au salut de l'aéronef n'engage pas la responsabilité du transporteur envers l'expéditeur et le destinataire, en raison de cette perte de marchandises, sauf s'il est établi que la faute du transporteur est à l'origine de la situation dans laquelle se trouve l'aéronef.

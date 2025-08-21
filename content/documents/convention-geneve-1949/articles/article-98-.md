@@ -1,0 +1,9 @@
+Tous les internés recevront régulièrement des allocations pour pouvoir Ressources acheter des denrées et objets tels que tabac, articles de toilette, etc. Ces allo- financières cations pourront revêtir la forme de crédits ou de bons d’achat. et comptes En outre, les internés pourront recevoir des subsides de la Puissance dont ils individuels
+sont ressortissants, des Puissances protectrices, de tout organisme qui pour-
+rait leur venir en aide, ou de leurs familles, ainsi que les revenus de leurs biens conformément à la législation de la Puissance détentrice. Les montants des
+subsides alloués par la Puissance d’origine seront les mêmes pour chaque ca-
+tégorie d’internés (infirmes, malades, femmes enceintes, etc.) et ne pourront
+être fixés par cette Puissance ni distribués par la Puissance détentrice sur la
+base de discriminations interdites par l’article 27 de la présente Convention.
+Pour chaque interné, la Puissance détentrice tiendra un compte régulier au crédit duquel seront portés les allocations mentionnées au présent article, les salaires gagnés par l’interné, ainsi que les envois d’argent qui lui seront faits. Seront également portées à son crédit les sommes qui lui sont retirées et qui pourraient être disponibles en vertu de la législation en vigueur dans le territoire où l’interné se trouve. Toute facilité compatible avec la législa- tion en vigueur dans le territoire intéressé lui sera accordée pour envoyer des subsides à sa famille et aux personnes dépendant économiquement de lui. Il pourra prélever sur ce compte les sommes nécessaires à ses dépenses per- sonnelles, dans les limites fixées par la Puissance détentrice. Il lui sera accor- dé en tout temps des facilités raisonnables en vue de consulter son compte
+ou de s’en procurer des extraits. Ce compte sera communiqué, sur demande, à la Puissance protectrice et suivra l’interné en cas de transfert de celui-ci.

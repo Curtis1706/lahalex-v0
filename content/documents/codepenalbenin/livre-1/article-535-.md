@@ -1,0 +1,2 @@
+Le meurtre, les blessures et les coups sont également excusables s’ils ont été commis en repoussant pendant le jour, l’escalade ou l’effraction des clôtures, murs ou entrée d’une maison ou d’un appartement habité ou de leurs dépendances.
+Si le fait est arrivé pendant la nuit, il est fait application de l’article 543 du présent code.

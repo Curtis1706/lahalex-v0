@@ -1,0 +1,4 @@
+Réalisation des travaux par les opérateurs
+` `Pour la réalisation des travaux nécessaires à l’exploitation et à l’extension de leurs réseaux, les opérateurs respectent l’ensemble des dispositions législatives et réglementaires en vigueur, notamment les prescriptions en matière d'aménagement du territoire et de protection de l'environnement.
+La réalisation de tels travaux est subordonnée à l’autorisation administrative préalable des autorités locales des zones concernées. Dans ce cas, les autorisations nécessaires interviennent, en tout état de cause, dans un délai de quarante-cinq (45) jours calendaires à compter de la date de réception de la demande. À défaut de réponse dans ce délai, les autorisations sont réputées être accordées.
+Tout rejet d’une demande d’autorisation est dûment motivé.

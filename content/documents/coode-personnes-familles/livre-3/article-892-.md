@@ -1,0 +1,2 @@
+Le testament fait dans la forme ci-dessus établie est nul six (6) mois après que le testateur sera venu dans un lieu où il aura la liberté d’employer les formes ordinaires à moins que, avant l’expiration de ce délai, il n’ait été de nouveau placé dans l’une des situations suivantes : hors du territoire national, guerre, expédition, opérations de maintien de l’ordre et de pacification en territoire étranger.
+Le testament est alors valable pendant la durée de cette situation spéciale et pendant un nouveau délai de six (6) mois après son expiration.

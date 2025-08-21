@@ -1,0 +1,1 @@
+Le préfet effectue au moins une fois par an une visite de la commune. La visite fait l’objet d’un rapport adressé au ministre chargé de l’administration territoriale, avec copie au maire qui le communique au conseil pour information et/ou délibération si cela est nécessaire.

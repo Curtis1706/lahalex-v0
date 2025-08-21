@@ -1,0 +1,2 @@
+Article 330-35 : Emprunt - Titre représentatif
+Le titre remis à tout sociétaire ayant souscrit à un emprunt pour constitution ou alimentation du fonds social complémentaire doit être établi dans la forme prévue par le Secrétariat Général de la Conférence.

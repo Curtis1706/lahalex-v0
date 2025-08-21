@@ -1,0 +1,3 @@
+Un organisme public peut refuser de communiquer un secret industriel qui lui appartient.
+Il peut également refuser de communiquer un autre renseignement industriel ou un renseignement financier, commercial, scientifique ou technique lui appartenant et dont la divulgation risque d’entraver une négociation en vue de la conclusion d’un contrat, de causer une perte à l’organisme ou de procurer un avantage appréciable à une autre personne.
+Un organisme public constitué à des fins industrielles, commerciales ou de gestion financière, peut refuser de communiquer un tel renseignement lorsque sa divulgation risque de nuire de façon substantielle à sa compétitivité.

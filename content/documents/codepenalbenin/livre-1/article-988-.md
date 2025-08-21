@@ -1,0 +1,1 @@
+Les amendes pour contravention sont de deux mille (2.000) francs CFA à deux cent mille (200.000) francs CFA.

@@ -1,0 +1,1 @@
+Il est interdit de se laver, de laver les ustensiles, le linge, les engins, les véhicules et autres sur les voies et places publiques.

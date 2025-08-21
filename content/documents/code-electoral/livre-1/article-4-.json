@@ -1,0 +1,14 @@
+{
+  "id": "article-4-",
+  "title": "Article 4 : Le suffrage est universel, direct, égal et secret. Les partis politiques concourent à l'expression du suffrage.",
+  "numero": "4 ",
+  "document": "code-electoral",
+  "path": [
+    "livre-1"
+  ],
+  "navigation": {
+    "parent": "livre-1",
+    "previous": "article-3-",
+    "next": "article-5-"
+  }
+}

@@ -1,0 +1,1 @@
+2 est interdit d’embarquer ou de faire embarquer sur un navire quelconque, d’expédier ou de faire expédier par voie de terre, des matières pouvant être une cause d’explosion ou d’incendie, sans en avoir déclaré la nature au capitaine, maître ou patron au commissionnaire expéditeur ou au chauffeur, et sans avoir apposé des marques apparentes sur les emballages.

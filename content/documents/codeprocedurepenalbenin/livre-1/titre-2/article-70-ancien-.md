@@ -1,0 +1,3 @@
+En cas de crime flagrant et si le juge d’Instruction n’est pas encore saisi, le procureur de la République peut décerner mandat d’amener contre toute personne à l’égard de qui, il existe des présomptions graves et concordantes d’avoir participé à l’infraction.
+Le procureur de la République interroge sur-le-champ la personne ainsi conduite devant lui. Si elle se présente spontanément accompagnée d’un avocat ou lorsqu’elle fait savoir qu’elle ne veut parler ou déposer qu’en présence de son avocat, elle ne peut être entendue qu’en présence de ce dernier.
+Lorsque le procureur de la République et le juge d’instruction sont simultanément sur les lieux, le procureur de la République peut immédiatement requérir l’ouverture d’une information régulière.

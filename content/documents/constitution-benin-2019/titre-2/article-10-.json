@@ -1,0 +1,14 @@
+{
+  "id": "article-10-",
+  "title": "Article 10 :",
+  "numero": "10 ",
+  "document": "constitution-benin-2019",
+  "path": [
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-9-",
+    "next": "article-11-"
+  }
+}

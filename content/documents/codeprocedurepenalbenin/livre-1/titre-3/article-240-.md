@@ -1,0 +1,3 @@
+A cette fin, il est établi chaque mois dans chaque cabinet d’instruction, un état de toutes les affaires en cours portant mention, pour chacune des affaires, de la date du dernier acte d’information exécuté, des obstacles de fait ou de droit retardant le règlement du dossier ou empêchant la mise en liberté des inculpés détenus.
+Les affaires dans lesquelles sont impliqués des inculpés en détention provisoire figurent sur un état spécial.
+Les états prévus par le présent article sont adressés au président de la chambre de l’instruction et au procureur général dans les cinq (05) premiers jours du mois suivant.

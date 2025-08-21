@@ -1,0 +1,1 @@
+L’inobservation des mesures prévues dans le cadre de la garde à vue entraîne l’annulation du procès-verbal, sans préjudice des sanctions prévues aux articles 24 et 246 du présent code.

@@ -1,0 +1,2 @@
+L’accusé qui a été mis en liberté ou qui n’a jamais été détenu au cours de l’information est convoqué par la voie administrative à l’interrogatoire prévu à l’article précédent.
+Si aux jour et heure fixés, il ne se présente pas, l’ordonnance de prise de corps est exécutée ainsi qu’il est dit à l’article 165 du présent code.

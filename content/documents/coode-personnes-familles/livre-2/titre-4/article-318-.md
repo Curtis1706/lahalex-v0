@@ -1,0 +1,1 @@
+Est enfant naturel celui dont la filiation est régulièrement établie à l’égard de son père ou de sa mère, sans que sa conception puisse se placer pendant une période où ses parents étaient mariés entre eux.

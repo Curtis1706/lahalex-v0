@@ -1,0 +1,1 @@
+Tout créancier d’une pension alimentaire peut se faire payer directement le montant de cette pension par le tiers débiteur de sommes liquides et exigibles envers le débiteur de la pension. Il peut notamment exercer ce droit entre les mains de tout débiteur de salaires, produits du travail ou autres revenus, ainsi que de tout dépositaire de fonds.

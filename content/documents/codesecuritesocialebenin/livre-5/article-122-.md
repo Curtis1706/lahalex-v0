@@ -1,0 +1,1 @@
+En cas de reprise d’une activité salariée par le pensionné de la Caisse, les obligations de l’employeur sont celles prévues aux articles 22 et 23 de la présente loi.

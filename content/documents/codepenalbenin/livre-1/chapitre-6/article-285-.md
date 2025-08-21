@@ -1,0 +1,3 @@
+Quiconque a contrefait, falsifié ou altéré des signes monétaires ayant cours légal sur le territoire national ou à l’étranger, est puni de la réclusion criminelle à perpétuité et d’une amende décuple de la valeur desdits signes et au moins égale à vingt millions (20.000.000) de francs CFA.
+Si le coupable bénéficie de circonstances atténuantes, la peine ne peut être inférieure à deux (02) ans d’emprisonnement et à un million (1.000.000) de francs CFA d’amende.
+Le sursis ne peut être accordé.

@@ -1,0 +1,1 @@
+Lorsqu’il n’est pas possible d’établir l’origine du sinistre, il est réputé dériver d’un événement de mer.

@@ -1,0 +1,1 @@
+Les effluents répondent aux normes de rejet définies par la réglementation en vigueur.

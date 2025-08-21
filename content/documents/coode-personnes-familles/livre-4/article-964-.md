@@ -1,0 +1,2 @@
+En matière de statut personnel, les juridictions béninoises peuvent connaître de toutes actions dans lesquelles le demandeur ou le défendeur a la nationalité béninoise au jour de l’introduction de l’instance.
+Sous la réserve exprimée à l'article 971 du présent code, cette compétence ne peut faire obstacle à la reconnaissance et à l’exécution au Bénin des jugements étrangers qui satisfont aux conditions de reconnaissance et d’exécution.

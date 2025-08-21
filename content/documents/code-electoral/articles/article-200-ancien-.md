@@ -1,0 +1,1 @@
+L'élection des chefs-d ‘arrondissement se fait dans les mêmes conditions que l'élection du maire et de ses adjoints.

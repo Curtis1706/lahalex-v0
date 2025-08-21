@@ -1,0 +1,2 @@
+La désignation ou l'élection du maire et des adjoints au maire se fait conformément aux dispositions du code électoral.
+L'agent de l’Etat élu maire est placé dans la position de détachement pour la durée de son mandat dans les trente (30) jours qui suivent son entrée en fonction. Le ministre chargé de l’administration territoriale donne, à cette fin et dans ce délai, avis de son élection à l’autorité en charge de la gestion de sa carrière.

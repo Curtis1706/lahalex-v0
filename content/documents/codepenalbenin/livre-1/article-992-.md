@@ -1,0 +1,2 @@
+La suppression, la dissimulation et la lacération totale ou partielle des affiches apposées conformément à l’article 494 du présent code, opérées volontairement, sont punies d’une peine d’amende de vingt-cinq mille (25.000) francs CFA à deux cent cinquante mille (250.000) francs CFA.
+Il est procédé de nouveau à l’exécution intégrale de l’affichage aux frais du condamné.

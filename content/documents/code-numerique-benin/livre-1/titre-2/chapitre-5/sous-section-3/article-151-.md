@@ -1,0 +1,5 @@
+Obligation de séparation comptable
+L’Autorité de régulation peut, conformément aux dispositions de l’article 143 du présent code, imposer des obligations de séparation comptable en ce qui concerne certaines activités de communications électroniques.
+Elle peut, notamment, obliger un opérateur intégré verticalement à rendre ses prix de gros et ses prix de transferts internes transparents, entre autres pour garantir le respect de l’obligation de non-discrimination prévue à l'article 150 du présent code ou, en cas de nécessité, pour empêcher des subventions croisées abusives.
+L’Autorité de régulation peut spécifier le format et les méthodologies comptables à utiliser.
+Dans ce cas, la comptabilité de l’opérateur est auditée annuellement à ses frais par un organisme indépendant sélectionné par l’Autorité de régulation.

@@ -1,0 +1,1 @@
+Les entreprises prestataires de services d'assistance en escale sont astreintes à la souscription d'une police d'assurance couvrant leurs activités.

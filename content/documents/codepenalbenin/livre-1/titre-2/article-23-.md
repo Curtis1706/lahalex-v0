@@ -1,0 +1,1 @@
+Les complices d’un crime ou d’un délit sont punis de la même peine que les auteurs mêmes de ce crime ou de ce délit, sauf si la loi en dispose autrement.

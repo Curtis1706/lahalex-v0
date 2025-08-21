@@ -1,0 +1,3 @@
+Article 344 : Le fait de soumettre un enfant à des actes de tortures ou traitements inhumains, cruels ou dégradants, sans que mort s’ensuive, est puni de cinq (05) à vingt (20) ans de réclusion et d’une amende de cinq cent mille (500 000) à un million (1 000 000) de francs CFA.
+Lorsque les traitements cruels, inhumains ou dégradants sont le fait du père, de la mère ou du tuteur, la peine est la réclusion à perpétuité.
+SECTION II : DES PEINES CONTRE LE VIOL

@@ -1,0 +1,1 @@
+En attendant qu’un décret, sur proposition, du Ministre chargé des Finances, détermine les modalités d’application de l’article 42 du présent Code, le paiement des pensions demeure trimes­triel.

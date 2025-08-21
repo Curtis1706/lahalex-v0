@@ -1,0 +1,3 @@
+Dès que la décision est prise de procéder à une dépense ou de formaliser par bon de commande un marché ou tout autre acte de la commune ou de l’établissement public de coopération intercommunale, le montant prévisionnel de la dépense est inscrit dans les engagements.
+Le nouveau crédit disponible s'obtient en faisant la différence entre le crédit disponible précédent et le montant de l'engagement.
+En cas d'annulation d'un engagement, son montant est déduit des engagements précédents, pour rétablir à due concurrence les crédits disponibles.

@@ -1,0 +1,1 @@
+La tentative de toutes les infractions prévues par les articles 569 à 578, 581, 584, 587, 588 à 592 et 594 est punie de la même peine que l’infraction consommée.

@@ -1,0 +1,3 @@
+(Modifié par la loi de finances pour 2025) 1) Les taux prévus aux points 1 des articles 46, 63 et 183 sont réduits respectivement à 20 % du bénéfice imposable et 3 % des recettes pour les personnes ayant exclusivement une activité de négoces d’œuvres d’art.
+Les taux prévus aux paragraphes 1 des articles 47 et 64 sont réduits à 0,5 % des produits encaissables pour les personnes ayant exclusivement une activité de négoces d’œuvres d’art.
+2) Nonobstant  les  dispositions  de  l’article  1  du  présent  code,  les  projets d’investissement dans les secteurs jugés prioritaires peuvent bénéficier d’un régime fiscal dérogatoire dont les modalités sont définies en Conseil des Ministres.

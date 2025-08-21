@@ -1,0 +1,1 @@
+Les communes à statut particulier disposent de trois (03) adjoints au maire.

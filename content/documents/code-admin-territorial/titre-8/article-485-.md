@@ -1,0 +1,3 @@
+Sont prescrites au profit de la commune ou de l'établissement public de coopération intercommunale, toutes créances de tiers qui n’ont pas été payées dans un délai de quatre (04) ans à compter de la naissance de la créance ou de la dernière réclamation écrite.
+Les autres causes d'interruption, celles de suspension ou d'exemption de la prescription sont déterminées par les lois et règlements.
+OPERATIONS DE TRESORERIE

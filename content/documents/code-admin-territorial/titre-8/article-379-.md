@@ -1,0 +1,2 @@
+Les opérations financières et comptables résultant de l'exécution du budget de la commune, de ses budgets annexes ou du budget de l'établissement public de coopération intercommunale incombent aux ordonnateurs et aux comptables publics.
+Ces opérations concernent les recettes, les dépenses, la trésorerie et le patrimoine. Elles sont retracées dans des comptabilités établies selon des normes règlementaires et soumises au contrôle des autorités compétentes.

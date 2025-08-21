@@ -1,0 +1,2 @@
+Article 335-8 : Prêts privilégiés
+Les prêts hypothécaires mentionnés au 5) a) de l’article 335-1 doivent être garantis par une hypothèque de premier rang prise sur un immeuble situé sur le territoire de l’un des États membres de la CIMA, sur un navire ou sur un aéronef. L’ensemble des privilèges et hypothèques de premier rang ne doit pas excéder 65 % de la valeur vénale de l’immeuble, du navire ou de l’aéronef constituant la garantie du prêt, estimée au jour de la conclusion du contrat.

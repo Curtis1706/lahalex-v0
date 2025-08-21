@@ -1,0 +1,1 @@
+La navigation de plaisance comprend la navigation côtière, au cabotage et au long cours.

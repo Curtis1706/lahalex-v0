@@ -1,0 +1,14 @@
+{
+  "id": "article-2-",
+  "title": "ARTICLE 2 : CREATION ET COMPOSITION",
+  "numero": "2 ",
+  "document": "traite-revise-cedeao-1993",
+  "path": [
+    "chapitre-2"
+  ],
+  "navigation": {
+    "parent": "chapitre-2",
+    "previous": "article-1-",
+    "next": "article-3-"
+  }
+}

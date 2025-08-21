@@ -1,0 +1,2 @@
+Exceptions
+La Commission Cryptologie peut prévoir des exceptions à cette obligation d’agrément préalable pour les prestations cryptologie dont les caractéristiques techniques ou les conditions de fourniture sont telles que, au regard des intérêts de la défense nationale et de la sécurité intérieure ou extérieure de l'Etat, cette fourniture peut être dispensée de toute formalité préalable.

@@ -1,0 +1,16 @@
+{
+  "id": "article-212-",
+  "title": "Article 212 :",
+  "numero": "212 ",
+  "document": "code-general-impots-2025",
+  "path": [
+    "livre-1",
+    "titre-3",
+    "chapitre-115"
+  ],
+  "navigation": {
+    "parent": "chapitre-115",
+    "previous": "article-211-",
+    "next": "article-213-"
+  }
+}

@@ -1,0 +1,1 @@
+La délimitation géographique d'un arrondissement est déduite des limites géographiques de l’ensemble des villages ou quartiers de ville qui le composent conformément à la loi fixant tes unités administratives locales en République du Bénin.

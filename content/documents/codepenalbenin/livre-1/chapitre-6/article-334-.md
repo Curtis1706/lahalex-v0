@@ -1,0 +1,3 @@
+Les peines prévues à l’article 331 sont également applicables aux détenteurs de l’autorité publique qui, sous une forme quelconque et pour quelque motif que ce soit ont, sans autorisation de la loi, accordé des exonérations ou franchises de droits, impôts ou taxes publiques ou ont effectué gratuitement la délivrance de produits des établissements de l’Etat.
+Les bénéficiaires sont punis comme complices.
+Dans tous les cas prévus aux articles 327, 328, 331 et 333 du présent code, la tentative est punie comme le délit lui-même.

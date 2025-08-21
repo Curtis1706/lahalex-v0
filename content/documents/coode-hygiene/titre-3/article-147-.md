@@ -1,0 +1,1 @@
+Il est interdit d'utiliser les déchets industriels, hospitaliers ou commerciaux dangereux à des fins quelconques, sans traitement.

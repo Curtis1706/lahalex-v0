@@ -1,0 +1,1 @@
+Les infractions aux lois sur l’information et la communication sont déférées devant les tribunaux correctionnels.

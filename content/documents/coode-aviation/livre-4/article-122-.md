@@ -1,0 +1,1 @@
+Les enquêteurs techniques ou les enquêteurs de première information, sur instruction du Bureau enquêtes-accidents, peuvent procéder à des prélèvements, aux fins d'examen ou d'analyse de débris, pièces ou de tout élément qu'ils estiment susceptibles de contribuer à la détermination des causes de l'accident ou de l'incident.

@@ -1,0 +1,18 @@
+{
+  "id": "article-37-",
+  "title": "Article 37 :",
+  "numero": "37 ",
+  "document": "code-general-impots-2025",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-1",
+    "section-2",
+    "paragraphe-9"
+  ],
+  "navigation": {
+    "parent": "paragraphe-9",
+    "previous": "article-36-",
+    "next": "article-38-"
+  }
+}

@@ -1,0 +1,2 @@
+_(Règlement n°2014-02)_ Frais funéraires
+Les frais funéraires sont remboursés sur présentation des pièces justificatives et dans la limite de deux fois le SMIG annuel du pays de l’accident, ou, s’il y est plus élevé, du pays de l’espace CIMA où les funérailles ont lieu.

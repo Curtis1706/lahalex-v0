@@ -1,0 +1,1 @@
+Le principe de la confusion des peines ne pourra être appliqué aux infractions simultanées ou concomitantes en matière de faune et d’armes de chasse.

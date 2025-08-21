@@ -1,0 +1,1 @@
+En année électorale, le Conseil électoral se réunit aussi souvent que nécessaire. Dans tous les cas, il se réunit au moins une fois tous les quinze (15) jours.

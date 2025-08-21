@@ -1,0 +1,3 @@
+Dans les communes à statut particulier ou intermédiaire, la personne responsable des marchés publics est nommée par le secrétaire exécutif, après tirage au sort dans le fichier des principales fonctions administratives des mairies. Elle peut, en cas de nécessité, être employée à d'autres tâches cumulativement avec ses fonctions.
+Dans les communes autres que celles à statut particulier ou intermédiaire, le secrétaire exécutif nomme en qualité de personne responsable des marchés publics, un cadre ayant un profil approprié cumulativement avec ses fonctions habituelles, ou à défaut, le responsable des affaires financières.
+Le secrétaire exécutif de la commune est l'autorité approbatrice des marchés publics.

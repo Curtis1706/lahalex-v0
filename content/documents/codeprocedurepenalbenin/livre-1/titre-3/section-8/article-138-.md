@@ -1,0 +1,2 @@
+Si le mis en cause est en fuite ou s’il réside hors du territoire de la République, le juge d’instruction, après avis du procureur de la République, peut décerner contre lui un mandat d’arrêt si le fait emporte une peine d’emprisonnement correctionnelle ou une peine plus grave.
+Cependant, le maintien en détention ou la mise en liberté du mis en cause après exécution du mandat d’arrêt, sera décidé par le juge des libertés et de la détention dans un délai qui, en aucun cas, ne peut excéder quarante-huit (48) heures sur saisine du juge d’instruction.

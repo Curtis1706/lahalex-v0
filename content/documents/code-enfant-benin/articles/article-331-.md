@@ -1,0 +1,1 @@
+Article 331 : Quiconque, par le fait de la tradition, de la coutume ou de toute autre pratique, est responsable de la grossesse précoce d’un enfant de sexe féminin, est puni de six (06) mois à deux (02) ans d’emprisonnement et d’une amende de cent mille (100 000) à deux cent mille (200 000) francs CFA.

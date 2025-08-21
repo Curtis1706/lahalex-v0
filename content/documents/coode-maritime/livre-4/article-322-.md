@@ -1,0 +1,1 @@
+Le fréteur s’oblige à présenter à la date et au lieu convenus le navire désigné en bon état de navigabilité, armé et équipé convenablement pour accomplir les opérations prévues à la charte-partie et à le maintenir dans cet état armé et équipé pendant la durée du contrat.

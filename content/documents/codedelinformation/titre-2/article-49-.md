@@ -1,0 +1,2 @@
+La diffusion, la publication, la reproduction d’image ou de fait concernant les vedettes de spectacles, les personnes assumant une fonction ou un rôle politique ou qui sont candidates à des élections ne sauraient excéder le minimum d’ingérence extérieure nécessaire à des fins d’information, scientifiques, didactiques ou culturelles. Leur consentement n’est pas obligatoire.
+Ne peuvent se prévaloir du droit à la protection de leur vie privée, les personnes qui, par leurs propres agissements, ont encouragé les indiscrétions dont elles viendront à se plaindre.

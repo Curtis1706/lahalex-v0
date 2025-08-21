@@ -1,0 +1,3 @@
+La mission des experts qui ne peut avoir pour objet que l’examen des questions d’ordre technique est précisée dans la décision qui ordonne l’expertise.
+Les experts sont choisis sur une liste dressée chaque année par l’assemblée générale de la cour d’appel, le procureur général entendu, et révisée selon les besoins.
+Dans tous les cas, les juridictions peuvent par décision motivée choisir un expert ne figurant pas sur la liste.

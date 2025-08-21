@@ -1,0 +1,1 @@
+Il est autorisé la reproduction des images de personnes qui ont acquis une notoriété publique par le fait de leur vie professionnelle, administrative ou politique.

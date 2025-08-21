@@ -1,0 +1,16 @@
+{
+  "id": "article-14-",
+  "title": "Article 14 : Les avantages dont bénéficient les membres de la CENA sont fixés par décret pris en Conseil des ministres.",
+  "numero": "14 ",
+  "document": "code-electoral",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "chapitre-1"
+  ],
+  "navigation": {
+    "parent": "chapitre-1",
+    "previous": "article-13-",
+    "next": "article-15-"
+  }
+}

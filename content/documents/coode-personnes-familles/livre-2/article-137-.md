@@ -1,0 +1,1 @@
+L’officier de l’état civil complète éventuellement le projet d’acte de mariage par indication donnée par les futurs époux, donne lecture aux comparants dudit projet établi conformément à leur déclaration et comportant notamment l’indication du régime matrimonial.

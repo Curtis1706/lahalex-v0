@@ -1,0 +1,2 @@
+Augmentation du prix
+Si le bien vendu se trouve avoir augmenté de prix au moment de l'éviction, indépendamment même du fait de l'acquéreur, le vendeur est tenu de lui payer ce qu'il vaut au-dessus du prix de la vente.

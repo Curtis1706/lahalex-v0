@@ -1,0 +1,1 @@
+Est puni d’un emprisonnement de huit (08) ans à dix (10) ans et d’une amende de vingt-cinq millions (25.000.000) à cinquante millions (50.000.000) de francs CFA ou de l’une de ces deux peines seulement, celui qui fait publiquement l’apologie des actes de terrorisme ou qui incite directement à la commission d’actes de terrorisme.

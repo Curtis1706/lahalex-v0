@@ -1,0 +1,1 @@
+Le partage, même partiel, peut également être annulé lorsque l’un des héritiers établit qu'il a subi un préjudice de plus du quart dans l’évaluation, au partage des biens compris dans son lot.

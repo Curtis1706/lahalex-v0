@@ -1,0 +1,1 @@
+Les dirigeants visés au présent paragraphe s’entendent de tous les dirigeants de droit ou de fait et, d’une manière générale, de toute personne ayant directement ou par personne interposée, administré, géré ou liquidé la personne morale sous le couvert ou aux lieux et place de ses représentants légaux.

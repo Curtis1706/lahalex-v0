@@ -1,0 +1,2 @@
+Le Fonds National de Retraites créé par ordonnance 63/PR du 29 Décembre 1966 est chargé de concéder, liquider et servir les pensions attribuées en application des dispositions de la présente Loi. La gestion de ce Fonds est confiée au Ministre chargé des Finances.
+Le présent régime ainsi que sa gestion peuvent être coordonné avec des régimes étrangers sur convention bilatérales ou autres.

@@ -1,0 +1,3 @@
+Si les experts demandent à être éclairés sur une question échappant à leur spécialité, le juge peut les autoriser à s’adjoindre des personnes nommément désignées, spécialement qualifiées pour leur compétence.
+Les personnes ainsi désignées prêtent serment dans les conditions prévues à l’article 175 du présent code.
+Leur rapport est annexé intégralement à celui mentionné à l’article 181 du présent code.

@@ -1,0 +1,1 @@
+Tout électeur qui ne détient pas une pièce d'identification-en cours de validité, se fait délivrer une carte d'électeur par l’ANIP.

@@ -1,0 +1,1 @@
+La chose léguée est délivrée avec les accessoires nécessaires et dans l’état où elle se trouve au jour du décès du testateur.

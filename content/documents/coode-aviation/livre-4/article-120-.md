@@ -1,0 +1,3 @@
+L'enquêteur désigné a le pouvoir exclusif de conduire l’enquête au nom du Bureau enquêtes-accidents. II :
+- produit un rapport du Bureau enquêtes-accidents, en présentant notamment des conclusions sur les causes et les facteurs contributifs ainsi que des recommandations de sécurité liées à l’occurrence ;
+- est responsable de la nomination des observateurs et des participants nécessaires à l'enquête.

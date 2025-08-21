@@ -1,0 +1,1 @@
+La garde à vue et la détention préventive en matière de presse sont interdites sauf en cas de provocation au crime et délits contre la chose publique.

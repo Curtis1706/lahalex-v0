@@ -1,0 +1,1 @@
+Le registre communal est destiné à la collecte des données des personnes physiques qui établissent leur résidence habituelle sur le territoire d'une commune, ainsi que des données de toute autre personne visée par les dispositions de la loi portant identification de la personne physique.

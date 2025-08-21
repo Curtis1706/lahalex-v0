@@ -1,0 +1,2 @@
+Quiconque se rend coupable de fraude ou de fausse déclaration pour obtenir ou de tenter de faire obtenir des prestations qui ne sont pas dues, est passible des peines prévues par le Code pénal réprimant le délit d’escroquerie. Il sera tenu en outre de rembourser à la Caisse les sommes indûment payées par celleci.
+En cas de récidive, le maximum de la peine d’amende sera toujours appliqué au délinquant.

@@ -1,0 +1,3 @@
+Rentes viagères : provisions mathématiques
+Les provisions mathématiques de tous les contrats individuels et collectifs de rentes viagères doivent être calculées en appliquant auxdits contrats, lors de tous leurs inventaires annuels à partir de cette date, les bases techniques définies au premier alinéa de l’article 334-4 et, éventuellement, à l’article 334-6.
+Toutefois, la Commission de Contrôle des Assurances peut, sur justification, autoriser une entreprise à répartir sur une période de cinq ans au plus les effets résultant des dispositions prévues à l’alinéa ci-dessus.

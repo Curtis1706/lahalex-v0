@@ -1,0 +1,1 @@
+Toute personne condamnée pour l’un des délits prévus à l’article 603 du présent code, pourra en outre être frappée, pour cinq (05) ans au moins et dix (10) ans au plus, de l’interdiction des droits mentionnés à l’article 38 du présent code.

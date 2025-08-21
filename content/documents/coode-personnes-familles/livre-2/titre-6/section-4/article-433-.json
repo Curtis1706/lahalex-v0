@@ -1,0 +1,16 @@
+{
+  "id": "article-433-",
+  "title": "Article 433 :",
+  "numero": "433 ",
+  "document": "coode-personnes-familles",
+  "path": [
+    "livre-2",
+    "titre-6",
+    "section-4"
+  ],
+  "navigation": {
+    "parent": "section-4",
+    "previous": "article-432-",
+    "next": "article-434-"
+  }
+}

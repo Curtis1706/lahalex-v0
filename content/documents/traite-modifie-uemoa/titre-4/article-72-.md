@@ -1,0 +1,10 @@
+(modifié)
+1) Dans le cadre de la procédure de surveillance multilatérale, la Commission
+transmet au Conseil et rend public un rapport semestriel d'exécution. Ce rapport rend compte de la convergence des politiques et des performances économiques ainsi que de la compatibilité de celles-ci avec la politique monétaire de l'Union. Il examine la bonne exécution, par les Etats membres, des recommandations faites par le Conseil en application des articles 64 à 66. Il tient compte des programmes d'ajustement éventuellement en vigueur au niveau de l'Union et des Etats membres.
+Si un Etat membre ne satisfait pas aux exigences mentionnées au paragraphe précédent, la Commission fait, dans une annexe au rapport, des propositions de directives à son intention. Celles-ci spécifient les mesures rectificatives à mettre en oeuvre. Sous réserve des dispositions prévues au paragraphe 2 du présent article, cette annexe n'est pas rendue publique.
+2) Le Conseil prend acte du rapport d'exécution mentionné au paragraphe 1. Il
+adopte à la majorité des deux tiers (2/3) de ses membres les propositions de directives faites dans ce cadre par la Commission. Par dérogation à l'article 22 du présent Traité, il a la faculté d'amender celles-ci à la majorité des deux tiers (2/3) de ses membres. Il en informe le Parlement.
+Si le Conseil n'a pas été en mesure de réunir les conditions de majorité nécessaires à l'adoption d'une directive à l'issue du 1 examen de celle-ci, la Commission a la faculté de rendre sa proposition publique.
+Articie 73
+50'Etat membre destinataire d'une directive émise par le Conseil dans le cadre de la surveillance multilatérale, élabore en concertation avec la Commission et dans un délai de trente (30) jours, un programme de mesures rectificatives.
+La Commission vérifie la conformité des mesures envisagées à la directive du Conseil et à la politique économique de l'Union et tient compte des éventuels programmes d'ajustement en vigueur.

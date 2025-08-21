@@ -1,0 +1,1 @@
+Le greffier dresse, à l’effet de constater l’accomplissement des formalités prescrites par le présent code, un procès-verbal qu’il signe après le président.

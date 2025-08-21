@@ -1,0 +1,5 @@
+Encourt une peine d’amende de cinq cent mille (500.000) francs CFA à un million (1.000.000) de francs CFA, toute personne qui s’est abstenue :
+- dans le premier mois d’exploitation de son commerce, de requérir du greffe de la juridiction compétente son immatriculation au registre du commerce ;
+- dans le délai de trente (30) jours de requérir les inscriptions modificatives complémentaires dans le cadre de son commerce notamment sur son état civil, son
+- régime matrimonial, sa capacité ou sur le statut de la personne morale intervenue dans le cadre de son commerce ;
+- dans le délai de un (01) mois à compter de la cessation de son activité commerciale de demander sa radiation dans le registre de commerce et du crédit mobilier ou en cas de décès, lorsque ses ayants-droits se sont abstenus dans le délai de trois (03) mois à compter dudit décès, de demander la radiation de l’inscription au registre ou sa modification s’ils doivent eux-mêmes continuer l’exploitation.

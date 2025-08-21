@@ -1,0 +1,1 @@
+Sont punis d’une peine d’emprisonnement de six (06) mois à trois (03) ans, le fait pour un ascendant légitime, naturel ou adoptif d’entretenir des relations sexuelles consenties avec un descendant légitime, naturel ou adoptif et vice-versa.

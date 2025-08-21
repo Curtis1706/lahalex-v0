@@ -1,0 +1,3 @@
+Lorsque l’appelant est détenu, il peut également faire connaître sa volonté d’interjeter appel par une lettre qu’il remet au surveillant chef de la maison d’arrêt ; celui-ci en délivre récépissé.
+Le surveillant chef certifie sur cette lettre même qu’elle lui a été remise par l’intéressé, et il précise la date de la remise.
+Ce document est transmis immédiatement au greffe de la juridiction qui a rendu la décision attaquée. Il est transcrit sur le registre prévu par l’article 515 alinéa 3 du présent code, et annexé à l’acte dressé par le greffier.

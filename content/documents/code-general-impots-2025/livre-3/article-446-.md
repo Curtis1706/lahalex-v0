@@ -1,0 +1,1 @@
+Les documents délivrés portent la mention « Droit de timbre payé sur états. Autorisation du … (date de l’autorisation) ».

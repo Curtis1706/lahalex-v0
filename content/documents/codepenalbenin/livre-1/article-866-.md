@@ -1,0 +1,1 @@
+Quiconque exploite un ouvrage ou une installation, réalise des travaux ou exerce une activité en violation d’une mesure de suspension décidée en application des lois et règlements, est puni d’une amende de cinq millions (5.000.000) de francs CFA sans préjudice de la destruction de l’installation ou de l’ouvrage, assortie, le cas échéant, de la remise des lieux en l’état.

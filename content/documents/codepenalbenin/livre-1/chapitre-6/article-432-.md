@@ -1,0 +1,3 @@
+Sans préjudice de l’application, le cas échéant, des peines plus fortes prévues aux articles qui précédent, est puni d’un emprisonnement de un (01) mois à six (06) mois quiconque a, dans des conditions irrégulières, remis ou fait parvenir ou tenté de remettre ou faire parvenir à un détenu, en quelque lieu que ce soit, des sommes d’argent, correspondances ou objets quelconques.
+La sortie ou la tentative de sortie irrégulière des sommes d’argent, correspondances ou objets quelconques est punie des mêmes peines.
+Les actes visés aux alinéas précédents seront considérés comme accomplis dans des conditions irrégulières s’ils ont été commis en violation d’un règlement émanant de la direction de l’administration pénitentiaire ou approuvé par elle.

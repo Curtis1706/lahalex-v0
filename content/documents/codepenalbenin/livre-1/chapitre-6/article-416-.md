@@ -1,0 +1,1 @@
+Dans le cas même où ces violences n’auraient pas causé d’effusion de sang, blessures ou maladie, les coupables sont punis de la réclusion criminelle à temps de cinq (05) ans à dix (10) ans si les coups ont été portés avec préméditation ou guet-apens.

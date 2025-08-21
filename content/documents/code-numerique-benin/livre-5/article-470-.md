@@ -1,0 +1,3 @@
+Président
+Le Président est l'ordonnateur du budget, il assume la gestion quotidienne de l'Autorité, dirige le secrétariat, préside les réunions de l'Autorité en ses différentes formations ou délègue un autre membre à cette fin qui le représente. Il fait périodiquement rapport devant l'Autorité réunie en séances administratives.
+En cas d'empêchement du Président, le vice-Président assure ses fonctions

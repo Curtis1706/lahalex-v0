@@ -1,0 +1,3 @@
+Le droit d’accès à un document ou à un renseignement public s’exerce par consultation sur place pendant les heures habituelles de travail.
+Le requérant peut également demander et obtenir copie dudit document.
+A la demande du requérant, un document informatisé est communiqué sous la forme d’une transcription écrite et intelligible ou par impression de l’extrait contenant les renseignements demandés.

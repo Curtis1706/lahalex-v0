@@ -1,0 +1,2 @@
+La perte du fret résultant d’une perte ou d’un dommage admis en avaries communes, subis par la cargaison ou le navire, est admise en avaries communes.
+Lorsqu’une perte de fret est admissible en avaries communes, il y a lieu de déduire du fret, les frais qui ont été encourus pour le gagner ainsi que le fret de remplacement.

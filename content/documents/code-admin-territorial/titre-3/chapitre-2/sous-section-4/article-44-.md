@@ -1,0 +1,1 @@
+La commune initie toutes les mesures de nature à favoriser et à promouvoir l'éducation de la jeunesse.

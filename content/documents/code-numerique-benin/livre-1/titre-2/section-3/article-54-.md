@@ -1,0 +1,3 @@
+Obtention des autorisations
+Les décisions d’octroi ou de refus de délivrance d'une autorisation par l’Autorité de régulation interviennent dans un délai maximum d’un (01) mois à compter de la date de notification de la demande par le demandeur. Ce délai peut être prorogé d’un (01) mois, notamment en raison de la complexité technique des réseaux et/ou services objets de l’autorisation sollicitée.
+Toute décision de refus de délivrance d’une autorisation par l’Autorité de régulation, est motivée. La décision de refus de l’Autorité de régulation est susceptible de recours devant la chambre administrative de la cour d’appel de Cotonou dans un délai d’un (01) mois.

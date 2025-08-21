@@ -1,0 +1,2 @@
+L’officier de l’état civil ne peut rien insérer dans les actes qu’il reçoit, soit par note, soit par énonciation quelconque, que ce qui est déclaré par les comparants ou ce qui, par ordre de la loi, doit être constaté par lui.
+Si une déclaration lui semble contraire à la loi, il doit en aviser immédiatement le procureur de la République qui engage, s'il y a lieu, une action en rectification de l’acte ou une action d’état.

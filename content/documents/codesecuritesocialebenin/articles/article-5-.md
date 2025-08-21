@@ -1,0 +1,1 @@
+Les travailleurs relevant des différents statuts particuliers de la fonction publique et en position de détachement dans les sociétés et autres organismes d’Etat à budget autonome sont soumis aux dispositions d’assujettissement du présent Code en ce qui concerne les risques professionnels et les prestations familiales.

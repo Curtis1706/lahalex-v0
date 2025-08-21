@@ -1,0 +1,1 @@
+En cas d’interruption du voyage et quelle que soit la cause de l’interruption, le transporteur ou son représentant doit, à peine de dommages-intérêts, faire diligence pour assurer le transbordement des marchandises et leur acheminement par un autre navire jusqu’au port de destination.

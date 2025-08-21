@@ -1,0 +1,1 @@
+Nul ne peut faire usage de plus d'une procuration.

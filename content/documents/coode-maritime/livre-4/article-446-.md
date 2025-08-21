@@ -1,0 +1,1 @@
+Les actions nées à l’occasion d’un contrat de remorquage sont prescrites par un (01) an après l’achèvement des opérations.

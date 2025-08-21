@@ -1,0 +1,1 @@
+Lorsqu’une personne physique ou morale ne remplissant pas la condition indiquée à l’article 193 de la présente loi a souscrit au capital social d’une société coopérative de messagerie de presse, celle-ci perd ce statut.

@@ -1,0 +1,1 @@
+La délivrance des titres et qualifications aéronautiques ainsi que les services par le ministre chargé de l’aviation civile donnent lieu au versement de redevances dont les modalités d’établissement et de recouvrement ainsi que le montant sont fixés par voie réglementaire.

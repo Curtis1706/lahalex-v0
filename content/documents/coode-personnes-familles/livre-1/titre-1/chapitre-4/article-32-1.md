@@ -1,0 +1,4 @@
+Le mariage de l’absent est dissous à compter du jour où le jugement déclarant l’absence est devenu définitif. Son conjoint a le droit de se remarier.
+Lorsque l'absent reparaît avant le jugement déclaratif de décès, le nouveau mariage que son conjoint aurait obtenu ne lui est pas opposable.
+Lorsque l’absent ou le disparu reparaît après le jugement déclaratif de décès, le nouveau mariage de son conjoint lui est opposable. Il en est de même du divorce que le conjoint aurait obtenu après le jugement déclaratif d’absence.
+Quel que soit le moment où l’absent ou le disparu reparaît, les enfants cessent d’être soumis au régime de l’administration légale ou de la tutelle. Dans le cas de divorce ou de remariage, opposable au conjoint qui reparaît, le juge statuera sur la garde des enfants au mieux de leurs intérêts.

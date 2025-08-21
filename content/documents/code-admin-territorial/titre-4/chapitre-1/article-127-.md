@@ -1,0 +1,3 @@
+La fonction de secrétaire exécutif est la plus haute fonction administrative et technique au sein des mairies.
+Le secrétaire exécutif est le responsable de l'administration de la commune. Il est le principal animateur des services administratifs et techniques communaux dont il veille au bon fonctionnement.
+Au sens du présent article, l'administration de la commune s'entend de la gestion des ressources humaines, financières et matérielles affectées à l'exécution des activités relevant des projets et programmes de la commune ainsi que celles de gestion courante. Ces activités incluent la communication au nom de la commune.

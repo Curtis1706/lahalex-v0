@@ -1,0 +1,3 @@
+Le testament par acte public est celui qui est reçu par deux notaires ou par un notaire assisté de deux témoins.
+Le testament par acte public peut être reçu par un juge.
+Ne pourront être pris pour témoins du testament par acte public, ni les légataires à quelque titre qu’ils soient, ni leurs parents ou alliés jusqu’au quatrième degré inclusivement, ni les clercs des notaires par lesquels les actes seront reçus.

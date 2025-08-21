@@ -1,0 +1,1 @@
+Les pourvois en cassation formés contre les arrêts rendus en dernier ressort par les juridictions de jugement saisies en application des dispositions de l’article précédent, sont soumis à l’assemblée plénière de la cour suprême.

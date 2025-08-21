@@ -1,0 +1,1 @@
+Le présent titre n’est pas applicable aux contrats d’assurance ayant pour objet de garantir les risques relatifs à la navigation de plaisance.

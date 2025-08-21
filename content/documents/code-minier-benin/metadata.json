@@ -1,0 +1,2002 @@
+{
+  "id": "code-minier-benin",
+  "title": "Code minier",
+  "type": "codes",
+  "description": "Code minier en République du Bénin, réglementant la prospection, la recherche, l’exploitation et la commercialisation des ressources minérales, incluant les dispositions générales, les régimes d’autorisation et de permis, les obligations environnementales et sociales, la fiscalité minière, les droits et devoirs des titulaires, la sécurité et la santé sur les sites, ainsi que les sanctions applicables.",
+  "structure": {
+    "sections": [
+      {
+        "id": "titre-1",
+        "title": "TITRE 1 : DES GENERALITES",
+        "type": "titre",
+        "level": 2,
+        "order": 0,
+        "path": [
+          "titre-1"
+        ],
+        "children": [
+          "chapitre-1",
+          "chapitre-2"
+        ]
+      },
+      {
+        "id": "chapitre-1",
+        "title": "CHAPITRE 1 : DES DISPOSITIONS PRELIMINAIRES",
+        "type": "chapitre",
+        "level": 3,
+        "order": 1,
+        "path": [
+          "titre-1",
+          "chapitre-1"
+        ],
+        "children": [
+          "article-1er-",
+          "article-2-",
+          "article-3-",
+          "article-4-",
+          "article-5-",
+          "article-6-",
+          "article-7-",
+          "article-8-"
+        ]
+      },
+      {
+        "id": "article-1er-",
+        "title": "ARTICLE 1er : Au sens de la présente loi, on entend par :",
+        "type": "article",
+        "level": 3,
+        "order": 2,
+        "path": [
+          "titre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-2-",
+        "title": "ARTICLE 2 : Sur le territoire de la République du Bénin, dans les",
+        "type": "article",
+        "level": 3,
+        "order": 3,
+        "path": [
+          "titre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-3-",
+        "title": "ARTICLE 3 : Aucune personne physique ou morale, y compris le",
+        "type": "article",
+        "level": 3,
+        "order": 4,
+        "path": [
+          "titre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-4-",
+        "title": "ARTICLE 4 : Sous réserve de la présente loi, l'Etat peut accorder",
+        "type": "article",
+        "level": 3,
+        "order": 5,
+        "path": [
+          "titre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-5-",
+        "title": "ARTICLE 5 : Une personne physique n'ayant pas la nationalité",
+        "type": "article",
+        "level": 3,
+        "order": 6,
+        "path": [
+          "titre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-6-",
+        "title": "ARTICLE 6 : Dans le cas où plusieurs personnes physiques ou morales",
+        "type": "article",
+        "level": 3,
+        "order": 7,
+        "path": [
+          "titre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-7-",
+        "title": "ARTICLE 7 : En cas d'impérieuse nécessité, l'attribution",
+        "type": "article",
+        "level": 3,
+        "order": 8,
+        "path": [
+          "titre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-8-",
+        "title": "ARTICLE 8 : L'Etat peut se livrer, pour son propre compte, à toute",
+        "type": "article",
+        "level": 3,
+        "order": 9,
+        "path": [
+          "titre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-2",
+        "title": "CHAPITRE 2 : DE LA CLASSIFIFICATION DES GITES DE SUBSTANCES MINERALES",
+        "type": "chapitre",
+        "level": 3,
+        "order": 10,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": [
+          "article-9-",
+          "article-10-",
+          "article-11-",
+          "article-12-",
+          "article-13-"
+        ]
+      },
+      {
+        "id": "article-9-",
+        "title": "ARTICLE 9 : Les gîtes naturels de substances minérales ou fossiles,",
+        "type": "article",
+        "level": 3,
+        "order": 11,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-10-",
+        "title": "ARTICLE 10 : Sont considérées comme carrières, les gîtes naturels de",
+        "type": "article",
+        "level": 3,
+        "order": 12,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-11-",
+        "title": "ARTICLE 11 : Les carrières sont classées en deux catégories :",
+        "type": "article",
+        "level": 3,
+        "order": 13,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-12-",
+        "title": "ARTICLE 12 : La propriété des mines et carrières est distincte de",
+        "type": "article",
+        "level": 3,
+        "order": 14,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-13-",
+        "title": "ARTICLE 13 : A tout moment, un décret pris sur proposition du",
+        "type": "article",
+        "level": 3,
+        "order": 15,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-2",
+        "title": "TITRE 2 : DES TITRES MINIERS",
+        "type": "titre",
+        "level": 2,
+        "order": 16,
+        "path": [
+          "titre-2"
+        ],
+        "children": [
+          "article-14-",
+          "article-15-",
+          "article-16-",
+          "article-17-",
+          "article-18-",
+          "article-19-",
+          "article-20-",
+          "article-21-",
+          "article-22-",
+          "article-23-",
+          "article-24-",
+          "article-25-",
+          "article-26-",
+          "article-27-",
+          "article-28-",
+          "article-29-",
+          "chapitre-3",
+          "chapitre-4",
+          "chapitre-5",
+          "chapitre-6"
+        ]
+      },
+      {
+        "id": "article-14-",
+        "title": "ARTICLE 14 : Nul ne peut se livrer à des activités de prospection",
+        "type": "article",
+        "level": 2,
+        "order": 18,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-15-",
+        "title": "ARTICLE 15 : Sous réserve de l'article 7 de la présente loi,",
+        "type": "article",
+        "level": 2,
+        "order": 19,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-16-",
+        "title": "ARTICLE 16 : L'autorisation de prospection est accordée pour une",
+        "type": "article",
+        "level": 2,
+        "order": 20,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-17-",
+        "title": "ARTICLE 17 : Le titulaire d'une autorisation de prospection doit",
+        "type": "article",
+        "level": 2,
+        "order": 21,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-18-",
+        "title": "ARTICLE 18 : L'autorisation de prospection ne confère à son",
+        "type": "article",
+        "level": 2,
+        "order": 22,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-19-",
+        "title": "ARTICLE 19 : Nul ne peut se livrer à des activités de recherche sans",
+        "type": "article",
+        "level": 2,
+        "order": 24,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-20-",
+        "title": "ARTICLE 20 : Le permis de recherche confère, dans les limites de son",
+        "type": "article",
+        "level": 2,
+        "order": 25,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-21-",
+        "title": "ARTICLE 21 : Le permis de recherche est accordé pour une période de",
+        "type": "article",
+        "level": 2,
+        "order": 26,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-22-",
+        "title": "ARTICLE 22 : La superficie pour laquelle le permis de recherche est",
+        "type": "article",
+        "level": 2,
+        "order": 27,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-23-",
+        "title": "ARTICLE 23 : Le permis de recherche est assorti d'une convention",
+        "type": "article",
+        "level": 2,
+        "order": 28,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-24-",
+        "title": "ARTICLE 24 : Le titulaire d'un permis de recherche est tenu",
+        "type": "article",
+        "level": 2,
+        "order": 29,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-25-",
+        "title": "ARTICLE 25 : L'existence d'un permis de recherche interdit",
+        "type": "article",
+        "level": 2,
+        "order": 30,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-26-",
+        "title": "ARTICLE 26 : Le titulaire d'un permis de recherche est tenu de",
+        "type": "article",
+        "level": 2,
+        "order": 31,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-27-",
+        "title": "ARTICLE 27 : Le titulaire d'un permis de recherche, a droit à la",
+        "type": "article",
+        "level": 2,
+        "order": 32,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-28-",
+        "title": "ARTICLE 28 : Le titulaire d'un permis de recherche est tenu",
+        "type": "article",
+        "level": 2,
+        "order": 33,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-29-",
+        "title": "ARTICLE 29 : Le titulaire d'un permis de recherche peut, sous",
+        "type": "article",
+        "level": 2,
+        "order": 34,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-3",
+        "title": "CHAPITRE 3 : DU PERMIS D'EXPLOITATION MINIERE",
+        "type": "chapitre",
+        "level": 3,
+        "order": 35,
+        "path": [
+          "titre-2",
+          "chapitre-3"
+        ],
+        "children": [
+          "article-30-",
+          "article-31-",
+          "article-32-",
+          "article-33-",
+          "article-34-",
+          "article-35-",
+          "article-36-",
+          "article-37-",
+          "article-38-",
+          "article-39-",
+          "article-40-"
+        ]
+      },
+      {
+        "id": "article-30-",
+        "title": "ARTICLE 30 : Nul ne peut exploiter une mine sans permis",
+        "type": "article",
+        "level": 3,
+        "order": 36,
+        "path": [
+          "titre-2",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-31-",
+        "title": "ARTICLE 31 : Le permis d'exploitation confère à son titulaire, dans",
+        "type": "article",
+        "level": 3,
+        "order": 37,
+        "path": [
+          "titre-2",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-32-",
+        "title": "ARTICLE 32 : Le permis d'exploitation est valable pour vingt (20)",
+        "type": "article",
+        "level": 3,
+        "order": 38,
+        "path": [
+          "titre-2",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-33-",
+        "title": "ARTICLE 33 : La superficie du permis d'exploitation est délimitée en",
+        "type": "article",
+        "level": 3,
+        "order": 39,
+        "path": [
+          "titre-2",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-34-",
+        "title": "ARTICLE 34 : La convention minière intervenue entre le titulaire du",
+        "type": "article",
+        "level": 3,
+        "order": 40,
+        "path": [
+          "titre-2",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-35-",
+        "title": "ARTICLE 35 : La demande d'un permis d'exploitation doit être",
+        "type": "article",
+        "level": 3,
+        "order": 41,
+        "path": [
+          "titre-2",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-36-",
+        "title": "ARTICLE 36 : Le titulaire d'un permis d'exploitation est tenu de",
+        "type": "article",
+        "level": 3,
+        "order": 42,
+        "path": [
+          "titre-2",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-37-",
+        "title": "ARTICLE 37 : Le titulaire d'un permis d'exploitation est tenu",
+        "type": "article",
+        "level": 3,
+        "order": 43,
+        "path": [
+          "titre-2",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-38-",
+        "title": "ARTICLE 38 : Le titulaire d'un permis d'exploitation est tenu de",
+        "type": "article",
+        "level": 3,
+        "order": 44,
+        "path": [
+          "titre-2",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-39-",
+        "title": "ARTICLE 39 : L'existence d'un permis d'exploitation valide",
+        "type": "article",
+        "level": 3,
+        "order": 45,
+        "path": [
+          "titre-2",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-40-",
+        "title": "ARTICLE 40 : Le titulaire d'un permis d'exploitation peut y renoncer",
+        "type": "article",
+        "level": 3,
+        "order": 46,
+        "path": [
+          "titre-2",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-4",
+        "title": "CHAPITRE 4 : DE L'AUTORISATION D'OUVERTURE ET D'EXPLOITATION DES CARRIERRES",
+        "type": "chapitre",
+        "level": 3,
+        "order": 47,
+        "path": [
+          "titre-2",
+          "chapitre-4"
+        ],
+        "children": [
+          "article-41-",
+          "article-42-",
+          "article-43-",
+          "article-44-",
+          "article-45-",
+          "article-46-",
+          "article-47-",
+          "article-48-"
+        ]
+      },
+      {
+        "id": "article-41-",
+        "title": "ARTICLE 41 : Quelle que soit la situation juridique des terrains sur",
+        "type": "article",
+        "level": 3,
+        "order": 48,
+        "path": [
+          "titre-2",
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-42-",
+        "title": "ARTICLE 42 : Nul ne peut ouvrir et/ou exploiter une carrière sans",
+        "type": "article",
+        "level": 3,
+        "order": 49,
+        "path": [
+          "titre-2",
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-43-",
+        "title": "ARTICLE 43 : L'autorisation d'ouverture et d'exploitation comme",
+        "type": "article",
+        "level": 3,
+        "order": 50,
+        "path": [
+          "titre-2",
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-44-",
+        "title": "ARTICLE 44 : L'autorisation d'ouverture et d'exploitation de",
+        "type": "article",
+        "level": 3,
+        "order": 51,
+        "path": [
+          "titre-2",
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-45-",
+        "title": "ARTICLE 45 : Les conditions d'ouverture, d'exploitation et de",
+        "type": "article",
+        "level": 3,
+        "order": 52,
+        "path": [
+          "titre-2",
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-46-",
+        "title": "ARTICLE 46 : L'exploitation à ciel ouvert de substances de carrière",
+        "type": "article",
+        "level": 3,
+        "order": 53,
+        "path": [
+          "titre-2",
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-47-",
+        "title": "ARTICLE 47 : Le ministre chargé des mines et le ministre chargé des",
+        "type": "article",
+        "level": 3,
+        "order": 54,
+        "path": [
+          "titre-2",
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-48-",
+        "title": "ARTICLE 48 : L'autorisation d'ouverture et d'exploitation de",
+        "type": "article",
+        "level": 3,
+        "order": 55,
+        "path": [
+          "titre-2",
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-5",
+        "title": "CHAPITRE 5 : DE L'EXPLOITATION ARTISANALE OU SEMIINDUSTRIELLE",
+        "type": "chapitre",
+        "level": 3,
+        "order": 56,
+        "path": [
+          "titre-2",
+          "chapitre-5"
+        ],
+        "children": [
+          "article-49-",
+          "article-50-",
+          "article-51-",
+          "article-52-",
+          "article-53-",
+          "article-54-",
+          "article-55-"
+        ]
+      },
+      {
+        "id": "article-49-",
+        "title": "ARTICLE 49 : L'exploitation artisanale ou semiindustrielle ne",
+        "type": "article",
+        "level": 3,
+        "order": 57,
+        "path": [
+          "titre-2",
+          "chapitre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-50-",
+        "title": "ARTICLE 50 : La liste du matériel et des produits autorisés pour",
+        "type": "article",
+        "level": 3,
+        "order": 58,
+        "path": [
+          "titre-2",
+          "chapitre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-51-",
+        "title": "ARTICLE 51 : Nul ne peut se livrer à des activités d'exploitation",
+        "type": "article",
+        "level": 3,
+        "order": 59,
+        "path": [
+          "titre-2",
+          "chapitre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-52-",
+        "title": "ARTICLE 52 : L'autorisation d'exploitation artisanale ou semi",
+        "type": "article",
+        "level": 3,
+        "order": 60,
+        "path": [
+          "titre-2",
+          "chapitre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-53-",
+        "title": "ARTICLE 53 : L'autorisation d'exploitation artisanale ou semi",
+        "type": "article",
+        "level": 3,
+        "order": 61,
+        "path": [
+          "titre-2",
+          "chapitre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-54-",
+        "title": "ARTICLE 54 : Un régime particulier peut être institué dans le but de",
+        "type": "article",
+        "level": 3,
+        "order": 62,
+        "path": [
+          "titre-2",
+          "chapitre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-55-",
+        "title": "ARTICLE 55 : L'acte instituant le régime visé à l'article 34 de la",
+        "type": "article",
+        "level": 3,
+        "order": 63,
+        "path": [
+          "titre-2",
+          "chapitre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-6",
+        "title": "CHAPITRE 6 : DES DISPOSITIONS COMMUNES AUX TITRES MINIERS",
+        "type": "chapitre",
+        "level": 3,
+        "order": 64,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": [
+          "article-56-",
+          "article-57-",
+          "article-58-",
+          "article-59-",
+          "article-60-",
+          "article-61-",
+          "article-62-"
+        ]
+      },
+      {
+        "id": "article-56-",
+        "title": "ARTICLE 56 : La délimitation du périmètre des permis est établie,",
+        "type": "article",
+        "level": 3,
+        "order": 65,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-57-",
+        "title": "ARTICLE 57 : Les droits miniers sont toujours délivrés sous",
+        "type": "article",
+        "level": 3,
+        "order": 66,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-58-",
+        "title": "ARTICLE 58 : Lorsqu'une demande de renouvellement d'un titre minier",
+        "type": "article",
+        "level": 3,
+        "order": 67,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-59-",
+        "title": "ARTICLE 59 : Le permis de recherche et le permis d'exploitation",
+        "type": "article",
+        "level": 3,
+        "order": 68,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-60-",
+        "title": "ARTICLE 60 : Les titres miniers, à l'exception de l'autorisation de",
+        "type": "article",
+        "level": 3,
+        "order": 69,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-61-",
+        "title": "ARTICLE 61 : Les permis de recherche et les permis d'exploitation",
+        "type": "article",
+        "level": 3,
+        "order": 70,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-62-",
+        "title": "ARTICLE 62 : En cas d'expiration d'un permis de recherche ou d'un",
+        "type": "article",
+        "level": 3,
+        "order": 71,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-3",
+        "title": "TITRE 3 : DES DISPOSITIONS FISCALES",
+        "type": "titre",
+        "level": 2,
+        "order": 72,
+        "path": [
+          "titre-3"
+        ],
+        "children": [
+          "article-63-",
+          "article-64-",
+          "article-65-",
+          "article-66-",
+          "article-67-",
+          "article-68-",
+          "article-69-",
+          "article-70-",
+          "article-71-",
+          "article-72-",
+          "article-73-",
+          "article-74-",
+          "article-75-",
+          "article-76-",
+          "article-77-",
+          "article-78-",
+          "article-79-",
+          "article-80-",
+          "article-81-",
+          "article-82-",
+          "article-83-",
+          "article-84-",
+          "article-85-",
+          "article-86-",
+          "article-87-",
+          "article-88-",
+          "article-89-",
+          "article-90-",
+          "article-91-",
+          "article-92-",
+          "article-93-",
+          "article-94-",
+          "article-95-",
+          "article-96-",
+          "article-97-"
+        ]
+      },
+      {
+        "id": "article-63-",
+        "title": "ARTICLE 63 : La recherche et l'exploitation des gîtes de substances",
+        "type": "article",
+        "level": 2,
+        "order": 73,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-64-",
+        "title": "ARTICLE 64 : Le taux de la redevance \"ad valorem\" pour les",
+        "type": "article",
+        "level": 2,
+        "order": 74,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-65-",
+        "title": "ARTICLE 65 : Outre les droits fixes, les taxes superficiaires et la",
+        "type": "article",
+        "level": 2,
+        "order": 75,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-66-",
+        "title": "ARTICLE 66 : L'exploitation et le ramassage des substances minérales",
+        "type": "article",
+        "level": 2,
+        "order": 76,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-67-",
+        "title": "ARTICLE 67 : Outre les droits et taxes prévus à la présente loi, les",
+        "type": "article",
+        "level": 2,
+        "order": 77,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-68-",
+        "title": "ARTICLE 68 : Les droits fixes et taxes superficiaires mentionnés à",
+        "type": "article",
+        "level": 2,
+        "order": 78,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-69-",
+        "title": "ARTICLE 69 : Le titulaire d'un permis d'exploitation doit vendre les",
+        "type": "article",
+        "level": 2,
+        "order": 79,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-70-",
+        "title": "ARTICLE 70 : Le remboursement des dépenses en travaux de recherches",
+        "type": "article",
+        "level": 2,
+        "order": 80,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-71-",
+        "title": "ARTICLE 71 : A l'exception des droits et taxes prévus par la",
+        "type": "article",
+        "level": 2,
+        "order": 81,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-72-",
+        "title": "ARTICLE 72 : Le montant total des investissements de recherches que",
+        "type": "article",
+        "level": 2,
+        "order": 82,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-73-",
+        "title": "ARTICLE 73 : Sont admises pour la détermination du bénéfice",
+        "type": "article",
+        "level": 2,
+        "order": 83,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-74-",
+        "title": "ARTICLE 74 : La stabilisation fiscale est garantie aux titulaires de",
+        "type": "article",
+        "level": 2,
+        "order": 84,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-75-",
+        "title": "ARTICLE 75 : Pendant la période d'exploitation, en plus des droits",
+        "type": "article",
+        "level": 2,
+        "order": 85,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-76-",
+        "title": "ARTICLE 76 : Pendant la période d'installation des entreprises",
+        "type": "article",
+        "level": 2,
+        "order": 86,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-77-",
+        "title": "ARTICLE 77 : Les droits et taxes perçus à l'exportation sur les",
+        "type": "article",
+        "level": 2,
+        "order": 87,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-78-",
+        "title": "ARTICLE 78 : Pour le bénéfice de la franchise des droits et taxes",
+        "type": "article",
+        "level": 2,
+        "order": 88,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-79-",
+        "title": "ARTICLE 79 : Les opérations d'investissement doivent être engagées",
+        "type": "article",
+        "level": 2,
+        "order": 89,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-80-",
+        "title": "ARTICLE 80 : Toutes les exonérations fiscales et douanières prévues",
+        "type": "article",
+        "level": 2,
+        "order": 90,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-81-",
+        "title": "ARTICLE 81 : Les droits fixes prévus à l'article 63 de la présente",
+        "type": "article",
+        "level": 2,
+        "order": 91,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-82-",
+        "title": "ARTICLE 82 : Les ordres de versement de droits fixes sont établis",
+        "type": "article",
+        "level": 2,
+        "order": 92,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-83-",
+        "title": "ARTICLE 83 : La redevance superficiaire annuelle sur les permis",
+        "type": "article",
+        "level": 2,
+        "order": 93,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-84-",
+        "title": "ARTICLE 84 : Les redevances superficiaires sont liquidées et mises",
+        "type": "article",
+        "level": 2,
+        "order": 94,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-85-",
+        "title": "ARTICLE 85 : La redevance \"ad valorem\" ou redevance",
+        "type": "article",
+        "level": 2,
+        "order": 95,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-86-",
+        "title": "ARTICLE 86 : Un arrêté pris conjointement par le ministre chargé des",
+        "type": "article",
+        "level": 2,
+        "order": 96,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-87-",
+        "title": "ARTICLE 87 : Les produits de carrières sont classés en trois",
+        "type": "article",
+        "level": 2,
+        "order": 98,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-88-",
+        "title": "ARTICLE 88 : Les droits fixes prévus à l'article 63 de la présente",
+        "type": "article",
+        "level": 2,
+        "order": 99,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-89-",
+        "title": "ARTICLE 89 : Les ordres de versement de droits fixes sont établis",
+        "type": "article",
+        "level": 2,
+        "order": 100,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-90-",
+        "title": "ARTICLE 90 : La redevance superficiaire s'applique seulement aux",
+        "type": "article",
+        "level": 2,
+        "order": 101,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-91-",
+        "title": "ARTICLE 91 : La redevance superficiaire annuelle sur les permis",
+        "type": "article",
+        "level": 2,
+        "order": 102,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-92-",
+        "title": "ARTICLE 92 : Les redevances superficiaires sont liquidées et mises",
+        "type": "article",
+        "level": 2,
+        "order": 103,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-93-",
+        "title": "ARTICLE 93 : La redevance \"ad valorem\" ou redevance",
+        "type": "article",
+        "level": 2,
+        "order": 104,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-94-",
+        "title": "ARTICLE 94 : Les exploitants des mines et carrières sont tenus",
+        "type": "article",
+        "level": 2,
+        "order": 106,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-95-",
+        "title": "ARTICLE 95 : Le directeur chargé des mines transmet l'un des",
+        "type": "article",
+        "level": 2,
+        "order": 107,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-96-",
+        "title": "ARTICLE 96 : Les redevances, objet de la présente loi, sont",
+        "type": "article",
+        "level": 2,
+        "order": 108,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-97-",
+        "title": "ARTICLE 97 : La direction chargée des mines assure l'établissement",
+        "type": "article",
+        "level": 2,
+        "order": 109,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-4",
+        "title": "TITRE 4 : DES DROITS ET DES OBLIGATIONS RELATIFS AUX ACTIVITES REGIES PAR LA PRESENTE LOI",
+        "type": "titre",
+        "level": 2,
+        "order": 110,
+        "path": [
+          "titre-4"
+        ],
+        "children": [
+          "article-98-",
+          "article-99-",
+          "article-100-",
+          "article-101-",
+          "article-102-",
+          "article-103-",
+          "article-104-",
+          "article-105-",
+          "article-106-",
+          "article-107-",
+          "article-108-",
+          "article-109-"
+        ]
+      },
+      {
+        "id": "article-98-",
+        "title": "ARTICLE 98 : Les activités minières et de carrière doivent être",
+        "type": "article",
+        "level": 2,
+        "order": 112,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-99-",
+        "title": "ARTICLE 99 : Outre les dispositions prévues à l'article 98 de la",
+        "type": "article",
+        "level": 2,
+        "order": 113,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-100-",
+        "title": "ARTICLE 100 : Le titulaire d'un titre minier est tenu d'indemniser",
+        "type": "article",
+        "level": 2,
+        "order": 114,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-101-",
+        "title": "ARTICLE 101 : Le titulaire d'un titre minier a l'obligation de tenir",
+        "type": "article",
+        "level": 2,
+        "order": 115,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-102-",
+        "title": "ARTICLE 102 : Le bénéficiaire d'un titre minier ou ainsi que les",
+        "type": "article",
+        "level": 2,
+        "order": 117,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-103-",
+        "title": "ARTICLE 103 : Le bénéficiaire d'un titre minier ainsi que les",
+        "type": "article",
+        "level": 2,
+        "order": 118,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-104-",
+        "title": "ARTICLE 104 : Le bénéficiaire d'un titre minier est soumis à la",
+        "type": "article",
+        "level": 2,
+        "order": 119,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-105-",
+        "title": "ARTICLE 105 : Le titulaire d'un permis de recherche ou",
+        "type": "article",
+        "level": 2,
+        "order": 120,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-106-",
+        "title": "ARTICLE 106 : Le titulaire d'un permis d'exploitation peut",
+        "type": "article",
+        "level": 2,
+        "order": 121,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-107-",
+        "title": "ARTICLE 107 : Le titulaire d'un permis d'exploitation peut, pendant",
+        "type": "article",
+        "level": 2,
+        "order": 122,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-108-",
+        "title": "ARTICLE 108 : Le titulaire d'un permis d'exploitation peut établir",
+        "type": "article",
+        "level": 2,
+        "order": 123,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-109-",
+        "title": "ARTICLE 109 : Les installations minières et les installations de",
+        "type": "article",
+        "level": 2,
+        "order": 124,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-5",
+        "title": "TITRE 5 : DES RAPPORTS DES TITULAIRES DE PERMIS ENTRE EUX ET AVEC LES PROPRIETAIRES DU SOL {titrevdesrapportsdestitulairesdepermisentreeuxetaveclesproprietairesdusol}",
+        "type": "titre",
+        "level": 2,
+        "order": 125,
+        "path": [
+          "titre-5"
+        ],
+        "children": [
+          "article-110-",
+          "article-111-",
+          "article-112-",
+          "article-113-",
+          "article-114-",
+          "article-115-",
+          "article-116-",
+          "article-117-",
+          "article-118-",
+          "article-119-",
+          "article-120-",
+          "article-121-",
+          "article-122-",
+          "article-124-"
+        ]
+      },
+      {
+        "id": "article-110-",
+        "title": "ARTICLE 110 : Dans le cas où, il est nécessaire d'exécuter des",
+        "type": "article",
+        "level": 2,
+        "order": 127,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-111-",
+        "title": "ARTICLE 111 : Lorsque les travaux d'exploitation d'une mine",
+        "type": "article",
+        "level": 2,
+        "order": 128,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-112-",
+        "title": "ARTICLE 112 : Un investison de largeur suffisante peut être prescrit",
+        "type": "article",
+        "level": 2,
+        "order": 129,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-113-",
+        "title": "ARTICLE 113 : L'existence d'un permis de recherche ou d'exploitation",
+        "type": "article",
+        "level": 2,
+        "order": 131,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-114-",
+        "title": "ARTICLE 114 : Le titulaire du permis d'exploitation a le droit de",
+        "type": "article",
+        "level": 2,
+        "order": 132,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-115-",
+        "title": "ARTICLE 115 : Le titulaire du permis de recherche ou d'exploitation",
+        "type": "article",
+        "level": 2,
+        "order": 133,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-116-",
+        "title": "ARTICLE 116 : L'autorisation d'occuper n'est accordée :",
+        "type": "article",
+        "level": 2,
+        "order": 134,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-117-",
+        "title": "ARTICLE 117 : Lorsqu'aucun accord amiable n'est intervenu,",
+        "type": "article",
+        "level": 2,
+        "order": 135,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-118-",
+        "title": "ARTICLE 118 : Lorsqu'aucun accord n'est intervenu, outre les",
+        "type": "article",
+        "level": 2,
+        "order": 136,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-119-",
+        "title": "ARTICLE 119 : Outre les travaux de recherche et d'exploitation",
+        "type": "article",
+        "level": 2,
+        "order": 137,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-120-",
+        "title": "ARTICLE 120 : L'indemnité due par le titulaire pour les dommages",
+        "type": "article",
+        "level": 2,
+        "order": 138,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-121-",
+        "title": "ARTICLE 121 : L'arrêté du ministre chargé des mines prévu à",
+        "type": "article",
+        "level": 2,
+        "order": 139,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-122-",
+        "title": "ARTICLE 122 : Les projets d'installation visés aux articles 115 et",
+        "type": "article",
+        "level": 2,
+        "order": 140,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-124-",
+        "title": "ARTICLE 124 : Les contestations entre propriétaires et bénéficiaires",
+        "type": "article",
+        "level": 2,
+        "order": 141,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-6",
+        "title": "TITRE 6 : DES DISPOSITIONS PARTICULIERES {titrevidesdispositionsparticulieres}",
+        "type": "titre",
+        "level": 2,
+        "order": 142,
+        "path": [
+          "titre-6"
+        ],
+        "children": [
+          "article-125-",
+          "article-126-",
+          "article-127-",
+          "article-128-"
+        ]
+      },
+      {
+        "id": "article-125-",
+        "title": "ARTICLE 125 : Des périmètres de dimensions quelconques à l'intérieur",
+        "type": "article",
+        "level": 2,
+        "order": 143,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-126-",
+        "title": "ARTICLE 126 : Toute personne physique ou morale exécutant des",
+        "type": "article",
+        "level": 2,
+        "order": 145,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-127-",
+        "title": "ARTICLE 127 : Tous travaux miniers nécessitant l'utilisation de",
+        "type": "article",
+        "level": 2,
+        "order": 146,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-128-",
+        "title": "ARTICLE 128 : Les mines et les carrières font partie des",
+        "type": "article",
+        "level": 2,
+        "order": 147,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-7",
+        "title": "TITRE 7 : DU CONTROLE DE L'ADMINISTRATION",
+        "type": "titre",
+        "level": 2,
+        "order": 148,
+        "path": [
+          "titre-7"
+        ],
+        "children": [
+          "article-129-",
+          "article-130-",
+          "article-131-",
+          "article-132-",
+          "article-133-"
+        ]
+      },
+      {
+        "id": "article-129-",
+        "title": "ARTICLE 129 : Les agents de la direction chargée des mines sont",
+        "type": "article",
+        "level": 2,
+        "order": 150,
+        "path": [
+          "titre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-130-",
+        "title": "ARTICLE 130 : Toute ouverture ou fermeture des travaux de recherches",
+        "type": "article",
+        "level": 2,
+        "order": 151,
+        "path": [
+          "titre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-131-",
+        "title": "ARTICLE 131 : Les travaux de recherches et d'exploitation doivent",
+        "type": "article",
+        "level": 2,
+        "order": 152,
+        "path": [
+          "titre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-132-",
+        "title": "ARTICLE 132 : Les documents ou renseignements sur le soussol et les",
+        "type": "article",
+        "level": 2,
+        "order": 153,
+        "path": [
+          "titre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-133-",
+        "title": "ARTICLE 133 : Toute cause de danger identifiée et tout accident",
+        "type": "article",
+        "level": 2,
+        "order": 154,
+        "path": [
+          "titre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-8",
+        "title": "TITRE 8 : DES INFRACTIONS ET DES SANCTIONS",
+        "type": "titre",
+        "level": 2,
+        "order": 155,
+        "path": [
+          "titre-8"
+        ],
+        "children": [
+          "article-134-",
+          "article-135-",
+          "article-136-",
+          "article-137-",
+          "article-138-",
+          "article-139-",
+          "article-140-",
+          "article-141-",
+          "article-142-",
+          "article-143-"
+        ]
+      },
+      {
+        "id": "article-134-",
+        "title": "ARTICLE 134 : La convention minière peut prévoir que tout différend,",
+        "type": "article",
+        "level": 2,
+        "order": 157,
+        "path": [
+          "titre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-135-",
+        "title": "ARTICLE 135 : Les sociétés dont les représentants sont condamnés à",
+        "type": "article",
+        "level": 2,
+        "order": 158,
+        "path": [
+          "titre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-136-",
+        "title": "ARTICLE 136 : Toutes les contestations auxquelles donnent lieu les",
+        "type": "article",
+        "level": 2,
+        "order": 159,
+        "path": [
+          "titre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-137-",
+        "title": "ARTICLE 137 : Dans tous les cas où les contestations entre",
+        "type": "article",
+        "level": 2,
+        "order": 160,
+        "path": [
+          "titre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-138-",
+        "title": "ARTICLE 138 : Les infractions aux prescriptions de la présente loi",
+        "type": "article",
+        "level": 2,
+        "order": 161,
+        "path": [
+          "titre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-139-",
+        "title": "ARTICLE 139 : Les officiers de police judiciaire et les agents",
+        "type": "article",
+        "level": 2,
+        "order": 162,
+        "path": [
+          "titre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-140-",
+        "title": "ARTICLE 140 : Est puni d'un emprisonnement de six (06) mois à trois",
+        "type": "article",
+        "level": 2,
+        "order": 164,
+        "path": [
+          "titre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-141-",
+        "title": "ARTICLE 141 : Est puni d'un emprisonnement de deux (02) mois à deux",
+        "type": "article",
+        "level": 2,
+        "order": 165,
+        "path": [
+          "titre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-142-",
+        "title": "ARTICLE 142 : Toutes les infractions prévues par la présente loi",
+        "type": "article",
+        "level": 2,
+        "order": 166,
+        "path": [
+          "titre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-143-",
+        "title": "ARTICLE 143 : Toutes les contestations relatives à l'établissement",
+        "type": "article",
+        "level": 2,
+        "order": 167,
+        "path": [
+          "titre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-9",
+        "title": "TITRE 9 : DES DISPOSTIONS TRANSITOIRES ET FINALES",
+        "type": "titre",
+        "level": 2,
+        "order": 168,
+        "path": [
+          "titre-9"
+        ],
+        "children": [
+          "article-144-",
+          "article-145-",
+          "article-146-",
+          "article-147-"
+        ]
+      },
+      {
+        "id": "article-144-",
+        "title": "ARTICLE 144 : Les titres miniers en cours de validité à la date",
+        "type": "article",
+        "level": 2,
+        "order": 170,
+        "path": [
+          "titre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-145-",
+        "title": "ARTICLE 145 : Les autorisations personnelles de prospection à la",
+        "type": "article",
+        "level": 2,
+        "order": 171,
+        "path": [
+          "titre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-146-",
+        "title": "ARTICLE 146 : Les modalités et conditions d'application de la",
+        "type": "article",
+        "level": 2,
+        "order": 173,
+        "path": [
+          "titre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-147-",
+        "title": "ARTICLE 147 : La présente loi, qui abroge toutes dispositions",
+        "type": "article",
+        "level": 2,
+        "order": 175,
+        "path": [
+          "titre-9"
+        ],
+        "children": []
+      }
+    ],
+    "totalArticles": 146
+  },
+  "source": "nationale"
+}

@@ -1,0 +1,1 @@
+50'Union est dotée de ressources propres qui assurent le financement régulier de son fonctionnement.

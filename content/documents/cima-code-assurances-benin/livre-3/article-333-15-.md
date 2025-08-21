@@ -1,0 +1,2 @@
+Saisine du Parquet
+La Commission Régionale de Contrôle des Assurances qui, dans l’exercice de ses fonctions acquiert la connaissance d’un crime ou d’un délit peut en informer sans délai le Procureur de la République compétent et transmettre à ce magistrat tous les renseignements, procès-verbaux et actes qui y sont relatifs.

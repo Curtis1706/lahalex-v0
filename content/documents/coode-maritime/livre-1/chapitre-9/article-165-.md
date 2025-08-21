@@ -1,0 +1,2 @@
+Le saisissant doit, dans le délai de trois jours, notifier au propriétaire du navire copie du procès-verbal de saisie et le faire citer devant le tribunal civil du lieu de saisie pour s’entendre dire qu’il sera procédé à la vente des choses saisies.
+En l’absence du propriétaire, signification et citation lui sont données en la personne de son représentant ou du capitaine.

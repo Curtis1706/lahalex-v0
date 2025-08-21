@@ -1,0 +1,5 @@
+Les droits d'usage, sont ceux par lesquels des
+personnes morales et physiques s'approprient à titre temporaire ou
+définitif les produits de la forêt en vue de satisfaire un besoin
+individuel ou collec­tif et ne donnant lieu à aucune transaction
+commerciale.

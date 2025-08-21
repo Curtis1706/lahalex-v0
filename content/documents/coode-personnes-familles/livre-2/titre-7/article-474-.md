@@ -1,0 +1,1 @@
+Le conseil de famille est composé de six (6) membres y compris le subrogé tuteur, mais non le tuteur ni le juge des tutelles qui le préside.

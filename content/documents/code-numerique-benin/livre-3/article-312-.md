@@ -1,0 +1,5 @@
+Certificats qualifiés délivrés par des prestataires étrangers
+Un certificat qualifié délivré au public par un prestataire de services de confiance qui est établi dans un Etat membre de la CEDEAO, a la même valeur et est assimilé aux certificats qualifiés délivrés par un prestataire de services de confiance établi en République du Bénin.
+Les certificats qualifiés délivrés au public par un prestataire de services de confiance établi dans un Etat non membre de la CEDEAO ont la même valeur et sont assimilés aux certificats délivrés par un prestataire de services de confiance établi en République du Bénin si :
+1. le prestataire de services de confiance remplit les conditions du présent code, après vérification par les autorités compétentes ;
+1. le certificat ou le prestataire de services de confiance est reconnu en application d'un accord, traité ou tout autre texte national ou international pertinent conclu entre la République du Bénin et un ou plusieurs pays ou organisations internationales.

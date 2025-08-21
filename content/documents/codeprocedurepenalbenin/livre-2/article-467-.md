@@ -1,0 +1,1 @@
+Les témoins déposent oralement. Ils peuvent exceptionnellement s’aider de documents avec l’autorisation du président.

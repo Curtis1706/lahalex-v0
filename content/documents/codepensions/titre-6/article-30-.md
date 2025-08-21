@@ -1,0 +1,9 @@
+1ᵒ - Dès son entrée dans le corps, 1'Agent Permanent de l'Etat Civil ou Militaire est invité à établir une liste des Ayant, cause susceptibles de bénéficier au jour de son décès, d'une pension définie dans les conditions fixées aux articles ci-après :
+Cette liste qui est incorporée dans le bulletin-de notes de l'Agent Permanent de l'Etat Civil et au dossier individuel du Mili­taire peut faire l'objet de modifications annuelles jusqu'à la cessation de fonction. Elle désigne chaque bénéficiaire à titre personnel et doit obligatoirement être restreinte :
+a - A l'époux et aux épouses légitimes ;
+b - Aux enfants mineurs y compris les enfants adoptifs dont le nombre ne peut dépasser deux.
+2°- L'Agent Permanent de l'Etat Civil ou Militaire devra également désigner ou les tuteurs de ses enfants ainsi que trois administrateurs de ses biens classés par ordre de préférence dans l'éventualité où il viendrait à mourir. Toutefois, à défaut d'une telle désignation, le conjoint survivant est d’office tuteur de ses enfants et l’administrateur des biens des enfants au regard de la pension. En cas de polygamie, chaque femme est administratrice des biens de ses enfants.
+Au cas où aucun tuteur des enfants et aucun administrateur de biens n’aura, été désigné ou que ceux choisis seraient, devenus inhabiles, il reviendra au Conseil de famille de procéder à la désignation
+- Le droit à pension d’ayant-cause est intransmissible.
+- En l’absence de bénéficiaires nommément désignés, ou de toutes preuves aucun droit à pension d<sup>’</sup>ayant-cause ne peut être reconnu.
+- Le total des émoluments attribués aux ayants-cause- ne peut excéder le montant de la pension et éventuellement de la rente d’invalidité attribuées ou qui auraient été attribuées à l'Agent Permanent de l’Etat Civil ou Militaire.

@@ -1,0 +1,2 @@
+Article 40 : Les projets éligibles au régime des investissements spécifiques bénéficient d’une exonération totale des droits et taxes d’entrée, à l’exception de la taxe de voirie, de la taxe de statistique, du timbre douanier, du Prélèvement Communautaire (PC), du Prélèvement Communautaire de Solidarité (PCS) et du Prélèvement de Solidarité (PS) sur l’ensemble des investissements agréés.
+Les entreprises porteuses de ces projets sont sous le régime de droit commun pendant leur phase d’exploitation.

@@ -1,0 +1,2 @@
+Tromperie
+Quiconque utilise les éléments d’identification d’une personne physique ou morale dans le but de tromper les destinataires d’un message électronique ou les usagers d’un site internet en vue de les amener à communiquer des données à caractère personnel ou des informations confidentielles est puni d’un emprisonnement de cinq (5) ans et d’une amende de vingt-cinq millions (25 000 000) de francs CFA.

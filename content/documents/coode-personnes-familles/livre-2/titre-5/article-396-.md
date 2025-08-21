@@ -1,0 +1,3 @@
+Les aliments ne sont accordés que dans la proportion du besoin de celui qui les réclame et de la fortune de celui qui les doit.
+Lorsque que celui qui fournit ou celui qui reçoit des aliments est replacé dans un état tel que l’un ne puisse plus en donner, ou que l’autre n’en ait plus besoin en tout ou partie, la décharge ou la réduction peut en être demandée.
+Lorsque le créancier aura lui-même manqué gravement à ses obligations envers le débiteur, le juge pourra également décharger celui-ci de tout ou partie de la dette alimentaire.

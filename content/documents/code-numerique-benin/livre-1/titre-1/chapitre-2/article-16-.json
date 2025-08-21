@@ -1,0 +1,16 @@
+{
+  "id": "article-16-",
+  "title": "Article 16 : Mesures raisonnables de gestion du trafic",
+  "numero": "16 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-2"
+  ],
+  "navigation": {
+    "parent": "chapitre-2",
+    "previous": "article-15-",
+    "next": "article-17-"
+  }
+}

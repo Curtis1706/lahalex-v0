@@ -1,0 +1,6 @@
+1)  La  contribution  des  patentes  est  due  jusqu’au  31  décembre  de l’année de l’imposition.
+2) En cas de cession de commerce comportant la jouissance des locaux, la vente du
+matériel ou celle des marchandises, la patente sera, sur la demande établie d’un commun accord par le cédant et le cessionnaire, transférée à ce dernier.
+La demande est recevable dans le délai de trois (3) mois à partir de la cession de l’établissement. Elle doit, à peine de non-recevabilité, être accompagnée de la quittance des termes échus ou à échoir à la date de la cession. La mutation de cote est réglée par l’inspecteur d’assiette.
+3) En cas de fermeture des établissements, magasins, boutiques, ateliers par suite de
+décès, de liquidation judiciaire, de faillite déclarée, d’expropriation ou d’expulsion, les droits ne sont dus que pour le passé et le trimestre en cours sur réclamation des intéressés produite dans les quinze (15) jours de la fermeture définitive ; il sera accordé décharge du surplus de la taxe.

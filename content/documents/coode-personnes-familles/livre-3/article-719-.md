@@ -1,0 +1,3 @@
+Le rapport se fait en moins prenant.
+Il ne peut être exigé en nature, sauf stipulation contraire de l’acte de donation. Dans le cas d’une telle stipulation, les aliénations et constitutions de droits réels consentis par le donataire s’éteindront par l’effet du rapport, à moins que le donateur n’y ait consenti.
+Toutefois, l’héritier a la faculté de faire le rapport en nature du bien donné si ce bien lui appartient encore au jour du partage et s’il n’est pas grevé de son chef d’usufruit, d’hypothèque ou d’autres charges réelles.

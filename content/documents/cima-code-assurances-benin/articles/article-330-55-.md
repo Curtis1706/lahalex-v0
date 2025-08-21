@@ -1,0 +1,3 @@
+Article 330-55 : Conseil d’Administration, direction
+1.  L’administration de la société de groupe d’assurance mutuelle est confiée à un Conseil d’Administration composé de membres nommés par l’assemblée générale et dont le nombre, qui ne peut être inférieur à cinq, doit figurer dans les statuts.
+2.  Les dispositions des alinéas 3 à 7 de l’article 330-11 et des articles 330-13, 330-14, 33015 et 330-16 sont applicables aux administrateurs et aux directeurs des sociétés de groupe d’assurance mutuelle.

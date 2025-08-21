@@ -1,0 +1,2 @@
+Tout marin béninois peut, en période d’hostilité, être requis à son poste à bord d’un navire béninois.
+Le pouvoir de réquisition appartient au ministre chargé de la marine marchande qui peut en faire usage dès la mise en vigueur de l’état d’urgence et qui peut requérir tout marin régulièrement immatriculé même non embarqué s’il le juge nécessaire.

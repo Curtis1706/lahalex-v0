@@ -1,0 +1,2 @@
+Après que tous les prélèvements ont été exécutés sur la masse, le surplus se partage par moitié entre les époux ou leurs ayants droit.
+Les dispositions des règles sur les successions relatives aux modalités de partage et aux droits des créanciers après le partage, sont applicables par analogie au partage des biens communs.

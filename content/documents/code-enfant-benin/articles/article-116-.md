@@ -1,0 +1,2 @@
+Article 116 : Obligation de terminer les cours moyens
+Aucun enfant, à l’exception de l’enfant présentant une déficience intellectuelle ou autre, ne peut abandonner l’école s’il n’a obtenu le Certificat d’Etudes Primaires (CEP) ou s’il n’a atteint le niveau du Cours Moyen deuxième année (CM2).

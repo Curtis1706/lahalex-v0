@@ -1,0 +1,1 @@
+Les navires-hôpitaux ayant droit à la protection de la Convention de Genève Protection pour l’amélioration du sort des blessés, des malades et des naufragés des des navires- forces armées sur mer du 12 août 1949, ne devront pas être attaqués de la terre. hôpitaux

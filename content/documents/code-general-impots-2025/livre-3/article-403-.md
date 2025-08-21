@@ -1,0 +1,1 @@
+Le timbre de tous actes entre l’État béninois et les citoyens est à la charge de ces derniers.

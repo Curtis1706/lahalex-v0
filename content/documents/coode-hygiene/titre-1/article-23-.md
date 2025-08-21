@@ -1,0 +1,2 @@
+L'ouverture d'une piscine, d'une baignade artificielle ou l'aménagement d'une baignade, à usage collectif est subordonnée à l'obtention d'une autorisation délivrée par le maire de la commune d'implantation après avis du ministre chargé de la santé.
+Les conditions de délivrance et de retrait d'une telle autorisation sont fixées par voie réglementaire.

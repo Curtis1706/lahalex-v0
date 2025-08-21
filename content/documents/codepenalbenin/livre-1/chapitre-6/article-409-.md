@@ -1,0 +1,1 @@
+L’outrage mentionné à l’article précédent, lorsqu’il a été dirigé contre un commandant de la force publique, est puni d’un emprisonnement de un (01) mois à six (06) mois et d’une amende de cinquante mille (50.000) à deux cent cinquante mille (250.000) francs CFA ou de l’une de ces deux peines seulement.

@@ -1,0 +1,2 @@
+Inaliénabilité Les prisonniers de guerre ne pourront en aucun cas renoncer partiellement des droits ou totalement aux droits que leur assure la présente Convention et, le cas
+échéant, les accords spéciaux visés à l’article précédent.

@@ -1,0 +1,3 @@
+La gestion commerciale du navire appartient à l’affréteur.
+Celui-ci fournit le combustible en quantité et en qualité convenables et l’eau douce ; il supporte le coût des heures supplémentaires de travail exécuté sur sa demande par l’équipage, ainsi que les droits de port, de pilotage, de remorquage et d’autres frais inhérents à l’exploitation du navire.
+Le fréteur pourvoit à l’armement et à l’entretien du navire, fournit les approvisionnements, recrute, nourrit et paye l’équipage.

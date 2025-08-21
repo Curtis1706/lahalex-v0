@@ -1,0 +1,2 @@
+Le juge d’instruction procède aux informations ainsi qu’il est dit au chapitre 1<sup>er</sup> du titre III du présent livre.
+Il a, dans l’exercice de ses fonctions, le droit de requérir directement la force publique.

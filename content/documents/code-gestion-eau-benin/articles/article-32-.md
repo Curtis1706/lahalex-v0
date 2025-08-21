@@ -1,0 +1,1 @@
+Article 32 : Un décret pris en conseil des ministres fixe les missions, l’organisation et le fonctionnement du fonds national de l’eau.

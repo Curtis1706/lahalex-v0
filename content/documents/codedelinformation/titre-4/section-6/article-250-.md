@@ -1,0 +1,1 @@
+Les installations terriennes de télédiffusion sont soumises au contrôle permanent de la Haute Autorité de l’Audiovisuel et de la Communication.

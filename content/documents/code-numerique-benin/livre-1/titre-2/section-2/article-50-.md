@@ -1,0 +1,2 @@
+Règles applicables aux activités soumises au régime de la licence
+Les règles applicables et les exigences essentielles relatives aux activités soumises au régime de la licence sont précisées par décret pris en Conseil des Ministres sur proposition du Ministre chargé des communications électroniques.

@@ -1,0 +1,5 @@
+Contribution au titre de la recherche
+La contribution des opérateurs titulaires de licence et d’autorisation au titre de la recherche est fixée à un pourcentage du chiffre d’affaires précité.
+Ce pourcentage est fixé par décret pris en Conseil des Ministres sur proposition du Ministre chargé des communications électroniques et du Ministre chargé des finances.
+Le montant de la contribution est payé sur un compte d’affectation spécial pour la recherche, créé conformément à la législation en vigueur.
+Sont libérés de cette contribution les opérateurs qui réalisent, pour un montant équivalent, des programmes de recherche dans le cadre de conventions approuvées par le Ministre chargé des communications électroniques à passer avec des organismes de recherche dont la liste sera fixée par arrêté du Ministre chargé des communications électroniques.

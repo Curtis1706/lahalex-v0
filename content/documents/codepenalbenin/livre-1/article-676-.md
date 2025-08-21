@@ -1,0 +1,2 @@
+Est punie de la réclusion criminelle à temps de cinq (05) ans à dix
+(10) ans et d’une amende de cinq millions (5.000.000) de francs CFA à cinq cent millions (500.000.000) de francs CFA l’entrave grave et sans droit au fonctionnement d’un système informatique par l’introduction, la transmission, la modification, l’effacement, la détérioration ou la suppression des données informatiques.

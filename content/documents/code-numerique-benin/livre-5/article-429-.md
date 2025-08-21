@@ -1,0 +1,10 @@
+Consultation préalable
+Le responsable du traitement consulte l'Autorité préalablement au traitement lorsqu'une analyse d'impact relative à la protection des données effectuée au titre de l'article précédent indique que le traitement présenterait un risque élevé si le responsable du traitement ne prenait pas de mesures pour atténuer le risque.
+Lorsque l'Autorité est d'avis que le traitement envisagé visé à l’alinéa 1, constituerait une violation des dispositions du présent Livre, en particulier lorsque le responsable du traitement n'a pas suffisamment identifié ou atténué le risque, l'Autorité fournit par écrit, dans un délai maximum de huit (08) semaines à compter de la réception de la demande de consultation, un avis écrit au responsable du traitement et, le cas échéant, au sous-traitant, et peut faire usage de ses pouvoirs. Ce délai peut être prolongé de six (06) semaines, en fonction de la complexité du traitement envisagé. L'Autorité informe le responsable du traitement et, le cas échéant, le sous-traitant de la prolongation du délai ainsi que des motifs du retard, dans un délai de trente (30) jours à compter de la réception de la demande de consultation. Ces délais peuvent être suspendus jusqu'à ce que l'Autorité ait obtenu les informations qu'elle a demandées pour les besoins de la consultation.
+Lorsque le responsable du traitement consulte l'Autorité en application de l’alinéa 1, il lui communique :
+1. le cas échéant, les responsabilités respectives du responsable du traitement, des responsables conjoints et des sous-traitants participant au traitement, en particulier pour le traitement au sein d'un groupe d'entreprises ;
+1. les finalités et les moyens du traitement envisagé ;
+1. les mesures et les garanties prévues afin de protéger les droits et libertés des personnes concernées en vertu des dispositions du présent Livre ;
+1. le cas échéant, les coordonnées du délégué à la protection des données ;
+1. l'analyse d'impact relative à la protection des données prévue à l'article précédent ; et
+1. toute autre information que l'Autorité demande.

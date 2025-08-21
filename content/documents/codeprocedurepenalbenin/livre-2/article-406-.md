@@ -1,0 +1,1 @@
+S’il n’y a pas eu d’information judiciaire, tout procès-verbal constatant une contravention non connexe à un crime ou à un délit est, avant citation devant le tribunal, soumis au président pour arbitrage de l’amende.

@@ -1,0 +1,2 @@
+Autres 	obligations applicables 	aux opérateurs soumis à une mesure de séparation fonctionnelle
+Un opérateur auquel a été imposée la séparation fonctionnelle peut être soumis à toute autre obligation visée dans le présent Chapitre sur tout marché particulier où il a été désigné comme dominant conformément à l’article 144 du présent code ou à toute autre obligation résultant du droit de la CEDEAO et de l’UEMOA directement applicable.

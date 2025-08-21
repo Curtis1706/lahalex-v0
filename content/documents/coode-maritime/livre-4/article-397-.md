@@ -1,0 +1,2 @@
+Le contrat de transport sous charte-partie est réalisé au moyen de l’affrètement ou du sous-affrètement d’un navire ou d’une partie de navire.
+Le chargeur et le transporteur sont libres de fixer par leurs conventions, l’étendue de leurs obligations respectives et de leur responsabilité contractuelle.

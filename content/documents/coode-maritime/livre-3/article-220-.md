@@ -1,0 +1,4 @@
+L’engagement maritime est libre. L’armateur ou le capitaine conserve en toute circonstance le libre choix de son équipage. Aucune opération de placement ne peut donner lieu à une rémunération quelconque de la part du marin.
+Le capitaine est désigné par le propriétaire du navire ou, en cas d’affrètement, par l’armateur selon le contrat conclu entre le propriétaire et l’affréteur sous réserve du contrôle par le directeur de la marine marchande de la justification des brevets et diplômes prévus pour le tonnage du navire et la navigation envisagée.
+Le subrécargue est librement choisi par l’armateur ou l’affréteur.
+Toute infraction à ces règles est passible de sanctions pénales prévues à cet effet par le droit commun.

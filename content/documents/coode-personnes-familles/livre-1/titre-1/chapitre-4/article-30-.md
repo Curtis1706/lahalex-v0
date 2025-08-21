@@ -1,0 +1,1 @@
+Les jugements déclaratifs du décès de l’absent et du disparu ont la même valeur probante que les actes de décès.

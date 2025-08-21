@@ -1,0 +1,3 @@
+Le procureur de la République doit être immédiatement informé de toute mesure de garde à vue.
+De même, l’officier de police judiciaire informe la personne gardée à vue de la décision et des motifs qui la soutiennent.
+Si au bout du délai de quarante-huit (48) heures, l’officier de police judiciaire demande au procureur de la République, l’autorisation de prolonger la garde à vue, il devra également informer le gardé à vue du motif de la prolongation de la mesure.

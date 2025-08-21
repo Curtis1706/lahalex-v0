@@ -1,0 +1,1 @@
+Les décisions du tribunal sont notifiées dans les plus brefs délais au mineur, aux père et mère, tuteur ou gardien et partie civile, dans le cas où ils seraient défaillants à l’audience.

@@ -1,0 +1,4 @@
+Ceux qui ont abandonné à un hospice un enfant en dessous de l’âge de sept ans accomplis, qui leur aurait été confié afin qu’ils en prennent soin ou pour toute autre cause, sont punis d’un emprisonnement de un (01) mois à six (06) mois et d’une amende de cinquante mille (50.000) francs CFA à deux cent cinquante mille (250.000) francs CFA.
+Toutefois, aucune peine ne sera prononcée, s’ils n’étaient pas tenus ou ne s’étaient pas obligés de pourvoir gratuitement à la nourriture et à l’entretien de l’enfant et même si personne n’y avait pourvu.
+Encourt les mêmes peines, le parent ou le tuteur qui, ayant été informé de la présence d’un enfant dont il a la charge dans un hospice ou tout autre centre d’accueil, se refuse de le récupérer.
+Cette peine sera portée au double si l’enfant abandonné est un handicapé.

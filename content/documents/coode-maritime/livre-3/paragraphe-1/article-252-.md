@@ -1,0 +1,2 @@
+Quand le contrat est conclu pour la durée d’un voyage, ou si le marin est rémunéré au profit ou au fret, la rupture du voyage par le fait de l’armateur ou de son représentant donne lieu au versement d’une indemnité au profit du marin.
+L’autorité maritime fixe, en tant que de besoin, le montant de cette indemnité.

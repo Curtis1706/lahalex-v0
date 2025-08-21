@@ -1,0 +1,6 @@
+Il est institué au sein de l'organisme national en charge de l'aviation civile, un corps des inspecteurs de l'aviation civile qui a pour missions de remplir les obligations de l'Etat en matière de supervision de la sécurité et de la sûreté de l'aviation civile.
+Les inspecteurs de l'aviation civile nommés doivent, avant d'entrer en fonction, prêter serment devant le tribunal territorialement compétent.
+La formule du serment est la suivante : _«je jure d'exécuter mes fonctions avec probité dans le strict respect des lois et règlements »._
+Il est établi au profit des inspecteurs de l’aviation civile, un document officiel d'identité.
+Les inspecteurs de l’aviation civile sont protégés contre les menaces et attaques de quelque nature que ce soit dont ils peuvent faire l’objet dans l’exercice ou à l'occasion de l'exercice de leur fonction.
+Un décret pris en Conseil des ministres détermine les critères de nomination, la rémunération et les modalités d'exercice des pouvoirs des inspecteurs de l'aviation civile.

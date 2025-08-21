@@ -1,0 +1,2 @@
+Rupture volontaire ou détériorations de câbles sous-marins
+Quiconque, dans les eaux territoriales ou sur le plateau continental contigu au territoire de la République du Bénin, rompt volontairement un câble sous-marin, lui cause ou tente de lui causer des détériorations de nature à interrompre tout ou partie des communications électroniques, est puni d’un emprisonnement de cinq (05) ans à dix (10) ans et d’une amende de cent millions (100 000 000) à cinq cent millions (500 000 000) de francs CFA sans préjudice des dommages et intérêts.

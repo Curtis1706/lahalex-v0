@@ -1,0 +1,3 @@
+Hors le cas prévu à l’article 215 du présent code, les dispositions des arrêts sont, dans les trois (03) jours, portées à la connaissance des avocats des inculpés et des parties civiles.
+Dans les mêmes délais, les dispositifs des arrêts de non-lieu sont portés à la connaissance des inculpés, les dispositifs des arrêts de renvoi devant le tribunal de première instance sont portés à la connaissance des avocats des inculpés et des parties civiles.
+Les arrêts contre lesquels les inculpés ou des parties civiles peuvent former un pourvoi en cassation sont, à la diligence du procureur général, notifiés aux inculpés détenus, signifiés aux inculpés non détenus et aux parties civiles.

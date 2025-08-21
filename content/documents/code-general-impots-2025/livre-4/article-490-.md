@@ -1,0 +1,2 @@
+Pour les marchands forains, le défaut de justification du paiement de la taxe professionnelle synthétique entraîne la saisie des marchandises ou l’immobilisation du véhicule. La restitution des objets saisis est subordonnée au règlement de la taxe.
+SANCTIONS RELATIVES AUX RETENUES A LA SOURCE

@@ -1,0 +1,1 @@
+L'officier de l’état civil célèbre le mariage selon les formes prévues par les articles 135 et 141 et dresse immédiatement l’acte de mariage.

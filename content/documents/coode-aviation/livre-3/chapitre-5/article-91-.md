@@ -1,0 +1,4 @@
+En cas de disparition sans nouvelle d'un aéronef, l'appareil est réputé perdu trois mois après la date d'envoi des dernières nouvelles.
+Le décès des personnes se trouvant à bord de l'aéronef peut, après expiration de ce délai, être constaté par jugement conformément à la législation en vigueur en République du Bénin.
+Le ministre chargé de l'aviation civile déclare, le cas échéant, la présomption de disparition et adresse à la juridiction compétente les requêtes nécessaires pour la constatation judiciaire des décès des personnes disparues.
+Les ayants droit des victimes peuvent également agir, conformément à la législation nationale en vigueur, à l'effet d'obtenir la déclaration judiciaire d'un décès. La requête est, dans ce cas, communiquée par le ministère public au ministre chargé de l’aviation civile.

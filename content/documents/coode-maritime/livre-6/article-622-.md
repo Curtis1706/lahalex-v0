@@ -1,0 +1,2 @@
+Tout capitaine qui, à moins de motifs légitimes d’empêchement, s’est abstenu à son arrivée dans un port étranger ou sur une rade étrangère de se rendre à bord du navire de guerre de la République du Bénin présent dans ce port ou sur cette rade, alors qu’il y a été convoqué pour raison de service, est puni d’une amende de cinq cent mille (500.000) à deux millions (2.000.000) de francs.
+La même peine est infligée lorsque le salut à un navire de guerre de la République du Bénin n’a pas été effectué.

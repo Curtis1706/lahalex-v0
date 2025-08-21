@@ -1,0 +1,12 @@
+Est coupable de crime contre l’humanité, celui qui commet, dans le cadre d’une attaque généralisée ou systématique lancée contre toute population civile et en connaissance de cause de cette attaque, l’un quelconque des actes ci-après :
+- meurtre ;
+- extermination ;
+- réduction en esclavage ;
+- déportation ou transfert forcé de population ;
+- emprisonnement ou autre forme de privation grave de liberté physique en violation des dispositions fondamentales du droit international ;
+- torture ;
+- viol, esclavage sexuel, prostitution forcée, grossesse forcée, stérilisation forcée ou toute autre forme de violence sexuelle de gravité comparable ;
+- persécution de tout groupe ou de toute collectivité identifiable pour des motifs d’ordre politique, racial, national, ethnique, culturel, religieux ou sexiste au sens du paragraphe 3, ou en fonction d’autres critères universellement reconnus comme inadmissibles en droit international, en corrélation avec tout acte visé dans le présent paragraphe ou tout crime relevant de la compétence de la Cour ;
+- disparitions forcées de personnes ;
+- crime d’apartheid ;
+- autres actes inhumains de caractère analogue causant intentionnellement de grandes souffrances ou des atteintes graves à l’intégrité physique ou à la santé physique ou mentale.

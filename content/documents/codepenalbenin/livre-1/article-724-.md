@@ -1,0 +1,2 @@
+Dans le cas prévu aux articles 710 à 712 du présent code le tribunal pourra prononcer la confiscation de tout ou partie des recettes résultant de l’infraction, ainsi que la confiscation et la destruction de tous les exemplaires contrefaits ou reproduits illicitement et du matériel installé ayant servi ou devant servi à la réalisation du délit.
+Il peut également ordonner l’affichage du jugement prononçant la condamnation ainsi que sa publication intégrale ou par extraits dans les journaux aux frais du condamné.

@@ -1,0 +1,2 @@
+L'organe délibérant compétent, après avoir arrêté les comptes de l'exercice, affecte les résultats cumulés de la commune ou de l’établissement public de coopération intercommunale.
+L’arrêté des comptes est constitué par le vote de l’organe délibérant compétent de la commune ou de l’établissement public de coopération intercommunale sur le compte administratif.

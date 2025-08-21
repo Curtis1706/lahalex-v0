@@ -1,0 +1,1 @@
+Les enfants, recueillis par un particulier ou une œuvre privée, dont les parents se sont manifestement désintéressés depuis plus d’un an, peuvent être déclarés abandonnés par le tribunal de première instance à moins qu’un parent n’ait demandé dans les mêmes délais à en assurer la charge et que le tribunal n’ait jugé cette demande conforme à l'intérêt de l'enfant.

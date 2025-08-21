@@ -1,0 +1,1 @@
+Chaque commune dispose d'au moins un cimetière conforme aux normes en vigueur.

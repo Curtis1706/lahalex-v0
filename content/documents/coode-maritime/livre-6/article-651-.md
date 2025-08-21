@@ -1,0 +1,1 @@
+Quiconque, en violation des dispositions de l’article 182 du présent code a jeté des immondices dans les eaux des ports, sur les quais et terre-pleins des ports, est puni d’une peine d’amende de un million (1.000.000) à dix millions (10.000.000) de francs.

@@ -1,0 +1,3 @@
+Article 389 : Quiconque reçoit ou met en gage un enfant est puni de deux (02) ans à cinq (05) ans d’emprisonnement et d’une amende de deux cent cinquante mille (250 000) à un million (1 000 000) de francs CFA.
+CHAPITRE VII : DE LA VENTE ET DE LA TRAITE DES ENFANTS, DE L’EXPERIMENTATION SUR LA PERSONNE DE L’ENFANT ET DE LA VENTE D’ORGANES DES ENFANTS
+SECTION I : DES PEINES CONTRE LA VENTE DES ENFANTS

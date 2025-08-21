@@ -1,0 +1,1 @@
+Les excursions, les sorties pédagogiques et les voyages organisés par les établissements scolaires, les administrations publiques, ainsi que les déplacements rendus nécessaires pour des raisons académiques ne sont pas soumis aux dispositions du présent paragraphe.

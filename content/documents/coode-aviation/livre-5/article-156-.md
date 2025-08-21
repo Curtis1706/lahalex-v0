@@ -1,0 +1,3 @@
+Les aérodromes destinés à la circulation aérienne publique peuvent être créés par l'Etat et les personnes physiques ou morales de droit privé répondant aux conditions fixées par décret pris en Conseil des ministres.
+Les travaux de création et d'extension d'infrastructures aéroportuaires donnent lieu à la réalisation préalable d'une étude d'impact environnemental.
+La création d'un aérodrome par une personne physique donne lieu à la signature d'une convention avec le ministre chargé de l'aviation civile. L’accord du ministre chargé des finances est requis chaque fois qu'une telle convention implique des obligations financières à la charge de l'Etat.

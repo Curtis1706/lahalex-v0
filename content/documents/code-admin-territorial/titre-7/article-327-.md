@@ -1,0 +1,1 @@
+Le secrétaire permanent est institutionnellement placé sous le président du conseil de communauté, sans aucun préjudice à ses attributions propres.

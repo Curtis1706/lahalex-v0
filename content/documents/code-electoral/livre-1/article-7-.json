@@ -1,0 +1,14 @@
+{
+  "id": "article-7-",
+  "title": "Article 7 : Les élections couplées, législatives et communales, sont organisées le deuxième dimanche du mois de janvier de l'année électorale.",
+  "numero": "7 ",
+  "document": "code-electoral",
+  "path": [
+    "livre-1"
+  ],
+  "navigation": {
+    "parent": "livre-1",
+    "previous": "article-6-",
+    "next": "article-8-"
+  }
+}

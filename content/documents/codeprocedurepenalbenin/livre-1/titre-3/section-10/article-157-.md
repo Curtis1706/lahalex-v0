@@ -1,0 +1,3 @@
+Lorsqu’il y a une partie civile dans la cause, l’ordonnance du juge des libertés et de la détention, ne peut intervenir que quarante-huit heures (48) après l’avis donné par le juge d’instruction à cette partie.
+Faute par le juge des libertés et de la détention d’avoir statué dans les délais prévus à l’article 154 du présent code, l’inculpé peut saisir directement la chambre des libertés et de la détention qui, sur les réquisitions écrites et motivées du procureur général se prononce sur cette demande.
+En cas de rejet de la demande par le juge des libertés et de la détention, aucune autre demande ne peut être formulée dans le délai d’un (01) mois à compter de la précédente, sauf survenance de faits nouveaux.

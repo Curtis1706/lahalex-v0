@@ -1,0 +1,1 @@
+Nul ne peut porter atteinte au bon état des ports, havres et rades tant dans leur profondeur et netteté que dans leurs installations.

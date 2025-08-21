@@ -1,0 +1,1 @@
+Le président veille à la bonne gestion des affaires de l'établissement public de coopération intercommunale, sans préjudice des attributions propres du secrétaire permanent.

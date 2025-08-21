@@ -1,0 +1,1 @@
+En cas d’empêchement, les assesseurs désignés sont remplacés par ordonnance du président de la cour d’appel.

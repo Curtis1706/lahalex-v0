@@ -1,0 +1,1 @@
+Les  bénéfices  réalisés  par  les  personnes  physiques  qui  accomplissent habituellement, pour leur propre compte, une activité à caractère lucratif, sont soumis à un impôt annuel désigné sous le nom d’impôt sur les bénéfices d’affaires.

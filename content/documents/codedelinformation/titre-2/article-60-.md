@@ -1,0 +1,2 @@
+Toute personne a droit au respect du principe de la présomption d’innocence.
+Lorsqu’une personne est, avant toute condamnation judiciaire passée en force de chose jugée, présentée publiquement comme étant coupable des faits dont la juridiction pénale est saisie, elle peut solliciter, par voie de procédure d’urgence, toutes mesures susceptibles de conserver ses droits ou de faire cesser l’atteinte à la présomption d’innocence.

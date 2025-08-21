@@ -1,0 +1,1 @@
+Le notaire qui reçoit un acte d’obligation est tenu de donner lecture aux parties  des  dispositions  des  articles  71  paragraphe  1,  85  et  485  du  présent  code.  Il mentionne cette lecture dans l’acte.

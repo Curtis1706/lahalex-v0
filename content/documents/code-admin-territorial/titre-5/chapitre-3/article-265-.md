@@ -1,0 +1,1 @@
+Les indemnités, frais et dommages-intérêts sont payés par la commune au moyen d'une contribution ordinaire ou à titre exceptionnel, perçue conformément à la loi. Si le montant des indemnités, frais et dommages mis à la charge de la commune excède ses possibilités financières, le paiement en est effectué au moyen d'une subvention de l'Etat.

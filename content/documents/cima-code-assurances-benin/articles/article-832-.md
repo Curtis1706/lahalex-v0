@@ -1,0 +1,2 @@
+Article 832 : _(Règlement 2015-02)_ Frais de poursuite, charge
+Les frais de la poursuite intentée par un créancier seront supportés, s’il y a condamnation, par le Trésor Public, sauf recours contre le débiteur dans les conditions prévues à l’article 831, s’il y a relaxe, par le créancier poursuivant.

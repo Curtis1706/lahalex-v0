@@ -1,0 +1,1 @@
+L’avertissement est un rappel à l’ordre écrit, adressé au chef de village ou de quartier de ville, par le chef d’arrondissement après avis du conseil d'arrondissement; lorsqu’il est constaté un manquement aux obligations de sa fonction.

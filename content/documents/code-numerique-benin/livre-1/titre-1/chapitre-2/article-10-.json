@@ -1,0 +1,16 @@
+{
+  "id": "article-10-",
+  "title": "Article 10 : Respect des conventions et accords régionaux et internationaux",
+  "numero": "10 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-2"
+  ],
+  "navigation": {
+    "parent": "chapitre-2",
+    "previous": "article-9-",
+    "next": "article-11-"
+  }
+}

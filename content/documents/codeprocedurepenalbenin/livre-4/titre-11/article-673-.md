@@ -1,0 +1,1 @@
+Chaque affaire sera jugée séparément. Seuls sont admis à assister aux débats, les témoins, les parents, le tuteur ou représentant légal, les membres du barreau, les personnes s’occupant des enfants en conflit avec la loi, les délégués des centres pour mineurs et les assistants sociaux.

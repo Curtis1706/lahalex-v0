@@ -1,0 +1,16 @@
+{
+  "id": "article-44-",
+  "title": "Article 44 : Modifications affectant les activités de communications électroniques",
+  "numero": "44 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "section-1"
+  ],
+  "navigation": {
+    "parent": "section-1",
+    "previous": "article-43-",
+    "next": "article-45-"
+  }
+}

@@ -1,0 +1,1 @@
+Le greffier met en forme le jugement ou l’arrêt. Les textes de lois appliqués y sont indiqués.

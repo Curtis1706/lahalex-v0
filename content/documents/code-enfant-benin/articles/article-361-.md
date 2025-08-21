@@ -1,0 +1,1 @@
+Article 361 : Quiconque viole les dispositions de l’article 225 de la présente loi est puni de trois (03) mois à un (01) an d’emprisonnement ou d’une amende de cinquante mille (50 000) à cent cinquante mille (150 000) francs CFA.

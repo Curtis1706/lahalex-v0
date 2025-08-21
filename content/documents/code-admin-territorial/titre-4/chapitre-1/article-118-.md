@@ -1,0 +1,2 @@
+En matière administrative, le maire ou l’adjoint au maire qui commet une faute lourde peut être révoqué de ses fonctions.
+La faute lourde est constatée par l'autorité de tutelle qui, après avis du conseil départemental de concertation et de coordination, en dresse rapport au ministre chargé de l’administration territoriale. Celui-ci peut prononcer la suspension du maire ou de l’adjoint au maire et proposer le cas échéant sa révocation par le Conseil des ministres.

@@ -1,0 +1,1 @@
+Les dispositions qui précèdent sont applicables aux greffiers et officiers ministériels lorsque le fait a été commis à l’occasion des recettes dont ils sont chargés par la loi.

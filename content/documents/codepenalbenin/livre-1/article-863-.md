@@ -1,0 +1,1 @@
+Quiconque construit un ouvrage ou une installation, réalise des travaux ou exerce une activité sans respecter les prescriptions imposées par l’acte d’autorisation, est puni d’une amende de cinquante mille (50.000) à deux cent mille (200.000) francs CFA, sans préjudice de la suspension du fonctionnement de l’installation ou de l’ouvrage.

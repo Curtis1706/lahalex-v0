@@ -1,0 +1,1 @@
+Le contrat de pilotage est l’opération que le capitaine conclut, pour le compte de l’armateur, avec le pilote, en vue d'accoster un navire dès qu’il entre dans la zone de pilotage obligatoire définie par les règlements de la capitainerie du port.

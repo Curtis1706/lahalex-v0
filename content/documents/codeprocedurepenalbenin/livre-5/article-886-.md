@@ -1,0 +1,1 @@
+Le Trésor public fait l’avance des frais de justice, pour les actes et procédures qui sont ordonnés d’office à la requête du ministère public, à charge pour l’agent judiciaire du Trésor, à poursuivre le recouvrement de ceux desdits frais qui ne sont point à la charge du budget général de l’Etat ; le tout, dans la forme et selon des règles établies par décret.

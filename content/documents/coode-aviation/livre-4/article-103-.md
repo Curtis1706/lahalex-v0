@@ -1,0 +1,1 @@
+L'organisation et le fonctionnement du Bureau enquêtes-accidents sont définis par ses statuts approuvés par décret pris en Conseil des ministres.

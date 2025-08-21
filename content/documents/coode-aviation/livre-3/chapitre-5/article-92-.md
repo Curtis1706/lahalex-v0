@@ -1,0 +1,3 @@
+Toute personne qui découvre une épave d'aéronef est tenue d'en faire la déclaration à l'autorité administrative ou locale la plus proche dans les quarante-huit heures de la découverte.
+Toutefois, les règles relatives aux épaves maritimes s'appliquent aux épaves d'aéronefs trouvés en mer ou sur le littoral maritime.
+Les dispositions du code maritime sur l’assistance et le sauvetage maritime en République du Bénin sont applicables aux aéronefs en péril en mer et aux pilotes des aéronefs qui peuvent prêter assistance aux personnes en péril.

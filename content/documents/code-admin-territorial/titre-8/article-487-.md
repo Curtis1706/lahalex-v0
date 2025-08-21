@@ -1,0 +1,3 @@
+Les opérations de trésorerie sont exécutées par le comptable de la commune ou de l'établissement public de coopération intercommunale, soit spontanément, soit sur ordre de l'ordonnateur ou à la demande des tiers qualifiés. Elles sont décrites par nature pour leur totalité et sans contraction entre elles.
+REGIES DE RECETTES ET REGIES D'AVANCES DES COMMUNES ET
+ETABLISSEMENTS PUBLICS DE COOPERATION INTERCOMMUNALE

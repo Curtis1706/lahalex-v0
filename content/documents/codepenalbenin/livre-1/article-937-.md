@@ -1,0 +1,2 @@
+En cas de récidive dans le délai de (01) an, les peines sont doublées et peuvent comporter l’interdiction définitive d’exercer toute activité professionnelle en matière de transaction des produits.
+Est réputé en état de récidive quiconque se rendra coupable d’une infraction du même genre que la première, même si celle-ci a été suivie d’une simple transaction.

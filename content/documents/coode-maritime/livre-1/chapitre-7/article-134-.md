@@ -1,0 +1,2 @@
+La publication réglementaire conserve l’hypothèque pendant dix (10) ans à compter du jour de sa date d’enregistrement. L’effet de la publication cesse si elle n’a pas été renouvelée avant l’expiration de ce délai.
+La publication garantit, au même rang que le capital, deux (02) années d’intérêts en sus de l’année courante.

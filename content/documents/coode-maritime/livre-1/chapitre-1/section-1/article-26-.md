@@ -1,0 +1,1 @@
+L’Etat reconnaît et garantit l’exercice de tous les droits et libertés conférés aux autres Etats sur le plateau continental par les dispositions pertinentes des accords et conventions auxquels il est partie.

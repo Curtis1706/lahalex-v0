@@ -1,0 +1,2 @@
+La République du Bénin a la souveraineté complète et exclusive sur l'espace aérien au-dessus de son territoire et exerce sur celui-ci sa juridiction conformément à sa législation ainsi qu'aux conventions et accords internationaux auxquels elle est partie.
+Tout aéronef qui se trouve sur le territoire de l'Etat béninois ainsi que les personnes et choses à bord, sont soumis à la législation et à la réglementation béninoise, sous réserve des dispositions contraires de la présente loi.

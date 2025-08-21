@@ -1,0 +1,2 @@
+Quiconque a commis ou tenté de commettre un attentat à la pudeur, consommé ou tenté avec violence contre des individus de l’un ou de l’autre sexe, est puni de (02) ans à cinq (05) ans d’emprisonnement et d’une amende de cent mille (100.000) francs CFA à cinq cent mille (500.000) francs CFA.
+Si l’attentat à la pudeur est tenté ou consommé sur la personne d’un enfant de moins de treize (13) ans, la peine est portée au double.

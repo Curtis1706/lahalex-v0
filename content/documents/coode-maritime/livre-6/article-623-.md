@@ -1,0 +1,1 @@
+Tout capitaine ou armateur qui ne s’est pas conformé aux règlements prévus à l’article 83 du présent code concernant le pavillon et le signalement extérieur des navires est puni d’une amende de cinq cent mille (500.000) à deux millions (2.000.000) de francs.

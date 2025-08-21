@@ -1,0 +1,3 @@
+Droit d’établissement
+1. Les Etats membres garantissent la libre circulation des travailleurs, ressortissants des autres États membres, sur leur territoire, conformément aux dispositions du Protocole relatif à la libre circulation et au droit d'établissement des ressortissants des Etats membres de la CEEAC joint au présent Traité en tant qu'annexe.
+1. Afin de garantir la mobilité de la main d’œuvre, les États membres s’engagent à coopérer pour l’harmonisation et la reconnaissance mutuelle des qualifications académiques et professionnelles, ainsi que l’harmonisation des politiques, lois et programmes du travail.

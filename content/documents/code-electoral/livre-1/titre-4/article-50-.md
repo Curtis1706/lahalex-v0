@@ -1,0 +1,2 @@
+Les réunions électorales sont libres. Elles ne peuvent être tenues sur les voies publiques. Elles sont interdites entre vingt-trois (23) heures et sept (07) heures.
+Nul n'a le droit d'empêcher de faire campagne ou d'intimider de quelque manière que ce soit, un candidat ou un groupe de candidats faisant campagne dans le respect des dispositions du présent code, sur le territoire de sa circonscription électorale.

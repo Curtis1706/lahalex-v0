@@ -1,0 +1,2 @@
+Toute transformation de l'établissement public de coopération intercommunale fait l'objet d'une délibération concordante du conseil de communauté et des communes souhaitant intégrer l'établissement.
+La décision de transformation de l’établissement public de coopération intercommunale est approuvée par décret pris en Conseil des ministres.

@@ -1,0 +1,6 @@
+Qualification et expérience professionnelle
+Lors de l’examen du dossier d’agrément, la Commission Régionale de Contrôle des Assurances prend en considération la qualification et l’expérience professionnelle des personnes mentionnées au 1) f) de l’article 328-4. Celles-ci doivent produire un état descriptif de leurs activités. Elles indiquent notamment:
+1° la nature de leurs activités professionnelles actuelles et de celles qu’elles ont exercées les dix années précédant la demande d’agrément ;
+2° si elles ont fait l’objet, soit de sanctions disciplinaires prises par une autorité de contrôle ou une organisation professionnelle compétente, soit d’un refus d’inscription sur une liste professionnelle ;
+3° si elles ont fait l’objet d’un licenciement ou d’une mesure équivalente pour faute ;
+4° si elles ont exercé des fonctions d’administrateur ou de direction dans des entreprises ayant fait l’objet de mesures de redressement ou de liquidation judiciaire, de mesures concernant la faillite personnelle et les banqueroutes, ou de mesures équivalentes à l’étranger.

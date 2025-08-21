@@ -1,0 +1,1 @@
+En cas d'inexécution par les autorités communales des mesures prescrites par les lois et règlements, le préfet, après mise en demeure restée sans suite, se substitue à celles-ci et prend toutes mesures appropriées.

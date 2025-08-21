@@ -1,0 +1,1 @@
+Le consignataire de la cargaison est responsable comme mandataire salarié des fautes qu’il commet dans l’exercice de ses fonctions.

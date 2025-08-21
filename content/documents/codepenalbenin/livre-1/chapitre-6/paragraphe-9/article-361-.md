@@ -1,0 +1,3 @@
+Quiconque est convaincu d’enrichissement illicite est passible d’un emprisonnement de un (01) an à cinq (05) ans et d’une amende correspondant à la valeur jugée excédentaire par rapport à la valeur des biens que le prévenu est susceptible de posséder.
+Les peines prévues à l’alinéa précédent sont portées au double lorsque l’enrichissement illicite a été réalisé pendant l’exercice d’un mandat.
+Dans tous les cas, le coupable pourra en outre être privé des droits mentionnés à l’article 38 du présent code pendant cinq (05) ans au moins et dix (10) ans au plus à compter du jour où il aura subi sa peine.

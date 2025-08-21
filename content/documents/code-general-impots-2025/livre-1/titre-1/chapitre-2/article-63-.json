@@ -1,0 +1,16 @@
+{
+  "id": "article-63-",
+  "title": "Article 63 :",
+  "numero": "63 ",
+  "document": "code-general-impots-2025",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-2"
+  ],
+  "navigation": {
+    "parent": "chapitre-2",
+    "previous": "article-62-",
+    "next": "article-64-"
+  }
+}

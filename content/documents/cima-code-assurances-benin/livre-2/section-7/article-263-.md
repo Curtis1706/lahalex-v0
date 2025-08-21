@@ -1,0 +1,3 @@
+_(Règlement n°2014-02)_ Préjudice de pertes de gains professionnels futurs
+Le préjudice de pertes de gains professionnels futurs s’entend de la perte de carrière subie par une personne déjà engagée dans la vie active.
+L’indemnité est limitée à six mois de revenus calculés et plafonnés à trente-six fois le SMIG annuel du pays de l’accident, ou, s’il y est plus élevé, du pays de l’espace CIMA où la victime a sa résidence habituelle.

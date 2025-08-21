@@ -1,0 +1,2 @@
+Dans les cas où le règlement le prévoit, lorsqu’une personne morale, déjà condamnée définitivement pour une contravention punie d’emprisonnement, engage sa responsabilité pénale, dans le délai de un (01) an à compter de l’expiration ou de la prescription de la précédente peine, par la même contravention, le taux maximum de l’amende applicable est égal à dix (10) fois celui qui est prévu par le règlement qui réprime cette contravention en ce qui concerne les personnes physiques.
+C- DISPOSITIONS GENERALES

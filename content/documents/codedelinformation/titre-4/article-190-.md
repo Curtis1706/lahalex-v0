@@ -1,0 +1,2 @@
+Une société coopérative de messagerie de presse est constituée d’au moins trois (03) entreprises de publication de presse.
+La société coopérative de messagerie de presse est régie par la législation en vigueur sur les coopératives. Elle bénéficie des mêmes avantages fiscaux que toute autre coopérative.

@@ -1,0 +1,6 @@
+En cas de crime flagrant et si le juge d’instruction n’est pas encore saisi, le procureur de la République peut, au vu des résultats de l’enquête :
+- mettre l’inculpé sous mandat de dépôt après l’avoir interrogé sur son identité et sur les faits qui lui sont reprochés, conformément aux dispositions de l’article 133 ci-dessous et
+- transmettre immédiatement le dossier au procureur général près la cour d’appel qui, s’il le juge opportun, en saisit directement la chambre de l’instruction ainsi qu’il est prévu à l’article 214 du présent code.
+Dans ce cas, le contentieux de la détention de la personne poursuivie est immédiatement envoyé au juge des libertés et de la détention.
+Si le procureur général ne saisit pas la chambre de l’instruction, il renvoie le dossier au procureur de la République à charge par celui-ci de requérir l’ouverture d’une information régulière.
+Les dispositions prévues au présent article sont inapplicables en matière de délits de presse, de crimes et de délits contre la sûreté de l’Etat ou si l’une ou l’autre des personnes contre qui il existe des présomptions graves et concordantes d’avoir participé au crime, est mineure.

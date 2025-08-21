@@ -1,0 +1,1 @@
+Toute personne ayant fait des déclarations en public ne peut s’opposer à la diffusion, par les organes d’information et de communication, de son image en raison des nécessités de l’information. Toutefois, cette diffusion ou publicité ne doit pas s’accompagner de commentaires tendancieux ou désobligeants.

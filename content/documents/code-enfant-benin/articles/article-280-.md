@@ -1,0 +1,2 @@
+Article 280 : Dispositions applicables par le tribunal pour enfants
+Les dispositions des articles 272, 278 à 279 de la présente loi s’appliquent au tribunal pour enfants statuant en matière criminelle.

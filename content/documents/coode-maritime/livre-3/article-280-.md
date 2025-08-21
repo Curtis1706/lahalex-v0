@@ -1,0 +1,3 @@
+Nul ne peut exercer à bord des navires de commerce et de pêche les fonctions de capitaine ou patron, de second capitaine ou de chef mécanicien s’il ne possède les brevets, certificats ou diplômes correspondants.
+Des dérogations peuvent être accordées en cas de nécessité sur demande de l’armateur, du capitaine ou du patron, par le directeur de la marine marchande qui en fixe les conditions.
+Les conditions d’obtention des brevets, diplômes, certificats et permis, ainsi que les prérogatives qui s’y attachent, sont fixées par voie réglementaire.

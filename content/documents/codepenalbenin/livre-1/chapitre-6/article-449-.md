@@ -1,0 +1,1 @@
+Toute entente établie ou toute association formée, quelle que soit sa durée ou le nombre de ses membres, dans le but de préparer ou de commettre des crimes contre les personnes ou les biens, constituent un crime contre la paix publique.

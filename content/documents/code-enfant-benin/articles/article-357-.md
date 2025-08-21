@@ -1,0 +1,1 @@
+Article 357 : Tout parent, tout tuteur ou tout gardien d’un enfant qui refuse ou s’oppose à la vaccination de l’enfant est passible d’une peine d’amende de vingt-cinq mille (25 000) à deux cent cinquante mille (250 000) francs CFA et/ou d’une peine d’emprisonnement de un (01) mois à deux (02) ans.

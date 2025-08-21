@@ -1,0 +1,3 @@
+Article 63 : Les projets d’aménagement ainsi que les documents et plans d’urbanisme doivent prendre en compte le drainage et l’évacuation des eaux pluviales qui sont des éléments du droit à la sécurité et à un environnement sain.
+La conception, l’exécution et l’exploitation des ouvrages et bâtiments, à usage ou non d’habitation, installés dans des zones d’écoulement ou des zones inondables, doivent respecter le libre écoulement des eaux.
+La personne publique qui a la charge du drainage et de l'évacuation des eaux pluviales en assure la gestion selon les modalités mentionnées à l’article 60 de la présente loi.

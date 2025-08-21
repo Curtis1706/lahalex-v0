@@ -1,0 +1,1 @@
+Le conseil de famille est une assemblée de parents ou de personnes qualifiées, chargée sous la présidence du juge des tutelles, d’autoriser certains actes graves accomplis au nom d’un mineur ou d'un majeur en tutelle et de contrôler la gestion du tuteur.

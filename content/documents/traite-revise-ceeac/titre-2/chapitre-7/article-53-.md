@@ -1,0 +1,3 @@
+Obstacles techniques au commerce
+1. Les Etats parties s’engagent à coopérer dans les domaines des normes, règlements techniques, procédures d’évaluation de la conformité, de l’accréditation et de la métrologie afin de faciliter l’élimination des obstacles techniques au commerce non nécessaires et injustifiables.
+1. 50’application du présent article sera conforme aux dispositions de l’annexe sur les obstacles non tarifaires au commerce, du Protocole sur le Commerce des marchandises de l’Accord Instituant la Zone de Libre-Echange Continentale Africaine.

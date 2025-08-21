@@ -1,0 +1,9 @@
+Sous-traitant
+Toute personne traitant des données à caractère personnel pour le compte du responsable du traitement est considérée comme un sous-traitant au sens du présent Livre.
+Lorsque le traitement est confié à un sous-traitant, le responsable du traitement ou, le cas échéant, son représentant en République du Bénin, doit :
+1. choisir un sous-traitant apportant des garanties suffisantes au regard des mesures de sécurité technique et d'organisation relatives aux traitements, notamment pour assurer la mise en œuvre des mesures de sécurité et de confidentialité, de manière à ce que le traitement réponde aux exigences du présent Livre et garantisse la protection des droits des personnes concernées ;
+1. veiller au respect des mesures du point i. ci-dessus, notamment par la stipulation de mentions spécifiques dans les contrats passés avec des sous-traitants ;
+1. fixer dans le contrat, la responsabilité du sous-traitant à l'égard du responsable du traitement et les obligations incombant au sous-traitant en matière de protection de la sécurité et de la confidentialité des données ;
+1. convenir avec le sous-traitant que celui-ci n'agit que sur la seule instruction du responsable du traitement et est tenu par les mêmes obligations que celles auxquelles le responsable du traitement est tenu ;
+1. consigner par écrit ou sur un support électronique les éléments du contrat visés dans le présent article.
+Toute personne agissant sous l'autorité du responsable du traitement ou celle du sous-traitant, ainsi que le sous- traitant lui-même, qui accède à des données à caractère personnel, ne peut les traiter que sur instruction du responsable du traitement, sauf en cas d'une obligation imposée par ou en vertu d'une loi, d’un décret ou d’une ordonnance.

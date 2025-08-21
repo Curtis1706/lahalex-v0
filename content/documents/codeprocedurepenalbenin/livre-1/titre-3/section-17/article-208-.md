@@ -1,0 +1,1 @@
+L’indemnité est payée par l’Etat qui peut exercer une action récursoire contre l’agent fautif.

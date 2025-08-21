@@ -1,0 +1,2 @@
+Dans les cas spécialement prévus, les tribunaux pourront ordonner que leur décision soit affichée en caractères très apparents, dans les lieux qu’ils indiquent, aux frais du condamné.
+Sauf dispositions contraires, cet affichage sera prononcé pour une durée qui ne pourra excéder quinze (15) jours.

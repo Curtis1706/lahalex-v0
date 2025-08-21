@@ -1,0 +1,2 @@
+Dans l’assurance au voyage, la garantie de l’assureur court depuis le début du chargement ou du lestage, jusqu’à la fin du déchargement ou du délestage et au plus tard quinze (15) jours après l’arrivée du navire à destination.
+En cas de voyage sur lest, la garantie court depuis le moment où le navire appareille, jusqu’à l’amarrage du navire à son arrivée.

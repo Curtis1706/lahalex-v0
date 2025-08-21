@@ -1,0 +1,3 @@
+La tenue des assises a lieu tous les six (06) mois. Le président de la cour d’appel peut, après avis du procureur général, ordonner qu’il soit tenu une ou plusieurs sessions supplémentaires.
+Aucun dysfonctionnement de la justice ni aucune interruption des activités judiciaires ne peut justifier la violation de l’alinéa précédent.
+Le non-respect des présentes dispositions peut donner lieu à des sanctions disciplinaires.

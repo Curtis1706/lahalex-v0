@@ -1,0 +1,2 @@
+Toute personne qui, ayant trouvé un enfant nouveau-né, ne l’aura pas remis à l’officier de l’état civil, ainsi qu’il est prescrit par les dispositions du code des personnes et de la famille, est punie de la peine prévue à l’article 478 du présent code
+La présente disposition n’est point applicable à celui qui aurait consenti à se charger de l’enfant et qui aurait fait sa déclaration à cet égard devant la municipalité du lieu où l’enfant a été trouvé.

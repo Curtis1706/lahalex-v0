@@ -1,0 +1,16 @@
+{
+  "id": "article-11-",
+  "title": "Article 11 : Réalisation des travaux par les opérateurs",
+  "numero": "11 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-2"
+  ],
+  "navigation": {
+    "parent": "chapitre-2",
+    "previous": "article-10-",
+    "next": "article-12-"
+  }
+}

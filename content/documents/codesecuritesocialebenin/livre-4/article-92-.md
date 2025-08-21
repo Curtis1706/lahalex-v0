@@ -1,0 +1,1 @@
+Les prestations de la branche des pensions comprennent : les pensions de vieillesse, d’invalidité et les allocations de vieillesse d’une part, les pensions et allocations de survivants d’autre part.

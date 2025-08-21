@@ -1,0 +1,1 @@
+Le tribunal de première instance ou la cour d'appel statuant en matière criminelle, délibère sans désemparer après la clôture des débats ou reporte le délibéré à sa prochaine audience au plus tard lorsque les circonstances l’exigent.

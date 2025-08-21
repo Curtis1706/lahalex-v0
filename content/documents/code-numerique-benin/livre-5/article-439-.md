@@ -1,0 +1,2 @@
+Droit d’interrogation
+Toute personne justifiant de son identité a le droit d’interroger les services ou organismes chargés de mettre en œuvre les traitements automatisés dont la liste est accessible au public en vue de savoir si ces traitements portent sur des informations nominatives la concernant et, le cas échéant, d’en obtenir communication.

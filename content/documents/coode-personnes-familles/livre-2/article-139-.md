@@ -1,0 +1,2 @@
+L'officier de l’état civil donne lecture aux futurs époux des articles 153,154, 155 et 159 du présent code. Il demande à chacun d’eux, l’un après l'autre, s’ils veulent se prendre pour mari et femme. Après que chacun a répondu « oui », il déclare : « Au nom de la loi, vous êtes unis par les liens du mariage » et signe le registre avec les époux, les parents consentants, s’ils sont présents, et les témoins.
+Si l’un quelconque des comparants ne sait ou ne peut signer, l’empreinte digitale vaut signature, le cas échéant.

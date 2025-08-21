@@ -1,0 +1,2 @@
+Lorsque des indices sérieux laissent présumer qu’une personne transporte des drogues dissimulées dans son organisme, les fonctionnaires habilités à constater l’infraction pourront soumettre ladite personne à des examens médicaux de dépistage.
+Toute personne qui aura refusé de se soumettre aux examens médicaux prescrits sera punie d’un emprisonnement de un (01) an à cinq (05) ans et d’une amende de cinq cent mille (500 000) à cinq millions (5 000 000) de francs ou de l’une de ces deux (02) peines seulement.

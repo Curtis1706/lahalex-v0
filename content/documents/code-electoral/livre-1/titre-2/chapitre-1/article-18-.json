@@ -1,0 +1,16 @@
+{
+  "id": "article-18-",
+  "title": "Article 18 : La Commission électorale nationale autonome (CENA) est composée de deux organes :",
+  "numero": "18 ",
+  "document": "code-electoral",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "chapitre-1"
+  ],
+  "navigation": {
+    "parent": "chapitre-1",
+    "previous": "article-17-2-",
+    "next": "article-19-ancien-"
+  }
+}

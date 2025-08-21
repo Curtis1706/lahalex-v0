@@ -1,0 +1,1 @@
+(Modifié  par  la  loi  de  finances  pour  2025)  Les  terrains  non  lotis ensemencés, plantés ou replantés en bois de toutes essences sont exonérés de la taxe foncière unique.

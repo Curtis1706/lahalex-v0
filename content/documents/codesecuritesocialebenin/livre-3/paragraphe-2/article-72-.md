@@ -1,0 +1,1 @@
+En cas d’incapacité permanente dûment constatée par le médecin de la Caisse, la victime a droit : a) à une allocation d’incapacité versée en une seule fois lorsque le taux est inférieur à 20 % ; b) à une rente d’incapacité permanente si le taux d’incapacité permanente correspond au moins à 20 %.

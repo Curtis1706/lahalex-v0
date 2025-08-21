@@ -1,0 +1,1 @@
+Le donataire qui n’était pas successible lors de la donation mais qui se trouve héritier au jour de l’ouverture de la succession est tenu au rapport, à moins que le donateur ne l’en ait dispensé.

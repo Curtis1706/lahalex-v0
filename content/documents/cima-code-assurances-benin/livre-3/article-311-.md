@@ -1,0 +1,3 @@
+Injonctions
+Quand elle constate de la part d’une société soumise à son contrôle la non observation de la réglementation des assurances ou un comportement mettant en péril l’exécution des engagements contractés envers les assurés, la Commission enjoint à la société concernée de prendre toutes les mesures de redressement qu’elle estime nécessaires.
+L’absence d’exécution des mesures de redressement dans les délais prescrits est passible des sanctions énumérées à l’article 312.

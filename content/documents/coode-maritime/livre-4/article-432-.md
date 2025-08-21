@@ -1,0 +1,1 @@
+La responsabilité de l’acconier pour les pertes ou avaries non apparentes n’est engagée que si celles-ci proviennent du fait de l’acconier ou de ses préposés. La preuve en incombe au chargeur, au destinataire ou au transporteur maritime.

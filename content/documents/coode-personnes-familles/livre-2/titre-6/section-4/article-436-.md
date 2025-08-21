@@ -1,0 +1,1 @@
+Le tribunal compétent est celui du domicile ou de la résidence de l’enfant.

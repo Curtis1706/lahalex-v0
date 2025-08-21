@@ -1,0 +1,1 @@
+L'emplacement des établissements des différents ordres d'enseignement est choisi de manière à assurer le maximum d'éclairage naturel et d'aération aux salles de cours et de façon à éviter aux apprenants, les poussières, les odeurs, les bruits et autres nuisances.

@@ -1,0 +1,1 @@
+Le maire veille à la bonne gestion de l'administration de la commune par le secrétaire exécutif.

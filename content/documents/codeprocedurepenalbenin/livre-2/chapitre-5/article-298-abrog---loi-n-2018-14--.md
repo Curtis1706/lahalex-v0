@@ -1,0 +1,1 @@
+Avant le jugement de chaque affaire, la cour procède s’il y a lieu, aux opérations prévues par les articles précédents.

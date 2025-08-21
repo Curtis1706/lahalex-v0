@@ -1,0 +1,4 @@
+La liberté de parler et d’écrire, d’imprimer et de publier, de lire et de recevoir des informations, des idées, des pensées et opinions de son choix est garantie en République du Bénin.
+L’installation, l’exploitation et l’utilisation des infrastructures et des services de communication, la diffusion et la réception des émissions audiovisuelles sont libres.
+La création d’une entreprise de presse pour l’exercice de ces libertés est également libre.
+Toutefois, ces libertés s’exercent dans le respect de la loi, du devoir de vérité, du professionnalisme, de la déontologie et du pluralisme des courants de pensée et d’opinion.

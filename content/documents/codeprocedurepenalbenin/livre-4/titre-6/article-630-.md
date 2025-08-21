@@ -1,0 +1,1 @@
+Aucun des juges visés à l’article 624 du présent code ne peut se récuser d’office sans l’autorisation du président de la cour d’appel ou de la cour suprême dont la décision, rendue après avis du procureur général, n’est susceptible d’aucune voie de recours.

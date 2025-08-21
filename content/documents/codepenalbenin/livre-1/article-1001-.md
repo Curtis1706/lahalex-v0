@@ -1,0 +1,1 @@
+En cas de condamnation à une peine de police supérieure à dix (10) jours d’emprisonnement ou à vingt mille (20.000) francs CFA d’amende, le sursis peut être ordonné.

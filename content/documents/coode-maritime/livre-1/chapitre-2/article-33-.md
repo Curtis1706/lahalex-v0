@@ -1,0 +1,3 @@
+Les règles de sécurité auxquelles doivent satisfaire les navires béninois sont celles définies par les conventions internationales ratifiées par la République du Bénin, lorsque les navires entrent dans le champ d’application de ces conventions.
+Des lois et règlements fixent les normes de sécurité auxquelles doivent satisfaire les navires qui n’entrent pas dans le champ d’application des conventions ratifiées par la République du Bénin.
+Les dispositions des alinéas précédents ne s’appliquent pas aux navires de guerre des forces armées du Bénin.

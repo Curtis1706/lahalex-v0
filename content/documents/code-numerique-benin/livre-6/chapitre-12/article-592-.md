@@ -1,0 +1,8 @@
+Conservation et divulgation rapide de données relatives au trafic
+Il est inséré dans le code de procédure pénale, un article 78 ter rédigé comme suit :
+« En matière criminelle et en matière correctionnelle, lorsque les nécessités de l’information l’exigent, un officier de police judiciaire ou un juge d’instruction peut, lorsqu’il y a des raisons de croire que les données stockées dans un système informatique sont particulièrement susceptibles de perte ou de modification et que ces données sont utiles à la manifestation de la vérité, par le biais d’une notification écrite, exiger d’une personne contrôlant le système informatique, fournisseur de services en ligne visé à l’article 495 du présent code ou opérateur ou fournisseur de services de communication au public en ligne visés à l’article 34 du présent code, qu'elle divulgue ou conserve suffisamment de données de trafic associées à une communication électronique spécifique, afin d'identifier :
+- le ou les fournisseurs de services ; et/ou
+- la voie par laquelle la communication en question a été transmise.
+Si la notification écrite requiert la conservation rapide, les principes de délais de l’article 35 de la présente loi s’appliquent.
+Toute personne qui, du chef de sa fonction, a connaissance de la mesure ou y prête son concours, est tenue de garder le secret. Toute violation du secret est punie par les dispositions prévues par le code pénal relatives au secret professionnel.
+L’alinéa 3 ne s’applique pas lorsque l’obligation au secret a été levée par l’officier de police judiciaire ou le juge d’instruction, auteur de la notification écrite ».

@@ -1,0 +1,16 @@
+{
+  "id": "article-24-",
+  "title": "Article 24 : Contrats types élaborés par les opérateurs",
+  "numero": "24 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-3"
+  ],
+  "navigation": {
+    "parent": "chapitre-3",
+    "previous": "article-23-",
+    "next": "article-25-"
+  }
+}

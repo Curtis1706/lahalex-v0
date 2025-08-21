@@ -1,0 +1,1 @@
+Les décisions portant démission d'office, suspension ou révocation du maire ou des adjoints au maire sont susceptibles de recours pour excès de pouvoir devant le tribunal administratif compétent sur le ressort territorial de la commune, dans un délai de deux (02) mois à compter de la notification de la décision concernée.

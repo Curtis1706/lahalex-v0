@@ -1,0 +1,4 @@
+Certificats qualifiés de signature électronique
+Les certificats qualifiés de signature électronique satisfont aux exigences fixées par voie réglementaire.
+Les certificats qualifiés de signature électronique peuvent par ailleurs comprendre des attributs spécifiques supplémentaires non obligatoires. Ces attributs n’affectent pas l’interopérabilité et la reconnaissance des signatures électroniques qualifiées.
+Si un certificat qualifié de signature électronique a été révoqué après sa première activation, il perd sa validité à compter du moment de sa révocation et ne peut en aucun cas recouvrer son statut antérieur.

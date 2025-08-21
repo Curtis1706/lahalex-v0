@@ -1,0 +1,2 @@
+Article 560 : Délai de transmission du rapport annuel
+Les intermédiaires d’assurances doivent adresser un compte rendu annuel au Ministre en charge du secteur des assurances dans l’Etat membre contenant les états modèles ci-dessus ainsi que toute autre information que pourrait demander les autorités de contrôle des assurances au plus tard le 1er août de chaque année.

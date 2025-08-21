@@ -1,0 +1,1 @@
+Est considéré comme enfant à charge, l’enfant âgé de 0 à 21 ans lorsqu’il est placé en apprentissage ou s’il poursuit ses études ou si, par suite d’infirmité ou de maladie incurable, il est dans l’impossibilité de se livrer à un travail salarié.

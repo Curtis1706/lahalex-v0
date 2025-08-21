@@ -1,0 +1,1 @@
+En cas de divergence entre les divers exemplaires du connaissement, chaque partie ne peut se prévaloir des indications portées par l’exemplaire qu’elle détient que si ces indications figurent également sur celui qui se trouve entre les mains de l’autre partie.

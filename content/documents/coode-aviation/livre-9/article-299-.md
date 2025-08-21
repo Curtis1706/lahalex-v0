@@ -1,0 +1,6 @@
+Toute entreprise de transport aérien béninoise ou étrangère, qui, sans autorisation ou en infraction aux conditions prescrites par les autorisations qui lui ont été délivrées, exerce en République du Bénin une activité de transport aérien, est passible d'une amende.
+Cette amende est infligée par tout agent ayant qualité pour constater les infractions en matière de transport aérien, notamment par les inspecteurs de l'organisme national en charge de l'aviation civile et est payable par tout moyen laissant trace écrite.
+Cette amende est proportionnelle à la masse de l'aéronef et établie sur la base maximale de trois cent mille (300 000) francs CFA par tonne et par transport.
+La masse prise en compte est la masse maximale au décollage inscrite sur le certificat de navigabilité de l'aéronef.
+Toute fraction de tonne est comptée comme une tonne.
+En cas de refus de paiement de l'amende ou en cas de récidive, l’aéronef peut être mis sous séquestre à la demande des autorités de l’organisme national en charge de l'aviation civile.

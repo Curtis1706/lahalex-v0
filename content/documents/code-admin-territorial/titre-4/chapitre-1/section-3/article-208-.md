@@ -1,0 +1,1 @@
+La convocation est adressée aux membres du conseil de village ou de quartier de ville par écrit, au moins trois (03) jours avant la date de la session.

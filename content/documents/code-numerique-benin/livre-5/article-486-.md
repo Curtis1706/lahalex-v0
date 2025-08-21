@@ -1,0 +1,3 @@
+Pouvoirs d’investigation
+L'Autorité peut demander aux premiers présidents des cours d’appel ou aux présidents des juridictions administratives, de déléguer un magistrat de leur ressort, éventuellement assisté d’experts, pour des missions d’investigation et de contrôle effectuées sous sa direction.
+Afin de conserver certaines données particulièrement susceptibles de perte ou de modification et utiles à la manifestation de la vérité, l'Autorité peut demander au président du tribunal de première instance, que celles-ci soient conservées conformément à la procédure prévue à l’article 78 bis du code de procédure pénale.

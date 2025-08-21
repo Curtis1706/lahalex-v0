@@ -1,0 +1,15 @@
+{
+  "id": "article-104-",
+  "title": "Article 104 : Coopération entre les acteurs",
+  "numero": "104 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-103-",
+    "next": "article-105-"
+  }
+}

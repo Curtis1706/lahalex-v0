@@ -1,0 +1,1 @@
+L’affréteur peut sous-fréter le navire en cédant les droits qu’il tient du contrat d’affrètement, si celui-ci ne le lui interdit pas.

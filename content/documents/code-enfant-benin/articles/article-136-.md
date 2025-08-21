@@ -1,0 +1,2 @@
+Article 136 : Familles nourricières ou familles hôtes
+Les familles nourricières ou familles hôtes prennent en charge au maximum deux (02) enfants contre une aide financière mensuelle et symbolique de l’Etat.

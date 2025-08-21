@@ -1,0 +1,6 @@
+Article 330-2 : _(Règlement n°2016-07)_ Fonds d’établissement - fonds propres :
+Les sociétés d’assurance mutuelles doivent avoir un fonds d’établissement au moins égal à 3.000.000.000 FCFA.
+Les sociétés en activités qui ont un fonds d’établissement inférieur à ce minimum, disposent d’un délai de trois ans pour porter leur fonds d’établissement à 2.000.000.000 FCFA au moins et de cinq ans pour le porter à 3.000.000.000 FCFA à compter de la date d’entrée en vigueur des présentes dispositions.
+Les fonds propres d’une société d’assurances mutuelles ne peuvent en aucun cas être inférieurs à 80 % du fonds d’établissement minimum. Si les fonds propres sont réduits à un montant inférieur à ce minimum, la société doit les reconstituer dans un délai d’un an à compter du ter juin de l’année suivant l’exercice au cours duquel la baisse des fonds propres en dessous du minimum est constatée, sous peine des sanctions prévues à l’article 312.
+\_NB - Précisions du règlement n°007/CIMA/PCMA/PCE/2016 du 8 avril 2016_
+_Article 2 :_ _Toutes les augmentations de capital réalisées dans le cadre du présent règlement sont soumises à l’autorisation préalable de la Commission Régionale de Contrôle des Assurances._\

@@ -1,0 +1,1 @@
+La commune a la charge de la construction, de l'équipement et de la réhabilitation des établissements publics des enseignements maternel et primaire. Elle assure, en outre, l'entretien de ces établissements, A cet effet, l'Etat lui transfère les ressources nécessaires.

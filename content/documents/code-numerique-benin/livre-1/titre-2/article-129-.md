@@ -1,0 +1,4 @@
+Le Secrétariat exécutif
+Le Secrétariat exécutif est l’organe exécutif de l’Autorité de régulation. Il exécute les délibérations du Conseil de régulation.
+Il a à sa tête un Secrétaire exécutif nommé pour un mandat de cinq (05) ans, renouvelable une fois par décret pris en Conseil des Ministres, sur proposition du Ministre chargé des communications électroniques et de la poste, au terme d’une procédure de sélection par appel à candidatures conduite par le Conseil de régulation.
+Le Secrétaire exécutif est choisi en raison de ses compétences et qualifications dans le domaine des communications électroniques ~~et de la poste~~.

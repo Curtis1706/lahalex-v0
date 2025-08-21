@@ -1,0 +1,1 @@
+La reconnaissance permet de demander l'identité et la nationalité d’un navire en l'invitant à hisser son pavillon et à donner des informations le concernant.

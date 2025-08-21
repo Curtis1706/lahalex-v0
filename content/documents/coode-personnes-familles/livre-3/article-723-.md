@@ -1,0 +1,1 @@
+L'héritier n’est pas tenu du rapport si le bien a péri par cas fortuit ou de force majeure. Il doit néanmoins rapporter le cas échéant, l’indemnité qui lui a été allouée à raison de la perte du bien.

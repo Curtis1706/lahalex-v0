@@ -1,0 +1,1 @@
+Lorsqu’un des époux ne remplit pas l’obligation visée à l’article précédent, l’autre époux peut obtenir, par ordonnance du président du tribunal, l’autorisation de saisir-arrêter et de toucher, dans la proportion de ses besoins, une part du salaire, du produit du travail ou des revenus de son conjoint.

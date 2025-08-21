@@ -1,0 +1,3 @@
+Article 232 : Intérêt supérieur de l'enfant
+Le juge des enfants saisi de toute question de quelque nature concernant la situation d’un enfant, notamment son entretien, sa scolarité, son éducation, son placement, son déplacement, sa garde, prend toute mesure provisoire dans l’intérêt supérieur de l’enfant. Il peut consulter ou se faire assister des parents, des travailleurs sociaux ou de toutes personnes physiques ou morales intéressées aux problèmes de l’enfant.
+Les décisions du juge des enfants, dans les matières intéressant notamment le travail des enfants, sont communiquées, par les soins du greffier en chef du tribunal, à l’inspecteur du travail pour information ou pour application des mesures prises le cas échéant.

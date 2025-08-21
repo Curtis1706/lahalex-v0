@@ -1,0 +1,1 @@
+Sauf dispositions contraires concernant notamment les navires béninois, l’intervention en haute mer en cas d’accident et l’application des dispositions relatives à la création de zones spéciales, le présent titre s’applique à l’ensemble des zones maritimes sous souveraineté ou juridiction béninoise.

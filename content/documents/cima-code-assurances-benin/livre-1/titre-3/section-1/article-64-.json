@@ -1,0 +1,16 @@
+{
+  "id": "article-64-",
+  "title": "Article 64 : Mentions du titre de capitalisation ou du contrat d’assurance vie",
+  "numero": "64 ",
+  "document": "cima-code-assurances-benin",
+  "path": [
+    "livre-1",
+    "titre-3",
+    "section-1"
+  ],
+  "navigation": {
+    "parent": "section-1",
+    "previous": "article-63-",
+    "next": "article-64-1-"
+  }
+}

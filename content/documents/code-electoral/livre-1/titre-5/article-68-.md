@@ -1,0 +1,2 @@
+Le président est responsable de la police du poste de vote.
+Nul agent des Forces de défense et de sécurité ne peut, sans son autorisation, être placé ni dans le poste de vote, ni à ses abords immédiats, ou encore y intervenir de quelque manière que ce soit

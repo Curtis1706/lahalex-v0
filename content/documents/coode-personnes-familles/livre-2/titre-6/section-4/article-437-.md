@@ -1,0 +1,3 @@
+Lorsqu’un enfant nouveau-né a été trouvé, le tribunal du lieu de la découverte de l’enfant avisé prend les premières mesures provisoires pour la sauvegarde de l’enfant. Il peut les modifier s’il y a lieu.
+Celui-ci statue sur les mesures de garde et de protection de l’enfant conformément aux dispositions concernant l’enfance en danger.
+Les parents responsables de l’abandon pourront faire l'objet d’une mesure de déchéance de l'autorité parentale selon les dispositions du présent code.

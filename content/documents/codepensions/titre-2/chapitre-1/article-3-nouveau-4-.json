@@ -1,0 +1,15 @@
+{
+  "id": "article-3-nouveau-4-",
+  "title": "Article 3 nouveau-4 : Est dispensé de la condition d’âge fixée à l’article 3 nouveau-1 ci-dessus :",
+  "numero": "3 nouveau-4 ",
+  "document": "codepensions",
+  "path": [
+    "titre-2",
+    "chapitre-1"
+  ],
+  "navigation": {
+    "parent": "chapitre-1",
+    "previous": "article-3-nouveau-3",
+    "next": "article-4-ancien-"
+  }
+}

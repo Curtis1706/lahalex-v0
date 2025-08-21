@@ -1,0 +1,15 @@
+{
+  "id": "article-237-",
+  "title": "Article 237 :",
+  "numero": "237 ",
+  "document": "code-douane",
+  "path": [
+    "titre-5",
+    "paragraphe-6"
+  ],
+  "navigation": {
+    "parent": "paragraphe-6",
+    "previous": "article-236-",
+    "next": "article-238-"
+  }
+}

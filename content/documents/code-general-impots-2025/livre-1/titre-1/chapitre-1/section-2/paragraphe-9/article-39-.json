@@ -1,0 +1,18 @@
+{
+  "id": "article-39-",
+  "title": "Article 39 :",
+  "numero": "39 ",
+  "document": "code-general-impots-2025",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-1",
+    "section-2",
+    "paragraphe-9"
+  ],
+  "navigation": {
+    "parent": "paragraphe-9",
+    "previous": "article-38-",
+    "next": "article-40-"
+  }
+}

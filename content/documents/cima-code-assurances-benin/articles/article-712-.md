@@ -1,0 +1,3 @@
+Article 712 : Objet et étendue du Contrôle des opérations de Micro assurance
+Le contrôle s’exerce dans l’intérêt des assurés, souscripteurs et bénéficiaires de contrats d’assurance et de capitalisation.
+Sont soumises au contrôle de la Commission Régionale de Contrôle des Assurances, les entreprises de micro assurance agréées et des entreprises d’assurance agréées pratiquant des opérations de micro-assurance telles que définies à l’article 717.

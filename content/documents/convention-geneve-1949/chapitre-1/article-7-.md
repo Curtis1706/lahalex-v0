@@ -1,0 +1,2 @@
+Les blessés et malades, ainsi que les membres du personnel sanitaire et reli- Inaliénabilité gieux, ne pourront en aucun cas renoncer partiellement ou totalement aux des droits droits que leur assurent la présente Convention et, le cas échéant, les accords
+spéciaux visés à l’article précédent.

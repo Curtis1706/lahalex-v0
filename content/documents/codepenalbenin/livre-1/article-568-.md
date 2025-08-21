@@ -1,0 +1,1 @@
+Tout individu qui s’introduit à l’aide de menaces ou de violences dans le domicile d’autrui, est puni d’un emprisonnement de un (01) mois à trois (03) mois et d’une amende de cinquante mille (50.000) francs CFA à deux cent cinquante mille (250.000) francs CFA.

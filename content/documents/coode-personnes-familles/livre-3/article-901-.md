@@ -1,0 +1,2 @@
+Le testament fait au cours d’un voyage maritime ou aérien, en la forme prescrite par les articles 898 et suivants, n’est valable qu’autant que le testateur meurt à bord ou dans les six (6) mois après qu’il est débarqué dans un lieu où il a pu le refaire dans les formes ordinaires.
+Toutefois, si le testateur entreprend un nouveau voyage maritime ou aérien avant l’expiration de ce délai, le testament est valable pendant la durée de ce voyage et pendant un nouveau délai de six (6) mois après que le testateur est de nouveau débarqué.

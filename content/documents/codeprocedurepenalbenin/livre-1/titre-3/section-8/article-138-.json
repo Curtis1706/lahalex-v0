@@ -1,0 +1,16 @@
+{
+  "id": "article-138-",
+  "title": "Article 138 :",
+  "numero": "138 ",
+  "document": "codeprocedurepenalbenin",
+  "path": [
+    "livre-1",
+    "titre-3",
+    "section-8"
+  ],
+  "navigation": {
+    "parent": "section-8",
+    "previous": "article-137-",
+    "next": "article-139-"
+  }
+}

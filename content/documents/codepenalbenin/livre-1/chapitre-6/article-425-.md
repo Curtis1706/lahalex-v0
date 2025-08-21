@@ -1,0 +1,5 @@
+Lorsque l’évasion a eu lieu ou a été tentée avec violence ou bris de prison, les peines contre ceux qui l’ont favorisée en fournissant des instruments propres à l’opérer, sont :
+- dans le cas prévu par l’article 422 du présent code, de trois (03) mois à trois (03) ans d’emprisonnement et d’une amende de cinquante mille (50.000) francs CFA à deux cent cinquante mille (250.000) francs CFA ;
+- dans le cas de l’article 423 du présent code, de un (01) an à quatre (04) ans d’emprisonnement et cent mille (100.000) francs CFA à six cent mille (600.000) francs CFA d’amende ; et,
+- dans le cas de l’article 424 du présent code, de deux (02) ans à dix (10) ans d’emprisonnement et cent mille (100.000) francs CFA à un million (1.000.000) de francs CFA d’amende, le tout sans préjudice des peines plus fortes prévues aux articles précédents.
+Dans le dernier cas, les coupables pourront, en outre, être privés des droits mentionnés à l’article 38 du présent code pendant cinq (05) ans au moins et dix (10) ans au plus, à compter du jour où ils auront subi leur peine.

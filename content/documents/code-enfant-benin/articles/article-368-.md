@@ -1,0 +1,1 @@
+Article 368 : Tout adulte qui sciemment et publiquement impute à un enfant un fait de nature à porter atteinte à son honneur et à sa considération est puni d’une peine de deux (02) mois à un (01) an d’emprisonnement et d’une amende de cinquante mille (50 000) à cent cinquante mille (150 000) francs CFA.

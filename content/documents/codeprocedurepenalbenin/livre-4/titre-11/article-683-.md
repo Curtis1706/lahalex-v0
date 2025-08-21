@@ -1,0 +1,2 @@
+Les décisions du tribunal pour enfants et de la cour d’appel concernant les mineurs de moins de quinze (15) ans ne sont pas inscrites au casier judiciaire.
+Les décisions concernant les mineurs de plus de quinze (15) ans y figureront. Les bulletins comportant des mentions sur ces dernières décisions ne sont communiqués qu’aux seules autorités judiciaires.

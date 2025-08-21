@@ -1,0 +1,2 @@
+Le conseil de famille est convoqué par son président. Il doit l’être si la convocation est requise soit par deux de ses membres, soit par le tuteur, soit par le mineur lui-même pourvu qu’il ait seize (16) ans révolus.
+La convocation doit être faite huit (8) jours au moins avant la réunion ;

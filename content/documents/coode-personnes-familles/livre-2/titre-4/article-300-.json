@@ -1,0 +1,15 @@
+{
+  "id": "article-300-",
+  "title": "Article 300 :",
+  "numero": "300 ",
+  "document": "coode-personnes-familles",
+  "path": [
+    "livre-2",
+    "titre-4"
+  ],
+  "navigation": {
+    "parent": "titre-4",
+    "previous": "article-299-",
+    "next": "article-301-"
+  }
+}

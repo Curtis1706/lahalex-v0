@@ -1,0 +1,2 @@
+Le rejet dans la nature des huiles de vidange est interdit. Les propriétaires de garage et les mécaniciens de toute catégorie disposent de bacs à huiles.
+Le traitement de ces huiles se fait dans les endroits aménagés à cet effet par les collectivités décentralisées.

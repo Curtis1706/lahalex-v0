@@ -1,0 +1,5 @@
+1) La taxe sur la valeur ajoutée acquittée à l’occasion des ventes ou des services qui sont par la suite résiliés, annulés ou restent impayés peut être récupérée par voie d’imputation sur l’impôt dû pour les opérations faites ultérieurement.
+2) Pour les opérations annulées ou résiliées, la récupération de la taxe acquittée est
+subordonnée à l’établissement et à l’envoi au client d’une facture nouvelle dite « d’avoir ».
+3) Pour les opérations impayées lorsque la créance est réellement et définitivement
+irrécouvrable, la rectification de la facture consiste dans l’envoi d’un duplicata de la facture initiale avec des indications règlementaires surchargées de la mention « facture demeurée impayée pour la somme de ..., prix hors taxe sur la valeur ajoutée et pour la somme de ... taxe sur la valeur ajoutée correspondante qui ne peut faire l’objet d’une déduction ».

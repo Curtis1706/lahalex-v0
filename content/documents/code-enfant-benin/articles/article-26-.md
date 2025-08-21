@@ -1,0 +1,2 @@
+Article 26 : Liberté d'expression
+Le droit à la liberté d’expression comprend la liberté de rechercher, de recevoir et de répandre des informations et des idées de toute espèce, sans considération de frontières, sous une forme orale, écrite, imprimée ou artistique, ou par tout autre moyen au choix de l’enfant, sous réserve des restrictions prescrites par la loi et qui sont nécessaires au respect des droits, de la liberté ou de la réputation d’autrui, à la sauvegarde de la santé, de la moralité, de l’ordre public et de la sécurité nationale.

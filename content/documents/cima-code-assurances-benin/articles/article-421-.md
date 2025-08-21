@@ -1,0 +1,3 @@
+Article 421 : Provisionnement
+En ce qui concerne les acceptations en réassurance, les entreprises qui enregistrent immédiatement en comptabilité tous les éléments reçus de leurs cédants doivent, en l’absence d’informations suffisantes, compenser provisoirement les soldes de tous les comptes incomplets d’un même exercice par une écriture d’attente qui sera contre-passée à l’ouverture de l’exercice suivant.
+En tout état de cause et quel que soit le mode de comptabilisation retenu, lorsque le réassureur non en possession de tous les comptes d’un ou plusieurs traités connaît cependant l’existence d’une perte, celle-ci doit être provisionnée pour son montant prévisible.

@@ -1,0 +1,14 @@
+{
+  "id": "article-3-",
+  "title": "Article 3 : L'élection est le choix libre par le peuple du ou des citoyens appelés à conduire, à gérer ou à participer à la gestion des affaires publiques.",
+  "numero": "3 ",
+  "document": "code-electoral",
+  "path": [
+    "livre-1"
+  ],
+  "navigation": {
+    "parent": "livre-1",
+    "previous": "article-2-",
+    "next": "article-4-"
+  }
+}

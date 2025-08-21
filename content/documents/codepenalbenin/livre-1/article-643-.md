@@ -1,0 +1,2 @@
+Est qualifiée escalade toute entrée dans les maisons, bâtiments, cours, basses-cours, édifices quelconques, jardins, parcs et enclos, exécutée pardessus les murs, portes, toitures ou autres clôtures.
+L’entrée par une ouverture souterraine, autre que celle qui a été aménagée pour servir d’entrée, es une circonstance de même gravité que l’escalade.

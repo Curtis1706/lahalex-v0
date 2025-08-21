@@ -1,0 +1,1 @@
+Les camps de transit ou de triage à caractère permanent seront aménagés Camps dans des conditions semblables à celles qui ont été prévues à la présente Sec- de transit tion, et les prisonniers de guerre y bénéficieront du même régime que dans permanents les autres camps.

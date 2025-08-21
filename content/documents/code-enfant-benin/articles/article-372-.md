@@ -1,0 +1,2 @@
+Article 372 : Est punie de trois (03) ans à cinq (05) ans d’emprisonnement et d’une amende allant jusqu’à trois millions (3 000 000) de francs CFA, toute personne qui pratique sur un enfant une mutilation sexuelle sous quelque forme que ce soit.
+Lorsque la mutilation entraîne la mort de l’enfant, la peine prononcée est la réclusion à perpétuité_._

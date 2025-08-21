@@ -1,0 +1,3 @@
+Sur réquisitions écrites du procureur de la République, aux fins de recherche et de poursuite d’infractions qu’il précise, l’identité de toute personne peut être légalement contrôlée, selon les mêmes modalités, dans les lieux et pour une période de temps déterminés par ce magistrat.
+Le fait que le contrôle d’identité révèle des infractions autres que celles visées dans les réquisitions du procureur de la République ne constitue pas une cause de nullité des procédures incidentes.
+L’identité de toute personne, quel que soit son comportement, peut également être contrôlée, selon les modalités prévues à l’article précédent, pour prévenir une atteinte à l’ordre public, notamment à la sécurité des personnes et des biens.

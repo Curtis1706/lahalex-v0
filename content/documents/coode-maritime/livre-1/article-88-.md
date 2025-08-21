@@ -1,0 +1,1 @@
+Le constructeur est garant des vices cachés du navire, malgré la réception du navire sans réserves par le client.

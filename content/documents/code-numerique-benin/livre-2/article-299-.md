@@ -1,0 +1,3 @@
+Dispositions générales
+L’effet juridique et la recevabilité d’un horodatage électronique ne peuvent être refusés comme preuve au seul motif que l'horodatage se présente sous forme électronique ou qu’il ne satisfait pas aux exigences de l’horodatage électronique qualifié.
+Un horodatage électronique qualifié bénéficie d’une présomption d’exactitude de la date et de l’heure qu’il indique et d’intégrité des données auxquelles se rapportent ces dates et heures.

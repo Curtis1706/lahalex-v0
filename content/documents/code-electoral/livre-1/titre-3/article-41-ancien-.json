@@ -1,0 +1,15 @@
+{
+  "id": "article-41-ancien-",
+  "title": "Article 41 ancien : La déclaration de candidature comporte les nom, prénoms, profession, date et lieu de naissance ainsi que l'adresse complète du ou des candidats. Elle doit être accompagnée de :",
+  "numero": "41 ancien ",
+  "document": "code-electoral",
+  "path": [
+    "livre-1",
+    "titre-3"
+  ],
+  "navigation": {
+    "parent": "titre-3",
+    "previous": "article-40-",
+    "next": "article-41-"
+  }
+}

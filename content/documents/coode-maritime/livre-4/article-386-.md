@@ -1,0 +1,1 @@
+Le passager ne peut, sauf accord du transporteur, céder à un tiers le bénéfice de son contrat.

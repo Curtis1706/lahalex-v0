@@ -1,0 +1,1 @@
+Tout dépôt de fumier, susceptible de nuire à la santé des populations, est détruit.

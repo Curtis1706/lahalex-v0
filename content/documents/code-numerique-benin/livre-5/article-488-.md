@@ -1,0 +1,2 @@
+Obligation de coopération
+Les Ministres, autorités publiques, dirigeants d’entreprises publiques ou privées, responsables de groupements divers et plus généralement les détenteurs et utilisateurs de traitements ou de fichiers de données à caractère personnel ne peuvent, en principe, s’opposer à l’action de l'Autorité. Ils doivent prendre toutes mesures utiles afin de lui faciliter sa mission.

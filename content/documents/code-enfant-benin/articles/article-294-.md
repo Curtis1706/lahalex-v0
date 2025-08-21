@@ -1,0 +1,3 @@
+Article 294 : Mission du délégué à la surveillance
+Dès sa nomination, le délégué à la surveillance prend contact avec l’enfant, ses parents, son tuteur ou les personnes chargées de sa garde. Il visite l’enfant ainsi que les personnes chargées de son éducation aussi souvent qu’il est nécessaire et en tout cas au moins une fois par mois.
+Le délégué à la surveillance adresse au juge des enfants un rapport trimestriel analysant la situation matérielle et morale de l’enfant ainsi que les progrès de sa rééducation. Il lui signale tous les incidents qui surviennent inopinément dans la conduite ou la vie de l’enfant.

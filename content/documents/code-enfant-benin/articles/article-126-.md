@@ -1,0 +1,2 @@
+Article 126 : Obligations des structures de formation
+Tout établissement ou tout couvent destiné à former spirituellement ou religieusement un enfant, adopte une formule conforme à l’esprit des dispositions de la présente loi notamment en ce qui concerne l’âge, l’éducation, la santé et l’épanouissement de l’enfant.

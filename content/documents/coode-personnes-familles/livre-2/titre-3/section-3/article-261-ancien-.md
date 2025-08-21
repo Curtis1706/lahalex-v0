@@ -1,0 +1,3 @@
+Le divorce dissout le mariage, met fin aux devoirs réciproques des époux et au régime matrimonial, conformément au titre relatif à la parenté et à l'alliance.
+Chacun des époux peut contracter une nouvelle union. Toutefois, en ce qui concerne la femme, le délai de viduité prévu à l’article 124 du présent code prend effet à compter de l’ordonnance de non conciliation. Cependant, lorsque le délai est réduit de trois (3) mois, il prend effet à compter du jour où le jugement n’est plus susceptible de voies de recours.
+La femme qui avait l’usage du nom de son mari le perd par le divorce. Toutefois, elle pourra en conserver l’usage avec l’accord de son mari ou sur autorisation du juge.

@@ -1,0 +1,2 @@
+Indisponibilité du bien ou du service
+Lorsqu'un bien ou service offert est indisponible, le fournisseur de biens ou services doit en informer l'acquéreur sans délai et au moins vingt-quatre (24) heures avant la date de livraison prévue au contrat. Le cas échéant, le fournisseur de biens ou services rembourse à l'acquéreur, l'intégralité des sommes perçues.

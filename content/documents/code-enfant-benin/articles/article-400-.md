@@ -1,0 +1,1 @@
+Article 400 : En cas de récidive, les peines prévues aux articles 391 à 397 de la présente loi, sont portées au double.

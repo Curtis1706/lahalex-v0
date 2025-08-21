@@ -1,0 +1,1 @@
+Toutes les fois que le conseil communal est dissous, par décision du Conseil des ministres ou par démission de tous les conseillers, il est procédé à son renouvellement dans les quatre-vingt-dix (90) jours à compter de la date de la dissolution ou de la dernière démission dans les conditions prévues par le code électoral.

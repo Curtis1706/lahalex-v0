@@ -1,0 +1,1 @@
+Est puni des mêmes peines le bénéficiaire de l’une des opérations prévues à l’article précédent qui donne à tout ou partie des marchandises achetées une destination autre que celle prévue au contrat.

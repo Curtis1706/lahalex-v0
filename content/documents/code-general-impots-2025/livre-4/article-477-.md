@@ -1,0 +1,3 @@
+1) En cas de décès du contribuable, les ayants droit du défunt doivent, dans les six (6) mois de la date du décès, déclarer les revenus imposables au titre de l’impôt sur les revenus fonciers, de l’impôt sur les revenus de capitaux mobiliers et de l’impôt sur les traitements et salaires, acquis au cours de l’année du décès et qui n’ont pas fait l’objet d’une retenue à la source en République du Bénin.
+Les impôts correspondants sont payés à l’appui de cette déclaration.
+2) Les contribuables qui quittent définitivement la République du Bénin, notamment en cas de transfert de domicile à l’étranger ou d’abandon de toute résidence sur le territoire national, sont tenus à la même obligation, dans les deux (2) mois précédant leur départ.

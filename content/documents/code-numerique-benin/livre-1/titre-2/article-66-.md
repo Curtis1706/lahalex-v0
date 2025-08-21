@@ -1,0 +1,3 @@
+Conditions techniques et tarifaires de l’accès et de l’interconnexion
+L’Autorité de régulation peut préciser les conditions techniques et tarifaires de l’interconnexion et de l’accès aux infrastructures actives et/ou passives et aux infrastructures alternatives entre opérateurs et entre opérateurs et exploitants d’infrastructures alternatives.
+L’Autorité de régulation peut notamment décider que la fourniture de certaines prestations d’accès et d’interconnexion visées à l’alinéa précédent doivent être orientées vers les coûts ou doivent être publiées dans un catalogue d’accès et d’interconnexion dans les conditions prévues à l’article 70 du présent code.

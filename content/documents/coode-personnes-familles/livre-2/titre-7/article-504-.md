@@ -1,0 +1,1 @@
+Si la cause d’exclusion, de destitution ou de récusation concerne le tuteur ou le subrogé-tuteur, le conseil de famille, convoqué selon les dispositions de l'article 478 du présent code, statue.

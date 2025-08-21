@@ -1,0 +1,16 @@
+{
+  "id": "article-33-",
+  "title": "Article 33 : La Direction générale des élections est placée sous l'autorité d'un Directeur général des élections. Le Directeur général des élections est l'ordonnateur du budget de la CENA.",
+  "numero": "33 ",
+  "document": "code-electoral",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "chapitre-3"
+  ],
+  "navigation": {
+    "parent": "chapitre-3",
+    "previous": "article-32-",
+    "next": "article-34-"
+  }
+}

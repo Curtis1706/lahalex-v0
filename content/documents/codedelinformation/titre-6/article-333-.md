@@ -1,0 +1,1 @@
+Constitue un délit, toute publicité telle que visée à l’article 172 de la présente loi. Le délit est constitué dès lors que la publicité est faite, reçue ou perçue en République du Bénin.

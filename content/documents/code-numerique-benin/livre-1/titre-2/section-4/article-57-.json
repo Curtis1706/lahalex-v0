@@ -1,0 +1,16 @@
+{
+  "id": "article-57-",
+  "title": "Article 57 : Règles applicables aux déclarations",
+  "numero": "57 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "section-4"
+  ],
+  "navigation": {
+    "parent": "section-4",
+    "previous": "article-56-",
+    "next": "article-58-"
+  }
+}

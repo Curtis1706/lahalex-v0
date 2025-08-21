@@ -1,0 +1,1 @@
+Le secrétaire administratif d'arrondissement est institutionnellement placé sous le chef d’arrondissement, sans aucun préjudice à ses attributions propres.

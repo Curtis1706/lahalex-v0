@@ -1,0 +1,2 @@
+Toute personne reconnue coupable d’acte de terrorisme est interdite de séjour sur le territoire de la République du Bénin lorsqu’elle possède une autre nationalité.
+Article : 173 : Les personnes condamnées au titre du présent chapitre ne peuvent bénéficier des aménagements de peines prévus au livre premier du présent code.

@@ -1,0 +1,2 @@
+Sera punie des mêmes peines, la diffamation ou l’outrage commis par les mêmes moyens, en raison de leurs fonctions ou de leur qualité, envers un ou plusieurs membres du Gouvernement, un ou plusieurs membres de l’Assemblée Nationale et des autres Institutions de l’Etat, un fonctionnaire public, un dépositaire ou agent de l’autorité publique, un citoyen chargé d’un service ou d’un mandat public temporaire ou permanent, un juré ou un témoin à raison de sa déposition.
+La diffamation contre les mêmes personnes concernant la vie privée sera punie des mêmes peines.

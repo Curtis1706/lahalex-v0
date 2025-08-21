@@ -1,0 +1,15 @@
+{
+  "id": "article-63-",
+  "title": "Article 63 : Attestation de catégorisation",
+  "numero": "63 ",
+  "document": "codemarchepublic",
+  "path": [
+    "titre-3",
+    "chapitre-7"
+  ],
+  "navigation": {
+    "parent": "chapitre-7",
+    "previous": "article-62-",
+    "next": "article-64-"
+  }
+}

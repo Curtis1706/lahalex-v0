@@ -1,0 +1,4 @@
+Astreinte
+Lorsqu’elle constate des pratiques anticoncurrentielles, l’Autorité de régulation peut prononcer une astreinte dans la limite de 5 % du chiffre d’affaires journalier moyen hors taxes, par jour de retard à compter de la date fixée pour exécuter une décision ayant ordonné des mesures conservatoires, ayant ordonné de mettre fin aux pratiques anticoncurrentielles ou ayant imposé des conditions particulières.
+Le chiffre d’affaires pris en compte est calculé sur la base des comptes de l’entreprise relatifs au dernier exercice clos à la date de la décision ou, en l’absence de chiffre d’affaires, peut atteindre trois cent mille (300 000) francs CFA.
+L’astreinte est liquidée par l’Autorité de régulation, qui en fixe le montant définitif.

@@ -1,0 +1,1 @@
+La surveillance et le contrôle de l'hygiène des denrées alimentaires sont assurés par les services compétents des ministères en charge de la santé, de l'agriculture, de l'élevage et de la pêche et d'autres services techniques publics ou privés concernés.

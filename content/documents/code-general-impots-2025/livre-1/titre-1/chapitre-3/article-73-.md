@@ -1,0 +1,10 @@
+(Modifié par la loi de finances pour 2024)
+Sont exonérés de l’impôt sur le revenu des capitaux mobiliers :
+1) les amortissements qui seraient faits par une réalisation d’actif et au moyen
+de prélèvements sur les éléments autres que le compte de résultat, les réserves ou provisions inscrites au bilan ;
+2) pour les sociétés concessionnaires de l’État ou des collectivités locales,
+l’amortissement par remboursement de tout ou partie de leur capital social, parts d’intérêts ou commandites, s’il est justifié par dépérissement progressif ou par obligation de remise en fin de concession à l’autorité concédante.
+Sont fixées à l’article 97 du présent code, les conditions dans lesquelles il est constaté, dans chaque cas, que l’opération a bien le caractère d’amortissement et que l’exonération est légitime.
+3) Les répartitions présentant pour les associés ou actionnaires, le caractère de
+remboursement d’apport ou de primes d’émission. Toutefois, une répartition n’est réputée présenter ce caractère que si tous les bénéfices et les réserves autres que la réserve légale ont  été  auparavant  répartis.  Pour  l’application  de  la  présente  disposition,  les amortissements et les provisions non admis en déduction pour le calcul de l’impôt sur les sociétés sont assimilés à des bénéfices. Ne sont pas considérées comme des apports, les réserves incorporées au capital et les sommes incorporées au capital ou aux réserves (primes de fusion ou de scission) à l’occasion d’une fusion ou d’une scission de sociétés ou d’un apport partiel d’actifs donnant lieu à l’attribution de titres aux associés.
+2) Lorsque les actions ont été remboursées par un des moyens non expressément exclus par le paragraphe 1 du présent article et à la liquidation de la société, la répartition de l’actif entre les porteurs d’actions de jouissance et jusqu’à concurrence du pair des actions originaires est considérée comme un remboursement de capital non imposable à l’impôt sur le revenu des capitaux mobiliers.

@@ -1,0 +1,1 @@
+L’assistance et le sauvetage maritimes sont régis par les dispositions du présent code.

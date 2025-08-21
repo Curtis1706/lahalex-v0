@@ -1,0 +1,1 @@
+Le don manuel n’est valable qu’autant que les conditions de fond des donations sont réunies.

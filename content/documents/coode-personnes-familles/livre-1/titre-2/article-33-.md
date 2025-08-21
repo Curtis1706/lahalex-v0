@@ -1,0 +1,1 @@
+L’état des personnes n’est établi et ne peut être prouvé que par les actes de l’état civil, les jugements ou arrêts en tenant lieu et, exceptionnellement, les actes de notoriété.

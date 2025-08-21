@@ -1,0 +1,2 @@
+Coopération économique
+Les Etats membres définissent progressivement des critères de convergence, efficaces et adaptables, en vue d’une coopération économique harmonieuse et en vue d’éviter des disparités et des déséquilibres néfastes à la concurrence et au commerce intra-communautaire.

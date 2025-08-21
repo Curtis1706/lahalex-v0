@@ -1,0 +1,2 @@
+Est punie d’un emprisonnement de deux (02) mois à deux (02) ans et d’une amende de vingt mille (20.000) francs CFA à deux cent mille (200.000) francs CFA, toute personne qui aura apposé ou fait apposer sur elle-même ou sur autrui une ou plusieurs marques de l’espèce mentionnée à l’article 299 du présent code.
+Lorsque l’infraction est commise sur la personne d’un mineur, la peine sera d’un emprisonnement de deux (02) ans à cinq (05) ans et d’une amende de cent mille (100.000) francs CFA à un million (1.000.000) francs CFA.

@@ -1,0 +1,2 @@
+Lorsque la cour d’appel est saisie du fond de l’affaire, elle est compétente pour statuer sur les restitutions dans les conditions prévues par les articles 492 à 495 du présent code.
+Elle demeure compétente, même après décision définitive sur le fond, pour ordonner la restitution dans les conditions prévues aux alinéas 1 et 2 de l’article 497 du présent code.

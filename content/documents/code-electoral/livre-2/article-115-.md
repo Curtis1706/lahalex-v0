@@ -1,0 +1,4 @@
+Si les données consultées ou communiquées à une personne au moment où elle est inscrite se révèlent être incomplètes ou inexactes, la personne concernée peut en demander la rectification.
+La demande est introduite par lettre à l'Agence Nationale d'identification des Personnes (ANIP). Cette lettre doit être accompagnée d'une photocopie de la pièce d'identité de l'auteur de la demande. Toute demande de rectification doit être motivée.
+La personne exerçant son droit de rectification, fournit à l'appui de sa requête tous les éléments de preuve méritant d'être pris en considération. A sa demande, la personne concernée est entendue et peut se faire assister par une personne de son choix.
+L'Agence Nationale d'identification des Personnes (ANIP) est tenue de donner suite à cette demande de rectification dans un délai de deux (2) mois. Tout refus de rectification est motivé et notifié par lettre recommandée avec accusé de réception au demandeur dans le même délai.

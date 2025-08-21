@@ -1,0 +1,2 @@
+Cette taxe, incorporée à la facture du client, est collectée par les hôtels et établissements assimilés ainsi que les résidences meublées.
+Elle n’entre pas dans la base d’imposition de la taxe sur la valeur ajoutée.

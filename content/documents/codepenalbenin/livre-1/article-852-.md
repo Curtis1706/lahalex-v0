@@ -1,0 +1,4 @@
+Quiconque procède ou fait procéder au transit, au stockage, à l’enfouissement, au déversement sur le territoire national de déchets toxiques ou polluants ou signe un accord pour autorisation de telles activités est puni de la réclusion criminelle à temps de dix (10) ans à vingt (20) ans et d’une amende de cent millions (100.000.000) de francs CFA à un milliard (1.000.000.000) de francs CFA.
+La juridiction ayant prononcé la peine peut :
+- ordonner la saisie du navire ou du véhicule ou des engins ayant servi à la commission de l’infraction ;
+- ordonner toute mesure conservatoire dictée par l’urgence.

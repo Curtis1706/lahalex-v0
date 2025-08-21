@@ -1,0 +1,1 @@
+Tout meurtre commis avec préméditation ou guet-apens est qualifié assassinat.

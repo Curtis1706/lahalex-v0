@@ -1,0 +1,1 @@
+Le contrat de mariage doit être rédigé avant la célébration du mariage et ne peut prendre effet qu’au jour de cette célébration.

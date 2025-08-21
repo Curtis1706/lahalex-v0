@@ -1,0 +1,1 @@
+La présente Loi qui annule toutes dispositions anté­rieures contraires prend effet pour compter du 1er Janvier 1987 et sera exécutée comme Loi de l’Etat.

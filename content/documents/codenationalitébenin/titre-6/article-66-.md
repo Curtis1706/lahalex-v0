@@ -1,0 +1,4 @@
+Dans toute instance qui a pour objet, à titre principal ou incident, une contestation sur la nationalité, une copie de l'acte introductif d'instance est déposée au ministre en charge de la justice pour transmission à l'autorité en charge de la délivrance des actes relatifs à la nationalité, contre récépissé.
+Toute demande à laquelle n'est pas jointe la justification du dépôt est déclarée irrecevable.
+Aucune décision au fond ne peut intervenir avant l'expiration d'un délai de trente (30) jours à compter dudit dépôt.
+Lorsque la contestation sur la nationalité a fait l'objet d'une question préjudicielle devant une juridiction statuant en matière électorale, la juridiction compétente saisie statue en urgence.

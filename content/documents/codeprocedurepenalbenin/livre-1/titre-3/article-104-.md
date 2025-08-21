@@ -1,0 +1,6 @@
+Lorsqu’il y a lieu, en cours d’information, de rechercher des documents et sous réserve des nécessités de l’information et du respect de l’obligation mentionnée à l’alinéa 3 de l’article 101, le juge d’instruction ou l’officier de police judiciaire par lui commis, a seul le droit d’en prendre connaissance avant de procéder à la saisie.
+Tous objets et documents saisis sont immédiatement inventoriés et placés sous scellés.
+Lorsque ces scellés sont fermés, ils ne peuvent être ouverts qu’en présence de l’inculpé assisté de son avocat, ceux-ci dûment appelés ; le tiers chez qui la saisie a été faite est également invité à assister à cette opération.
+Le juge d’instruction ne maintient que la saisie des objets et documents utiles à la manifestation de la vérité ou dont la communication serait de nature à nuire à l’instruction.
+Si les nécessités de l’instruction ne s’y opposent, les intéressés peuvent obtenir à leurs frais, dans le plus bref délai, copie ou photocopie des documents dont la saisie est maintenue.
+Si la saisie porte sur des espèces, lingots, effets ou valeurs dont la conservation en nature n’est pas nécessaire à la manifestation de la vérité ou à la sauvegarde des droits des parties, le juge d’instruction peut autoriser le greffier à en faire le dépôt dans une caisse publique de l’Etat.

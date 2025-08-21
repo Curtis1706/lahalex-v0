@@ -1,0 +1,7 @@
+Avant de se présenter à l’agent du trésor public, le condamné demande au greffe de la juridiction qui a rendu la décision, un extrait en trois (03) exemplaires de celle-ci portant le décompte des condamnations pécuniaires, y compris les droits d’enregistrement.
+Un (01) extrait supplémentaire est conservé au greffe et porte mention de la date d’envoi ou de remise des trois (03) exemplaires visés à l’alinéa précédent.
+L’agent du trésor public à qui la partie condamnée remet les trois (03) extraits rend l’un de ceux-ci à l’intéressé avec la mention du payement, renvoie le second extrait au greffe avec la mention de la somme versée et conserve le troisième comme titre de recette.
+A l’expiration du délai de trois (03) mois prévu au premier alinéa de l’article 833, le greffier transmet au procureur de la République ou au procureur général, pour exercice de la contrainte par corps conformément à l’article 829, les extraits concernant les condamnés pour lesquels il n’a pas reçu l’avis de payement mentionné à l’alinéa précédent.
+Si le débiteur est détenu, la recommandation peut être faite immédiatement.
+Les parties désirant s’acquitter avant que la condamnation soit définitive ont la faculté d’utiliser la procédure prévue au présent article.
+L’extrait renvoyé au greffe avec mention du payement tient lieu, le cas échéant, de l’avis de payement de l’amende nécessaire à l’établissement du casier judiciaire.

@@ -1,0 +1,3 @@
+Article 52 : Raison de l’assistance médicale à la procréation
+On ne peut recourir à l’assistance médicale à la procréation que pour cause d’infertilité, de stérilité, d’incapacité physique, ou pour éviter la transmission à l’enfant d’une maladie d’une particulière gravité.
+L’assistance médicale à la procréation vise la dignité humaine, la protection de la personne et de la famille et le bien de l’enfant.

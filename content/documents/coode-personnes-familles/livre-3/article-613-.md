@@ -1,0 +1,1 @@
+Les droits successoraux prévus aux articles 619 à 629 du présent chapitre ne sont conférés aux parents que sous réserve des droits du conjoint survivant.

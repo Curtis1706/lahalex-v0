@@ -1,0 +1,1 @@
+Les jurés se placent dans l’ordre désigné par le sort, aux côtés de la cour.

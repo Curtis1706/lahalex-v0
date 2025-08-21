@@ -1,0 +1,1 @@
+Le jugement ou arrêt qui prononce le divorce n'est pas susceptible d'acquiescement, à moins qu’il n’ait été rendu sur conversion de séparation de corps.

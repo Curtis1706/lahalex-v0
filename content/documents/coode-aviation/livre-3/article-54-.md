@@ -1,0 +1,1 @@
+Les aéronefs étrangers, sous réserve des conditions de réciprocité, sont soumis au même régime d'exemption prévu à l’article 53 de la présente loi.

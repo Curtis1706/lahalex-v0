@@ -1,0 +1,2 @@
+Pendant trois (03) jours francs après celui de l’adjudication, les oppositions à la délivrance des prix sont reçues ; passé ce délai elles ne sont plus admises.
+La surenchère ne peut être admise dix (10) jours après la vente judiciaire.

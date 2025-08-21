@@ -1,0 +1,16 @@
+{
+  "id": "article-24-",
+  "title": "Article 24 : Durée du contrat",
+  "numero": "24 ",
+  "document": "cima-code-assurances-benin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-3"
+  ],
+  "navigation": {
+    "parent": "chapitre-3",
+    "previous": "article-23-",
+    "next": "article-25-"
+  }
+}

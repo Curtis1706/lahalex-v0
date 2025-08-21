@@ -1,0 +1,2 @@
+Vices cachés inconnus du vendeur
+Le vendeur de biens en ligne est tenu d'en garantir les vices cachés, même s'il n'en avait pas connaissance au moment de la commande, à moins que dans ce cas, il n'ait stipulé qu'il ne sera obligé à aucune garantie.

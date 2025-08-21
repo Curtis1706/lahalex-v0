@@ -1,0 +1,2 @@
+L'inscription sur le registre identifie l'aéronef.
+Cette inscription est attestée par la délivrance par l’organisme national en charge de l'aviation civile d'un certificat d'immatriculation portant le nom du propriétaire, un numéro d'ordre et la désignation de la catégorie à laquelle appartient l’aéronef.

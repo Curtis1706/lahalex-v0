@@ -1,0 +1,1 @@
+Lorsqu'une eau provenant d'une source de distribution publique destinée à la consommation directe ou indirecte n'est pas potable ou qu'elle est mal protégée, son usage est immédiatement suspendu. Son utilisation ultérieure est subordonnée à une autorisation spéciale de l'autorité sanitaire compétente.

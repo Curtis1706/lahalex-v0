@@ -1,0 +1,2 @@
+A défaut de la stipulation indiquée à l’article précédent, l’adopté et ses descendants succèdent à l’adoptant ou, en cas d’adoption conjointe, à chacun des adoptants, avec les mêmes droits qu’un enfant légitime ou ses descendants.
+Sont applicables pour le surplus les dispositions régissant les successions.

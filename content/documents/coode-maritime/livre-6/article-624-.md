@@ -1,0 +1,3 @@
+Tout propriétaire ou armateur qui ne s’est pas conformé aux dispositions des articles 91 et 92 du présent code relatif aux opérations de vente, d’achat ou de location de navires, ainsi qu’à celles des règlements pris pour leur application, est puni d’une amende de cinq cent mille (500.000) à deux millions (2.000.000) de francs.
+La vente volontaire d’un navire grevé d’hypothèque à un étranger, en quelque lieu qu’elle intervienne, est punie des peines prévues par les dispositions du code pénal.
+Toute personne qui, frauduleusement, a par quelque moyen que ce soit, procuré une nationalité étrangère au navire hypothéqué par elle, ou par ceux dont elle est l’ayant droit, est punie des peines prévues par les dispositions du code pénal.

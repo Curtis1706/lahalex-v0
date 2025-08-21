@@ -1,0 +1,1 @@
+Toute personne a droit au respect de sa vie privée. Cela s’entend que toute personne est libre de gérer sa propre existence comme elle la pense sans craindre aucune ingérence extérieure et/ou publicité.

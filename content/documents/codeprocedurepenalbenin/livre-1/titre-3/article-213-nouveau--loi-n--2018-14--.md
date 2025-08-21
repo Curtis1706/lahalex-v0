@@ -1,0 +1,1 @@
+Sauf urgence, la chambre de l’instruction et la chambre des libertés et de la détention se réunissent au moins une (01) fois par semaine et, sur convocation de son président ou à la demande du procureur général toutes les fois qu'il est nécessaire.

@@ -1,0 +1,1 @@
+Dans toute tutelle, il y aura un subrogé-tuteur nommé au début de la tutelle par le conseil de famille, parmi ses membres.

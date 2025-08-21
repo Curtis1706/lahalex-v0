@@ -1,0 +1,1 @@
+Les père et mère ou le conseil de famille peuvent consentir à l’adoption de l’enfant en laissant le choix de l’adoptant à un service public spécialisé.

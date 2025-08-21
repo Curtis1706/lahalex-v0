@@ -1,0 +1,1 @@
+Il n'y a pas lieu d'ouvrir une tutelle qui devrait être dévolue au conjoint si, par l’application du régime matrimonial et, notamment, les règles des articles 177,178, et 204 du présent code, il peut être suffisamment pourvu aux intérêts de la personne protégée.

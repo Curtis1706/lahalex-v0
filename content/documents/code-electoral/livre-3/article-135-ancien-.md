@@ -1,0 +1,3 @@
+Les dépôts de candidature sont faits cinquante (50) jours avant l'ouverture de la campagne électorale pour le 1 tour du scrutin.
+La déclaration de candidature est faite en double exemplaire revêtue de la signature du candidat et attestant sur l'honneur qu'il remplit les conditions d'éligibilité requises.
+Outre les pièces mentionnées à l'article 41 du présent code et aux fins de l'étude des dossiers de candidature, la Commission électorale nationale autonome se fait délivrer par les autorités compétentes, le bulletin n° 2 du casier judiciaire des candidats.

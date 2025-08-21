@@ -1,0 +1,3 @@
+Peut être immatriculé en République du Bénin, tout aéronef appartenant à un étranger dont le domicile s’y trouve, ou appartenant à une société ou association étrangère dont le siège social s'y trouve, ou appartenant à un organisme dont la République du Bénin est membre.
+Il en est de même de l’aéronef dont le propriétaire exerce une activité utile au développement économique, social et culturel de la République du Bénin.
+L'inscription de tout aéronef sur le registre d'immatriculation fait l'objet d'une autorisation délivrée par le ministre chargé de l'aviation civile, après avis de l'organisme national en charge de l'aviation civile.

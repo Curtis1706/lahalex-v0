@@ -1,0 +1,2 @@
+Servitudes administratives pour protéger la propagation des ondes radioélectriques
+Dans un but d’intérêt général, il peut être institué des servitudes 	administratives 	pour 	protéger la propagation 	des ondes radioélectriques contre l’occultation.

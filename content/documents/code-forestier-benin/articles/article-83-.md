@@ -1,0 +1,5 @@
+Article 83 : En cas de récidive le maximum de l'amende sera
+toujours prononcé. Il y a récidive lorsque dans les deux ans qui
+précèdent le jour où le nouveau délit a été commis, il a été prononcé
+contre le délinquant ou contrevenant une condamnation définitive pour
+délit ou contravention en matière forestière.

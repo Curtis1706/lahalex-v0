@@ -1,0 +1,17 @@
+{
+  "id": "article-15-",
+  "title": "Article 15 : Si les marchandises importées, des marchandises",
+  "numero": "15 ",
+  "document": "code-douane",
+  "path": [
+    "titre-1",
+    "chapitre-5",
+    "section-3",
+    "paragraphe-1"
+  ],
+  "navigation": {
+    "parent": "paragraphe-1",
+    "previous": "article-14-",
+    "next": "article-16-"
+  }
+}

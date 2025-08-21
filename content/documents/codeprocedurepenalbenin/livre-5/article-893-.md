@@ -1,0 +1,3 @@
+Sera puni d’une amende de deux cent mille (200 000) à deux millions (2 000 000) de francs et d’un emprisonnement de trois (03) mois à deux (02) ans ou de l’une de ces deux peines seulement :
+1. quiconque, en prenant un faux nom ou une fausse qualité, se sera fait délivrer un extrait du casier judiciaire d’un tiers ;
+2. quiconque aura fourni des renseignements d’identité imaginaires qui ont provoqué ou auraient pu provoquer des mentions erronées au casier judiciaire.

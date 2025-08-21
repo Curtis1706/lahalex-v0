@@ -1,0 +1,2 @@
+Les aéronefs, tels que définis à l'article 1<sup>er</sup> de la présente loi, ne peuvent être hypothéqués que par la convention des parties.
+L'hypothèque grève, dès lors qu'ils appartiennent au propriétaire de l'aéronef, la cellule, les moteurs, les hélices, les appareils de bord et toutes pièces destinées de façon continue au service de l'aéronef, qu'elles fassent corps avec lui ou en soient temporairement séparées. J

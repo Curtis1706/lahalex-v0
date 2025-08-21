@@ -1,0 +1,2 @@
+La présentation caricaturale de l’image ou des traits d’une personne est libre.
+Toutefois, cette présentation est faite en prenant soin d’éviter toutes circonstances diffamatoires, injurieuses et attentatoires à la vie privée.

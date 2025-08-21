@@ -1,0 +1,2 @@
+Confirmation de l’identité
+Sans préjudice des dispositions de l'article 399, lorsque le responsable du traitement a des doutes raisonnables quant à l'identité de la personne physique présentant la demande visée aux articles 437 et 443, il peut demander que lui soient fournies des informations supplémentaires nécessaires pour confirmer l'identité de la personne concernée.

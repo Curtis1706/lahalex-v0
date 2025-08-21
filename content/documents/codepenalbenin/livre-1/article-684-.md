@@ -1,0 +1,1 @@
+Quiconque a procédé à la falsification de documents informatisés, quelle que soit leur forme, de nature à causer un préjudice à autrui, est puni d’un emprisonnement de un (01) an à cinq (05) ans et d’une amende de deux millions (2.000.000) de francs CFA à vingt millions (20.000.000) de francs CFA.

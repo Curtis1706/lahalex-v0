@@ -1,0 +1,6 @@
+Est punie des peines de la banqueroute frauduleuse, toutes personnes physiques dirigeantes de personnes morales de droit privé ainsi que toute entreprise publique ou ayant la forme d’une personne morale de droit privé qui frauduleusement, ont :
+1. soustrait les livres de la personne morale ;
+2. détourné ou dissimulé une partie de son actif ;
+3. reconnu la personne morale débitrice de sommes qu’elle ne devait pas, soit dans les écritures, soit par des actes publics ou des engagements sous signature privée, soit dans le bilan ;
+4. exercé la profession de dirigeant en violation d’une interdiction prévue par un Acte uniforme ou par les lois et règlements applicables ;
+5. stipulé avec un créancier, au nom de la personne morale, des avantages particuliers à raison de son vote dans les délibérations de la masse ou qui ont fait avec un créancier une convention particulière de laquelle il résulterait pour ce dernier un avantage à la charge de l’actif de la personne morale, à partir de la date de la cessation des paiements, sauf disposition contraire de l’Acte uniforme portant organisation des procédures collectives d’apurement du passif.

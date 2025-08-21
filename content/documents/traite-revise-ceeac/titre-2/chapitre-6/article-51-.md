@@ -1,0 +1,4 @@
+Compensation pour perte de recettes
+1. La Communauté, sur rapport du Président de la Commission et sur recommandation du Commissaire en charge du marché commun, décide des compensations à accorder à un Etat membre qui a subi une perte de recettes à l’importation par suite de l’application du présent chapitre.
+1. Outre les compensations à verser aux Etats membres qui subissent les pertes de recettes en raison de l’application du présent chapitre, la Communauté recommande des mesures visant à promouvoir les capacités de production et d’exportations de ces pays afin de mieux tirer avantage de la libéralisation des échanges.
+1. Les mécanismes de compensation de pertes en recettes sont mis en œuvre par le guichet du fonds de compensation, de coopération et de développement crée à l’article 93 du présent traité.

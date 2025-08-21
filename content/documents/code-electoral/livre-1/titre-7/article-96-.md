@@ -1,0 +1,2 @@
+Les listes d'émargement de chaque poste de vote signées du président et des assesseurs, demeurent déposées pendant huit (08) jours dans les mairies, dans les ambassades ou consulats où elles sont communiquées sans déplacement à tout électeur requérant.
+A l'expiration de ce délai, lesdites listes d'émargement sont transmises à la Commission électorale nationale autonome (CENA) pour être archivées.

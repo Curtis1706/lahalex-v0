@@ -1,0 +1,16 @@
+{
+  "id": "article-221-",
+  "title": "Article 221 :",
+  "numero": "221 ",
+  "document": "code-admin-territorial",
+  "path": [
+    "titre-4",
+    "chapitre-1",
+    "section-3"
+  ],
+  "navigation": {
+    "parent": "section-3",
+    "previous": "article-220-",
+    "next": "article-222-"
+  }
+}

@@ -1,0 +1,3 @@
+La vente dite F.O.B (free on board), libre à bord, est une vente à l’embarquement dans laquelle le vendeur s’engage à livrer la marchandise au port d’embarquement désigné dans le contrat de vente.
+Le risque de perte ou de dommage aux marchandises est transféré du vendeur à l’acheteur lorsque la marchandise passe le bastingage du navire.
+La vente dite F.A.S (free alongside ship), libre le long du bord, est une vente à l’embarquement dans laquelle le vendeur s’engage à livrer la marchandise libre de toutes charges, à quai, le long du bord. Sauf convention contraire, l’agréage a lieu au port de chargement, avant l’embarquement.

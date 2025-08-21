@@ -1,0 +1,2 @@
+Les procurations à donner par les personnes visées à l'article 78 sont établies sur des formulaires sécurisés et référencés conçus par la Commission électorale nationale autonome (CENA) conformément aux dispositions de l'article 69 du présent code.
+Ces formulaires sont mis à la disposition des électeurs quinze (15) jours avant le jour du scrutin par la Commission électorale nationale autonome (CENA) ou les coordonnateurs d'arrondissement.

@@ -1,0 +1,4 @@
+Toute omission ou déclaration inexacte de l’assuré qui est de nature à atténuer nettement le sentiment de l’assureur sur la portée du risque annule l’assurance, même en l’absence d’intention frauduleuse.
+Toute omission de l’assuré faite de mauvaise foi, ayant pareillement diminué l’opinion de l’assureur, annule également l’assurance. L’assurance est nulle, même si la déclaration inexacte ou l’omission n’a pas influé sur le dommage ou la perte de l’objet.
+Toutefois, si l’assuré rapporte la preuve de sa bonne foi, l’assureur est, sauf convention plus favorable à l’égard de l’assuré, garant du risque proportionnellement à la prime perçue par rapport à celle qu’il aurait dû percevoir, sauf les cas où il établirait qu’il n’aurait pas couvert les risques s’il les avait connus.
+La prime demeure acquise à l’assureur en cas d’intention frauduleuse de l’assuré.

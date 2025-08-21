@@ -1,0 +1,1 @@
+Conformément aux dispositions de l'article 98 de la présente loi, tout jet non autorisé d'objets à bord d'un aéronef en évolution est puni d'une amende maximale de trois millions (3 000 000) de francs CFA et d'un emprisonnement maximal d'un an ou de l'une de ces deux peines seulement, même si ces jets n'ont causé aucun dommage.

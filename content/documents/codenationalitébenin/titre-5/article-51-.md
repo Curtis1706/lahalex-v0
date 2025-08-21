@@ -1,0 +1,1 @@
+A moins que le tribunal n'ait déjà statué par une décision passée en force de chose jugée, l'enregistrement peut être contesté par le ministère public ou un tiers si les conditions légales ne sont pas satisfaites.

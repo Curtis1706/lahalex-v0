@@ -1,0 +1,15 @@
+Niveaux de garantie des schémas d’identification électronique
+Un schéma d’identification électronique détermine les spécifications des niveaux de garantie faible, substantiel et/ou élevé des moyens d’identification électronique délivrés dans le cadre dudit schéma.
+Ces niveaux de garantie satisfont aux critères suivants :
+1. le niveau de garantie faible est celui fourni par un moyen d’identification électronique qui accorde un degré limité de fiabilité à l’identité revendiquée ou prétendue d’une personne concernée. Il est caractérisé sur la base de spécifications techniques, de normes et de procédures y afférentes, y compris les contrôles techniques dont l’objectif est de réduire le risque d’utilisation abusive ou d’altération de l’identité de la personne concernée ;
+1. le niveau de garantie substantiel est celui fourni par un moyen d’identification électronique qui accorde un degré substantiel de fiabilité à l’identité revendiquée ou prétendue d’une personne concernée. Il est caractérisé sur la base de spécifications techniques, de normes et de procédures y afférentes, y compris les contrôles techniques, dont l’objectif est de réduire substantiellement le risque d’utilisation abusive ou d’altération de l’identité de la personne concernée ;
+1. le niveau de garantie élevé est celui fourni par un moyen d’identification électronique qui accorde un niveau de fiabilité à l’identité revendiquée ou prétendue d’une personne plus élevé qu’un moyen d’identification électronique à niveau de garantie substantiel. Il est caractérisé sur la base de spécifications techniques, de normes et de procédures y afférentes, y compris les contrôles techniques, dont l’objectif est d’empêcher l’utilisation abusive ou l’altération de l’identité.
+Au plus tard un (01) an après la publication du présent code, compte tenu des normes internationales applicables et sous réserve des dispositions du présent article, sont fixées par décret pris en Conseil des Ministres sur proposition du Ministre chargé des communications électroniques, les spécifications techniques, normes et procédures minimales sur la base desquelles les niveaux de garanties faible, substantiel et élevé sont assurés par les moyens d’identification électronique prévus au présent article.
+Ces spécifications techniques, normes et procédures minimales sont fixées par référence à la qualité et à la fiabilité des éléments suivants :
+1. la procédure visant à vérifier et prouver l’identité des personnes physiques ou morales demandant la délivrance de moyens d’identification électronique ;
+1. la procédure de délivrance des moyens d’identification électronique demandés ;
+1. le mécanisme d’authentification par lequel la personne concernée utilise/confirme son identité
+;
+1. l’entité délivrant les moyens d’identification électronique ;
+1. tout autre organisme associé à la demande de délivrance de moyens d’identification électronique ;
+1. les spécifications techniques et de sécurité des moyens d’identification électronique délivrés.

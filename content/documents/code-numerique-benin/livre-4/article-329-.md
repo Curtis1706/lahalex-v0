@@ -1,0 +1,3 @@
+Responsabilité contractuelle
+Toute personne physique ou morale exerçant une activité soumise aux dispositions du présent Livre ou partie à un contrat encadré par les dispositions du présent Livre, est responsable de plein droit de la bonne exécution des obligations résultant des conventions conclues, que ces obligations soient à exécuter par elle-même ou par des tiers, sans préjudice de son droit de recours contre ceux-ci.
+Toutefois, elle peut s'exonérer de tout ou partie de sa responsabilité en apportant la preuve que l'inexécution ou la mauvaise exécution du contrat est imputable soit à l'autre partie ou à un tiers, soit à un cas de force majeure.

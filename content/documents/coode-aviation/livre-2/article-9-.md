@@ -1,0 +1,1 @@
+Les inspecteurs de l'aviation civile ont le pouvoir de constater les infractions aux dispositions de la présente loi.

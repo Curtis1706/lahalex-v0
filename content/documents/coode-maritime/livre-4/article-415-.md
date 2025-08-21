@@ -1,0 +1,1 @@
+Le seul fait de consigner un navire à un consignataire en République du Bénin entraîne pour l’armateur, élection de domicile par ce dernier pour tous les actes et actions concernant ce navire et sa cargaison. Tout acte judiciaire ou extra-judiciaire visant l’armateur peut être valablement signifié à son consignataire même après le départ du navire.

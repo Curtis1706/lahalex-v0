@@ -1,0 +1,3 @@
+Les agents permanents d’un armateur, publiquement connus en cette qualité dans le port ou autres lieux où ils résident, engagent valablement l’armateur qu’ils représentent pour tout ce qui concerne l’exploitation normale du navire.
+A cet effet, une limitation contractuelle de leurs pouvoirs n’est pas opposable aux tiers de bonne foi qui ont pu l’ignorer.
+Toutefois, l’agent de l’armateur doit justifier d’un pouvoir spécial délivré par ce dernier dans les cas de vente, hypothèque, armement ou désarmement du navire.

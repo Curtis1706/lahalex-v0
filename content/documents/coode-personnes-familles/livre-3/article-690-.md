@@ -1,0 +1,2 @@
+La succession est liquidée par un ou plusieurs liquidateurs. La qualité de liquidateur appartient de plein droit aux héritiers. Toutefois, lorsque le défunt avait lui-même désigné un liquidateur ou un exécuteur testamentaire, la qualité de liquidateur appartiendra exclusivement à la personne désignée.
+Les héritiers concourent avec les légataires universels à assurer la liquidation de la succession.

@@ -1,0 +1,3 @@
+Lorsque les directeurs de publication, les directeurs de radiodiffusion sonore et de télévision sont mis en cause, les auteurs des faits incriminés sont poursuivis comme complices.
+Lorsque les directeurs d’organes, les exploitants des sites internet ou les fournisseurs d’accès aux services en ligne bénéficient de l’immunité parlementaire dans les conditions prévues par la Constitution, ils désignent un co-directeur ou un responsable choisi parmi les personnes ne bénéficiant d’aucune immunité.
+Cette nomination intervient dans le délai de trente (30) jours à compter de la date à partir de laquelle l’immunité est accordée.

@@ -1,0 +1,1 @@
+Un Béninois qui se trouve en pays étranger peut faire ses dispositions testamentaires par acte sous signature privée, dans la forme prescrite à l’article 873 ou par acte public avec les formes usitées dans le lieu où cet acte est passé.

@@ -1,0 +1,16 @@
+{
+  "id": "article-87-",
+  "title": "Article 87 :",
+  "numero": "87 ",
+  "document": "coode-personnes-familles",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "chapitre-5"
+  ],
+  "navigation": {
+    "parent": "chapitre-5",
+    "previous": "article-86-",
+    "next": "article-88-"
+  }
+}

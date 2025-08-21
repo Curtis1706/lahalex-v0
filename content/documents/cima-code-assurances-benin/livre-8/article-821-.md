@@ -1,0 +1,2 @@
+_(Règlement 2015-02)_ Liquidation, clôture
+Le tribunal prononce la clôture de la liquidation sur le rapport du juge-contrôleur lorsque tous les créanciers ont été désintéressés ou lorsque le cours des opérations est arrêté pour insuffisance d’actif.

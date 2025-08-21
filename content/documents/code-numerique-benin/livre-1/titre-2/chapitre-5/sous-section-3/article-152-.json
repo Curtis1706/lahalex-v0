@@ -1,0 +1,17 @@
+{
+  "id": "article-152-",
+  "title": "Article 152 : Communication des documents comptables",
+  "numero": "152 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "chapitre-5",
+    "sous-section-3"
+  ],
+  "navigation": {
+    "parent": "sous-section-3",
+    "previous": "article-151-",
+    "next": "article-153-"
+  }
+}

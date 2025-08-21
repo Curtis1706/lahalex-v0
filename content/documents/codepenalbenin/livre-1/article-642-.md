@@ -1,0 +1,1 @@
+Est compris dans la classe des effractions intérieures, le simple enlèvement de caisses, de boîtes, de ballots sous toile ou corde et d’autres meubles fermés, qui contiennent des effets quelconques, bien que l’effraction n’ait pas été faite sur le lieu.

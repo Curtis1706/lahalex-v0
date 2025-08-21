@@ -1,0 +1,1 @@
+La cour proprement dite comprend le président et trois (03) assesseurs.

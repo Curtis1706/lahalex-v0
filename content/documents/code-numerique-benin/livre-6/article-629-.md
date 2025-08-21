@@ -1,0 +1,2 @@
+Violation d’une interdiction administrative
+Est puni d’un emprisonnement d’un (01) an à cinq (05) ans et d’une amende de un million (1 000 000) à vingt millions (20 000 000) de francs CFA ou de l’une de ces deux peines seulement, quiconque aura mis à la disposition d’autrui par la vente ou la location un moyen de cryptologie ayant fait l’objet d’une interdiction administrative d’utilisation et de mise en circulation, sans préjudice de l’application du code des douanes.

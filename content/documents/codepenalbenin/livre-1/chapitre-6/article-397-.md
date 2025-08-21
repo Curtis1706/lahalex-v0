@@ -1,0 +1,1 @@
+Si la rébellion a été commise par moins de trois (03) personnes avec armes, elle est punie d’un emprisonnement de six (06) mois à deux (02) ans, et si elle a eu lieu sans armes, d’un emprisonnement de un (01) mois à six (06) mois.

@@ -1,0 +1,2 @@
+Article 330-32 : Tarification
+Le Conseil d’Administration décide de l’admissibilité et de la tarification de tout risque prévu par les statuts, sous réserve de l’application des lois et règlements en vigueur. Aucun traitement préférentiel ne peut être accordé à un sociétaire.

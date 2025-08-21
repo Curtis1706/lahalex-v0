@@ -1,0 +1,1 @@
+Les parties peuvent, par convention expresse et écrite, confier au capitaine du remorqueur la direction des opérations et inverser la présomption de responsabilité ci-dessus énoncée.

@@ -1,0 +1,2 @@
+La charge de la preuve, en matière de nationalité, incombe à celui dont la nationalité est en cause.
+Toutefois, cette charge incombe à celui qui conteste la qualité de Béninois à un individu titulaire d'un certificat de nationalité béninoise délivré conformément aux dispositions de la présente loi.

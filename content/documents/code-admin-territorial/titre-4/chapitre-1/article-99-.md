@@ -1,0 +1,1 @@
+Le conseil de supervision soumet au conseil communal un rapport trimestriel d'activité auquel sont annexés les rapports mensuels du secrétaire exécutif de la commune.

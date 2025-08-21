@@ -1,0 +1,2 @@
+Article 253 : Délais supplémentaires en cas de résidence à l’étranger
+Lorsque la victime réside à l’étranger, les délais qui lui sont impartis en vertu des articles 249 et 250 ci-dessus sont augmentés d’un mois. Le délai imparti à l’assureur pour présenter l’offre d’indemnité est prorogé de la même durée.

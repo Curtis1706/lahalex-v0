@@ -1,0 +1,4 @@
+Demandes d’accès et d’interconnexion
+Toute demande relative à des prestations visées aux articles 73, 74, 76 et 77 du présent code ne peut être refusée si elle est justifiée au regard, d'une part, des besoins du demandeur et d’autre part, des capacités de l’opérateur à la satisfaire.  Elle peut être refusée si elle est techniquement impossible à satisfaire, notamment au regard de l'interopérabilité des équipements et systèmes.
+Toute décision de refus d’accès ou d’interconnexion opposée par un opérateur doit être motivée. Elle est notifiée au demandeur et portée à la connaissance de l’Autorité de régulation, ainsi que, le cas échéant, à l’autorité de régulation nationale du pays dans lequel est établi l’opérateur non national.
+A la demande des parties, l’Autorité de régulation peut les assister dans les négociations des accords conventions prévues à la présente Section.

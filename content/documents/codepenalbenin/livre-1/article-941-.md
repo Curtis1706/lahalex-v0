@@ -1,0 +1,3 @@
+En particulier, sont assimilées aux majorations illicites de prix :
+- les offres, propositions, conventions faites à un prix supérieur au prix plafond autorisé, à un prix inférieur au prix plancher autorisé ou comportant sous quelque forme que ce soit une rémunération occulte ;
+- la livraison de produits inférieurs en qualité ou quantité, ou dont les spécifications ne correspondent pas aux énonciations de factures.

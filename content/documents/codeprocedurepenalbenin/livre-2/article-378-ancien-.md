@@ -1,0 +1,3 @@
+Si les accusés visés aux deux articles qui précèdent se constituent prisonniers ou s’ils viennent à être arrêtés avant que la peine soit éteinte par prescription, l’arrêt de condamnation est anéanti de plein droit et il est procédé à nouveau dans les formes ordinaires à moins que lesdits accusés déclarent expressément dans un délai de dix (10) jours acquiescer à la condamnation.
+Aucun avocat ne peut se présenter pour la défense des accusés visés aux articles 376et 377 du présent code. Toutefois, s’ils sont dans l’impossibilité absolue de déférer à la citation, les parents, les amis ou leurs avocats peuvent proposer par écrit, leur excuse motivée.
+Si la cour d’assises trouve l’excuse légitime, elle ordonne qu’il soit sursis au jugement desdits accusés.

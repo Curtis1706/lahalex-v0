@@ -1,0 +1,4 @@
+Demande d’accès aux infrastructures essentielles
+Toute demande d’accès à des ressources et/ou capacités issues d’infrastructures essentielles ne peut être refusée si elle est justifiée au regard, d'une part, des besoins du demandeur et d’autre part, des capacités de l’exploitant de l’infrastructure essentielle à la satisfaire. Elle peut être refusée si elle est techniquement impossible à satisfaire, notamment au regard de l'interopérabilité des équipements et systèmes.
+Toute décision de refus opposée par un exploitant d’infrastructure essentielle doit être motivée. Elle est notifiée au demandeur et portée à la connaissance de l’Autorité de régulation, ainsi que, le cas échéant, à l’autorité de régulation nationale du pays dans lequel est établi l’opérateur non national.
+A la demande des parties, l’Autorité de régulation peut les assister dans les négociations des accords et conventions prévues à la présente Section.

@@ -1,0 +1,2 @@
+Le navire prêt à appareiller est susceptible de saisie. Dans ce cas, le tribunal est compétent pour statuer sur le fond du procès.
+Le navire est censé prêt à appareiller lorsque le directeur de la marine marchande l’a expédié, a porté son départ sur le registre des sorties et lui a remis son rôle d’équipage.

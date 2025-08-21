@@ -1,0 +1,2 @@
+Sort du Le personnel désigné à l’article 25, tombé aux mains de l’ennemi, sera consi- personnel déré comme prisonnier de guerre, mais il sera employé à des missions sani-
+temporaire taires pour autant que le besoin s’en fasse sentir.

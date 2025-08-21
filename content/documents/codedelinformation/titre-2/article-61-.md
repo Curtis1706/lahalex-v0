@@ -1,0 +1,2 @@
+Les autorités judiciaires, notamment le procureur de la République, veillent au respect de la présomption d’innocence par les journalistes et les organes de presse.
+Ces autorités peuvent prendre l’initiative de toute insertion, de tout communiqué de presse, de toute rectification ou de toute saisie, suspension d’émission ou confiscation de supports d’enregistrement et en général de toute mesure utile à la sauvegarde de la sérénité du procès pénal.

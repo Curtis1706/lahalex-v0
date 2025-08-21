@@ -1,0 +1,15 @@
+{
+  "id": "article-2-",
+  "title": "ARTICLE 2 : Sur le territoire de la République du Bénin, dans les",
+  "numero": "2 ",
+  "document": "code-minier-benin",
+  "path": [
+    "titre-1",
+    "chapitre-1"
+  ],
+  "navigation": {
+    "parent": "chapitre-1",
+    "previous": "article-1er-",
+    "next": "article-3-"
+  }
+}

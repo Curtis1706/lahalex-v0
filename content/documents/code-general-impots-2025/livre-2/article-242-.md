@@ -1,0 +1,1 @@
+Dans les cas de travaux ou fournitures sur marché public ou de gré à gré, l’assiette et le taux applicables sont ceux en vigueur à la date de signature du marché.

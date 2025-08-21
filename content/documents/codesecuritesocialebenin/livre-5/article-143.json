@@ -1,0 +1,14 @@
+{
+  "id": "article-143",
+  "title": "Article 143.",
+  "numero": "143",
+  "document": "codesecuritesocialebenin",
+  "path": [
+    "livre-5"
+  ],
+  "navigation": {
+    "parent": "livre-5",
+    "previous": "article-142-",
+    "next": "article-144-"
+  }
+}

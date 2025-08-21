@@ -1,0 +1,16 @@
+{
+  "id": "article-46-",
+  "title": "Article 46 : Activités soumises au régime de la licence",
+  "numero": "46 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "section-2"
+  ],
+  "navigation": {
+    "parent": "section-2",
+    "previous": "article-45-",
+    "next": "article-47-"
+  }
+}

@@ -1,0 +1,1 @@
+Article 403 : L’expérimentation médicale sur la personne de l’enfant est interdite.

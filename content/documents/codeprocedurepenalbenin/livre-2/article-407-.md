@@ -1,0 +1,4 @@
+Le président, ou le juge par lui désigné, porte en marge ou au-dessous du procès-verbal, qu’il n’y a pas lieu à arbitrage et renvoie ledit procès-verbal au procureur de la République dans les cas suivants :
+1. si la contravention constatée expose son auteur à la réparation de dommages causés aux personnes ou aux biens ;
+2. si la contravention est prévue et réprimée par le code forestier, le code du travail ou le code des douanes, ou tout autre texte de loi de police générale ainsi que dans les cas où une législation particulière a exclu la procédure de l’arbitrage ;
+3. lorsque la contravention est passible d’une peine d’amende et d’une peine d’emprisonnement, si le juge estime que la sanction pécuniaire est insuffisante.

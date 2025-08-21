@@ -1,0 +1,1 @@
+Hormis les cas de récidive, les agents assermentés, compétents pour connaître des infractions à la réglementation de la pêche, pourront proposer aux délinquants, des transactions de dix mille (10.000) francs CFA à vingt mille (20 000) francs CFA.

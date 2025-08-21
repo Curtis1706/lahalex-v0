@@ -1,0 +1,1 @@
+Pour chaque tribunal, la liste annuelle est dressée suivant l’ordre alphabétique par le président de la cour d’appel assisté de deux (02) avocats, après avis du procureur général. Elle est alors déposée au greffe de la cour d’appel et notifiée au président du tribunal intéressé.

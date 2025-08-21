@@ -1,0 +1,2 @@
+En cas d’acceptation de la demande en révision, si l’affaire n’est pas en état, la chambre judiciaire procédera directement ou par commission rogatoire sans complément d’information nécessaire.
+Si la chambre judiciaire estime qu’il y a lieu à de nouveaux débats, elle procédera comme en matière de renvoi après cassation.

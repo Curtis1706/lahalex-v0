@@ -1,0 +1,14 @@
+{
+  "id": "article-345-",
+  "title": "Article 345 :",
+  "numero": "345 ",
+  "document": "coode-maritime",
+  "path": [
+    "livre-4"
+  ],
+  "navigation": {
+    "parent": "livre-4",
+    "previous": "article-344-",
+    "next": "article-346-"
+  }
+}

@@ -1,0 +1,4 @@
+Les agents en charge des visites intra-domiciliaires ont accès aux heures légales à tous les ouvrages d'assainissement des locaux, des logements et des établissements, dans l'accomplissement de leur fonction.
+Avant d'accéder à une habitation, l'agent en charge de la visite exhibe sa carte professionnelle et son mandat qui peuvent être vérifiés par l'occupant.
+Au cas où des contrôles révèlent que les ouvrages d'assainissement ne sont pas conformes au plan d'évacuation des eaux usées et des excréta inclus dans la demande d'autorisation de construire, des sanctions sont prises conformément à la réglementation en vigueur.
+La violation des dispositions du présent article est sanctionnée conformément aux dispositions de l'article 170 de la présente loi.

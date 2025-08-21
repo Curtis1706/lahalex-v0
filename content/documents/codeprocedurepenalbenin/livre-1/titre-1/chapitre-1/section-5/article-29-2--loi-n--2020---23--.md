@@ -1,0 +1,1 @@
+Pour l'exercice de cette mission, les commandants des navires de guerre béninois sont autorisés à procéder à des opérations de reconnaissance et de visite.

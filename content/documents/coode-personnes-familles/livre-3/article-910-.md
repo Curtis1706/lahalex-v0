@@ -1,0 +1,1 @@
+Le testament est caduc si celui en faveur de qui il a été fait n’a pas survécu au testateur, à moins que ce dernier n’ait prévu dans ce cas un autre bénéficiaire.

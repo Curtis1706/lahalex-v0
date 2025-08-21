@@ -1,0 +1,2 @@
+Toutes les formalités relatives aux poursuites sont prévues à peine de nullité.
+Toutefois,  la  nullité  ne  sera  prononcée  que  s’il  est  résulté  de  l’omission  ou  de l’irrégularité constatée, un préjudice pour la partie qui l’invoque.

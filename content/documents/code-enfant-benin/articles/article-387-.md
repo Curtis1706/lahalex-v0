@@ -1,0 +1,1 @@
+Article 387 : Quiconque arrête, enlève ou fait enlever, détient ou séquestre comme otage un enfant soit pour préparer ou faciliter la commission d’un crime ou d’un délit, soit pour obtenir une rançon, ou pour nuire aux parents de l’enfant, est puni de la réclusion à perpétuité.

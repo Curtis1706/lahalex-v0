@@ -1,0 +1,15 @@
+{
+  "id": "article-1er-",
+<<<<<<< HEAD
+  "title": "Article 1er :",
+=======
+  "title": "Article 1er : 1) L’assiette, la liquidation, le contrôle et les modalités de recouvrement des impositions de toute nature sont du domaine de la loi.",
+>>>>>>> de16a486e59e30464d1bed996e3712e0738a9748
+  "numero": "1er ",
+  "document": "code-general-impots-2025",
+  "path": [],
+  "navigation": {
+    "parent": "code-general-impots-2025",
+    "next": "article-2-"
+  }
+}

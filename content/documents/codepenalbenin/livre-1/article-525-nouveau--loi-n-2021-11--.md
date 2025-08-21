@@ -1,0 +1,1 @@
+« Le complice de la mutilation génitale est condamné aux mêmes peines que l'auteur de l'infraction ».

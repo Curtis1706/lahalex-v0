@@ -1,0 +1,1 @@
+Le conseil d’arrondissement exerce les attributions d'ordre particulier qui lui sont confiées par le maire et procède à l'exécution et à la finalisation des instructions et directives du maire.

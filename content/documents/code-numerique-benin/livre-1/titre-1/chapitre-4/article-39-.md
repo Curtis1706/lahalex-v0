@@ -1,0 +1,3 @@
+Vols de terminaux
+Les opérateurs sont tenus de mettre en œuvre les dispositifs techniques destinés à interdire, à l’exception des numéros d’urgence, l’accès à leurs communications émises au moyen de terminaux mobiles, identifiés et qui leur ont été déclarés volés. Ces terminaux sont bloqués sans délai, dès la réception par l’opérateur concerné de la déclaration officielle de vol, transmise par les services de police, l’autorité judiciaire ou le propriétaire du terminal, dont l’identité aura préalablement été confirmée par l’opérateur.
+Les services de police judiciaire peuvent toutefois après accord du Procureur de la République ou du Juge d'Instruction, déroger à l'application du premier alinéa.

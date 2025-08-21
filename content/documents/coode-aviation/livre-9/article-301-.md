@@ -1,0 +1,1 @@
+Les personnes physiques ou morales sanctionnées peuvent exercer leur droit de recours conformément à la législation en vigueur.

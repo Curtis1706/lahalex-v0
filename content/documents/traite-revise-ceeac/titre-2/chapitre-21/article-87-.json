@@ -1,0 +1,15 @@
+{
+  "id": "article-87-",
+  "title": "Article 87 :",
+  "numero": "87 ",
+  "document": "traite-revise-ceeac",
+  "path": [
+    "titre-2",
+    "chapitre-21"
+  ],
+  "navigation": {
+    "parent": "chapitre-21",
+    "previous": "article-86-",
+    "next": "article-88-"
+  }
+}

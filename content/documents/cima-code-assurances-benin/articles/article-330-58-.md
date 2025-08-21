@@ -1,0 +1,2 @@
+Article 330-58 : Contrôle des affiliations à une société de groupe d’assurance non mutuelle
+Les dispositions du deuxième alinéa du 1) du I de l’article 330-52 sont applicables aux sociétés de groupe d’assurance mentionnées à l’article 330-50 qui n’ont pas la qualité de sociétés de groupe d’assurance mutuelle définies au troisième alinéa de cet article.

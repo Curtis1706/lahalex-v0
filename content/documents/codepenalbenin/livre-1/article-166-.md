@@ -1,0 +1,1 @@
+Est punie de la réclusion criminelle à perpétuité toute personne coupable d’acte de terrorisme au sens du présent code.

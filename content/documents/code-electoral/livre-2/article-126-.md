@@ -1,0 +1,1 @@
+La liste électorale informatisée établie est publiée et affichée pendant quinze (15) jours puis remise à la CENA, au plus tard soixante (60) jours avant la date du scrutin.

@@ -1,0 +1,2 @@
+Les crédits affectés aux dépenses d'investissement peuvent comprendre des autorisations d'engagement et des crédits de paiement.
+L’équilibre budgétaire de la section d'investissement s'apprécie en tenant compte des seuls crédits de paiement.

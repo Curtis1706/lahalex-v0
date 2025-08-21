@@ -1,0 +1,4 @@
+Publication et mise à jour des listes de confiance
+L'autorité compétente tient à jour et publie des listes de confiance comprenant les informations relatives aux prestataires de services de confiance qualifiés, ainsi que les informations relatives aux services de confiance qualifiés qu’ils fournissent.
+L'autorité compétente établit, tient à jour et publie de façon sécurisée et sous une forme adaptée au traitement automatisé, les listes de confiance visées à l’alinéa 1 relatives aux signatures électroniques et cachets électroniques.
+L'autorité compétente met à la disposition du public, par l’intermédiaire d’un canal sécurisé, les informations visées à l’alinéa 1 sous une forme portant une signature électronique ou un cachet électronique adaptée au traitement automatisé.

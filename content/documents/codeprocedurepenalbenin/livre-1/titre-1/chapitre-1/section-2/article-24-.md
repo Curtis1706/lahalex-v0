@@ -1,0 +1,4 @@
+Les manquements des officiers ou des agents supérieurs de police judiciaire, pris en cette qualité, à leurs obligations prévues au présent code peuvent donner lieu de la part du procureur de la République de leur ressort, à un avertissement ou à un blâme avec inscription au dossier sous le contrôle du procureur général, sans préjudice des mesures prévues à l’article 246 du présent code.
+Tout refus d’un officier de police judiciaire de déférer à une sollicitation d’une autorité judiciaire est passible d’une peine d’amende de cinquante mille (50 000) à cinq cent mille (500 000) francs.
+Cette peine est prononcée sur réquisition du ministère public par le Président du tribunal ou le magistrat par lui délégué.
+Lorsqu’une sanction est prononcée, le procureur de la République en informe les autorités du trésor public ainsi que le supérieur hiérarchique de l’agent concerné.

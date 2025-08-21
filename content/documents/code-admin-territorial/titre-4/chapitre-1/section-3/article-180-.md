@@ -1,0 +1,1 @@
+Le chef d'arrondissement est officier d'état civil et, à ce titre, il reçoit des déclarations de naissance, de décès et procède ou fait procéder à leur enregistrement conformément aux lois et règlements. Il célèbre les mariages. Il procède de même pour tous actes ou jugements affectant l'état civil des personnes concernées. Il délivre les extraits des actes d'état civil.

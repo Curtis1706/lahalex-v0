@@ -1,0 +1,4 @@
+Peuvent être inscrites sur le matricule des gens de mer et portées au rôle d’équipage d’un navire béninois, les personnes remplissant les conditions suivantes :
+- être âgées de dix-huit (18) ans révolus ;
+- remplir les conditions d’aptitude physique et satisfaire aux conditions de formation professionnelle fixées conformément à la réglementation en vigueur ;
+- ne pas avoir été condamnées à une peine criminelle ou correctionnelle ayant entraîné une privation de liberté pour une durée supérieure à six (06) mois. 2 peut, cependant, être dérogé à cette règle si la condamnation prononcée n’entache ni l’honneur ni la probité.

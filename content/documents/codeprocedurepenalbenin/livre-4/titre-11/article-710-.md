@@ -1,0 +1,1 @@
+Le juge des enfants établit à la fin de l’année, un rapport d’ensemble concernant le cas de chaque mineur placé sous son autorité, portant sur l’évolution de la rééducation. Le rapport est adressé au président de la cour d’appel.

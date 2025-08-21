@@ -1,0 +1,16 @@
+{
+  "id": "article-84-",
+  "title": "Article 84 : Compte financier",
+  "numero": "84 ",
+  "document": "cima-code-assurances-benin",
+  "path": [
+    "livre-1",
+    "titre-3",
+    "section-2"
+  ],
+  "navigation": {
+    "parent": "section-2",
+    "previous": "article-83-",
+    "next": "article-85-"
+  }
+}

@@ -1,0 +1,1 @@
+La commune décide des dépenses d'investissement économique dans son domaine de compétence.

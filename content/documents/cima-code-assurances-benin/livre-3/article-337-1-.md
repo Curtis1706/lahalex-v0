@@ -1,0 +1,10 @@
+Eléments constitutifs de la marge de solvabilité
+La marge de solvabilité mentionnée à l’article 337 est constituée, après déduction des pertes, des amortissements restant à réaliser sur commissions, des frais d’établissement ou de développement et des autres actifs incorporels, par les éléments suivants :
+1° le capital social versé ou le fonds d’établissement constitué ;
+2° la moitié de la fraction non versée du capital social ou de la part restant à rembourser de l’emprunt pour fonds d’établissement ;
+3° l’emprunt ou les emprunts pour fonds social complémentaire ; toutefois, à partir de la moitié de la durée de l’emprunt, celui-ci ne sera retenu dans la marge de solvabilité que pour sa valeur progressivement réduite chaque année d’un montant constant égal au double du montant total de cet emprunt divisé par le nombre d’années de sa durée ;
+4° les réserves de toute dénomination, réglementaires ou libres, ne correspondant pas à des engagements ;
+5° les bénéfices reportés ;
+6° sur demande et justification de l’entreprise et avec l’accord de la Commission de Contrôle des Assurances, les plus-values pouvant résulter de la sous-estimation d’éléments d’actif et de la surestimation d’éléments de passif, dans la mesure où de telles plus-values n’ont pas un caractère exceptionnel.
+7° les fonds effectivement encaissés provenant de l’émission des titres ou emprunts subordonnés ; ces titres et emprunts doivent répondre aux conditions, notamment de durée et de remboursement, qui sont fixées à l’article 330-34 ; la prise en compte de ces fonds est admise jusqu’à concurrence de 50 % de la marge de solvabilité prévue au présent article ; toutefois, la prise en compte de ceux de ces fonds qui proviennent de titres ou emprunts à durée déterminée n’est admise qu’à concurrence de 25 % de cette marge. Tout remboursement effectué irrégulièrement peut, conformément aux dispositions de l’article 312 du présent Code, donner lieu à application de sanctions par la Commission.
+8° les droits d’adhésion prélevés sur les nouveaux adhérents des sociétés d’assurance mutuelles conformément à l’article 330-7 bis.

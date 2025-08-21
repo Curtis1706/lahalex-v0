@@ -1,0 +1,2 @@
+Peuvent être également jugés par la cour d’assises sans le concours des jurés mais sans aucune citation, s’ils ne sont pas présents au jour fixé pour l’affaire en exécution de l’article 252 du présent code, les accusés qui ont été détenus mais se sont évadés postérieurement à la notification de l’arrêt de renvoi.
+Peuvent aussi être jugés par la cour d’assises sans le concours des jurés, les accusés qui ont été mis en liberté provisoire ou qui n’ont jamais été détenus au cours de l’information, alors qu’ils ont été régulièrement cités.

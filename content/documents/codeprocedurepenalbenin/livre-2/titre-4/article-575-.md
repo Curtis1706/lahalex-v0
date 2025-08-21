@@ -1,0 +1,2 @@
+L’autorité judiciaire compétente procède dans les plus brefs délais, en présence des mis en cause ou, en cas d’impossibilité, de deux (02) témoins, à des prélèvements d’échantillons en quantité suffisante pour assurer l’établissement des preuves et l’identification probante des plantes et substances saisies en conformité avec les standards internationaux.
+Chaque échantillon est placé sous scellé. Mention de la nature et du poids de son contenu est portée sur l’emballage ou sur une étiquette intégrée au scellé.

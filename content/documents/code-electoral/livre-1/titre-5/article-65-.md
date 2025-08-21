@@ -1,0 +1,1 @@
+La liste des centres et postes de vote est portée à la connaissance des candidats et des partis politiques par tous moyens appropriés trente (30) jours minimums avant le jour du scrutin.

@@ -1,0 +1,9 @@
+Exceptions
+Un transfert ou une catégorie de transferts de données à caractère personnel vers un État tiers ou une organisation internationale et n'assurant pas un niveau de protection adéquat, peut être effectué dans un des cas suivants :
+1. la personne concernée a expressément donné son consentement au transfert envisagé ;
+1. le transfert est nécessaire à l'exécution d'un contrat entre la personne concernée et le responsable du traitement ou des mesures préalables à la conclusion de ce contrat, prises à la demande de la personne concernée ;
+1. le transfert est nécessaire à la conclusion ou à l'exécution d'un contrat conclu ou à conclure, dans l'intérêt de la personne concernée, entre le responsable du traitement et un tiers ;
+1. le transfert est nécessaire ou rendu juridiquement obligatoire pour la sauvegarde d'un intérêt public important, ou pour la constatation, l'exercice ou la défense d'un droit en justice ;
+1. le transfert est nécessaire à la sauvegarde des intérêts vitaux de la personne concernée ;
+1. le transfert intervient au départ d'un registre public qui, en vertu de dispositions législatives ou réglementaires, est destiné à l'information du public et est ouvert à la consultation du public ou de toute personne justifiant d'un intérêt légitime, dans la mesure où les conditions légales pour la consultation sont remplies dans le cas particulier.
+Sans préjudice des dispositions de cet article, le Conseil des Ministres peut par décret et après avis conforme de l'Autorité, autoriser un transfert ou un ensemble de transferts de données à caractère personnel vers un État tiers ou une organisation internationale n'assurant pas un niveau de protection adéquat et suffisant, lorsque le responsable du traitement offre des garanties suffisantes au regard de la protection de la vie privée et des libertés et droits fondamentaux des personnes, ainsi qu'à l'égard de l'exercice des droits correspondants.

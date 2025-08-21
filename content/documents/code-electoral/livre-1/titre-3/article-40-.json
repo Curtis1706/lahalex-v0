@@ -1,0 +1,15 @@
+{
+  "id": "article-40-",
+  "title": "Article 40 : La déclaration de candidature est présentée :",
+  "numero": "40 ",
+  "document": "code-electoral",
+  "path": [
+    "livre-1",
+    "titre-3"
+  ],
+  "navigation": {
+    "parent": "titre-3",
+    "previous": "article-40-ancien-",
+    "next": "article-41-ancien-"
+  }
+}

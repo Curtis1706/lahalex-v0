@@ -1,0 +1,1 @@
+Le Conseil statuant à la majorité des deux tiers (2/3) de ses membres, sur proposition de la Commission, arrête les directives ou règlements nécessaires pour la réalisation des programmes mentionnés à l'article 60.

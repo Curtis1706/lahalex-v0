@@ -1,0 +1,4 @@
+Le contrat par lequel un entrepreneur de remorquage se charge de conduire un engin flottant, un dock, une citerne, un bateau-porte ou tout autre objet dépourvu de moyen de propulsion, dans un port ou un havre, par voie maritime, est un contrat de transport.
+Le personnel embarqué sur l’engin remorqué devient préposé de l’entrepreneur du remorquage pendant la durée du transport quelles que soient les conditions de son embauche et de sa rémunération.
+Entre les parties et sauf convention contraire, les obligations de l’entrepreneur de remorquage sont celles fixées par le droit commun du contrat de transport. Les règles de l’affrètement maritime ne sont pas applicables à ce contrat.
+Vis-à-vis des tiers, le remorqueur et l’engin constituent un ensemble dont la responsabilité incombe entièrement à l’entrepreneur de remorquage, sauf les cas de force majeure, de faute de la victime ou de faute d’un tiers.

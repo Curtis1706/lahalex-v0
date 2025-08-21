@@ -1,0 +1,2 @@
+L'organe délibérant compétent organise au plus tard à la fin de la première quinzaine du mois d’août de chaque année, un débat d'orientation budgétaire.
+Le débat porte sur les orientations définies par le maire sous le contrôle du conseil de supervision de la commune ou de l'établissement public de coopération intercommunale sur la base des documents de planification pluriannuels.

@@ -1,0 +1,1 @@
+Le capitaine ne peut retenir les marchandises dans son navire faute de paiement du fret. Mais il peut, au moment du déchargement, demander le dépôt en mains tierces jusqu’au paiement du fret.

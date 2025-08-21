@@ -1,0 +1,2 @@
+Les vingt pour cent (20 %) du produit des transactions, amendes, confiscations, restitutions, frais de fourrière et contravention sont également attribués le cas échéant, aux agents des services autres que le service forestier, habilités à verbaliser en matière forestière conformément aux dispositions en vigueur ainsi qu’aux autorités de collectivités locales associées à la recherche et à la constatation desdites infractions
+Un texte d’application précisera les modalités de répartition de ces primes.

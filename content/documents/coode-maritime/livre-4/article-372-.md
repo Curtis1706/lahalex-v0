@@ -1,0 +1,1 @@
+Si le transporteur conteste l’exactitude de la déclaration de la valeur, au moment où elle est effectuée par le chargeur, il peut insérer dans le connaissement des réserves motivées qui mettront la preuve de la valeur véritable à la charge du chargeur ou du réceptionnaire.

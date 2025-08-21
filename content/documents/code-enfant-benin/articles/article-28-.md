@@ -1,0 +1,2 @@
+Article 28 : Liberté d’association et de réunion
+L’enfant a le droit à la liberté d’association et de réunion pacifique, sous réserve des seules restrictions prescrites par la loi et qui sont nécessaires dans l’intérêt de l’ordre public, de la sécurité nationale, de la sûreté publique ou pour protéger la santé ou la moralité publique ou les droits et libertés d’autrui.

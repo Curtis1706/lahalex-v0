@@ -1,0 +1,4 @@
+Liberté d’utilisation
+L’utilisation, la fourniture, l'importation et l'exportation des moyens de cryptologie assurant exclusivement des fonctions d'authentification ou de contrôle d'intégrité sont libres, sous la réserve des obligations prévues au présent code.
+Néanmoins, lorsque les moyens de cryptologie permettent d’assurer des fonctions de confidentialité, le principe de libre utilisation visé à l’alinéa 1 s’applique uniquement si les moyens s’appuient sur des conventions gérées par un prestataire agréé en vertu de l’article 621 du présent code.
+Les prestations de services de cryptologie sont réservées aux prestataires de services de cryptologie, selon les modalités déterminées en vertu du présent chapitre.

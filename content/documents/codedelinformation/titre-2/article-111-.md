@@ -1,0 +1,1 @@
+Les déclarations, les interventions et les communications des membres du Gouvernement, dans le cadre des activités de leurs départements ministériels respectifs, ne sont pas concernées par les répartitions horaires définies dans la présente loi.

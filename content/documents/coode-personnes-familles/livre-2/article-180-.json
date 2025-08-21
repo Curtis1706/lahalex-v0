@@ -1,0 +1,14 @@
+{
+  "id": "article-180-",
+  "title": "Article 180 :",
+  "numero": "180 ",
+  "document": "coode-personnes-familles",
+  "path": [
+    "livre-2"
+  ],
+  "navigation": {
+    "parent": "livre-2",
+    "previous": "article-179-",
+    "next": "article-181-"
+  }
+}

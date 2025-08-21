@@ -1,0 +1,5 @@
+« Lorsque le harcèlement sexuel est commis par un ascendant légitime, naturel ou adoptif de la victime, ou par un enseignant ou un formateur sur son apprenant ou commis sur un mineur, l’auteur est puni d’un emprisonnement de trois (03) ans à cinq (05) ans et d’une amende de un (01) million (1 000 000) à cinq millions (5 000 000) de francs CFA.
+En cas de récidive, la peine est portée au double.
+En aucun cas, le consentement du mineur ne peut être retenu.
+L’auteur et ses complices peuvent être interdits de l’exercice de l’un ou de plusieurs des droits prescrits à l’article 48 du présent code.
+La peine est nécessairement assortie de l’interdiction à temps des fonctions dans l’exercice desquelles l’infraction est commise, sans préjudice des sanctions disciplinaires et des réparations civiles ».

@@ -1,0 +1,4 @@
+Les personnes physiques ou morales et les créateurs de blogs, dont l’activité est la fourniture d’accès aux services de communication audiovisuelle et de presse écrite en ligne, sont astreintes au strict respect des dispositions de la présente loi, notamment :
+- l’indépendance de l’information et le respect du pluralisme des courants de pensée et d’opinion ;
+- la non présentation d’images, de publications, d’illustrations ou de photographies obscènes, licencieuses ou pornographiques.
+Dans ce cadre, elles sont tenues de proposer un moyen technique permettant de restreindre l’accès à certains services ou de les sélectionner.

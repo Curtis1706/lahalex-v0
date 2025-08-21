@@ -1,0 +1,3 @@
+Dans tous les cas où il y a lieu à demande de divorce, les époux sont libres de ne demander que la séparation de corps.
+Il est permis, en tout état de cause, à l’époux demandeur, de transformer sa demande de séparation de corps en demande de divorce et à l’époux défendeur de répondre à l’action en séparation de corps par une demande reconventionnelle en divorce.
+Si une demande en divorce et une demande en séparation de corps sont simultanément accueillies, le juge prononce à l’égard des deux conjoints le divorce aux torts partagés.

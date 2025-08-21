@@ -1,0 +1,2 @@
+Les entreprises de transport aérien sont soumises au contrôle technique que l'organisme national en charge de l’aviation civile exerce en vue d'assurer la supervision de la sécurité du transport aérien.
+Les dépenses occasionnées par ce contrôle sont à la charge des entreprises de transport aérien.

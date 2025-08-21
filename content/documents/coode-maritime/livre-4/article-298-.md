@@ -1,0 +1,1 @@
+Lorsque les copropriétaires d’un navire l’exploitent en commun, ils forment de plein droit une société d’armement régie par les dispositions prévues au chapitre 5 du titre deux du livre 1 du présent code à défaut de conventions contraires qui, à peine de nullité, doivent être rédigées par écrit.

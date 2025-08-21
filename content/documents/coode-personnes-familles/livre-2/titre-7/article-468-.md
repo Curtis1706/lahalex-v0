@@ -1,0 +1,1 @@
+Le droit individuel de choisir par testament ou par déclaration notariée un tuteur, parent ou non, n’appartient qu’au dernier mourant des père et mère, s’il a conservé au jour de sa mort l’exercice de l’administration légale. Le tuteur ainsi désigné n’est pas tenu d’accepter la tutelle.

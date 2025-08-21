@@ -1,0 +1,2 @@
+La faculté de répudiation prévue aux articles 18 et 19 de la présente loi peut être exercée dans les formes et conditions prévues aux articles 49, 50 et 51 pendant un délai de six (06) mois à compter de la date de publication de la présente loi par ceux qui, à cette date, ont atteint leur majorité ou l'atteindront dans les six (06) mois qui suivront.
+Ceux qui l'exerceront sont réputés n'avoir jamais bénéficié de la nationalité béninoise.

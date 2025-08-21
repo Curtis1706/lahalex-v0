@@ -1,0 +1,7 @@
+Déclaration préalable
+La fourniture ou l'importation de moyens de cryptologie n'assurant pas exclusivement des fonctions d'authentification ou de contrôle d'intégrité est soumise à une déclaration préalable auprès de la commission cryptologie, sous réserve des éventuelles dispenses de déclaration déterminée par décret pris en Conseil des Ministres.
+Le prestataire ou la personne procédant à la fourniture ou à l'importation d’un moyen de cryptologie tient à la disposition de la Commission Cryptologie une description des caractéristiques techniques des moyens de cryptologie utilisés.
+Un décret pris en Conseil des Ministres définit les conditions et délais dans lesquels la déclaration doit être réalisée, conformément à l’alinéa 1  du présent article.
+Il fixe notamment :
+1. les conditions dans lesquelles sont réalisées ces déclarations, les conditions et les délais dans lesquels la Commission Cryptologie peut demander communication des caractéristiques des moyens de cryptologie, ainsi que la nature de ces caractéristiques ;
+1. les catégories de moyens dont les caractéristiques techniques ou les conditions d'utilisation sont telles que, au regard des intérêts de la défense nationale et de la sécurité intérieure ou extérieure de l'État, leur transfert ou leur exportation peuvent être soit soumis au régime déclaratif et aux obligations d'information prévus à l’alinéa 1, soit dispensés de toute formalité préalable.

@@ -1,0 +1,2 @@
+Article 329-5 : Emprunts, publicité, mention du privilège
+Dans les prospectus, affiches, circulaires, notices, annonces ou documents quelconques relatifs aux emprunts des entreprises mentionnées à l’article 329-3, il doit être rappelé de manière explicite qu’un privilège est institué au profit des assurés par l’article 332 et indiqué que le prêteur, même s’il est assuré, ne bénéficie d’aucun privilège pour les intérêts et le remboursement de cet emprunt. Cette mention doit figurer également en caractères apparents sur les titres d’emprunt.

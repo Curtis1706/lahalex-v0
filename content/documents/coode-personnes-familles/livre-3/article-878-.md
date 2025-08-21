@@ -1,0 +1,1 @@
+Il doit être donné lecture et traduction au testateur dans tous les cas de l’acte rédigé.

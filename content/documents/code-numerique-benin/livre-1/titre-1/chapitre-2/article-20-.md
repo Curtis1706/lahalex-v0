@@ -1,0 +1,6 @@
+Autres obligations applicables aux opérateurs
+Les opérateurs ne peuvent utiliser leur réseau ou sciemment en permettre l’utilisation à des fins illégales ou contraires aux dispositions légales et règlementaires en vigueur. Ils prennent toutes mesures appropriées pour s’assurer que leur réseau n’est pas utilisé à des fins illégales ou frauduleuses.
+Les opérateurs doivent coopérer et contribuer activement à la lutte contre toutes formes de fraudes énoncées dans le présent code et doivent notamment communiquer à l’Autorité de régulation et à l’autorité judiciaire toutes les informations qu’elles demandent et prendre les mesures exigées par ces autorités.
+En cas de non-respect des dispositions du présent article, les opérateurs s’exposent aux sanctions prévues par les dispositions légales et règlementaires en vigueur, y compris celles prévues à l’article 247 de la présente loi portant code du numérique, et sont tenus responsables de toute fraude dont la réalisation aura été possible en raison de leur manquement.
+L’Autorité de régulation précise les conditions dans lesquelles les dispositions du présent article sont mises en œuvre.
+`	`Les autres 	obligations 	applicables 	aux opérateurs seront précisées par voie règlementaire.

@@ -1,0 +1,1 @@
+Tout propriétaire ou armateur qui ne s’est pas conformé aux règlements relatifs à la béninisation des navires ou s’est rendu coupable d’une béninisation frauduleuse est puni d’un emprisonnement de six (06) mois à deux (02) ans et d’une amende de cinq millions (5.000.000) à cinquante millions (50.000.000) de francs, ou de l’une de ces deux peines seulement.

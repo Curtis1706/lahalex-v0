@@ -1,0 +1,1 @@
+Si le titre constitutif de l’hypothèque est à ordre, sa négociation par voie d’endossement comporte la translation du droit hypothécaire.

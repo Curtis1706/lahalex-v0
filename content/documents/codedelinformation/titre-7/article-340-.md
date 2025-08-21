@@ -1,0 +1,1 @@
+Deux (02) ans après la promulgation de la présente loi, les dispositions de l’article 19 en ce qui concerne la part des programmes radiophoniques et télévisuels, pour prendre en compte l’insuffisance de productions nationales, sont applicables.

@@ -1,0 +1,1 @@
+Article 327 : Quiconque porte des coups ou fait des blessures à une femme enceinte est puni de deux (2) ans à cinq (5) ans d’emprisonnement et d’une amende de cent mille (100 000) à deux cent mille (200 000) francs CFA.

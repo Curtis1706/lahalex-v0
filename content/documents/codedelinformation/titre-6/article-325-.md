@@ -1,0 +1,1 @@
+Lorsque le message publicitaire contient une comparaison, les éléments de comparaison doivent s’appuyer sur des faits choisis loyalement et objectivement vérifiables. Dans tous les cas, la publicité ne doit pas induire le consommateur en erreur.

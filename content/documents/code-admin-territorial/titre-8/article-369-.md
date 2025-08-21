@@ -1,0 +1,2 @@
+Le principe de la séparation des fonctions d'ordonnateur et de comptable signifie que l’exécution du budget de la commune ou de l'établissement public de coopération intercommunale est confiée à deux catégories distinctes d’agents publics : l'ordonnateur et le comptable.
+L’ordonnateur se charge de la phase administrative des opérations de recettes et dépenses, tandis que le comptable s’occupe de la phase comptable.

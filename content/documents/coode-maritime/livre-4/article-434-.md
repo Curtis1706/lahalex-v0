@@ -1,0 +1,1 @@
+L’acconier ne répond des retards survenus dans les opérations matérielles d’acconage que si ceux-ci proviennent de son fait ou de celui de ses préposés et hors le cas de force majeure.

@@ -1,0 +1,1 @@
+Les donations prélevées sur les fruits et revenus du défunt sont présumées faites avec dispense du rapport, à moins qu'elles n'aient été manifestement exagérées eu égard aux ressources disponibles.

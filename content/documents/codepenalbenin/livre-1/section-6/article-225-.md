@@ -1,0 +1,2 @@
+Ceux qui ont commis un attentat dans le but de porter le massacre ou la dévastation dans une ou plusieurs localités du territoire national, sont punis de la réclusion criminelle à perpétuité assortie d’une mesure de sûreté de trente (30) ans.
+La tentative est punie des mêmes peines que l’infraction.

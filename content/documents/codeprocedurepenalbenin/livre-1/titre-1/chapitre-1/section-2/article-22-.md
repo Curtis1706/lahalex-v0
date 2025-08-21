@@ -1,0 +1,1 @@
+Les officiers de police judiciaire responsables d’unité de police ou de brigade de gendarmerie adressent des états mensuels au procureur de la République de leur ressort. Ces états font le point des dossiers et autres « soit transmis » au niveau des unités concernées.

@@ -1,0 +1,2 @@
+Le marin est rémunéré soit à salaire fixe, soit à profits éventuels, ou par une combinaison de ces deux modes selon la convention des parties. Cependant, des barèmes minima peuvent être fixés par l’autorité maritime compétente.
+Tout contrat d’engagement, aux termes duquel la rémunération du marin consiste, en tout ou partie, en une part sur le profit ou sur le fret, doit déterminer les dépenses et les charges à déduire du produit brut pour former le produit net. Aucune autre déduction, sauf stipulation contraire expresse, ne peut être admise au détriment du marin.

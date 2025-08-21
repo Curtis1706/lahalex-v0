@@ -1,0 +1,1 @@
+Si un membre du conseil de famille est passible d’exclusion, de destitution ou de récusation, il en est décidé par le juge des tutelles soit d’office, soit à la demande du tuteur, du subrogé-tuteur ou du ministère public.

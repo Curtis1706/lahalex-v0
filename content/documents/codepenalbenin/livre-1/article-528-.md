@@ -1,0 +1,1 @@
+Quiconque par maladresse, imprudence, inattention, négligence ou inobservation des règlements, a commis involontairement un homicide ou en a été involontairement la cause, est puni d’un emprisonnement de trois (03) mois à deux (02) ans et d’une amende de cinquante mille (50.000) francs CFA à deux cent cinquante mille (250.000) francs CFA.

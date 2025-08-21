@@ -1,0 +1,1 @@
+Les témoins du flagrant délit sont dûment convoqués par le procureur de la République. Ils sont tenus de comparaître sous peine des sanctions portées à l’article 458 du présent code.

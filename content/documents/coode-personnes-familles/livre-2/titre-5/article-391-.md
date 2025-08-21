@@ -1,0 +1,1 @@
+L’obligation alimentaire résultant de la parenté est réciproque. Entre parents, elle existe en ligne directe sans limitation de degré. En ligne collatérale, elle est simplement morale.

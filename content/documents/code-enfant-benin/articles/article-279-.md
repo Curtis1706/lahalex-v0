@@ -1,0 +1,2 @@
+Article 279 : Fonctions du ministère public
+Les fonctions du ministère public sont tenues, par les procureurs de la République ou les substituts des parquets de première instance du ressort de la cour d’appel désignés par le procureur général près la cour d’appel compétente.

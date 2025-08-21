@@ -1,0 +1,1 @@
+Est puni d’un emprisonnement de six (06) mois à un (01) an, tout individu détenteur d’une autorisation régulière qui aura contrevenu aux obligations qui lui incombent selon les règlements fixant le régime des armes et munitions.

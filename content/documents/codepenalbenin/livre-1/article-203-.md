@@ -1,0 +1,2 @@
+Toute personne qui, pouvant disposer de la force publique, en a requis ou ordonné, fait requérir ou ordonner l’action ou l’emploi pour empêcher l’exécution des lois sur le recrutement militaire ou sur la mobilisation est punie de la détention criminelle à temps de dix (10) ans à vingt (20) ans.
+Si cette réquisition ou cet ordre ont été suivis de leur effet, le coupable est puni de la détention criminelle à perpétuité.

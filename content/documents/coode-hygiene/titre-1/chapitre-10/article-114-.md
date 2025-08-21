@@ -1,0 +1,2 @@
+Il est interdit l'enfouissement des cadavres d'animaux, des dépouilles de toute nature et des ordures ménagères à l'intérieur des habitations.
+Tout propriétaire d'un animal mort de maladie est tenu, dans les vingt-quatre (24) heures, de le détruire par un procédé chimique ou par combustion, ou de le faire enfouir dans une fosse non inondable située autant que possible à deux cents (200) mètres des habitations, de telle sorte que le cadavre soit recouvert d'une couche de terre ayant au moins un (01) mètre d'épaisseur.

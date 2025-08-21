@@ -1,0 +1,1 @@
+Quiconque aura exercé sans être agréé la profession d’exploitant forestier, de commerçant et d’industriel des produits forestiers sera puni d’une amende de cinquante mille (50.000) francs CFA à un million (1.000.000) francs CFA et d’un emprisonnement de trois (03) mois à trois (03) ans ou de l’une de ces deux peines seulement, le tout sans préjudice des dommages-intérêts.

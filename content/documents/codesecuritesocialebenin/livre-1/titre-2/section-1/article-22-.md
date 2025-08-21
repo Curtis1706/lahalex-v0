@@ -1,0 +1,2 @@
+Les cotisations dues à la Caisse sont assises sur l’ensemble des rémunérations perçues par des personnes assujetties, y compris les indemnités, primes, gratifications, commissions et tous autres avantages en espèces, ainsi que la contrevaleur des avantages en nature, mais à l’exclusion des remboursements de frais et des prestations sociales versées en vertu des dispositions de la présente loi.
+L’évaluation des avantages en nature est faite conformément aux règles prescrites par le Code général des impôts.

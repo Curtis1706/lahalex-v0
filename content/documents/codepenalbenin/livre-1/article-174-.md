@@ -1,0 +1,1 @@
+Tout membre d’un groupement ou entente ou toute personne, planifiant un acte terroriste est exempté de la peine si, ayant averti l’autorité administrative ou judiciaire, il a permis d’éviter la réalisation de l’infraction et d’en identifier les auteurs ou complices.

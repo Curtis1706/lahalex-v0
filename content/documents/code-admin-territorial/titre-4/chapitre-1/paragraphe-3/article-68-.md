@@ -1,0 +1,4 @@
+Le conseil communal se réunit en session extraordinaire sur convocation du maire chaque fois qu'il le juge utile.
+Le conseil communal peut également se réunir en session extraordinaire sur un ordre du jour déterminé, à la demande motivée de la majorité absolue des membres du conseil communal ou sur injonction de l'autorité de tutelle, pour remédier à un dysfonctionnement grave ou pour répondre à une situation d'urgence. La demande ou l’injonction précise l'ordre du jour de la session.
+Dans les cas visés au deuxième alinéa du présent article, le maire est tenu de convoquer le conseil communal. A défaut, le conseil se réunit de plein droit.
+La durée d’une session extraordinaire ne peut excéder deux (02) jours.

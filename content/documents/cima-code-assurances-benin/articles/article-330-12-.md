@@ -1,0 +1,5 @@
+Article 330-12 : Conseil d’Administration
+Le Conseil d’Administration peut comprendre, outre les administrateurs dont le nombre et le mode de désignation sont prévus par le présent Code, un ou plusieurs administrateurs élus par le personnel salarié. Le nombre de ces administrateurs, qui est fixé par les statuts, ne peut être supérieur à quatre ni excéder le tiers de celui des autres administrateurs. Lorsque le nombre des administrateurs élus par les salariés est égal ou supérieur à deux, les cadres et assimilés ont un siège au moins.
+Pour l’application du présent article, les modalités de désignation des administrateurs élus par le personnel salarié sont fixées conformément aux dispositions de la loi sur les sociétés commerciales.
+Les statuts ne peuvent subordonner à quelque condition que ce soit l’élection au Conseil d’Administration des sociétaires à jour de leurs cotisations.
+Toute nomination intervenue en violation du présent article est nulle. Cette nullité n’entraîne pas celle des délibérations auxquelles a pris part l’administrateur irrégulièrement nommé.

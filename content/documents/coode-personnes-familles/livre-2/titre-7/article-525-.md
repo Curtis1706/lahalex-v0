@@ -1,0 +1,1 @@
+Dans les cas où l’autorisation du conseil de famille est requise pour la validité d’un acte du tuteur et s’il y a urgence, le président du conseil de famille peut autoriser le tuteur à accomplir cet acte, à charge qu'il en soit rendu compte au conseil dans le plus bref délai.

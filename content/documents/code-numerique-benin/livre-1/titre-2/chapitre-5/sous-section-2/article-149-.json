@@ -1,0 +1,17 @@
+{
+  "id": "article-149-",
+  "title": "Article 149 : Obligations de transparence",
+  "numero": "149 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "chapitre-5",
+    "sous-section-2"
+  ],
+  "navigation": {
+    "parent": "sous-section-2",
+    "previous": "article-148-",
+    "next": "article-150-"
+  }
+}

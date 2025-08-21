@@ -1,0 +1,1 @@
+Article 354 : Est puni de cinq (05) ans à dix (10) ans d’emprisonnement et d’une amende de cinq cent mille (500 000) à un million (1 000 000) de francs, quiconque recourt à l’assistance médicale à la procréation hors les cas prévus aux articles 52 et 54 de la présente loi. Le complice est puni de la même peine.

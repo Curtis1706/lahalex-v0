@@ -1,0 +1,1 @@
+Les avaries particulières sont supportées et payées par le propriétaire de la chose qui a essuyé le dommage ou occasionné la dépense, sauf éventuelles actions en responsabilité, en remboursement ou en indemnité.

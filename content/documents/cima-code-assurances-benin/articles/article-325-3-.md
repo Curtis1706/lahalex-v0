@@ -1,0 +1,3 @@
+Article 325-3 : Publication
+La Commission Régionale de Contrôle des Assurances publie la décision prononçant le retrait total d’agréments sous forme d’extraits ou d’avis dans un journal habilité à recevoir les annonces légales, dès sa notification aux dirigeants de l’entreprise d’assurance.
+Dans les dix jours de la nomination du liquidateur et à la diligence de celui-ci, l’ordonnance du président du tribunal est également publiée sous forme d’extraits ou d’avis dans un journal habilité à recevoir les annonces légales.

@@ -1,0 +1,1 @@
+La commune est civilement responsable des dégâts et dommages causés aux personnes et aux propriétés résultant des crimes et délits commis à force ouverte ou par violence et autres faits advenus sur son territoire par le fait de ses habitants, à l'occasion des attroupements ou rassemblements organisés ou non.

@@ -1,0 +1,1 @@
+A défaut de descendants et de parents au degré successible, la succession est dévolue en totalité au conjoint survivant.

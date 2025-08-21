@@ -1,0 +1,14 @@
+{
+  "id": "article-333-4-",
+  "title": "Article 333-4 : Banqueroute",
+  "numero": "333-4 ",
+  "document": "cima-code-assurances-benin",
+  "path": [
+    "livre-3"
+  ],
+  "navigation": {
+    "parent": "livre-3",
+    "previous": "article-333-3-",
+    "next": "article-333-5-"
+  }
+}

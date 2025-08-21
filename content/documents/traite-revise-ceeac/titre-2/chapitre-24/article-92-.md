@@ -1,0 +1,2 @@
+Cadre juridique
+Aux fins de l'application du présent chapitre, les Etats membres conviennent d'adopter un Protocole relatif à la situation des pays sans littoral, insulaires, partiellement insulaires, enclavés ou semi-enclavés et/ou appartenant à la catégorie des pays les moins avancés joint au présent Traité en tant qu'annexe.

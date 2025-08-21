@@ -1,0 +1,3 @@
+Est punie d’une amende de deux cent cinquante mille (250.000) francs CFA à deux millions cinq cent mille (2.500.000) francs CFA, toute personne responsable de la présence d’un contaminant dans l’environnement.
+Est punie d’une amende de vingt-cinq mille (25.000) francs CFA à deux cent cinquante mille (250.000) francs CFA, toute personne qui aurait connaissance de la présence, même accidentelle, d’un contaminant dans l’environnement et qui n’aurait pas avisé les autorités compétentes.
+En cas de récidive, ces peines sont portées au double.

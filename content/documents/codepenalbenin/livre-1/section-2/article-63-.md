@@ -1,0 +1,1 @@
+Le règlement qui réprime une contravention peut prévoir, lorsque le coupable est une personne morale, la confiscation de la chose qui a servi ou était destinée à commettre l’infraction ou de la chose qui en est le produit. Pour les contraventions punies d’emprisonnement, le règlement peut, en outre, prévoir la peine complémentaire mentionnée au premier alinéa de l’article 54.

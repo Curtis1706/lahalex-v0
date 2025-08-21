@@ -1,0 +1,2 @@
+Les particuliers de chaque localité se conforment aux conditions et aux modalités fixées par les services de la voirie quant à la fréquence des collectes et d'élimination des déchets liquides et solides.
+Les ministères en charge de la santé et de la protection de l'environnement déterminent par voie réglementaire, les normes relatives à l’élimination de ces déchets, soit par incinération, soit par enfouissement.

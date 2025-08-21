@@ -1,0 +1,1 @@
+Sous l'impulsion du chef de village ou de quartier de ville, le conseil met tout en œuvre pour éveiller, encourager et soutenir les initiatives des populations et favoriser la mise en œuvre des programmes de développement communal au profit du village ou du quartier de ville.

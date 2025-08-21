@@ -1,0 +1,4 @@
+En matière administrative, le secrétaire administratif d’arrondissement assure l'administration générale des services de l’arrondissement, sous réserve des attributions propres du maire et du chef d'arrondissement.
+Le secrétaire administratif d’arrondissement assiste le chef d'arrondissement pour les activités relevant des attributions propres de celui-ci. Il reçoit et exécute ses instructions dans ce cadre.
+Le secrétaire administratif d'arrondissement assure la coordination et le contrôle de l'exécution des activités de fourniture des services publics dont l'arrondissement a la charge. Il assure la gestion des ressources matérielles, humaines et financières affectées à l'arrondissement dans le cadre de l’exécution du budget de la commune.
+Le secrétaire administratif d'arrondissement peut recevoir délégation du chef d'arrondissement pour signer des actes d'état civil. Cette délégation ne concerne pas la célébration des mariages.

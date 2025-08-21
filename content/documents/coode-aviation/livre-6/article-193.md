@@ -1,0 +1,1 @@
+L’objectif primordial de l'Etat, est d'assurer la sécurité des passagers, des équipages, du personnel au sol, du public, dans toutes les questions relatives à la protection contre des actes d'intervention illicite dans l’aviation civile. Cet objectif est réalisé par une combinaison de mesures ainsi que de moyens humains et matériels.

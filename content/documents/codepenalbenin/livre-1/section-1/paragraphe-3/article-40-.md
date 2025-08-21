@@ -1,0 +1,1 @@
+Lorsqu’un délit est puni d’une ou de plusieurs des peines complémentaires mentionnées à l’article 39 ci-dessus, la juridiction peut ne prononcer que la peine complémentaire ou l’une ou plusieurs des peines complémentaires encourues à titre de peine principale.

@@ -1,0 +1,3 @@
+Le subrécargue est responsable de sa gestion envers l’armateur ou l’affréteur qui l’a nommé dans les mêmes conditions qu’un mandataire salarié.
+L’armateur ou l’affréteur est civilement responsable du subrécargue à l’égard des tiers pour tous les actes se rattachant à ses fonctions, mais seulement dans les limites prévues à l’article 140 du présent code.
+Un exemplaire de l’acte de nomination du subrécargue signé par l’armateur ou l’affréteur, le capitaine et le subrécargue est annexé au rôle d’équipage.

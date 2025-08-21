@@ -1,0 +1,1 @@
+Le testament olographe peut être déposé entre les mains d’un tiers et, en particulier, chez un notaire ou au greffe d’un tribunal.

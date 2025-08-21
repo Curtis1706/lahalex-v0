@@ -1,0 +1,3 @@
+Nonobstant le contrôle qui est fait par le ministère en charge de la santé, tout exploitant ou propriétaire de piscines ou de baignades ouvertes au public est tenu de procéder régulièrement au contrôle de la qualité de l'eau.
+Les abords des piscines sont régulièrement entretenus, lavés et désinfectés.
+Les produits utilisés pour les traitements spéciaux de piscine sont soumis à l'avis préalable des services compétents du ministère en charge de la santé.

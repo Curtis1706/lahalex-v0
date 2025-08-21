@@ -1,0 +1,1 @@
+L’adopté a dans la famille de l’adoptant les mêmes droits et obligations qu’un enfant légitime.

@@ -1,0 +1,15 @@
+{
+  "id": "article-114-",
+  "title": "Article 114 : Siège de l’Autorité de régulation",
+  "numero": "114 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-113-",
+    "next": "article-115-"
+  }
+}

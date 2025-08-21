@@ -1,0 +1,3 @@
+Tout ministre d’un culte qui, dans les heures où s’exerce ce culte, a publiquement par des discours prononcés, des lectures faites, des écrits distribués ou des affiches apposées, outragé ou diffamé un citoyen chargé d’un service public, est puni d’une amende de deux cent mille (200.000)francs CFA à un million (1.000.000) de francs CFA et d’un emprisonnement de un (01) mois à un (01) an ou de l’une de ces deux peines seulement.
+La vérité du fait diffamatoire, mais seulement s’il est relatif aux fonctions, pourra être établie devant le tribunal correctionnel dans les formes prévues par les dispositions sur la liberté de la presse.
+Les prescriptions de la loi sur la liberté de la presse s’appliquent aux délits du présent article.

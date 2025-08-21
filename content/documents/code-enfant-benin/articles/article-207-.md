@@ -1,0 +1,2 @@
+Article 207 : Droit des enfants sortis de prison
+Les enfants ayant fait l’objet de détention, ont le droit de poursuivre leurs études ou de se trouver un emploi conformément aux dispositions de la présente loi.

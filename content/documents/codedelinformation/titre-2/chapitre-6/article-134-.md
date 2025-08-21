@@ -1,0 +1,3 @@
+En matière de presse écrite, la réponse à une publication contenant des faits erronés ou des assertions malveillantes de nature à causer un préjudice moral, matériel ou financier ou à des imputations dommageables à l’honneur ou à la réputation est remise au moins vingt-quatre (24) heures avant le tirage du journal dans lequel elle doit paraître.
+Le directeur de publication est tenu d’insérer les réponses et réactions de toute personne nommée ou désignée dans le journal ou écrit périodique.
+Toute note, toute remarque ou tout commentaire de la part de l’organe ouvre la voie à une réponse dans les mêmes conditions que la publication mise en cause.

@@ -1,0 +1,1 @@
+Le louage de chalands, allèges, mahonnes, citernes, grues flottantes et autres engins de servitude des ports maritimes n’est pas régi par les dispositions du présent titre. 2 est régi par les règles du droit civil applicables au louage des biens meubles et par la convention des parties.

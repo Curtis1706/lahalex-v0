@@ -1,0 +1,3 @@
+Si l’absent reparaît avant le jugement déclaratif de décès, il reprend la totalité de ses biens à sa demande ou à la demande de tout intéressé. L’administrateur provisoire lui rend compte de sa gestion. Les actes d'aliénation régulièrement conclus lui sont opposables.
+Il recouvrera le prix des biens aliénés ou les biens provenant de l’emploi qui aura été fait du prix de ses biens aliénés.
+Si l’absent ou le disparu reparaît après le jugement déclaratif de décès, il reprend ses biens dans l’état où ils se trouvent sans pouvoir prétendre à la restitution des biens aliénés.

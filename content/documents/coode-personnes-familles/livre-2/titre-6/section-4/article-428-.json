@@ -1,0 +1,16 @@
+{
+  "id": "article-428-",
+  "title": "Article 428 :",
+  "numero": "428 ",
+  "document": "coode-personnes-familles",
+  "path": [
+    "livre-2",
+    "titre-6",
+    "section-4"
+  ],
+  "navigation": {
+    "parent": "section-4",
+    "previous": "article-427-",
+    "next": "article-429-"
+  }
+}

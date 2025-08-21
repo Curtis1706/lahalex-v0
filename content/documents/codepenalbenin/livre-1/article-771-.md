@@ -1,0 +1,5 @@
+Encourent une peine d’emprisonnement de un (01) an à cinq (05) ans et une amende de cinq cent mille (500.000) francs CFA à cinq millions (5.000.000) de francs CFA, les dirigeants sociaux qui, lors d’une augmentation de capital :
+1. n’ont pas fait bénéficier les actionnaires, proportionnellement au montant de leurs actions, d’un droit préférentiel de souscription des actions de numéraire lorsque ce droit n’a pas été supprimé par l’assemblée générale et que les actionnaires n’y ont pas renoncé ;
+2. n’ont pas fait réserver aux actionnaires un délai de vingt (20) jours au moins, à dater de l’ouverture de la souscription, sauf lorsque ce délai a été clos par anticipation ;
+3. n’ont pas attribué les actions rendues disponibles, faute d’un nombre suffisant de souscription à titre irréductible, aux actionnaires qui ont souscrit à titre réductible un nombre d’actions supérieur à celui qu’ils pouvaient souscrire à titre irréductible, proportionnellement aux droits dont ils disposent ;
+4. n’ont pas réservé les droits des titulaires de bons de souscription.

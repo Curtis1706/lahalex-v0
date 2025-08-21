@@ -1,0 +1,4 @@
+Égalité de traitement, non-discrimination, transparence et libre concurrence
+Les principes d’égalité de traitement, de non-discrimination des opérateurs et de transparence des procédures s’imposent à toute autorité administrative, notamment à l’Autorité de régulation, y compris dans le cadre des procédures applicables aux différents régimes juridiques concernant les activités de communications électroniques en République du Bénin.
+Il est interdit à l’Autorité de régulation de prendre toute mesure ou disposition discriminatoire, notamment des mesures fondées sur la nationalité ou l’origine des opérateurs, de leurs actionnaires et de leurs dirigeants.
+Les autorités administratives s’assurent que l’accès à un régime par un opérateur respecte les règles de libre concurrence.

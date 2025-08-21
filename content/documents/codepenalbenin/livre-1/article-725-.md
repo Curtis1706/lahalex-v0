@@ -1,0 +1,1 @@
+Dans le cas prévu aux articles 710 à 712 du présent code, les recettes déjà réalisées de la contrefaçon seront remises à l’organisme chargée de la gestion collective pour indemniser les créateurs d’œuvres de l’esprit sans préjudice de toutes autres actions en dommages-intérêts.

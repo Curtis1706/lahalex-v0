@@ -1,0 +1,3 @@
+Article 168 : Mesures particulières de protection de l'enfant
+L’enfant en situation difficile bénéficie de mesures spéciales de protection prises sur décision du juge des enfants. L’ordonnance de placement prise à cet effet, est délivrée sans frais.
+La protection spéciale est l’ensemble des mesures visant à protéger un enfant vivant dans des conditions susceptibles de mettre en péril sa vie, sa santé, sa sécurité, son éducation, son développement et de manière générale son intégrité physique et morale.

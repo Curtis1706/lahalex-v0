@@ -1,0 +1,4 @@
+Article 305 : Frais d'assistance éducative
+Les frais occasionnés par les mesures d’assistance éducative sont, dans tous les cas, à la charge des parents non indigents, auxquels des aliments peuvent être réclamés.
+Lorsque l’un des parents exerce une profession ou une activité rémunérée, l’avis de la décision prise par le juge des enfants ou le tribunal pour enfants notifié à l’employeur ou à l’organisme payeur, vaut titre exécutoire nonobstant toutes voies de recours.
+Cet avis impose le paiement direct au profit de la personne ou de l’institution assurant l’assistance éducative, médicale ou psycho-éducative.

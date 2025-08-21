@@ -1,0 +1,2 @@
+Constitution
+L'Autorité de protection des données à caractère personnel en abrégé « APDP », ci-après désignée Autorité, veille à l’application des dispositions du présent Livre et au respect de la vie privée en général sur le territoire de la République du Bénin.

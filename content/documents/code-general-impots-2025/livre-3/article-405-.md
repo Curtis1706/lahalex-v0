@@ -1,0 +1,1 @@
+Il ne peut être perçu moins de cinquante (50) francs CFA dans le cas où l’application des tarifs des droits de timbre ne produit pas cette somme.

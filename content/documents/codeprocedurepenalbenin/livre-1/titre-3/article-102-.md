@@ -1,0 +1,3 @@
+Les perquisitions dans le cabinet d’un avocat ou à son domicile ne peuvent s’effectuer que par un magistrat, en présence du bâtonnier ou de son délégué.
+Les perquisitions dans le cabinet d’un médecin, d’un notaire, d’un huissier ou d’un commissaire-priseur, sont effectuées par un magistrat et en présence de la personne responsable de l’ordre ou de l’organisation professionnelle à laquelle appartient l’intéressé ou son représentant.
+Les perquisitions dans les locaux d’une entreprise de presse ou de communication audiovisuelle ne peuvent être effectuées que par un magistrat qui doit veiller à ce que les investigations conduites ne portent pas atteinte au libre exercice de la profession de journaliste.

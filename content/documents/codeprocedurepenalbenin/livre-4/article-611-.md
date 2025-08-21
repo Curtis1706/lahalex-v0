@@ -1,0 +1,3 @@
+Lorsqu’il n’existe plus en matière criminelle d’expédition ni de copie authentique de l’arrêt, mais s’il existe encore la déclaration de la cour et du jury mentionnée sur la feuille de questions prévue à l’article 355 alinéa 4 du présent code, il est procédé, d’après cette déclaration, au prononcé d’un nouvel arrêt.
+Lorsque la déclaration de la cour et du jury ne peut plus être représentée ou lorsque l’affaire a été jugée par contumace et qu’il n’en existe aucun acte par écrit, l’instruction est recommencée à partir du point où les pièces se trouvent manquées.
+Il en est de même en toute matière pénale, lorsqu’il n’existe plus d’expédition ni de copie authentique de la décision.

@@ -1,0 +1,3 @@
+La présomption de paternité établie à l’article précédent ne s’applique pas :
+- à l’enfant né plus de trois cents (300) jours après la dissolution du mariage ou après la date des dernières nouvelles telle qu'elle résulte du jugement constatant la présomption d’absence ;
+- en cas de demande, soit de divorce, soit de séparation de corps, à l'enfant né trois cents (300) jours après l'ordonnance ayant autorisé la résidence séparée et moins de cent quatre-vingt (180) jours après le rejet définitif de la demande, ou depuis la réconciliation, sauf toutefois, s’il y a eu réunion de fait entre les époux.

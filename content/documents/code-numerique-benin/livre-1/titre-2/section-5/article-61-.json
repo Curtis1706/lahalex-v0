@@ -1,0 +1,16 @@
+{
+  "id": "article-61-",
+  "title": "Article 61 : Contribution au titre de la recherche",
+  "numero": "61 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "section-5"
+  ],
+  "navigation": {
+    "parent": "section-5",
+    "previous": "article-60-",
+    "next": "article-62-"
+  }
+}

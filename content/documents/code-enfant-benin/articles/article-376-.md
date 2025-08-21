@@ -1,0 +1,1 @@
+Article 376 : Quiconque s’adonne aux pratiques énumérées à l’article 184 de la présente loi, qu’il soit chef traditionnel ou chef religieux, est puni de six (06) mois à deux (02) ans d’emprisonnement et d’une amende de cent mille (100 000) à deux cent (200 000) francs CFA.

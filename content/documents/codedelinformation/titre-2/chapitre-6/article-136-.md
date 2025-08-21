@@ -1,0 +1,1 @@
+La réponse est publiée dans les deux (2) jours ouvrables suivant sa réception lorsqu’il s’agit d’un journal paraissant quotidiennement et dans le numéro suivant pour les autres périodiques de la presse écrite.

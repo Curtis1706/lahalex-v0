@@ -1,0 +1,1 @@
+Les règles sur l’exécution des mandats de justice fixées par les articles 134 et 139 du présent code hormis la référence à l’article 140 et 141, alinéa 1<sup>er</sup> sont applicables à la contrainte par corps.

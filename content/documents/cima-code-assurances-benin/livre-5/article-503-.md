@@ -1,0 +1,6 @@
+Assurances individuelles - Dérogations
+Les opérations ci-après définies peuvent être présentées, sous la forme aussi bien de souscriptions d’assurances individuelles, que d’adhésions à des assurances collectives, par les personnes respectivement énoncées dans chaque cas :
+1° assurances contre les risques de décès, d’invalidité, de perte de l’emploi ou de l’activité professionnelle souscrites expressément et exclusivement en vue de servir de garantie au remboursement d’un prêt : le prêteur ou les personnes concourant à l’octroi de ce prêt ;
+2° assurances de transport de marchandises ou facultés par voie fluviale : les courtiers de fret ;
+3° assurances couvrant à titre principal les frais des interventions d’assistance liées au déplacement et effectuées par des tiers : les dirigeants, le personnel des agences de voyages, des banques et établissements financiers et leurs préposés ;
+4° les banques, les établissements financiers, les institutions de micro finance agréées, les caisses d’épargne et la poste peuvent présenter des opérations d’assurance à leurs guichets dès lors que la personne habilitée à présenter ces opérations est titulaire de la carte professionnelle visée à l’article 510.

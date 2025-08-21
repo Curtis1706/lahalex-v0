@@ -1,0 +1,3 @@
+Dispositif de contrôle interne
+Toute entreprise d’un Etat membre mentionnée à l’article 300 du code des assurances est tenue de mettre en place un dispositif permanent de contrôle interne adapté à la nature, à l’importance et à la complexité de ses activités.
+Ce dispositif comprend notamment un manuel de procédures internes écrites, cohérent et recoupant l’ensemble des champs d’activités de l’entreprise. Il doit faire l’objet d’un suivi périodique en vue de vérifier l’application constante des procédures de la société, l’efficacité de ces procédures et de relever les manquements éventuels.

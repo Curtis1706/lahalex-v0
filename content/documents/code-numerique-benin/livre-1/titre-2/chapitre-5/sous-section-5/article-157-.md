@@ -1,0 +1,3 @@
+Méthodologies de tarification
+L’Autorité de régulation veille à ce que les méthodologies de tarification qui seraient rendues obligatoires visent à promouvoir l’efficacité économique, à favoriser une concurrence durable et à optimiser les avantages pour le consommateur.
+A cet égard, l’Autorité de régulation peut également prendre en compte les prix en vigueur sur les marchés concurrentiels comparables.

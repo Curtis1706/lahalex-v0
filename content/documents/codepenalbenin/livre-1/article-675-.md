@@ -1,0 +1,3 @@
+Est puni d’une peine d’emprisonnement de deux (02) ans à cinq (05) ans et d’une amende de deux cents mille (200.000) francs CFA à deux millions (2.000.000) de francs CFA, le fait intentionnel et sans droit d’altérer, de modifier ou de supprimer des données informatiques ou de limiter l’accès à ces données.
+Est puni de la détention criminelle de cinq (05) ans à dix (10) ans et d’une amende de cinq millions (5.000.000) de francs CFA à cent millions (100.000.000) de francs CFA, le transfert non autorisé des données d’un système informatique.
+Est puni de la peine visée à l’alinéa précédent, le transfert non autorisé des données d’un moyen de stockage de données informatiques.

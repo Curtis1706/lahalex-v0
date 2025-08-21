@@ -1,0 +1,2 @@
+La personne est domiciliée au lieu de son principal établissement ou, pour son activité professionnelle, au lieu où elle exerce celle-ci.
+De plus, la personne peut avoir une ou plusieurs résidences là où elle a d’autres centres d’intérêt.

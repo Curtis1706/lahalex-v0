@@ -1,0 +1,3 @@
+Migrations
+1. Les Etats membres s’engagent à prendre toutes les mesures appropriées en vue de gérer de manière concertée les flux migratoires vers la Région et à partir de la Région. Ils œuvrent à la définition d’une politique migratoire de la Communauté.
+1. La Communauté adopte des politiques et stratégies visant à assurer aux migrants, réfugiés et déplacés des conditions de traitement conforme au Droit International pertinent en la matière.

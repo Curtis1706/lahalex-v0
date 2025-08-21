@@ -1,0 +1,1 @@
+Nul ne peut contracter un nouveau mariage avant la mention sur le registre de l'état civil de la dissolution du précédent.

@@ -1,0 +1,1 @@
+Des textes réglementaires fixent les conditions d’application de l’article précédent et notamment les catégories d’agents verbalisateurs limitativement habilités à percevoir les amendes forfaitaires, les modalités de perception et les taux de ces amendes.

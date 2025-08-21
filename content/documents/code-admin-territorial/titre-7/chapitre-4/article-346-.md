@@ -1,0 +1,1 @@
+L'exercice du contrôle de tutelle s'effectue sur les actes et décisions du conseil de communauté, du conseil de supervision, du président et du secrétaire permanent conformément aux dispositions applicables aux communes.

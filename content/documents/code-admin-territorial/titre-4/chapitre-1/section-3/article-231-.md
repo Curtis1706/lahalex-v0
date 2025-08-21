@@ -1,0 +1,2 @@
+Le chef de village ou de quartier de ville, exerce ses fonctions sous le contrôle permanent du conseil d'arrondissement.
+Le chef de village ou de quartier de ville organise les activités du conseil en spécialisant sur les questions intéressant la vie de la communauté les membres du conseil.

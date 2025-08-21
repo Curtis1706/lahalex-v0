@@ -1,0 +1,14 @@
+{
+  "id": "article-3-",
+  "title": "ARTICLE 3 :BUTS ET OBJECTIFS",
+  "numero": "3 ",
+  "document": "traite-revise-cedeao-1993",
+  "path": [
+    "chapitre-2"
+  ],
+  "navigation": {
+    "parent": "chapitre-2",
+    "previous": "article-2-",
+    "next": "article-4-"
+  }
+}

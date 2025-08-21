@@ -1,0 +1,2 @@
+Article 31 : Droit aux renseignements sur la situation des parents
+L’enfant dont l'un des parents ou les deux parents sont en détention, _en_ exil, expulsés ou décédés, a droit aux renseignements essentiels sur le lieu où se trouvent les membres de sa famille, à moins que la divulgation de ces renseignements ne soit préjudiciable à son bien-être.

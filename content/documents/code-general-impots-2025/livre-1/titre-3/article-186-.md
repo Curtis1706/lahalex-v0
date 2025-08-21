@@ -1,0 +1,1 @@
+Tout paiement relatif à la taxe professionnelle synthétique est constaté par la délivrance d’une quittance.

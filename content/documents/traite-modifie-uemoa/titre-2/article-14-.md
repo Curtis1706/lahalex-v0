@@ -1,0 +1,1 @@
+Dès l'entrée en vigueur du présent Traité, les Etats membres se concertent au sein du Conseil afin de prendre toutes mesures destinées à éliminer les incompatibilités ou les doubles emplois entre le droit et les compétences de l'Union d'une part, et les 7

@@ -1,0 +1,16 @@
+{
+  "id": "article-93-",
+  "title": "Article 93 :",
+  "numero": "93 ",
+  "document": "coode-personnes-familles",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "chapitre-6"
+  ],
+  "navigation": {
+    "parent": "chapitre-6",
+    "previous": "article-92-",
+    "next": "article-94-"
+  }
+}

@@ -1,0 +1,1 @@
+L'occupation du domaine aéroportuaire est soumise à une autorisation préalable de l'Etat.

@@ -1,0 +1,1 @@
+Sauf dispositions contraires, les peines prononcées pour un délit se prescrivent par cinq (05) ans révolus à compter de la date à laquelle la décision de condamnation est devenue définitive.

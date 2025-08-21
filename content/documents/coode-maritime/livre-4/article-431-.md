@@ -1,0 +1,2 @@
+L’acconier est responsable de toutes pertes, avaries ou tout dommage subis par la marchandise entre ses mains.
+2 est déchargé de cette responsabilité s’il prouve que les pertes, avaries ou dommages apparents proviennent d’un cas fortuit ou de force majeure, de grève ou de lock-out, ou d’arrêt, ou entraves apportées au travail pour quelque cause que ce soit, partiellement ou complètement, du vice propre de la marchandise, de l’insuffisance ou de la défectuosité de l’emballage.

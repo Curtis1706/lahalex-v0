@@ -1,0 +1,6 @@
+Lorsque le capitaine est empêché d’informer l’autorité maritime ou consulaire de la survenance d’un événement donnant lieu à enquête maritime, ou en cas d’oubli de sa part, il appartient au propriétaire du navire d’apporter à l’autorité maritime ou consulaire les informations requises.
+Les informations données à l’autorité maritime ou consulaire, à la suite de la survenance d’un événement donnant lieu à enquête maritime, doivent être accompagnées des documents suivants :
+- une copie certifiée conforme des pages du journal de bord dans lesquelles a été notée la survenance de l’événement et, en cas de perte du journal de bord, un rapport écrit sur les conditions de la survenance de l’événement et sur ses causes :
+- la liste des membres de l’équipage ;
+- la liste des membres de l’équipage susceptibles de fournir des informations sur la survenance de l’événement ;
+- la liste des personnes concernées à un titre quelconque par la survenance de l’événement et leur adresse ou celle de leur représentant légal.

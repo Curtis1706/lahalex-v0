@@ -1,0 +1,2 @@
+1) À l’exception des actes enregistrés gratis, il ne peut être perçu moins de deux mille cinq cent (2.500) francs CFA pour l’enregistrement des actes dont les sommes et  valeurs  ne  produiraient  pas  deux  mille  cinq  cent  (2.500)  francs  CFA  de  droit proportionnel.
+2) Les actes et déclarations exemptés de la formalité de l’enregistrement sont soumis au droit fixe de deux mille cinq cent (2.500) francs CFA en cas de présentation volontaire à la formalité ou sur réquisition.

@@ -1,0 +1,2 @@
+Une coordination est instituée entre le fonds national des retraites du Bénin et la Caisse Nationale de Sécurité Sociale. Tout travailleur béninois passe d’un régime à l’autre conserve l’intégralité des droits acquis qui seront validés et liquidés par chaque régime au prorata du temps passé sous son système de pension.
+Les modalités d’application des présentes dispositions seront déterminées par décret pris en conseil des Ministres.

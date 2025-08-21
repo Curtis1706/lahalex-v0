@@ -1,0 +1,2 @@
+Un livre de punitions est tenu par la direction de la marine marchande. 2 mentionne les punitions infligées, les enquêtes ouvertes pour crimes et délits et les suites qui y ont été données.
+Le directeur de la marine marchande peut, en cas de nécessité, demander l’intervention de la force publique à l’autorité compétente pour procéder à l’arrestation des délinquants.

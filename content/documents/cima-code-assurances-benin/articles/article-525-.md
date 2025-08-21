@@ -1,0 +1,3 @@
+Article 525 : Montant
+Le montant de la garantie financière prévue à l’article 524 doit être au moins égal à la somme de 10.000.000 FCFA et ne peut être inférieur au double du montant moyen mensuel des fonds perçus par l’agent général, le courtier ou la société de courtage d’assurances, calculé sur la base des fonds perçus au cours des douze derniers mois précédant le mois de la date de souscription ou de reconduction de l’engagement de caution.
+Le calcul du montant défini à l’alinéa précédent tient compte du total des fonds confiés à l’agent général, au courtier ou à la société de courtage d’assurances, par les assurés, en vue d’être versés à des entreprises d’assurance ou par toute personne physique ou morale, en vue d’être versés aux assurés.

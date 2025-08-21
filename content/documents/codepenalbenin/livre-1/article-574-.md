@@ -1,0 +1,1 @@
+La peine prévue à l’article 573 ci-dessus sera de deux (02) ans à cinq (05) ans et l’amende de deux cent cinquante mille (250.000) à un million (1.000.000) de francs CFA contre les ascendants ou toutes autres personnes ayant autorité sur l’enfant ou l’incapable, ou en ayant la garde.

@@ -1,0 +1,3 @@
+Représentations diplomatiques, institutions étrangères et organismes jouissant de la personnalité juridique de droit international
+Les activités de communications électroniques menées sur le territoire national par les  représentations diplomatiques,  les  institutions  étrangères  et  les  organismes  jouissant  de  la  personnalité  juridique  de  droit international, sont exercées conformément aux accords internationaux ratifiés par la République du Bénin.
+Ces activités sont soumises aux dispositions du présent Livre sous réserve des stipulations contraires aux accords internationaux ratifiés par la République du Bénin.

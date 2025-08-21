@@ -1,0 +1,2 @@
+Les résultats de l'élection du maire et de ses adjoints sont rendus publics dans un délai-de-vingt-quatre (24) heures, par voie d'affichage à la porte de la mairie et sont communiqués, sans délai, à l'autorité de tutelle.
+Les résultats de l'élection du maire et de ses adjoints-sont constatés par arrêté préfectoral publié au Journal officiel.

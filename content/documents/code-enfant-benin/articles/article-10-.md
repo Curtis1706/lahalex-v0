@@ -1,0 +1,2 @@
+Article 10 : Action de prévention
+Dans toutes les mesures prises à l’égard de l’enfant, l’action de prévention au sein de la famille est la considération primordiale en vue de sauvegarder le rôle familial et de consolider la responsabilité qui incombe aux parents ou à tous ceux qui ont à charge son éducation, sa scolarité et son encadrement.

@@ -1,0 +1,15 @@
+{
+  "id": "article-11-",
+  "title": "ARTICLE 11 :",
+  "numero": "11 ",
+  "document": "codeminierbenin",
+  "path": [
+    "titre-1",
+    "chapitre-2"
+  ],
+  "navigation": {
+    "parent": "chapitre-2",
+    "previous": "article-10-",
+    "next": "article-12-"
+  }
+}

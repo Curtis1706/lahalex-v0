@@ -1,0 +1,2 @@
+Article 512 : Documents
+La capacité professionnelle prévue par l’article 508 se justifie par la présentation du diplôme requis, du livret de stage ou de l’attestation de fonctions défini à l’article 513.

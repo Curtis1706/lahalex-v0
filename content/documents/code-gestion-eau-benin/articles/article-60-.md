@@ -1,0 +1,4 @@
+Article 60 : L’eau livrée à la consommation des populations doit être potable.
+Quel que soit le mode de gestion du service public d’approvisionnement en eau potable, la personne publique compétente veille, sous l’autorité des ministres en charge respectivement de l’eau et de la santé, et conformément aux dispositions du code de l’hygiène publique, à la qualité de l’eau distribuée et au respect des normes.
+Le contrôle de la qualité de l’eau est effectué par des laboratoires agréés par l’Etat. Ce contrôle est obligatoire.
+Un décret pris en conseil des ministres fixe les conditions et modalités d’obtention de l’agrément.

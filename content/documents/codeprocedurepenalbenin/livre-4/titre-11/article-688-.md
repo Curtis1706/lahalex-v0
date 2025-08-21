@@ -1,0 +1,4 @@
+Le tribunal peut prononcer soit une des mesures de garde ou de rééducation prévues au chapitre 5 du présent titre, aux articles 690 et 692 à 694 du présent code, soit une condamnation pénale.
+Dans ce cas, s’il a encouru la perpétuité, le mineur est condamné à une peine de dix (10) à vingt (20) ans d’emprisonnement, et est gardé dans un établissement approprié.
+S’il a encouru une peine criminelle à temps, il est condamné à une peine d’emprisonnement dont la durée ne pourra être supérieure à la moitié de la peine pour laquelle il aurait pu être condamné s’il avait eu plus de dix-huit (18) ans.
+Dans tous les cas, il peut être mis par le jugement sous le régime de l’interdiction de séjour pendant cinq (05) ans au moins et dix (10) ans au plus.

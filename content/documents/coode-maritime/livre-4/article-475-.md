@@ -1,0 +1,1 @@
+Les marchandises sauvées ou sacrifiées contribuent en proportion de leur valeur réelle ou supposée sur le marché au port de déchargement.

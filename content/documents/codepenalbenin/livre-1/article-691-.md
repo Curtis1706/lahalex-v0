@@ -1,0 +1,1 @@
+Les jeux de hasard, d’argent et de paris de toute espèce sont prohibés sous réserve des dérogations prévues aux articles suivants.

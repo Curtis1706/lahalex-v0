@@ -1,0 +1,1 @@
+Il est interdit de cracher, de se moucher, de se brosser les dents ou de fumer dans les locaux où sont produites, stockées ou manipulées les denrées alimentaires destinées au public.

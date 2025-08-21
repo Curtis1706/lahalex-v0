@@ -1,0 +1,4 @@
+Incitation à la commission d’une infraction
+Seront punis d’un (01) an d'emprisonnement et de cinq millions (5 000 000) de francs CFA d'amende, ceux qui, par l'un des moyens énoncés à l'article précédent, auront directement provoqué, dans le cas où cette provocation n'aurait pas été suivie d'effet, à commettre l'une des infractions suivantes au moyen d’un ou sur un réseau de communication électronique ou un système informatique :
+1. les atteintes à la vie de la personne, les atteintes à l'intégrité physique de la personne et les agressions sexuelles, définies par le code pénal ;
+1. les vols, les extorsions dangereuses pour les personnes, définis par le code pénal.

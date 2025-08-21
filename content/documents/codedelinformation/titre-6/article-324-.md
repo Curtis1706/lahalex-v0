@@ -1,0 +1,1 @@
+Si le contrevenant est une personne morale, la responsabilité pénale incombe à ses dirigeants. La complicité est punissable dans les conditions de droit commun.

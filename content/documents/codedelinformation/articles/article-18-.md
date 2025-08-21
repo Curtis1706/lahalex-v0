@@ -1,0 +1,10 @@
+Les organes d’information et de communication audiovisuelle et les exploitants de services audiovisuels, publics ou privés assurent, dans l’intérêt général, des missions de service public qui visent à :
+- offrir au public, pris dans toutes ses composantes, un ensemble de programmes et de services qui se caractérisent par leur diversité et leur pluralisme, leur qualité et leur innovation, leur respect des lois, des droits de la personne et des principes démocratiques constitutionnellement définis ;
+- présenter une offre de programmes et de services dans les domaines de l’information, de la culture, de la connaissance scientifique, de la publicité, du divertissement et du sport ;
+- s’attacher à développer de nouveaux services susceptibles d’enrichir ou de compléter leur offre de programme ainsi que les nouvelles techniques de production et de diffusion des programmes et de services de communication audiovisuelle non interdites par les textes en vigueur ;
+- favoriser le débat démocratique, la formation du citoyen, les échanges entre les différentes composantes de la société ainsi que l’insertion sociale, la citoyenneté et le développement sur tous les plans notamment la promotion des valeurs concourant à la construction de la nation béninoise ;
+- assurer en toute honnêteté, dans le respect du principe d’égalité de traitement et des décisions de la Haute Autorité de l’Audiovisuel et de la Communication, l’indépendance et le pluralisme de l’information ainsi que l’expression pluraliste des courants de pensée et d’opinion ;
+- accompagner l’alphabétisation et mettre en valeur le patrimoine culturel et linguistique dans ses diversités régionales et locales ;
+- favoriser les échanges culturels, scientifiques et commerciaux ;
+- concourir à la diffusion de la création intellectuelle et artistique et des connaissances civiques, économiques, sociales, scientifiques ainsi qu’à l’éducation de la société ;
+- contribuer au rayonnement de la République du Bénin à travers la diffusion de la culture et des particularismes béninois dans le monde.

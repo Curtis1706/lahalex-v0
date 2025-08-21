@@ -1,0 +1,2 @@
+Le préfet défère au juge administratif, dans un délai de huit (08) jours à compter de la date de l'accusé de réception, les actes des autorités communales devenus exécutoires qu'il estime entachés d'illégalité. Toutefois, le préfet dispose pendant ce délai de recours, du pouvoir de suspendre les actes concernés s'ils lui paraissent apporter un trouble manifeste à l'ordre public.
+Le juge saisi, statue sur le recours du préfet contre les actes des autorités communales dans un délai maximum de trente (30) jours à compter de sa saisine, le préfet et lesdites autorités entendues.

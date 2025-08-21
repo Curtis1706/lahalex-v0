@@ -1,0 +1,1 @@
+La filiation ne produit effet, en matière d'attribution de la nationalité béninoise, que si elle est établie dans les conditions déterminées par le droit béninois.

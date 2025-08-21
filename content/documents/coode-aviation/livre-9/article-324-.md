@@ -1,0 +1,1 @@
+Les dispositions du code pénal sur l’atténuation ou l'aggravation des peines sont applicables à toutes les infractions prévues par la présente loi.

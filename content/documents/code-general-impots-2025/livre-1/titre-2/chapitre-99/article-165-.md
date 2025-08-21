@@ -1,0 +1,4 @@
+1) Le paiement régulier de l’impôt crée une présomption de propriété.
+À l’inverse, le non-paiement de l’impôt peut également être considéré comme une présomption de non-propriété par les autorités compétentes.
+2) Tout acte translatif de la propriété ou de son usage, toute autorisation de lotir, de construire ou d’habiter, toute attribution de titre foncier et d’une façon générale, tout acte attribuant un droit de propriété ou d’usage d’un bien taxable n’emporte effet qu’autant qu’il comporte la mention certifiée conforme par les services fiscaux : « le propriétaire du bien est à jour de ses obligations au regard de la taxe foncière unique ».
+TAXE SUR LES VEHICULES A MOTEUR

@@ -1,0 +1,2 @@
+Quiconque ayant été condamné pour l'une des infractions prévues aux articles 311 à 317 de la présente loi se retrouve en état de récidive légale, est condamné au maximum des peines d'emprisonnement et d'amende. Ces peines peuvent être élevées au double.
+Il y a récidive lorsque l'auteur des faits commet une autre infraction tombant sous le coup de la présente loi ou la même infraction dans un délai de cinq (5) ans après l'expiration de la peine d’emprisonnement ou le paiement de l'amende, ou la prescription de ces deux peines.

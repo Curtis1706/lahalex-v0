@@ -1,0 +1,1 @@
+Dans tous les cas donnant lieu à recours contre les assureurs, le règlement sera établi séparément sur chaque côté, qu’il fasse ou non partie d’un fardeau, sauf pour les facultés chargées en vrac, sur lesquelles il sera établi par cale.

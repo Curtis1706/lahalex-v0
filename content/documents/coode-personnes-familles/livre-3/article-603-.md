@@ -1,0 +1,1 @@
+Sans préjudice de l’application des textes en vigueur, sont opposables à l’héritier véritable, les actes d’administration de l’héritier apparent, relatifs aux biens héréditaires.

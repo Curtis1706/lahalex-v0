@@ -1,0 +1,6 @@
+Le Bureau national de renseignements fera parvenir d’urgence, par les Transmission moyens les plus rapides, et par l’entremise, d’une part, des Puissances des protectrices et, d’autre part, de l’a gence centrale prévue à l’article 140, les informations informations concernant les personnes protégées à la Puissance dont les per-
+sonnes visées ci-dessus sont ressortissantes ou à la Puissance sur le territoire
+de laquelle elles avaient leur résidence. Les Bureaux répondront également à
+toutes les demandes qui leur sont adressées au sujet des personnes protégées.
+Les Bureaux de renseignements transmettront les informations relatives à une personne protégée, sauf dans les cas où leur transmission pourrait por- ter préjudice à la personne intéressée ou à sa famille. Même dans ce cas, les informations ne pourront être refusées à l’agence centrale qui, ayant été avertie des circonstances, prendra les précautions nécessaires indiquées à l’article 140.
+Toutes les communications écrites faites par un Bureau seront authentifiées par une signature ou par un sceau.

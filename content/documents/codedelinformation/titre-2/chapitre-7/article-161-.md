@@ -1,0 +1,1 @@
+Interdiction est faite de dépeindre, par voie publicitaire, sans autorisation préalable, des biens personnels ou de s’y référer de telle sorte qu’elle laisse supposer l’accord de la personne concernée.

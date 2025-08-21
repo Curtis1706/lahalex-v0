@@ -1,0 +1,5 @@
+Article 325-2 : Liquidateur
+Le liquidateur agit sous son entière responsabilité. Il a les pouvoirs les plus étendus sous réserve des dispositions du présent chapitre, pour administrer, liquider, réaliser l’actif, tant mobilier qu’immobilier, et pour arrêter le passif, compte tenu des sinistres non réglés. Toute action mobilière ou immobilière ne peut être suivie ou intentée que par lui ou contre lui.
+Pendant la durée de la liquidation, l’entreprise demeure soumise au contrôle de la Commission Régionale de Contrôle des Assurances et du juge contrôleur.
+Ils peuvent demander à tout moment au liquidateur tous renseignements et justifications et faire effectuer les vérifications sur place.
+Ils adressent au président du tribunal tous rapports qu’ils estiment nécessaires. Le président du tribunal procède, en cas de besoin, sur le rapport du juge-contrôleur ou à la demande de la Commission, au remplacement du liquidateur par ordonnance non susceptible de recours.

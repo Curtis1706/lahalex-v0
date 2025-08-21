@@ -1,0 +1,2 @@
+Le président de la République est élu en duo avec un vice-président de la République.
+L'élection du duo président de la République et vice-président de la République a lieu au scrutin majoritaire à deux (02) tours.

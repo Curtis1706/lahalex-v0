@@ -1,0 +1,14 @@
+{
+  "id": "article-123-2-",
+  "title": "Article 123-2 : « Le mariage ne peut être contracté qu'entre un homme âgé d'au moins dix-huit (18) ans et une femme âgée d'au moins dix- huit (18) ans».",
+  "numero": "123-2 ",
+  "document": "coode-personnes-familles",
+  "path": [
+    "livre-2"
+  ],
+  "navigation": {
+    "parent": "livre-2",
+    "previous": "article-123-1-",
+    "next": "article-124-ancien-"
+  }
+}

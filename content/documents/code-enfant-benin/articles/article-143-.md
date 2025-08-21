@@ -1,0 +1,2 @@
+Article 143 : Consultations prénatales
+Toute femme enceinte, avant la fin de la douzième semaine d'aménorrhées, a l'obligation de se soumettre à la consultation prénatale dans le centre de santé le plus proche de sa résidence aux fins de la confirmation de son état, de l'évolution du fœtus et de la détermination de son état sérologique.

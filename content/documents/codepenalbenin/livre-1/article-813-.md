@@ -1,0 +1,1 @@
+Est puni de la même peine, quiconque a volontairement mis le feu soit à des voitures ou wagons contenant des personnes, soit à des voitures ou wagons ne contenant pas de personnes, mais faisant partie d’un convoi qui en contient.

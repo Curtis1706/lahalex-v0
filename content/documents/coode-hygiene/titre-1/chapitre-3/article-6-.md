@@ -1,0 +1,1 @@
+Les campagnes de lutte contre les vecteurs de maladie dans les agglomérations sont organisées et menées par les services publics ou privés compétents selon une périodicité fixée par arrêté du ministre chargé de la santé.

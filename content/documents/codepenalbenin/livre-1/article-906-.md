@@ -1,0 +1,1 @@
+Il est interdit de rejeter les eaux résiduaires directement dans la nature sans traitement préalable. A cet effet, tout établissement industriel doit avoir une station d’épuration des eaux usées adaptée et fonctionnelle.

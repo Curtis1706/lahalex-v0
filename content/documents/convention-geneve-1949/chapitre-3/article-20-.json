@@ -1,0 +1,14 @@
+{
+  "id": "article-20-",
+  "title": "Article 20 :",
+  "numero": "20 ",
+  "document": "convention-geneve-1949",
+  "path": [
+    "chapitre-3"
+  ],
+  "navigation": {
+    "parent": "chapitre-3",
+    "previous": "article-19-",
+    "next": "article-21-"
+  }
+}

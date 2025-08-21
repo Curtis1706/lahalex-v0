@@ -1,0 +1,1 @@
+Pareillement, quand, sur l’action ouverte par l'article 332, il est opposé une fin de non-recevoir ou une défense tirée de ce que la mère a eu, pendant la période légale de la conception, des relations avec un tiers, le juge peut ordonner que celui-ci soit appelé en la cause.

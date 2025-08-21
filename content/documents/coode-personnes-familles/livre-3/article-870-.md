@@ -1,0 +1,1 @@
+Le donataire doit s’abstenir de tout acte constitutif d’ingratitude à l’égard du donateur.

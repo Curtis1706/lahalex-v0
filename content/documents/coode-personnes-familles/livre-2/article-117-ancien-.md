@@ -1,0 +1,2 @@
+La convention est passée en présence de deux témoins au moins pour chaque fiancé et d’un représentant de chaque famille. Les fiancés peuvent s’offrir réciproquement des dons symboliques, en nature, non remboursables.
+En cas de contestation, la preuve des fiançailles s’administre par l’audition des témoins y ayant assisté ou par tout autre moyen.

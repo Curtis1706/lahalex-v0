@@ -1,0 +1,3 @@
+Les officiers de police judiciaire exercent les pouvoirs définis à l’article 14 du présent code. Ils reçoivent les plaintes et dénonciations ; ils procèdent à des enquêtes préliminaires dans les conditions prévues par les articles 76 à 78 du présent code.
+En cas de crime et délit flagrants, ils exercent les pouvoirs qui leur sont conférés par les articles 47 à 74 du présent code.
+Ils ont le droit de requérir directement le concours de la force publique pour l’exécution de leur mission.

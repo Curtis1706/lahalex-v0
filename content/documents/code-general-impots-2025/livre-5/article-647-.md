@@ -1,0 +1,1 @@
+Les dispositions du présent chapitre sont applicables tant en matière d’impôts directs qu’en matière de tous impôts et taxes indirects perçus ou non par voie de titres exécutoires.

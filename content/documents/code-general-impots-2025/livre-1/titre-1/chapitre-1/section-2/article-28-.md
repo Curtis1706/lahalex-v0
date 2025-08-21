@@ -1,0 +1,7 @@
+1) Sont déductibles, dans les limites prévues par le présent article et si le débiteur apporte la preuve qu’elles correspondent à des opérations réelles, qu’elles ne présentent pas un caractère anormal et qu’elles ne sont pas exagérées, les sommes versées en rémunération des frais de siège et d’assistance technique.
+2) La  quote-part  des  frais  généraux  de  siège  incombant  aux  filiales  et/ou
+établissements stables situés en République du Bénin ne peut dépasser 10% du bénéfice imposable  avant  déduction  des  frais  en  cause.  En  cas  de  déficit,  cette  disposition s’applique sur le résultat bénéficiaire avant déduction des frais de siège de l’exercice le plus  récent  non  prescrit.  Si  aucun  exercice  non  prescrit  n’est  bénéficiaire,  le  droit  à déduction est définitivement perdu.
+Les frais de siège correspondent aux frais de secrétariat, rémunérations du personnel employé  au  siège  et  autres  frais  engagés  par  la  société  mère  pour  les  besoins  de l’ensemble des filiales et/ou établissements stables.
+3) Les frais d’assistance technique, comptable et financière, frais d’études et autres
+frais assimilés ne sont déductibles qu’à hauteur de 10% des frais généraux s’ils sont versés à une société non exploitée en République du Bénin.
+Par frais généraux, il faut entendre les charges d’exploitation sous déduction des achats de stocks et de matières premières, des amortissements et des provisions.

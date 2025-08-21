@@ -1,0 +1,2 @@
+1) La base d’imposition est constituée par le montant brut hors taxe des intérêts, commissions et autres rémunérations perçues par les banques et établissements financiers, ou, dans le cas des prêts entre entreprises, par le prêteur.
+2) En matière d’assurances, la taxe est perçue sur le montant des sommes stipulées au profit de l’assureur et de tous les accessoires dont celui-ci bénéficie directement ou indirectement du fait de l’assuré.

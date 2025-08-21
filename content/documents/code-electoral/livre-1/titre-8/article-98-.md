@@ -1,0 +1,3 @@
+Les candidats à l'élection du président de la République, ainsi que les partis politiques prenant part aux élections législatives et communales établissent un compte prévisionnel de campagne précisant l'ensemble des ressources et des dépenses à effectuer en vue des opérations électorales par eux-mêmes et/ou pour leur compte.
+Ils en font dépôt contre récépissé à la Cour des comptes, quarante (40) jours avant la date des élections.
+La forme et le contenu des comptes de campagne sont fixés par décret pris en Conseil des ministres, après avis du président de la Cour suprême.

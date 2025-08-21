@@ -1,0 +1,1 @@
+Les dispositions des articles 48 à 75 sont applicables au cas de délits flagrants dans tous les cas où la loi prévoit une peine d’emprisonnement.

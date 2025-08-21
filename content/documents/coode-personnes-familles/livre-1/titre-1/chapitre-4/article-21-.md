@@ -1,0 +1,1 @@
+Dès le dépôt de la demande, le tribunal désigne un administrateur provisoire des biens qui peut être le curateur aux intérêts absents, le mandataire laissé par celui dont on est sans nouvelles, ou toute autre personne de son choix. S’il y a des enfants mineurs, le tribunal les déclare soumis au régime de l’administration légale de la tutelle.

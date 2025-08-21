@@ -1,0 +1,8 @@
+Fraude aux cartes bancaires
+Est puni de cinq (5) ans d’emprisonnement et d'une amende de dix millions     (10 000 000) de francs CFA, le fait pour toute personne :
+1. de contrefaire  ou  de  falsifier  une  carte  de paiement ou de  retrait au moyen  d’un ou sur un  réseau  de communication électronique ou un système informatique ;
+1. de faire usage, en connaissance de cause, d'une carte de paiement ou de retrait contrefaite ou falsifiée au moyen d’un ou sur un réseau de communication électronique ou un système informatique ;
+1. d'accepter, en connaissance de cause, de recevoir un paiement au moyen d'une carte de paiement contrefaite ou falsifiée au moyen d’un ou sur un réseau de communication électronique ou un système informatique.
+Est puni de huit (8) ans d'emprisonnement et de dix millions (10 000 000) de francs CFA d'amende, le fait pour toute personne, de fabriquer, d'acquérir, de détenir, de céder, d'offrir ou de mettre à disposition des équipements, instruments, programmes informatiques ou toutes données conçus ou spécialement adaptés pour commettre les infractions prévues à l’alinéa 1.
+La confiscation, aux fins de destruction des cartes de paiement contrefaits ou falsifiés est obligatoire dans les cas prévus ci-dessus. Est également obligatoire la confiscation des matières, machines, appareils, instruments, programmes informatiques ou de toutes données qui ont servi ou étaient destinés à servir à la fabrication desdits objets, sauf lorsqu'ils ont été utilisés à l'insu du propriétaire.
+Dans tous les cas prévus aux alinéas ci-dessus, le tribunal peut prononcer l'interdiction des droits civiques, civils et de famille ainsi que l'interdiction, pour une durée de cinq (5) ans au plus, d'exercer une activité professionnelle ou sociale.

@@ -1,0 +1,1 @@
+Les créanciers hypothécaires suivent l'aéronef en quelque main qu'il passe pour être colloqués et payés suivant l'ordre de leurs inscriptions et après les créanciers privilégiés, sous réserve des dispositions des articles 45 et 47 de la présente loi.

@@ -1,0 +1,1 @@
+le créancier saisissant doit, à peine de nullité de la saisie, dans un délai de huit (08) jours, saisir le tribunal civil du lieu de la saisie pour obtenir la validation de la saisie conservatoire.

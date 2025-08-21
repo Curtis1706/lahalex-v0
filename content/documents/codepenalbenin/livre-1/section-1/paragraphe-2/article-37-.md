@@ -1,0 +1,1 @@
+En matière correctionnelle, la durée de la peine d’emprisonnement est de deux (02) mois au moins et de cinq (05) ans au plus, sauf les cas de récidive ou autres où la loi aura déterminé d’autres limites ; l’amende ne peut être inférieure à vingt mille (20.000) francs CFA.

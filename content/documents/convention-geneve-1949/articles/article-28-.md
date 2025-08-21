@@ -1,0 +1,1 @@
+aucune personne protégée ne pourra être utilisée pour mettre, par sa pré- 2. Zones sence, certains points ou certaines régions à l’abri des opérations militaires. dangereuses

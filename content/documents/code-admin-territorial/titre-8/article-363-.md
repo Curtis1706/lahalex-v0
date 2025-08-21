@@ -1,0 +1,1 @@
+Le principe de la sincérité implique que les prévisions de ressources et de charges de la commune ou de l'établissement public de coopération intercommunale sont évaluées de façon sincère. Elles sont effectuées avec réalisme et prudence, compte tenu des informations disponibles au moment où le projet de budget est établi.

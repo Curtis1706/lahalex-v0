@@ -1,0 +1,1 @@
+Le maire est officier d'état civil. En cette qualité, il reçoit des déclarations de naissance et de décès et procède ou fait procéder à leur enregistrement conformément aux lois et règlements. Il célèbre les mariages. Il procède de même pour tous actes ou jugements affectant l'état civil des personnes concernées. Il délivre les extraits des actes d'état civil.

@@ -1,0 +1,1 @@
+L’accomplissement des formalités prescrites par les articles 280et281 du présent code, est constaté par un procès-verbal que signent le président, le greffier, l’accusé et, s’il y a lieu, l’interprète. Si l’accusé ne sait ou ne veut signer, le procès-verbal en fait mention.

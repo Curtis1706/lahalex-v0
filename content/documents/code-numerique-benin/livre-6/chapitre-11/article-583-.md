@@ -1,0 +1,3 @@
+Circonstances aggravantes
+Lorsqu’une infraction est commise par un membre d’une organisation criminelle ou d’une bande organisée en vue de commettre des infractions pénalement répressibles, la peine initialement prévue est doublée pour l’infraction elle-même ou si plusieurs infractions sont commises pour l’infraction la plus sévèrement réprimée.
+Lorsque l’une des infractions prévues en vertu du présent Livre porte atteinte à des données informatiques ou aux systèmes informatiques liés à des infrastructures stratégiques ou sensibles, la peine initialement prévue s’élève jusqu’à la réclusion criminelle à perpétuité et jusqu’à cinq cent millions                               (500 000 000) de francs CFA d’amende ou l’une de ces deux peines seulement.

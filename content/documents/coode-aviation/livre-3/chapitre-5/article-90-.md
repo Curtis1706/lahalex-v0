@@ -1,0 +1,2 @@
+Le commandant de bord d'un aéronef en situation de détresse dans l'obligation d'atterrir sur un aérodrome non douanier sollicite les instructions des services de la circulation aérienne.
+L'aéronef et ses occupants demeurent sous la responsabilité des organes chargés de la sécurité, attendant les instructions.

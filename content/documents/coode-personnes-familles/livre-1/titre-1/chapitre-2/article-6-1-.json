@@ -1,0 +1,16 @@
+{
+  "id": "article-6-1-",
+  "title": "Article 6-1 :« Lorsque la filiation n'est établie qu’à l'égard d’un parent, l'enfant prend le nom de ce parent.",
+  "numero": "6-1 ",
+  "document": "coode-personnes-familles",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-2"
+  ],
+  "navigation": {
+    "parent": "chapitre-2",
+    "previous": "article-6-2",
+    "next": "article-6-2-"
+  }
+}

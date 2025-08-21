@@ -1,0 +1,2 @@
+L'ordonnateur inscrit en section d'investissement les crédits nécessaires à l'exécution, chaque année, des dépenses d'investissement en vue de promouvoir le développement à la base,
+La liste des projets inscrits à ce titre, conformément aux documents de planification pluriannuels de la commune, accompagnée d'une fiche signalétique par projet, est communiquée par l'ordonnateur à l'autorité de tutelle, en vue de la prise en compte desdits projets au programme d'investissements publics.

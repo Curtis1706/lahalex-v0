@@ -1,0 +1,4 @@
+En toute matière, lorsqu’elle n’est pas de droit, la mise en liberté peut être ordonnée par le juge des libertés et de la détention sur demande du juge d’instruction et s’il y a lieu de la partie civile après avis du procureur de la République, à charge par l’inculpé de prendre l’engagement de se représenter à tous les actes de la procédure aussitôt qu’il en sera requis et de tenir informé le magistrat instructeur de tous ses déplacements.
+Le procureur de la République dispose d’un délai de quarante-huit (48) heures pour ses réquisitions. Il peut également la requérir à tout moment.
+La partie civile aussi dispose d’un délai de quarante-huit (48) heures pour ses observations.
+Le juge des libertés et de la détention statue dans le délai de soixante-douze (72) heures à compter de la date de ces réquisitions.

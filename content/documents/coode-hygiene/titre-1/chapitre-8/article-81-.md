@@ -1,0 +1,4 @@
+Les travaux, les installations et les équipements de prélèvement et d'approvisionnement en eau destinée à la consommation font l'objet d'une déclaration d'intérêt public.
+Aux fins de préserver la qualité de ladite eau, l'acte portant déclaration d'intérêt public détermine autour du point de prélèvement, un périmètre de protection immédiate, un périmètre de protection rapprochée et un périmètre de protection éloignée.
+Lorsque les conditions hydrologiques et hydrogéologiques permettent d'assurer efficacement la préservation de la qualité de l'eau par des mesures de protection limitées au voisinage immédiat du captage, l'acte portant déclaration d'intérêt public ne peut instaurer qu'un périmètre de protection immédiate.
+Les activités pouvant nuire à la qualité des eaux sont interdites ou réglementées dans les aires de protection. Un acte réglementaire en précise les détails.

@@ -1,0 +1,3 @@
+Rapport
+Les sanctions prévues dans les dispositions du présent Livre sont prononcées sur la base d’un rapport établi par l'Autorité. Ce rapport est notifié au responsable du traitement, qui peut faire des observations écrites ou orales dans un délai de quinze (15) jours dès la réception de la notification de l'Autorité et qui peut assister ou se faire représenter aux séances à l’issue desquelles l'Autorité statue.
+Les décisions prises par l'Autorité sont motivées et notifiées au responsable du traitement.

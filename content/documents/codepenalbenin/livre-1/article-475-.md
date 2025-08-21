@@ -1,0 +1,1 @@
+Tout coupable d’assassinat, de parricide, ou d’empoisonnement, est puni de la réclusion criminelle à perpétuité.

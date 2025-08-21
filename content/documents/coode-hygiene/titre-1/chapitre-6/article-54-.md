@@ -1,0 +1,1 @@
+L'installation des centres de détention est faite conformément aux normes requises.

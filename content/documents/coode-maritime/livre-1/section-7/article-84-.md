@@ -1,0 +1,1 @@
+Tout navire de mer ou engin flottant à l’exception des pirogues est astreint à la possession d’un titre de navigation maritime conformément à la réglementation en vigueur.

@@ -1,0 +1,2 @@
+La Caisse jouit pour toutes ses activités sociales liées à son objet d’un régime privilégié et est exempte de tous impôts et taxes.
+Les prestations prévues par le présent Code sont exonérées de tous impôts et les pièces de toute nature requises pour l’obtention de ces prestations sont exonérées de tous droits de timbre.

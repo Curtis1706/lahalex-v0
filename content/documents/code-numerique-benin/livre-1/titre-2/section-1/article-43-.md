@@ -1,0 +1,2 @@
+Octroi des licences et des autorisations et réalisation des déclarations
+Les modalités d’octroi des licences, des autorisations et les conditions de réalisation de la déclaration font l’objet d’un décret pris en Conseil des Ministres sur avis conforme de l’Autorité de régulation. Le décret qui le constate est publié au Journal officiel.

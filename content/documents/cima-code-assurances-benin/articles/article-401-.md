@@ -1,0 +1,2 @@
+Article 401 : Plan comptable
+Les entreprises d’assurance soumises au contrôle de l’État, qu’il s’agisse d’entreprises de droit national ou de succursales d’entreprises étrangères, doivent établir leur comptabilité dans la forme prévue par le présent Code. Leur comptabilité doit notamment faire apparaître, par exercice et pour chacune des catégories indiquées à l’article 411, les éléments suivants de leurs affaires brutes de cessions et de leurs affaires cédées : primes, sinistres, commissions, provisions techniques.

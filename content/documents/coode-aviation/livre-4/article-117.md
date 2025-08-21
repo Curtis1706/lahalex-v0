@@ -1,0 +1,1 @@
+L'enquête technique sur un accident ou incident d'aviation menée en vertu de la présente loi a pour seul objectif la prévention des accidents et incidents. Cette activité ne vise nullement à la détermination des fautes ou des responsabilités.

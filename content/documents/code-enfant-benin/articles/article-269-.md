@@ -1,0 +1,2 @@
+Article 269 : Notification de la décision du tribunal
+Les décisions du tribunal sont notifiées par le ministère public dans les formes et délais de droit commun à l’enfant, aux père et mère, au tuteur ou au gardien et à la partie civile, dans le cas où ils sont défaillants à l’audience.

@@ -1,0 +1,2 @@
+Le conjoint étranger acquiert la nationalité béninoise après une période probatoire de cinq (05) ans à compter de la célébration du mariage.
+Lorsque le mariage a été célébré à l'étranger, le délai probatoire court à compter de la transcription de l'acte sur les registres de l'état civil des agents diplomatiques ou consulaires béninois.

@@ -1,0 +1,4 @@
+Le capitaine est tenu d’exercer en personne son commandement et de conduire son navire à l’entrée et à la sortie des ports et rades, canaux et rivières, ainsi qu’en toutes circonstances difficiles.
+La présence à bord, même réglementaire, d’un pilote ne fait pas cesser cette obligation.
+2 est également tenu de surveiller, personnellement ou par son équipage, la bonne exécution des opérations de chargement, de déchargement, d’arrimage et de désarrimage de la cargaison et de prendre toutes mesures nécessaires pour la bonne exécution du transport et de la sauvegarde de la marchandise et lui éviter, avant le départ, en cours de voyage, et à l’arrivée, tous risques de détérioration ou danger, ou de les réduire au minimum.
+2 est enfin tenu de s’assurer dans les mêmes conditions du bien-être et de la sécurité de l’équipage et des passagers.

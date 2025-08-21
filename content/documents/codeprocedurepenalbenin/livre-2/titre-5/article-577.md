@@ -1,0 +1,2 @@
+Dans une affaire qui le concerne devant une juridiction, tout citoyen peut soulever l’exception d’inconstitutionnalité de la loi appelée à s’appliquer à l’espèce.
+L’exception doit indiquer clairement le ou les articles de la loi incriminée avec à l’appui et par écrit l’exposé sommaire des moyens.

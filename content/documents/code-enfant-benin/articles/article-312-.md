@@ -1,0 +1,4 @@
+Article 312 : Recouvrement des allocations d'entretien mises à la charge des parents
+Les allocations d’entretien mises à la charge des parents sont recouvrées comme frais de justice criminelle.
+Le père, la mère ou le tuteur condamné au paiement desdites allocations, se présentent au greffe du tribunal qui a rendu la décision. Il lui est remis un extrait en trois (03) exemplaires portant le décompte des sommes dues. Le condamné s’acquitte de sa dette entre les mains du trésorier-payeur ou de l’un de ses comptables subordonnés sur présentation de l’extrait. Nonobstant appel ou opposition, le paiement des allocations d’entretien s’effectue par tranche trimestrielle ; le versement de la première tranche a lieu dans les trois (03) mois à compter du jour où la décision est rendue contradictoirement ou signifiée à personne.
+A défaut de paiement, il est fait application de la contrainte par corps prévue au code de procédure pénale.

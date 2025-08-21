@@ -1,0 +1,15 @@
+{
+  "id": "article-80-",
+  "title": "Article 80 : Arrêt de procédure",
+  "numero": "80 ",
+  "document": "code-marche-public",
+  "path": [
+    "titre-3",
+    "chapitre-10"
+  ],
+  "navigation": {
+    "parent": "chapitre-10",
+    "previous": "article-79-",
+    "next": "article-81-"
+  }
+}

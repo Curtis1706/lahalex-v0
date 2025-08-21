@@ -1,0 +1,15 @@
+{
+  "id": "article-11-",
+  "title": "Article 11 : Les individus condamnés pour infraction involontaire peuvent être électeurs.",
+  "numero": "11 ",
+  "document": "code-electoral",
+  "path": [
+    "livre-1",
+    "titre-1"
+  ],
+  "navigation": {
+    "parent": "titre-1",
+    "previous": "article-10-",
+    "next": "article-12-"
+  }
+}

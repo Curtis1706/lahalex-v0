@@ -1,0 +1,1 @@
+Les conditions et les modalités d'application des sanctions administratives ainsi que le taux et les modalités de perception des amendes administratives sont fixés par voie réglementaire.

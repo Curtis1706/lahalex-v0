@@ -1,0 +1,1 @@
+Les inspecteurs de l'aviation civile peuvent recevoir une délégation de pouvoirs de supervision des activités de sécurité et de sûreté. ,

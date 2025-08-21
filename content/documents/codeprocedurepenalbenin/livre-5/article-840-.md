@@ -1,0 +1,3 @@
+La contrainte par corps est subie en maison d’arrêt, si possible dans un quartier spécial. Elle est subie dans la maison d’arrêt du lieu de l’arrestation ou, à défaut, dans celle du lieu le plus voisin.
+Toutefois, en cas de recommandation, si le débiteur est soumis à une peine privative de liberté, il est, à la date fixée pour sa libération définitive ou conditionnelle, maintenu dans l’établissement pénitentiaire où il se trouve, pour la durée de sa contrainte.
+Le débiteur détenu est soumis au même régime que les condamnés.

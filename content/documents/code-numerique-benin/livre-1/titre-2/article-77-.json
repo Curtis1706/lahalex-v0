@@ -1,0 +1,15 @@
+{
+  "id": "article-77-",
+  "title": "Article 77 : Accès aux capacités sur les câbles sous-marins",
+  "numero": "77 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-76-",
+    "next": "article-78-"
+  }
+}

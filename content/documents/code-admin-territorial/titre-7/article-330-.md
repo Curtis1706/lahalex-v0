@@ -1,0 +1,2 @@
+Le secrétaire permanent est nommé pour une durée de cinq (05) ans à compter de la date de sa prise de fonction, sauf si les statuts fixent une durée de la communauté plus courte.
+Le mandat du secrétaire permanent est renouvelable une seule fois auprès du même établissement public de coopération intercommunale. Le renouvellement du mandat auprès d’un même établissement public de coopération intercommunale n’est pas soumis au tirage au sort dans le fichier des principales fonctions administratives des communes.

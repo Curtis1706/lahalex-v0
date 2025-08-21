@@ -1,0 +1,1 @@
+L'installation des établissements sanitaires se fait conformément à la réglementation en vigueur.

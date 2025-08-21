@@ -1,0 +1,3 @@
+Article 164 : Pouvoirs des autorités publiques
+Dans l’intérêt supérieur de l’enfant, tout agent des forces de sécurité publique, toute autorité administrative ou judicaire, peut empêcher l’entrée, en République du Bénin, d’un enfant de nationalité étrangère lorsque les conditions prévues aux articles 162 et 163 ci-dessus ne sont pas réunies.
+Les modalités d’application de l’alinéa précédent sont fixées par décret pris en Conseil des ministres.

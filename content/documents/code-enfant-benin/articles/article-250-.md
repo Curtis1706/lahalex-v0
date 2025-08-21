@@ -1,0 +1,4 @@
+Article 250 : Autorité judiciaire de poursuite des infractions des mineurs
+Un des substituts du procureur de la République près le tribunal de première instance chargé des mineurs est désigné pour la poursuite des infractions commises par des mineurs de dix-huit (18) ans. Toutefois, le substitut du procureur de la République, saisi d'un flagrant délit d’une affaire dans laquelle sont impliqués des enfants, peut procéder à tous actes urgents de poursuite ou d’information à charge pour lui de se dessaisir de la poursuite, dans les plus brefs délais, en faveur du juge des enfants.
+Si le procureur de la République poursuit des majeurs en flagrant délit ou par voie de citation directe, il constitue un dossier spécial pour les enfants impliqués dans l’affaire et en saisit le juge des enfants.
+Au cas où une information est ouverte, le procureur de la République en saisit le juge des enfants qui informe à la fois contre les majeurs et les mineurs.

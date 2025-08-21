@@ -1,0 +1,1 @@
+Un décret déterminera les modalités de la forme, de l’établissement, de la délivrance, de la tenue, de la conservation, de la copie, de la constitution et de l’utilisation du livret de famille.

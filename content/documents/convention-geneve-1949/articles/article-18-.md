@@ -1,0 +1,6 @@
+Les hôpitaux civils organisés pour donner des soins aux blessés, aux ma- 3. Protection lades, aux infirmes et aux femmes en couches ne pourront, en aucune des hôpitaux circonstance, être l’objet d’attaques ; ils seront, en tout temps, respectés et
+protégés par les Parties au conflit.
+Les états qui sont parties à un conflit devront délivrer à tous les hôpitaux civils un document attestant leur caractère d’hôpital civil et établissant que les bâtiments qu’ils occupent ne sont pas utilisés à des fins qui, au sens de l’article19, pourraient les priver de protection.
+Les hôpitaux civils seront signalés, s’ils y sont autorisés par l’état, au moyen de l’emblème prévu à l’article 38 de la Convention de Genève pour l’amélio- ration du sort des blessés et des malades dans les forces armées en campagne du 12 août 1949.
+Les Parties au conflit prendront, autant que les exigences militaires le permet- tront, les mesures nécessaires pour rendre nettement visibles aux forces en- nemies, terrestres, aériennes et maritimes, les emblèmes distinctifs signalant les hôpitaux civils, en vue d’écarter la possibilité de toute action agressive.
+En raison des dangers que peut présenter pour les hôpitaux la proximité d’objectifs militaires, il conviendra de veiller à ce qu’ils en soient éloignés dans toute la mesure du possible.

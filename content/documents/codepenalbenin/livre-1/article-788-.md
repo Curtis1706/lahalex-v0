@@ -1,0 +1,3 @@
+Est puni d’un emprisonnement de un (01) an à cinq (05) ans et d’une amende de deux millions (2.000.000) de francs CFA à cinq millions (5.000.000) de francs CFA, le créancier qui, sauf disposition contraire de l’Acte uniforme portant organisation des procédures collectives d’apurement du passif, a dans une procédure collective :
+- conclu, avec le débiteur ou avec toutes personnes, des avantages particuliers à raison de son vote dans les délibérations de la masse ;
+- conclu une convention particulière de laquelle il résulterait en sa faveur un avantage à la charge de l’actif du débiteur à partir du jour de la décision d’ouverture de la procédure collective.

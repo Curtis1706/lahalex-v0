@@ -1,0 +1,3 @@
+Article 295 : Responsabilités de la personne ayant la garde de l'enfant
+La personne, le directeur de l’établissement charitable, professionnel ou scolaire ou le particulier, qui s'est vu confier la garde de l'enfant, doit s'en occuper en bon père de famille et s'obliger d'aviser le délégué de tout incident grave qui surviendrait dans le comportement ou la santé de l’enfant.
+Le responsable à la garde de l'enfant doit recevoir une copie de la décision qui l’a nommé.

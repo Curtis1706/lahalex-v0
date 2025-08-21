@@ -1,0 +1,3 @@
+1°- Dans la liquidation d’une pension d'ancienneté au proportionnelle, les services et bonifications prévus à 1'article 15 ci-dessus sont comptés pour leur durée effective.
+2°- Dans le décompte final des annuités liquidables, la fraction de l'année égale ou supérieure à six (6) mois est comptée pour l'année entière. La fraction de semestre égale ou supérieure à trois (3) mois est comptée pour six (6) mois. La fraction de semestre inférieure à trois (3) mois est négligée.
+3°- Le maximum des annuités liquidables dans les pensions d’ancienneté ou proportionnelle est fixé à 40 annuités.

@@ -1,0 +1,2 @@
+Si l’auteur d’une infraction au contrôle des changes commet, dans les cinq (05) ans qui suivent une transaction ou une condamnation devenue définitive, une nouvelle infraction aux dispositions de l’article 660 ci-dessus, le taux des pénalités encourues est porté au double.
+Si l’auteur d’une infraction prévue à l’article 660 ci-dessus commet dans les cinq (05) ans qui suivent une condamnation définitive, une nouvelle infraction aux dispositions de l’article 660 ci-dessus ou une infraction au contrôle des changes, le taux des pénalités encourues est porté au double.

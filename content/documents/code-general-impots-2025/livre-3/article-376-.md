@@ -1,0 +1,2 @@
+Le  service  des  impôts  ne  peut  délivrer  d’extraits  des  registres  de l’enregistrement que sur ordonnance du président du tribunal de première instance lorsque ces extraits ne sont pas demandés par quelqu’une des parties contractantes ou leurs ayants cause ou par un officier public ou ministériel.
+La disposition qui précède cesse d’être applicable aux registres terminés depuis plus de cent (100) ans et obligatoirement versés au dépôt d’archives de la République du Bénin.

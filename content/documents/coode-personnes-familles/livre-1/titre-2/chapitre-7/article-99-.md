@@ -1,0 +1,4 @@
+L’inscription sur le registre est faite à la suite du dernier acte à la date de présentation du jugement d’autorisation à l’officier de l’état civil.
+L’officier de l’état civil porte en tête de l’acte " jugement d’autorisation " et en précise l’origine et la date. Il inscrit l’évènement déclaré conformément au dispositif de la décision, indique comme déclarant celui qui lui a produit l’acte " jugement d’autorisation " et lui remet le volet n°1.
+Ces mentions sont reproduites au répertoire alphabétique de l’article 39 et sur l'état statistique prévu par l’article 41 du présent code.
+Mention de l’acte et de son numéro est portée en marge de l’acte antérieurement dressé le plus proche en date et sur le répertoire alphabétique de l’année en cours.

@@ -1,0 +1,2 @@
+Données à caractère personnel
+L’Autorité de régulation s'assure du respect des dispositions législatives et réglementaires applicables en matière de protection des données à caractère personnel et relatives à la vie privée. En particulier, les coordonnées des abonnés qui s’y opposent expressément ne sont pas publiées dans les annuaires.

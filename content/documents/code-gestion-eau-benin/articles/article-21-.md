@@ -1,0 +1,1 @@
+Article 21 : Lorsqu’un cours d’eau se trouve modifié naturellement ou par l’effet direct ou indirect d’interventions humaines, le lit nouveau ainsi que les berges et les francs-bords sont inclus dans le domaine public. Il en est de même des zones de mobilité correspondant aux caractères hydrologiques et géomorphologiques essentiels du cours d’eau.

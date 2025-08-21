@@ -1,0 +1,2 @@
+Quiconque a effectué des prélèvements d’eau en violation des dispositions relatives à l’élaboration d’une étude d’impact sur l’environnement telle que définie par la législation applicable en matière de l’environnement, est puni d’une amende de cent mille (100.000) à trois cent mille (300.000) francs CFA.
+En cas de récidive, cette amende est portée à cinq cent mille (500.000) francs CFA sans préjudice de l’interdiction desdits prélèvements qui ne sauraient être d’une durée inférieure à trois (03) mois.

@@ -1,0 +1,1 @@
+Les vingt pour cent (20 %) du produit des transactions, amendes, confiscations, restitutions, frais de fourrière et contravention sont attribués aux agents du service forestier chargés de la recherche, de la constatation et de la répression des infractions forestières.

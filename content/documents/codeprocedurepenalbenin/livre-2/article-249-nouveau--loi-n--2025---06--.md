@@ -1,0 +1,3 @@
+Le tribunal de première instance statuant en matière criminelle a plénitude de juridiction pour juger en première instance les personnes renvoyées devant lui par réquisition de renvoi, ordonnance ou arrêt de mise en accusation.
+La cour d'appel statuant en matière criminelle a plénitude de juridiction pour connaître sur appel des décisions rendues par le tribunal de première instance statuant en matière criminelle.
+La cour d'appel statuant en matière criminelle ne peut connaître d'aucune nouvelle accusation.

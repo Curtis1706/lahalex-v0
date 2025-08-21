@@ -1,0 +1,1 @@
+La Haute Autorité de l’Audiovisuel et de la Communication publie, par trimestre, le point des temps d’antenne consommés par chacune des entités ci-dessus citées.

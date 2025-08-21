@@ -1,0 +1,2 @@
+Rapport d’activités
+Le Secrétaire exécutif établit, le 31 mars au plus tard de chaque année, un rapport sur les activités de l’Autorité de régulation de l’année précédente qu’il soumet au Conseil de régulation pour approbation et transmission au Gouvernement.

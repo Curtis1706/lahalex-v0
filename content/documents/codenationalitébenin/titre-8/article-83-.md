@@ -1,0 +1,1 @@
+Dans les cas prévus à l'article 79 cidessus, les dispositions de l'article 7 de la présente loi seront applicables.

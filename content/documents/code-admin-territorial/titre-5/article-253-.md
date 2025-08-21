@@ -1,0 +1,1 @@
+Lorsque deux ou plusieurs communes possèdent des biens ou des droits indivis, elles instituent une commission chargée de leur administration et de l’exécution des travaux qui s'y rattachent. La commission est composée en nombre égal de membres des conseils communaux concernés auxquels s'ajoutent des personnes compétentes désignées d’accord parties.

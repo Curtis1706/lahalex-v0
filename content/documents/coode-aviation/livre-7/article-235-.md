@@ -1,0 +1,3 @@
+En cas de transports successifs, chaque transporteur est censé être partie au contrat effectué sous son contrôle.
+En cas d'accident ou de retard, le transporteur répond du dommage survenu sous sa responsabilité.
+Le dernier transporteur répond de tout dommage survenu et de toute faute commise pendant le transport sauf recours contre le transporteur responsable du dommage qui peut être appelé en garantie.

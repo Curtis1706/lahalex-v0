@@ -1,0 +1,1 @@
+Les organes de presse créés avant la promulgation de la présente loi disposent du délai de trente (30) jours pour s’y conformer.

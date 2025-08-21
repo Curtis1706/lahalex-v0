@@ -1,0 +1,2 @@
+Afin de limiter les nuisances liées aux encombrements des artères principales dans les villes, la circulation des véhicules poids lourds, bennes de transport, tracteurs, est interdite aux heures de pointe. Ces heures sont déterminées par arrêté des préfets.
+Dans les agglomérations où il existe des bretelles, des voies périphériques ou des artères réservées aux véhicules de gros tonnage, obligation est faite à leurs conducteurs d’emprunter ces voies.

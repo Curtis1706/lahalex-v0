@@ -1,0 +1,3 @@
+Le tuteur ne peut donner quittance des capitaux qu’il reçoit pour le compte du pupille qu’avec le contreseing du subrogé-tuteur.
+Ces capitaux seront déposés par lui à un compte ouvert au nom du mineur et portant mention de cette minorité, soit à la caisse nationale d’épargne, soit dans un établissement bancaire.
+Le dépôt doit être fait dans le délai de trois (3) mois pour compter de la réception des capitaux ; ce délai passé, le tuteur est de plein droit débiteur des intérêts.

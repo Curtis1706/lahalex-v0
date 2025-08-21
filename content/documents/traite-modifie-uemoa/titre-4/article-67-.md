@@ -1,0 +1,5 @@
+1) 50'Union harmonise les législations et les procédures budgétaires, afin
+d'assurer notamment la synchronisation de ces dernières avec la procédure de surveillance multilatérale de l'Union.
+Ce faisant, elle assure l'harmonisation des Lois de Finances et des comptabilités publiques, en particulier des comptabilités générales et des plans comptables publics. Elle assure aussi l'harmonisation des comptabilités nationales et des données nécessaires à l'exercice de la surveillance multilatérale, en procédant en particulier à l'uniformisation du champ des opérations du secteur public et des tableaux des opérations financières de l'Etat.
+2) Le Conseil adopte à la majorité des deux tiers (2/3) de ses membres les
+règlements et les directives nécessaires à la mise en oeuvre des actions visées dans le présent article.

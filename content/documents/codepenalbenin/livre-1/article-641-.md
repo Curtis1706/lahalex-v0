@@ -1,0 +1,3 @@
+Les effractions sont extérieures ou intérieures.
+Les effractions extérieures sont celles à l’aide desquelles on peut s’introduire dans les maisons, les cours, les basses-cours, les enclos ou les dépendances, ou dans les appartements ou logements particuliers.
+Les effractions intérieures sont celles qui, après l’introduction dans les lieux mentionnés à l’alinéa précédent sont faites aux portes ou clôtures du dedans, ainsi qu’aux armoires ou autres meubles fermés.

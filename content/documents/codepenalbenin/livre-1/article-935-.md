@@ -1,0 +1,1 @@
+Les infractions prévues à l’article précédent points 1 à 4 sont punies d’un emprisonnement de trois (03) mois au moins et un (01) an au plus et d’une amende de cent mille (100.000) francs CFA au moins et deux millions (2.000.000) de francs CFA au plus, ou de l’une de ces peines.

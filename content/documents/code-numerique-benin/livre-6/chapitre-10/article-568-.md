@@ -1,0 +1,2 @@
+Abus de confiance
+Est puni des mêmes peines que celles prévues dans les dispositions du code pénal relatives à l’abus de confiance, le fait pour une personne, au moyen d’un ou sur un réseau de communication électronique ou un système informatique de détourner, au préjudice d'autrui, une chose quelconque qui lui a été remise au titre de l’un des contrats prévus par le code pénal relatif à l’abus de confiance et qu'elle a acceptée à charge de la rendre, de la représenter ou d'en faire un usage déterminé.

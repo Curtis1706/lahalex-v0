@@ -1,0 +1,3 @@
+Est puni de la réclusion criminelle à perpétuité, quiconque détient, transfère, altère, cède ou disperse des matières radioactives, ou fabrique ou détient un engin :
+1. dans l’intention de causer la mort ou des dommages corporels graves ou des dommages substantiels aux biens ou à l’environnement ;
+2. entraînant ou pouvant entraîner la mort ou des blessures graves pour autrui ou des dommages considérables pour les biens ou l’environnement.

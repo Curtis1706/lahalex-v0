@@ -1,0 +1,14 @@
+{
+  "id": "article-400-",
+  "title": "Article 400 :",
+  "numero": "400 ",
+  "document": "code-douane",
+  "path": [
+    "titre-12"
+  ],
+  "navigation": {
+    "parent": "titre-12",
+    "previous": "article-399-",
+    "next": "article-401-"
+  }
+}

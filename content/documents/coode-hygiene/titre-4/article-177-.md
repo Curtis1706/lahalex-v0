@@ -1,0 +1,1 @@
+Les contrevenants aux dispositions des articles 17, 18, 27, 108, 109, 110,111,112,113, 114 et 115 sont punis d'une amende de trente mille (30 000) à cinquante mille (50 000) FCFA.

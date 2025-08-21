@@ -1,0 +1,1 @@
+Par le présent Traité, les Hautes Parties Contractantes complètent l'Union Monétaire Ouest Africaine (UMOA) instituée entre elles, de manière à la transformer en Union Economique et Monétaire Ouest Africaine (UEMOA), ci-après dénommée l'Union.

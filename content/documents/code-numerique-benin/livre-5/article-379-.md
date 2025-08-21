@@ -1,0 +1,4 @@
+Objet et principes
+Les dispositions du présent Livre ont pour objectif de mettre en place un cadre légal de protection de la vie privée et professionnelle consécutif à la collecte, au traitement, à la transmission, au stockage et à l’usage des données à caractère personnel.
+Ce dispositif doit garantir que tout traitement, quelle qu’en soit la forme, respecte les libertés et droits fondamentaux des personnes physiques quelle que soient sa nationalité ou sa résidence tout en prenant en compte les prérogatives de l’État, les droits des collectivités locales et les buts pour lesquels les entreprises ont été créées.
+L'informatique doit être au service de chaque citoyen. Son développement doit s'opérer dans le cadre de la coopération internationale. Elle ne doit porter atteinte ni à l'identité humaine, ni aux droits de l'homme, ni à la vie privée, ni aux libertés individuelles ou publiques.

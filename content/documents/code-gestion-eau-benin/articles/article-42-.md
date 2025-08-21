@@ -1,0 +1,2 @@
+Article 42 : Les installations, ouvrages, travaux et activités mentionnés à l’article 50 de la présente loi qui ne présentent pas des dangers ou des incidences négatives sur l’eau ou les écosystèmes aquatiques impliquant un régime d’autorisation, sont soumis à déclaration.
+Les installations, ouvrages, travaux et activités soumis à déclaration doivent respecter les règles générales édictées en vue de préserver la santé, la salubrité, la sécurité, la qualité des eaux et pour assurer la conservation des écosystèmes aquatiques.

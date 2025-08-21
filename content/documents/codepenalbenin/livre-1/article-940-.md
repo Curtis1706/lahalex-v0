@@ -1,0 +1,1 @@
+Est considérée comme majoration illicite de prix toute infraction aux dispositions de la législation relative à la règlementation des prix et stocks et de ses règlements d’application. La tentative de faire échec à la réglementation est punissable au même titre que l’infraction consommée.

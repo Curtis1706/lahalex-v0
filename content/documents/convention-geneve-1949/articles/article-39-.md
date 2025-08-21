@@ -1,0 +1,10 @@
+2. Moyens Les personnes protégées qui auraient perdu, du fait du conflit, leur activité
+d’existence lucrative, seront mises en mesure de trouver un travail rémunéré et jouiront
+à cet effet, sous réserve de considérations de sécurité et des dispositions de l’article 40, des mêmes avantages que les ressortissants de la Puissance sur le territoire de laquelle elles se trouvent.
+Si une Partie au conflit soumet une personne protégée à des mesures de contrôle qui la mettent dans l’impossibilité de pourvoir à sa subsistance, no- tamment quand cette personne ne peut pour des raisons de sécurité trouver un travail rémunéré à des conditions raisonnables, ladite Partie au conflit subviendra à ses besoins et à ceux des personnes qui sont à sa charge.
+Les personnes protégés pourront, dans tous les cas, recevoir des subsides de leur pays d’origine, de la Puissance protectrice ou des sociétés de bienfai- sance mentionnées à l’article 30.
+Article40
+3. Travail Les personnes protégées ne peuvent être astreintes au travail que dans la même mesure que les ressortissants de la Partie au conflit sur le territoire de laquelle elles se trouvent.
+Si les personnes protégées sont de nationalité ennemie, elles ne pourront être astreintes qu’aux travaux qui sont normalement nécessaires pour assurer l’ali- mentation, le logement, l’habillement, le transport et la santé d’êtres humains, et qui ne sont pas en relation directe avec la conduite des opérations militaires.
+Dans les cas mentionnés aux alinéas précédents, les personnes protégées as- treintes au travail bénéficieront des mêmes conditions de travail et des mêmes mesures de protection que les travailleurs nationaux, notamment en ce qui concerne le salaire, la durée du travail, l’équipement, la formation préalable et la réparation des accidents du travail et des maladies professionnelles.
+En cas de violation des prescriptions mentionnées ci-dessus, les personnes protégées seront autorisées à exercer leur droit de plainte conformément à l’article 30.

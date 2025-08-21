@@ -1,0 +1,1 @@
+Lorsque la loi ou le règlement réprime une infraction, le régime des peines qui peuvent être prononcées, obéit, sauf dispositions législatives ou réglementaires contraires, aux règles du présent chapitre.

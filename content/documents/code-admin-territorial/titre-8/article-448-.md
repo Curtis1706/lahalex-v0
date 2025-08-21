@@ -1,0 +1,1 @@
+Le receveur des impôts prend en charge les rôles homologués et assure le recouvrement des impôts, taxes et autres droits au profit de la commune et de l'établissement public de coopération intercommunale. Il assure également le recouvrement des impôts indirects et justifie des restes à recouvrer en matière fiscale.

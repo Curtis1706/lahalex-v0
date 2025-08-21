@@ -1,0 +1,1 @@
+La saisie-vente est ordonnée par une décision judiciaire devenue exécutoire. Elle se traduit par la vente forcée de l'aéronef.

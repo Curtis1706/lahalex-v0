@@ -1,0 +1,1 @@
+L’organisme national en charge de l'aviation civile a le pouvoir d'édicter et de réviser les normes minimales de sécurité pour l'exploitation des installations de navigation aérienne situées en République du Bénin.

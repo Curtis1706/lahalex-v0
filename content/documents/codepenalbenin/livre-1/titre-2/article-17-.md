@@ -1,0 +1,6 @@
+Les personnes morales, à l’exclusion de l’Etat, sont responsables pénalement, selon l’un des modes de participation criminelle prévue par le présent code, des infractions commises pour leur compte, par leurs organes ou leurs représentants.
+Toutefois, les entités territoriales décentralisées ne sont responsables pénalement que des infractions commises dans l’exercice d’activités susceptibles de faire l’objet de conventions de délégation de service public.
+Article18 : La responsabilité pénale des personnes morales n’exclut pas celle des personnes physiques, auteurs ou complices des mêmes faits, sous réserve des dispositions du quatrième alinéa de l’article 19.
+Sont pénalement responsables de l’infraction les seuls membres de la personne morale par la volonté et ou dans l’intérêt desquels les faits ont été commis.
+Lorsque la responsabilité de la personne morale est engagée exclusivement en raison de l'intervention des personnes physiques identifiées, seule la personne physique qui a commis la faute la plus grave peut être condamnée.
+Si la personne physique identifiée a commis la faute sciemment et volontairement, elle peut être condamnée en même temps que la personne morale responsable.

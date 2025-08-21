@@ -1,0 +1,15 @@
+{
+  "id": "article-701-",
+  "title": "Article 701 :",
+  "numero": "701 ",
+  "document": "codeprocedurepenalbenin",
+  "path": [
+    "livre-4",
+    "titre-11"
+  ],
+  "navigation": {
+    "parent": "titre-11",
+    "previous": "article-700-",
+    "next": "article-702-"
+  }
+}

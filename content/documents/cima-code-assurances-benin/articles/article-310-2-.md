@@ -1,0 +1,3 @@
+Article 310-2 : Surveillance complémentaire - Applicabilité
+1.  Les entreprises d’assurance au sens du 1) de l’article 310-1 faisant partie d’un groupe d’assurance au sens du 7) de l’article 301-1 font l’objet d’une surveillance complémentaire de leur situation financière, selon les modalités prévues aux articles 310-4, 310-5 et 337-5 à 337-6.
+2.  Toute entreprise d’assurance dont l’entreprise mère est une société de groupe mixte d’assurance, est soumise à une surveillance complémentaire selon les modalités prévues aux articles 310-4 et 310-5.

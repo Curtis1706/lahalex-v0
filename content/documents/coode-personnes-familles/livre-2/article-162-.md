@@ -1,0 +1,2 @@
+La signification de l’ordonnance faite au conjoint et aux tiers saisis par l’époux qui en bénéficie vaut attribution à ce dernier, sans autre procédure, des sommes dont la saisie est autorisée.
+Même lorsqu’elle est devenue définitive, l’ordonnance peut être modifiée à la requête de l’un ou l’autre des époux quand cette modification est justifiée par un changement dans leurs situations respectives.

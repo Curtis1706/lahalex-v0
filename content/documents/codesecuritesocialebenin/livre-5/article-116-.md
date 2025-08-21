@@ -1,0 +1,2 @@
+Le versement des pensions, des rentes ou des allocations familiales, s’effectue par trimestre ou par mois à terme échu. Toutefois, le conseil d’administration de la Caisse peut décider que ces prestations soient versées mensuellement. Il peut également arrêter d’autres modalités de versement des prestations.
+En ce qui concerne les rentes, le paiement est mensuel lorsque le taux d’incapacité partielle permanente est au moins égal à 75 %.

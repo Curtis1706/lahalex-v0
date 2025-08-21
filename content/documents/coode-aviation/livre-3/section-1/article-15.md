@@ -1,0 +1,1 @@
+Est immatriculé sur le même registre défini à l'article 13 de la présente loi, l'aéronef appartenant à toute personne physique ou morale de la nationalité d'un Etat membre de l'Union économique et monétaire ouest africaine.

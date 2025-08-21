@@ -1,0 +1,1 @@
+Est puni de la détention criminelle à temps de cinq (05) ans à dix (10) ans quiconque, en temps de paix, a participé en connaissance de cause à une entreprise de démoralisation de l’armée ayant pour objet de nuire à la défense nationale.

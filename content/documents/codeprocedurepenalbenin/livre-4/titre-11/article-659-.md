@@ -1,0 +1,2 @@
+En cas d’infraction commise par un mineur, le procureur de la République en saisit le président du tribunal qui désigne le juge des enfants compétent.
+En aucun cas il ne peut être suivi contre le mineur, la procédure de flagrant délit ou la voie de citation directe.

@@ -1,0 +1,2 @@
+En cas de violation des dispositions des articles 183, 184 et 208 de la présente loi, le propriétaire ou le directeur de publication, l’imprimeur ou l’éditeur sera puni d’une amende de cinq cent mille (500 000) francs à deux millions (2 000 000) de francs CFA.
+En cas de récidive, la peine est portée au double du maximum des amendes prévues.

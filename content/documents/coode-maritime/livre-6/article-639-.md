@@ -1,0 +1,1 @@
+Les dispositions de l’article 635 du présent code ne sont pas applicables lorsque les rejets sont consécutifs à des mesures ayant pour objet d’éviter un danger grave et imminent menaçant la sécurité du navire, la vie humaine ou l’environnement.

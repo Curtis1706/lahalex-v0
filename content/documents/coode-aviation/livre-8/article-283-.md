@@ -1,0 +1,1 @@
+La validité d’une licence ne peut excéder celle des qualifications aéronautiques et/ou du certificat d'aptitude physique et mentale correspondant.

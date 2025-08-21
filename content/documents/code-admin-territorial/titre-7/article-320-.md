@@ -1,0 +1,1 @@
+Le président du conseil de communauté nomme le secrétaire permanent de l’établissement.

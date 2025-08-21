@@ -1,0 +1,2 @@
+1) Le délai accordé au contribuable pour répondre aux demandes visées au paragraphe 1 de l’article précédent est de huit (8) jours à compter de la date de la réception de la demande.
+2) La réponse du contribuable est transmise en langue française. Si les documents dont la communication ne sont pas rédigés en français, une traduction sur l’honneur en français peut être demandée.

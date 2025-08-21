@@ -1,0 +1,4 @@
+Outre les compétences prévues par la présente loi, les communes à statut particulier exercent les compétences spécifiques ci-après :
+- en matière d’enseignement secondaire, général, technique et de formation professionnelle, la commune a la charge de la construction, de l'entretien, de la réhabilitation et de l'équipement des établissements publics ;
+- en matière de transport et de circulation, la commune élabore son plan de circulation urbaine, organise les transports urbains collectifs, installe et entretient les feux de signalisation ;
+- en matière de communication, la commune a la charge de l'information de la population sur la vie de la cité. A cet effet, elle dispose d'organes d’information écrite, crée et/ou favorise l'installation des stations de radiodiffusion sonore et de télévision locales.

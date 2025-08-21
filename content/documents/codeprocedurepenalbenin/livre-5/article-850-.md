@@ -1,0 +1,1 @@
+Les condamnations civiles portées par les arrêts ou jugements rendus en matière pénale et devenues irrévocables se prescrivent d’après les règles établies par le droit civil.

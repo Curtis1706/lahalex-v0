@@ -1,0 +1,2 @@
+Quiconque a participé à l’émission, l’utilisation, l’exposition, la distribution, l’importation ou l’exportation de signes contrefaits, falsifiés, altérés ou colorés, est puni des peines prévues aux articles 285, 286 et 287 du présent code, selon les distinctions qui y sont portées.
+La tentative est punie au même titre que l’infraction.

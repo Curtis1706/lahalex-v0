@@ -1,0 +1,3 @@
+Si les accusés mentionnés à l’article 378 bénéficient des dispositions de l’article 380 du présent code, pour s’être constitués prisonniers ou avoir été arrêtés avant que la peine soit éteinte par la prescription, l’arrêt de condamnation par défaut qui a prononcé une confiscation au profit de l’Etat et les mesures prises pour assurer l’exécution de cette peine restent valables.
+Si la décision qui intervient après leur représentation ne maintient pas la peine de confiscation, il est fait restitution aux intéressés du produit net de la réalisation des biens aliénés et dans l’état où ils se trouvent, des biens non liquidés.
+Le séquestre est maintenu jusqu’au règlement des frais, dépens et dommages et intérêts mis à la charge des condamnés.

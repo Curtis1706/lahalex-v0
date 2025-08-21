@@ -1,0 +1,2 @@
+Quiconque utilise de l’eau en violation d’une interdiction ou d’une mesure de restriction édictée en application des lois et règlements, est puni d’une peine d’amende de cinquante mille (50.000) à deux cent cinquante mille (250.000) francs CFA.
+En cas de récidive, il est ajouté à la peine d’amende susvisée, un travail d’intérêt général.

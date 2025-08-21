@@ -1,0 +1,2 @@
+Article 69 : Les infractions prévues à la présente loi sont constatées par procès-verbaux dressés par les officiers et agents désignés à l’article 68 cidessus et transmis sans délai au procureur de la République compétent et au ministre.
+SECTION II : DES POURSUITES

@@ -1,0 +1,4 @@
+Lorsqu’à la suite d’une décision de rééducation prise à l’égard d’un mineur, la rééducation de celui-ci apparaît comme acquise, le tribunal de première instance peut, après l’expiration d’un délai de cinq (05) ans à compter de ladite décision et même si le mineur a atteint sa majorité, décider, à sa requête, à celle du ministère public ou d’office, la suppression du casier judiciaire de la fiche concernant la décision dont il s’agit.
+Le tribunal statue en dernier ressort.
+Lorsque la suppression de la fiche a été prononcée, la mention de la décision initiale ne doit plus figurer au casier judiciaire du mineur. La fiche afférente à ladite décision est détruite.
+Le tribunal de la poursuite initiale, celui du lieu du domicile actuel du mineur et celui du lieu de sa naissance sont compétents pour connaître de la requête.

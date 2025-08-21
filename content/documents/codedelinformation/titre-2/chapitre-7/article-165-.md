@@ -1,0 +1,2 @@
+La publicité, ne peut comporter aucune déclaration ou présentation visuelle qui risque de causer aux enfants, aux mineurs et aux handicapés, un dommage moral ou physique.
+Toute publicité de l’apologie du crime, de la haine et de la violence est interdite.

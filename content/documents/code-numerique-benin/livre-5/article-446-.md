@@ -1,0 +1,3 @@
+Représentation d’un enfant mineur
+Lorsque l'article 436 s'applique en ce qui concerne l'offre directe de services de la société de l'information aux mineurs, le traitement des données à caractère personnel relatives à un mineur est licite lorsque le mineur est âgé d'au moins seize (16) ans. Lorsque le mineur est âgé de moins de seize (16) ans, ce traitement n'est licite que si, et dans la mesure où, le consentement est donné ou autorisé par le titulaire de la responsabilité parentale à l'égard du mineur.
+Le responsable du traitement s'efforce raisonnablement de vérifier, en pareil cas, que le consentement est donné ou autorisé par le titulaire de la responsabilité parentale à l'égard de l'enfant, compte tenu des moyens technologiques disponibles.

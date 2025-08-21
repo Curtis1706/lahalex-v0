@@ -1,0 +1,1 @@
+En cas de récidive, le maximum de la peine est appliqué sans bénéfice de sursis.

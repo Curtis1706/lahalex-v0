@@ -1,0 +1,1 @@
+Après avoir prononcé l’arrêt, le président, s’il y a lieu, avertit l’accusé de la faculté qui lui est accordée de se pourvoir en cassation et lui fait connaître le délai de ce pourvoi.

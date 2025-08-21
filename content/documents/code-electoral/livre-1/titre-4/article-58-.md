@@ -1,0 +1,2 @@
+Les associations et les organisations non gouvernementales légalement reconnues ne peuvent soutenir, ni tenir des propos visant à ternir l'image des candidats ou des partis politiques sous peine de déchéance de leur statut et des sanctions prévues au code pénal contre les personnes physiques en charge des associations ou organisations concernées.
+En cas de violation des dispositions de l'alinéa précédent, il y a circonstances aggravantes lorsqu'il s'agit des associations et organisations non gouvernementales qui bénéficient des concours et privilèges octroyés par l'Etat.

@@ -1,0 +1,3 @@
+Dès le temps de paix ou à l’ouverture des hostilités, chaque Puissance communiquera à toutes les Hautes Parties contractantes, la liste des zones sanitaires établies sur le territoire qu’elle contrôle. Elle les informera de toute nouvelle zone créée au cours d’un conflit.
+Dès que la partie adverse aura reçu la notification mentionnée ci-dessus, la zone sera régu- lièrement constituée.
+Si, toutefois, la parte adverse estime qu’une des conditions posées par le présent accord n’est manifestement pas remplie, elle pourra refuser de reconnaître la zone en communiquant d’urgence son refus à la partie dont relève la zone, ou subordonner sa reconnaissance à l’ins- titution du contrôle prévu à l’article 8.

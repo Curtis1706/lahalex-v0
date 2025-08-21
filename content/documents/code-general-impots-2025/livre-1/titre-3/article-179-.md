@@ -1,0 +1,1 @@
+N’entrent pas dans le champ d’application de la taxe professionnelle synthétique, quel que soit leur chiffre d’affaires, les contribuables imposables de plein droit ou sur option à l’impôt sur les sociétés par application de l’article 3 ci-dessus.

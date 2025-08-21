@@ -1,0 +1,12 @@
+_(Règlement n°2016-01)_ Provisions techniques (IARD)
+Les provisions techniques correspondant aux autres opérations d’assurance sont les suivantes :
+1° provision mathématique des rentes : valeur actuelle des engagements de l’entreprise en ce qui concerne les rentes et accessoires de rentes mis à sa charge ;
+2° provision pour risques en cours : provision destinée à couvrir les risques et les frais généraux afférents, pour chacun des contrats à prime payable d’avance, à la période comprise entre la date de l’inventaire et la prochaine échéance de prime, ou à défaut, le terme fixé par le contrat ;
+3° provision pour sinistres à payer : valeur estimative des dépenses en principal et en frais, tant internes qu’externes, nécessaires au règlement de tous les sinistres survenus et non payés, y compris les capitaux consécutifs des rentes non encore mises à la charge de l’entreprise ;
+4° provision pour risques croissants : provision pour les opérations d’assurance contre les risques de maladie et d’invalidité et égale à la différence des valeurs actuelles des engagements respectivement pris par l’assureur et par les assurés ;
+5° provision pour égalisation : provision destinée à faire face aux charges exceptionnelles afférentes aux opérations garantissant les risques dus à des éléments naturels, le risque atomique, les risques de responsabilité civile dus à la pollution et les risques spatiaux ;
+6° provision mathématique des réassurances : provision à constituer par les entreprises mentionnées au 2e alinéa de l’article 300 qui acceptent en réassurance des risques cédés par des entreprises d’assurance sur la vie et égale à la différence entre les valeurs actuelles des engagements respectivement pris l’un envers l’autre par le réassureur et le cédant ;
+7° provision pour annulation de primes : provision destinée à faire face aux annulations probables à intervenir sur les primes émises et non encaissées. Les modalités de calcul de cette provision technique sont fixées par circulaire de la Commission Régionale de Contrôle des Assurances ;
+8° provision pour risque d’exigibilité des engagements techniques : provision destinée à faire face aux engagements dans le cas de moins-value de l’ensemble des actifs mentionnés à l’article 335-12, calculée dans les conditions définies à l’article 334-14 ;
+9° toutes autres provisions techniques qui peuvent être fixées par la Commission Régionale de Contrôle des Assurances.
+_I. Provision pour risques en cours_

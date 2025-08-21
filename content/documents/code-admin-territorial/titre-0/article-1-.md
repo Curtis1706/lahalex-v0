@@ -1,0 +1,1 @@
+La présente loi fixe le cadre général de l'administration territoriale en République du Bénin et détermine notamment les catégories de collectivités territoriales, la répartition des compétences entre ces collectivités et l’Etat, la répartition des ressources publiques, les conditions d'exercice de la tutelle parle représentant de l’Etat.

@@ -1,0 +1,2 @@
+La souveraineté de l’Etat béninois s’exerce pleinement sur la mer territoriale telle que définie à l’article précédent, ainsi que sur son sol, son sous-sol, et l’espace aérien surjacent.
+Les lois et règlements nationaux y sont applicables sous réserve des dispositions contraires des conventions ou traités internationaux et accords particuliers ratifiés par l’Etat béninois.

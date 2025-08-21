@@ -1,0 +1,2 @@
+Dans le cas où l’accusé, les témoins ou l’un d’eux, ne parlent pas suffisamment la langue française ou s’il est nécessaire de traduire un document versé aux débats, le président, à défaut d’interprète assermenté, en service dans les juridictions, nomme d’office un interprète âgé de dix-huit (18) ans au moins et lui fait prêter serment de remplir fidèlement sa mission.
+Le ministère public, l’accusé et la partie civile, peuvent récuser l’interprète en motivant leur récusation. La cour se prononce sur cette récusation. Sa décision n’est susceptible d’aucune voie de recours.

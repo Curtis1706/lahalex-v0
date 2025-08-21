@@ -1,0 +1,2 @@
+Les autres personnels aéronautiques sont constitués de l’ensemble des personnes spécialisées en matière aéronautique et titulaires de diplômes d'universités ou d'écoles reconnues par l'Etat.
+Ces personnels comprennent notamment les ingénieurs et techniciens des différentes spécialités aéronautiques, les juristes et économistes en transport aérien, les médecins de spécialité aéronautique.

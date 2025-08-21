@@ -1,0 +1,5 @@
+La durée de la licence d’exploitation est renouvelable à l’échéance.
+Le renouvellement de la licence d’exploitation est de droit lorsque le concessionnaire a rempli, de manière satisfaisante, les obligations et prescriptions de la convention qu’il a signée avec la Haute Autorité de l’Audiovisuel et de la Communication.
+Dans ce cas, les modifications à effectuer ne concernent que l’actualisation de la convention et le coût de la licence d’exploitation pour l’opérateur ayant donné satisfaction au cours de la précédente licence d’exploitation.
+Pour pouvoir bénéficier du renouvellement, le titulaire de la licence d’exploitation adresse, trois (03) mois avant l’expiration du délai de validité de celle-ci, une demande de renouvellement à la Haute Autorité de l’Audiovisuel et de la Communication.
+Si, dans un délai de deux (02) mois, la Haute Autorité de l’Audiovisuel et de la Communication ne fait pas parvenir au demandeur son accord ou son refus motivé, ce silence vaut accord et la licence d’exploitation est reconduite d’office pour la même durée, selon le cas.

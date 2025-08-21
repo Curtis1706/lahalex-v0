@@ -1,0 +1,8 @@
+Monnaie, finances et paiements
+1. Les Etats membres conviennent d'harmoniser leurs politiques dans les domaines monétaire, financier et des paiements en vue de promouvoir la mise en place d’une union monétaire, d'assurer le bon fonctionnement de la Communauté, de promouvoir la réalisation de ses objectifs et la coopération monétaire et financière entre eux et les autres Etats africains.
+2. Aux fins du paragraphe du présent article, le Président de la Commission, en liaison avec les comités sous régionaux concernés de l'Association des banques centrales africaines :
+1) Formule, à l'intention du Conseil, des recommandations sur l'harmonisation des politiques économiques et financières des Etats membres ;
+1) Accorde une attention constante aux problèmes relatifs à la balance des paiements des Etats membres et entreprend toutes études y relatives ;
+1) Etudie l'évolution des économies des Etats membres ;
+1) Emet des recommandations au Conseil concernant la mise en place, à court terme, de systèmes bilatéraux de règlement des paiements entre les Etats membres et, à long terme, d'un système multilatéral de règlement des paiements et d'une union monétaire.
+3. Conformément aux dispositions du Protocole relatif à la Chambre de Compensation et de Paiements, joint au présent Traité en tant qu'annexe, les Etats membres s'engagent à favoriser le commerce des marchandises et des services au sein de la Communauté par le biais d'une Chambre de Compensation et de Paiements.

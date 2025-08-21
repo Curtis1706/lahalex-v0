@@ -1,0 +1,1 @@
+Le tribunal de première instance ou la cour d'appel statuant en matière criminelle délibère et vote sur le fait principal et, s'il y a lieu, sur chacune des circonstances aggravantes, sur les qualifications subsidiaires, sur chacun des faits d'excuse légale et obligatoirement, lorsque la culpabilité de l’accusé a été reconnue, sur les circonstances atténuantes.

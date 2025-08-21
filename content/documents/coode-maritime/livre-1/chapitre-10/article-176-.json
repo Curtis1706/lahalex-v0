@@ -1,0 +1,15 @@
+{
+  "id": "article-176-",
+  "title": "Article 176 :",
+  "numero": "176 ",
+  "document": "coode-maritime",
+  "path": [
+    "livre-1",
+    "chapitre-10"
+  ],
+  "navigation": {
+    "parent": "chapitre-10",
+    "previous": "article-175-",
+    "next": "article-177-"
+  }
+}

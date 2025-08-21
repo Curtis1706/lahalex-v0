@@ -1,0 +1,1 @@
+Au niveau de la section d'investissement, tout virement de crédits relève de la compétence de l'organe délibérant compétent de la commune ou de l'établissement public de coopération intercommunale et est approuvé par l'autorité de tutelle.

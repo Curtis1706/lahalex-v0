@@ -1,0 +1,3 @@
+Relations entre la Communauté et les Institutions Spécialisées
+1. La Communauté détermine les politiques et stratégies globales d'intégration à adopter et définit les objectifs et programmes d'intégration de toutes les institutions spécialisées de la Communauté.
+1. La Commission est chargée de l'harmonisation et de la coordination de tous les programmes et activités des Institutions Spécialisées de la Communauté dans le cadre de l'intégration régionale.

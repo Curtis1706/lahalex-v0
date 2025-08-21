@@ -1,0 +1,1 @@
+Le jugement énonce les mentions qui doivent être portées à l’acte et ordonne que celles qui n'ont pu être établies seront bétonnées. Dans son dispositif, il ordonne la transcription sur le registre de l’état civil et précise que la preuve de l’évènement ne peut être rapportée que conformément aux prescriptions de l’article 33 du présent code.

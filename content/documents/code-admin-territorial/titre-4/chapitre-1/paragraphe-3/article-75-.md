@@ -1,0 +1,2 @@
+Le maire, président du conseil, assure seul la police des séances. Il peut faire expulser de l'auditoire ou faire arrêter tout individu qui trouble l'ordre.
+L'outrage et l'injure commis envers le maire ou le président de séance du conseil communal dans l'exercice de ses fonctions sont passibles des peines prévues par la loi pénale.

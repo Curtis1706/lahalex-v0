@@ -1,0 +1,1 @@
+Les denrées alimentaires ou les animaux sont contrôlés à l'entrée et à la sortie du territoire national par les services compétents des ministères en charge de la santé, de l'agriculture, de l'élevage et de la pêche et autres services techniques publics ou privés habilités.

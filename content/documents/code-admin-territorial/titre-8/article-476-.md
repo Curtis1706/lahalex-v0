@@ -1,0 +1,3 @@
+Le comptable de la commune ou de l'établissement public de coopération intercommunale refuse le visa de la dépense, lorsqu'il constate, soit dans les pièces justificatives, soit dans les mandats, des erreurs matérielles, omissions ou irrégularités.
+Une déclaration écrite et motivée de son refus est adressée à l'ordonnateur, accompagnée des pièces rejetées.
+Il peut, au cas où les énonciations contenues dans les pièces produites ne lui paraissent pas suffisamment précises, différer le visa et réclamer à l'ordonnateur des certificats administratifs complétant ces énonciations.

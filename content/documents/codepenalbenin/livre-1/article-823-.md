@@ -1,0 +1,1 @@
+Néanmoins, ceux qui prouvent avoir été entraînés par des provocations ou sollicitations à prendre part à ces violences, peuvent n’être punis que de la peine de la réclusion criminelle à temps de cinq (05) ans à dix (10) ans.

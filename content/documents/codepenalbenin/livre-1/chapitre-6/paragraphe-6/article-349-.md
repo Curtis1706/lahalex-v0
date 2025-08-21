@@ -1,0 +1,1 @@
+Sera puni d’une amende de cent mille (100.000) à deux cent cinquante mille (250.000) de francs CFA, le président du conseil d’administration ou l’administrateur président de séance qui n’aura pas fait constater les délibérations du conseil d’administration par des procès-verbaux formant un registre spécial tenu au siège de l’entreprise.

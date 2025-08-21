@@ -1,0 +1,3 @@
+Les employeurs doivent fournir en justification de leurs versements de cotisations, une déclaration nominative trimestrielle des salaires versés à leur personnel. Cette déclaration est établie sur un imprimé spécial délivré par la Caisse ou sur des documents produits par le cotisant et comportant les informations exigées par la Caisse.
+Tout employeur qui ne se serait pas conformé à cette obligation doit payer à la Caisse, sous réserve des dispositions de l’article 27 relatif à la mise en demeure, une astreinte prononcée par le juge des référés.
+L’astreinte prévue au paragraphe 2 du présent article est liquidée par le directeur général de la Caisse qui la recouvre dans les mêmes conditions que les cotisations.

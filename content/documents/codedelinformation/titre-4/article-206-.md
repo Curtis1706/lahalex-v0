@@ -1,0 +1,2 @@
+Dans les conditions définies par la présente loi et celles déterminées par la Haute Autorité de l’Audiovisuel et de la Communication pour son application, l’espace audiovisuel national est ouvert à l’initiative privée pour l’implantation et l’exploitation de stations de radiodiffusion sonore et de télévision.
+Les activités autorisées dans le cadre de la présente loi sont à but commercial ou non.

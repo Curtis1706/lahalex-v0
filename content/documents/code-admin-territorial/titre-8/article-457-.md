@@ -1,0 +1,1 @@
+A l'initiative du comptable, l'ordonnateur procède, sur décision de l'organe délibérant compétent de la commune, à l'admission en non-valeur des créances jugées irrécouvrables, dans le respect des lois et règlement.

@@ -1,0 +1,1 @@
+Pour l’établissement de la filiation maternelle, la possession d’état est établie en prouvant que l'enfant, de façon constante, s’est comporté, a été traité par la famille et considéré par la société comme étant né de la femme qu'il prétend être sa mère.

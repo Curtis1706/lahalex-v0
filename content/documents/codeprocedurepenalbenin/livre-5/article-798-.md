@@ -1,0 +1,3 @@
+Un même établissement peut servir à la fois de maison d’arrêt et de prison pour peines.
+Toutefois, les inculpés, prévenus et accusés soumis à la détention provisoire sont, si possible, isolés des condamnés et placés au régime de l’emprisonnement individuel de jour et de nuit.
+Ils ne sont pas soumis au travail à moins qu’ils n’en fassent expressément la demande. En aucun cas, ils ne sont employés à des travaux extérieurs à la prison.

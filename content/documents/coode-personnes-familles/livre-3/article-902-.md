@@ -1,0 +1,1 @@
+Il est donné lecture au testateur, en présence des témoins, des dispositions des articles 814, 897 ou 901 suivant les cas, et mention de cette lecture est faite dans le testament.

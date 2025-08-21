@@ -1,0 +1,1 @@
+Le mandat de faire la déclaration de reconnaissance ne peut être donné que par une procuration spéciale passée devant un officier de l’état civil.

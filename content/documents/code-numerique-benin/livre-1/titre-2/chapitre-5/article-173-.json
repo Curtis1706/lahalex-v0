@@ -1,0 +1,16 @@
+{
+  "id": "article-173-",
+  "title": "Article 173 : Recours",
+  "numero": "173 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "chapitre-5"
+  ],
+  "navigation": {
+    "parent": "chapitre-5",
+    "previous": "article-172-",
+    "next": "article-174-"
+  }
+}

@@ -1,0 +1,3 @@
+Obligation de déclaration
+Les traitements automatisés ou non automatisés exécutés par des organismes publics ou privés et comportant des données à caractère personnel doivent, préalablement à leur mise en œuvre, faire l’objet d’une déclaration préalable auprès de l'Autorité ou être inscrits dans un registre tenu par la personne désignée à cet effet par le responsable du traitement.
+En dehors des cas prévus par les dispositions du présent Livre, tous les traitements de données à caractère personnel font l’objet d’une obligation de déclaration auprès de l'Autorité.

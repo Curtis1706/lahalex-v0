@@ -1,0 +1,1 @@
+L’employeur verse les cotisations aux dates et suivant les modalités fixées par un arrêté du Ministre chargé de la sécurité sociale.

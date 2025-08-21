@@ -1,0 +1,1 @@
+Dès la publication de la liste des candidats à l'élection du duo président de la République et vice-président de la République par la Commission électorale nationale autonome, le Gouvernement prend les dispositions nécessaires pour assurer la sécurité des candidats.

@@ -1,0 +1,6 @@
+Est puni d'une amende maximale de dix millions (10 000 000) de francs CFA et d'un emprisonnement maximal d’un an :
+1. le commandant de bord qui n'a pas tenu ou fait tenir l'un quelconque des documents de bord prévus à l'article 72, deuxième alinéa de la présente loi. Les membres de l'équipage spécialement chargés de cette tenue encourent les mêmes peines ;
+2. le propriétaire ou le locataire inscrit au registre d'immatriculation qui a omis de conserver l'un quelconque des documents de bord pendant trois ans à partir de la dernière inscription ;
+3. quiconque contrevient aux dispositions de l'article 66 de la présente loi ;
+4. quiconque contrevient aux règlements relatifs aux conditions techniques d'emploi d'un aéronef, pris en application des dispositions de l'article 72 de la présente loi.
+En cas de récidive, la peine d’emprisonnement maximale est toujours prononcée. Il y a récidive lorsqu'il a été rendu contre le contrevenant, dans l'année précédente, un jugement pour l’une de ces infractions.

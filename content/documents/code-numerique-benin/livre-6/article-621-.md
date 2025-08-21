@@ -1,0 +1,6 @@
+Autorisation préalable
+L'exportation de moyens de cryptologie n'assurant pas exclusivement des fonctions d'authentification ou de contrôle d'intégrité est soumise à l’autorisation de la commission cryptologie, sous réserve des dispenses de déclaration déterminée par décret.
+Le prestataire ou la personne procédant à l’exportation d’un moyen de cryptologie tient à la disposition de la Commission Cryptologie une description des caractéristiques techniques de ce moyen de cryptologie.
+Un décret pris en Conseil des Ministres fixe les conditions dans lesquelles sont souscrites les demandes d'autorisation ainsi que les délais dans lesquels la Commission Cryptologie statue sur ces demandes. Il fixe notamment :
+1. les conditions dans lesquelles sont formulées les demandes d’autorisation ainsi que les délais dans lesquels la Commission Cryptologie statue sur ces demandes ;
+1. les catégories de moyens dont les caractéristiques techniques ou les conditions d'utilisation sont telles que, au regard des intérêts de la défense nationale et de la sécurité intérieure ou extérieure de l'État, leur transfert ou leur exportation peuvent être soit soumis au régime de l’autorisation préalable.

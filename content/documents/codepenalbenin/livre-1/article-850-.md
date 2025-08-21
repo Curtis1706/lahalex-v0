@@ -1,0 +1,7 @@
+Toute pollution de l’air au-delà des normes fixées par les lois et règlements est interdite.
+Les immeubles, établissements agricoles, industriels, commerciaux ou artisanaux, véhicules ou autres objets mobiliers possédés, exploités ou détenus par toute personne physique ou morale sont construits, exploités ou utilisés de manière à satisfaire aux normes techniques en vigueur en matière d’émission dans l’air.
+Lorsque les personnes responsables d’émissions polluantes dans l’atmosphère au-delà des normes fixées par l’administration n’ont pas pris de dispositions pour être en conformité avec la réglementation, le ministre leur adresse une mise en demeure à cette fin après avis technique de l’Agence.
+Les prescriptions et les interdictions visées ci-dessus, telles que référencées dans la législation applicable en matière de l’environnement sont punies d’une amende de cent mille (100.000) francs CFA à deux millions (2.000.000) de francs CFA et d’une peine d’emprisonnement de douze (12) mois à trente-six (36) mois ou de l’une de ces deux peines seulement.
+La juridiction compétente peut prononcer la saisie et le retrait de la circulation du produit ou du moteur objet du délit.
+Lorsque l’infraction résulte de l’utilisation de véhicules de deux (02) à quatre (04) roues, elle est punie d’une amende de dix mille (10.000) francs CFA à cinquante mille (50.000) francs CFA.
+Le ou les véhicules concernés peuvent être retirés immédiatement de la circulation jusqu’à la cessation des causes de la pollution.

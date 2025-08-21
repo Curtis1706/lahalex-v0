@@ -1,0 +1,3 @@
+La femme ne peut se remarier qu’à l’expiration d’un délai de viduité de trois cents (300) jours à compter de la dissolution du précédent mariage.
+Toutefois, le président du tribunal dans le ressort duquel le mariage a été célébré peut, par ordonnance, sur simple requête, le ministère public entendu, abréger le délai de viduité lorsqu’il résulte avec évidence des circonstances que, depuis trois cents (300) jours, le précédent mari n'a pas cohabité avec sa femme.
+En toute hypothèse ce délai prend fin en cas d’accouchement.

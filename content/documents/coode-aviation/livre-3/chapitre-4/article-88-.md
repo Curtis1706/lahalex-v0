@@ -1,0 +1,3 @@
+L'usage des installations et services mis en œuvre au-dessus du territoire national et dans son voisinage, pour la sécurité de la circulation aérienne en route et la rapidité de ses mouvements, y compris les services de radiocommunication et de météorologie, donne lieu à rémunération sous forme d'une redevance pour services rendus dite redevance de route.
+La redevance de route est due pour chaque vol par l'exploitant de l'aéronef ou, s'il est inconnu, par le propriétaire de l'aéronef.
+Le taux de la redevance et les modalités de son recouvrement sont fixés par arrêté conjoint du ministre chargé de l'aviation civile et du ministre chargé des finances.

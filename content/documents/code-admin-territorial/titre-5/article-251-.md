@@ -1,0 +1,1 @@
+Le maire peut accepter, à titre conservatoire, les dons et legs faits sans charges, conditions, ou affectation spéciale. Il en saisit le conseil communal qui en délibère à sa prochaine réunion.

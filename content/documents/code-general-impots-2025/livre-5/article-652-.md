@@ -1,0 +1,1 @@
+Quel que soit le régime matrimonial adopté par les époux, chacun d’eux est solidairement responsable du paiement des impositions assises au nom de son conjoint, sauf séparation de corps.

@@ -1,0 +1,2 @@
+Copie des données
+Lorsque le juge d’instruction découvre dans un système informatique des données stockées qui sont utiles pour la manifestation de la vérité, mais que la saisie du support ne paraît pas souhaitable, ces données, de même que celles qui sont nécessaires pour les comprendre, sont copiées sur des supports de stockage informatique pouvant être saisis et placés sous scellés, elles peuvent être de plus rendues inaccessibles ou retirées du système informatique en question sous ordre du juge.

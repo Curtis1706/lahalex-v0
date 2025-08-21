@@ -1,0 +1,1 @@
+Il est interdit de commercialiser des denrées alimentaires que l’on sait corrompues, toxiques ou ne présentant pas les critères de qualité microbiologique ou hygiénique fixés.

@@ -1,0 +1,1 @@
+N'acquiert pas de plein droit la nationalité béninoise, l'enfant né à l'étranger dont le père ou la mère a acquis la nationalité béninoise après sa naissance.

@@ -1,0 +1,4 @@
+Les procurations et autres pièces qui doivent demeurer annexées aux actes de l’état civil, sont cotées par référence à l’acte qu'elles concernent, classées chronologiquement par nature et date de l’acte et, en fin d’année, enliassées pour être transmises au greffe du tribunal de première instance.
+Pour chaque registre, l’officier de l’état civil tient en outre, en annexe, un répertoire de feuilles mobiles alphabétiques en double exemplaire, qui sera relié à la fin de chaque année à la clôture des registres et fera l'objet d’un double dépôt comme le registre auquel il est annexé.
+Sur chaque feuille portant la même lettre que la première du nom de l’intéressé, seront inscrits, au moment de la rédaction des actes, les nom et prénoms, la nature de l’acte et son numéro d’enregistrement sur les registres.
+Le modèle des feuilles du répertoire sera fixé par arrêté conjoint du ministre chargé de l’état civil et du ministre chargé de la justice.

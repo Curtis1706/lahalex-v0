@@ -1,0 +1,2 @@
+Lorsque la juridiction ordonne la révocation du sursis en totalité ou en partie, elle peut, par décision spéciale et motivée, exécutoire par provision, faire incarcérer le condamné.
+D- DES EFFETS DU SURSIS AVEC MISE A L’EPREUVE

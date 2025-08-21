@@ -1,0 +1,6500 @@
+{
+  "id": "code-douane",
+  "title": "Code des douanees",
+  "type": "codes",
+  "description": "Code des douanes en République du Bénin, fixant les règles relatives au contrôle, à la taxation et à la circulation des marchandises aux frontières, incluant les dispositions générales, les régimes douaniers, les procédures d’importation et d’exportation, les droits et taxes applicables, les exemptions, la lutte contre la fraude et la contrebande, les pouvoirs de l’administration douanière, ainsi que les sanctions en cas d’infraction.",
+  "structure": {
+    "sections": [
+      {
+        "id": "titre-1",
+        "title": "TITRE 1 : DES GENERALITES",
+        "type": "titre",
+        "level": 2,
+        "order": 0,
+        "path": [
+          "titre-1"
+        ],
+        "children": [
+          "chapitre-1",
+          "chapitre-2",
+          "chapitre-3",
+          "chapitre-4",
+          "chapitre-5",
+          "chapitre-6",
+          "chapitre-7",
+          "chapitre-8",
+          "chapitre-9"
+        ]
+      },
+      {
+        "id": "chapitre-1",
+        "title": "CHAPITRE 1: DE L'OBJET ET DU CHAMP D'APPLICATION",
+        "type": "chapitre",
+        "level": 3,
+        "order": 1,
+        "path": [
+          "titre-1",
+          "chapitre-1"
+        ],
+        "children": [
+          "article-1-",
+          "article-2-"
+        ]
+      },
+      {
+        "id": "article-1-",
+        "title": "Article 1 :",
+        "type": "article",
+        "level": 3,
+        "order": 2,
+        "path": [
+          "titre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-2-",
+        "title": "Article 2 :",
+        "type": "article",
+        "level": 3,
+        "order": 3,
+        "path": [
+          "titre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-2",
+        "title": "CHAPITRE 2 : DES TERMES ET EXPRESSIONS USUELS",
+        "type": "chapitre",
+        "level": 3,
+        "order": 4,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": [
+          "article-3-"
+        ]
+      },
+      {
+        "id": "article-3-",
+        "title": "Article 3 :",
+        "type": "article",
+        "level": 3,
+        "order": 5,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-3",
+        "title": "CHAPITRE 3 : DES PRINCIPES",
+        "type": "chapitre",
+        "level": 3,
+        "order": 6,
+        "path": [
+          "titre-1",
+          "chapitre-3"
+        ],
+        "children": [
+          "article-4-",
+          "article-5-"
+        ]
+      },
+      {
+        "id": "article-4-",
+        "title": "Article 4 :",
+        "type": "article",
+        "level": 3,
+        "order": 7,
+        "path": [
+          "titre-1",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-5-",
+        "title": "Article 5 :",
+        "type": "article",
+        "level": 3,
+        "order": 8,
+        "path": [
+          "titre-1",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-4",
+        "title": "CHAPITRE 4 : DU TARIF DES DOUANES",
+        "type": "chapitre",
+        "level": 3,
+        "order": 9,
+        "path": [
+          "titre-1",
+          "chapitre-4"
+        ],
+        "children": [
+          "article-6-",
+          "article-7-",
+          "article-8-",
+          "article-9-"
+        ]
+      },
+      {
+        "id": "article-6-",
+        "title": "Article 6 :",
+        "type": "article",
+        "level": 3,
+        "order": 10,
+        "path": [
+          "titre-1",
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-7-",
+        "title": "Article 7 :",
+        "type": "article",
+        "level": 3,
+        "order": 11,
+        "path": [
+          "titre-1",
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-8-",
+        "title": "Article 8 :",
+        "type": "article",
+        "level": 3,
+        "order": 12,
+        "path": [
+          "titre-1",
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-9-",
+        "title": "Article 9 :",
+        "type": "article",
+        "level": 3,
+        "order": 13,
+        "path": [
+          "titre-1",
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-5",
+        "title": "CHAPITRE 5 : DES CONDITIONS D'APPLICATION DU TARIF EXTERIEUR COMMUN (TEC)",
+        "type": "chapitre",
+        "level": 3,
+        "order": 14,
+        "path": [
+          "titre-1",
+          "chapitre-5"
+        ],
+        "children": [
+          "article-10-",
+          "section-1",
+          "section-2",
+          "section-3",
+          "section-4"
+        ]
+      },
+      {
+        "id": "article-10-",
+        "title": "Article 10 :",
+        "type": "article",
+        "level": 3,
+        "order": 15,
+        "path": [
+          "titre-1",
+          "chapitre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "section-1",
+        "title": "SECTION 1 : DE L'ESPECE D'UNE MARCHANDISE",
+        "type": "section",
+        "level": 4,
+        "order": 16,
+        "path": [
+          "titre-1",
+          "chapitre-5",
+          "section-1"
+        ],
+        "children": [
+          "article-11-"
+        ]
+      },
+      {
+        "id": "article-11-",
+        "title": "Article 11 :",
+        "type": "article",
+        "level": 4,
+        "order": 17,
+        "path": [
+          "titre-1",
+          "chapitre-5",
+          "section-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "section-2",
+        "title": "SECTION 2 : DE L'ORIGINE DES MARCHANDISES",
+        "type": "section",
+        "level": 4,
+        "order": 18,
+        "path": [
+          "titre-1",
+          "chapitre-5",
+          "section-2"
+        ],
+        "children": [
+          "article-12-"
+        ]
+      },
+      {
+        "id": "article-12-",
+        "title": "Article 12 :",
+        "type": "article",
+        "level": 4,
+        "order": 19,
+        "path": [
+          "titre-1",
+          "chapitre-5",
+          "section-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "section-3",
+        "title": "SECTION 3 : DE LA VALEUR DES MARCHANDISES",
+        "type": "section",
+        "level": 4,
+        "order": 20,
+        "path": [
+          "titre-1",
+          "chapitre-5",
+          "section-3"
+        ],
+        "children": [
+          "paragraphe-1",
+          "paragraphe-2"
+        ]
+      },
+      {
+        "id": "paragraphe-1",
+        "title": "Paragraphe 1  : De la valeur des marchandises à l'importation",
+        "type": "paragraphe",
+        "level": 6,
+        "order": 21,
+        "path": [
+          "titre-1",
+          "chapitre-5",
+          "section-3",
+          "paragraphe-1"
+        ],
+        "children": [
+          "article-13-",
+          "article-14-",
+          "article-15-",
+          "article-16-",
+          "article-17-",
+          "article-et-de-la-m-thode-utilis-e-pour-y-parvenir",
+          "article-18-",
+          "article-19-",
+          "article-20-",
+          "article-21-",
+          "article-22-",
+          "article-23-",
+          "article-24-"
+        ]
+      },
+      {
+        "id": "article-13-",
+        "title": "Article 13 :",
+        "type": "article",
+        "level": 5,
+        "order": 22,
+        "path": [
+          "titre-1",
+          "chapitre-5",
+          "section-3",
+          "paragraphe-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-14-",
+        "title": "Article 14 :",
+        "type": "article",
+        "level": 5,
+        "order": 23,
+        "path": [
+          "titre-1",
+          "chapitre-5",
+          "section-3",
+          "paragraphe-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-15-",
+        "title": "Article 15 : Si les marchandises importées, des marchandises",
+        "type": "article",
+        "level": 5,
+        "order": 24,
+        "path": [
+          "titre-1",
+          "chapitre-5",
+          "section-3",
+          "paragraphe-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-16-",
+        "title": "Article 16 :",
+        "type": "article",
+        "level": 5,
+        "order": 25,
+        "path": [
+          "titre-1",
+          "chapitre-5",
+          "section-3",
+          "paragraphe-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-17-",
+        "title": "Article 17 : Si la valeur en douane des marchandises importées ne",
+        "type": "article",
+        "level": 5,
+        "order": 26,
+        "path": [
+          "titre-1",
+          "chapitre-5",
+          "section-3",
+          "paragraphe-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-et-de-la-m-thode-utilis-e-pour-y-parvenir",
+        "title": "article et de la méthode utilisée pour y parvenir.",
+        "type": "article",
+        "level": 5,
+        "order": 27,
+        "path": [
+          "titre-1",
+          "chapitre-5",
+          "section-3",
+          "paragraphe-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-18-",
+        "title": "Article 18 :",
+        "type": "article",
+        "level": 5,
+        "order": 28,
+        "path": [
+          "titre-1",
+          "chapitre-5",
+          "section-3",
+          "paragraphe-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-19-",
+        "title": "Article 19 :",
+        "type": "article",
+        "level": 5,
+        "order": 29,
+        "path": [
+          "titre-1",
+          "chapitre-5",
+          "section-3",
+          "paragraphe-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-20-",
+        "title": "Article 20 :",
+        "type": "article",
+        "level": 5,
+        "order": 30,
+        "path": [
+          "titre-1",
+          "chapitre-5",
+          "section-3",
+          "paragraphe-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-21-",
+        "title": "Article 21 :",
+        "type": "article",
+        "level": 5,
+        "order": 31,
+        "path": [
+          "titre-1",
+          "chapitre-5",
+          "section-3",
+          "paragraphe-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-22-",
+        "title": "Article 22 :",
+        "type": "article",
+        "level": 5,
+        "order": 32,
+        "path": [
+          "titre-1",
+          "chapitre-5",
+          "section-3",
+          "paragraphe-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-23-",
+        "title": "Article 23 :",
+        "type": "article",
+        "level": 5,
+        "order": 33,
+        "path": [
+          "titre-1",
+          "chapitre-5",
+          "section-3",
+          "paragraphe-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-24-",
+        "title": "Article 24 :",
+        "type": "article",
+        "level": 5,
+        "order": 34,
+        "path": [
+          "titre-1",
+          "chapitre-5",
+          "section-3",
+          "paragraphe-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "paragraphe-2",
+        "title": "Paragraphe 2 : De la valeur des marchandises à l'exportation",
+        "type": "paragraphe",
+        "level": 6,
+        "order": 35,
+        "path": [
+          "titre-1",
+          "chapitre-5",
+          "section-3",
+          "paragraphe-2"
+        ],
+        "children": [
+          "article-25-"
+        ]
+      },
+      {
+        "id": "article-25-",
+        "title": "Article 25 :",
+        "type": "article",
+        "level": 5,
+        "order": 36,
+        "path": [
+          "titre-1",
+          "chapitre-5",
+          "section-3",
+          "paragraphe-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "section-4",
+        "title": "SECTION 4 : DU POIDS DES MARCHANDISES",
+        "type": "section",
+        "level": 4,
+        "order": 37,
+        "path": [
+          "titre-1",
+          "chapitre-5",
+          "section-4"
+        ],
+        "children": [
+          "article-26-"
+        ]
+      },
+      {
+        "id": "article-26-",
+        "title": "Article 26 :",
+        "type": "article",
+        "level": 4,
+        "order": 38,
+        "path": [
+          "titre-1",
+          "chapitre-5",
+          "section-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-6",
+        "title": "CHAPITRE 6 : DES PROHIBITIONS",
+        "type": "chapitre",
+        "level": 3,
+        "order": 39,
+        "path": [
+          "titre-1",
+          "chapitre-6"
+        ],
+        "children": [
+          "article-27-",
+          "article-28-",
+          "article-29-",
+          "article-30-",
+          "article-31-",
+          "article-32-",
+          "article-33-",
+          "article-34-",
+          "article-35-",
+          "article-36-",
+          "article-37-",
+          "section-5"
+        ]
+      },
+      {
+        "id": "article-27-",
+        "title": "Article 27 :",
+        "type": "article",
+        "level": 3,
+        "order": 41,
+        "path": [
+          "titre-1",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-28-",
+        "title": "Article 28 :",
+        "type": "article",
+        "level": 3,
+        "order": 42,
+        "path": [
+          "titre-1",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-29-",
+        "title": "Article 29 :",
+        "type": "article",
+        "level": 3,
+        "order": 43,
+        "path": [
+          "titre-1",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-30-",
+        "title": "Article 30 :",
+        "type": "article",
+        "level": 3,
+        "order": 44,
+        "path": [
+          "titre-1",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-31-",
+        "title": "Article 31 :",
+        "type": "article",
+        "level": 3,
+        "order": 46,
+        "path": [
+          "titre-1",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-32-",
+        "title": "Article 32 :",
+        "type": "article",
+        "level": 3,
+        "order": 47,
+        "path": [
+          "titre-1",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-33-",
+        "title": "Article 33 :",
+        "type": "article",
+        "level": 3,
+        "order": 49,
+        "path": [
+          "titre-1",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-34-",
+        "title": "Article 34 :",
+        "type": "article",
+        "level": 3,
+        "order": 50,
+        "path": [
+          "titre-1",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-35-",
+        "title": "Article 35 :",
+        "type": "article",
+        "level": 3,
+        "order": 51,
+        "path": [
+          "titre-1",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-36-",
+        "title": "Article 36 :",
+        "type": "article",
+        "level": 3,
+        "order": 52,
+        "path": [
+          "titre-1",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-37-",
+        "title": "Article 37 :",
+        "type": "article",
+        "level": 3,
+        "order": 54,
+        "path": [
+          "titre-1",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "section-5",
+        "title": "SECTION 5 : DE LA DEMANDE D'INTERVENTION AUPRES DES AUTORITES DOUANIERES",
+        "type": "section",
+        "level": 4,
+        "order": 55,
+        "path": [
+          "titre-1",
+          "chapitre-6",
+          "section-5"
+        ],
+        "children": [
+          "article-38-",
+          "article-39-",
+          "article-40-",
+          "article-41-",
+          "article-42-",
+          "article-43-"
+        ]
+      },
+      {
+        "id": "article-38-",
+        "title": "Article 38 :",
+        "type": "article",
+        "level": 4,
+        "order": 56,
+        "path": [
+          "titre-1",
+          "chapitre-6",
+          "section-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-39-",
+        "title": "Article 39 :",
+        "type": "article",
+        "level": 4,
+        "order": 57,
+        "path": [
+          "titre-1",
+          "chapitre-6",
+          "section-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-40-",
+        "title": "Article 40 :",
+        "type": "article",
+        "level": 4,
+        "order": 58,
+        "path": [
+          "titre-1",
+          "chapitre-6",
+          "section-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-41-",
+        "title": "Article 41 :",
+        "type": "article",
+        "level": 4,
+        "order": 59,
+        "path": [
+          "titre-1",
+          "chapitre-6",
+          "section-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-42-",
+        "title": "Article 42 :",
+        "type": "article",
+        "level": 4,
+        "order": 60,
+        "path": [
+          "titre-1",
+          "chapitre-6",
+          "section-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-43-",
+        "title": "Article 43 :",
+        "type": "article",
+        "level": 4,
+        "order": 61,
+        "path": [
+          "titre-1",
+          "chapitre-6",
+          "section-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-7",
+        "title": "CHAPITRE 7 : DES RESTRICTIONS D'ENTREE, DE SORTIE DE TONNAGE ET DE CONDITIONNEMENT",
+        "type": "chapitre",
+        "level": 3,
+        "order": 62,
+        "path": [
+          "titre-1",
+          "chapitre-7"
+        ],
+        "children": [
+          "article-44-"
+        ]
+      },
+      {
+        "id": "article-44-",
+        "title": "Article 44 :",
+        "type": "article",
+        "level": 3,
+        "order": 63,
+        "path": [
+          "titre-1",
+          "chapitre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-8",
+        "title": "CHAPITRE 8 : DU CONTROLE DU COMMERCE EXTERIEUR ET DES CHANGES",
+        "type": "chapitre",
+        "level": 3,
+        "order": 64,
+        "path": [
+          "titre-1",
+          "chapitre-8"
+        ],
+        "children": [
+          "article-45-"
+        ]
+      },
+      {
+        "id": "article-45-",
+        "title": "Article 45 :",
+        "type": "article",
+        "level": 3,
+        "order": 65,
+        "path": [
+          "titre-1",
+          "chapitre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-9",
+        "title": "CHAPITRE 9 : DE LA CLAUSE TRANSITOIRE",
+        "type": "chapitre",
+        "level": 3,
+        "order": 66,
+        "path": [
+          "titre-1",
+          "chapitre-9"
+        ],
+        "children": [
+          "article-46-"
+        ]
+      },
+      {
+        "id": "article-46-",
+        "title": "Article 46 :",
+        "type": "article",
+        "level": 3,
+        "order": 67,
+        "path": [
+          "titre-1",
+          "chapitre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-2",
+        "title": "TITRE 2 : DE L'ORGANISATION ET DU FONCTIONNEMENT DES SERVICES DES DOUANES",
+        "type": "titre",
+        "level": 2,
+        "order": 68,
+        "path": [
+          "titre-2"
+        ],
+        "children": [
+          "article-47-",
+          "article-48-",
+          "article-49-",
+          "article-50-",
+          "article-51-",
+          "article-52-",
+          "article-53-",
+          "article-54-",
+          "article-55-",
+          "article-56-",
+          "article-57-",
+          "article-58-",
+          "article-59-",
+          "article-60-",
+          "article-61-",
+          "article-62-",
+          "article-63-",
+          "article-64-",
+          "article-65-",
+          "article-66-",
+          "article-67-",
+          "article-68-",
+          "article-69-",
+          "article-70-",
+          "article-71-",
+          "article-72-",
+          "article-73-",
+          "article-74-",
+          "article-75-",
+          "article-76-",
+          "article-77-",
+          "section-6",
+          "section-7",
+          "article-80-",
+          "article-81-",
+          "article-82-",
+          "article-83-"
+        ]
+      },
+      {
+        "id": "article-47-",
+        "title": "Article 47 :",
+        "type": "article",
+        "level": 2,
+        "order": 70,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-48-",
+        "title": "Article 48 :",
+        "type": "article",
+        "level": 2,
+        "order": 71,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-49-",
+        "title": "Article 49 :",
+        "type": "article",
+        "level": 2,
+        "order": 73,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-50-",
+        "title": "Article 50 :",
+        "type": "article",
+        "level": 2,
+        "order": 74,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-51-",
+        "title": "Article 51 :",
+        "type": "article",
+        "level": 2,
+        "order": 75,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-52-",
+        "title": "Article 52 :",
+        "type": "article",
+        "level": 2,
+        "order": 77,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-53-",
+        "title": "Article 53 :",
+        "type": "article",
+        "level": 2,
+        "order": 78,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-54-",
+        "title": "Article 54 :",
+        "type": "article",
+        "level": 2,
+        "order": 79,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-55-",
+        "title": "Article 55 :",
+        "type": "article",
+        "level": 2,
+        "order": 80,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-56-",
+        "title": "Article 56 :",
+        "type": "article",
+        "level": 2,
+        "order": 81,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-57-",
+        "title": "Article 57 :",
+        "type": "article",
+        "level": 2,
+        "order": 82,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-58-",
+        "title": "Article 58 :",
+        "type": "article",
+        "level": 2,
+        "order": 83,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-59-",
+        "title": "Article 59 :",
+        "type": "article",
+        "level": 2,
+        "order": 84,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-60-",
+        "title": "Article 60 :",
+        "type": "article",
+        "level": 2,
+        "order": 85,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-61-",
+        "title": "Article 61 :",
+        "type": "article",
+        "level": 2,
+        "order": 86,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-62-",
+        "title": "Article 62 :",
+        "type": "article",
+        "level": 2,
+        "order": 89,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-63-",
+        "title": "Article 63 :",
+        "type": "article",
+        "level": 2,
+        "order": 91,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-64-",
+        "title": "Article 64 :",
+        "type": "article",
+        "level": 2,
+        "order": 92,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-65-",
+        "title": "Article 65 :",
+        "type": "article",
+        "level": 2,
+        "order": 93,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-66-",
+        "title": "Article 66 :",
+        "type": "article",
+        "level": 2,
+        "order": 94,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-67-",
+        "title": "Article 67 :",
+        "type": "article",
+        "level": 2,
+        "order": 95,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-68-",
+        "title": "Article 68 :",
+        "type": "article",
+        "level": 2,
+        "order": 96,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-69-",
+        "title": "Article 69 :",
+        "type": "article",
+        "level": 2,
+        "order": 97,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-70-",
+        "title": "Article 70 :",
+        "type": "article",
+        "level": 2,
+        "order": 98,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-71-",
+        "title": "Article 71 :",
+        "type": "article",
+        "level": 2,
+        "order": 99,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-72-",
+        "title": "Article 72 :",
+        "type": "article",
+        "level": 2,
+        "order": 100,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-73-",
+        "title": "Article 73 :",
+        "type": "article",
+        "level": 2,
+        "order": 101,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-74-",
+        "title": "Article 74 :",
+        "type": "article",
+        "level": 2,
+        "order": 102,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-75-",
+        "title": "Article 75 :",
+        "type": "article",
+        "level": 2,
+        "order": 104,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-76-",
+        "title": "Article 76 :",
+        "type": "article",
+        "level": 2,
+        "order": 106,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-77-",
+        "title": "Article 77 :",
+        "type": "article",
+        "level": 2,
+        "order": 108,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "section-6",
+        "title": "SECTION 6 : DU CONSTAT D'IDENTITE",
+        "type": "section",
+        "level": 4,
+        "order": 109,
+        "path": [
+          "titre-2",
+          "section-6"
+        ],
+        "children": [
+          "article-78-"
+        ]
+      },
+      {
+        "id": "article-78-",
+        "title": "Article 78 :",
+        "type": "article",
+        "level": 3,
+        "order": 110,
+        "path": [
+          "titre-2",
+          "section-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "section-7",
+        "title": "SECTION 7 : DES LIVRAISONS SURVEILLEES",
+        "type": "section",
+        "level": 4,
+        "order": 111,
+        "path": [
+          "titre-2",
+          "section-7"
+        ],
+        "children": [
+          "article-79-"
+        ]
+      },
+      {
+        "id": "article-79-",
+        "title": "Article 79 :",
+        "type": "article",
+        "level": 3,
+        "order": 112,
+        "path": [
+          "titre-2",
+          "section-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-80-",
+        "title": "Article 80 :",
+        "type": "article",
+        "level": 2,
+        "order": 114,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-81-",
+        "title": "Article 81 :",
+        "type": "article",
+        "level": 2,
+        "order": 115,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-82-",
+        "title": "Article 82 :",
+        "type": "article",
+        "level": 2,
+        "order": 116,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-83-",
+        "title": "Article 83 :",
+        "type": "article",
+        "level": 2,
+        "order": 117,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-3",
+        "title": "TITRE 3 : DE LA CONDUITE ET DE LA MISE EN DOUANE DES MARCHANDISES",
+        "type": "titre",
+        "level": 2,
+        "order": 118,
+        "path": [
+          "titre-3"
+        ],
+        "children": [
+          "article-84-",
+          "article-85-",
+          "article-86-",
+          "article-87-",
+          "article-88-",
+          "article-89-",
+          "article-ne-comprend-pas-les-dimanches-et-jours-f-ri-s",
+          "article-90-",
+          "article-91-",
+          "article-92-",
+          "article-93-",
+          "article-94-",
+          "paragraphe-3",
+          "article-98-",
+          "article-99-",
+          "article-100-",
+          "article-101-",
+          "article-102-",
+          "article-103-",
+          "article-104-",
+          "article-105-",
+          "article-106-",
+          "article-107-",
+          "article-108-",
+          "article-109-",
+          "article-110-",
+          "article-111-",
+          "article-112-",
+          "article-113-",
+          "article-114-",
+          "article-115-",
+          "article-116-",
+          "article-117-",
+          "article-118-",
+          "article-119-",
+          "article-120-",
+          "article-121-",
+          "article-122-",
+          "article-123-",
+          "article-124-",
+          "article-125-",
+          "article-126-",
+          "article-127-",
+          "article-128-",
+          "article-129-",
+          "article-130-",
+          "article-131-",
+          "article-132-",
+          "article-133-",
+          "article-134-",
+          "article-135-",
+          "article-136-",
+          "article-137-",
+          "article-138-",
+          "article-139-"
+        ]
+      },
+      {
+        "id": "article-84-",
+        "title": "Article 84 :",
+        "type": "article",
+        "level": 2,
+        "order": 122,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-85-",
+        "title": "Article 85 :",
+        "type": "article",
+        "level": 2,
+        "order": 123,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-86-",
+        "title": "Article 86 :",
+        "type": "article",
+        "level": 2,
+        "order": 124,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-87-",
+        "title": "Article 87 :",
+        "type": "article",
+        "level": 2,
+        "order": 125,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-88-",
+        "title": "Article 88 :",
+        "type": "article",
+        "level": 2,
+        "order": 126,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-89-",
+        "title": "Article 89 :",
+        "type": "article",
+        "level": 2,
+        "order": 127,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-ne-comprend-pas-les-dimanches-et-jours-f-ri-s",
+        "title": "article ne comprend pas les dimanches et jours fériés.",
+        "type": "article",
+        "level": 2,
+        "order": 128,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-90-",
+        "title": "Article 90 :",
+        "type": "article",
+        "level": 2,
+        "order": 129,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-91-",
+        "title": "Article 91 :",
+        "type": "article",
+        "level": 2,
+        "order": 130,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-92-",
+        "title": "Article 92 :",
+        "type": "article",
+        "level": 2,
+        "order": 131,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-93-",
+        "title": "Article 93 :",
+        "type": "article",
+        "level": 2,
+        "order": 133,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-94-",
+        "title": "Article 94 :",
+        "type": "article",
+        "level": 2,
+        "order": 134,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "paragraphe-3",
+        "title": "Paragraphe 3 : Des marchandises sauvées des naufrages et des épaves maritimes",
+        "type": "paragraphe",
+        "level": 6,
+        "order": 135,
+        "path": [
+          "titre-3",
+          "paragraphe-3"
+        ],
+        "children": [
+          "article-95-",
+          "article-96-",
+          "article-97-"
+        ]
+      },
+      {
+        "id": "article-95-",
+        "title": "Article 95 :",
+        "type": "article",
+        "level": 3,
+        "order": 136,
+        "path": [
+          "titre-3",
+          "paragraphe-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-96-",
+        "title": "Article 96 :",
+        "type": "article",
+        "level": 3,
+        "order": 137,
+        "path": [
+          "titre-3",
+          "paragraphe-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-97-",
+        "title": "Article 97 :",
+        "type": "article",
+        "level": 3,
+        "order": 138,
+        "path": [
+          "titre-3",
+          "paragraphe-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-98-",
+        "title": "Article 98 :",
+        "type": "article",
+        "level": 2,
+        "order": 140,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-99-",
+        "title": "Article 99 :",
+        "type": "article",
+        "level": 2,
+        "order": 141,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-100-",
+        "title": "Article 100 :",
+        "type": "article",
+        "level": 2,
+        "order": 142,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-101-",
+        "title": "Article 101 :",
+        "type": "article",
+        "level": 2,
+        "order": 143,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-102-",
+        "title": "Article 102 :",
+        "type": "article",
+        "level": 2,
+        "order": 144,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-103-",
+        "title": "Article 103 :",
+        "type": "article",
+        "level": 2,
+        "order": 145,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-104-",
+        "title": "Article 104 :",
+        "type": "article",
+        "level": 2,
+        "order": 146,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-105-",
+        "title": "Article 105 :",
+        "type": "article",
+        "level": 2,
+        "order": 147,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-106-",
+        "title": "Article 106 :",
+        "type": "article",
+        "level": 2,
+        "order": 148,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-107-",
+        "title": "Article 107 :",
+        "type": "article",
+        "level": 2,
+        "order": 149,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-108-",
+        "title": "Article 108 :",
+        "type": "article",
+        "level": 2,
+        "order": 151,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-109-",
+        "title": "Article 109 :",
+        "type": "article",
+        "level": 2,
+        "order": 152,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-110-",
+        "title": "Article 110 :",
+        "type": "article",
+        "level": 2,
+        "order": 153,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-111-",
+        "title": "Article 111 :",
+        "type": "article",
+        "level": 2,
+        "order": 155,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-112-",
+        "title": "Article 112 :",
+        "type": "article",
+        "level": 2,
+        "order": 156,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-113-",
+        "title": "Article 113 :",
+        "type": "article",
+        "level": 2,
+        "order": 157,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-114-",
+        "title": "Article 114 :",
+        "type": "article",
+        "level": 2,
+        "order": 158,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-115-",
+        "title": "Article 115 :",
+        "type": "article",
+        "level": 2,
+        "order": 159,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-116-",
+        "title": "Article 116 :",
+        "type": "article",
+        "level": 2,
+        "order": 160,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-117-",
+        "title": "Article 117 :",
+        "type": "article",
+        "level": 2,
+        "order": 162,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-118-",
+        "title": "Article 118 :",
+        "type": "article",
+        "level": 2,
+        "order": 163,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-119-",
+        "title": "Article 119 :",
+        "type": "article",
+        "level": 2,
+        "order": 164,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-120-",
+        "title": "Article 120 :",
+        "type": "article",
+        "level": 2,
+        "order": 166,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-121-",
+        "title": "Article 121 :",
+        "type": "article",
+        "level": 2,
+        "order": 168,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-122-",
+        "title": "Article 122 :",
+        "type": "article",
+        "level": 2,
+        "order": 169,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-123-",
+        "title": "Article 123 :",
+        "type": "article",
+        "level": 2,
+        "order": 170,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-124-",
+        "title": "Article 124 :",
+        "type": "article",
+        "level": 2,
+        "order": 171,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-125-",
+        "title": "Article 125 :",
+        "type": "article",
+        "level": 2,
+        "order": 173,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-126-",
+        "title": "Article 126 :",
+        "type": "article",
+        "level": 2,
+        "order": 174,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-127-",
+        "title": "Article 127 :",
+        "type": "article",
+        "level": 2,
+        "order": 175,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-128-",
+        "title": "Article 128 :",
+        "type": "article",
+        "level": 2,
+        "order": 176,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-129-",
+        "title": "Article 129 :",
+        "type": "article",
+        "level": 2,
+        "order": 179,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-130-",
+        "title": "Article 130 :",
+        "type": "article",
+        "level": 2,
+        "order": 180,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-131-",
+        "title": "Article 131 :",
+        "type": "article",
+        "level": 2,
+        "order": 181,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-132-",
+        "title": "Article 132 :",
+        "type": "article",
+        "level": 2,
+        "order": 183,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-133-",
+        "title": "Article 133 :",
+        "type": "article",
+        "level": 2,
+        "order": 184,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-134-",
+        "title": "Article 134 :",
+        "type": "article",
+        "level": 2,
+        "order": 186,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-135-",
+        "title": "Article 135 :",
+        "type": "article",
+        "level": 2,
+        "order": 187,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-136-",
+        "title": "Article 136 :",
+        "type": "article",
+        "level": 2,
+        "order": 188,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-137-",
+        "title": "Article 137 : Les marchandises présentées en douane doivent recevoir",
+        "type": "article",
+        "level": 2,
+        "order": 190,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-138-",
+        "title": "Article 138 : Lorsque les marchandises ont fait l'objet d'une",
+        "type": "article",
+        "level": 2,
+        "order": 191,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-139-",
+        "title": "Article 139 :",
+        "type": "article",
+        "level": 2,
+        "order": 193,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-4",
+        "title": "TITRE 4 : DE L'OPERATION DE DEDOUANEMENT",
+        "type": "titre",
+        "level": 2,
+        "order": 194,
+        "path": [
+          "titre-4"
+        ],
+        "children": [
+          "article-140-",
+          "article-141-",
+          "article-142-",
+          "article-143-",
+          "article-144-",
+          "article-145-",
+          "article-146-",
+          "article-147-",
+          "article-148-",
+          "article-149-",
+          "article-150-",
+          "article-151-",
+          "article-152-",
+          "article-153-",
+          "article-154-",
+          "article-155-",
+          "article-156-",
+          "article-157-",
+          "article-158-",
+          "article-159-",
+          "article-160-",
+          "article-161-",
+          "article-162-",
+          "article-163-",
+          "article-164-",
+          "article-165-",
+          "article-166-",
+          "article-167-",
+          "article-168-",
+          "article-169-",
+          "article-170-",
+          "article-171-",
+          "article-172-",
+          "article-173-",
+          "article-174-",
+          "article-175-",
+          "article-176-",
+          "article-177-",
+          "article-178-",
+          "article-179-",
+          "article-180-",
+          "article-181-",
+          "article-182-",
+          "article-183-",
+          "article-184-",
+          "article-185-",
+          "article-186-",
+          "article-187-",
+          "article-188-",
+          "article-189-",
+          "article-190-",
+          "article-191-"
+        ]
+      },
+      {
+        "id": "article-140-",
+        "title": "Article 140 :",
+        "type": "article",
+        "level": 2,
+        "order": 197,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-141-",
+        "title": "Article 141 :",
+        "type": "article",
+        "level": 2,
+        "order": 198,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-142-",
+        "title": "Article 142 :",
+        "type": "article",
+        "level": 2,
+        "order": 199,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-143-",
+        "title": "Article 143 :",
+        "type": "article",
+        "level": 2,
+        "order": 201,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-144-",
+        "title": "Article 144 :",
+        "type": "article",
+        "level": 2,
+        "order": 202,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-145-",
+        "title": "Article 145 :",
+        "type": "article",
+        "level": 2,
+        "order": 203,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-146-",
+        "title": "Article 146 :",
+        "type": "article",
+        "level": 2,
+        "order": 204,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-147-",
+        "title": "Article 147 :",
+        "type": "article",
+        "level": 2,
+        "order": 205,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-148-",
+        "title": "Article 148 :",
+        "type": "article",
+        "level": 2,
+        "order": 206,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-149-",
+        "title": "Article 149 :",
+        "type": "article",
+        "level": 2,
+        "order": 207,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-150-",
+        "title": "Article 150 :",
+        "type": "article",
+        "level": 2,
+        "order": 208,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-151-",
+        "title": "Article 151 :",
+        "type": "article",
+        "level": 2,
+        "order": 209,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-152-",
+        "title": "Article 152 :",
+        "type": "article",
+        "level": 2,
+        "order": 211,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-153-",
+        "title": "Article 153 :",
+        "type": "article",
+        "level": 2,
+        "order": 212,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-154-",
+        "title": "Article 154 :",
+        "type": "article",
+        "level": 2,
+        "order": 213,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-155-",
+        "title": "Article 155 :",
+        "type": "article",
+        "level": 2,
+        "order": 214,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-156-",
+        "title": "Article 156 :",
+        "type": "article",
+        "level": 2,
+        "order": 215,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-157-",
+        "title": "Article 157 :",
+        "type": "article",
+        "level": 2,
+        "order": 216,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-158-",
+        "title": "Article 158 :",
+        "type": "article",
+        "level": 2,
+        "order": 217,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-159-",
+        "title": "Article 159 :",
+        "type": "article",
+        "level": 2,
+        "order": 218,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-160-",
+        "title": "Article 160 :",
+        "type": "article",
+        "level": 2,
+        "order": 219,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-161-",
+        "title": "Article 161 :",
+        "type": "article",
+        "level": 2,
+        "order": 220,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-162-",
+        "title": "Article 162 :",
+        "type": "article",
+        "level": 2,
+        "order": 221,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-163-",
+        "title": "Article 163 :",
+        "type": "article",
+        "level": 2,
+        "order": 222,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-164-",
+        "title": "Article 164 :",
+        "type": "article",
+        "level": 2,
+        "order": 223,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-165-",
+        "title": "Article 165 :",
+        "type": "article",
+        "level": 2,
+        "order": 225,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-166-",
+        "title": "Article 166 :",
+        "type": "article",
+        "level": 2,
+        "order": 227,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-167-",
+        "title": "Article 167 :",
+        "type": "article",
+        "level": 2,
+        "order": 230,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-168-",
+        "title": "Article 168 :",
+        "type": "article",
+        "level": 2,
+        "order": 231,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-169-",
+        "title": "Article 169 :",
+        "type": "article",
+        "level": 2,
+        "order": 232,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-170-",
+        "title": "Article 170 :",
+        "type": "article",
+        "level": 2,
+        "order": 233,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-171-",
+        "title": "Article 171 :",
+        "type": "article",
+        "level": 2,
+        "order": 235,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-172-",
+        "title": "Article 172 :",
+        "type": "article",
+        "level": 2,
+        "order": 236,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-173-",
+        "title": "Article 173 :",
+        "type": "article",
+        "level": 2,
+        "order": 237,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-174-",
+        "title": "Article 174 :",
+        "type": "article",
+        "level": 2,
+        "order": 238,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-175-",
+        "title": "Article 175 :",
+        "type": "article",
+        "level": 2,
+        "order": 239,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-176-",
+        "title": "Article 176 :",
+        "type": "article",
+        "level": 2,
+        "order": 240,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-177-",
+        "title": "Article 177 :",
+        "type": "article",
+        "level": 2,
+        "order": 242,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-178-",
+        "title": "Article 178 :",
+        "type": "article",
+        "level": 2,
+        "order": 244,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-179-",
+        "title": "Article 179 :",
+        "type": "article",
+        "level": 2,
+        "order": 247,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-180-",
+        "title": "Article 180 :",
+        "type": "article",
+        "level": 2,
+        "order": 248,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-181-",
+        "title": "Article 181 :",
+        "type": "article",
+        "level": 2,
+        "order": 251,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-182-",
+        "title": "Article 182 :",
+        "type": "article",
+        "level": 2,
+        "order": 252,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-183-",
+        "title": "Article 183 :",
+        "type": "article",
+        "level": 2,
+        "order": 253,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-184-",
+        "title": "Article 184 :",
+        "type": "article",
+        "level": 2,
+        "order": 255,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-185-",
+        "title": "Article 185 :",
+        "type": "article",
+        "level": 2,
+        "order": 256,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-186-",
+        "title": "Article 186 :",
+        "type": "article",
+        "level": 2,
+        "order": 257,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-187-",
+        "title": "Article 187 :",
+        "type": "article",
+        "level": 2,
+        "order": 258,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-188-",
+        "title": "Article 188 :",
+        "type": "article",
+        "level": 2,
+        "order": 260,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-189-",
+        "title": "Article 189 :",
+        "type": "article",
+        "level": 2,
+        "order": 263,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-190-",
+        "title": "Article 190 :",
+        "type": "article",
+        "level": 2,
+        "order": 265,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-191-",
+        "title": "Article 191 :",
+        "type": "article",
+        "level": 2,
+        "order": 266,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-5",
+        "title": "TITRE 5 : DES REGIMES DOUANIERS SUSPENSIFS, DE L'EXPORTATION PREALABLE, DE L'IMPORTATION ET DE L'EXPORTATION TEMPORAIRES, DU DRAWBACK",
+        "type": "titre",
+        "level": 2,
+        "order": 267,
+        "path": [
+          "titre-5"
+        ],
+        "children": [
+          "article-192-",
+          "article-193-",
+          "article-194-",
+          "article-195-",
+          "article-196-",
+          "article-197-",
+          "article-198-",
+          "article-199-",
+          "article-200-",
+          "article-201-",
+          "article-202-",
+          "article-203-",
+          "article-204-",
+          "article-205-",
+          "article-206-",
+          "article-207-",
+          "article-208-",
+          "article-209-",
+          "article-210-",
+          "article-211-",
+          "article-212-",
+          "article-213-",
+          "article-214-",
+          "article-215-",
+          "article-216-",
+          "article-217-",
+          "article-218-",
+          "article-219-",
+          "article-220-",
+          "article-221-",
+          "article-222-",
+          "article-223-",
+          "article-224-",
+          "paragraphe-4",
+          "paragraphe-5",
+          "paragraphe-6",
+          "article-244-",
+          "article-245-",
+          "article-246-",
+          "article-247-",
+          "article-248-",
+          "article-249-",
+          "article-250-",
+          "article-251-",
+          "article-252-",
+          "article-253-",
+          "article-254-",
+          "article-255-",
+          "article-256-",
+          "article-257-",
+          "article-258-",
+          "article-259-",
+          "article-260-",
+          "article-261-",
+          "article-262-",
+          "article-263-",
+          "article-264-",
+          "article-265-",
+          "article-266-",
+          "article-267-",
+          "article-268-",
+          "article-269-",
+          "article-270-",
+          "article-271-",
+          "article-272-",
+          "article-273-",
+          "article-274-",
+          "article-275-",
+          "article-276-",
+          "article-277-",
+          "article-278-",
+          "chapitre-10"
+        ]
+      },
+      {
+        "id": "article-192-",
+        "title": "Article 192 :",
+        "type": "article",
+        "level": 2,
+        "order": 270,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-193-",
+        "title": "Article 193 :",
+        "type": "article",
+        "level": 2,
+        "order": 271,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-194-",
+        "title": "Article 194 :",
+        "type": "article",
+        "level": 2,
+        "order": 272,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-195-",
+        "title": "Article 195 :",
+        "type": "article",
+        "level": 2,
+        "order": 273,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-196-",
+        "title": "Article 196 :",
+        "type": "article",
+        "level": 2,
+        "order": 274,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-197-",
+        "title": "Article 197 :",
+        "type": "article",
+        "level": 2,
+        "order": 276,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-198-",
+        "title": "Article 198 :",
+        "type": "article",
+        "level": 2,
+        "order": 277,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-199-",
+        "title": "Article 199 :",
+        "type": "article",
+        "level": 2,
+        "order": 278,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-200-",
+        "title": "Article 200 :",
+        "type": "article",
+        "level": 2,
+        "order": 280,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-201-",
+        "title": "Article 201 :",
+        "type": "article",
+        "level": 2,
+        "order": 282,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-202-",
+        "title": "Article 202 :",
+        "type": "article",
+        "level": 2,
+        "order": 283,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-203-",
+        "title": "Article 203 :",
+        "type": "article",
+        "level": 2,
+        "order": 284,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-204-",
+        "title": "Article 204 :",
+        "type": "article",
+        "level": 2,
+        "order": 285,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-205-",
+        "title": "Article 205 :",
+        "type": "article",
+        "level": 2,
+        "order": 286,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-206-",
+        "title": "Article 206 :",
+        "type": "article",
+        "level": 2,
+        "order": 287,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-207-",
+        "title": "Article 207 :",
+        "type": "article",
+        "level": 2,
+        "order": 289,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-208-",
+        "title": "Article 208 :",
+        "type": "article",
+        "level": 2,
+        "order": 290,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-209-",
+        "title": "Article 209 :",
+        "type": "article",
+        "level": 2,
+        "order": 291,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-210-",
+        "title": "Article 210 :",
+        "type": "article",
+        "level": 2,
+        "order": 292,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-211-",
+        "title": "Article 211 :",
+        "type": "article",
+        "level": 2,
+        "order": 293,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-212-",
+        "title": "Article 212 :",
+        "type": "article",
+        "level": 2,
+        "order": 294,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-213-",
+        "title": "Article 213 :",
+        "type": "article",
+        "level": 2,
+        "order": 295,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-214-",
+        "title": "Article 214 :",
+        "type": "article",
+        "level": 2,
+        "order": 297,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-215-",
+        "title": "Article 215 :",
+        "type": "article",
+        "level": 2,
+        "order": 301,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-216-",
+        "title": "Article 216 :",
+        "type": "article",
+        "level": 2,
+        "order": 303,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-217-",
+        "title": "Article 217 :",
+        "type": "article",
+        "level": 2,
+        "order": 304,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-218-",
+        "title": "Article 218 :",
+        "type": "article",
+        "level": 2,
+        "order": 306,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-219-",
+        "title": "Article 219 :",
+        "type": "article",
+        "level": 2,
+        "order": 307,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-220-",
+        "title": "Article 220 :",
+        "type": "article",
+        "level": 2,
+        "order": 308,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-221-",
+        "title": "Article 221 :",
+        "type": "article",
+        "level": 2,
+        "order": 309,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-222-",
+        "title": "Article 222 :",
+        "type": "article",
+        "level": 2,
+        "order": 310,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-223-",
+        "title": "Article 223 :",
+        "type": "article",
+        "level": 2,
+        "order": 311,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-224-",
+        "title": "Article 224 :",
+        "type": "article",
+        "level": 2,
+        "order": 312,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "paragraphe-4",
+        "title": "Paragraphe 4 : De l'entrepôt privé",
+        "type": "paragraphe",
+        "level": 6,
+        "order": 313,
+        "path": [
+          "titre-5",
+          "paragraphe-4"
+        ],
+        "children": [
+          "article-225-",
+          "article-226-",
+          "article-227-",
+          "article-228-",
+          "article-229-",
+          "article-230-"
+        ]
+      },
+      {
+        "id": "article-225-",
+        "title": "Article 225 :",
+        "type": "article",
+        "level": 3,
+        "order": 314,
+        "path": [
+          "titre-5",
+          "paragraphe-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-226-",
+        "title": "Article 226 :",
+        "type": "article",
+        "level": 3,
+        "order": 315,
+        "path": [
+          "titre-5",
+          "paragraphe-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-227-",
+        "title": "Article 227 :",
+        "type": "article",
+        "level": 3,
+        "order": 316,
+        "path": [
+          "titre-5",
+          "paragraphe-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-228-",
+        "title": "Article 228 :",
+        "type": "article",
+        "level": 3,
+        "order": 317,
+        "path": [
+          "titre-5",
+          "paragraphe-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-229-",
+        "title": "Article 229 :",
+        "type": "article",
+        "level": 3,
+        "order": 318,
+        "path": [
+          "titre-5",
+          "paragraphe-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-230-",
+        "title": "Article 230 :",
+        "type": "article",
+        "level": 3,
+        "order": 319,
+        "path": [
+          "titre-5",
+          "paragraphe-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "paragraphe-5",
+        "title": "Paragraphe 5 : De l'entrepôt spécial",
+        "type": "paragraphe",
+        "level": 6,
+        "order": 320,
+        "path": [
+          "titre-5",
+          "paragraphe-5"
+        ],
+        "children": [
+          "article-231-",
+          "article-232-"
+        ]
+      },
+      {
+        "id": "article-231-",
+        "title": "Article 231 :",
+        "type": "article",
+        "level": 3,
+        "order": 321,
+        "path": [
+          "titre-5",
+          "paragraphe-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-232-",
+        "title": "Article 232 :",
+        "type": "article",
+        "level": 3,
+        "order": 322,
+        "path": [
+          "titre-5",
+          "paragraphe-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "paragraphe-6",
+        "title": "Paragraphe 6 : Des dispositions applicables à tous les entrepôts",
+        "type": "paragraphe",
+        "level": 6,
+        "order": 323,
+        "path": [
+          "titre-5",
+          "paragraphe-6"
+        ],
+        "children": [
+          "article-233-",
+          "article-234-",
+          "article-235-",
+          "article-236-",
+          "article-237-",
+          "article-238-",
+          "article-239-",
+          "article-240-",
+          "article-241-",
+          "article-242-",
+          "article-243-"
+        ]
+      },
+      {
+        "id": "article-233-",
+        "title": "Article 233 :",
+        "type": "article",
+        "level": 3,
+        "order": 324,
+        "path": [
+          "titre-5",
+          "paragraphe-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-234-",
+        "title": "Article 234 :",
+        "type": "article",
+        "level": 3,
+        "order": 325,
+        "path": [
+          "titre-5",
+          "paragraphe-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-235-",
+        "title": "Article 235 :",
+        "type": "article",
+        "level": 3,
+        "order": 326,
+        "path": [
+          "titre-5",
+          "paragraphe-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-236-",
+        "title": "Article 236 :",
+        "type": "article",
+        "level": 3,
+        "order": 327,
+        "path": [
+          "titre-5",
+          "paragraphe-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-237-",
+        "title": "Article 237 :",
+        "type": "article",
+        "level": 3,
+        "order": 328,
+        "path": [
+          "titre-5",
+          "paragraphe-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-238-",
+        "title": "Article 238 :",
+        "type": "article",
+        "level": 3,
+        "order": 329,
+        "path": [
+          "titre-5",
+          "paragraphe-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-239-",
+        "title": "Article 239 :",
+        "type": "article",
+        "level": 3,
+        "order": 330,
+        "path": [
+          "titre-5",
+          "paragraphe-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-240-",
+        "title": "Article 240 :",
+        "type": "article",
+        "level": 3,
+        "order": 331,
+        "path": [
+          "titre-5",
+          "paragraphe-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-241-",
+        "title": "Article 241 :",
+        "type": "article",
+        "level": 3,
+        "order": 332,
+        "path": [
+          "titre-5",
+          "paragraphe-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-242-",
+        "title": "Article 242 :",
+        "type": "article",
+        "level": 3,
+        "order": 333,
+        "path": [
+          "titre-5",
+          "paragraphe-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-243-",
+        "title": "Article 243 : Lorsque les marchandises ayant subi des manipulations",
+        "type": "article",
+        "level": 3,
+        "order": 334,
+        "path": [
+          "titre-5",
+          "paragraphe-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-244-",
+        "title": "Article 244 : L'entrepôt industriel est le régime douanier",
+        "type": "article",
+        "level": 2,
+        "order": 336,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-245-",
+        "title": "Article 245 : L'entreprise bénéficiant du régime de l'entrepôt",
+        "type": "article",
+        "level": 2,
+        "order": 337,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-246-",
+        "title": "Article 246 : L'entrepôt industriel est accordé par arrêté du",
+        "type": "article",
+        "level": 2,
+        "order": 338,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-247-",
+        "title": "Article 247 : La durée de séjour des marchandises en entrepôt",
+        "type": "article",
+        "level": 2,
+        "order": 339,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-248-",
+        "title": "Article 248 : Les marchandises admises en entrepôt industriel ne",
+        "type": "article",
+        "level": 2,
+        "order": 340,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-249-",
+        "title": "Article 249 : Sauf autorisation du Directeur général des douanes,",
+        "type": "article",
+        "level": 2,
+        "order": 341,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-250-",
+        "title": "Article 250 : En cas de mise à la consommation des produits",
+        "type": "article",
+        "level": 2,
+        "order": 342,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-251-",
+        "title": "Article 251 : Les modalités de création, de fonctionnement,",
+        "type": "article",
+        "level": 2,
+        "order": 343,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-252-",
+        "title": "Article 252 : Le régime de l'admission temporaire permet de",
+        "type": "article",
+        "level": 2,
+        "order": 346,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-253-",
+        "title": "Article 253 : La durée du séjour en admission temporaire ne peut",
+        "type": "article",
+        "level": 2,
+        "order": 347,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-254-",
+        "title": "Article 254 : Pour bénéficier de l'admission temporaire,",
+        "type": "article",
+        "level": 2,
+        "order": 348,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-255-",
+        "title": "Article 255 : L'admission temporaire pour perfectionnement actif est",
+        "type": "article",
+        "level": 2,
+        "order": 350,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-256-",
+        "title": "Article 256 : Les modalités de fonctionnement de l'admission",
+        "type": "article",
+        "level": 2,
+        "order": 351,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-257-",
+        "title": "Article 257 : Le régime normal d'apurement des comptes d'admission",
+        "type": "article",
+        "level": 2,
+        "order": 352,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-258-",
+        "title": "Article 258 : La mise à la consommation des produits préalablement",
+        "type": "article",
+        "level": 2,
+        "order": 353,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-259-",
+        "title": "Article 259 : L'acte autorisant l'admission temporaire précise les",
+        "type": "article",
+        "level": 2,
+        "order": 354,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-260-",
+        "title": "Article 260 : Les produits expédiés de l'une des parties du",
+        "type": "article",
+        "level": 2,
+        "order": 355,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-261-",
+        "title": "Article 261 : L'admission temporaire en suspension partielle des",
+        "type": "article",
+        "level": 2,
+        "order": 357,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-262-",
+        "title": "Article 262 : Les expéditeurs doivent justifier, dans le délai fixé,",
+        "type": "article",
+        "level": 2,
+        "order": 359,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-263-",
+        "title": "Article 263 : Lorsque les produits admis temporairement n'ont pas",
+        "type": "article",
+        "level": 2,
+        "order": 360,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-264-",
+        "title": "Article 264 : L'usine exercée est un établissement placé sous la",
+        "type": "article",
+        "level": 2,
+        "order": 362,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-265-",
+        "title": "Article 265 : La liste des produits admis en usine exercée est fixée",
+        "type": "article",
+        "level": 2,
+        "order": 363,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-266-",
+        "title": "Article 266 : Les conditions d'agrément au régime des usines",
+        "type": "article",
+        "level": 2,
+        "order": 364,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-267-",
+        "title": "Article 267 : En cas de mise à la consommation des produits",
+        "type": "article",
+        "level": 2,
+        "order": 365,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-268-",
+        "title": "Article 268 : Le régime de réapprovisionnement en franchise ou",
+        "type": "article",
+        "level": 2,
+        "order": 368,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-269-",
+        "title": "Article 269 : Le bénéfice du régime de réapprovisionnement en",
+        "type": "article",
+        "level": 2,
+        "order": 369,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-270-",
+        "title": "Article 270 : Le drawback est le régime douanier qui permet, lors de",
+        "type": "article",
+        "level": 2,
+        "order": 371,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-271-",
+        "title": "Article 271 : Pour bénéficier du remboursement prévu à l'article 270",
+        "type": "article",
+        "level": 2,
+        "order": 372,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-272-",
+        "title": "Article 272 : L'acte accordant l'exportation préalable ou",
+        "type": "article",
+        "level": 2,
+        "order": 374,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-273-",
+        "title": "Article 273 : La liste des produits admissibles au bénéfice des deux",
+        "type": "article",
+        "level": 2,
+        "order": 375,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-274-",
+        "title": "Article 274 : Les constatations des laboratoires officiels",
+        "type": "article",
+        "level": 2,
+        "order": 376,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-275-",
+        "title": "Article 275 : Les voyageurs qui viennent séjourner temporairement",
+        "type": "article",
+        "level": 2,
+        "order": 379,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-276-",
+        "title": "Article 276 : Le titulaire d'un titre d'importation temporaire",
+        "type": "article",
+        "level": 2,
+        "order": 380,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-277-",
+        "title": "Article 277 : Les voyageurs qui ont leur principale résidence ou",
+        "type": "article",
+        "level": 2,
+        "order": 382,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-278-",
+        "title": "Article 278 : L'exportation temporaire pour perfectionnement passif",
+        "type": "article",
+        "level": 2,
+        "order": 384,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-10",
+        "title": "CHAPITRE 10 : DE LA REPARATION DE NAVIRES BENINOIS HORS DU TERRITOIRE DOUANIER",
+        "type": "chapitre",
+        "level": 3,
+        "order": 385,
+        "path": [
+          "titre-5",
+          "chapitre-10"
+        ],
+        "children": [
+          "article-279-"
+        ]
+      },
+      {
+        "id": "article-279-",
+        "title": "Article 279 : S'il est procédé, hors du territoire douanier à la",
+        "type": "article",
+        "level": 3,
+        "order": 387,
+        "path": [
+          "titre-5",
+          "chapitre-10"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-6",
+        "title": "TITRE 6 : DU DEPOT DE DOUANE",
+        "type": "titre",
+        "level": 2,
+        "order": 388,
+        "path": [
+          "titre-6"
+        ],
+        "children": [
+          "article-280-",
+          "article-281-",
+          "article-282-",
+          "article-283-",
+          "article-284-",
+          "article-285-",
+          "article-286-",
+          "article-287-",
+          "article-288-"
+        ]
+      },
+      {
+        "id": "article-280-",
+        "title": "Article 280 : Sont constitués d'office en dépôt dans les magasins de",
+        "type": "article",
+        "level": 2,
+        "order": 390,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-281-",
+        "title": "Article 281 : Pour les marchandises non déclarées dans les délais",
+        "type": "article",
+        "level": 2,
+        "order": 391,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-282-",
+        "title": "Article 282 : A l'expiration du délai légal de séjour, le transfert",
+        "type": "article",
+        "level": 2,
+        "order": 392,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-283-",
+        "title": "Article 283 : Le droit de magasinage est perçu au profit du Trésor",
+        "type": "article",
+        "level": 2,
+        "order": 393,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-284-",
+        "title": "Article 284 : Les marchandises en dépôt de douane y demeurent aux",
+        "type": "article",
+        "level": 2,
+        "order": 394,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-285-",
+        "title": "Article 285 : Les agents des douanes ne peuvent procéder à",
+        "type": "article",
+        "level": 2,
+        "order": 395,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-286-",
+        "title": "Article 286 : S'agissant des cargaisons conteneurisées constituées",
+        "type": "article",
+        "level": 2,
+        "order": 396,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-287-",
+        "title": "Article 287 : Les marchandises qui n'ont pas été enlevées dans le",
+        "type": "article",
+        "level": 2,
+        "order": 398,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-288-",
+        "title": "Article 288 : La vente des marchandises est effectuée au plus",
+        "type": "article",
+        "level": 2,
+        "order": 399,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-7",
+        "title": "TITRE 7 : DES OPERATIONS PRIVILEGIEES",
+        "type": "titre",
+        "level": 2,
+        "order": 400,
+        "path": [
+          "titre-7"
+        ],
+        "children": [
+          "article-290-",
+          "article-291-",
+          "article-292-",
+          "article-293-",
+          "article-294-",
+          "article-295-",
+          "article-296-",
+          "article-297-",
+          "article-298-",
+          "article-299-"
+        ]
+      },
+      {
+        "id": "article-290-",
+        "title": "Article 290 : Par dérogation aux articles 6 et 7 du présent",
+        "type": "article",
+        "level": 2,
+        "order": 402,
+        "path": [
+          "titre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-291-",
+        "title": "Article 291 : Les marchandises décrites à l'article 290 ci-dessus,",
+        "type": "article",
+        "level": 2,
+        "order": 403,
+        "path": [
+          "titre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-292-",
+        "title": "Article 292 : Sont exemptés de tous droits et taxes, les",
+        "type": "article",
+        "level": 2,
+        "order": 406,
+        "path": [
+          "titre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-293-",
+        "title": "Article 293 : Les vivres et provisions de bord apportés par les",
+        "type": "article",
+        "level": 2,
+        "order": 407,
+        "path": [
+          "titre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-294-",
+        "title": "Article 294 : Les vivres et provisions de bord à embarquer sur tout",
+        "type": "article",
+        "level": 2,
+        "order": 408,
+        "path": [
+          "titre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-295-",
+        "title": "Article 295 : Les vivres et provisions de bord n'excédant pas le",
+        "type": "article",
+        "level": 2,
+        "order": 409,
+        "path": [
+          "titre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-296-",
+        "title": "Article 296 : Les vivres qui sont embarqués dans un port autre que",
+        "type": "article",
+        "level": 2,
+        "order": 410,
+        "path": [
+          "titre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-297-",
+        "title": "Article 297 : Sont exemptés de tous droits et taxes les",
+        "type": "article",
+        "level": 2,
+        "order": 412,
+        "path": [
+          "titre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-298-",
+        "title": "Article 298 : Pour l'application de la législation douanière, les",
+        "type": "article",
+        "level": 2,
+        "order": 414,
+        "path": [
+          "titre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-299-",
+        "title": "Article 299 : Sont exemptés des droits et taxes, les matériels",
+        "type": "article",
+        "level": 2,
+        "order": 415,
+        "path": [
+          "titre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-8",
+        "title": "TITRE 8 : DE LA CIRCULATION ET DE LA DETENTION DES MARCHANDISES A L'INTERIEUR DU TERRITOIRE DOUANIER",
+        "type": "titre",
+        "level": 2,
+        "order": 416,
+        "path": [
+          "titre-8"
+        ],
+        "children": [
+          "article-300-",
+          "article-301-",
+          "article-302-",
+          "article-303-",
+          "article-304-",
+          "article-305-",
+          "article-306-",
+          "article-307-",
+          "article-308-",
+          "article-309-",
+          "article-310-",
+          "article-311-"
+        ]
+      },
+      {
+        "id": "article-300-",
+        "title": "Article 300 : Les marchandises ne peuvent circuler dans la zone",
+        "type": "article",
+        "level": 2,
+        "order": 419,
+        "path": [
+          "titre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-301-",
+        "title": "Article 301 : Les marchandises soumises à la formalité du passavant",
+        "type": "article",
+        "level": 2,
+        "order": 420,
+        "path": [
+          "titre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-302-",
+        "title": "Article 302 : Les marchandises soumises à la formalité du passavant",
+        "type": "article",
+        "level": 2,
+        "order": 421,
+        "path": [
+          "titre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-303-",
+        "title": "Article 303 : Les passavants nécessaires au transport des",
+        "type": "article",
+        "level": 2,
+        "order": 422,
+        "path": [
+          "titre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-304-",
+        "title": "Article 304 : Les passavants nécessaires au transport des",
+        "type": "article",
+        "level": 2,
+        "order": 423,
+        "path": [
+          "titre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-305-",
+        "title": "Article 305 : Les passavants et autres expéditions destinés à",
+        "type": "article",
+        "level": 2,
+        "order": 424,
+        "path": [
+          "titre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-306-",
+        "title": "Article 306 : Les agents des douanes peuvent se transporter au lieu",
+        "type": "article",
+        "level": 2,
+        "order": 425,
+        "path": [
+          "titre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-307-",
+        "title": "Article 307 : Les transporteurs sont tenus de ne pas s'écarter de",
+        "type": "article",
+        "level": 2,
+        "order": 426,
+        "path": [
+          "titre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-308-",
+        "title": "Article 308 : Sont interdites dans le rayon des douanes, à",
+        "type": "article",
+        "level": 2,
+        "order": 428,
+        "path": [
+          "titre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-309-",
+        "title": "Article 309 : Ceux qui détiennent ou transportent les marchandises",
+        "type": "article",
+        "level": 2,
+        "order": 430,
+        "path": [
+          "titre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-310-",
+        "title": "Article 310 : Les détenteurs d'animaux des catégories désignées par",
+        "type": "article",
+        "level": 2,
+        "order": 433,
+        "path": [
+          "titre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-311-",
+        "title": "Article 311 :",
+        "type": "article",
+        "level": 2,
+        "order": 434,
+        "path": [
+          "titre-8"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-9",
+        "title": "TITRE 9 : DES DIVERSES TAXES PERÇUES PAR LA DOUANE",
+        "type": "titre",
+        "level": 2,
+        "order": 435,
+        "path": [
+          "titre-9"
+        ],
+        "children": [
+          "article-312-",
+          "article-313-"
+        ]
+      },
+      {
+        "id": "article-312-",
+        "title": "Article 312 :",
+        "type": "article",
+        "level": 2,
+        "order": 436,
+        "path": [
+          "titre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-313-",
+        "title": "Article 313 :",
+        "type": "article",
+        "level": 2,
+        "order": 437,
+        "path": [
+          "titre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-10",
+        "title": "TITRE 10 : DU REGIME PRIVILEGIE APPLICABLE A CERTAINS ECHANGES COMMERCIAUX",
+        "type": "titre",
+        "level": 2,
+        "order": 438,
+        "path": [
+          "titre-10"
+        ],
+        "children": [
+          "article-314-",
+          "article-315-"
+        ]
+      },
+      {
+        "id": "article-314-",
+        "title": "Article 314 :",
+        "type": "article",
+        "level": 2,
+        "order": 439,
+        "path": [
+          "titre-10"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-315-",
+        "title": "Article 315 :",
+        "type": "article",
+        "level": 2,
+        "order": 440,
+        "path": [
+          "titre-10"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-11",
+        "title": "TITRE 11 : DE LA ZONE FRANCHE",
+        "type": "titre",
+        "level": 2,
+        "order": 441,
+        "path": [
+          "titre-11"
+        ],
+        "children": [
+          "article-316-",
+          "article-317-",
+          "article-318-",
+          "article-319-",
+          "article-320-",
+          "article-321-",
+          "article-322-",
+          "article-323-",
+          "article-324-",
+          "article-325-",
+          "article-326-"
+        ]
+      },
+      {
+        "id": "article-316-",
+        "title": "Article 316 :",
+        "type": "article",
+        "level": 2,
+        "order": 442,
+        "path": [
+          "titre-11"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-317-",
+        "title": "Article 317 :",
+        "type": "article",
+        "level": 2,
+        "order": 443,
+        "path": [
+          "titre-11"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-318-",
+        "title": "Article 318 :",
+        "type": "article",
+        "level": 2,
+        "order": 444,
+        "path": [
+          "titre-11"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-319-",
+        "title": "Article 319 :",
+        "type": "article",
+        "level": 2,
+        "order": 445,
+        "path": [
+          "titre-11"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-320-",
+        "title": "Article 320 :",
+        "type": "article",
+        "level": 2,
+        "order": 446,
+        "path": [
+          "titre-11"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-321-",
+        "title": "Article 321 :",
+        "type": "article",
+        "level": 2,
+        "order": 447,
+        "path": [
+          "titre-11"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-322-",
+        "title": "Article 322 :",
+        "type": "article",
+        "level": 2,
+        "order": 448,
+        "path": [
+          "titre-11"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-323-",
+        "title": "Article 323 :",
+        "type": "article",
+        "level": 2,
+        "order": 449,
+        "path": [
+          "titre-11"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-324-",
+        "title": "Article 324 :",
+        "type": "article",
+        "level": 2,
+        "order": 450,
+        "path": [
+          "titre-11"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-325-",
+        "title": "Article 325 :",
+        "type": "article",
+        "level": 2,
+        "order": 451,
+        "path": [
+          "titre-11"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-326-",
+        "title": "Article 326 :",
+        "type": "article",
+        "level": 2,
+        "order": 452,
+        "path": [
+          "titre-11"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-12",
+        "title": "TITRE 12 : DU CONTENTIEUX ET DU RECOUVREMENT",
+        "type": "titre",
+        "level": 2,
+        "order": 453,
+        "path": [
+          "titre-12"
+        ],
+        "children": [
+          "article-327-",
+          "article-328-",
+          "article-329-",
+          "article-330-",
+          "article-331-",
+          "article-332-",
+          "article-333-",
+          "article-334-",
+          "article-335-",
+          "article-336-",
+          "article-337-",
+          "article-338-",
+          "article-339-",
+          "article-340-",
+          "article-341-",
+          "article-342-",
+          "article-343-",
+          "article-344-",
+          "article-345-",
+          "article-346-",
+          "article-347-",
+          "article-348-",
+          "article-349-",
+          "article-350-",
+          "article-351-",
+          "article-352-",
+          "article-353-",
+          "article-354-",
+          "article-355-",
+          "article-356-",
+          "article-357-",
+          "article-358-",
+          "article-359-",
+          "article-360-",
+          "article-361-",
+          "article-362-",
+          "article-363-",
+          "article-364-",
+          "article-365-",
+          "article-366-",
+          "article-367-",
+          "article-368-",
+          "article-369-",
+          "article-370-",
+          "article-371-",
+          "article-372-",
+          "article-373-",
+          "article-374-",
+          "article-375-",
+          "article-376-",
+          "article-377-",
+          "article-378-",
+          "article-379-",
+          "article-380-",
+          "article-381-",
+          "article-382-",
+          "article-383-",
+          "article-384-",
+          "article-385-",
+          "article-386-",
+          "article-387-",
+          "article-388-",
+          "article-389-",
+          "article-390-",
+          "article-391-",
+          "article-392-",
+          "article-393-",
+          "article-394-",
+          "article-395-",
+          "article-396-",
+          "article-397-",
+          "article-398-",
+          "article-399-",
+          "article-400-",
+          "article-401-",
+          "article-402-",
+          "article-403-",
+          "article-404-",
+          "article-405-",
+          "article-406-",
+          "article-407-",
+          "article-408-",
+          "article-409-",
+          "article-410-",
+          "article-411-",
+          "article-412-",
+          "article-413-",
+          "article-414-",
+          "article-415-",
+          "article-416-",
+          "article-417-",
+          "article-418-",
+          "article-419-",
+          "article-420-",
+          "article-421-",
+          "article-422-",
+          "article-423-",
+          "article-424-",
+          "article-425-",
+          "article-426-",
+          "article-427-",
+          "article-428-",
+          "article-429-",
+          "article-430-",
+          "article-431-",
+          "article-432-",
+          "article-433-",
+          "article-434-",
+          "article-435-",
+          "article-436-",
+          "article-437-",
+          "article-438-",
+          "article-439-",
+          "article-440-",
+          "article-441-",
+          "article-442-",
+          "article-443-",
+          "article-444-",
+          "article-445-",
+          "article-446-",
+          "article-447-",
+          "article-448-",
+          "article-sont-pr-alablement---leur-r-alisation--autoris-es-par-l",
+          "article-449-",
+          "article-450-",
+          "article-451-",
+          "article-452-",
+          "article-453-",
+          "article-454-",
+          "article-455-",
+          "article-456-",
+          "article-457-",
+          "article-458-",
+          "article-459-",
+          "article-460-",
+          "article-461-",
+          "article-462-",
+          "article-463-",
+          "article-464-",
+          "article-465-",
+          "article-466-",
+          "article-467-",
+          "article-468-",
+          "article-469-",
+          "article-470-",
+          "article-471-",
+          "article-472-",
+          "article-473-",
+          "article-474-",
+          "article-475-",
+          "article-476-",
+          "article-477-",
+          "article-478-",
+          "article-479-",
+          "article-480-",
+          "article-481-",
+          "article-482-",
+          "article-483-",
+          "article-484-"
+        ]
+      },
+      {
+        "id": "article-327-",
+        "title": "Article 327 :",
+        "type": "article",
+        "level": 2,
+        "order": 456,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-328-",
+        "title": "Article 328 :",
+        "type": "article",
+        "level": 2,
+        "order": 457,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-329-",
+        "title": "Article 329 :",
+        "type": "article",
+        "level": 2,
+        "order": 459,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-330-",
+        "title": "Article 330 :",
+        "type": "article",
+        "level": 2,
+        "order": 460,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-331-",
+        "title": "Article 331 :",
+        "type": "article",
+        "level": 2,
+        "order": 461,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-332-",
+        "title": "Article 332 :",
+        "type": "article",
+        "level": 2,
+        "order": 462,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-333-",
+        "title": "Article 333 :",
+        "type": "article",
+        "level": 2,
+        "order": 463,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-334-",
+        "title": "Article 334 : Est obligatoirement ordonnée la confiscation des",
+        "type": "article",
+        "level": 2,
+        "order": 464,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-335-",
+        "title": "Article 335 :",
+        "type": "article",
+        "level": 2,
+        "order": 465,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-336-",
+        "title": "Article 336 :",
+        "type": "article",
+        "level": 2,
+        "order": 466,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-337-",
+        "title": "Article 337 :",
+        "type": "article",
+        "level": 2,
+        "order": 467,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-338-",
+        "title": "Article 338 :",
+        "type": "article",
+        "level": 2,
+        "order": 468,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-339-",
+        "title": "Article 339 :",
+        "type": "article",
+        "level": 2,
+        "order": 469,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-340-",
+        "title": "Article 340 :",
+        "type": "article",
+        "level": 2,
+        "order": 470,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-341-",
+        "title": "Article 341 :",
+        "type": "article",
+        "level": 2,
+        "order": 471,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-342-",
+        "title": "Article 342 :",
+        "type": "article",
+        "level": 2,
+        "order": 472,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-343-",
+        "title": "Article 343 :",
+        "type": "article",
+        "level": 2,
+        "order": 474,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-344-",
+        "title": "Article 344 :",
+        "type": "article",
+        "level": 2,
+        "order": 475,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-345-",
+        "title": "Article 345 :",
+        "type": "article",
+        "level": 2,
+        "order": 476,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-346-",
+        "title": "Article 346 :",
+        "type": "article",
+        "level": 2,
+        "order": 477,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-347-",
+        "title": "Article 347 :",
+        "type": "article",
+        "level": 2,
+        "order": 478,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-348-",
+        "title": "Article 348 :",
+        "type": "article",
+        "level": 2,
+        "order": 479,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-349-",
+        "title": "Article 349 :",
+        "type": "article",
+        "level": 2,
+        "order": 480,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-350-",
+        "title": "Article 350 :",
+        "type": "article",
+        "level": 2,
+        "order": 481,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-351-",
+        "title": "Article 351 :",
+        "type": "article",
+        "level": 2,
+        "order": 483,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-352-",
+        "title": "Article 352 :",
+        "type": "article",
+        "level": 2,
+        "order": 484,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-353-",
+        "title": "Article 353 :",
+        "type": "article",
+        "level": 2,
+        "order": 486,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-354-",
+        "title": "Article 354 : Les condamnations contre plusieurs personnes pour un",
+        "type": "article",
+        "level": 2,
+        "order": 487,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-355-",
+        "title": "Article 355 : Les propriétaires des marchandises de fraude, ceux qui",
+        "type": "article",
+        "level": 2,
+        "order": 488,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-356-",
+        "title": "Article 356 :",
+        "type": "article",
+        "level": 2,
+        "order": 490,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-357-",
+        "title": "Article 357 :",
+        "type": "article",
+        "level": 2,
+        "order": 491,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-358-",
+        "title": "Article 358 :",
+        "type": "article",
+        "level": 2,
+        "order": 494,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-359-",
+        "title": "Article 359 :",
+        "type": "article",
+        "level": 2,
+        "order": 495,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-360-",
+        "title": "Article 360 : Ceux qui constatent une infraction douanière ont le",
+        "type": "article",
+        "level": 2,
+        "order": 496,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-361-",
+        "title": "Article 361 :",
+        "type": "article",
+        "level": 2,
+        "order": 497,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-362-",
+        "title": "Article 362 :",
+        "type": "article",
+        "level": 2,
+        "order": 498,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-363-",
+        "title": "Article 363 :",
+        "type": "article",
+        "level": 2,
+        "order": 499,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-364-",
+        "title": "Article 364 :",
+        "type": "article",
+        "level": 2,
+        "order": 500,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-365-",
+        "title": "Article 365 :",
+        "type": "article",
+        "level": 2,
+        "order": 503,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-366-",
+        "title": "Article 366 :",
+        "type": "article",
+        "level": 2,
+        "order": 505,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-367-",
+        "title": "Article 367 :",
+        "type": "article",
+        "level": 2,
+        "order": 506,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-368-",
+        "title": "Article 368 :",
+        "type": "article",
+        "level": 2,
+        "order": 508,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-369-",
+        "title": "Article 369 :",
+        "type": "article",
+        "level": 2,
+        "order": 509,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-370-",
+        "title": "Article 370 :",
+        "type": "article",
+        "level": 2,
+        "order": 510,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-371-",
+        "title": "Article 371 :",
+        "type": "article",
+        "level": 2,
+        "order": 511,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-372-",
+        "title": "Article 372 :",
+        "type": "article",
+        "level": 2,
+        "order": 513,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-373-",
+        "title": "Article 373 : Les procès-verbaux de douane rédigés par au moins deux",
+        "type": "article",
+        "level": 2,
+        "order": 514,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-374-",
+        "title": "Article 374 :",
+        "type": "article",
+        "level": 2,
+        "order": 515,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-375-",
+        "title": "Article 375 :",
+        "type": "article",
+        "level": 2,
+        "order": 516,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-376-",
+        "title": "Article 376 :",
+        "type": "article",
+        "level": 2,
+        "order": 517,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-377-",
+        "title": "Article 377 :",
+        "type": "article",
+        "level": 2,
+        "order": 518,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-378-",
+        "title": "Article 378 :",
+        "type": "article",
+        "level": 2,
+        "order": 519,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-379-",
+        "title": "Article 379 :",
+        "type": "article",
+        "level": 2,
+        "order": 520,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-380-",
+        "title": "Article 380 :",
+        "type": "article",
+        "level": 2,
+        "order": 521,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-381-",
+        "title": "Article 381 :",
+        "type": "article",
+        "level": 2,
+        "order": 522,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-382-",
+        "title": "Article 382 :",
+        "type": "article",
+        "level": 2,
+        "order": 523,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-383-",
+        "title": "Article 383 :",
+        "type": "article",
+        "level": 2,
+        "order": 524,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-384-",
+        "title": "Article 384 :",
+        "type": "article",
+        "level": 2,
+        "order": 527,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-385-",
+        "title": "Article 385 :",
+        "type": "article",
+        "level": 2,
+        "order": 528,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-386-",
+        "title": "Article 386 :",
+        "type": "article",
+        "level": 2,
+        "order": 530,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-387-",
+        "title": "Article 387 :",
+        "type": "article",
+        "level": 2,
+        "order": 531,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-388-",
+        "title": "Article 388 :",
+        "type": "article",
+        "level": 2,
+        "order": 532,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-389-",
+        "title": "Article 389 :",
+        "type": "article",
+        "level": 2,
+        "order": 533,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-390-",
+        "title": "Article 390 :",
+        "type": "article",
+        "level": 2,
+        "order": 534,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-391-",
+        "title": "Article 391 :",
+        "type": "article",
+        "level": 2,
+        "order": 536,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-392-",
+        "title": "Article 392 :",
+        "type": "article",
+        "level": 2,
+        "order": 537,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-393-",
+        "title": "Article 393 :",
+        "type": "article",
+        "level": 2,
+        "order": 538,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-394-",
+        "title": "Article 394 :",
+        "type": "article",
+        "level": 2,
+        "order": 539,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-395-",
+        "title": "Article 395 :",
+        "type": "article",
+        "level": 2,
+        "order": 540,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-396-",
+        "title": "Article 396 :",
+        "type": "article",
+        "level": 2,
+        "order": 541,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-397-",
+        "title": "Article 397 :",
+        "type": "article",
+        "level": 2,
+        "order": 542,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-398-",
+        "title": "Article 398 :",
+        "type": "article",
+        "level": 2,
+        "order": 543,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-399-",
+        "title": "Article 399 :",
+        "type": "article",
+        "level": 2,
+        "order": 544,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-400-",
+        "title": "Article 400 :",
+        "type": "article",
+        "level": 2,
+        "order": 545,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-401-",
+        "title": "Article 401 :",
+        "type": "article",
+        "level": 2,
+        "order": 546,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-402-",
+        "title": "Article 402 :",
+        "type": "article",
+        "level": 2,
+        "order": 547,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-403-",
+        "title": "Article 403 :",
+        "type": "article",
+        "level": 2,
+        "order": 550,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-404-",
+        "title": "Article 404 :",
+        "type": "article",
+        "level": 2,
+        "order": 551,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-405-",
+        "title": "Article 405 :",
+        "type": "article",
+        "level": 2,
+        "order": 552,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-406-",
+        "title": "Article 406 :",
+        "type": "article",
+        "level": 2,
+        "order": 553,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-407-",
+        "title": "Article 407 :",
+        "type": "article",
+        "level": 2,
+        "order": 555,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-408-",
+        "title": "Article 408 :",
+        "type": "article",
+        "level": 2,
+        "order": 556,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-409-",
+        "title": "Article 409 :",
+        "type": "article",
+        "level": 2,
+        "order": 557,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-410-",
+        "title": "Article 410 :",
+        "type": "article",
+        "level": 2,
+        "order": 558,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-411-",
+        "title": "Article 411 :",
+        "type": "article",
+        "level": 2,
+        "order": 560,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-412-",
+        "title": "Article 412 :",
+        "type": "article",
+        "level": 2,
+        "order": 561,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-413-",
+        "title": "Article 413 :",
+        "type": "article",
+        "level": 2,
+        "order": 562,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-414-",
+        "title": "Article 414 :",
+        "type": "article",
+        "level": 2,
+        "order": 563,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-415-",
+        "title": "Article 415 :",
+        "type": "article",
+        "level": 2,
+        "order": 564,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-416-",
+        "title": "Article 416 :",
+        "type": "article",
+        "level": 2,
+        "order": 566,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-417-",
+        "title": "Article 417 :",
+        "type": "article",
+        "level": 2,
+        "order": 567,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-418-",
+        "title": "Article 418 :",
+        "type": "article",
+        "level": 2,
+        "order": 568,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-419-",
+        "title": "Article 419 :",
+        "type": "article",
+        "level": 2,
+        "order": 569,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-420-",
+        "title": "Article 420 :",
+        "type": "article",
+        "level": 2,
+        "order": 570,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-421-",
+        "title": "Article 421 :",
+        "type": "article",
+        "level": 2,
+        "order": 571,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-422-",
+        "title": "Article 422 :",
+        "type": "article",
+        "level": 2,
+        "order": 572,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-423-",
+        "title": "Article 423 :",
+        "type": "article",
+        "level": 2,
+        "order": 573,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-424-",
+        "title": "Article 424 :",
+        "type": "article",
+        "level": 2,
+        "order": 574,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-425-",
+        "title": "Article 425 :",
+        "type": "article",
+        "level": 2,
+        "order": 575,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-426-",
+        "title": "Article 426 :",
+        "type": "article",
+        "level": 2,
+        "order": 576,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-427-",
+        "title": "Article 427 :",
+        "type": "article",
+        "level": 2,
+        "order": 577,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-428-",
+        "title": "Article 428 :",
+        "type": "article",
+        "level": 2,
+        "order": 580,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-429-",
+        "title": "Article 429 :",
+        "type": "article",
+        "level": 2,
+        "order": 581,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-430-",
+        "title": "Article 430 :",
+        "type": "article",
+        "level": 2,
+        "order": 582,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-431-",
+        "title": "Article 431 :",
+        "type": "article",
+        "level": 2,
+        "order": 583,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-432-",
+        "title": "Article 432 :",
+        "type": "article",
+        "level": 2,
+        "order": 585,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-433-",
+        "title": "Article 433 :",
+        "type": "article",
+        "level": 2,
+        "order": 586,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-434-",
+        "title": "Article 434 :",
+        "type": "article",
+        "level": 2,
+        "order": 587,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-435-",
+        "title": "Article 435 :",
+        "type": "article",
+        "level": 2,
+        "order": 588,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-436-",
+        "title": "Article 436 :",
+        "type": "article",
+        "level": 2,
+        "order": 589,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-437-",
+        "title": "Article 437 :",
+        "type": "article",
+        "level": 2,
+        "order": 590,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-438-",
+        "title": "Article 438 :",
+        "type": "article",
+        "level": 2,
+        "order": 591,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-439-",
+        "title": "Article 439 :",
+        "type": "article",
+        "level": 2,
+        "order": 592,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-440-",
+        "title": "Article 440 :",
+        "type": "article",
+        "level": 2,
+        "order": 593,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-441-",
+        "title": "Article 441 :",
+        "type": "article",
+        "level": 2,
+        "order": 594,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-442-",
+        "title": "Article 442 :",
+        "type": "article",
+        "level": 2,
+        "order": 595,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-443-",
+        "title": "Article 443 :",
+        "type": "article",
+        "level": 2,
+        "order": 596,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-444-",
+        "title": "Article 444 :",
+        "type": "article",
+        "level": 2,
+        "order": 597,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-445-",
+        "title": "Article 445 :",
+        "type": "article",
+        "level": 2,
+        "order": 598,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-446-",
+        "title": "Article 446 :",
+        "type": "article",
+        "level": 2,
+        "order": 599,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-447-",
+        "title": "Article 447 :",
+        "type": "article",
+        "level": 2,
+        "order": 600,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-448-",
+        "title": "Article 448 :",
+        "type": "article",
+        "level": 2,
+        "order": 601,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-sont-pr-alablement---leur-r-alisation--autoris-es-par-l",
+        "title": "article sont préalablement à leur réalisation, autorisées par le",
+        "type": "article",
+        "level": 2,
+        "order": 602,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-449-",
+        "title": "Article 449 :",
+        "type": "article",
+        "level": 2,
+        "order": 603,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-450-",
+        "title": "Article 450 :",
+        "type": "article",
+        "level": 2,
+        "order": 604,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-451-",
+        "title": "Article 451 :",
+        "type": "article",
+        "level": 2,
+        "order": 605,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-452-",
+        "title": "Article 452 :",
+        "type": "article",
+        "level": 2,
+        "order": 607,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-453-",
+        "title": "Article 453 :",
+        "type": "article",
+        "level": 2,
+        "order": 611,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-454-",
+        "title": "Article 454 :",
+        "type": "article",
+        "level": 2,
+        "order": 613,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-455-",
+        "title": "Article 455 :",
+        "type": "article",
+        "level": 2,
+        "order": 614,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-456-",
+        "title": "Article 456 :",
+        "type": "article",
+        "level": 2,
+        "order": 615,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-457-",
+        "title": "Article 457 :",
+        "type": "article",
+        "level": 2,
+        "order": 616,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-458-",
+        "title": "Article 458 :",
+        "type": "article",
+        "level": 2,
+        "order": 618,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-459-",
+        "title": "Article 459 :",
+        "type": "article",
+        "level": 2,
+        "order": 619,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-460-",
+        "title": "Article 460 :",
+        "type": "article",
+        "level": 2,
+        "order": 620,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-461-",
+        "title": "Article 461 :",
+        "type": "article",
+        "level": 2,
+        "order": 621,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-462-",
+        "title": "Article 462 :",
+        "type": "article",
+        "level": 2,
+        "order": 623,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-463-",
+        "title": "Article 463 :",
+        "type": "article",
+        "level": 2,
+        "order": 624,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-464-",
+        "title": "Article 464 :",
+        "type": "article",
+        "level": 2,
+        "order": 625,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-465-",
+        "title": "Article 465 :",
+        "type": "article",
+        "level": 2,
+        "order": 626,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-466-",
+        "title": "Article 466 :",
+        "type": "article",
+        "level": 2,
+        "order": 627,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-467-",
+        "title": "Article 467 :",
+        "type": "article",
+        "level": 2,
+        "order": 629,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-468-",
+        "title": "Article 468 :",
+        "type": "article",
+        "level": 2,
+        "order": 630,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-469-",
+        "title": "Article 469 :",
+        "type": "article",
+        "level": 2,
+        "order": 631,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-470-",
+        "title": "Article 470 :",
+        "type": "article",
+        "level": 2,
+        "order": 632,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-471-",
+        "title": "Article 471 :",
+        "type": "article",
+        "level": 2,
+        "order": 633,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-472-",
+        "title": "Article 472 :",
+        "type": "article",
+        "level": 2,
+        "order": 634,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-473-",
+        "title": "Article 473 :",
+        "type": "article",
+        "level": 2,
+        "order": 635,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-474-",
+        "title": "Article 474 :",
+        "type": "article",
+        "level": 2,
+        "order": 636,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-475-",
+        "title": "Article 475 :",
+        "type": "article",
+        "level": 2,
+        "order": 639,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-476-",
+        "title": "Article 476 :",
+        "type": "article",
+        "level": 2,
+        "order": 641,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-477-",
+        "title": "Article 477 :",
+        "type": "article",
+        "level": 2,
+        "order": 643,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-478-",
+        "title": "Article 478 :",
+        "type": "article",
+        "level": 2,
+        "order": 644,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-479-",
+        "title": "Article 479 :",
+        "type": "article",
+        "level": 2,
+        "order": 647,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-480-",
+        "title": "Article 480 :",
+        "type": "article",
+        "level": 2,
+        "order": 649,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-481-",
+        "title": "Article 481 :",
+        "type": "article",
+        "level": 2,
+        "order": 650,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-482-",
+        "title": "Article 482 :",
+        "type": "article",
+        "level": 2,
+        "order": 651,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-483-",
+        "title": "Article 483 :",
+        "type": "article",
+        "level": 2,
+        "order": 653,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-484-",
+        "title": "Article 484 :",
+        "type": "article",
+        "level": 2,
+        "order": 655,
+        "path": [
+          "titre-12"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-13",
+        "title": "TITRE 13 : DISPOSITIONS DIVERSES ET FINALES",
+        "type": "titre",
+        "level": 2,
+        "order": 656,
+        "path": [
+          "titre-13"
+        ],
+        "children": [
+          "article-485-",
+          "article-486-",
+          "article-487-",
+          "article-488-",
+          "article-489-"
+        ]
+      },
+      {
+        "id": "article-485-",
+        "title": "Article 485 :",
+        "type": "article",
+        "level": 2,
+        "order": 658,
+        "path": [
+          "titre-13"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-486-",
+        "title": "Article 486 :",
+        "type": "article",
+        "level": 2,
+        "order": 659,
+        "path": [
+          "titre-13"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-487-",
+        "title": "Article 487 :",
+        "type": "article",
+        "level": 2,
+        "order": 660,
+        "path": [
+          "titre-13"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-488-",
+        "title": "Article 488 :",
+        "type": "article",
+        "level": 2,
+        "order": 661,
+        "path": [
+          "titre-13"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-489-",
+        "title": "Article 489 :",
+        "type": "article",
+        "level": 2,
+        "order": 664,
+        "path": [
+          "titre-13"
+        ],
+        "children": []
+      }
+    ],
+    "totalArticles": 491
+  },
+  "source": "nationale"
+}

@@ -1,0 +1,2 @@
+Sont  enregistrées  au  droit  fixe  de  cinq  mille  (5 000)  francs  CFA,  les mutations à titre onéreux de propriété ou d’usufruit d’aéronefs ou de bateaux servant à la navigation maritime ou intérieure.
+Toutefois,  les  mutations  à  titre  onéreux  de  yachts  ou  bateaux  de  plaisance intervenues entre particuliers sont soumises aux droits d’enregistrement au taux de 1% avec un minimum de cinq mille (5 000) francs CFA.

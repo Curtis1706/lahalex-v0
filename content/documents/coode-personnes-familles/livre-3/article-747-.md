@@ -1,0 +1,1 @@
+Au cas d’impossibilité de déterminer la quote-part de chacun des héritiers, le paiement des dettes et charges de la succession peut être réclamé à chacun d’eux pour une part égale.

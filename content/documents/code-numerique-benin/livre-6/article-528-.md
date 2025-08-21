@@ -1,0 +1,3 @@
+Eléments pour fabriquer des engins de destruction
+Le fait de diffuser, au moyen d’un ou sur un réseau de communication électronique ou un système informatique, sauf à destination des professionnels, des procédés permettant la fabrication d'engins de destruction élaborés à partir de poudre ou de substances explosives, de matières nucléaires, biologiques ou chimiques, ou à partir de tout autre produit destiné à l'usage domestique, industriel ou agricole, est puni de dix (10) ans d'emprisonnement et de vingt-cinq millions (25 000 000) de francs CFA d'amende.
+Lorsque ces procédés ont permis la commission de meurtre ou d’assassinat, la peine est de vingt (20) ans d’emprisonnement et d’une amende de cinquante millions (50 000 000) à cent millions (100 000 000) de francs CFA.

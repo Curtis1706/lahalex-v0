@@ -1,0 +1,2 @@
+La publicité est différente, de par sa nature, de l’information.
+Toute publicité portant sur une information ou sur une opinion de nature à inspirer ou entretenir des préjugés ethniques, anti-raciaux ou confessionnels est interdite.

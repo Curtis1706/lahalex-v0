@@ -1,0 +1,2 @@
+Contrefaçon de dessins et modèles
+Constitue une atteinte à la propriété intellectuelle, le fait, sans autorisation de l’auteur ou de ses ayants droit de reproduire, de représenter ou de mettre à la disposition du public, un dessin ou un modèle protégé par le droit d’auteur ou un droit voisin au moyen d’un ou sur un réseau de communication électronique ou un système informatique.

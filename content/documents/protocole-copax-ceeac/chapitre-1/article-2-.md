@@ -1,0 +1,3 @@
+CREATION
+1. Il est institué au sein de la CEEAC un Mécanisme de coopération et de décision en matière de défense commune, de promotion, de maintien et de consolidation de la paix, de sécurité et de stabilité de la Communauté dénommée Conseil de Paix et de Sécurité de l’Afrique Centrale (COPAX).
+1. Le COPAX constitue un système d’alerte et de sécurité collective visant à permettre une réaction préventive, rapide et efficace aux situations de crises et conflits en Afrique centrale.

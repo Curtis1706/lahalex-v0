@@ -1,0 +1,1 @@
+Outre les recettes visées aux articles 404 à 409, les recettes du budget de l'établissement public de coopération intercommunale comprennent la contribution des communes membres.

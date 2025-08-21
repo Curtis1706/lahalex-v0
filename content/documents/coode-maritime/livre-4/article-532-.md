@@ -1,0 +1,1 @@
+Les risques assurés demeurent couverts dans les mêmes conditions, même en cas de relâche forcée, de changement forcé de route, de voyage, de navire ou de changements décidés par le capitaine en dehors de l’armateur et de l’assuré.

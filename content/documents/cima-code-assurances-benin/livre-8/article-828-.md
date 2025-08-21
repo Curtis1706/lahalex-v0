@@ -1,0 +1,2 @@
+_(Règlement 2015-02)_ Dirigeant d’entreprise, notion
+Pour l’application des pénalités énumérées au présent règlement sont considérés comme dirigeants d’entreprise le président directeur général, le président, les administrateurs, les directeurs généraux, les directeurs généraux adjoints, les directeurs, et tout dirigeant de fait d’une entreprise d’un État membre, et dans le cas d’une entreprise étrangère, le mandataire général.

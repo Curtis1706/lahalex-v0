@@ -1,0 +1,2 @@
+Si l’affaire ne peut pas être jugée au siège du tribunal ou de la cour d’appel, le dossier de la procédure est renvoyé par le procureur général au greffe de la juridiction où se tiendront les audiences.
+Les pièces à conviction sont également transportées au greffe de cette juridiction.

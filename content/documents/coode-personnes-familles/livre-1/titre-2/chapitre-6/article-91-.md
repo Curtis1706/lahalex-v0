@@ -1,0 +1,1 @@
+En cas de perte d'un livret de famille, les époux peuvent en demander le rétablissement. Le nouveau livret portera la mention « duplicata ».

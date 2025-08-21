@@ -1,0 +1,4 @@
+Même en l’absence de tout mandat spécial, l’acconier a le devoir de prendre, à la remise sous palan, toutes réserves contre le transporteur maritime si les marchandises ne répondent pas dans leur état ou leur quantité apparente aux énonciations du connaissement.
+2 doit en conserver la preuve écrite, quelle qu’en soit la forme, à la disposition du réceptionnaire, du chargeur ou du transporteur maritime.
+En l’absence de ces réserves, l’acconier est réputé avoir reçu les marchandises dans l’état et la quantité énoncés au connaissement.
+Mais cette présomption ne peut être invoquée que par le réceptionnaire.

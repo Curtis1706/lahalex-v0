@@ -1,0 +1,1 @@
+Le juge tient compte des accords passés entre les époux et des renseignements qui ont été recueillis dans l’enquête sociale prévue à l'article précédent.

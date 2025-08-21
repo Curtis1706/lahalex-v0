@@ -1,0 +1,3 @@
+Transmissions radioélectriques interdites
+Toute personne qui effectue des transmissions radioélectriques en utilisant sciemment un indicatif d’appel de la série internationale attribué à une station de l’Etat ou à celle de ses démembrements ou à une station privée autorisée, est punie d’un emprisonnement de quatre-vingt-dix (90) jours à douze (12) mois et d’une amende de cinq cent mille (500 000) francs CFA à deux millions (2 000 000) de francs CFA ou de l’une de ces deux peines seulement.
+\

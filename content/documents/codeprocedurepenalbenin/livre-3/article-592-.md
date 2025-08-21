@@ -1,0 +1,2 @@
+Tout arrêt qui a rejeté la demande en cassation ou a prononcé la cassation sans renvoi est délivré dans les cinq (05) jours au procureur général près la cour suprême par extrait signé du greffier, lequel extrait est adressé au procureur général près la cour d’appel.
+Il est notifié aux parties à la diligence du procureur général, par lettre recommandée avec demande d’avis de réception.

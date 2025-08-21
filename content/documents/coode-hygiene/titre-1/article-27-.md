@@ -1,0 +1,1 @@
+Il est interdit l'accès des animaux de compagnie, aux piscines et aux baignades, même accompagnés, à l'exception des animaux dressés pour le sauvetage.

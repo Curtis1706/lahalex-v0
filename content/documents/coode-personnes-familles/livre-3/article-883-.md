@@ -1,0 +1,1 @@
+Lorsque le testateur par un empêchement survenu depuis la signature du testament ne peut signer l’acte de suscription, il sera fait mention de la déclaration qu'il en aura faite et du motif qu’il en aura donné.

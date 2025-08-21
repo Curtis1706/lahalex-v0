@@ -1,0 +1,6 @@
+Le condamné doit, sauf le cas de prescription, justifier du paiement des frais de justice, de l’amende et des dommages-intérêts ou de la remise qui lui en a été faite.
+A défaut de cette justification, il doit établir qu’il a subi le temps de la contrainte par corps déterminé par la loi.
+S’il est condamné pour banqueroute frauduleuse, il doit justifier du paiement du passif de la faillite en capital, intérêts et frais ou de la remise qui lui en a été faite.
+Néanmoins, si le condamné justifie qu’il est hors d’état de se libérer des frais de justice, il peut être réhabilité même dans le cas où ces frais n’auraient pas été payés ou ne l’auraient été qu’en partie.
+En cas de condamnation solidaire, la cour fixe la part des frais de justice, des dommages-intérêts ou du passif qui doit être payée par le demandeur.
+Si la partie lésée ne peut être retrouvée ou si elle refuse de recevoir la somme due, celle-ci est versée à la caisse des dépôts et consignations ou à l’organisme en tenant lieu, comme en matière d’offres de paiement et de consignation. Si la partie civile ne se présente pas dans un délai de deux (02) ans pour se faire attribuer la somme consignée, celle-ci est restituée au déposant sur sa simple demande.

@@ -1,0 +1,2 @@
+Recours contre les décisions de l’Autorité de régulation
+Les décisions rendues par l’Autorité de régulation en application des articles 239 et 240 du présent code peuvent faire l’objet d’un recours devant la chambre administrative de la Cour Suprême dans un délai de trente (30) jours suivant leur notification aux intéressés.

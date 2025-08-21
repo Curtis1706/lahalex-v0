@@ -1,0 +1,1 @@
+Les livres de la comptabilité budgétaire comprennent le journal des recettes et le journal des dépenses.

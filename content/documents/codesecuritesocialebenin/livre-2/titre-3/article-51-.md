@@ -1,0 +1,1 @@
+L’action sanitaire et sociale est constituée essentiellement par les prestations en nature que la Caisse sert à ses assurés dans ses centres médicosociaux.

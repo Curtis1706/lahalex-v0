@@ -1,0 +1,2 @@
+Le divorce prononcé aux torts exclusifs de l’un des époux entraîne pour lui la perte de tous les avantages que l’autre époux lui avait faits soit, à l’occasion du mariage, soit depuis sa célébration.
+A l’inverse, l'époux qui a obtenu le divorce conserve tous les avantages qui lui avaient été consentis par son conjoint.

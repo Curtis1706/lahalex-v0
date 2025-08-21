@@ -1,0 +1,1 @@
+Si l’héritier est frappé d'incapacité, son représentant légal exerce les fonctions de liquidateur.

@@ -1,0 +1,17 @@
+{
+  "id": "article-17-",
+  "title": "Article 17 : Si la valeur en douane des marchandises importées ne",
+  "numero": "17 ",
+  "document": "code-douane",
+  "path": [
+    "titre-1",
+    "chapitre-5",
+    "section-3",
+    "paragraphe-1"
+  ],
+  "navigation": {
+    "parent": "paragraphe-1",
+    "previous": "article-16-",
+    "next": "article-et-de-la-m-thode-utilis-e-pour-y-parvenir"
+  }
+}

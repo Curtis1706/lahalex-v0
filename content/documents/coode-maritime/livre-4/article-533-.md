@@ -1,0 +1,1 @@
+En cas de changement volontaire de voyage ou de route, l’assureur demeure responsable des sinistres, s’il est prouvé qu’ils sont survenus sur la partie de la route convenue.

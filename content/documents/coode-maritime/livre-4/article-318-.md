@@ -1,0 +1,1 @@
+Les actions nées de l’affrètement au voyage se prescrivent par un (01) an. Le délai court depuis le débarquement de la marchandise ou depuis l’événement qui a mis fin au voyage.

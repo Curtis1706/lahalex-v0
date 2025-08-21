@@ -1,0 +1,2 @@
+Les faux réprimés au présent paragraphe d’où il pourrait résulter soit lésion envers les tiers, soit préjudice envers le Trésor Public, seront punis, selon qu’il y a lieu, d’après les dispositions des paragraphes 3 et 4 de la présente section.
+PARAGRAPHES 6 : DES DISPOSITIONS COMMUNES

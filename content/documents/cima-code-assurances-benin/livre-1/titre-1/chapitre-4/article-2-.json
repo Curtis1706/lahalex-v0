@@ -1,0 +1,16 @@
+{
+  "id": "article-2-",
+  "title": "Article 2 : _Dispositions transitoires_",
+  "numero": "2 ",
+  "document": "cima-code-assurances-benin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-4"
+  ],
+  "navigation": {
+    "parent": "chapitre-4",
+    "previous": "article-28-",
+    "next": "article-29-"
+  }
+}

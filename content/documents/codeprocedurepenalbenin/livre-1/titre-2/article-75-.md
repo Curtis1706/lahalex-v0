@@ -1,0 +1,1 @@
+Les dispositions prévues à l’article 78 alinéa 3 sont applicables en matière de crime et délit flagrant.

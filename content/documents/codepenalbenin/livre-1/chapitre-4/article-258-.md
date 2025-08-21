@@ -1,0 +1,3 @@
+La destruction, l’enlèvement frauduleux de l’urne contenant les suffrages émis, seront punis d’un emprisonnement de un (01) an à cinq (05) ans et d’une amende de deux millions (2.000.000) à cinq millions (5.000.000) de francs CFA.
+Si cette destruction ou cet enlèvement a été effectué en réunion, avec violence, la peine est d’un emprisonnement de deux (02) ans à cinq (05) ans, la réclusion et/ou une peine d’inéligibilité de cinq (05) ans à dix (10) ans.
+Est puni des mêmes peines, la destruction ou l’enlèvement des procès-verbaux ou de tous documents constatant les résultats du scrutin, quand cette destruction ou cet enlèvement a pour but ou pour effet de fausser ces résultats ou de rendre impossible leur proclamation.

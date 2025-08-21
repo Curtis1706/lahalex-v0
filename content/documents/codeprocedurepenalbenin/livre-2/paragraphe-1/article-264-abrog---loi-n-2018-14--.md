@@ -1,0 +1,1 @@
+Peuvent seuls être jurés, les citoyens des deux (02) sexes, âgés de plus de quarante (40) ans, sachant parler, lire et écrire en français et jouissant de leurs droits politiques, civils, de famille et d’une bonne santé physique et mentale.

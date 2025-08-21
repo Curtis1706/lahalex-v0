@@ -1,0 +1,6 @@
+La citation est délivrée à la requête du ministère public, de la partie civile et de toute administration qui y est légalement habilitée. L’huissier doit déférer sans délai à leur réquisition.
+La citation énonce le fait poursuivi et vise le texte de la loi qui le réprime.
+Elle indique le tribunal saisi, le lieu, l’heure et la date de l’audience, et précise la qualité de prévenu, de civilement responsable, de garant ou de témoin de la personne citée.
+Si elle est délivrée à la requête de la partie civile, elle mentionne les nom, prénoms, profession et domicile réel ou élu de celle-ci.
+La citation délivrée à un témoin doit en outre mentionner que la non comparution, le refus de témoigner et le faux témoignage sont punis par la loi.
+L’huissier qui délaisse citation ainsi qu’il est dit à l’alinéa 1<sup>er</sup> ci-dessus est tenu sous peine d’amende de cinquante mille (50 000) francs prononcée par le tribunal, d’en adresser la cédule au procureur de la République dans un délai de quinze (15) jours.

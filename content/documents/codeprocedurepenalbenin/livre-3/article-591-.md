@@ -1,0 +1,3 @@
+L’expédition de tout arrêt qui a admis la demande en cassation et ordonné le renvoi, est délivrée au procureur général près la cour suprême dans les cinq (05) jours. Cette expédition est adressée avec le dossier de la procédure au procureur général près la cour d’appel.
+L’arrêt de la cour suprême est notifié aux parties, à la diligence du procureur général, par lettre recommandée avec avis de réception.
+Dans le cas prévu à l’article 590du présent code, l’expédition de l’arrêt de la cour suprême et le dossier de la procédure sont retransmis par le procureur général près la cour d’appel au magistrat chargé du ministère public près le tribunal de renvoi.

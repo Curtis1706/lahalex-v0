@@ -1,0 +1,14 @@
+{
+  "id": "article-232-",
+  "title": "Article 232 :",
+  "numero": "232 ",
+  "document": "coode-maritime",
+  "path": [
+    "livre-3"
+  ],
+  "navigation": {
+    "parent": "livre-3",
+    "previous": "article-231-",
+    "next": "article-233-"
+  }
+}

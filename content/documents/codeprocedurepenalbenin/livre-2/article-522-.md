@@ -1,0 +1,3 @@
+L’affaire est dévolue à la cour d’appel dans la limite fixée par l’acte d’appel et par la qualité de l’appelant ainsi qu’il est prévu à l’article 532 du présent code.
+Tout appelant peut se désister de son appel.
+L’appel de l’assureur produit effet à l’égard de l’assuré en ce qui concerne l’action civile. Il est, dans un délai de trois (03) jours, notifié à l’assuré par lettre recommandée avec demande d’avis de réception adressée par l’assureur.

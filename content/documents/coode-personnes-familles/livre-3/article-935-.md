@@ -1,0 +1,1 @@
+Les héritiers du testateur, ou autres débiteurs d’un legs, sont personnellement tenus de l’acquitter, chacun au prorata de la part et portion dont il profite dans la succession.

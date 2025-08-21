@@ -1,0 +1,2 @@
+Les créances privilégiées énumérées à l’article précédent sont préférées à toute hypothèque quel que soit le rang d’inscription de celle-ci.
+Les créanciers peuvent, en outre, invoquer les privilèges du droit commun, mais les créances ainsi privilégiées ne prennent rang qu’après les hypothèques, quel que soit le rang d’inscription de celles-ci.

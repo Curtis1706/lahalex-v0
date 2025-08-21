@@ -1,0 +1,3 @@
+Article 14 : La pollution des ressources en eau est interdite.
+Lorsque l’activité des personnes physiques ou morales est de nature à provoquer ou aggraver la pollution de l’eau ou la dégradation du milieu aquatique, celles-ci contribuent au financement des mesures que l’Etat et les collectivités territoriales doivent prendre pour lutter contre cette pollution, en compenser les effets, et pour assurer la conservation des écosystèmes aquatiques.
+Le niveau de cette contribution est déterminé par les textes d’application de la présente loi.

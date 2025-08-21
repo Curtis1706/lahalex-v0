@@ -1,0 +1,5 @@
+1) Sauf sursis accordé dans les conditions prévues par le présent code, le receveur des impôts doit déclencher les poursuites et décerner contrainte contre les contribuables retardataires, pour avoir paiement des sommes exigibles.
+2) Aucune autorité publique ou administrative ne peut faire suspendre ou différer le
+recouvrement des impôts, taxes et autres créances ou en entraver le déroulement normal sous peine d’engager sa responsabilité personnelle pécuniaire.
+3) Les  comptables  chargés  du  recouvrement  qui  ont  laissé  passer  le  délai  de
+prescription sans engager d’actions en recouvrement ou qui après les avoir commencées, les  ont  abandonnées  jusqu’à  prescription  des  créances  qui  leurs  sont  confiées  pour recouvrement,  sont  déchus  de  leurs  droits  contre  les  redevables,  mais  demeurent responsables vis-à-vis des organismes publics concernés.

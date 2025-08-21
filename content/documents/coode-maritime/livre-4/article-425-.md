@@ -1,0 +1,1 @@
+Le consignataire de la cargaison est responsable des avaries et des pertes subies par la marchandise entre ses mains, sauf preuve par lui que le dommage ne lui est pas imputable.

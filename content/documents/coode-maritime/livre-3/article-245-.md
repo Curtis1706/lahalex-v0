@@ -1,0 +1,1 @@
+Dans les cas visés à l’article 243 ci-dessus et sauf péril imminent, le capitaine ne peut décharger aucune marchandise avant d’avoir fait son rapport et répondu aux mesures d’instructions et de vérifications ordonnées soit par le directeur de la marine marchande, soit par l’autorité consulaire, ou par l’autorité judiciaire.

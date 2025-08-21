@@ -1,0 +1,1 @@
+Le juge des enfants, sauf dispositions spéciales de la loi, procède à l’instruction conformément aux règles édictées par le présent code.

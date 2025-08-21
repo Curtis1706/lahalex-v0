@@ -1,0 +1,1 @@
+L'Etat béninois peut accorder, à titre exceptionnel, des dérogations aux dispositions des articles 14 et 15 de la présente loi, sous réserve du respect de la réglementation en vigueur en République du Bénin, par arrêté du ministre chargé de l'aviation civile, après avis de l'organisme national en charge de l'aviation civile.

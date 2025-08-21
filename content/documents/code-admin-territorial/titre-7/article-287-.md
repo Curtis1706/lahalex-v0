@@ -1,0 +1,2 @@
+L'initiative de la création de l'établissement public de coopération intercommunale est prise par plusieurs conseils communaux. Le cas échéant, les conseils communaux prennent des délibérations concordantes, sur l'espace intercommunal et les statuts du futur regroupement à la majorité des deux tiers (2/3) au moins des membres des conseils communaux intéressés.
+La création de l’établissement public de coopération intercommunale est approuvée par décret pris en Conseil des ministres.

@@ -1,0 +1,1 @@
+Sont exonérées des droits prévus ci-dessus les cartes grises afférentes aux véhicules appartenant à l’État béninois.

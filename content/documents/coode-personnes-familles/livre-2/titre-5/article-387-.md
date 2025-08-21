@@ -1,0 +1,1 @@
+Dans le mariage, l'obligation alimentaire entre époux et des époux envers les enfants fait partie des charges du mariage et s’exécute comme obligation d’entretien dans les conditions prévues au titre des régimes matrimoniaux.

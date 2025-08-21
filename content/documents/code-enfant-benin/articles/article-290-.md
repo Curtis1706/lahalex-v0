@@ -1,0 +1,2 @@
+Article 290 : Autorité responsable de la rééducation de l'enfant
+La rééducation des enfants placés sous le régime de la liberté surveillée est réglée sous l’autorité du président du tribunal pour enfant qui coordonne les activités des assistants sociaux, des délégués à la protection de l’enfance et de toutes autres personnes.

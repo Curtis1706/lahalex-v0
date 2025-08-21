@@ -1,0 +1,15 @@
+{
+  "id": "article-43-",
+  "title": "Article 43 : Le rejet d'une candidature ou d'une liste de candidatures est motivé.",
+  "numero": "43 ",
+  "document": "code-electoral",
+  "path": [
+    "livre-1",
+    "titre-3"
+  ],
+  "navigation": {
+    "parent": "titre-3",
+    "previous": "article-42-",
+    "next": "article-44-"
+  }
+}

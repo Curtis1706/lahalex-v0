@@ -1,0 +1,1 @@
+Le secrétaire administratif d'arrondissement est nommé par le secrétaire exécutif, après avis de non objection du conseil de supervision, parmi les agents fonctionnaires ou contractuels de la commune. Il peut être remplacé à tout moment pour les nécessités du service par le secrétaire exécutif qui en rend compte au conseil de supervision.

@@ -1,0 +1,3 @@
+Pendant le transit consécutif à la décision du déroutement, le commandant du bâtiment béninois peut faire prendre à l'égard des personnes contrôlées, les mesures d'entrave nécessaires pour assurer la préservation du navire et de sa cargaison, et la sécurité des personnes se trouvant à son bord.
+Le commandant avise sans délai le Préfet Maritime qui en informe sans désemparer le procureur compétent.
+Le délai de garde à vue à l'égard de l'équipage lorsqu'une telle mesure est prise ne commence à courir qu'à l’arrivée à quai.

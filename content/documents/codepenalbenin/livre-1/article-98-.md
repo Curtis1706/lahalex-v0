@@ -1,0 +1,2 @@
+En matière criminelle ou correctionnelle, le sursis simple ne peut être ordonné à l’égard d’une personne physique que lorsque le prévenu n’a pas été condamné, au cours des cinq (05) ans précédant les faits, pour crime ou délit de droit commun, à une peine de réclusion ou d’emprisonnement.
+Le sursis ne peut être ordonné à l’égard d’une personne morale que lorsque celle-ci n’a pas été condamnée, au cours des cinq (05) ans précédant les faits, pour un crime ou un délit de droit commun, à une peine d’interdiction.

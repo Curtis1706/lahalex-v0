@@ -1,0 +1,1 @@
+Le caractère illicite d’un prix est indépendant de l’existence d’un profit.

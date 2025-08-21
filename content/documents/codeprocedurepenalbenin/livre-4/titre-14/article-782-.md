@@ -1,0 +1,1 @@
+Le transit par le territoire béninois d’une personne transférée à la cour par un autre Etat est autorisé conformément à l’article 89 du statut par les autorités compétentes en vertu de l’article 87 du statut.

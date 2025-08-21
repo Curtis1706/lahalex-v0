@@ -1,0 +1,1 @@
+Dans la vente au débarquement, la délivrance a lieu au port d’arrivée, à quai le long du bord, ou à bord, sous hangar, sur wagon ou camion.

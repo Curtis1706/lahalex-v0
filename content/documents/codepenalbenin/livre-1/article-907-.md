@@ -1,0 +1,1 @@
+L’incinération en pleine ville et en plein air des ordures ménagères ou tout autre déchet combustible est interdite.

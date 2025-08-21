@@ -1,0 +1,1 @@
+Le montant de l’allocation d’incapacité est égal à cinq fois le montant annuel de la rente fictive correspondant au degré d’incapacité.

@@ -1,0 +1,11 @@
+Agrément de Commissaires aux Comptes
+Toute entreprise agréée en application des dispositions de l’article 326 est tenue de soumettre à l’approbation de la Commission, préalablement à sa réalisation, toute nomination ou renouvellement du mandat de Commissaires aux Comptes.
+Ces Commissaires aux Comptes doivent obligatoirement figurer sur une liste des experts agréés auprès de la cour d’Appel de l’État concerné ou par tout autre organisme habilité.
+A cet effet, la société d’assurance doit adresser à la Commission, une demande d’approbation des Commissaires aux Comptes qu’elle se propose de nommer ou de renouveler. En cas de renouvellement, cette demande est accompagnée du procès-verbal de la réunion de l’Assemblée Générale des actionnaires ayant choisi les intéressés.
+En cas de pluralité de Commissaires aux Comptes, les personnes proposées ne peuvent appartenir au même cabinet ou à des structures ayant des liens entre elles.
+Les autorités disposent d’un délai de trois mois pour se prononcer. L’absence de réponse dans le délai imparti vaut acceptation.
+Si elle l’estime nécessaire, la Commission peut demander des informations complémentaires à celles prévues à l’article 328-4 h).
+En cas d’avis défavorable, la décision est motivée. Elle peut notamment être fondée sur le fait que le Commissaire aux Comptes proposé, ou la personne physique qui est pressentie pour exercer la mission, ne présente pas toutes les garanties d’expérience, de compétence ou d’indépendance nécessaires à l’exercice de ces fonctions.
+Nul ne peut exercer les fonctions de Commissaire aux Comptes d’une société d’assurances, sans que sa désignation par ladite société ait reçu l’approbation préalable de la Commission. La procédure d’approbation est arrêtée par la Commission. L’approbation peut être rapportée par ladite Commission.
+Les sociétés d’assurances doivent s’assurer que l’approbation de la Commission a été obtenue avant l’exercice des fonctions visées. Dans le cas contraire, elles commettent une infraction à la réglementation des assurances.
+Les sociétés d’assurances en activité doivent transmettre dans un délai de douze mois à compter de la date d’entrée en vigueur du règlement n°0002/CIMA/PCMA/PCE/2011 du 11 avril 2011, les informations visées ci-dessus à la Commission en vue de l’approbation de leurs Commissaires aux Comptes.

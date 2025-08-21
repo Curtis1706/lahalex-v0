@@ -1,0 +1,1 @@
+Il y a séparation de corps, lorsque le relâchement du lien conjugal entraîne la dispense du devoir de cohabitation des époux.

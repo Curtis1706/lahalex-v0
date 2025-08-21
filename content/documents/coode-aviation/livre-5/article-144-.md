@@ -1,0 +1,1 @@
+L'établissement et le maintien du programme national de sécurité sont assurés par le comité de coordination de haut niveau du programme, composé des responsables des autorités aéronautiques concernées ayant des attributions liées à la mise en œuvre et au maintien du programme.

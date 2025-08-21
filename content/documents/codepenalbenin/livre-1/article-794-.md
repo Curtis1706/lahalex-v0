@@ -1,0 +1,8 @@
+Sont punie des peines de la banqueroute simple, toutes les personnes physiques dirigeantes de personnes morales de droit privé ou de toute entreprise publique ou ayant la forme d’une personne morale de droit privé qui en cette qualité et de mauvaise foi, ont :
+1. utilisé ou consommé des sommes appartenant à la personne morale en faisant des opérations de pur hasard ou des opérations fictives ;
+2. dans l’intention de retarder la constatation de la cessation des paiements de la personne morale, fait des achats en vue d’une revente en dessous du cours ou, dans la même intention, employé des moyens ruineux pour se procurer des fonds ;
+3. après cessation des paiements de la personne morale, payé ou fait payer un créancier au préjudice de la masse ;
+4. fait contracter par la personne morale, pour le compte d’autrui, sans qu’elle reçoive de valeurs en échange, des engagements jugés trop importants eu égard à sa situation lorsque ceux-ci ont été contractés ;
+5. tenu ou fait tenir ou laissé tenir irrégulièrement ou incomplètement la comptabilité de la personne morale dans les conditions prévues au point 4 ci-dessus ;
+6. omis de faire au greffe de la juridiction compétente, dans le délai de trente (30) jours, la déclaration de l’état de cessation des paiements de la personne morale ;
+7. en vue de soustraire tout ou partie de leur patrimoine aux poursuites de la personne morale en état de cessation des paiements ou à celles des associés ou des créanciers de la personne morale, détourné ou dissimulé, tenté de détourner ou de dissimuler une partie de leurs biens ou qui se sont frauduleusement reconnus débiteurs de sommes qu’ils ne devaient pas.

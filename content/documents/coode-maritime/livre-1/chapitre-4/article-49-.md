@@ -1,0 +1,3 @@
+Lorsque le propriétaire d’une épave est inconnu ou lorsque, dûment mis en demeure, directement ou en la personne de son représentant, il refuse ou néglige de procéder aux opérations de sauvetage, de récupération, d’enlèvement, de destruction ou à celles destinées à supprimer les dangers que présente ladite épave, le directeur de la marine marchande peut intervenir d’office, aux frais et risques du propriétaire.
+Dans le cas prévu à l’alinéa précédent ou lorsque l’existence d’une épave remonte à plus de cinq (05) ans, la déchéance des droits du propriétaire peut être prononcée par décision de l’autorité maritime compétente.
+Lorsque le propriétaire d’une épave ne l’a pas revendiquée dans les délais fixés, elle peut être vendue au profit de l’Etat.

@@ -1,0 +1,2 @@
+L’ordonnance d’arbitrage est transmise avec le procès-verbal au procureur de la République, lequel a la faculté de s’y opposer en citant le contrevenant devant le tribunal dans les formes ordinaires.
+S’il ne s’oppose pas à l’ordonnance, le procureur de la République par les soins du commissaire de police ou du commandant de la brigade de gendarmerie ou tout autre agent à cette fin spécialement désigné, la notifie au contrevenant, lequel est libre d’acquiescer ou de faire opposition, le tout par déclaration à l’agent chargé de la notification.

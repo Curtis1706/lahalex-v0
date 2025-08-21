@@ -1,0 +1,16 @@
+{
+  "id": "article-165-",
+  "title": "Article 165 : Compétences en matière de droit de la concurrence",
+  "numero": "165 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "chapitre-5"
+  ],
+  "navigation": {
+    "parent": "chapitre-5",
+    "previous": "article-164-",
+    "next": "article-166-"
+  }
+}

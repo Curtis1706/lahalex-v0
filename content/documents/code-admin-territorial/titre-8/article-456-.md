@@ -1,0 +1,1 @@
+Le comptable de la commune ou de l'établissement public de coopération intercommunale et le receveur des impôts sont tenus, chacun en ce qui le concerne, sous leur responsabilité personnelle et pécuniaire, d'engager, contre les débiteurs en retard, la procédure de recouvrement forcé des créances, dans les conditions prévues par les lois et règlements.

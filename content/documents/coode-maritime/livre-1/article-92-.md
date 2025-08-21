@@ -1,0 +1,1 @@
+Aucune mutation de propriété, aucun titre de nationalité, aucun certificat de radiation des matricules ne peut être octroyé, sauf production d’un contrat passé dans les conditions prescrites par les dispositions de l’article 91 du présent code.

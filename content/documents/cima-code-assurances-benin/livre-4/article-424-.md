@@ -1,0 +1,3 @@
+_(Règlement n°2014-01)_ Compte rendu annuel, envoi
+Les entreprises doivent adresser le compte rendu annuel mentionné à l’article 423 au Ministre en charge des assurances dans l’Etat membre en cinq exemplaires, dans les trente jours qui suivent l’approbation des comptes par l’assemblée générale et au plus tard le 1er juin de chaque année.
+Elles doivent adresser les mêmes documents dans les mêmes conditions à la Commission de contrôle des assurances.

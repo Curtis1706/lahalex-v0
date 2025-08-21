@@ -1,0 +1,1 @@
+Les états de frais dressés par les huissiers, greffiers et notaires doivent faire ressortir distinctement dans une colonne spéciale et pour chaque acte, le montant des droits payés au trésor.

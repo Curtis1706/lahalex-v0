@@ -1,0 +1,2 @@
+En matière des risques professionnels et des pensions d’invalidité, le désaccord entre le médecin de la Caisse et le médecin traitant sur l’état de l’assuré nécessite un nouvel examen par un médecin expert choisi de commun accord par les deux médecins.
+Faute d’accord du médecin traitant et du médecin conseil sur le choix du médecin expert, ce dernier est choisi par le tribunal compétent. L’avis de l’expert n’est pas susceptible de recours.

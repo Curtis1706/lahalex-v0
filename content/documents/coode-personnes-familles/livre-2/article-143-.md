@@ -1,0 +1,1 @@
+Seul le mariage monogamique est reconnu.

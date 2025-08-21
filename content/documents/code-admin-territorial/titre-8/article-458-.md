@@ -1,0 +1,2 @@
+A la clôture de chaque exercice budgétaire, le comptable de la commune et le receveur des impôts, chacun en ce qui le concerne, établissent, par nature de recettes, l'état des restes à recouvrer et en transmet copie à l'ordonnateur.
+L'état des restes à recouvrer est joint au compte de gestion du comptable de la commune et au compte administratif de l'ordonnateur.

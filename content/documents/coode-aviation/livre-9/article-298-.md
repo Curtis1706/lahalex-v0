@@ -1,0 +1,3 @@
+Toute entreprise de transport aérien qui contrevient aux dispositions des articles 190, 213, 214 et 220 de la présente loi, pour tout ou partie des activités exercées, encourt la suspension ou le retrait des agréments ou des autorisations qui lui ont été accordés, ainsi qu'il suit :
+- pour les agréments, par arrêté du ministre chargé de l'aviation civile ;
+- pour les autorisations, par décision de l'organisme national en charge de l'aviation civile.

@@ -1,0 +1,1 @@
+Dans toutes les hypothèses où la présente loi prévoit l'accomplissement d'une formalité par écrit ou la production d'un document écrit, ils peuvent être effectués par des moyens de communication électronique sous réserves des conditions prévues par le code du numérique.

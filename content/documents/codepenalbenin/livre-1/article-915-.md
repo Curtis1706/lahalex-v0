@@ -1,0 +1,1 @@
+Tout dépôt, tout épandage constituant une cause d’insalubrité doit être supprimé dans le délai imparti, faute de quoi il peut être procédé à cette suppression d’office et aux frais de l’auteur du dépôt, de son propriétaire ou à défaut du propriétaire du sol.

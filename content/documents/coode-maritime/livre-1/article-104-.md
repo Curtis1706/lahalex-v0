@@ -1,0 +1,1 @@
+La mort, l’incapacité ou la faillite d’un copropriétaire n’entraînent pas de plein droit la dissolution de la copropriété.

@@ -1,0 +1,1 @@
+Les dispositions des articles 205 à 207 s’appliquent par analogie au régime de la séparation de biens.

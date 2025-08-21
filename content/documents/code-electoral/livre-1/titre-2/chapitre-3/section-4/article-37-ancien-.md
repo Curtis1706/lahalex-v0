@@ -1,0 +1,5 @@
+Pour chaque élection, le Conseil électoral, sur proposition de la Direction générale des élections, désigne par arrondissement, un coordonnateur chargé de l'organisation des opérations électorales.
+Le coordonnateur est désigné parmi les magistrats, les greffiers ou officiers de justice, les administrateurs civils, les administrateurs électoraux, en activité ou non et, à défaut, parmi les cadres de la catégorie A ou équivalent, en activité ou non.
+Le coordonnateur d'arrondissement est déployé quinze (15) jours avant le scrutin jusqu'à sept (07) jours après.
+Le Conseil électoral, sur proposition de la Direction générale des élections peut également solliciter le détachement des fonctionnaires. Pendant toute la durée de leur emploi, les personnels de l'Etat, détachés, sont soumis à la législation du travail, sous réserve des dispositions du Statut général de la fonction publique relatives à la retraite, à l'avancement et à la fin du détachement.
+En période électorale, le Directeur Général des Elections peut recruter des personnels temporaires, pour la durée des tâches à effectuer.

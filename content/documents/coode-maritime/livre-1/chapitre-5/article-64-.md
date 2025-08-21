@@ -1,0 +1,1 @@
+Le propriétaire d’un navire transportant des hydrocarbures peut limiter sa responsabilité lorsque le dommage par pollution ne résulte pas de son fait ou de son omission.

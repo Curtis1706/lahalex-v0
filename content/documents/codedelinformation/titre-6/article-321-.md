@@ -1,0 +1,1 @@
+Sous réserve des dispositions des articles 307, 308, 309 et 310 de la présente loi, la poursuite des crimes a lieu conformément au droit commun.

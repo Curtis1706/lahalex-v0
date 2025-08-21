@@ -1,0 +1,16 @@
+{
+  "id": "article-5-",
+  "title": "Article 5 : Les juridictions pénales sont compétentes pour interpréter les actes administratifs, réglementaires ou individuels et pour apprécier la légalité lorsque, de cet examen, dépend la solution du procès qui leur est soumis.",
+  "numero": "5 ",
+  "document": "codepenalbenin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-1"
+  ],
+  "navigation": {
+    "parent": "chapitre-1",
+    "previous": "article-4-",
+    "next": "article-6-"
+  }
+}

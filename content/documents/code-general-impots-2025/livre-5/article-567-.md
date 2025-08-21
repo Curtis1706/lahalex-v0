@@ -1,0 +1,2 @@
+La mise en œuvre de la procédure de taxation d’office à l’encontre du contribuable le prive de la possibilité de saisir la commission des impôts.
+En cas de désaccord avec l’inspecteur, le contribuable taxé d’office ne peut obtenir, par voie contentieuse, la décharge ou la réduction de la cotisation qui lui a été assignée, qu’en apportant la preuve de l’exagération de son imposition.

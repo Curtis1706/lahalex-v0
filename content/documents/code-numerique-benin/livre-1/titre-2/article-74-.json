@@ -1,0 +1,15 @@
+{
+  "id": "article-74-",
+  "title": "Article 74 : Prestations d’itinérance nationale",
+  "numero": "74 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-73-",
+    "next": "article-75-"
+  }
+}

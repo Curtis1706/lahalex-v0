@@ -1,0 +1,1 @@
+Sous réserve des dispositions de l’article 101 paragraphe 2 du présent code, les associés des sociétés non soumises à l’impôt sur les sociétés et les indivisaires sont personnellement soumis à l’impôt sur les bénéfices d’affaires pour la part de bénéfices sociaux correspondant à leurs droits dans la société ou à leurs parts dans l’indivision.

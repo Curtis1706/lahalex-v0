@@ -1,0 +1,1 @@
+2 n’est dû aucun fret pour les marchandises perdues ou avariées par suite de la négligence du transporteur et en particulier pour n’avoir pas satisfait aux obligations des articles 346 et 348 ci-dessus. 2 en est de même pour les marchandises perdues ou avariées par fortune de mer, sauf convention contraire des parties.

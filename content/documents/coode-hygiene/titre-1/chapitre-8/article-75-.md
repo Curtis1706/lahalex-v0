@@ -1,0 +1,1 @@
+Les services de distribution publique d'eau sont responsables de la qualité des eaux fournies à la consommation.

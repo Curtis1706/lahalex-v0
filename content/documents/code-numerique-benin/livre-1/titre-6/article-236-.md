@@ -1,0 +1,2 @@
+Ouverture d’une procédure de sanction
+Sur la base des informations recueillies dans le cadre du traitement des plaintes qu’elle reçoit, l’Autorité de régulation peut décider d’ouvrir une procédure de sanction conformément aux dispositions des articles 239 et 240 du présent code.

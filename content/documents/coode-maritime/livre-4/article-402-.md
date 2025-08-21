@@ -1,0 +1,7 @@
+A défaut de convention spéciale des parties, les règles suivantes seront observées :
+- si le navire est loué en totalité et que l’affréteur ne lui donne pas toute sa charge, le capitaine ne peut prendre d’autres marchandises sans le consentement de l’affréteur. Celui-ci profite du fret des marchandises qui complètent le chargement du navire ;
+- le fréteur qui a déclaré le navire d’un plus grand port qu’il n’est, peut être condamné à des dommages-intérêts envers l’affréteur, sauf si l’erreur n’excède pas un quarantième ou si la déclaration est conforme au certificat de jauge ;
+- si le fret est proportionnel à la quantité de marchandises chargées, l’affréteur doit charger le poids ou le volume prévu par la charte-partie. A défaut, il doit payer l’indemnité prévue par l’article 352 du présent code.
+Si la quantité à charger figure sur la charte-partie avec la réserve ‘’environ’’ l’affréteur satisfait à son obligation en offrant un chargement inférieur ou supérieur du dixième de la quantité prévue ;
+- si le fret est forfaitaire et que l’affréteur charge une quantité supérieure à celle prévue au contrat, il doit payer le fret de l’excédent sur le prix fixé par la charte-partie;
+- le capitaine peut faire mettre à terre, dans le lieu du chargement, les marchandises embarquées sur son navire, si elles ne lui ont pas été déclarées ou en exiger avant le départ le fret au plus haut prix prévu pour des marchandises de même nature.

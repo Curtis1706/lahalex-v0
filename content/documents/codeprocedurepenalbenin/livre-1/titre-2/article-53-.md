@@ -1,0 +1,10 @@
+Sauf réclamation faite de l’intérieur de la maison ou exceptions prévues par la loi, les perquisitions et les visites domiciliaires ne peuvent être commencées avant six (06) heures et après vingt et une (21) heures.
+Toutefois, des visites, perquisitions et saisies pourront être opérées à toute heure du jour et de la nuit en vue d’y constater des infractions prévues par les textes en vigueur commises à l’intérieur de tout hôtel, pension, débit de boisson, club, cercle, dancing, lieu de spectacle et leurs annexes et en tout autre lieu ouvert au public ou utilisé par le public, lorsqu’il est établi que des personnes se livrant à la prostitution, au proxénétisme, à l’usage, au trafic illicite, à la fabrication, au transport et à l’entreposage de drogue, de substances ou plantes vénéneuses, y sont reçues habituellement.
+Il en est de même en matière d’enquêtes et de recherche d’informations relatives aux infractions à caractère économique et financier, au terrorisme, au trafic de drogue, à l’enrichissement illicite et à la pédophilie.
+A cet égard, l’officier de police judiciaire, avec l’autorisation préalable du procureur de la République peut :
+- prolonger le délai de garde à vue à huit (08) jours ;
+- organiser la surveillance à l’endroit de toute personne sur qui pèsent de lourds soupçons, y compris, en cas de nécessité, la surveillance électronique ;
+- réaliser des livraisons surveillées et des infiltrations ;
+- obtenir la levée du secret bancaire.
+Sur demande de l’officier de police judiciaire enquêteur, le procureur de la République requiert du doyen des juges, la mise sur écoute téléphonique de toute personne sur qui pèsent de lourds soupçons. Le juge statue sans délai par une ordonnance motivée.
+Les formalités mentionnées aux articles 50, 51 et au présent article sont prescrites à peine de nullité.

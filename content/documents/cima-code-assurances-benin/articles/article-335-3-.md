@@ -1,0 +1,3 @@
+Article 335-3 : Primes arriérées de moins d’un an
+La provision pour risques en cours des entreprises pratiquant les opérations mentionnées aux branches 1 à 18 de l’art. 328, à l’exception des branches 4 à 7, 11 et 12, peut être représentée, jusqu’à concurrence de 30 % de son montant par des primes ou cotisations nettes d’impôts, de taxes et de commissions, et de un an de date au plus.
+Les provisions techniques relatives aux branches 4 à 7, 11 et 12 peuvent être représentées, jusqu’à concurrence de 30 % de leur montant par des primes ou cotisations nettes d’impôts, de taxes et de commissions, et de un an de date au plus.

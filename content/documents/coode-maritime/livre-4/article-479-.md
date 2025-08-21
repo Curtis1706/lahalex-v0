@@ -1,0 +1,1 @@
+Les marchandises pour lesquelles il n’a pas été établi de connaissement ou de reçu du capitaine ne sont pas admises en avaries communes si elles sont sacrifiées. Elles contribuent, néanmoins, si elles sont sauvées.

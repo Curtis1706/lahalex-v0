@@ -1,0 +1,5 @@
+Atteinte à la vie privée commise sur internet
+Est puni de cinq (5) ans d'emprisonnement et de vingt-cinq millions (25 000 000) de francs CFA d'amende, le fait, au moyen d’un ou sur un réseau de communication électronique ou un système informatique, de volontairement porter atteinte à l'intimité de la vie privée d'autrui :
+1. en captant, enregistrant ou transmettant, sans le consentement de leur auteur, des paroles prononcées à titre privé ou confidentiel ;
+1. en fixant, enregistrant ou transmettant, sans le consentement de celle-ci, l'image d'une personne se trouvant dans un lieu privé.
+Lorsque les actes mentionnés au présent article ont été accomplis au vu et au su des intéressés sans qu'ils s'y soient opposés, alors qu'ils étaient en mesure de le faire, le consentement de ceux-ci est présumé.

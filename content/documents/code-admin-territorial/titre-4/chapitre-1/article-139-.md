@@ -1,0 +1,1 @@
+Le secrétaire exécutif adresse, aux fins de ses délibérations, le rapport mensuel de ses activités ainsi que le rapport annuel de performance de la mairie au conseil de supervision.

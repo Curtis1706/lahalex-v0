@@ -1,0 +1,1 @@
+A défaut de contrat de mariage rédigé dans les conditions prévues aux articles précédents, l’association conjugale est régie quant aux biens par les dispositions du présent code.

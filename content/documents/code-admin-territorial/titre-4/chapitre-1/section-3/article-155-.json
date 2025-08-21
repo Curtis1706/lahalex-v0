@@ -1,0 +1,16 @@
+{
+  "id": "article-155-",
+  "title": "Article 155 :",
+  "numero": "155 ",
+  "document": "code-admin-territorial",
+  "path": [
+    "titre-4",
+    "chapitre-1",
+    "section-3"
+  ],
+  "navigation": {
+    "parent": "section-3",
+    "previous": "article-154",
+    "next": "article-156-"
+  }
+}

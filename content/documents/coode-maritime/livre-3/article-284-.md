@@ -1,0 +1,2 @@
+Le capitaine a, dans l’intérêt commun, sur toutes les personnes présentes à bord pour quelque cause que ce soit, et autant que la nécessité l’exige, l’autorité quant au maintien de l’ordre, à la sécurité du navire, des personnes embarquées ou de la cargaison et à la bonne exécution de l’expédition entreprise.
+2 peut employer dans ce but tout moyen de coercition utile et requérir les personnes embarquées pour lui prêter main forte.

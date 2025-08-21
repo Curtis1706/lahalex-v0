@@ -1,0 +1,1 @@
+Appel de ces décisions peut être interjeté dans les formes ordinaires par les personnes visées au premier alinéa de l’article 682 ; il y est statué par la chambre de l’instruction.

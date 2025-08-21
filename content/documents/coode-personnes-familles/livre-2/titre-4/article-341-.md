@@ -1,0 +1,3 @@
+L’adoption n’est permise qu’en faveur des mineurs non émancipés accueillis au foyer du ou des adoptants depuis au moins un an.
+Si l’enfant a plus de quinze (15) ans et a été accueilli avant d’avoir atteint cet âge par des personnes qui ne remplissaient pas les conditions légales pour adopter ou s’il a fait l’objet d’une adoption simple avant d’avoir atteint cet âge, l’adoption plénière pourra être demandée, si les conditions en sont remplies, pendant toute la minorité de l’enfant.
+L’enfant âgé de plus de quinze (15) ans doit consentir personnellement à son adoption.

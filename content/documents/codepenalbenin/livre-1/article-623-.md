@@ -1,0 +1,2 @@
+Ceux qui, sans l’autorisation préalable de l’officier d’état civil dans le cas où elle est prescrite, ont fait inhumer un individu décédé, sont punis de un (01) mois à six (06) mois d’emprisonnement et d’une amende de cinquante mille (50.000) francs CFA à cent cinquante mille (150.000) francs CFA , sans préjudice de la poursuite des crimes dont les auteurs de ce délit pourraient être prévenus dans cette circonstance.
+La même peine sera prononcée contre ceux qui auront contrevenu, de quelque manière que ce soit, à la loi et aux règlements relatifs aux inhumations.

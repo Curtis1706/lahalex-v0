@@ -1,0 +1,1 @@
+Le suffrage est universel, direct, égal et secret. Les partis politiques concourent à l'expression du suffrage.

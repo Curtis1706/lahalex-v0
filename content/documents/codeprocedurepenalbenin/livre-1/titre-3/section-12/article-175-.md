@@ -1,0 +1,2 @@
+Lors de leur inscription sur la liste prévue à l’article 174 alinéa2 du présent code, les experts prêtent, par écrit, serment d’accomplir les missions qui leur seront confiées, de faire leurs rapports et de donner leur avis en leur honneur et conscience. Ils n’ont pas à renouveler le serment chaque fois qu’ils sont commis.
+Les experts ne figurant pas sur ladite liste prêtent, par écrit, chaque fois qu’ils sont commis, le serment prévu à l’alinéa précédent.

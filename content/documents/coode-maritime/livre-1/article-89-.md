@@ -1,0 +1,1 @@
+L’action en garantie contre le constructeur se prescrit par un (01) an. Ce délai ne commence à courir, en ce qui concerne le vice caché, que du jour de la découverte.

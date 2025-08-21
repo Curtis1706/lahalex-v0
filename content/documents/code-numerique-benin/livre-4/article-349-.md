@@ -1,0 +1,2 @@
+Exercice du droit de rétractation
+L'exercice du droit de rétractation par le consommateur suppose qu'il ait eu la possibilité de raisonnablement essayer le bien commandé, en vue de s’assurer de sa conformité. Cette disposition ne s'applique pas aux services dont l'exécution est effectuée en une fois.

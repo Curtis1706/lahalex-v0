@@ -1,0 +1,1 @@
+Dans les cas de blocus ou autre empêchement durable d’entrer dans le port de destination, le capitaine est tenu, sauf ordre contraire, de se rendre dans un port voisin où il puisse décharger.

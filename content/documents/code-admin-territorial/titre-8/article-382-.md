@@ -1,0 +1,2 @@
+L'ordonnateur principal du budget de la commune ou de l’établissement public de coopération intercommunale prescrit sous le contrôle de l’organe de supervision, l'exécution des recettes et des dépenses du budget. A cet effet, il constate les droits de la commune ou de l'établissement public de coopération intercommunale, liquide et ordonne les recettes, engage, liquide et mandate les dépenses.
+Les responsables des établissements publics locaux sont ordonnateurs des recettes et des dépenses desdits établissements.

@@ -1,0 +1,16 @@
+{
+  "id": "article-8-",
+  "title": "Article 8 : Mentions du contrat d’assurance",
+  "numero": "8 ",
+  "document": "cima-code-assurances-benin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-2"
+  ],
+  "navigation": {
+    "parent": "chapitre-2",
+    "previous": "article-7-",
+    "next": "article-9-"
+  }
+}

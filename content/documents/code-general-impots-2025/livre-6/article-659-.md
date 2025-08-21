@@ -1,0 +1,1 @@
+La présente loi qui entre en vigueur à compter du 1er janvier 2022 sera publiée au journal officiel et exécutée comme loi de l’État.

@@ -1,0 +1,1 @@
+Lorsque les intérêts du secrétaire exécutif se trouvent en conflit avec ceux de la commune, le conseil de supervision désigne un cadre supérieur assumant des fonctions de direction à la mairie, soit pour représenter la commune en justice, soit pour passer un contrat.

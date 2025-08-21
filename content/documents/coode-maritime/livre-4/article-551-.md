@@ -1,0 +1,1 @@
+Les dispositions du présent chapitre sont applicables aux contrats d’assurance concernant le navire qui n’est assuré que pour la durée de son séjour dans les ports, rades ou autres lieux, qu’il soit à flot ou en cale sèche et également aux navires en construction.

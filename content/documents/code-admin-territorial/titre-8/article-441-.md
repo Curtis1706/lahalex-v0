@@ -1,0 +1,1 @@
+Le budget mis en exécution au début de l'exercice est appelé budget primitif. Le budget supplémentaire est adopté et validé avant le 1<sup>er</sup> septembre de l'exercice auquel il s’applique.

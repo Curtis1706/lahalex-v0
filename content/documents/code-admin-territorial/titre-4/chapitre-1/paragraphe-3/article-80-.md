@@ -1,0 +1,1 @@
+En cas de décès ou de démission d'un conseiller, il est procédé à son remplacement conformément aux dispositions du code électoral

@@ -1,0 +1,1 @@
+Nonobstant toute convention contraire, l’assurance ne peut être qu’un contrat d’indemnité.

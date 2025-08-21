@@ -1,0 +1,3 @@
+Évaluation du service universel
+Le Ministre chargé des communications électroniques et de la poste évalue périodiquement la portée du service universel, en prenant en compte, entre autres, les évolutions sociales, économiques et technologiques. Il propose les mesures correctives subséquentes.
+L’évaluation effectuée une fois tous les deux (02) ans, fait l’objet d’un rapport soumis à l’approbation du Conseil des Ministres.

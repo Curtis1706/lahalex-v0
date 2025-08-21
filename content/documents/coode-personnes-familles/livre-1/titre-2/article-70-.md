@@ -1,0 +1,1 @@
+L’officier de l’état civil exige de chacun des futurs époux les pièces prévues à l’article 127.

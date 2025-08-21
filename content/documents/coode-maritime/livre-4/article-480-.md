@@ -1,0 +1,1 @@
+Les vivres du navire, les envois postaux de toute nature, ainsi que les effets et bagages de l’équipage et des passagers sont exempts de contribution s’ils ont été sauvés ; ils participent à la réparation s’ils ont été sacrifiés dans les conditions des articles 466 et suivants ci-dessus.

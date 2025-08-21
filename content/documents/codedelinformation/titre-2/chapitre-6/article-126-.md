@@ -1,0 +1,1 @@
+L’exercice du droit de réponse s’applique aussi bien aux organes de presse de service public qu’à ceux du secteur privé qui assurent, à quelque titre ou sous quelque forme que ce soit, un service de communication.

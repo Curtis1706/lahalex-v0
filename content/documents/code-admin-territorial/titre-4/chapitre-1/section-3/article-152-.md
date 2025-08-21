@@ -1,0 +1,1 @@
+Les séances des conseils d'arrondissement, de village ou de quartier de ville sont publiques, sauf si le huis clos est décidé par lesdits conseils.

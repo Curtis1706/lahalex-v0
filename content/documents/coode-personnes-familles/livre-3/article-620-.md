@@ -1,0 +1,1 @@
+Les enfants, quelle que soit l’origine de leur filiation, jouissent des mêmes droits successoraux, sous réserve des dispositions de l’article suivant.

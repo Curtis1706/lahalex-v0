@@ -1,0 +1,1 @@
+Le transporteur est tenu de mettre et de conserver le navire en état de navigabilité, convenablement armé, équipé et approvisionné pour le voyage considéré et de faire toute diligence pour assurer la sécurité des passagers.

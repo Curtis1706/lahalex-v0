@@ -1,0 +1,2 @@
+Le règlement d’avaries communes est établi par un ou plusieurs répartiteurs qui, à défaut d’entente entre les parties, sont nommés par le juge. Ces répartiteurs peuvent se faire assister par les experts de leur choix.
+A défaut d’acceptation par toutes les parties, le règlement d’avaries communes est soumis à l’homologation de la juridiction compétente sur demande de la partie la plus diligente, tous les intéressés dûment appelés.

@@ -1,0 +1,3 @@
+Tout acte extrajudiciaire contenant désaveu de la part du mari ou contestation de légitimité de la part des héritiers, sera comme non avenu, s’il n’est suivi d’une action en justice dans le délai de deux mois.
+Même en l’absence de désaveu, la mère pourra contester la paternité du mari, mais seulement aux fins de légitimation, quand elle se sera, après dissolution du mariage, remariée avec le véritable père de l’enfant.
+A peine d’irrecevabilité, l’action dirigée contre le mari ou ses héritiers, est jointe à une demande de légitimation. Elle doit être introduite par la mère et son nouveau conjoint dans les six (6) mois de leur mariage et avant que l’enfant n'ait atteint l’âge de sept (7) ans.

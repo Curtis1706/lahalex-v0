@@ -1,0 +1,1 @@
+En cas de nécessité et après enquête, la Caisse peut autoriser le paiement des allocations familiales à la mère ou à toute autre personne ayant la garde effective des enfants.

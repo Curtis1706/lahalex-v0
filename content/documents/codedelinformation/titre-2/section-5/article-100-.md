@@ -1,0 +1,1 @@
+L’agent ou le responsable public, ainsi informé de l’existence d’un recours en contestation d’une décision de rejet au niveau de la Haute Autorité de l’Audiovisuel et de la Communication, veille à ce que tout document, objet de ce recours, soit conservé durant tout le temps requis pour épuiser la procédure prévue par la présente loi.

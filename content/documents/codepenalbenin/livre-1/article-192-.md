@@ -1,0 +1,1 @@
+Est puni d’un emprisonnement de un (01) an à cinq (05) ans et d’une amende de un million (1.000.000) à cinq millions (5.000.000) de francs CFA quiconque, en temps de paix, a enrôlé des soldats pour le compte d’une puissance étrangère, en territoire béninois.

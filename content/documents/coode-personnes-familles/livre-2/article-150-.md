@@ -1,0 +1,2 @@
+Le jugement prononçant la nullité du mariage a l’autorité de la chose jugée à l’égard de toute personne, à compter du jour de l'accomplissement des formalités prévues à l'article 112.
+Le dispositif de la décision prononçant la nullité est mentionné à la diligence du ministère public en marge de l’acte de mariage et de l’acte de naissance de chacun des époux. Si le mariage a été célébré à l’étranger ou si les époux sont nés hors du Bénin, le dispositif est transcrit sur les registres de l’état civil de Cotonou.

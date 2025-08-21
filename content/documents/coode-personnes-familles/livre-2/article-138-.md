@@ -1,0 +1,1 @@
+Dans le cas où l’un des futurs époux est mineur, l’officier de l’état civil interpelle, s’il est présent, le parent dont le consentement est requis ; s’il est absent, il donne lecture de l’acte par lequel ce consentement est exprimé.

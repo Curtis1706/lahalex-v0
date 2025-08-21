@@ -1,0 +1,3 @@
+Servitudes radioélectriques
+L’Autorité de régulation est consultée sur tous les projets de servitudes radioélectriques dans les conditions prévues dans le présent code. Elle constitue, tient à jour et publie la documentation relative aux servitudes établies dans ce domaine au titre des différents Ministères.
+En liaison avec les services et organismes compétents, elle établit et publie les documents, les répertoires et les fichiers relatifs aux installations radioélectriques et aux zones de groupement des installations radioélectriques.

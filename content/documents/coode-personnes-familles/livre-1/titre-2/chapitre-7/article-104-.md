@@ -1,0 +1,1 @@
+Tout manquement à cette règle rend l’officier de l’état civil passible de la peine d’amende civile prévue par l’article 59 alinéa 2 du présent code, sans préjudice de tous dommages et intérêts. La juridiction qui ordonne la rectification d'un acte prescrit également celle de tous les actes qui comportent la mention rectifiée, même s’ils n’ont pas été dressés dans son ressort.

@@ -1,0 +1,4 @@
+Les témoins déposent séparément, dans l’ordre établi par le président.
+Les témoins doivent, sur la demande du président, faire connaître leurs nom, prénoms, âge, profession, domicile ou résidence, s’ils sont parents ou alliés soit de l’accusé, soit de la partie civile, et à quel degré, et s’ils sont attachés au service de l’un ou de l’autre.
+Avant de commencer leurs dépositions, les témoins prêtent serment _« de parler_ _sans haine et sans crainte, de dire toute la vérité, rien que la vérité »._
+Sous réserve des dispositions de l’article 313 du présent code, les témoins ne sont pas interrompus dans leur déposition.

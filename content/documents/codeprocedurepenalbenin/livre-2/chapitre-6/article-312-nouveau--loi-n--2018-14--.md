@@ -1,0 +1,2 @@
+Les débats ne peuvent être interrompus et doivent continuer jusqu'à ce que la cause soit terminée par le jugement du tribunal ou l'arrêt de la cour.
+Ils peuvent être suspendus pendant le temps nécessaire au repos des juges et de l'accusé.

@@ -1,0 +1,16 @@
+{
+  "id": "article-233-",
+  "title": "Article 233 :",
+  "numero": "233 ",
+  "document": "code-admin-territorial",
+  "path": [
+    "titre-4",
+    "chapitre-1",
+    "section-3"
+  ],
+  "navigation": {
+    "parent": "section-3",
+    "previous": "article-232-",
+    "next": "article-234-"
+  }
+}

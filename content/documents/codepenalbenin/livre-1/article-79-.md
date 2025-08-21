@@ -1,0 +1,3 @@
+Il en sera de même pour les individus qui, condamnés à un emprisonnement de plus de un (01) an pour délit, seraient dans le même délai reconnus coupables du même délit ou d’un crime devant être puni d’emprisonnement.
+Ceux qui, ayant été antérieurement condamnés à une peine d’emprisonnement de moindre durée, commettraient le même délit dans les mêmes conditions de temps, seront condamnés à une peine d’emprisonnement qui ne pourra être inférieure au double de celle précédemment prononcée, sans toutefois qu’elle puisse dépasser le double du maximum de la peine encourue.
+B- PERSONNES MORALES

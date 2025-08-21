@@ -1,0 +1,2 @@
+Quiconque construit, modifie ou exploite un ouvrage ou une installation, réalise des travaux ou exerce une activité sans avoir effectué la déclaration prescrite par les lois et règlements, est puni d’une amende de deux cent mille (200.000) à cinq cent mille (500.000) francs CFA.
+En cas de récidive, l’amende est portée au double.

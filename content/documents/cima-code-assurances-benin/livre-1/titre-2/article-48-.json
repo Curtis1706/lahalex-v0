@@ -1,0 +1,15 @@
+{
+  "id": "article-48-",
+  "title": "Article 48 : Disparition des objets assurés pendant l’incendie",
+  "numero": "48 ",
+  "document": "cima-code-assurances-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-47-",
+    "next": "article-49-"
+  }
+}

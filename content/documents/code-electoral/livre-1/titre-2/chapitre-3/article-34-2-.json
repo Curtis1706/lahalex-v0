@@ -1,0 +1,16 @@
+{
+  "id": "article-34-2-",
+  "title": "Article 34-2 : Le mandat du directeur général des élections et celui des directeurs techniques sont renouvelables.",
+  "numero": "34-2 ",
+  "document": "code-electoral",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "chapitre-3"
+  ],
+  "navigation": {
+    "parent": "chapitre-3",
+    "previous": "article-34-1-",
+    "next": "article-34-3-"
+  }
+}

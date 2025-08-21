@@ -1,0 +1,15 @@
+{
+  "id": "article-217-",
+  "title": "Article 217 : Redevance",
+  "numero": "217 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-4"
+  ],
+  "navigation": {
+    "parent": "titre-4",
+    "previous": "article-216-",
+    "next": "article-218-"
+  }
+}

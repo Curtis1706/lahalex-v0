@@ -1,0 +1,16 @@
+{
+  "id": "article-435-",
+  "title": "Article 435 :",
+  "numero": "435 ",
+  "document": "coode-personnes-familles",
+  "path": [
+    "livre-2",
+    "titre-6",
+    "section-4"
+  ],
+  "navigation": {
+    "parent": "section-4",
+    "previous": "article-434-",
+    "next": "article-436-"
+  }
+}

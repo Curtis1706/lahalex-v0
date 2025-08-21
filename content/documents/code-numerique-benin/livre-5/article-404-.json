@@ -1,0 +1,14 @@
+{
+  "id": "article-404-",
+  "title": "Article 404 : Lien d’autorité",
+  "numero": "404 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-5"
+  ],
+  "navigation": {
+    "parent": "livre-5",
+    "previous": "article-403-",
+    "next": "article-405-"
+  }
+}

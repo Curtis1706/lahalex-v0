@@ -1,0 +1,8 @@
+Editeur de services de communications au public en ligne
+Les personnes dont l'activité est d'éditer un service de communications au public en ligne mettent à disposition du public, dans un standard ouvert :
+1. s'il s'agit de personnes physiques, leur nom, prénom, domicile et numéro de téléphone et, si elles sont assujetties aux formalités d'inscription au Registre du Commerce et du Crédit Mobilier ou un registre équivalent, le numéro de leur inscription ;
+1. s'il s'agit de personnes morales, leur dénomination ou leur raison sociale, leur numéro de téléphone et, s'il s'agit d'entreprises assujetties aux formalités d'inscription au Registre du Commerce et du Crédit Mobilier ou un registre équivalent, le numéro de leur inscription, leur capital social, l'adresse de leur siège social ;
+1. le nom du directeur et du codirecteur de la publication et, le cas échéant, celui du responsable de la rédaction ;
+1. le nom, la dénomination ou la raison sociale et l'adresse et le numéro de téléphone du Fournisseur de services en ligne.
+Les personnes éditant à titre non professionnel un service de communications au public en ligne peuvent ne tenir à la disposition du public, pour préserver leur anonymat, que le nom, la dénomination ou la raison sociale et l'adresse du fournisseur de services en ligne, sous réserve de lui avoir communiqué les éléments d'identification prévus au présent article.
+Les fournisseurs de services en ligne sont tenus à une obligation de confidentialité, pour tout ce qui concerne la divulgation de ces éléments d'identification ou de toute information permettant d'identifier la personne concernée. Cette obligation de confidentialité n'est pas opposable à l'autorité judiciaire, ni aux services d’enquête de police et de gendarmerie.

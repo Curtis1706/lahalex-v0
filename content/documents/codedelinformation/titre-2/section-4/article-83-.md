@@ -1,0 +1,1 @@
+Les restrictions du droit d’accès aux sources publiques d’information ne se justifient que dans des circonstances exceptionnelles commanditées par l’intérêt public : le secret-défense et le secret de l’instruction judiciaire.

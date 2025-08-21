@@ -1,0 +1,1 @@
+Le financement des communes et des établissements publics de coopération intercommunale repose sur un système combinant les impositions, les dotations ou subventions, les emprunts et autres ressources.

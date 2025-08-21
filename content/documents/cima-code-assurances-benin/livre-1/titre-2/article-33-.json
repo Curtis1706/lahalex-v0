@@ -1,0 +1,15 @@
+{
+  "id": "article-33-",
+  "title": "Article 33 : Surassurance",
+  "numero": "33 ",
+  "document": "cima-code-assurances-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-32-",
+    "next": "article-34-"
+  }
+}

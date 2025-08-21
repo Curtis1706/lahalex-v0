@@ -1,0 +1,4 @@
+Le pourvoi est formé par déclaration orale ou écrite que le demandeur lui-même ou un avocat ou tout mandataire muni d’un pouvoir spécial fait, remet ou adresse au greffe de la juridiction qui a rendu la décision attaquée.
+Le pourvoi contre un arrêt ou une ordonnance de renvoi est jugé dans un délai de huit (08) jours, à compter de la transmission du dossier par le greffier en chef de la juridiction dont la décision est attaquée. Cette transmission est effectuée dans un délai de trois (03) jours ouvrables à compter de la déclaration de pourvoi sous peine d’une amende et sans préjudice des sanctions disciplinaires.
+A défaut de décision de la Cour suprême dans le délai de huit (08) jours, il est sursis à l’examen du pourvoi jusqu'au prononcé de la décision de la juridiction de fond.
+En ce cas, les moyens de cassation ne sont soumis à la Cour suprême qu'après décision sur le fond, passée en force de chose jugée.

@@ -1,0 +1,3 @@
+Identification des utilisateurs
+Les opérateurs procèdent à l’identification de tous les utilisateurs de leurs services de communications électroniques au moment de la souscription aux services qu’ils fournissent. Les conditions dans lesquelles les opérateurs procèdent à l’identification des utilisateurs sont précisées par voie règlementaire.
+Les opérateurs mobiles mettent en place les moyens et procédures nécessaires afin de garantir l’intégrité de leur réseau de distribution. Ils demeurent responsables des agissements de leurs distributeurs et sous-traitants.

@@ -1,0 +1,2 @@
+Infractions de presse par le biais d’une communication électronique
+Une personne qui commet une infraction de presse, notamment une diffamation, une injure publique, une apologie de crime, par le biais d’un moyen de communication électronique public, est punie des mêmes peines que celles prévues par la loi n° 2015-07 du 20 mars 2015 portant code de l’information et de la communication en vigueur, quel qu’en soit le support.

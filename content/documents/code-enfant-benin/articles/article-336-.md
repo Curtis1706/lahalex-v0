@@ -1,0 +1,3 @@
+Article 336 : Sont punis d'une amende de vingt-cinq mille (25 000) à cent mille (100 000) francs CFA ou d'une peine d' emprisonnement de quinze (15) à trente (30) jours, les chefs de village ou de quartier de ville qui négligent ou oublient de rendre compte dans les délais requis par la loi, des naissances qui ont eu lieu en dehors des centres de santé et dont ils ont eu connaissance.
+SECTION II : DES PEINES CONTRE L’ABANDON
+DES ENFANTS

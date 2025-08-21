@@ -1,0 +1,1 @@
+Toute dépense supplémentaire, volontairement exposée pour éviter une autre dépense ou une perte qui aurait été admise en avarie commune, sera admise elle-même en avaries communes, mais seulement jusqu’à concurrence du montant de la dépense économisée ou de la perte évitée.

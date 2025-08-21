@@ -1,0 +1,3 @@
+L’action publique pour l’application de la peine s’éteint par la mort du prévenu, la prescription, l’amnistie, l’abrogation de la loi pénale et la chose jugée.
+Elle peut en outre s’éteindre par transaction lorsque la loi en dispose expressément ; il en est de même en cas de retrait de plainte, lorsque celle-ci est une condition nécessaire de la poursuite.
+Elle peut enfin s’éteindre par la dissolution ou la liquidation, lorsque celle-ci est nécessaire à la disparition de la personne morale.

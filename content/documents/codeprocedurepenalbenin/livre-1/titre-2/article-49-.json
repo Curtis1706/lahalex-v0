@@ -1,0 +1,15 @@
+{
+  "id": "article-49-",
+  "title": "Article 49 :",
+  "numero": "49 ",
+  "document": "codeprocedurepenalbenin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-48-nouveau--loi-n--2025---06--",
+    "next": "article-50-"
+  }
+}

@@ -1,0 +1,1 @@
+Le liquidateur est chargé de l’administration du patrimoine du défunt jusqu’au moment où il cesse ses fonctions.

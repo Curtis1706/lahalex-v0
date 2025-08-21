@@ -1,0 +1,1 @@
+Article 346 : La tentative de viol est punie comme le viol lui-même.

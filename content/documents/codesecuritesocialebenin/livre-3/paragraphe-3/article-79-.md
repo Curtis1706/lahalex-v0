@@ -1,0 +1,1 @@
+Lorsque l’accident du travail est suivi du décès de la victime, les survivants ont droit au remboursement des frais funéraires et aux rentes de survivants.

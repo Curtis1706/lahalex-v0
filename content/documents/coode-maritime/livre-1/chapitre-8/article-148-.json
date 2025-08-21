@@ -1,0 +1,15 @@
+{
+  "id": "article-148-",
+  "title": "Article 148 :",
+  "numero": "148 ",
+  "document": "coode-maritime",
+  "path": [
+    "livre-1",
+    "chapitre-8"
+  ],
+  "navigation": {
+    "parent": "chapitre-8",
+    "previous": "article-147-",
+    "next": "article-149-"
+  }
+}

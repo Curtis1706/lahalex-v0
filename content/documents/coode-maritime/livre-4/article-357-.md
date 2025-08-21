@@ -1,0 +1,3 @@
+En cas de transbordement sur un autre navire, en application de l’article 349 ci-dessus, les frais de transbordement et le fret dû pour achever l’acheminement des marchandises sont à la charge du transporteur lorsque l’interruption est imputable à une faute de sa part.
+Dans les cas contraires, les mêmes frais sont supportés par le chargeur.
+Dans tous les cas, le transporteur conserve le fret prévu pour le voyage entier.

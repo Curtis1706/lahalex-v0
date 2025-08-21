@@ -1,0 +1,2 @@
+Icônes normalisées
+Les informations à communiquer aux personnes concernées en application des articles 415 et 416 peuvent être fournies accompagnées d'icônes normalisées afin d'offrir une bonne vue d'ensemble, facilement visible, compréhensible et clairement lisible, du traitement prévu. Lorsque les icônes sont présentées par voie électronique, elles sont lisibles par machine.

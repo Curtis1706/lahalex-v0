@@ -1,0 +1,2 @@
+Interdictions
+Les équipements terminaux soumis à l’agrément ne peuvent être fabriqués pour le marché intérieur, ni être importés pour la mise à la consommation ou détenus en vue de la vente, ni être distribués à titre gratuit ou onéreux, ni être connectés à un réseau ouvert au public ou faire l’objet de publicité que s'ils ont été soumis à cet agrément et demeurent en permanence conformes à celui-ci.

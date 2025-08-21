@@ -1,0 +1,3 @@
+Article 261 : _(Règlement n°2014-02)_ Assistance d’une tierce personne
+La victime n’a droit à une indemnité pour assistance d’une tierce personne qu’à la condition que le taux d’incapacité permanente soit au moins égal à 80 % selon le barème indiqué à l’article 260.
+L’assistance doit faire l’objet d’une prescription médicale expresse confirmée par expertise. L’indemnité allouée à ce titre est plafonnée à 50 % de l’indemnité fixée pour l’incapacité permanente.

@@ -1,0 +1,3 @@
+Réponse à une attaque
+Pour être en mesure de répondre à une attaque informatique, les services compétents de la République du Bénin peuvent détenir des équipements, des instruments, des programmes informatiques et toutes données susceptibles de permettre la réalisation d'une ou plusieurs des infractions en vue d'analyser leur conception et d'observer leur fonctionnement.
+Les actes accomplis dans ce cadre et à ces fins ne peuvent faire l’objet d’aucune poursuite.

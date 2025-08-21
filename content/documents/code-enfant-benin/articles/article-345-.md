@@ -1,0 +1,2 @@
+Article 345 : Est puni de la réclusion à temps de dix (10) ans à vingt (20) ans, le viol commis, soit sur une femme en état de grossesse, soit sur un enfant de plus de treize (13) ans.
+Lorsque le viol est commis sur un enfant de moins de treize (13) ans, il est puni de la réclusion à perpétuité.

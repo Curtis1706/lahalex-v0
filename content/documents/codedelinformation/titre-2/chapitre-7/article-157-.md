@@ -1,0 +1,1 @@
+La diffusion ou la publication des messages publicitaires se distinguent des nouvelles, des bulletins d’informations ou des articles à caractère rédactionnel.

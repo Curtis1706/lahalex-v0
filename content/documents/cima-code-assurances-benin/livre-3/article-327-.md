@@ -1,0 +1,2 @@
+Contrats souscrits en infraction à l’article 326
+Sont nuls les contrats souscrits en infraction à l’article précédent. Toutefois, cette nullité n’est pas opposable, lorsqu’ils sont de bonne foi, aux assurés, aux souscripteurs et aux bénéficiaires.

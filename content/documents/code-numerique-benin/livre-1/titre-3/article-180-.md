@@ -1,0 +1,2 @@
+Frais, redevances et taxes
+L’assignation et l’utilisation de fréquences radioélectriques peuvent être soumises au paiement de frais, des redevances et des taxes conformément à la réglementation en vigueur.

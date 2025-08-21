@@ -1,0 +1,2 @@
+Le tribunal de première instance ou la cour d'appel statuant en matière criminelle est assisté, à l'audience, d'un greffier. Les fonctions du greffe sont exercées par un greffier de la juridiction compétente.
+Dans les juridictions de droit commun, le président de la cour d'appel peut, en cas d'insuffisance de greffiers, désigner tout greffier en fonction dans les tribunaux de première instance de son ressort, à l'effet d'assister la cour d’appel statuant en matière criminelle ou un tribunal de première instance statuant en matière criminelle du ressort.

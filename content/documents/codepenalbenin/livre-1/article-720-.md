@@ -1,0 +1,2 @@
+La contrefaçon sur le territoire béninois, d’ouvrages publiés en République du Bénin ou à l’étranger, est punie d’un emprisonnement de trois (03) mois à deux (02) ans et d’une amende de cinq cent mille (500.000) francs CFA à dix millions (10.000.000) de francs CFA ou de l’une de ces deux peines seulement sans préjudice de la réparation des dommages subis par les victimes.
+Sont punis des mêmes peines, l’exportation et l’importation des ouvrages contrefaits.

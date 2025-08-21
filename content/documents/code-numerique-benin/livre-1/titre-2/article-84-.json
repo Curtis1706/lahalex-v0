@@ -1,0 +1,15 @@
+{
+  "id": "article-84-",
+  "title": "Article 84 : Demande d’accès aux infrastructures essentielles",
+  "numero": "84 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-83-",
+    "next": "article-85-"
+  }
+}

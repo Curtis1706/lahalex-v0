@@ -1,0 +1,1 @@
+Les lois et règlements déterminent les recettes des communes et établissements publics de coopération intercommunale dont la perception s’effectue par voie de rôle, les règles relatives à l’établissement et à l'apurement des rôles, ainsi que les modalités de recouvrement et de perception.

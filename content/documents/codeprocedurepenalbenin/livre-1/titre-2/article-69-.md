@@ -1,0 +1,1 @@
+Pour les nécessités de l’enquête, le procureur de la République peut se transporter hors du ressort du tribunal auprès duquel il exerce ses fonctions à l’effet d’y poursuivre ses investigations. Il doit en aviser au préalable le procureur de la République du ressort du tribunal dans lequel il se transporte. Il mentionne sur son procès-verbal, les motifs de son transport.

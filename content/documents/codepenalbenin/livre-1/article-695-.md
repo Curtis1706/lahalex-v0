@@ -1,0 +1,2 @@
+Est puni d’un emprisonnement de deux (02) mois à douze (12) mois au plus et d’une amende de cent mille (100.000) francs CFA à un million (1.000.000) de francs CFA ou de l’une de ces deux peines seulement, quiconque a établi ou tenu sur la voie publique ou ses dépendances, ainsi que dans les lieux publics ou ouverts au public et dans les dépendances, mêmes privées de ceux-ci, tous jeux de hasard, d’argent et de paris non autorisés par la loi dont l’enjeu est en argent.
+En cas de récidive, la peine prévue à l’alinéa précédent est portée au double.

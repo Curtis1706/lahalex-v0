@@ -1,0 +1,16 @@
+{
+  "id": "article-166-",
+  "title": "Article 166 : Enquêtes",
+  "numero": "166 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "chapitre-5"
+  ],
+  "navigation": {
+    "parent": "chapitre-5",
+    "previous": "article-165-",
+    "next": "article-167-"
+  }
+}

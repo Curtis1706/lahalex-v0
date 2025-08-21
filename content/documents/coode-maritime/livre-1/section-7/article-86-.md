@@ -1,0 +1,1 @@
+Le rôle d’équipage doit être renouvelé tous les ans. Sa délivrance et son renouvellement sont subordonnés au paiement d’une taxe dont le montant est fixé par voie réglementaire.

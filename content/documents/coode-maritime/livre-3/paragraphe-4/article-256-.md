@@ -1,0 +1,3 @@
+Toute avance de salaire ne peut être consentie au marin que sous le contrôle du directeur de la marine marchande.
+Aucun acompte ne peut, en cours de voyage, être versé au marin s’il n’est préalablement mentionné au journal de bord, et signé de celui-ci. Toutefois, le capitaine reste juge de l’opportunité de l’octroi de l’acompte et de son montant.
+L’acompte ne doit pas dépasser le tiers des salaires gagnés par le marin au moment où il en fait la demande, sous déduction des avances et délégations.

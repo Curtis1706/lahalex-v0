@@ -1,0 +1,2 @@
+La licence d’exploitation est octroyée pour une durée de douze (12) ans pour les télévisions et de huit (08) ans pour les radiodiffusions sonores.
+Les frais, les droits, les redevances et les taxes prévus par la présente loi sont perçus annuellement par le trésor public.

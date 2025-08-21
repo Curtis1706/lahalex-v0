@@ -1,0 +1,2 @@
+L’exploitation sans autorisation d’un établissement ou dans des conditions autres que celles prévues par la législation applicable en matière de l’environnement est punie d’une amende de cinq cent mille (500.000) francs CFA à cinq millions (5.000.000) de francs CFA pour les établissements de la classe II et de cinq millions (5.000.000) de francs CFA à vingt-cinq millions (25.000.000) de francs CFA pour ceux de la classe I.
+En cas de récidive, la peine est portée au double.

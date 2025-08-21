@@ -1,0 +1,3 @@
+La commercialisation sur le territoire de la République du Bénin, d’œuvres graphiques et plastiques en violation du droit de suite prévue à l’article 721 du présent code est punie des peines prévues à l’article 722 du présent code.
+En cas de récidive, les peines encourues seront portées au double.
+En outre, le tribunal pourra ordonner, soit à titre temporaire n’excédant pas cinq (05) ans, soit à titre définitif, la fermeture de l’établissement exploité par le condamné.

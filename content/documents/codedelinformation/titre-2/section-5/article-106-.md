@@ -1,0 +1,1 @@
+Dans le cas d’une décision d’infirmation, la Haute Autorité de l’Audiovisuel et de la Communication adresse, à l’agent ou au responsable de l’institution publique concernée, un courrier dans lequel elle lui demande de satisfaire le demandeur dans les délais fixés par elle. Une copie du courrier est remise au demandeur.

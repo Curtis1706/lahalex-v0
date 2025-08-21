@@ -1,0 +1,2 @@
+Article 218 : Véhicules non assujettis à l’obligation d’assurance
+Pour l’utilisation des véhicules appartenant à l’État ou mis à sa disposition, non couverts par un contrat d’assurance et n’ayant pas fait l’objet d’une immatriculation spéciale, il est établi une attestation de propriété par l’autorité administrative compétente.

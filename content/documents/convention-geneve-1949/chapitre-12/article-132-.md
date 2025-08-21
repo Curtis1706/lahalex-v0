@@ -1,0 +1,3 @@
+Toute personne internée sera libérée par la Puissance détentrice, dès que les Pendant causes qui ont motivé son internement n’existeront plus. les hostilités En outre, les Parties au conflit s’efforceront de conclure, pendant la durée ou pendant des hostilités, des accords en vue de la libération, du rapatriement, du re- l’occupation
+tour au lieu de domicile ou de l’hospitalisation en pays neutre de certaines
+catégories d’internés, et notamment des enfants, des femmes enceintes et des mères avec nourrissons et enfants en bas âge, des blessés et malades ou des internés ayant subi une longue captivité.

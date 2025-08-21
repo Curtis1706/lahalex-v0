@@ -1,0 +1,1 @@
+Frais de Les frais de rapatriement des prisonniers de guerre ou de leur transport dans rapatriement un pays neutre seront à la charge de la Puissance dont dépendent ces prison- niers, à partir de la frontière de la Puissance détentrice.

@@ -1,0 +1,3 @@
+La partie civile qui met en mouvement l’action publique doit, si elle n’a pas obtenu l’assistance judiciaire, et sous peine de non recevabilité de sa plainte, consigner au greffe, la somme présumée nécessaire pour les frais de la procédure.
+Cette somme ainsi que le délai d’acquittement qui ne saurait excéder quarante-cinq (45) jours sont fixés par ordonnance du juge d’instruction avant transmission de la plainte au procureur de la République pour ses réquisitions.
+A défaut de paiement dans le délai imparti de la somme fixée, le juge d’instruction constate par ordonnance, l’irrecevabilité de la plainte et en donne notification au plaignant. La somme consignée est restituée à la partie civile qui obtient gain de cause.

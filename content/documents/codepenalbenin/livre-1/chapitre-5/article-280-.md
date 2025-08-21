@@ -1,0 +1,2 @@
+Quiconque porte publiquement atteinte, dans un discours, écrit, propos, prêche religieux aux symboles, valeurs et représentations de l’Etat, de la Nation, de la République, des traditions, des ethnies ou de toute communauté organisée et légalement constituée, est puni d’une peine d’emprisonnement de cinq (05) ans à dix (10) ans et d’une amende de dix millions (10.000.000) à vingt millions (20.000.000) francs CFA.
+En cas de récidive, la peine est portée au double.

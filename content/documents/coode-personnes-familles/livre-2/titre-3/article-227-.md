@@ -1,0 +1,4 @@
+Lorsque les pièces prévues à l’article précédent ont été fournies ou établies, les époux se présentent en personne devant le juge qui les reçoit séparément, puis ensemble. Il appelle ensuite le (s) conseil (s).
+Le juge leur fait les observations qu’il estime convenables et s’assure de ce que leur consentement présente toutes les qualités envisagées par la loi.
+Il leur donne lecture de la déclaration écrite qu’ils ont déposée ou de la demande de l’un des époux acceptée par l’autre époux.
+Il pose aux époux toutes questions qu’il juge utiles tant en ce qui concerne la répartition des biens que le sort réservé aux enfants.

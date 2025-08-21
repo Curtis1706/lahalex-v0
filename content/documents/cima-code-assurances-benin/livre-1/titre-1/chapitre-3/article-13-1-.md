@@ -1,0 +1,3 @@
+Chèques et effets impayés
+Lorsqu’un chèque ou un effet remis en paiement de la prime revient impayé, l’assuré est mis en demeure de régulariser le paiement dans un délai de huit jours ouvrés à compter de la réception de l’acte ou de la lettre de mise en demeure. A l’expiration de ce délai, si la régularisation n’est pas effectuée, le contrat est résilié de plein droit.
+La portion de prime courue reste acquise à l’assureur, sans préjudice des éventuels frais de poursuite et de recouvrement.

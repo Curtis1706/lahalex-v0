@@ -1,0 +1,15 @@
+{
+  "id": "article-6-",
+  "title": "Article 6 : La liberté de parler et d’écrire, d’imprimer et de publier, de lire et de recevoir des informations, des idées, des pensées et opinions de son choix est garantie en République du Bénin.",
+  "numero": "6 ",
+  "document": "codedelinformation",
+  "path": [
+    "titre-1",
+    "chapitre-3"
+  ],
+  "navigation": {
+    "parent": "chapitre-3",
+    "previous": "article-5-",
+    "next": "article-7-"
+  }
+}

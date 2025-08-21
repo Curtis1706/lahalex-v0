@@ -1,0 +1,17 @@
+{
+  "id": "article-20-",
+  "title": "Article 20 : Le Conseil électoral (CE) est composé de cinq (05) membres.",
+  "numero": "20 ",
+  "document": "code-electoral",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "chapitre-2",
+    "section-1"
+  ],
+  "navigation": {
+    "parent": "section-1",
+    "previous": "article-19-nouveau-",
+    "next": "article-21-"
+  }
+}

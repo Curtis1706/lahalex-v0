@@ -1,0 +1,1 @@
+Les infractions à la réglementation sur l’abattage, l’ébranchage ou l’émondage d’essences protégées en vue notamment de la nourriture du bétail, seront punies d’une amende de cinquante mille (50.000) francs CFA et d’un emprisonnement de deux (02) mois à deux (02) ans ou de l’une de ces deux peines seulement.

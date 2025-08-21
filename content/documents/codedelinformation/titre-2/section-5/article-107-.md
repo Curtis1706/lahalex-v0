@@ -1,0 +1,1 @@
+Si l’agent ou l’institution publique persiste dans son refus de satisfaire le demandeur, la Haute Autorité de l’Audiovisuel et de la Communication prend l’initiative d’une action en recours devant la juridiction administrative. Elle en informe aussitôt après le requérant qui peut lui-même prendre toute initiative pour le rétablissement de son droit.

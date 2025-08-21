@@ -1,0 +1,1 @@
+Lorsque les faits punis par l’article 702 ci-dessus auront été commis par suite d’un plan concerté, les coupables pourront être interdits de séjour par l’arrêt ou le jugement, pendant deux (02) ans au plus.

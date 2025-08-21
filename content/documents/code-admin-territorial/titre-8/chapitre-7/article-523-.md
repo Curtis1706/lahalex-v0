@@ -1,0 +1,2 @@
+Les services publics locaux peuvent être exploités en gestion directe, en gestion déléguée ou en gestion mixte.
+Les modalités de fonctionnement des différents modes de gestion sont déterminées par les textes en vigueur.

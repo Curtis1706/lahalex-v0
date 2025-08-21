@@ -1,0 +1,2 @@
+Article 29 : Droit à l'opinion
+Tout enfant capable de discernement se voit garantir le droit d’exprimer librement ses opinions sur toutes les questions le concernant, les opinions de l’enfant étant dûment prises en considération eu égard à son âge et à son degré de maturité.

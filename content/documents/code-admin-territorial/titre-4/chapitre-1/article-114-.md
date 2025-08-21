@@ -1,0 +1,1 @@
+Les arrêtés, les actes de publication ou de notification sont inscrits à leur date sur le registre administratif de la commune. Ce registre est préalablement coté et paraphé par le président du tribunal territorialement compétent.

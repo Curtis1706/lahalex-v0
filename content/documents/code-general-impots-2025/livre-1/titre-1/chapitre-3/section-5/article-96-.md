@@ -1,0 +1,1 @@
+Les bordereaux de versements effectués conformément aux dispositions de l’article 91 du présent code tiennent lieu de déclaration. Les personnes concernées doivent, au plus tard le 30 avril de chaque année, souscrire une déclaration récapitulative des paiements effectués au titre d’une année.

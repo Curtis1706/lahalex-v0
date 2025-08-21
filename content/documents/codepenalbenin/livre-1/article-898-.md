@@ -1,0 +1,2 @@
+En matière de faune, il y a récidive d’infraction lorsque, dans les cinq (05) ans qui ont précédé l’infraction, le délinquant a été l’objet d’une condamnation définitive ou a bénéficié d’une transaction pour une infraction aux lois et règlements.
+Dans tous les cas de transaction, la preuve de celle-ci est rapportée par l’administration chargée de la faune.

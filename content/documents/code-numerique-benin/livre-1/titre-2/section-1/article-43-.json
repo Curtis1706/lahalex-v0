@@ -1,0 +1,16 @@
+{
+  "id": "article-43-",
+  "title": "Article 43 : Octroi des licences et des autorisations et réalisation des déclarations",
+  "numero": "43 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "section-1"
+  ],
+  "navigation": {
+    "parent": "section-1",
+    "previous": "article-42-",
+    "next": "article-44-"
+  }
+}

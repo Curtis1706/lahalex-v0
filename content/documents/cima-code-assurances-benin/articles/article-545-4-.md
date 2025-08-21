@@ -1,0 +1,3 @@
+Article 545-4 : Publication
+Les décisions du Ministre en charge des assurances de l’Etat membre qui comportent à la charge des personnes physiques ou morales une obligation pécuniaire forment titre exécutoire et sont publiés au Journal officiel de la CIMA. Elles peuvent également être publiées dans un journal d’annonces légales de l’Etat sur le territoire duquel est situé le courtier ou la société de courtage d’assurance.
+## TITRE 5 : DISPOSITIONS TRANSITOIRES

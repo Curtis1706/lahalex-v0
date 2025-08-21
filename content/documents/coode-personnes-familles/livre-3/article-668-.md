@@ -1,0 +1,1 @@
+Si, à l’expiration du délai prévu à l’article 666, il n'existe pas de créancier ou de légataire qui soient connus de l’héritier, ce dernier paie les créanciers et légataires à mesure qu’ils se présentent.

@@ -1,0 +1,15 @@
+{
+  "id": "article-18-",
+  "title": "Article 18 :",
+  "numero": "18 ",
+  "document": "codepensions",
+  "path": [
+    "titre-3",
+    "chapitre-3"
+  ],
+  "navigation": {
+    "parent": "chapitre-3",
+    "previous": "article-17-1-",
+    "next": "article-18-nouveau-"
+  }
+}

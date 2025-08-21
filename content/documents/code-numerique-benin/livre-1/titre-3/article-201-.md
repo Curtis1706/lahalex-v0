@@ -1,0 +1,3 @@
+Indemnisation
+Les servitudes visées à l’article précédent donnent droit à indemnisation s’il en résulte un dommage. Le montant de l’indemnisation, à défaut de règlement à l’amiable, est fixé par la juridiction compétente.
+Sous peine de forclusion, la demande d’indemnisation parvient au bénéficiaire des servitudes dans un délai de deux (02) ans à compter de la date de notification aux intéressés des sujétions dont ils sont l’objet.

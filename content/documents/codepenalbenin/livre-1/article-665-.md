@@ -1,0 +1,1 @@
+Quiconque a contrevenu aux interdictions prévues aux articles 663 et 664 est puni d’un emprisonnement de six (06) mois à deux (02) ans et d’une amende de 1 million (1.000.000) de francs CFA à deux millions (2.000.000) de francs CFA ou de l’une de ces deux peines seulement.

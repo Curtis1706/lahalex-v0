@@ -1,0 +1,1 @@
+Dans le cours ou à la suite des dépositions, le président fait, s’il est nécessaire, présenter les pièces à conviction à l’accusé ou aux témoins. Le président les fait aussi présenter, s’il y a lieu, aux assesseurs et aux jurés.

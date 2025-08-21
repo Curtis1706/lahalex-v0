@@ -1,0 +1,2 @@
+Répartitions
+A l’expiration de chaque association, une délibération du Conseil d’Administration de l’entreprise arrête la répartition entre les ayants droit. Une copie de cette délibération, certifiée par le directeur de l’entreprise et par deux membres du Conseil d’Administration spécialement désignés à cet effet par le Conseil, est adressée à la Commission de Contrôle des Assurances avec un état nominatif de la répartition en double exemplaire.

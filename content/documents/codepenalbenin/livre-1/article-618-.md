@@ -1,0 +1,1 @@
+Le faux témoin en matière criminelle qui a reçu de l’argent, une récompense quelconque ou des promesses, est puni de la réclusion criminelle à temps de dix (10) ans à vingt (20) ans.

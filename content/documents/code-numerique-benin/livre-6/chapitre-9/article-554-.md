@@ -1,0 +1,2 @@
+Provocation de crime ou de délit
+Seront punis comme complices d'une action qualifiée de crime ou de délit, ceux qui au moyen d’un ou sur un réseau de communication électronique ou un système informatique auront directement provoqué l'auteur ou les auteurs à commettre ladite action, si la provocation a été suivie d'effet.

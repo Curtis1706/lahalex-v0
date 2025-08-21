@@ -1,0 +1,2 @@
+Cent-vingt (120) jours avant la date des élections législatives et communales, une liste électorale informatisée provisoire (LEIP) est extraite du registre national : elle est présentée par centre de vote.
+La liste électorale provisoire est affichée dans tous les centres de vote pendant au moins quinze (15) jours.

@@ -1,0 +1,2 @@
+En cas de remboursement total des sommes détournées par les auteurs de détournement de deniers publics, d’abus de biens sociaux ou d’autres crimes et délits économiques avant le déclenchement de l’action publique, les poursuites pénales deviennent sans objet à leur égard.
+Tout remboursement total pendant la poursuite pénale et avant l’ouverture du procès pénal constitue des circonstances atténuantes.

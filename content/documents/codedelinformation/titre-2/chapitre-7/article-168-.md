@@ -1,0 +1,1 @@
+Les conditions d’exploitation publicitaire des œuvres de l’esprit sont réglementées par la législation en vigueur en République du Bénin.

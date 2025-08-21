@@ -1,0 +1,2 @@
+Solvabilité ajustée - Principe général
+Toute entreprise tenue d’établir des comptes consolidés ou combinés en application de l’article 434 doit justifier d’une solvabilité ajustée positive pour le compte des entités consolidées ou combinées.

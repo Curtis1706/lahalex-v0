@@ -1,0 +1,2 @@
+L’inculpé arrêté en vertu d’un mandat d’arrêt est conduit sans délai dans la maison d’arrêt indiquée sur le mandat sous réserve des dispositions de l’article 140alinéa 2 du présent code.
+Le surveillant-chef délivre à l’agent chargé de l’exécution une reconnaissance de la remise de l’inculpé.

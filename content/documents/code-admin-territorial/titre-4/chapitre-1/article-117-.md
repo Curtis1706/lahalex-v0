@@ -1,0 +1,1 @@
+La destitution du maire ou des adjoints au maire s'opère dans les conditions déterminées par le code électoral.

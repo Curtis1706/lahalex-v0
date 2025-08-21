@@ -1,0 +1,9 @@
+Article 806-1 : _(Règlement 2015-02)_ Entreprise étrangère, succursale, bureau de souscription, de représentation ou de liaison
+1) Toute demande d’agrément présentée par une entreprise dont le siège social est situé hors de l’espace CIMA où et qui désire s’installer dans l’un des États membres, doit être produite en double exemplaire et comporter, outre les documents prévus aux a), d) et e) de l’article 806 :
+a) le bilan, le compte d’exploitation générale et le compte général de pertes et profits pour chacun des trois derniers exercices sociaux ; toutefois, lorsque l’entreprise compte moins de trois exercices sociaux, ces documents ne doivent être fournis que pour les exercices clôturés ;
+b) un certificat délivré par les autorités administratives compétentes, énumérant les branches que l’entreprise est habilitée à pratiquer ainsi que les risques qu’elle garantit effectivement et attestant qu’elle est constituée et qu’elle fonctionne dans son pays d’origine conformément aux lois de ce pays, un avis favorable de l’autorité compétente du pays d’origine ;
+c) la proposition à l’acceptation de la Commission de Contrôle des Assurances d’une personne physique ayant la qualité de mandataire général et satisfaisant aux conditions fixées par la Commission Régionale de Contrôle des Assurances ;
+d) un programme d’activités comportant les pièces mentionnées au f), 1 à 6 de l’article 806 ;
+e) la justification que l’entreprise possède sur le territoire de l’État membre, une succursale, un bureau de souscription, de représentation ou de liaison où elle fait élection de domicile ;
+f) l’extrait original du registre de commerce et du crédit mobilier.
+2) En cas de demande d’extension d’agrément, les documents mentionnés aux d) et e) de l’article 806 ainsi qu’aux c) et e) du présent article ne sont pas exigés.

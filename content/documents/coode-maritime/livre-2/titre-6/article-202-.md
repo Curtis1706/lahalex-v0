@@ -1,0 +1,4 @@
+L’audition des témoins est effectuée au cours de l’enquête maritime conformément à la pratique et aux usages maritimes en vigueur en République du Bénin.
+Un témoin n’est pas autorisé à prendre connaissance du contenu de la déposition faite par une autre personne.
+Dans la mesure du possible, un témoin qui a été appelé à déposer ne doit pas pouvoir communiquer avec une personne ayant encore à apporter son témoignage.
+Le propriétaire du navire, les propriétaires de la cargaison, l’assureur ou toute autre personne intéressée par les événements donnant lieu à enquête maritime, peuvent être autorisés à interroger les témoins à la fin de l’enquête.

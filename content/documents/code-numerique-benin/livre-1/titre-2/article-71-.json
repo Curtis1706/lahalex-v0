@@ -1,0 +1,15 @@
+{
+  "id": "article-71-",
+  "title": "Article 71 : Obligations imposées spécifiquement aux opérateurs dominants",
+  "numero": "71 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-70-",
+    "next": "article-72-"
+  }
+}

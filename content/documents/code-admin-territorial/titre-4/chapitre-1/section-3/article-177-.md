@@ -1,0 +1,2 @@
+Le chef d’arrondissement peut démissionner de ses fonctions. H en saisit le maire par écrit. Le maire en informe sans délai le conseil communal et le préfet par écrit. La démission prend effet le huitième jour à compter de sa notification au maire.
+Le chef d’arrondissement qui démissionne de ses fonctions conserve sa qualité de conseiller communal, sauf s’il en démissionne également.

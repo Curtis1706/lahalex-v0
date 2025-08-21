@@ -1,0 +1,11 @@
+Les affiches doivent indiquer :
+- les nom, profession et domicile du poursuivant ;
+- les titres en vertu desquels il agit ;
+- les nom, profession et domicile du propriétaire du bâtiment saisi ;
+- le nom du bâtiment et celui du capitaine, s’il est armé ;
+- l’élection de domicile dans le lieu où siège le tribunal et où se trouve le bâtiment ;
+- les caractéristiques du navire (tonnage brut et net, mode de propulsion et puissance) ;
+- le lieu où il se trouve ;
+- la mise à prix et les conditions de vente ;
+- les jour, heure et lieu de l’adjudication ;
+- le montant de la somme due au créancier poursuivant.

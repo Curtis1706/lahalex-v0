@@ -1,0 +1,832 @@
+{
+  "id": "code-investissement-benin",
+  "title": "Code des Investissements - République du Bénin",
+  "type": "codes",
+  "description": "Loi n°2020-02 du 20 mars 2020 portant Code des investissements en République du Bénin, fixant les conditions, avantages et règles générales applicables aux investissements directs nationaux et étrangers, ainsi que les régimes privilégiés, les garanties, obligations, procédures d’agrément, mesures d’exonération, sanctions et dispositions finales.",
+  "structure": {
+    "sections": [
+      {
+        "id": "titre-1",
+        "title": "TITRE 1 : DISPOSITIONS GENERALES",
+        "type": "titre",
+        "level": 2,
+        "order": 0,
+        "path": [
+          "titre-1"
+        ],
+        "children": [
+          "chapitre-1",
+          "chapitre-2",
+          "chapitre-3"
+        ]
+      },
+      {
+        "id": "chapitre-1",
+        "title": "Chapitre 1 : Définitions",
+        "type": "chapitre",
+        "level": 3,
+        "order": 1,
+        "path": [
+          "titre-1",
+          "chapitre-1"
+        ],
+        "children": [
+          "article-1-"
+        ]
+      },
+      {
+        "id": "article-1-",
+        "title": "Article 1 : Au sens de la présente loi, on entend par :",
+        "type": "article",
+        "level": 3,
+        "order": 2,
+        "path": [
+          "titre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-2",
+        "title": "Chapitre 2 : Objectifs et champ d’application de la loi",
+        "type": "chapitre",
+        "level": 3,
+        "order": 3,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": [
+          "article-2-",
+          "article-3-",
+          "article-4-",
+          "article-5-",
+          "article-6-"
+        ]
+      },
+      {
+        "id": "article-2-",
+        "title": "Article 2 : La présente loi portant Code des investissements fixe les conditions, avantages et règles générales applicables aux investissements directs, nationaux et étrangers, réalisés au Bénin. Il a pour objet de promouvoir, faciliter et protéger l’investissement durable et responsable en République du Bénin dans le but d’accélérer la croissance économique et de réduire !a pauvreté. A ce titre, il a vocation à encourager la création et le développement des activités visant à :",
+        "type": "article",
+        "level": 3,
+        "order": 4,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-3-",
+        "title": "Article 3 : Le présent Code s’applique à tous les investissements réalisés en République du Bénin par une personne morale, à l’exception des investissements réalisés dans le cadre de partenariat public privé, et des investissements bénéficiant de régimes d’aides spécifiques déterminés par la loi fixant régime des Zones Economiques Spéciales, ou des lois particulières régissant des activités spécifiques telles que la recherche, l’exploration et l’exploitation minière et pétrolière.",
+        "type": "article",
+        "level": 3,
+        "order": 5,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-4-",
+        "title": "Article 4 : Les investissements en République du Bénin sont soumis à un régime de droit commun et peuvent bénéficier de l’un des régimes privilégiés du présent Code.",
+        "type": "article",
+        "level": 3,
+        "order": 6,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-5-",
+        "title": "Article 5 : A l’ occasion d’une extension de leurs activités, les avantages des régimes privilégiés prévus pour la phase d’installation ne peuvent être accordés aux entreprises existantes que si l’extension ne concerne pas une activité qui avait précédemment bénéficié d’un agrément au Code des investissements.",
+        "type": "article",
+        "level": 3,
+        "order": 7,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-6-",
+        "title": "Article 6 : Lorsque coexistent au sein d’une entreprise des activités bénéficiant d’un régime privilégié et d’autres soumises au droit commun, les premières doivent obligatoirement être sujettes à une comptabilité séparée permettant d’isoler clairement leurs résultats de ceux de toute l’entreprise.",
+        "type": "article",
+        "level": 3,
+        "order": 8,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-3",
+        "title": "Chapitre 3 : Cadre institutionnel",
+        "type": "chapitre",
+        "level": 3,
+        "order": 9,
+        "path": [
+          "titre-1",
+          "chapitre-3"
+        ],
+        "children": [
+          "article-7-",
+          "article-8-",
+          "article-9-",
+          "article-10-"
+        ]
+      },
+      {
+        "id": "article-7-",
+        "title": "Article 7 :\tLes institutions de l’Etat chargées de la promotion des investissements comprennent :",
+        "type": "article",
+        "level": 3,
+        "order": 10,
+        "path": [
+          "titre-1",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-8-",
+        "title": "Article 8 : L’Agence nationale en charge de la promotion des investissements est l’organe technique de l’Etat qui exerce les fonctions de guichet unique en vue de faciliter les formalités administratives relatives à l’agrément des projets attachés au présent Code. Elle veille également au suivi des cahiers des charges des entreprises conformément au présent Code.",
+        "type": "article",
+        "level": 3,
+        "order": 11,
+        "path": [
+          "titre-1",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-9-",
+        "title": "Article 9 : La Commission de Contrôle des Investissements est chargée de vérifier la conformité des investissements, le respect des engagements de l’investisseur et d’attester la fin de la période d’installation de l’investisseur.",
+        "type": "article",
+        "level": 3,
+        "order": 12,
+        "path": [
+          "titre-1",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-10-",
+        "title": "Article 10 : Le Comité interministériel de Promotion des Investissements (CIPI) est l’organe chargé du suivi et de l’évaluation de tous les investissements ayant bénéficié des avantages prévus par le présent Code.",
+        "type": "article",
+        "level": 3,
+        "order": 13,
+        "path": [
+          "titre-1",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-2",
+        "title": "TITRE 2 : DISPOSITIONS COMMUNES",
+        "type": "titre",
+        "level": 2,
+        "order": 14,
+        "path": [
+          "titre-2"
+        ],
+        "children": [
+          "article-11-",
+          "article-12-",
+          "article-13-",
+          "article-14-",
+          "article-15-",
+          "article-16-",
+          "article-17-",
+          "article-18-",
+          "article-19-",
+          "article-20-",
+          "article-21-",
+          "article-22-",
+          "article-23-",
+          "article-24-",
+          "article-25-",
+          "article-26-",
+          "article-27-",
+          "article-28-",
+          "article-29-",
+          "article-30-",
+          "chapitre-4"
+        ]
+      },
+      {
+        "id": "article-11-",
+        "title": "Article 11 : Les investissements visés par les dispositions du présent Code sont réalisés librement dans le respect des lois et règlements en vigueur en République du Bénin.",
+        "type": "article",
+        "level": 2,
+        "order": 16,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-12-",
+        "title": "Article 12 : Sans préjudice de la politique de promotion de l’entreprenariat national, les personnes morales de nationalité étrangère ne reçoivent pas un traitement moins favorable que celui accordé aux personnes morales de nationalité béninoise.",
+        "type": "article",
+        "level": 2,
+        "order": 17,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-13-",
+        "title": "Article 13 : L’accès aux devises n’est pas limité.",
+        "type": "article",
+        "level": 2,
+        "order": 18,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-14-",
+        "title": "Article 14 : Conformément aux accords et traités Internationaux auxquels il est partie, l’Etat protège les droits de propriété intellectuelle, notamment les brevets, marques et noms commerciaux.",
+        "type": "article",
+        "level": 2,
+        "order": 19,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-15-",
+        "title": "Article 15 : L’Etat garantit à tout bénéficiaire du Code la liberté de désignation des membres du Conseil d’Administration, du Directeur Général ou du Gérant, selon le cas.",
+        "type": "article",
+        "level": 2,
+        "order": 20,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-16-",
+        "title": "Article 16 : La protection de la propriété privée des biens est garantie par les lois et règlements en vigueur en République du Bénin.",
+        "type": "article",
+        "level": 2,
+        "order": 21,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-17-",
+        "title": "Article 17 : Le rapatriement de tout actif de l’investisseur est garanti sous réserve de sa régularité fiscale et légale, et dans les conditions fixées par la réglementation des changes.",
+        "type": "article",
+        "level": 2,
+        "order": 22,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-18-",
+        "title": "Article 18 : Tout expatrié, membre du personnel d’une entreprise bénéficiant des dispositions du présent Code, est autorisé à transférer librement, conformément aux dispositions de la réglementation des changes, tout ou partie de sa rémunération, quels qu’en soient la nature juridique et le montant exprimé en monnaie locale ou en devises.",
+        "type": "article",
+        "level": 2,
+        "order": 23,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-19-",
+        "title": "Article 19 : L’Etat facilite l’accès des investisseurs aux zones industrielles aménagées, aux terres agricoles, aux zones d’intérêt touristique ou à toutes autres zones aménagées pour des investissements selon la réglementation en vigueur. Il contribue à sécuriser et à protéger les entreprises implantées dans ces zones sans que cela puisse constituer une obligation de résultat.",
+        "type": "article",
+        "level": 2,
+        "order": 24,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-20-",
+        "title": "Article 20 : L’investisseur s’oblige au respect des lois et règlements de l’Etat.",
+        "type": "article",
+        "level": 2,
+        "order": 26,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-21-",
+        "title": "Article 21 : L’investisseur contribue au renforcement du savoir‐faire du personnel local notamment par la formation et le transfert de technologies.",
+        "type": "article",
+        "level": 2,
+        "order": 27,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-22-",
+        "title": "Article 22 : L’investisseur bénéficiant d’avantages prévus par le présent Code est tenu de se conformer aux normes techniques, sociales, sanitaires et environnementales, nationales ou, à défaut, internationales applicables à ses produits, services et environnement de travail. Il doit se conformer, en outre, aux normes relatives aux systèmes de management de la qualité.",
+        "type": "article",
+        "level": 2,
+        "order": 28,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-23-",
+        "title": "Article 23 : Toute entreprise qui sollicite l’un des régimes privilégiés visés à l’article 4 de la présente loi s’engage à contribuer à accroître la qualification de ses collaborateurs locaux, notamment par la formation continue, le développement de leurs compétences et le transfert de technologies.",
+        "type": "article",
+        "level": 2,
+        "order": 29,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-24-",
+        "title": "Article 24 : L’Entreprise bénéficiaire d’un régime privilégié est tenue :",
+        "type": "article",
+        "level": 2,
+        "order": 30,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-25-",
+        "title": "Article 25 : L’investisseur s’abstient de tout acte de corruption et de tout acte d’infractions connexes avant, pendant ou après son établissement.",
+        "type": "article",
+        "level": 2,
+        "order": 31,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-26-",
+        "title": "Article 26 : La durée de l’agrément couvre :",
+        "type": "article",
+        "level": 2,
+        "order": 33,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-27-",
+        "title": "Article 27 : La période d’installation court à partir de la date d’effet de l’agrément et s’étend sur la période indiquée sur le certificat d’agrément.",
+        "type": "article",
+        "level": 2,
+        "order": 34,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-28-",
+        "title": "Article 28 : La période d’exploitation agréée prend effet à compter de la date de délivrance de l’attestation constatant la fin de la réalisation du programme d’investissement.",
+        "type": "article",
+        "level": 2,
+        "order": 35,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-29-",
+        "title": "Article 29 : La période d’exploitation agréée au régime privilégié est fixée en fonction de la zone d’implantation du projet comme suit :",
+        "type": "article",
+        "level": 2,
+        "order": 36,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-30-",
+        "title": "Article 30 : En application des dispositions de l’article 29 de la présente loi, le territoire béninois est divisé en trois (03) zones 1, 2 et 3 qui sont définies par décret pris en Conseil des ministres.",
+        "type": "article",
+        "level": 2,
+        "order": 37,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-4",
+        "title": "Chapitre 4 : Procédure d’octroi des régimes privilégiés",
+        "type": "chapitre",
+        "level": 3,
+        "order": 38,
+        "path": [
+          "titre-2",
+          "chapitre-4"
+        ],
+        "children": [
+          "article-31-",
+          "article-32-",
+          "article-33-",
+          "article-34-"
+        ]
+      },
+      {
+        "id": "article-31-",
+        "title": "Article 31 : Toute entreprise qui sollicite l’octroi d’un régime privilégié formule la demande auprès de l’Agence nationale en charge de la promotion des investissements.",
+        "type": "article",
+        "level": 3,
+        "order": 39,
+        "path": [
+          "titre-2",
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-32-",
+        "title": "Article 32 : L’Agence nationale en charge de la promotion des investissements examine l’adéquation du projet aux objectifs de ce Code, sur la base d’un plan d’investissement soumis par l’investisseur. Toute demande d’agrément jugée acceptable à l’issue des études techniques donne lieu à la délivrance au profit du requérant d’un certificat d’acceptabilité technique par l’Agence nationale en charge de la promotion des investissements.",
+        "type": "article",
+        "level": 3,
+        "order": 40,
+        "path": [
+          "titre-2",
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-33-",
+        "title": "Article 33 : En cas de non‐respect du délai de délivrance du certificat d’agrément technique ou de tout autre manquement dûment constaté, au niveau de l’Agence nationale en charge de la promotion des investissements relativement au traitement des demandes d’agrément, l’investisseur saisit la Commission de Contrôle des Investissements qui dispose de sept (7) jours ouvrables pour interpeller l’Agence et faire prendre les mesures appropriées en vue de l’émission, dans ce délai, d’une décision motivée. La structure de tutelle de l’Agence nationale en charge de la promotion des investissements reçoit ampliation de la lettre d’interpellation ainsi que de la décision technique de l’Agence nationale en charge de la promotion des investissements.",
+        "type": "article",
+        "level": 3,
+        "order": 41,
+        "path": [
+          "titre-2",
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-34-",
+        "title": "Article 34 : Le certificat d’agrément technique et l’arrêté interministériel constatant l’agrément final, chacun en ce qui le concerne :",
+        "type": "article",
+        "level": 3,
+        "order": 42,
+        "path": [
+          "titre-2",
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-3",
+        "title": "TITRE 3 : DIFFERENTS REGIMES ET LEURS AVANTAGES",
+        "type": "titre",
+        "level": 2,
+        "order": 43,
+        "path": [
+          "titre-3"
+        ],
+        "children": [
+          "article-35-",
+          "article-36-",
+          "article-37-",
+          "article-38-",
+          "chapitre-5",
+          "chapitre-6"
+        ]
+      },
+      {
+        "id": "article-35-",
+        "title": "Article 35 : Pour garantir une bonne administration des régimes d’agrément, la Direction Générale des Douanes et Droits Indirects crée pour chaque investisseur un sommier de gestion et de suivi des importations de biens éligibles.",
+        "type": "article",
+        "level": 2,
+        "order": 45,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-36-",
+        "title": "Article 36 : L’agrément au régime A comporte les avantages suivants :",
+        "type": "article",
+        "level": 2,
+        "order": 47,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-37-",
+        "title": "Article 37 : L’agrément au régime B comporte les avantages suivants :",
+        "type": "article",
+        "level": 2,
+        "order": 48,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-38-",
+        "title": "Article 38 : L’agrément au régime C comporte les avantages suivants :",
+        "type": "article",
+        "level": 2,
+        "order": 50,
+        "path": [
+          "titre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-5",
+        "title": "Chapitre 5 : Régime d’incitation sectorielle",
+        "type": "chapitre",
+        "level": 3,
+        "order": 51,
+        "path": [
+          "titre-3",
+          "chapitre-5"
+        ],
+        "children": [
+          "article-39-"
+        ]
+      },
+      {
+        "id": "article-39-",
+        "title": "Article 39 : Le régime d’incitation sectorielle vise à accorder des avantages supplémentaires aux investisseurs éligibles aux régimes « A » ou « B » qui investissent dans les secteurs ou activités définis par décret pris en Conseil des Ministres.",
+        "type": "article",
+        "level": 3,
+        "order": 52,
+        "path": [
+          "titre-3",
+          "chapitre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-6",
+        "title": "Chapitre 6 : Régime des investissements spécifiques",
+        "type": "chapitre",
+        "level": 3,
+        "order": 53,
+        "path": [
+          "titre-3",
+          "chapitre-6"
+        ],
+        "children": [
+          "article-40-"
+        ]
+      },
+      {
+        "id": "article-40-",
+        "title": "Article 40 : Les projets éligibles au régime des investissements spécifiques bénéficient d’une exonération totale des droits et taxes d’entrée, à l’exception de la taxe de voirie, de la taxe de statistique, du timbre douanier, du Prélèvement Communautaire (PC), du Prélèvement Communautaire de Solidarité (PCS) et du Prélèvement de Solidarité (PS) sur l’ensemble des investissements agréés.",
+        "type": "article",
+        "level": 3,
+        "order": 54,
+        "path": [
+          "titre-3",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-4",
+        "title": "TITRE 4 : SANCTIONS ET REGLEMENT DES DIFFERENDS",
+        "type": "titre",
+        "level": 2,
+        "order": 55,
+        "path": [
+          "titre-4"
+        ],
+        "children": [
+          "article-41-",
+          "article-42-",
+          "article-43-",
+          "article-44-",
+          "article-45-"
+        ]
+      },
+      {
+        "id": "article-41-",
+        "title": "Article 41 : Le détournement de sa destination de tout bien importé selon un régime privilégié du présent Code :",
+        "type": "article",
+        "level": 2,
+        "order": 57,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-42-",
+        "title": "Article 42 : En cas de non‐respect de l’une des obligations prescrites aux articles 20 à 25 ci‐ avant, dûment constaté par la Commission de Contrôle des Investissements, l’Entreprise est passible d’une amende dont le montant est défini dans un décret d’application de la présente loi.",
+        "type": "article",
+        "level": 2,
+        "order": 58,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-43-",
+        "title": "Article 43 : En cas de violation grave ou de récidive ou en cas de non réalisation du programme d’investissement constatée après l’expiration de la période d’installation, ou en cas de non‐respect par l’investisseur de ses obligations en vertu de l’agrément d’exploitation, le bénéfice d’un régime du présent Code peut être retiré à l’entreprise agréée. La décision de retrait de l’agrément est prononcée par le Conseil des Ministres sur la base d’un rapport établi par l’Agence nationale en charge de la promotion des investissements ou de la Commission de Contrôle des Investissements.",
+        "type": "article",
+        "level": 2,
+        "order": 59,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-44-",
+        "title": "Article 44 : En cas de retrait du bénéfice d’un régime du présent Code, l’entreprise en cause est tenue de rembourser à l’Etat béninois, la valeur ou l’équivalent en valeur des avantages induits qu’elle a obtenus pendant la durée d’agrément.",
+        "type": "article",
+        "level": 2,
+        "order": 60,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-45-",
+        "title": "Article 45 : Les difficultés d’interprétation des dispositions du présent Code sont réglées par voie d’instructions ou de circulaires du Comité Interministériel de Promotion des Investissements sur proposition de l’Agence nationale chargée de la promotion des investissements.",
+        "type": "article",
+        "level": 2,
+        "order": 62,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-5",
+        "title": "TITRE 5 : DISPOSITIONS DIVERSES",
+        "type": "titre",
+        "level": 2,
+        "order": 63,
+        "path": [
+          "titre-5"
+        ],
+        "children": [
+          "article-46-",
+          "article-47-",
+          "article-48-",
+          "article-49-",
+          "article-50-",
+          "article-51-"
+        ]
+      },
+      {
+        "id": "article-46-",
+        "title": "Article 46 : Sont exclus du régime de franchise pour l’application des dispositions de la présente loi, les matériaux de construction et de finition, le matériel de bureau, les appareils et matériels électroménagers, les voitures particulières de tourisme, le matériel de climatisation à l’exception du matériel de climatisation centrale, les produits pétroliers à l’exception des lubrifiants, du fuel oil, du gasoil, utilisés comme matières premières et des produits bitumineux.",
+        "type": "article",
+        "level": 2,
+        "order": 64,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-47-",
+        "title": "Article 47 : Les opérations réalisées par l’entreprise agréée qui ne relèveraient pas expressément des activités énumérées dans le certificat d’agrément, demeurent soumises aux dispositions du droit commun.",
+        "type": "article",
+        "level": 2,
+        "order": 65,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-48-",
+        "title": "Article 48 :\tLe bénéfice d’un régime accordé à une entreprise conformément aux dispositions du présent Code n’est pas transmissible.",
+        "type": "article",
+        "level": 2,
+        "order": 66,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-49-",
+        "title": "Article 49 : L’agrément à un régime du présent Code ne peut être ni renouvelé, ni prorogé. A l’expiration de la période d’agrément, l’entreprise perd ledit régime et ses activités relèvent des dispositions du droit commun.",
+        "type": "article",
+        "level": 2,
+        "order": 67,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-50-",
+        "title": "Article 50 :\tAucune décision législative ou réglementaire prenant effet à une date postérieure à celle de l’agrément, ne peut avoir pour effet de supprimer ou de restreindre à l’égard de l’entreprise les dispositions du régime dont elle bénéficie pour la durée de l’agrément sauf dans le cas des sanctions prévues aux articles 41 à 44 ci‐ dessus.",
+        "type": "article",
+        "level": 2,
+        "order": 68,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-51-",
+        "title": "Article 51 : Une entreprise agréée peut demander à bénéficier de toute disposition plus favorable qui pourrait intervenir dans la législation fiscale et douanière.",
+        "type": "article",
+        "level": 2,
+        "order": 69,
+        "path": [
+          "titre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-6",
+        "title": "TITRE 6 : DISPOSITIONS TRANSITOIRES ET FINALES",
+        "type": "titre",
+        "level": 2,
+        "order": 70,
+        "path": [
+          "titre-6"
+        ],
+        "children": [
+          "article-52-",
+          "article-53-",
+          "article-54-"
+        ]
+      },
+      {
+        "id": "article-52-",
+        "title": "Article 52 : Les garanties et les avantages, consentis à certaines entreprises dans le cadre de la loi n°90‐002 du 09 mai 1990 portant Code des Investissements, modifiée par la loi n°90‐033 du 24 décembre 1990 et l’ordonnance n°2008‐04 du 28 juillet 2008, modifiée par l’ordonnance n°2008‐06 du 05 novembre 2008, leur restent acquis jusqu’à l’expiration des délais définis par leurs actes d’agrément.",
+        "type": "article",
+        "level": 2,
+        "order": 71,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-53-",
+        "title": "Article 53 : Des décrets pris en Conseil des Ministres précisent les modalités d’application de la présente loi.",
+        "type": "article",
+        "level": 2,
+        "order": 72,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-54-",
+        "title": "Article 54 : La présente loi qui abroge toutes dispositions antérieures contraires et notamment la loi n°90‐002 du 09 mai 1990 portant Code des investissements, modifiée par la loi n°90‐033 du 24 décembre 1990 et l’ordonnance n°2008‐04 du 28 juillet 2008, modifiée par l’ordonnance n°2008‐06 du 05 novembre 2008 et le décret n°98‐453 du 08 octobre 1998, sera publiée au Journal officiel et exécutée comme Loi de l’Etat.",
+        "type": "article",
+        "level": 2,
+        "order": 74,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      }
+    ],
+    "totalArticles": 54
+  },
+  "source": "nationale"
+}

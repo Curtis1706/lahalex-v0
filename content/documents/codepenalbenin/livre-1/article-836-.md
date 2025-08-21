@@ -1,0 +1,7 @@
+Quiconque a empoisonné des chevaux ou autres bêtes de voiture, de monture ou de charge, des bestiaux à cornes, des moutons, chèvres et porcs, ou des poissons dans des étangs, des viviers ou des réservoirs, est puni d’un emprisonnement de un (01)an à cinq (05) ans et d’une amende de cinquante mille (50.000) francs CFA à deux cent cinquante mille (250.000) francs CFA.
+Il pourra en outre être interdit de séjour pendant une durée de deux (02) ans au moins et de cinq (05) ans au plus.
+Ceux qui, sans nécessité, ont tué ou mutilé l’un des animaux mentionnés au présent article, sont punis ainsi qu’il suit :
+- si le délit a été commis dans les bâtiments, enclos et dépendances ou sur les terres dont le maître de l’animal tué ou mutilé était propriétaire, locataire, métayer ou fermier, la peine sera d’un emprisonnement de (01) mois à un (01) an ;
+- s’il a été commis dans tout autre lieu, l’emprisonnement sera de un (01) mois à six (06) mois.
+Quiconque a, sans nécessité, tué ou mutilé un animal domestique dans un lieu dont celui à qui cet animal appartient est propriétaire, locataire, métayer ou fermier, est puni d’un emprisonnement de un (01) mois à six (06) mois.
+Le maximum de la peine sera toujours prononcé en cas de violation de clôture.

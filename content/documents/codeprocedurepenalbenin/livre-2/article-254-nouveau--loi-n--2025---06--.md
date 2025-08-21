@@ -1,0 +1,3 @@
+Le tribunal de première instance statuant en matière criminelle est composé d'un président et de deux assesseurs.
+La cour d’appel statuant en matière criminelle est composée d'un président et de deux assesseurs.
+En cas d'insuffisance de magistrat, le président de la juridiction d’appel compétente peut désigner tout juge en fonction dans les juridictions de première instance de son ressort, à l’effet de compléter la formation de la cour d'appel statuant en matière criminelle ou d'un tribunal de première instance statuant en matière criminelle du ressort.

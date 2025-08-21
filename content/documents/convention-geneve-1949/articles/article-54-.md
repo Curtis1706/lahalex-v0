@@ -1,0 +1,3 @@
+Il est interdit à la Puissance occupante de modifier le statut des fonction- Magistrats naires ou des magistrats du territoire occupé ou de prendre à leur égard des et fonction- sanctions ou des mesures quelconques de coercition ou de discrimination naires parce qu’ils s’abstiendraient d’exercer leurs fonctions pour des considéra-
+tions de conscience.
+Cette dernière interdiction ne fait pas obstacle à l’application du deuxième alinéa de l’article 51. Elle laisse intact le pouvoir de la Puissance occupante d’écarter de leurs charges les titulaires de fonctions publiques.

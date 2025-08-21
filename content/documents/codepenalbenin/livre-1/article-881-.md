@@ -1,0 +1,1 @@
+Quiconque n’obtempère pas à une réquisition faite en vue de combattre un incendie de forêt ou menaçant une forêt ou un reboisement sera puni d’une amende de dix mille (10.000) francs CFA à cent mille (100.000) francs CFA et d’un emprisonnement de quinze (15) jours à six (06) mois ou de l’une de ces deux peines seulement.

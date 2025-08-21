@@ -1,0 +1,3 @@
+Article 330 : Le médecin ou la sage-femme qui est auteur d'un avortement non autorisé, perd le bénéfice du montant intégral de l'acte dont il est mis en débet au profit du Trésor public. Le matériel utilisé est saisi et est fait don à une formation sanitaire publique. S'il est un agent fonctionnaire de l'Etat, il est rétrogradé d'un échelon dans son plus haut grade et est suspendu de tout avancement pendant deux (02) ans. Il est également puni des mêmes peines que conformément aux dispositions de l'article précédent.
+SECTION II : DES PEINES CONTRE LES AUTEURS DE
+GROSSESSES PRECOCES

@@ -1,0 +1,14 @@
+{
+  "id": "article-4-",
+  "title": "ARTICLE 4 : PUBLICATION",
+  "numero": "4 ",
+  "document": "traite-revise-cedeao-1993",
+  "path": [
+    "chapitre-22"
+  ],
+  "navigation": {
+    "parent": "chapitre-22",
+    "previous": "article-2-",
+    "next": "article-5-"
+  }
+}

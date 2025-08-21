@@ -1,0 +1,8 @@
+Missions du délégué à la protection des données
+Les missions du délégué à la protection des données sont au moins les suivantes :
+1. informer et conseiller le responsable du traitement ou le sous-traitant ainsi que les employés qui procèdent au traitement sur les obligations qui leur incombent en vertu des dispositions du présent Livre en matière de protection des données ;
+1. contrôler le respect des dispositions du présent Livre en matière de protection des données et des règles internes du responsable du traitement ou du sous-traitant en matière de protection des données à caractère personnel, y compris en ce qui concerne la répartition des responsabilités, la sensibilisation et la formation du personnel participant aux opérations de traitement, et les audits s'y rapportant ;
+1. dispenser des conseils, sur demande, en ce qui concerne l'analyse d'impact relative à la protection des données et vérifier l'exécution de celle-ci en vertu de l'article 428 ;
+1. coopérer avec l'Autorité ;
+1. faire office de point focal pour l'Autorité sur les questions relatives au traitement, y compris la consultation préalable visée à l'article 412, et mener des consultations, le cas échéant, sur tout autre sujet.
+Le délégué à la protection des données tient dûment compte, dans l'accomplissement de 	ses missions, du risque associé aux opérations de traitement compte tenu de la nature, de la portée, du contexte et des finalités du traitement.

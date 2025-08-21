@@ -1,0 +1,1 @@
+Les avantages dont bénéficient les membres de la CENA sont fixés par décret pris en Conseil des ministres.

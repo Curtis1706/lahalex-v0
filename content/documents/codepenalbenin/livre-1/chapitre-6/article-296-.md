@@ -1,0 +1,3 @@
+Quiconque a contrefait le sceau de l’Etat ou fait usage du sceau contrefait, quiconque a contrefait ou falsifié soit des effets émis par le Trésor public avec son timbre ou sa marque, soit des billets de banque autorisés par la loi ou des billets de même nature émis par le Trésor ou qui a fait usage de ces effets et billets contrefaits ou falsifiés ou qui les a introduits sur le territoire béninois, est puni de la réclusion criminelle à perpétuité.
+Les sceaux contrefaits, les effets et billets contrefaits ou falsifiés sont confisqués et détruits.
+Les dispositions des articles 284 et 294, sont applicables au crime mentionné dans le présent article.

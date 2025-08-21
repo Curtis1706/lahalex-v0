@@ -1,0 +1,1 @@
+En cas de violation des dispositions des articles 146 à 148, les responsables cités à l’article 286 de la présente loi, seront punis d’une peine d’amende de cinq cent mille (500 000) francs à deux millions (2 000 000) de francs CFA.

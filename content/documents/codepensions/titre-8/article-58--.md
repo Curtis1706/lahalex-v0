@@ -1,0 +1,2 @@
+En cas de retard pour cause de force majeure, le travailleur concerné peut prétendre à une avance sur pension dont le montant ne saurait excéder celui d'un trimestre.
+Cependant la délivrance de son carnet ou de son livret de pension doit obligatoirement intervenir avant la fin de ce délai, sous peine des sanctions prévues aux articles 54 et 57 de la présent Loi.

@@ -1,0 +1,1 @@
+En cas de dissolution, de transformation entraînant la création d’un être moral nouveau, d’apport en société, de fusion ne bénéficiant pas du régime de faveur, de transfert de siège ou d’un établissement à l’étranger, l’impôt sur les sociétés est établi dans les conditions prévues à l’article 476 du présent code.

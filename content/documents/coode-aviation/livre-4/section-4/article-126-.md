@@ -1,0 +1,1 @@
+Le personnel du Bureau enquêtes-accidents, les enquêteurs de première information, les membres des équipes d'enquêtes, les experts, les représentants et les participants à l'enquête sont tenus au secret professionnel.

@@ -1,0 +1,2 @@
+Dissimulation de trafic international entrant ou sortant
+Est puni d’un emprisonnement de trois (03) ans à cinq (05) ans et d’une amende de cinq cent millions (500 000 000) à huit cent millions (800 000 000) de francs CFA ou de l’une de ces deux peines seulement, quiconque dissimule, ou participe, sous une forme ou une autre, à la dissimulation de trafic international entrant ou sortant en trafic national.

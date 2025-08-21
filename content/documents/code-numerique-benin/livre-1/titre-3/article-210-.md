@@ -1,0 +1,3 @@
+Rôle du Registre
+L’attribution et la gestion des noms de domaine rattachés à chaque domaine de premier niveau du système d'adressage 	par domaines de l’internet correspondant aux codes pays du territoire national « .bj » ou d’une partie de celui-ci sont centralisées par un organisme unique dénommé « Registre ».
+Le Registre établit chaque année un rapport d’activité qu’il soumet à l’Autorité de régulation.

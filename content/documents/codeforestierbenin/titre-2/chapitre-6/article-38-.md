@@ -1,0 +1,6 @@
+Les feux de brousse et les incendies de plantations
+sont interdits sur toute l'étendue du territoire de la République
+Populaire du Bénin.
+Toutefois des mises à feu peuvent être autorisées. Les modalités de ces
+mises à feu autorisées seront précisées par décret pris en Conseil
+Exécutif national.

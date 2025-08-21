@@ -1,0 +1,2 @@
+Dans les délais prévus à l’article 145 de la présente loi, le directeur de la station de radiodiffusion sonore ou de la télévision fait connaître au demandeur, par lettre ou par les voies les plus rapides, la suite qu’il entend donner à la demande.
+Lorsque le message contesté émane d’une personne autre que celle qui fournit le service, la décision relative au droit de réponse est prise par le directeur de la station de radiodiffusion sonore et de télévision.

@@ -1,0 +1,3 @@
+Sans préjudice des dispositions de l'article 196 de la présente loi, l'employeur des personnes qui exécutent les tâches concourant à la mise en œuvre des mesures de sûreté s'assure que son personnel est agréé conformément aux dispositions du programme national de sûreté de l'aviation civile, afin de garantir l’application systématique des normes de performance.
+L'employeur met en œuvre un plan de formation initiale et continue et d'entraînement périodique du personnel tels que requis par le programme national de formation à la sûreté de l'aviation civile.
+Les modalités d'application du présent article sont fixées par voie réglementaire.

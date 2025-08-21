@@ -1,0 +1,1 @@
+Le chef d'arrondissement est assisté d'un secrétaire administratif d’arrondissement, sans préjudice des pouvoirs propres de celui-ci.

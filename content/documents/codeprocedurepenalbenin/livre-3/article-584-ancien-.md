@@ -1,0 +1,1 @@
+Le pourvoi est formé par déclaration orale ou écrite que le demandeur lui-même ou un avocat ou tout mandataire muni d’un pouvoir spécial fait, remet ou adresse au greffe de la juridiction qui a rendu la décision attaquée.

@@ -1,0 +1,4 @@
+Commission Nationale d’Arbitrage
+Les conflits nés de l’exercice des recours sont obligatoirement soumis à un arbitrage auprès de la Commission Nationale d’Arbitrage composée de trois assureurs étrangers aux sociétés représentées dans le litige.
+Les membres composant la Commission d’Arbitrage rendent leur sentence en qualité d’amiables compositeurs dans le mois de leur saisine. Leur mandat, d’une durée annuelle, leur est dévolu par l’association nationale des assureurs automobile.
+Pour les marchés dont le nombre de sociétés est réduit, les assureurs désignent d’accord parties un tiers arbitre.

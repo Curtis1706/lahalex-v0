@@ -1,0 +1,3 @@
+Nul ne peut réclamer un état contraire à celui que lui donne son titre de naissance et la possession conforme à ce titre.
+Et, réciproquement, nul ne peut contester l’état de celui qui avait une possession conforme à son titre de naissance.
+Toutefois, s’il est allégué qu’il y a eu supposition d'enfant ou substitution, même involontaire, soit avant, soit après la rédaction de l’acte de naissance, la preuve en sera recevable et pourra se faire par tous moyens.

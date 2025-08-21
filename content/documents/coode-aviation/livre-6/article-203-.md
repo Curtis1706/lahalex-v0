@@ -1,0 +1,2 @@
+L'entreprise ou l'organisme implanté à l'extérieur de la zone réservée ou entre les limites côté ville et côté piste doit, pour y accéder afin de livrer des biens et produits destinés à être embarqués à bord des aéronefs, être agréé par l'organisme national en charge de l'aviation civile.
+L'entreprise ou l'établissement ainsi agréé en qualité d'établissement connu met en œuvre des mesures de sûreté appropriées pendant le conditionnement de ces biens et produits et préserve leur intégrité jusqu'à leur entrée en zone réservée.

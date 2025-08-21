@@ -1,0 +1,17 @@
+{
+  "id": "article-21-",
+  "title": "Article 21 : Les membres du Conseil électoral sont nommés par décret pris en Conseil des ministres pour un mandat de cinq (05) ans non renouvelables.",
+  "numero": "21 ",
+  "document": "code-electoral",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "chapitre-2",
+    "section-1"
+  ],
+  "navigation": {
+    "parent": "section-1",
+    "previous": "article-20-",
+    "next": "article-22-"
+  }
+}

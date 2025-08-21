@@ -1,0 +1,6 @@
+Zones et Dès le temps de paix, les Hautes Parties contractantes et, après l’ouverture des localités hostilités, les Parties au conflit, pourront créer sur leur propre territoire et, s’il
+sanitaires et en est besoin, sur les territoires occupés, des zones et localités sanitaires et de
+de sécurité sécurité organisées de manière à mettre à l’abri des effets de la guerre les bles- sés et les malades, les infirmes, les personnes âgées, les enfants de moins de
+quinze ans, les femmes enceintes et les mères d’enfants de moins de sept ans.
+Dès le début d’un conflit et au cours de celui-ci, les Parties intéressées pourront conclure entre elles des accords pour la reconnaissance des zones et localités qu’elles auraient établies. Elles pourront à cet effet mettre en vigueur les dis- positions prévues dans le projet d’accord annexé à la présente Convention, en y apportant éventuellement les modifications qu’elles jugeraient nécessaires.
+Les Puissances protectrices et le Comité international de la Croix-Rouge sont invités à prêter leurs bons offices pour faciliter l’établissement et la re- connaissance de ces zones et localités sanitaires et de sécurité.

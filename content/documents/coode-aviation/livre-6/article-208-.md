@@ -1,0 +1,3 @@
+Le financement de la réalisation et du maintien des objectifs définis au programme national de sûreté de l'aviation civile est assuré par un budget de sûreté établi chaque année par l'organisme national en charge de l'aviation civile.
+Les ressources du budget comprennent la redevance de sûreté et des subventions de l’Etat et/ou d'autres organismes.
+Les modalités d'établissement, de perception et d'affectation de la redevance de sûreté sont fixées par voie réglementaire conformément à la politique de l'Organisation de l'aviation civile internationale en matière de redevances de sûreté.

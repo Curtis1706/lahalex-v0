@@ -1,0 +1,1 @@
+L’action des créanciers qui se révèlent postérieurement à la clôture de la liquidation contre l’héritier ou les héritiers se prescrit dans le délai de deux (2) ans à compter de la clôture de la liquidation.

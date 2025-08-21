@@ -1,0 +1,1 @@
+Dans le respect des dispositions de la loi organique relative à la Haute Autorité de l’Audiovisuel et de la Communication, celle-ci connaît de tout litige relatif aux licences d’exploitation octroyées en application de la présente loi.

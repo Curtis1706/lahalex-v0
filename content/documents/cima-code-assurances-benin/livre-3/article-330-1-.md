@@ -1,0 +1,2 @@
+Excédent de recettes, répartition
+Les excédents de recettes des sociétés d’assurance mutuelles pratiquant une ou plusieurs des branches mentionnées aux 1 à 18 de l’article 328 sont répartis entre les sociétaires dans les conditions fixées par les statuts, sous réserve des dispositions du premier alinéa de l’article 330-35.

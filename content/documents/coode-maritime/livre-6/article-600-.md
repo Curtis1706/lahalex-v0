@@ -1,0 +1,5 @@
+Toute personne embarquée est punie d’un emprisonnement de trois (03) mois à cinq (05) ans et d’une amende de cinq cent mille (500.000) à cinq millions (5.000.000) de francs, ou de l’une de ces deux peines seulement dans les cas suivants :
+- si elle supprime intentionnellement, conserve abusivement ou ouvre une lettre confiée à ses soins pour être remise à une autre personne au lieu de la faire parvenir à son destinataire ;
+- si elle détourne, détériore ou vend volontairement un objet utile à la navigation, à la manœuvre ou à la sécurité du navire ou vend des vivres embarqués à bord sans autorisation du capitaine ;
+- si elle est trouvée en état d’ivresse à bord pendant le service ou si, en dehors du service, cette ivresse est suivie de désordre.
+Toutefois, lorsque la nature et les circonstances de la faute ne paraissent pas suffisantes au directeur de la marine marchande pour lui permettre de saisir le tribunal compétent, il peut conserver à l’infraction son caractère de faute disciplinaire et infliger à son auteur, une amende en conséquence.

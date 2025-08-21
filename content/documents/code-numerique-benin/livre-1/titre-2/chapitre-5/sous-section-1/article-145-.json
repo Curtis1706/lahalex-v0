@@ -1,0 +1,17 @@
+{
+  "id": "article-145-",
+  "title": "Article 145 : Appréciation de la position dominante",
+  "numero": "145 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "chapitre-5",
+    "sous-section-1"
+  ],
+  "navigation": {
+    "parent": "sous-section-1",
+    "previous": "article-144-",
+    "next": "article-146-"
+  }
+}

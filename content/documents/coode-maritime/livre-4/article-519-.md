@@ -1,0 +1,1 @@
+Si plusieurs assureurs couvrent un même risque dans un même contrat, chacun d’eux n’est tenu, sans solidarité avec les autres, que dans la proportion de la somme par lui assurée, laquelle constitue la limite de son engagement.

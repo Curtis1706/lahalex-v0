@@ -1,0 +1,1 @@
+Lorsque les communes relèvent de départements différents, l'autorité de tutelle dont le département abrite le siège de l’établissement public de coopération intercommunale est chargée du contrôle de légalité des actes posés dans le cadre de la coopération intercommunale. Il agit cependant de concert avec ses pairs du ou des autres départements concernés.

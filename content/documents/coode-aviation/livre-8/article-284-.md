@@ -1,0 +1,2 @@
+Les conditions d'agrément des médecins et des centres d’expertise médicale du personnel professionnel dont l'emploi est subordonné à la détention d'une licence sont fixées par voie réglementaire.
+La liste des médecins et centres d'expertise agréés est diffusée par l'organisme national en charge de l'aviation civile.

@@ -1,0 +1,3 @@
+Article 330-22 : Assemblée générale, périodicité
+Il est tenu chaque année au moins une assemblée générale au cours du trimestre fixé par les statuts et dans les conditions fixées par ces derniers. A cette assemblée sont présentés par le Conseil d’Administration le bilan, le compte d’exploitation générale et le compte général de pertes et profits de l’exercice écoulé.
+Le Conseil d’Administration peut, à toute époque, convoquer l’assemblée générale.

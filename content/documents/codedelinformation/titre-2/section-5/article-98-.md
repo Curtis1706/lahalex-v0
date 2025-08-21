@@ -1,0 +1,1 @@
+Le recours est fait par écrit, et copie est donnée pour information à l’organisme public concerné, ensemble avec tous autres renseignements que le demandeur jugera utile de produire pour éclairer la Haute Autorité de l’Audiovisuel et de la Communication.

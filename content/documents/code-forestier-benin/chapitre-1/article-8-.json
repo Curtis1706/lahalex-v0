@@ -1,0 +1,14 @@
+{
+  "id": "article-8-",
+  "title": "Article 8 : Le domaine forestier de l'Etat comprend :",
+  "numero": "8 ",
+  "document": "code-forestier-benin",
+  "path": [
+    "chapitre-1"
+  ],
+  "navigation": {
+    "parent": "chapitre-1",
+    "previous": "article-7-",
+    "next": "article-9-"
+  }
+}

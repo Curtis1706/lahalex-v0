@@ -1,0 +1,1 @@
+La législation du travail en vigueur est applicable, sous réserve des dispositions du présent chapitre et de celles des textes réglementaires.

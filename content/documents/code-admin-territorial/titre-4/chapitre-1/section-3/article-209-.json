@@ -1,0 +1,16 @@
+{
+  "id": "article-209-",
+  "title": "Article 209 :",
+  "numero": "209 ",
+  "document": "code-admin-territorial",
+  "path": [
+    "titre-4",
+    "chapitre-1",
+    "section-3"
+  ],
+  "navigation": {
+    "parent": "section-3",
+    "previous": "article-208-",
+    "next": "article-210-"
+  }
+}

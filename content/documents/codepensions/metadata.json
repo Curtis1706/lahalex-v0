@@ -1,0 +1,1135 @@
+{
+  "id": "codepensions",
+  "title": "Code des pensions civiles et militaires des retraites",
+  "type": "codes",
+  "description": "Code des pensions civiles et militaires des retraites en République du Bénin, fixant les règles relatives à la pension civile et militaire des retraites, incluant les dispositions générales, les régimes de retraite, les procédures de liquidation et de paiement des pensions, les droits et taxes applicables, les exemptions, la lutte contre la fraude et la contrebande, les pouvoirs de l'administration douanière, ainsi que les sanctions en cas d'infraction.",
+  "structure": {
+    "sections": [
+      {
+        "id": "titre-1",
+        "title": "TITRE 1 : DISPOSITIONS GENERALES",
+        "type": "titre",
+        "level": 1,
+        "order": 0,
+        "path": ["titre-1"],
+        "children": [
+          "article-1-",
+          "article-1-1-",
+          "article-2-"
+        ]
+      },
+      {
+        "id": "article-1-",
+        "title": "Article 1 :",
+        "type": "article",
+        "level": 2,
+        "order": 1,
+        "path": ["titre-1", "article-1-"],
+        "children": []
+      },
+      {
+        "id": "article-1-1-",
+        "title": "Article 1-1 : Ont droit au bénéfice des dispositions de la présente loi :",
+        "type": "article",
+        "level": 2,
+        "order": 2,
+        "path": ["titre-1", "article-1-1-"],
+        "children": []
+      },
+      {
+        "id": "article-2-",
+        "title": "Article 2 :",
+        "type": "article",
+        "level": 2,
+        "order": 3,
+        "path": ["titre-1", "article-2-"],
+        "children": []
+      },
+      {
+        "id": "titre-2",
+        "title": "TITRE 2 : CONSTITUTION DU DROIT A LA PENSION D'ANCIENNETE OU PROPORTIONNELLE OU A LA SOLDE DE REFORME",
+        "type": "titre",
+        "level": 1,
+        "order": 4,
+        "path": ["titre-2"],
+        "children": [
+          "chapitre-1",
+          "chapitre-2"
+        ]
+      },
+      {
+        "id": "chapitre-1",
+        "title": "CHAPITRE 1 : AGENTS PERMANENTS DE L'ETAT",
+        "type": "chapitre",
+        "level": 2,
+        "order": 5,
+        "path": ["titre-2", "chapitre-1"],
+        "children": [
+          "article-3-",
+          "article-3-nouveau-2-",
+          "article-3-nouveau-3",
+          "article-3-nouveau-4-",
+          "article-4-ancien-",
+          "article-4-nouveau-",
+          "article-5-",
+          "article-6-",
+          "article-7-1-",
+          "article-7-2-",
+          "article-8-",
+          "article-9-",
+          "article-10-",
+          "article-10-nouveau--loi-n--2015-19--"
+        ]
+      },
+      {
+        "id": "article-3-",
+        "title": "Article 3 :",
+        "type": "article",
+        "level": 3,
+        "order": 6,
+        "path": ["titre-2", "chapitre-1", "article-3-"],
+        "children": []
+      },
+      {
+        "id": "article-3-nouveau-2-",
+        "title": "Article 3 nouveau-2 : Les agents permanents de l'Etat et les agents contractuels de l'Etat concernés peuvent, sur leur demande et à partir de cinquante-cinq (55) ans d'âge au moins, faire valoir leurs droits à une pension de retraite ou pension proportionnelle.",
+        "type": "article",
+        "level": 3,
+        "order": 7,
+        "path": ["titre-2", "chapitre-1", "article-3-nouveau-2-"],
+        "children": []
+      },
+      {
+        "id": "article-3-nouveau-3",
+        "title": "Article 3 nouveau-3: L'extrait d'acte de naissance ou de jugement supplétif d'acte de naissance produit lors de la nomination dans un corps ou lors de l'établissement du contrat de travail est seul retenu pour déterminer l'âge réel de l'agent permanent de l'Etat ou de l'agent contractuel de l'Etat.",
+        "type": "article",
+        "level": 3,
+        "order": 8,
+        "path": ["titre-2", "chapitre-1", "article-3-nouveau-3"],
+        "children": []
+      },
+      {
+        "id": "article-3-nouveau-4-",
+        "title": "Article 3 nouveau-4 : Est dispensé de la condition d'âge fixée à l'article 3 nouveau-1 ci-dessus :",
+        "type": "article",
+        "level": 3,
+        "order": 9,
+        "path": ["titre-2", "chapitre-1", "article-3-nouveau-4-"],
+        "children": []
+      },
+      {
+        "id": "article-4-ancien-",
+        "title": "Article 4 ancien : Le droit à la pension proportionnelle est acquis :",
+        "type": "article",
+        "level": 3,
+        "order": 10,
+        "path": ["titre-2", "chapitre-1", "article-4-ancien-"],
+        "children": []
+      },
+      {
+        "id": "article-4-nouveau-",
+        "title": "Article 4 nouveau : Le droit à la pension proportionnelle est acquis :",
+        "type": "article",
+        "level": 3,
+        "order": 11,
+        "path": ["titre-2", "chapitre-1", "article-4-nouveau-"],
+        "children": []
+      },
+      {
+        "id": "article-5-",
+        "title": "Article 5 :",
+        "type": "article",
+        "level": 3,
+        "order": 12,
+        "path": ["titre-2", "chapitre-1", "article-5-"],
+        "children": []
+      },
+      {
+        "id": "article-6-",
+        "title": "Article 6 :",
+        "type": "article",
+        "level": 3,
+        "order": 13,
+        "path": ["titre-2", "chapitre-1", "article-6-"],
+        "children": []
+      },
+      {
+        "id": "article-7-1-",
+        "title": "Article 7-1 : Les services accomplis postérieurement à la limite d'âge ne peuvent être pris en compte dans une pension sauf les cas exceptionnels prévus par une disposition réglementaire.",
+        "type": "article",
+        "level": 3,
+        "order": 14,
+        "path": ["titre-2", "chapitre-1", "article-7-1-"],
+        "children": []
+      },
+      {
+        "id": "article-7-2-",
+        "title": "Article 7-2 : Les services accomplis postérieurement aux limites d'âge indiquées à l'article 3 nouveau-1 ci-dessus ne peuvent être pris en compte dans les annuités liquidables d'une pension.",
+        "type": "article",
+        "level": 3,
+        "order": 15,
+        "path": ["titre-2", "chapitre-1", "article-7-2-"],
+        "children": []
+      },
+      {
+        "id": "article-8-",
+        "title": "Article 8 :",
+        "type": "article",
+        "level": 3,
+        "order": 16,
+        "path": ["titre-2", "chapitre-1", "article-8-"],
+        "children": []
+      },
+      {
+        "id": "article-9-",
+        "title": "Article 9 :",
+        "type": "article",
+        "level": 3,
+        "order": 17,
+        "path": ["titre-2", "chapitre-1", "article-9-"],
+        "children": []
+      },
+      {
+        "id": "article-10-",
+        "title": "Article 10 :",
+        "type": "article",
+        "level": 3,
+        "order": 18,
+        "path": ["titre-2", "chapitre-1", "article-10-"],
+        "children": []
+      },
+      {
+        "id": "article-10-nouveau--loi-n--2015-19--",
+        "title": "Article 10 nouveau (Loi n° 2015-19) : Les réductions d'âge visées à l'article 5 ci-dessus ne peuvent être imposées d'office aux ayants droit, en dehors des garanties prévues à l'article 2 de la loi n° 86-014 du 26 septembre 1986 et à l'article 4 nouveau de la présente loi.",
+        "type": "article",
+        "level": 3,
+        "order": 19,
+        "path": ["titre-2", "chapitre-1", "article-10-nouveau--loi-n--2015-19--"],
+        "children": []
+      },
+      {
+        "id": "chapitre-2",
+        "title": "CHAPITRE 2 : MILITAIRES",
+        "type": "chapitre",
+        "level": 2,
+        "order": 20,
+        "path": ["titre-2", "chapitre-2"],
+        "children": [
+          "article-11-",
+          "article-12-",
+          "article-13-",
+          "article-14-",
+          "article-15-"
+        ]
+      },
+      {
+        "id": "article-11-",
+        "title": "Article 11 :",
+        "type": "article",
+        "level": 3,
+        "order": 21,
+        "path": ["titre-2", "chapitre-2", "article-11-"],
+        "children": []
+      },
+      {
+        "id": "article-12-",
+        "title": "Article 12 :",
+        "type": "article",
+        "level": 3,
+        "order": 22,
+        "path": ["titre-2", "chapitre-2", "article-12-"],
+        "children": []
+      },
+      {
+        "id": "article-13-",
+        "title": "Article 13 :",
+        "type": "article",
+        "level": 3,
+        "order": 23,
+        "path": ["titre-2", "chapitre-2", "article-13-"],
+        "children": []
+      },
+      {
+        "id": "article-14-",
+        "title": "Article 14 :",
+        "type": "article",
+        "level": 3,
+        "order": 24,
+        "path": ["titre-2", "chapitre-2", "article-14-"],
+        "children": []
+      },
+      {
+        "id": "article-15-",
+        "title": "Article 15 :",
+        "type": "article",
+        "level": 3,
+        "order": 25,
+        "path": ["titre-2", "chapitre-2", "article-15-"],
+        "children": []
+      },
+      {
+        "id": "titre-3",
+        "title": "TITRE 3 : LIQUIDATION DE LA PENSION D'ANCIENNETE OU PROPORTIONNELLE OU DE LA SOLDE DE REFORME",
+        "type": "titre",
+        "level": 1,
+        "order": 26,
+        "path": ["titre-3"],
+        "children": [
+          "article-16-",
+          "article-17-2-",
+          "article-17-1-",
+          "chapitre-3",
+          "chapitre-4"
+        ]
+      },
+      {
+        "id": "article-16-",
+        "title": "Article 16 :",
+        "type": "article",
+        "level": 2,
+        "order": 27,
+        "path": ["titre-3", "article-16-"],
+        "children": []
+      },
+      {
+        "id": "article-17-2-",
+        "title": "Article 17-2 : Dans la liquidation d'une pension d'ancienneté ou proportionnelle, les services et bonifications prévus à l'article 15 ci-dessus sont comptés pour leur durée effective.",
+        "type": "article",
+        "level": 2,
+        "order": 28,
+        "path": ["titre-3", "article-17-2-"],
+        "children": []
+      },
+      {
+        "id": "article-17-1-",
+        "title": "Article 17-1 : Dans la liquidation d'une pension normale ou proportionnelle, les services et bonifications prévus à l'article 16 de la loi n° 86-014 du 26 septembre 1986 portant code des pensions civiles et militaires de retraite sont comptés pour leur durée effective.",
+        "type": "article",
+        "level": 2,
+        "order": 29,
+        "path": ["titre-3", "article-17-1-"],
+        "children": []
+      },
+      {
+        "id": "chapitre-3",
+        "title": "CHAPITRE 3 : EMOLUMENTS DE BASE",
+        "type": "chapitre",
+        "level": 2,
+        "order": 30,
+        "path": ["titre-3", "chapitre-3"],
+        "children": [
+          "article-18-",
+          "article-18-nouveau-"
+        ]
+      },
+      {
+        "id": "article-18-",
+        "title": "Article 18 :",
+        "type": "article",
+        "level": 3,
+        "order": 31,
+        "path": ["titre-3", "chapitre-3", "article-18-"],
+        "children": []
+      },
+      {
+        "id": "article-18-nouveau-",
+        "title": "Article 18 nouveau :",
+        "type": "article",
+        "level": 3,
+        "order": 32,
+        "path": ["titre-3", "chapitre-3", "article-18-nouveau-"],
+        "children": []
+      },
+      {
+        "id": "chapitre-4",
+        "title": "CHAPITRE 4 : CALCUL DE LA PENSION D'ANCIENNETE OU PROPORTIONNELLE",
+        "type": "chapitre",
+        "level": 2,
+        "order": 33,
+        "path": ["titre-3", "chapitre-4"],
+        "children": [
+          "article-19-",
+          "article-19-nouveau-"
+        ]
+      },
+      {
+        "id": "article-19-",
+        "title": "Article 19 :",
+        "type": "article",
+        "level": 3,
+        "order": 34,
+        "path": ["titre-3", "chapitre-4", "article-19-"],
+        "children": []
+      },
+      {
+        "id": "article-19-nouveau-",
+        "title": "Article 19 nouveau : La pension normale ou la pension proportionnelle est fixée à 2% des émoluments de base par annuité liquidable.",
+        "type": "article",
+        "level": 3,
+        "order": 35,
+        "path": ["titre-3", "chapitre-4", "article-19-nouveau-"],
+        "children": []
+      },
+      {
+        "id": "titre-4",
+        "title": "TITRE 4 : JOUISSANCE DE LA PENSION PROPORTIONNELLE",
+        "type": "titre",
+        "level": 1,
+        "order": 36,
+        "path": ["titre-4"],
+        "children": [
+          "article-20-",
+          "article-21-"
+        ]
+      },
+      {
+        "id": "article-20-",
+        "title": "Article 20 :",
+        "type": "article",
+        "level": 2,
+        "order": 37,
+        "path": ["titre-4", "article-20-"],
+        "children": []
+      },
+      {
+        "id": "article-21-",
+        "title": "Article 21 :",
+        "type": "article",
+        "level": 2,
+        "order": 38,
+        "path": ["titre-4", "article-21-"],
+        "children": []
+      },
+      {
+        "id": "titre-5",
+        "title": "TITRE 5 : DES INVALIDITES",
+        "type": "titre",
+        "level": 1,
+        "order": 39,
+        "path": ["titre-5"],
+        "children": [
+          "article-22-",
+          "article-23-",
+          "article-24-",
+          "article-25-",
+          "article-26-",
+          "article-27-",
+          "article-28-",
+          "article-29-"
+        ]
+      },
+      {
+        "id": "article-22-",
+        "title": "Article 22 :",
+        "type": "article",
+        "level": 2,
+        "order": 40,
+        "path": ["titre-5", "article-22-"],
+        "children": []
+      },
+      {
+        "id": "article-23-",
+        "title": "Article 23 :",
+        "type": "article",
+        "level": 2,
+        "order": 41,
+        "path": ["titre-5", "article-23-"],
+        "children": []
+      },
+      {
+        "id": "article-24-",
+        "title": "Article 24 :",
+        "type": "article",
+        "level": 2,
+        "order": 42,
+        "path": ["titre-5", "article-24-"],
+        "children": []
+      },
+      {
+        "id": "article-25-",
+        "title": "Article 25 :",
+        "type": "article",
+        "level": 2,
+        "order": 43,
+        "path": ["titre-5", "article-25-"],
+        "children": []
+      },
+      {
+        "id": "article-26-",
+        "title": "Article 26 :",
+        "type": "article",
+        "level": 2,
+        "order": 44,
+        "path": ["titre-5", "article-26-"],
+        "children": []
+      },
+      {
+        "id": "article-27-",
+        "title": "Article 27 :",
+        "type": "article",
+        "level": 2,
+        "order": 45,
+        "path": ["titre-5", "article-27-"],
+        "children": []
+      },
+      {
+        "id": "article-28-",
+        "title": "Article 28 :",
+        "type": "article",
+        "level": 2,
+        "order": 46,
+        "path": ["titre-5", "article-28-"],
+        "children": []
+      },
+      {
+        "id": "article-29-",
+        "title": "Article 29 :",
+        "type": "article",
+        "level": 2,
+        "order": 47,
+        "path": ["titre-5", "article-29-"],
+        "children": []
+      },
+      {
+        "id": "titre-6",
+        "title": "TITRE 6 : PENSIONS DES AYANTS-CAUSE",
+        "type": "titre",
+        "level": 1,
+        "order": 48,
+        "path": ["titre-6"],
+        "children": [
+          "article-30-",
+          "article-30-nouveau-",
+          "article-31-",
+          "article-32-",
+          "article-33-",
+          "article-34-"
+        ]
+      },
+      {
+        "id": "article-30-",
+        "title": "Article 30 :",
+        "type": "article",
+        "level": 2,
+        "order": 49,
+        "path": ["titre-6", "article-30-"],
+        "children": []
+      },
+      {
+        "id": "article-30-nouveau-",
+        "title": "Article 30 nouveau : Dès son entrée dans la fonction publique, l'agent permanent de l'Etat ou l'agent contractuel de l'Etat, civil, militaire ou paramilitaire est invité à établir une liste des ayants cause susceptibles de bénéficier au jour de son décès, d'une pension.",
+        "type": "article",
+        "level": 2,
+        "order": 50,
+        "path": ["titre-6", "article-30-nouveau-"],
+        "children": []
+      },
+      {
+        "id": "article-31-",
+        "title": "Article 31 :",
+        "type": "article",
+        "level": 2,
+        "order": 51,
+        "path": ["titre-6", "article-31-"],
+        "children": []
+      },
+      {
+        "id": "article-32-",
+        "title": "Article 32 :",
+        "type": "article",
+        "level": 2,
+        "order": 52,
+        "path": ["titre-6", "article-32-"],
+        "children": []
+      },
+      {
+        "id": "article-33-",
+        "title": "Article 33 :",
+        "type": "article",
+        "level": 2,
+        "order": 53,
+        "path": ["titre-6", "article-33-"],
+        "children": []
+      },
+      {
+        "id": "article-34-",
+        "title": "Article 34 :",
+        "type": "article",
+        "level": 2,
+        "order": 54,
+        "path": ["titre-6", "article-34-"],
+        "children": []
+      },
+      {
+        "id": "titre-7",
+        "title": "TITRE 7 : DISPOSITIONS DIVERSES COMMUNES AUX PENSIONS ET AUX RENTES D'INVALIDITE",
+        "type": "titre",
+        "level": 1,
+        "order": 55,
+        "path": ["titre-7"],
+        "children": [
+          "article-35-",
+          "article-36-",
+          "article-37-",
+          "article-38-",
+          "article-39-"
+        ]
+      },
+      {
+        "id": "article-35-",
+        "title": "Article 35 :",
+        "type": "article",
+        "level": 2,
+        "order": 56,
+        "path": ["titre-7", "article-35-"],
+        "children": []
+      },
+      {
+        "id": "article-36-",
+        "title": "Article 36 :",
+        "type": "article",
+        "level": 2,
+        "order": 57,
+        "path": ["titre-7", "article-36-"],
+        "children": []
+      },
+      {
+        "id": "article-37-",
+        "title": "Article 37 :",
+        "type": "article",
+        "level": 2,
+        "order": 58,
+        "path": ["titre-7", "article-37-"],
+        "children": []
+      },
+      {
+        "id": "article-38-",
+        "title": "Article 38 :",
+        "type": "article",
+        "level": 2,
+        "order": 59,
+        "path": ["titre-7", "article-38-"],
+        "children": []
+      },
+      {
+        "id": "article-39-",
+        "title": "Article 39 :",
+        "type": "article",
+        "level": 2,
+        "order": 60,
+        "path": ["titre-7", "article-39-"],
+        "children": []
+      },
+      {
+        "id": "titre-8",
+        "title": "TITRE 8 : DISPOSITIONS D'ORDRE, DE COMPTABILITE ET DE PENALITES",
+        "type": "titre",
+        "level": 1,
+        "order": 61,
+        "path": ["titre-8"],
+        "children": [
+          "article-40-",
+          "article-41-",
+          "article-42-",
+          "article-43-",
+          "article-44-",
+          "article-45-",
+          "article-46-",
+          "article-47-",
+          "article-48-",
+          "article-49-",
+          "article-50-",
+          "article-51-",
+          "article-52-",
+          "article-53-",
+          "article-54-",
+          "article-55-",
+          "article-56-",
+          "article-57-",
+          "article-58--"
+        ]
+      },
+      {
+        "id": "article-40-",
+        "title": "Article 40 :",
+        "type": "article",
+        "level": 2,
+        "order": 62,
+        "path": ["titre-8", "article-40-"],
+        "children": []
+      },
+      {
+        "id": "article-41-",
+        "title": "Article 41 :",
+        "type": "article",
+        "level": 2,
+        "order": 63,
+        "path": ["titre-8", "article-41-"],
+        "children": []
+      },
+      {
+        "id": "article-42-",
+        "title": "Article 42 :",
+        "type": "article",
+        "level": 2,
+        "order": 64,
+        "path": ["titre-8", "article-42-"],
+        "children": []
+      },
+      {
+        "id": "article-43-",
+        "title": "Article 43 :",
+        "type": "article",
+        "level": 2,
+        "order": 65,
+        "path": ["titre-8", "article-43-"],
+        "children": []
+      },
+      {
+        "id": "article-44-",
+        "title": "Article 44 :",
+        "type": "article",
+        "level": 2,
+        "order": 66,
+        "path": ["titre-8", "article-44-"],
+        "children": []
+      },
+      {
+        "id": "article-45-",
+        "title": "Article 45 :",
+        "type": "article",
+        "level": 2,
+        "order": 67,
+        "path": ["titre-8", "article-45-"],
+        "children": []
+      },
+      {
+        "id": "article-46-",
+        "title": "Article 46 :",
+        "type": "article",
+        "level": 2,
+        "order": 68,
+        "path": ["titre-8", "article-46-"],
+        "children": []
+      },
+      {
+        "id": "article-47-",
+        "title": "Article 47 :",
+        "type": "article",
+        "level": 2,
+        "order": 69,
+        "path": ["titre-8", "article-47-"],
+        "children": []
+      },
+      {
+        "id": "article-48-",
+        "title": "Article 48 :",
+        "type": "article",
+        "level": 2,
+        "order": 70,
+        "path": ["titre-8", "article-48-"],
+        "children": []
+      },
+      {
+        "id": "article-49-",
+        "title": "Article 49 :",
+        "type": "article",
+        "level": 2,
+        "order": 71,
+        "path": ["titre-8", "article-49-"],
+        "children": []
+      },
+      {
+        "id": "article-50-",
+        "title": "Article 50 :",
+        "type": "article",
+        "level": 2,
+        "order": 72,
+        "path": ["titre-8", "article-50-"],
+        "children": []
+      },
+      {
+        "id": "article-51-",
+        "title": "Article 51 :",
+        "type": "article",
+        "level": 2,
+        "order": 73,
+        "path": ["titre-8", "article-51-"],
+        "children": []
+      },
+      {
+        "id": "article-52-",
+        "title": "Article 52 :",
+        "type": "article",
+        "level": 2,
+        "order": 74,
+        "path": ["titre-8", "article-52-"],
+        "children": []
+      },
+      {
+        "id": "article-53-",
+        "title": "Article 53 :",
+        "type": "article",
+        "level": 2,
+        "order": 75,
+        "path": ["titre-8", "article-53-"],
+        "children": []
+      },
+      {
+        "id": "article-54-",
+        "title": "Article 54 :",
+        "type": "article",
+        "level": 2,
+        "order": 76,
+        "path": ["titre-8", "article-54-"],
+        "children": []
+      },
+      {
+        "id": "article-55-",
+        "title": "Article 55 :",
+        "type": "article",
+        "level": 2,
+        "order": 77,
+        "path": ["titre-8", "article-55-"],
+        "children": []
+      },
+      {
+        "id": "article-56-",
+        "title": "Article 56 :",
+        "type": "article",
+        "level": 2,
+        "order": 78,
+        "path": ["titre-8", "article-56-"],
+        "children": []
+      },
+      {
+        "id": "article-57-",
+        "title": "Article 57 :",
+        "type": "article",
+        "level": 2,
+        "order": 79,
+        "path": ["titre-8", "article-57-"],
+        "children": []
+      },
+      {
+        "id": "article-58--",
+        "title": "Article 58 : En cas de retard pour cause de force majeure, le travailleur concerné peut prétendre à une avance sur pension dont le montant ne saurait excéder celui d'un trimestre.",
+        "type": "article",
+        "level": 2,
+        "order": 80,
+        "path": ["titre-8", "article-58--"],
+        "children": []
+      },
+      {
+        "id": "titre-9",
+        "title": "TITRE 9 : RETENUES POUR PENSION ET VERSEMENTS AU FONDS",
+        "type": "titre",
+        "level": 1,
+        "order": 81,
+        "path": ["titre-9"],
+        "children": [
+          "article-59-",
+          "article-59-nouveau-",
+          "article-60-",
+          "article-61-"
+        ]
+      },
+      {
+        "id": "article-59-",
+        "title": "Article 59 :",
+        "type": "article",
+        "level": 2,
+        "order": 82,
+        "path": ["titre-9", "article-59-"],
+        "children": []
+      },
+      {
+        "id": "article-59-nouveau-",
+        "title": "Article 59 nouveau : Les bénéficiaires du présent régime supportent une retenue de 8% sur les sommes payées au titre de leur traitement indiciaire.",
+        "type": "article",
+        "level": 2,
+        "order": 83,
+        "path": ["titre-9", "article-59-nouveau-"],
+        "children": []
+      },
+      {
+        "id": "article-60-",
+        "title": "Article 60 :",
+        "type": "article",
+        "level": 2,
+        "order": 84,
+        "path": ["titre-9", "article-60-"],
+        "children": []
+      },
+      {
+        "id": "article-61-",
+        "title": "Article 61 :",
+        "type": "article",
+        "level": 2,
+        "order": 85,
+        "path": ["titre-9", "article-61-"],
+        "children": []
+      },
+      {
+        "id": "titre-10",
+        "title": "TITRE 10 : CUMUL DES PENSIONS ET DES REMUNERATIONS PUBLIQUES OU D'AUTRES PENSIONS",
+        "type": "titre",
+        "level": 1,
+        "order": 86,
+        "path": ["titre-10"],
+        "children": [
+          "article-62-",
+          "article-63-",
+          "article-64-",
+          "article-65-",
+          "article-66-"
+        ]
+      },
+      {
+        "id": "article-62-",
+        "title": "Article 62 :",
+        "type": "article",
+        "level": 2,
+        "order": 87,
+        "path": ["titre-10", "article-62-"],
+        "children": []
+      },
+      {
+        "id": "article-63-",
+        "title": "Article 63 :",
+        "type": "article",
+        "level": 2,
+        "order": 88,
+        "path": ["titre-10", "article-63-"],
+        "children": []
+      },
+      {
+        "id": "article-64-",
+        "title": "Article 64 :",
+        "type": "article",
+        "level": 2,
+        "order": 89,
+        "path": ["titre-10", "article-64-"],
+        "children": []
+      },
+      {
+        "id": "article-65-",
+        "title": "Article 65 :",
+        "type": "article",
+        "level": 2,
+        "order": 90,
+        "path": ["titre-10", "article-65-"],
+        "children": []
+      },
+      {
+        "id": "article-66-",
+        "title": "Article 66 :",
+        "type": "article",
+        "level": 2,
+        "order": 91,
+        "path": ["titre-10", "article-66-"],
+        "children": []
+      },
+      {
+        "id": "titre-11",
+        "title": "TITRE 11 : DISPOSITIONS CONCERNANT LES SERVICES RENDUS ET LES RETRAITES CONCEDEES SOUS LES REGIMES DU FONDS NATIONAL DE RETRAITE ET DE L'OFFICE BENINOIS DE SECURITE SOCIALE APPLICABLES AUX AGENTS PERMANENTS DE L'ETAT CIVILS ET MILITAIRES SEULEMENT.",
+        "type": "titre",
+        "level": 1,
+        "order": 92,
+        "path": ["titre-11"],
+        "children": [
+          "article-67-",
+          "article-68-"
+        ]
+      },
+      {
+        "id": "article-67-",
+        "title": "Article 67 :",
+        "type": "article",
+        "level": 2,
+        "order": 93,
+        "path": ["titre-11", "article-67-"],
+        "children": []
+      },
+      {
+        "id": "article-68-",
+        "title": "Article 68 :",
+        "type": "article",
+        "level": 2,
+        "order": 94,
+        "path": ["titre-11", "article-68-"],
+        "children": []
+      },
+      {
+        "id": "titre-12",
+        "title": "TITRE 12 : DISPOSITIONS CONCERNANT LES SERVICES RENDUS DANS L'ARMEE FRANCAISE ET APPLICABLES AUX MILITAIRES",
+        "type": "titre",
+        "level": 1,
+        "order": 95,
+        "path": ["titre-12"],
+        "children": [
+          "article-69-",
+          "article-70-",
+          "article-71-",
+          "article-72-",
+          "article-73-ancien-",
+          "article-73-nouveau--loi-n--2015-19--",
+          "article-74-",
+          "article-75-",
+          "article-76-",
+          "article-77-",
+          "article-78-",
+          "article-79-"
+        ]
+      },
+      {
+        "id": "article-69-",
+        "title": "Article 69 :",
+        "type": "article",
+        "level": 2,
+        "order": 96,
+        "path": ["titre-12", "article-69-"],
+        "children": []
+      },
+      {
+        "id": "article-70-",
+        "title": "Article 70 :",
+        "type": "article",
+        "level": 2,
+        "order": 97,
+        "path": ["titre-12", "article-70-"],
+        "children": []
+      },
+      {
+        "id": "article-71-",
+        "title": "Article 71 :",
+        "type": "article",
+        "level": 2,
+        "order": 98,
+        "path": ["titre-12", "article-71-"],
+        "children": []
+      },
+      {
+        "id": "article-72-",
+        "title": "Article 72 :",
+        "type": "article",
+        "level": 2,
+        "order": 99,
+        "path": ["titre-12", "article-72-"],
+        "children": []
+      },
+      {
+        "id": "article-73-ancien-",
+        "title": "Article 73 ancien : Le Fonds National de Retraites créé par ordonnance 63/PR du 29 Décembre 1966 est chargé de concéder, liquider et servir les pensions attribuées en application des dispositions de la présente Loi. La gestion de ce Fonds est confiée au Ministre chargé des Finances.",
+        "type": "article",
+        "level": 2,
+        "order": 100,
+        "path": ["titre-12", "article-73-ancien-"],
+        "children": []
+      },
+      {
+        "id": "article-73-nouveau--loi-n--2015-19--",
+        "title": "Article 73 nouveau (Loi n° 2015-19) : Le Fonds National de Retraites du Bénin (FNRB), créé par ordonnance n° 063/PR du 29 décembre 1966, est chargé de liquider, concéder et servir les pensions attribuées en application des dispositions de la présente loi.",
+        "type": "article",
+        "level": 2,
+        "order": 101,
+        "path": ["titre-12", "article-73-nouveau--loi-n--2015-19--"],
+        "children": []
+      },
+      {
+        "id": "article-74-",
+        "title": "Article 74 :",
+        "type": "article",
+        "level": 2,
+        "order": 102,
+        "path": ["titre-12", "article-74-"],
+        "children": []
+      },
+      {
+        "id": "article-75-",
+        "title": "Article 75 :",
+        "type": "article",
+        "level": 2,
+        "order": 103,
+        "path": ["titre-12", "article-75-"],
+        "children": []
+      },
+      {
+        "id": "article-76-",
+        "title": "Article 76 :",
+        "type": "article",
+        "level": 2,
+        "order": 104,
+        "path": ["titre-12", "article-76-"],
+        "children": []
+      },
+      {
+        "id": "article-77-",
+        "title": "Article 77 :",
+        "type": "article",
+        "level": 2,
+        "order": 105,
+        "path": ["titre-12", "article-77-"],
+        "children": []
+      },
+      {
+        "id": "article-78-",
+        "title": "Article 78 :",
+        "type": "article",
+        "level": 2,
+        "order": 106,
+        "path": ["titre-12", "article-78-"],
+        "children": []
+      },
+      {
+        "id": "article-79-",
+        "title": "Article 79 :",
+        "type": "article",
+        "level": 2,
+        "order": 107,
+        "path": ["titre-12", "article-79-"],
+        "children": []
+      },
+      {
+        "id": "titre-14",
+        "title": "TITRE 14 : DISPOSITIONS TRANSITOIRES ET FINALES",
+        "type": "titre",
+        "level": 1,
+        "order": 108,
+        "path": ["titre-14"],
+        "children": [
+          "article-80-",
+          "article-81-",
+          "article-82-"
+        ]
+      },
+      {
+        "id": "article-80-",
+        "title": "Article 80 :",
+        "type": "article",
+        "level": 2,
+        "order": 109,
+        "path": ["titre-14", "article-80-"],
+        "children": []
+      },
+      {
+        "id": "article-81-",
+        "title": "Article 81 :",
+        "type": "article",
+        "level": 2,
+        "order": 110,
+        "path": ["titre-14", "article-81-"],
+        "children": []
+      },
+      {
+        "id": "article-82-",
+        "title": "Article 82 :",
+        "type": "article",
+        "level": 2,
+        "order": 111,
+        "path": ["titre-14", "article-82-"],
+        "children": []
+      }
+    ]
+  },
+  "source": "nationale"
+}

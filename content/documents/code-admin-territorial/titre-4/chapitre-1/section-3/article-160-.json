@@ -1,0 +1,16 @@
+{
+  "id": "article-160-",
+  "title": "Article 160 :",
+  "numero": "160 ",
+  "document": "code-admin-territorial",
+  "path": [
+    "titre-4",
+    "chapitre-1",
+    "section-3"
+  ],
+  "navigation": {
+    "parent": "section-3",
+    "previous": "article-159-",
+    "next": "article-161-"
+  }
+}

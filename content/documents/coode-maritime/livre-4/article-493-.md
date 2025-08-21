@@ -1,0 +1,1 @@
+Les dommages ou pertes subis par la cargaison, les approvisionnements et le combustible au cours des opérations de manutention visées aux articles 486 et 490 du présent code seront également admis en avaries communes.

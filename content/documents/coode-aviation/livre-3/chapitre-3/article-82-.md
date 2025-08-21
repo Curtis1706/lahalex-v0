@@ -1,0 +1,3 @@
+L'organisme national en charge de l'aviation civile a le pouvoir et l’obligation d’œuvrer pour la sécurité en vol des aéronefs évoluant dans la circulation aérienne générale en édictant chaque fois que de besoin :
+- des principes et règlements visant, au minimum, à la mise en application de toutes les normes contenues dans les annexes à la Convention relative à l'aviation civile internationale ;
+- tous autres principes, règlements ou normes minimales régissant les autres pratiques, les méthodes et les procédures que l'organisme national en charge de l'aviation civile juge nécessaires.

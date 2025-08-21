@@ -1,0 +1,15 @@
+{
+  "id": "article-110-",
+  "title": "Article 110 : Siège de l’ABSU-CEP",
+  "numero": "110 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-109-",
+    "next": "article-111-"
+  }
+}

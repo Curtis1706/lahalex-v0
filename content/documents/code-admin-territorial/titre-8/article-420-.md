@@ -1,0 +1,2 @@
+L’organe délibérant compétent de la commune ou de l'établissement public de coopération intercommunale peut porter au budget de la commune, tant en section d'investissement qu'en section de fonctionnement, un crédit pour dépenses imprévues.
+Pour chacune des deux sections du budget, ce crédit ne peut être supérieur à 5% des crédits correspondant aux dépenses réelles prévisionnelles de la section.

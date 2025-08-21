@@ -1,0 +1,1 @@
+L'Arrêté de concession est notifié à l'intéressé.

@@ -1,0 +1,2 @@
+Adhésion Dès la date de son entrée en vigueur, la présente Convention sera ouverte à
+l’adhésion de toute Puissance au nom de laquelle cette Convention n’aura <a name="_page215_x0.00_y651.97"></a>pas été signée.

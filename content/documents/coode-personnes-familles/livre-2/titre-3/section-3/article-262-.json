@@ -1,0 +1,16 @@
+{
+  "id": "article-262-",
+  "title": "Article 262 :",
+  "numero": "262 ",
+  "document": "coode-personnes-familles",
+  "path": [
+    "livre-2",
+    "titre-3",
+    "section-3"
+  ],
+  "navigation": {
+    "parent": "section-3",
+    "previous": "article-261-nouveau--loi-n-2021-13--",
+    "next": "article-263-"
+  }
+}

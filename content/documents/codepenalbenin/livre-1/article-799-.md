@@ -1,0 +1,3 @@
+La banqueroute simple est punie d’un emprisonnement de deux (02) ans à cinq (05) ans et d’une amende de cinq cent mille (500.000) francs CFA à deux millions (2.000.000) de francs CFA.
+La banqueroute frauduleuse est punie d’un emprisonnement de cinq (05) ans à dix (10) ans et d’une amende de deux millions (2.000.000) de francs CFA à cinq millions (5.000.000) de francs CFA.
+Les coupables peuvent, en outre, être privés des droits mentionnés à l’article 38 du présent code pendant un (01) an au moins et cinq (05) ans au plus à compter du jour où ils auront subi leurs peines.

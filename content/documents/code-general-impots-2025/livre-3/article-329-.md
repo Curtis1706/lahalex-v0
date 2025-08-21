@@ -1,0 +1,1 @@
+Au sens  du présent titre, sont considérées  comme mutations à  titre onéreux, les ventes, adjudications, cessions, rétrocessions, licitations, apports à titre onéreux en sociétés, dations en paiement et tous autres actes civils, extrajudiciaires ou judiciaires portant translation de propriété ou d’usufruit de biens meubles ou immeubles.

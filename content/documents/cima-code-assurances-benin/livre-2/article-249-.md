@@ -1,0 +1,2 @@
+Retard dans la communication des documents justificatifs
+Si, dans un délai de six semaines à compter de la présentation de la correspondance, par laquelle l’assureur demande les renseignements qui doivent lui être adressés conformément aux articles 240 ou 241 ci-dessus, l’assureur n’a reçu aucune réponse ou qu’une réponse incomplète, le délai prévu au premier alinéa de l’article 231 est suspendu à compter de l’expiration du délai de six semaines et jusqu’à la réception de la lettre contenant les renseignements demandés.

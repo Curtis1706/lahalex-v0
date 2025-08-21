@@ -1,0 +1,2 @@
+Celui qui a communiqué l’incendie à un des objets énumérés aux articles 812 à 815 du présent code en mettant volontairement le feu à des objets quelconques soit appartenant à lui-même, soit à autrui, et placés de manière à communiquer ledit incendie, est puni de la même peine que s’il avait directement mis le feu à l’un desdits objets.
+Dans tous les cas, si l’incendie a occasionné la mort ou une infirmité permanente d’une ou plusieurs personnes se trouvant sur les lieux incendiés, la peine sera la réclusion criminelle à perpétuité.

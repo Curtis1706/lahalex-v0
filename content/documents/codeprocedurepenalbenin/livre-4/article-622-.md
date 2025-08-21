@@ -1,0 +1,2 @@
+Lorsqu’un condamné à une peine privative de liberté est détenu sans que l’article 621 du présent code puisse recevoir application, il peut être procédé comme en matière de règlement de juges, mais à la demande du ministère public seulement, en vue du renvoi de la procédure de la juridiction saisie à celle du lieu de détention.
+La procédure de renvoi d’une juridiction à une autre est réglée selon la loi portant règles de procédure applicable devant les formations juridictionnelles de la cour suprême.

@@ -1,0 +1,1 @@
+L'accès aux eaux de surface destinées à la consommation humaine est interdit aux animaux.

@@ -1,0 +1,1 @@
+Le membre du conseil d'arrondissement démis dans les conditions prévues à l’article précédent, peut former un recours devant le tribunal administratif territorialement compétent dans les soixante (60) jours qui suivent la notification de la décision.

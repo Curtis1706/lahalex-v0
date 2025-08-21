@@ -1,0 +1,16 @@
+{
+  "id": "article-88-",
+  "title": "Article 88 : Procès-verbal",
+  "numero": "88 ",
+  "document": "cima-code-assurances-benin",
+  "path": [
+    "livre-1",
+    "titre-3",
+    "section-3"
+  ],
+  "navigation": {
+    "parent": "section-3",
+    "previous": "article-87-",
+    "next": "article-89-"
+  }
+}

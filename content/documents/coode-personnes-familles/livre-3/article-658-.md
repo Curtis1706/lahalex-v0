@@ -1,0 +1,1 @@
+La déclaration de l’héritier qui entend ne prendre cette qualité que sous bénéfice d’inventaire doit être faite et inscrite au greffe du tribunal dans le ressort duquel la succession s’est ouverte.

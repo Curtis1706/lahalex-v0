@@ -1,0 +1,1 @@
+Dans le cas des baignades en rivière, toutes les mesures sont prises pour empêcher que les matières flottant à la surface de l'eau puissent pénétrer à l'intérieur du bassin d'eau délimité pour la baignade.

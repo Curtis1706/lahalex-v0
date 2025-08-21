@@ -1,0 +1,2 @@
+Intermédiaire - Mention nominative
+Le nom de toute personne ou société mentionnée à l’article 501 par l’entremise de laquelle a été souscrit un contrat d’assurance ou une adhésion à un tel contrat doit figurer sur l’exemplaire de ce contrat ou de tout document équivalent, remis au souscripteur ou adhérent.

@@ -1,0 +1,2 @@
+Article 137 : Centres de désintoxication
+Des centres de désintoxication sont créés, selon les besoins, pour accueillir les enfants et les adolescents victimes de la consommation de la drogue et des substances psychotropes.

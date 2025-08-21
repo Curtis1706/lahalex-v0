@@ -1,0 +1,4 @@
+Les jugements et arrêts contenant des condamnations en faveur des particuliers sont exécutés à la diligence de ceux-ci, à compter du jour où ils sont devenus définitifs.
+Si, après commandement de payer, le condamné ne s’acquitte pas de la totalité de sa dette envers la partie intéressée, celle-ci peut solliciter du procureur de la République du ressort du tribunal qui a rendu la décision, ou du procureur général, les réquisitions nécessaires à l’exercice de la contrainte par corps. Si le débiteur est détenu, la recommandation est faite immédiatement.
+La contrainte par corps exercée à la requête et dans l’intérêt des particuliers est mise à la charge du trésor public.
+En cas d’indigence dûment constatée de la partie intéressée, le commandement de payer prévu au 2<sup>ème</sup> alinéa du présent article peut être fait à la requête du ministère public, conformément aux procédures d’exécution en vigueur.

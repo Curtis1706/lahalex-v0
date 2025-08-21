@@ -1,0 +1,3 @@
+Le groupage et la distribution de plusieurs publications de presse peuvent être assurés par une entreprise de messagerie de presse, quelle qu’en soit la forme juridique.
+Plusieurs entreprises de presse peuvent créer ensemble une société de messagerie de presse.
+Conformément aux dispositions de l’Organisation pour l’Harmonisation en Afrique du Droit des Affaires (OHADA), cette société peut être une société commerciale ou une société coopérative.

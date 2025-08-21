@@ -1,0 +1,2 @@
+Statut Compte tenu des dispositions de l’article 12, les blessés et les malades d’un
+belligérant, tombés au pouvoir de l’adversaire, seront prisonniers de guerre et les règles du droit des gens concernant les prisonniers de guerre leur se- ront applicables.

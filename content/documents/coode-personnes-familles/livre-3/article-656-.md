@@ -1,0 +1,1 @@
+Le droit à la séparation des patrimoines se prescrit, relativement aux meubles, par cinq (5) ans. Son application aux immeubles est réglée par la loi relative à la propriété foncière.

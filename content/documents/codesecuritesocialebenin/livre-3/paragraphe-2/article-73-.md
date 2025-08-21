@@ -1,0 +1,1 @@
+Le degré d’incapacité permanente est déterminé d’après la nature de l’infirmité, l’état général, l’âge, les facultés physiques et mentales de la victime ainsi que d’après ses aptitudes et qualifications professionnelles sur la base d’un barème indicatif d’invalidité établi par arrêté conjoint des Ministres chargés de la sécurité sociale et de la santé publique.

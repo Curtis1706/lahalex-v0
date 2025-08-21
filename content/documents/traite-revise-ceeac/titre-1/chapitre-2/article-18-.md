@@ -1,0 +1,7 @@
+Règlements et Directives
+1. Le Conseil agit, sur proposition de la Commission, par règlement et par directive. Tout projet de directive ou de règlement soumis à l’examen du Conseil doit l’être par le canal de la Commission.
+1. Les règlements ont force obligatoire à l’égard des Etats membres et des institutions auxquelles ils s'adressent tant pour l’objectif à atteindre que pour les modalités à mettre en œuvre à cette fin. Ils sont exécutoires de plein droit dans les Etats membres trente (30) jours après la date de leur publication par la Commission au journal officiel de la Communauté.
+1. Les directives ont force obligatoire à l’égard des Etats membres en ce qui concerne l’objectif à atteindre mais non en ce qui concerne les modalités pour y parvenir. Chaque directive précise le délai de transposition en droit interne et d’adoption des mesures de mise en œuvre par les États.
+4. Sauf dispositions contraires du présent Traité, les règlements et les directives du Conseil sont adoptés selon les matières, à l'unanimité, par consensus ou à la majorité des deux tiers des Etats Membres présents conformément au Règlement intérieur du Conseil.
+4. Les règlements et les directives du Conseil sont adoptés par consensus jusqu’à l’entrée en vigueur du Règlement Intérieur visé au paragraphe 4 du présent article.
+COMMISSION

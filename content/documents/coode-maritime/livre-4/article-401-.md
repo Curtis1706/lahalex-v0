@@ -1,0 +1,1 @@
+Si un contrat de sous-affrètement ou un connaissement porte la mention ‘’conditions suivant charte-partie’’ le bénéficiaire d’un tel titre de transport sera tenu de respecter les clauses et conditions de la charte-partie visée au contrat.

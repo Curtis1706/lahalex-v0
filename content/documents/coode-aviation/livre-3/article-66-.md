@@ -1,0 +1,4 @@
+Le pilote d'un aéronef s’abstient de toute négligence ou imprudence pouvant entraîner un risque pour la sécurité des personnes ou des biens à la surface.
+Un aéronef ne peut survoler une ville ou une agglomération qu'à une altitude telle que l'atterrissage soit toujours possible, en dehors de l'agglomération ou sur un aérodrome public, même en cas d’arrêt du moyen de propulsion.
+La voltige et l'acrobatie aériennes pour les aéronefs civils sont exécutées conformément à la réglementation prévue à cet effet.
+Les aéronefs pouvant voler sans pilote ne peuvent survoler le territoire national, sauf autorisation délivrée dans les conditions prévues par les textes règlementaires.

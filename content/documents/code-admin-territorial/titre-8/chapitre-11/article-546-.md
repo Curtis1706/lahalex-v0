@@ -1,0 +1,2 @@
+Le compte administratif est soumis à la délibération de l'organe délibérant compétent de la commune ou de l'établissement public de coopération intercommunale après avis favorable du conseil de supervision accompagné du compte de gestion du comptable.
+Le compte administratif est accompagné du rapport d’exécution du budget. Il est transmis pour approbation à l'autorité de tutelle appuyé du procès-verbal de délibération de l'organe délibérant compétent de la commune ou de l'établissement public de coopération intercommunale et d’une copie du compte de gestion du comptable.

@@ -1,0 +1,7 @@
+Est considéré comme insoumis :
+1. tout membre des forces de défense et de sécurité, tenu à des obligations de son état, qui n'a pas répondu dans les délais fixés, à l'ordre de rejoindre l'unité qui lui a été désignée ;
+2. tout membre des forces de défense et de sécurité en position de non activité ou tout réserviste rappelé à l'activité, qui, hors le cas de force majeure, n'est pas arrivé à destination au jour fixé par la convocation ou l'ordre de route régulièrement notifié, après un délai de quinze (15) jours ;
+3. tout membre des forces de défense et de sécurité qui s'oppose et organise la désobéissance en groupe à l'ordre ou au commandement de la hiérarchie.
+L'insoumission, est punie, en temps de paix, d'un emprisonnement de trois (03) mois à un (01) an.
+En temps de guerre, en présence de bande armée ou en présence de l'ennemi ou sur un territoire sur lequel l’état de siège ou l'état d’urgence a été décrété, le délai visé au point b du présent article est ramené à cinq (05) jours et la peine prévue à l'alinéa 2 ci-dessus est de cinq (05) ans à dix (10) ans de réclusion pour les officiers et sous-officiers ou équivalents et de deux (02) ans à cinq (05) ans d'emprisonnement pour les autres catégories de personnel.
+Le coupable peut en outre être frappé, pour cinq (05) ans au moins et pour vingt (20) ans au plus, de l'interdiction de l'exercice des droits civiques et politiques.

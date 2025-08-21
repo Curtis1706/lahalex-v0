@@ -1,0 +1,1 @@
+Sous réserve des dispositions de l'article 31, les personnes visées aux articles 28 et 29 acquièrent la nationalité béninoise à compter de la déclaration.

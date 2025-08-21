@@ -1,0 +1,5 @@
+1) Les redevances sont déductibles à condition que le débiteur apporte la preuve que les droits auxquels ces redevances sont rattachées sont encore en cours de validité.
+2) Toutefois,  si  l’entreprise  bénéficiaire  des  redevances  n’est  pas  exploitée  en
+République du Bénin, le montant total des sommes visées au paragraphe 1 du présent article n’est déductible qu’à hauteur de 5% du chiffre d’affaires hors taxes.
+3) Au sens du présent article, le terme « redevances » désigne les rémunérations de
+toute nature payées pour l’usage ou la concession de l’usage d’un droit d’auteur sur une œuvre littéraire, artistique ou scientifique, y compris les films cinématographiques, ou les films ou bandes utilisés pour les émissions radiophoniques ou télévisées, d’un brevet, d’une marque de fabrique ou de commerce, d’un dessin ou d’un modèle, d’un plan, d’une formule ou d’un procédé secrets, ainsi que pour l’usage ou la concession de l’usage d’un équipement industriel, commercial ou scientifique et pour des informations ayant trait à une expérience acquise dans le domaine industriel, commercial ou scientifique.

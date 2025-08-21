@@ -1,0 +1,2 @@
+Sont  déductibles,  les  impôts  à  la  charge  de  l’entreprise  mis  en recouvrement au cours de l’exercice à l’exception de l’impôt sur les bénéfices et de la taxe sur les véhicules à moteur.
+Si des dégrèvements sont ultérieurement accordés sur les impôts déductibles, leur montant entre dans les produits de l’exercice au cours duquel la société est avisée de ces dégrèvements.

@@ -1,0 +1,4 @@
+Le dispositif du jugement ou de l’arrêt qui autorise, soit le changement ou l’adjonction de nom patronymique, soit la radiation ou l’adjonction de prénoms, est mentionné sur l’acte réformé de chaque personne intéressée, ainsi que dans les registres de transcriptions.
+Si la naissance a eu lieu à l’étranger, le dispositif de la décision est en outre transcrit sur le registre des naissances de la Commune de Cotonou.
+Un extrait de la décision est inséré au Journal Officiel, à la diligence du greffier en chef, aux frais du requérant.
+La mention et la transcription sont effectuées à la diligence du ministère public. En cas d’inaction-de celui-ci, le requérant peut y faire procéder personnellement, sur présentation d’une expédition du jugement ou de l’arrêt, accompagnée d’un certificat délivré par le greffier et duquel il résulte que le jugement ou l’arrêt est devenu définitif.

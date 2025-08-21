@@ -1,0 +1,5 @@
+Certification des dispositifs de création de signature électronique qualifiés
+La conformité des dispositifs de création de signature électronique qualifiés avec les exigences fixées par voie réglementaire est certifiée par l'organisme ou l’administration publique désigné par décret pris en Conseil des Ministres sur proposition du Ministre chargé des communications électroniques.
+Cette certification est fondée sur l’un des éléments suivants :
+1. un processus d’évaluation de la sécurité mis en œuvre par l'autorité compétente ou
+1. un processus autre que le processus visé au point 1, à condition qu’il recoure à des niveaux de sécurité comparables. Ledit processus ne peut être utilisé qu’en l’absence des normes visées au point 1 ou lorsqu’un processus d’évaluation de la sécurité visé au point 1 est en cours.

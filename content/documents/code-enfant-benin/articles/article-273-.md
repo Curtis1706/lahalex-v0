@@ -1,0 +1,2 @@
+Article 273 : Président de la chambre des mineurs
+Un président de chambre ou un conseiller désigné par l’assemblée générale sur proposition du premier président de la cour d'appel est compétent pour présider la chambre des mineurs pour l’année judiciaire.

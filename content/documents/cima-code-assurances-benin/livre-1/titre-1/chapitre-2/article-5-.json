@@ -1,0 +1,16 @@
+{
+  "id": "article-5-",
+  "title": "Article 5 : Mandat - Assurance pour compte",
+  "numero": "5 ",
+  "document": "cima-code-assurances-benin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-2"
+  ],
+  "navigation": {
+    "parent": "chapitre-2",
+    "previous": "article-4-",
+    "next": "article-6-"
+  }
+}

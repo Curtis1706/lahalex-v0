@@ -1,0 +1,1 @@
+Il ne peut être dérogé aux règles légales touchant à l’établissement de la filiation et de ses conséquences.

@@ -1,0 +1,1 @@
+Nul ne peut contester l’état de celui qui a une possession d'état conforme à son titre de naissance.

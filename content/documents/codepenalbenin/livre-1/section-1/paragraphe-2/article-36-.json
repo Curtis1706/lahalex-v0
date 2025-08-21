@@ -1,0 +1,16 @@
+{
+  "id": "article-36-",
+  "title": "Article 36 : Les peines correctionnelles encourues par les personnes physiques sont :",
+  "numero": "36 ",
+  "document": "codepenalbenin",
+  "path": [
+    "livre-1",
+    "section-1",
+    "paragraphe-2"
+  ],
+  "navigation": {
+    "parent": "paragraphe-2",
+    "previous": "article-35-",
+    "next": "article-37-"
+  }
+}

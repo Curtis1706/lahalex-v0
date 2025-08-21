@@ -1,0 +1,1 @@
+Lorsque l'Etat est partie principale à une instance où une question de nationalité est soulevée à titre incident, il ne peut être représenté que par le procureur de la République en ce qui concerne la contestation sur la nationalité.

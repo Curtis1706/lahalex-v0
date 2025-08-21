@@ -1,0 +1,2 @@
+Affichage
+Le tribunal peut ordonner l'affichage du jugement ou du résumé qu'il rédige, pendant le délai qu'il détermine, aussi bien à l'intérieur qu'à l'extérieur des établissements du contrevenant et aux frais de celui-ci, de même que la publication du jugement ou du résumé aux frais du contrevenant par la voie des journaux ou de toute autre manière.

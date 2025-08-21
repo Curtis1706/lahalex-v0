@@ -1,0 +1,1 @@
+Le compte de l'administration ou de la tutelle est rendu au mineur émancipé dans les conditions prévues par l’article 528.

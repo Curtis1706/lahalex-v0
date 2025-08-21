@@ -1,0 +1,1 @@
+Lorsque le régime matrimonial est régi par une loi étrangère et que l’un des époux est domicilié au Bénin et y exerce une activité commerciale, ledit régime légal ou conventionnel doit être mentionné ou publié dans les conditions et sous les sanctions prévues par les règlements relatifs au registre du commerce.

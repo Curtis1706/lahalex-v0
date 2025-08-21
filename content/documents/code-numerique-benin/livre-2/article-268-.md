@@ -1,0 +1,2 @@
+La preuve électronique
+La preuve sous forme électronique a la même force probante et est admise au même titre que la preuve sous forme non-électronique, sous réserve que puisse être identifiée la personne dont elle émane, et qu’elle soit établie et conservée dans des conditions qui en garantissent l’intégrité et la pérennité.

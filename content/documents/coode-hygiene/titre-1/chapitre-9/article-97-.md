@@ -1,0 +1,1 @@
+Les ventes ambulantes de denrées alimentaires s'effectuent de manière à les protéger contre les mouches et autres vecteurs de maladies.

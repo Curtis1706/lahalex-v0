@@ -1,0 +1,14 @@
+{
+  "id": "article-41-",
+  "title": "Article 41 : Mise en œuvre de l'accordcadre",
+  "numero": "41 ",
+  "document": "code-marche-public",
+  "path": [
+    "titre-3"
+  ],
+  "navigation": {
+    "parent": "titre-3",
+    "previous": "article-40-",
+    "next": "article-42-"
+  }
+}

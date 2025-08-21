@@ -1,0 +1,1 @@
+La déclaration de candidature est présentée, cinquante (50) jours avant la date fixée pour le démarrage de la campagne électorale à la CENA.

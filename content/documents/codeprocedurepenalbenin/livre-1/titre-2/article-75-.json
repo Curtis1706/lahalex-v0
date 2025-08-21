@@ -1,0 +1,15 @@
+{
+  "id": "article-75-",
+  "title": "Article 75 :",
+  "numero": "75 ",
+  "document": "codeprocedurepenalbenin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-74-",
+    "next": "article-76-"
+  }
+}

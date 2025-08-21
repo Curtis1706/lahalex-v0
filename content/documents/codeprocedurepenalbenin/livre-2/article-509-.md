@@ -1,0 +1,1 @@
+Les jugements rendus par le tribunal de première instance statuant en matière pénale, peuvent être attaqués par la voie de l’appel. L’appel est porté devant la cour d’appel.

@@ -1,0 +1,3 @@
+Excédents distribuables
+Les excédents distribuables en application de l’article 330-25 sont affectés par priorité à des remboursements anticipés de l’emprunt mentionné à l’article 330-7 proportionnellement aux souscriptions de chaque sociétaire.
+Lorsque la société prend l’initiative de radier un sociétaire, celui-ci peut demander à être immédiatement remboursé de sa contribution à cet emprunt. Il en est de même lorsque le sociétaire fait usage du droit prévu au deuxième alinéa de l’article 23 du Livre I du présent Code.

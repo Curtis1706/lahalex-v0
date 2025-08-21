@@ -1,0 +1,2 @@
+Si le fait retenu contre l'accusé ne tombe pas ou ne tombe plus sous l'application de la loi pénale, ou si l'accusé est déclaré non coupable, le tribunal statuant en matière criminelle ou la cour d'appel statuant en matière criminelle prononce l'acquittement de celui-ci.
+Si l'accusé bénéficie d'une excuse absolutoire, le tribunal statuant en matière criminelle ou la cour d'appel statuant en matière criminelle prononce son absolution.

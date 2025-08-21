@@ -1,0 +1,2 @@
+Afin d'assurer l'indépendance fonctionnelle du Bureau enquêtes- accidents et la crédibilité des enquêtes, les enquêteurs évitent les conflits d'intérêts réels ou potentiels.
+Par dérogation aux dispositions de la présente section, le Bureau enquêtes- accidents est habilité à transmettre des informations résultant de l’enquête technique, s'il estime qu'elles sont de nature à prévenir un accident ou un incident grave, aux autorités administratives chargées de la sécurité de l’aviation civile.

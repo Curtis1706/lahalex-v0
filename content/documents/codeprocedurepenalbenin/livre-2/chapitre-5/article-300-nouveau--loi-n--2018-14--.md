@@ -1,0 +1,1 @@
+Au jour indiqué pour chaque affaire, le tribunal ou la cour statuant en matière criminelle prend séance et fait introduire l'accusé.

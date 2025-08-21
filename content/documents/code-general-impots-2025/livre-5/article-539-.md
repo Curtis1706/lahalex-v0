@@ -1,0 +1,6 @@
+1) La vérification de comptabilités se fait au siège de l’entreprise ou au lieu de son principal établissement. Dans l’hypothèse où le contrôle ne peut s’effectuer en ces deux lieux, le contribuable demande par écrit qu’il se déroule soit dans les bureaux de son comptable, soit dans les locaux de l’administration fiscale.
+2) Les interventions sur place ne peuvent s’étendre sur une durée supérieure à :
+1) trois (3) mois, pour les entreprises dont le chiffre d’affaires annuel déclaré ne
+dépasse pas cinq cent millions (500 000 000) de francs CFA ;
+2) six (6) mois dans le cas contraire.
+Cette durée peut être prolongée de six (6) mois en cas de difficultés techniques particulières, en cas de contrôle des prix de transferts ou en cas de mise en œuvre de la procédure  d’échange  de  renseignements  prévue  par  les  conventions  d’assistance réciproque en matière d’assiette, de contrôle et de recouvrement de l’impôt ou par les conventions bilatérales ou multilatérales d’échange de renseignements à des fins fiscales. La prolongation des interventions sur place est notifiée au contribuable au moins huit (8) jours avant l’échéance de la première période d’intervention. La notification doit être motivée.

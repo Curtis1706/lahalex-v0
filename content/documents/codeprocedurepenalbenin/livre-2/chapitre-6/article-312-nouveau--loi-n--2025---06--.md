@@ -1,0 +1,2 @@
+Les débats ne peuvent être interrompus et doivent continuer jusqu'à ce que la cause soit terminée par le jugement du tribunal de première instance ou l'arrêt de la cour d’appel, statuant en matière criminelle.
+Ils peuvent être suspendus pour une cause légale ou pendant le temps nécessaire au repos des juges, des avocats, des parties civiles et de l'accusé.

@@ -1,0 +1,3 @@
+Le transporteur est responsable du décès ou des blessures des voyageurs causés par naufrage, abordage, échouement, explosion, incendie ou tout autre sinistre majeur, sauf preuve à sa charge que l’accident ne lui est pas imputable.
+2 est responsable des dommages dus au retard, sauf preuve à sa charge que le retard ne lui est pas imputable.
+La réparation est due par le transporteur dans les limites établies par les conventions internationales y relatives.

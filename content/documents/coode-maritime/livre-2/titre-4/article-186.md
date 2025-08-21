@@ -1,0 +1,2 @@
+Le capitaine ou patron d’un navire quelconque qui, même en danger de perdition et par suite d’un amarrage, abordage ou de toute autre cause accidentelle, a coulé, déplacé, détérioré un feu flottant, une bouée ou une balise, est tenu de signaler le fait par les moyens les plus rapides dont il dispose et doit, au plus tard, en faire la déclaration dans les vingt-quatre (24) heures de son arrivée au 1 port où il accoste.
+Cette déclaration doit être faite au commandant du port.

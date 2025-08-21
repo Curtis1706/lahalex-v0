@@ -1,0 +1,2 @@
+Lorsque la possession d’état n’est pas conforme au titre de naissance, toute personne y ayant intérêt peut contester la reconnaissance dont l’enfant a fait l’objet et s’opposer à toute action en réclamation intentée par lui.
+Lorsque l’énonciation du nom de la mère porté à l'acte de naissance est contestée, la personne dont le nom est ainsi indiqué est obligatoirement mise en cause ou, à défaut, ses héritiers.

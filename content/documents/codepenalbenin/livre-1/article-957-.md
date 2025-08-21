@@ -1,0 +1,1 @@
+Lorsque l’auteur d’un accident n’est pas en mesure de justifier qu’il a satisfait à l’obligation d’assurance instituée par la présente ordonnance, la victime est fondée à se prévaloir des mesures conservatoires prévues par le code de procédure civile.

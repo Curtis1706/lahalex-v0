@@ -1,0 +1,3 @@
+Le navire qui a servi à commettre l’une des infractions définies aux articles 635 à 638 du présent code peut être immobilisé, sur décision du tribunal compétent.
+A tout moment, l’autorité judiciaire peut ordonner la levée de l’immobilisation s’il est fourni un cautionnement dont elle fixe le montant et les modalités de versement.
+Les conditions d’affectation, d’emploi et de restitution du cautionnement sont celles du droit commun.

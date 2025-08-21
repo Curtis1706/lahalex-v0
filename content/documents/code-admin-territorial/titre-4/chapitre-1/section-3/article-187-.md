@@ -1,0 +1,1 @@
+Toute décision de suspension ou de révocation d’un chef d'arrondissement est susceptible d'un recours contentieux devant le tribunal administratif compétent sur le ressort territorial de la commune concernée, dans un délai de soixante (60) jours à compter de la notification de la décision ou de la date de la connaissance acquise.

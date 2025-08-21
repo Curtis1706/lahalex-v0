@@ -1,0 +1,1 @@
+Lorsque la commune refuse ou néglige de prendre les mesures nécessaires pour le paiement des indemnités, frais, dommages-intérêts mis à sa charge dans le délai de douze (12) mois à compter de la date de fixation de la répartition définitive des montants, il y est procédé par l’autorité de tutelle, après mise en demeure.

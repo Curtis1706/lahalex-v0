@@ -1,0 +1,1 @@
+Le journal de bord, le journal des machines, le journal de radio et tous autres documents jugés nécessaires sont à produire lors de l’enquête maritime.

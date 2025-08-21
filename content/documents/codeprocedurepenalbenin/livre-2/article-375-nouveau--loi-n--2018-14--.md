@@ -1,0 +1,1 @@
+Les minutes des jugements et arrêts rendus par le tribunal statuant en matière criminelle et la cour d'appel de droit commun sont réunies et déposées respectivement au greffe du tribunal de première instance ou de la cour d'appel de droit commun.

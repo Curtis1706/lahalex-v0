@@ -1,0 +1,3 @@
+Article 530 : Autorisation - Liste
+L’exercice de la profession de courtier est soumis à l’agrément du Ministre en charge du secteur des assurances de l’État dans lequel l’autorisation est demandée. Le Ministre établit et met à jour une liste des courtiers et la transmet à la Commission de Contrôle et aux compagnies agréées sur le territoire de l’État.
+Il est interdit aux entreprises d’assurance de souscrire des contrats d’assurance par l’intermédiaire de courtiers non autorisés sous peine des sanctions prévues à l’article 312.

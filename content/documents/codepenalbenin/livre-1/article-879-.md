@@ -1,0 +1,2 @@
+Toute infraction à la réglementation des défrichements et cultures à l’intérieur du domaine forestier classé, le long des cours d’eau et plans d’eau sera punie d’un emprisonnement de trois (03) mois à trois (03) ans, d’une amende de cinquante mille (50.000) francs CFA à cinq cent mille (500.000) francs CFA ou de l’une de ces deux peines seulement.
+Outre les peines ci-dessus prévues, le déguerpissement sera obligatoirement ordonné par la juridiction en cas de défrichement sans autorisation dans le domaine classé de l’État.

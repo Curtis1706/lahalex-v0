@@ -1,0 +1,5 @@
+Les avaries, dommages ou manquants sont évalués par les experts dits ‘’commissaires d’avaries’’ désignés par la police d’assurance ou par accord des parties ou par le juge.
+Le ou les commissaires désignés font leurs constatations après y avoir appelé par lettre recommandée avec avis de réception les parties et les intéressés éventuels. Ils déterminent, si possible, la nature et la cause du sinistre.
+Leur rapport a, entre les parties et pour le juge, la valeur d’un rapport d’expertise.
+2 n’a à l’égard des autres personnes intéressées ou appelées que la valeur de simples renseignements, à moins que celles-ci n’aient assisté aux opérations d’expertise, et n’aient été avisées, par convention, des conséquences résultant pour elles de cette assistance.
+Nonobstant toute convention contraire, le coût des opérations est à la charge de l’assureur, sauf en cas de mauvaise contestation.

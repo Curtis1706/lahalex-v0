@@ -1,0 +1,2 @@
+La traite des personnes est punie de la réclusion criminelle à temps de dix (10) ans à (20) ans.
+La traite des personnes est punie de la réclusion criminelle à perpétuité lorsqu’elle a entraîné ou a pour but le prélèvement d’organe.

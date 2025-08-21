@@ -1,0 +1,16 @@
+{
+  "id": "article-218-",
+  "title": "Article 218 :",
+  "numero": "218 ",
+  "document": "coode-personnes-familles",
+  "path": [
+    "livre-2",
+    "section-1",
+    "paragraphe-4"
+  ],
+  "navigation": {
+    "parent": "paragraphe-4",
+    "previous": "article-217-",
+    "next": "article-219-"
+  }
+}

@@ -1,0 +1,1 @@
+Lorsque les attroupements ou les rassemblements ont été formés d’habitants de plusieurs communes, chacune de celles-ci est responsable des dégâts et dommages causés dans la proportion fixée par les juridictions.

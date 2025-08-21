@@ -1,0 +1,1 @@
+Les actes des ordonnateurs sont retracés dans la comptabilité budgétaire permettant de suivre le déroulement des opérations budgétaires et d'effectuer le rapprochement avec les écritures du comptable de la commune ou de rétablissement public de coopération intercommunale.

@@ -1,0 +1,14 @@
+{
+  "id": "article-701-",
+  "title": "Article 701 :",
+  "numero": "701 ",
+  "document": "coode-personnes-familles",
+  "path": [
+    "livre-3"
+  ],
+  "navigation": {
+    "parent": "livre-3",
+    "previous": "article-700-",
+    "next": "article-702-"
+  }
+}

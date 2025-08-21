@@ -1,0 +1,1 @@
+Les sanctions prévues par l’article 492 du présent code s’appliquent en matière de prélèvement sur les opérations des personnes physiques et morales ne relevant pas du fichier de la direction générale des impôts.

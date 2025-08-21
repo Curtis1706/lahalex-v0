@@ -1,0 +1,2 @@
+Article 190 : Abus sexuels
+Les abus sexuels s’entendent de toutes agressions sexuelles qui supposent l’emploi de la violence, de la contrainte, de la menace ou de la surprise ou de toutes atteintes sexuelles exercées sans violence, sans contrainte, sans menace ou sans surprise.

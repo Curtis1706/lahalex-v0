@@ -1,0 +1,1 @@
+Lorsque le propriétaire fournit une garantie pour une somme correspondant aux limites de sa responsabilité, cette garantie sert au paiement de toutes les créances dérivant d’un même événement et pour lesquelles le propriétaire a limité sa responsabilité.

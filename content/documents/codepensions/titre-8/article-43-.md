@@ -1,0 +1,2 @@
+La pension et la rente viagère d'invalidité peuvent être révisées à tout moment en cas d’erreur ou d'omission quelle que soit la nature de celle-ci. Elles peuvent être modifiées ou suppri­mées si la concession a été faite dans les conditions contraires aux prescriptions du présent régime.
+La restitution des sommes payées indûment ne peut être exigée que si l'intéressé était de mauvaise foi : cette restitution est poursuivie à la diligence du Ministre chargé des Finances.

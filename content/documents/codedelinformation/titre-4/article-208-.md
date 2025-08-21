@@ -1,0 +1,2 @@
+La Haute Autorité de l’Audiovisuel et de la Communication autorise, dans le respect des traités et accords internationaux signés par la République du Bénin, l’utilisation par des personnes privées, des bandes de fréquences ou des fréquences dont l’attribution lui est confiée par le Gouvernement.
+Elle contrôle leur utilisation et prend les mesures nécessaires pour garantir une bonne émission des signaux.

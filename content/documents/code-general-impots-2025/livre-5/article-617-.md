@@ -1,0 +1,1 @@
+En vertu du droit de poursuites direct et individuel du trésor, un avis à tiers détenteur peut être directement émis à l’encontre de tout contribuable retardataire, sans commandement préalable, dès l’expiration du délai de paiement fixé par l’avis de mise en recouvrement.

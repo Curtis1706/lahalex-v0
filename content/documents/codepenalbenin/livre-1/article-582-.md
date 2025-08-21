@@ -1,0 +1,1 @@
+Constitue la pornographie mettant en scène des enfants, toute représentation, par quelque moyen que ce soit, d’un enfant s'adonnant à des activités sexuelles explicites, réelles ou simulées, ou toute représentation des organes sexuels d'un enfant, à des fins principalement sexuelles.

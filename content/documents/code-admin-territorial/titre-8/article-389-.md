@@ -1,0 +1,1 @@
+Avant d'être installé dans ses fonctions, le comptable de la commune ou de l'établissement public de coopération intercommunale est astreint à la constitution d'un cautionnement et à la prestation d'un serment, conformément aux lois et règlements.

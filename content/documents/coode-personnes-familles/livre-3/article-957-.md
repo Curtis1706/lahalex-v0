@@ -1,0 +1,1 @@
+La donation faite en faveur du mariage est caduque si le mariage ne s’ensuit pas.

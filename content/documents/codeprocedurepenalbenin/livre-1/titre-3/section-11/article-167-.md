@@ -1,0 +1,3 @@
+Le juge d’instruction peut requérir par commission rogatoire tout juge d’instruction, tout officier de police judiciaire compétent dans le ressort de son tribunal, de procéder aux actes d’information qu’il estime nécessaires, dans les lieux soumis à la juridiction de chacun d’eux.
+La commission rogatoire indique la nature de l’infraction, objet des poursuites. Elle est datée et signée par le magistrat qui l’a délivrée et revêtue de son sceau.
+Elle ne peut prescrire que des actes d’instruction se rattachant directement à la répression de l’infraction visée aux poursuites.

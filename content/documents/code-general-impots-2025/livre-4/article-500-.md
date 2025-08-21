@@ -1,0 +1,2 @@
+Les entreprises qui n’ont pas tenu une comptabilité régulière ou qui n’ont pas satisfait à la présentation des documents comptables énumérés à l’article 480 du présent code, sont passibles d’une amende de un million (1 000 000) de francs CFA par exercice comptable.
+En cas de récidive, l’amende est portée à deux millions (2 000 000) de francs CFA par exercice comptable.

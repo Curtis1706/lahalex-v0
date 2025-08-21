@@ -1,0 +1,16 @@
+{
+  "id": "article-3-",
+  "title": "Article 3 : Nul ne peut être poursuivi pour un crime ou pour un délit dont les éléments ne sont pas définis par la loi, ou d’une contravention dont les éléments ne sont pas définis par le règlement.",
+  "numero": "3 ",
+  "document": "codepenalbenin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-1"
+  ],
+  "navigation": {
+    "parent": "chapitre-1",
+    "previous": "article-2-",
+    "next": "article-4-"
+  }
+}

@@ -1,0 +1,1 @@
+L’extrait d’acte de naissance ou de jugement supplétif d’acte de naissance produit lors de la nomination dans un corps ou lors de l’établissement du contrat de travail est seul retenu pour déterminer l’âge réel de l’agent permanent de l’Etat ou de l’agent contractuel de l’Etat.

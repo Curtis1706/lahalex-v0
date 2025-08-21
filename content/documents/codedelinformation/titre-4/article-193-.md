@@ -1,0 +1,1 @@
+Le capital social des sociétés coopératives de messagerie de presse peut être souscrit aussi bien par des personnes physiques ou morales propriétaires de journaux ou de publication de presse que par toutes autres personnes physiques ou morales qui en manifestent l’intérêt.

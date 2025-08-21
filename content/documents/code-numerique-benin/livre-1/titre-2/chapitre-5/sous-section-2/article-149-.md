@@ -1,0 +1,2 @@
+Obligations de transparence
+L’Autorité de régulation peut, conformément aux dispositions de l’article 143 du présent code, imposer des obligations de transparence concernant l'interconnexion et/ou l'accès en vertu desquelles les opérateurs doivent rendre publiques des informations bien définies, telles que les informations comptables, les spécifications techniques, les caractéristiques du réseau, les modalités et conditions de fourniture et d'utilisation et les prix.

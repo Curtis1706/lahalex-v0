@@ -1,0 +1,16 @@
+{
+  "id": "article-84-",
+  "title": "Article 84 :",
+  "numero": "84 ",
+  "document": "code-admin-territorial",
+  "path": [
+    "titre-4",
+    "chapitre-1",
+    "paragraphe-3"
+  ],
+  "navigation": {
+    "parent": "paragraphe-3",
+    "previous": "article-83-",
+    "next": "article-85-"
+  }
+}

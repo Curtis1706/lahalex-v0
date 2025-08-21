@@ -1,0 +1,2 @@
+Chaque collectivité décentralisée met en place un système de traitement de ses déchets ménagers, industriels ou commerciaux dangereux.
+Les conditions techniques du système de traitement sont fixées par voie réglementaire.

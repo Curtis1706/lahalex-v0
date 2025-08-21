@@ -1,0 +1,3 @@
+Sont punis d’une amende de cinq cent mille (500.000) francs CFA à cinq (05) millions de francs CFA les dirigeants sociaux, qui, sciemment :
+1. ne font pas figurer la dénomination sociale sur tous les actes et documents émanant de la société et destinés aux tiers ;
+2. ne font pas précéder ou suivre immédiatement la dénomination de l’indication, en caractères lisibles, de la forme de la société, du montant de son capital social, de l’adresse de son siège social et de la mention de son immatriculation au registre du commerce et du crédit mobilier.

@@ -1,0 +1,3 @@
+Le secrétaire permanent est, en sa qualité de fonctionnaire ou d'agent contractuel, punissable du chef des faits constituant une faute disciplinaire en vertu et conformément aux règles statutaires ou stipulations contractuelles auxquelles il est soumis.
+Toutefois, le secrétaire permanent peut être révoqué de ses fonctions par le conseil de communauté en cas de faute lourde.
+Constitue une faute lourde du secrétaire permanent, l'un quelconque des faits indiqués à l’article 119 de la présente loi.

@@ -1,0 +1,7 @@
+Champ d’application territorial
+Les dispositions du présent Livre s'appliquent au traitement des données à caractère personnel effectué dans le cadre des activités d'un responsable du traitement ou d'un sous-traitant sur le territoire de la République du Bénin, que le traitement ait lieu ou non en République du Bénin.
+Les dispositions du présent Livre s'appliquent au traitement des données à caractère personnel relatives à des personnes concernées qui se trouvent sur le territoire de la République du Bénin par un responsable du traitement ou un sous-traitant qui n'est pas établi en République du Bénin, lorsque les activités de traitement sont liées :
+1. à l'offre de biens ou de services à ces personnes concernées en République du Bénin, qu'un paiement soit exigé ou non desdites personnes ; ou
+1. au suivi du comportement de ces personnes, dans la mesure où il s'agit d'un comportement qui a lieu au sein de la République du Bénin ;
+1. le traitement est mis en œuvre sur le territoire d’un État membre de la CEDEAO.
+Les dispositions du présent Livre s'appliquent au traitement de données à caractère personnel par un responsable du traitement qui n'est pas établi en République du Bénin mais dans un lieu où le droit de la République du Bénin s'applique en vertu du droit international public.

@@ -1,0 +1,1 @@
+La décision de révocation peut faire l’objet d'un recours pour excès de pouvoir dans un délai de quinze (15) jours à compter de sa notification, devant le tribunal administratif territorialement compétent.

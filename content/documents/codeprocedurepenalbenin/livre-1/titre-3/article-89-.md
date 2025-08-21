@@ -1,0 +1,4 @@
+Lorsqu’il existe dans un tribunal plusieurs juges d’instruction, le président du tribunal ou, en cas d’empêchement, le magistrat qui le remplace, désigne sans délai pour chaque information, le juge qui en sera chargé. A cette fin, il établit un tableau de roulement.
+En cas d’empêchement du juge désigné, il est procédé par ordonnance du président du tribunal à son remplacement.
+Toutefois, en cas d’urgence et pour des actes isolés, tout juge d’instruction peut suppléer un autre juge d’instruction du même tribunal.
+Dans le tribunal où il n’existe qu’un seul juge d’instruction, celui-ci en cas d’empêchement ou de nomination à un autre poste, est provisoirement remplacé soit par le président du tribunal ou celui des juges du tribunal que le président désigne, soit par un magistrat en service dans une autre juridiction que le président de la cour d’appel délègue à cette fin.

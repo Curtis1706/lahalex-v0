@@ -1,0 +1,2 @@
+La cour d’assises est à l’audience assistée d’un greffier. Les fonctions du greffe sont exercées par le greffier en chef ou en cas d’empêchement, par un greffier de la cour d’appel.
+En cas d’insuffisance d’effectif, la cour d’appel peut faire appel au greffier en chef d’un tribunal de première instance et en cas d’empêchement de celui-ci, à un greffier.

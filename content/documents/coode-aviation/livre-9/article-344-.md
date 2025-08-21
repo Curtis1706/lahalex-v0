@@ -1,0 +1,3 @@
+Les infractions aux dispositions de la présente loi sont portées à la connaissance de l'officier de police judiciaire territorialement compétent par toute personne.
+Une fois informé, l'officier de police judiciaire constate l'infraction et en dresse procès-verbal. '
+Indépendamment des officiers de police judiciaire, sont chargés de la constatation des infractions aux dispositions de la présente loi et des textes réglementaires d'application, les fonctionnaires assermentés des corps techniques de l'aviation civile, les militaires ou marins, les agents de l'autorité civile ou militaire commissionnés à cet effet et les agents des douanes.

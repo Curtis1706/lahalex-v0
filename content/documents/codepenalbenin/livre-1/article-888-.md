@@ -1,0 +1,2 @@
+Quiconque aura mis volontairement obstacle à l’accomplissement des devoirs des agents du service forestier, sera puni d’une amende de cinquante mille (50.000) francs CFA à cinq cent mille (500.000) francs CFA et d’un emprisonnement de trois (03) mois à trois (03) ans ou de l’une de ces deux peines seulement, le tout sans préjudice des dommages-intérêts et de remise des lieux en état.
+En cas de coups volontaires ayant entraîné des préjudices corporels ou la mort d’un agent forestier dans l’exercice de ses fonctions, seule la procédure criminelle sera applicable.

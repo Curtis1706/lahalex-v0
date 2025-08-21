@@ -1,0 +1,3 @@
+Accès aux services fournis par les opérateurs et aux services d'urgence
+Les opérateurs assurent, de manière permanente et continue, la fourniture des services de communications électroniques.
+Les opérateurs qui fournissent un service téléphonique au public garantissent également un accès ininterrompu aux services d’urgence, conformément aux règles applicables et dans les conditions précisées par l’Autorité de régulation, sous peine de sanctions prévues aux articles 239 et 240 du présent code.

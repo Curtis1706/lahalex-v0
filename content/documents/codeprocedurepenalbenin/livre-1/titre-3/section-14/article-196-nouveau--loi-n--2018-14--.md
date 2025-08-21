@@ -1,0 +1,3 @@
+Si le juge d'instruction estime que les faits constituent une infraction qualifiée crime par la loi, il prononce la mise en accusation devant le tribunal de première instance statuant en matière criminelle.
+Le mandat d'arrêt ou de dépôt décerné contre l'inculpé conserve sa force exécutoire sauf s'il est autrement statué par la chambre de l'instruction. Le contrôle judiciaire aussi continue à produire ses effets.
+Les pièces à conviction restent au greffe du tribunal sauf dispositions contraires.

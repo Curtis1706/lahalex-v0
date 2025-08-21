@@ -1,0 +1,1 @@
+Le secrétaire administratif d'arrondissement doit justifier d'un niveau de qualification BAC + trois (03) années d’études universitaires.

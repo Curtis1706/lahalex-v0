@@ -1,0 +1,1 @@
+Si les denrées pillées ou détruites sont des grains, des tubercules ou des farines, des substances farineuses, du pain, du lait, du vin ou autre boisson, la peine que subiront les chefs, instigateurs ou provocateurs, sera le maximum de la réclusion criminelle à temps de dix (10) ans à vingt (20) ans et d’une amende de cinq millions (5.000.000) de francs CFA.

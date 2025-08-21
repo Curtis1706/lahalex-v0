@@ -1,0 +1,1 @@
+Le mandat de député est incompatible avec l'exercice de tout autre mandat électif qui ne procède pas du mandat parlementaire.

@@ -1,0 +1,2 @@
+Le président de la République élu entre en fonction et prête serment le quatrième dimanche du mois de mai de l'année électorale.
+Le vice-président élu entre en fonction au même moment que le président de la République élu.

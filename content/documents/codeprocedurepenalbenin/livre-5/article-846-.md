@@ -1,0 +1,2 @@
+Les peines portées par un arrêt rendu pour une infraction qualifiée crime par la loi se prescrivent par vingt (20) années révolues à compter de la date où cet arrêt est devenu définitif.
+Néanmoins, le condamné sera soumis de plein droit, et sa vie durant, à l’interdiction de séjour.

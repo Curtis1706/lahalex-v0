@@ -1,0 +1,2 @@
+Servitudes pour la protection des câbles et des lignes desdits réseaux
+Afin d’assurer la conservation et le fonctionnement normal des réseaux de communications électroniques, il peut être institué des servitudes pour la protection des câbles et des lignes desdits réseaux.

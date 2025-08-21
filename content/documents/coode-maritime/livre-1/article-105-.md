@@ -1,0 +1,2 @@
+Chaque copropriétaire peut disposer de sa part mais reste tenu des dettes contractées antérieurement à la publication réglementaire de l’aliénation.
+Nonobstant toutes clauses contraires, l’aliénation qui doit entraîner la perte de la béninisation du navire n’est permise qu’avec l’autorisation des autres copropriétaires.

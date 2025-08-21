@@ -1,0 +1,1 @@
+2 est interdit de déposer, de jeter ou d'enfouir les déchets de quelque nature que ce soit sur les voies et places publiques, sur les rives ou dans les mares, les rivières, les fleuves, les lacs, les étangs, les canaux d'évacuation des eaux pluviales et les canaux d'irrigation ou à proximité de tout point d'eau.

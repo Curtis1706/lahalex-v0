@@ -1,0 +1,1 @@
+La gestion des déchets biomédicaux se fait conformément à la règlementation en vigueur.

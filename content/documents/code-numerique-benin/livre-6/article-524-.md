@@ -1,0 +1,2 @@
+Infractions sexuelles
+Les agressions sexuelles autres que le viol sont punies de dix (10) ans d'emprisonnement et vingt-cinq millions (25 000 000) de francs CFA d'amende lorsque la victime a été mise en contact avec l'auteur des faits au moyen d’un ou sur un réseau de communication électronique ou un système informatique.

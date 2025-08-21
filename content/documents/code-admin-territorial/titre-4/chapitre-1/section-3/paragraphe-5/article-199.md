@@ -1,0 +1,1 @@
+Le secrétaire administratif d’arrondissement encourt une sanction disciplinaire pour tout manquement aux devoirs de sa charge ou pour tout fait constituant une faute disciplinaire selon les dispositions statutaires et/ou stipulations contractuelles qui lui sont applicables.

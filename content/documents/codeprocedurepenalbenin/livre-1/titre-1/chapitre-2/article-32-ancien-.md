@@ -1,0 +1,1 @@
+Le procureur général représente en personne ou par ses avocats généraux et substituts généraux, le ministère public auprès de la cour d’appel et auprès de la cour d’assises.

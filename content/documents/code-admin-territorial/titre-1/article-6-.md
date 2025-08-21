@@ -1,0 +1,12 @@
+Les localités, chefs-lieux de département sont déterminées par décret pris en Conseil des ministres sur la base des critères ci-après :
+- statut actuel de chef-lieu de département ;
+- poids démographique ;
+- poids économique ;
+- infrastructures administratives, judiciaires et socio-communautaires :
+- concentration de services et de structures publics ;
+- lieu d’implantation d'une majorité de services déconcentrés ;
+- siège des centres et réseaux de communication ;
+- services sanitaires ;
+- services de sécurité publique et de protection civile ;
+- position géographique la plus orthocentrée possible par rapport aux limites du département ;
+- tradition historique de ville centre et de zone d'affluence des habitants.

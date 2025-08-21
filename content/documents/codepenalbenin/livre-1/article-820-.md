@@ -1,0 +1,2 @@
+Quiconque, par des voies de fait, se sera opposé à la confection de travaux autorisés par le Gouvernement, est puni d’un emprisonnement de trois (03) mois à deux (02) ans, et d’une amende qui ne pourra excéder le quart (1/4) des dommages-intérêts, ni être en-dessous de cent mille (100.000) francs CFA.
+Les instigateurs subiront le maximum de la peine.

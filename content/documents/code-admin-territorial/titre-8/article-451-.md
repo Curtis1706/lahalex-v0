@@ -1,0 +1,2 @@
+Lorsque des recettes sont perçues avant émission de titre, soit par le comptable, soit par le régisseur, le comptable de la commune ou de l'établissement public de coopération intercommunale en informe l’ordonnateur.
+L’ordonnateur du budget de la commune ou de l'établissement public de coopération intercommunale émet, en régularisation, les titres de recettes et les transmet dans les conditions prévues à l’article 450 de la présente loi.

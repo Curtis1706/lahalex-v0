@@ -1,0 +1,2 @@
+Tout crime commis par un fonctionnaire public dans l’exercice ou à l’occasion de l’exercice de ses fonctions est une forfaiture.
+Les simples délits commis par les fonctionnaires dans l’exercice ou à l’occasion de l’exercice de leurs fonctions ne sont pas des forfaitures.

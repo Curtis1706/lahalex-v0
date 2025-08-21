@@ -1,0 +1,1 @@
+Sont punis des peines prévues à l’article 331 du présent code tous détenteurs de l’autorité publique qui auront ordonné des contributions directes ou indirectes autres que celles autorisées par la loi, tout fonctionnaire qui a établi les rôles ou en a fait le recouvrement.

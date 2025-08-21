@@ -1,0 +1,8 @@
+(Loi n°200702)
+Dans le cadre de la politique générale de prévention des risques professionnels, la Caisse doit :
+Recueillir, au niveau des diverses catégories d’établissements, tous renseignements permettant d’établir les statistiques des accidents du travail et des maladies professionnelles en tenant compte de leurs causes et des circonstances dans lesquelles ils sont survenus, de leur fréquence et de leurs effets, notamment de la durée et de l’importance des incapacités qui en résultent ;
+Définir, en liaison avec tous les services compétents en la matière, les normes de sécurité applicables aux différentes branches de l’activité professionnelle et de participer à la mise au point des mesures destinées à en assurer l’application ;
+Ancien Elaborer, en collaboration avec les services compétents des ministères chargés du travail, de la santé et de tous les autres ministères dont les activités sont en rapport avec la prévention des risques professionnels, sur la base des données recueillies à la suite des activités mentionnées cidessus, une politique de la sécurité au travail et étudier toutes les mesures propres à en assurer la diffusion dans les entreprises et dans la population ;
+Nouveau Élaborer, sur la base des données recueillies à la suite des activités mentionnées cidessus, une politique de la sécurité au travail et étudier toutes les mesures propres à en assurer la diffusion dans les entreprises et dans la population, en collaboration :
+D’une part avec les services compétents des ministères chargés du travail, de la santé et de tous les autres ministères dont les activités sont en rapport avec la prévention des risques professionnels ;
+Et d’autre part avec les organisations d’employeurs et celles des travailleurs.

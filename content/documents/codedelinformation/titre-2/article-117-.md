@@ -1,0 +1,1 @@
+Les activités du Président de l’Assemblée Nationale, à savoir : les audiences, les tournées, les missions à l’extérieur et les conférences de presse font l’objet de couverture classique de la part des organes.

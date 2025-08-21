@@ -1,0 +1,8 @@
+(Loi n°200702)
+L’expression « mois d’assurance » désigne tout mois civil au cours duquel l’assuré a occupé pendant 18 jours au moins ou 120 heures un emploi assujetti à l’assurance.
+Pour l’ouverture du droit aux prestations, est assimilée à une période d’assurance, toute période pendant laquelle l’assuré à perçu des indemnités journalières au titre des risques professionnels ou de la maternité ou a été indemnisé soit dans les conditions prévues aux dispositions du Code du travail, soit pendant la durée du congé payé, dans la limite fixée par les dispositions du Code du travail.
+Dans le cas où la rémunération des services est calculée à la pièce ou à la tâche, est considéré comme mois d’assurance le mois civil au cours duquel la rémunération servie est au moins égale à 18 fois la rémunération journalière minimale légale.
+Ancien Les périodes d’assurance validables pour le calcul de la pension sont celles accomplies de 18 ans à 55 ans. Pour les périodes accomplies entre 55 ans et 60 ans, les cotisations personnelles versées au titre de l’assurance vieillesse sont remboursées.
+Audelà de 60 ans, aucun remboursement ne peut être effectué.
+Nouveau Les périodes d’assurance validables pour le calcul de la pension sont celles accomplies de dixhuit 18 ans à 60 ans. Pour les périodes accomplies entre soixante (60) ans et soixantecinq (65) ans, les cotisations personnelles versées au titre de l’assurance vieillesse sont remboursées.
+Audelà de soixantecinq (65) ans, aucun remboursement ne peut être effectué.

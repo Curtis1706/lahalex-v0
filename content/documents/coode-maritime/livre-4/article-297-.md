@@ -1,0 +1,1 @@
+Est armateur tout particulier, toute société, tout service public qui arme, exploite, utilise en son nom un navire à des fins lucratives ou autres, qu’il en soit ou non propriétaire.

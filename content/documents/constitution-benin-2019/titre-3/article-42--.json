@@ -1,0 +1,14 @@
+{
+  "id": "article-42--",
+  "title": "Article 42  :",
+  "numero": "42  ",
+  "document": "constitution-benin-2019",
+  "path": [
+    "titre-3"
+  ],
+  "navigation": {
+    "parent": "titre-3",
+    "previous": "article-41--",
+    "next": "article-43--"
+  }
+}

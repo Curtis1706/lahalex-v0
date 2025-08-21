@@ -1,0 +1,4 @@
+Est punie d’un emprisonnement de un (01) an à deux (02) ans et d’une amende de deux cent mille (200.000) à cinq cent mille (500.000) francs CFA :
+1. toute personne qui s’est fait recenser ou a tenté de se faire recenser lors du recensement électoral national sous de faux noms ou de fausses qualités ou a, en se faisant recenser, dissimulé une incapacité prévue par la loi, ou réclamé ou obtenu son recensement deux (02) ou plusieurs fois ;
+2. toute personne qui, à l’aide de déclarations fausses ou de faux certificats, s’est fait recenser ou a tenté de se faire inscrire sur une liste électorale ou qui, à l’aide de moyens frauduleux, a fait inscrire ou rayer indûment un citoyen.
+Sont punis des mêmes peines, les complices des délits prévus aux alinéas précédents.

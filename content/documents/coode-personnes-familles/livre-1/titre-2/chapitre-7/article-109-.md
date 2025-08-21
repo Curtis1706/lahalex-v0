@@ -1,0 +1,3 @@
+L’état des personnes oblige le juge à surseoir à statuer tant que le tribunal civil n'aura pas tranché la question d’état.
+L'action publique du chef du délit d’usurpation d’état civil ne peut être engagée qu’après le jugement définitif de la question d’état. Pour les autres délits, la question est seulement préjudicielle au jugement.
+La juridiction pénale est tenue de surseoir à statuer dans les conditions prévues par les dispositions du code de procédure pénale. Cependant la cour d'assises, en raison de sa plénitude de juridiction, peut trancher directement sans que sa décision ait influence sur l’état de la personne.

@@ -1,0 +1,1 @@
+Le marin qui est appelé à remplir une fonction autre que celle pour laquelle il est engagé et comportant un salaire plus élevé a droit à une augmentation de salaire calculée d’après la différence totale entre son salaire et le salaire afférent à la fonction qu’il a temporairement remplie.

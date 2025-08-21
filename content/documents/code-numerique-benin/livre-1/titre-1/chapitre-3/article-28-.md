@@ -1,0 +1,2 @@
+Réclamations des utilisateurs
+Les opérateurs fournissant des services de communications électroniques aux consommateurs établissent et gèrent un système de traitement des réclamations des utilisateurs. Les réclamations sont traitées dans un délai n’excédant pas un (01) mois.

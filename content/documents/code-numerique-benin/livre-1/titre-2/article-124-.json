@@ -1,0 +1,15 @@
+{
+  "id": "article-124-",
+  "title": "Article 124 : Avis et recommandations du Conseil de régulation",
+  "numero": "124 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-123-",
+    "next": "article-125--"
+  }
+}

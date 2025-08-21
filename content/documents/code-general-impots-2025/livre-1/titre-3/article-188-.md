@@ -1,0 +1,8 @@
+1) Le taux de la taxe professionnelle synthétique due par les marchands forains qui vendent en étalage ou sur inventaire des objets de menue valeur, est fixé par voie réglementaire sans pouvoir excéder celui prévu par l’article 183 ci-dessus.
+2) Les marchands forains visés au paragraphe 1 du présent article sont tenus de se
+faire délivrer par les services des impôts une quittance qui ne leur sera remise que contre paiement intégral des droits de taxe professionnelle synthétique foraine.
+3) Le marchand forain qui justifie du paiement de l’impôt dans une commune n’est
+plus imposable dans les autres communes pour cette même activité.
+4) Pour l’application du présent article, il faut entendre par « marchand forain », non
+seulement tous commerçants vendant en ambulance à proprement parler, mais encore tous commerçants vendant sur les marchés, même lorsqu’ils occupent régulièrement le même emplacement, et tous commerçants installés sur un terrain privé ou sur la voie publique vendant en étalage ou occupant des baraquements ou locaux similaires qui ne sont pas fixés au sol à perpétuelle demeure.
+Tout individu qui transporte des marchandises de commune en commune, d’escale en escale, ou bien dans les territoires communaux et banlieues, de village en village, même lorsqu’il vend pour le compte de marchands est tenu d’avoir une taxe professionnelle synthétique personnelle de marchand forain.

@@ -1,0 +1,3 @@
+Chaque commune dispose au moins d'une morgue, conforme aux normes en vigueur et après avis conforme du ministre chargé de la santé.
+Des personnes privées peuvent également procéder à l'installation de morgues, après autorisation du préfet et avis conforme du ministre de la santé.
+Les modalités de mise en œuvre des dispositions du deuxième alinéa du présent article sont déterminées par voie réglementaire.

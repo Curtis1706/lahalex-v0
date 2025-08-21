@@ -1,0 +1,2 @@
+Article 520 : Déclaration modificative
+Toute modification des indications incluses dans la déclaration prévue à l’article 518, toute cessation de fonctions d’une personne ayant fait l’objet d’une déclaration, tout retrait du mandat doivent être déclarés au Ministre en charge du secteur des assurances désignées à l’article 517 par la personne ou entreprise à qui incombe l’obligation d’effectuer la déclaration prévue à l’article 518.

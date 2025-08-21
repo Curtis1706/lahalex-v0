@@ -1,0 +1,3 @@
+En cas d'incapacité de travail résultant de blessures ou de maladies non imputables au service d'un membre du personnel navigant professionnel de l'aéronautique civile en cours d’exécution de contrat, l’exploitant lui assure, jusqu'à la reprise de ses fonctions de navigant ou jusqu’à décision du médecin ou, le cas échéant, jusqu'à la date de son admission à faire valoir ses droits à la retraite :
+- son salaire minimum mensuel garanti pendant le mois au cours duquel est survenue l'incapacité et pendant les trois mois suivants ;
+- la moitié de ce salaire pendant les trois mois suivant cette première période.

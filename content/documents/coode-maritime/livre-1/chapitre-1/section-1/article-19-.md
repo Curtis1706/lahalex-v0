@@ -1,0 +1,1 @@
+La zone économique exclusive de la République du Bénin s’étend à cent quatre-vingt-huit (188) milles marins au-delà de la mer territoriale, soit à deux cents (200) milles marins à partir de la ligne de base.

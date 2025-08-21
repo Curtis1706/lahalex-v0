@@ -1,0 +1,1 @@
+Les taxes prévues aux articles 431 et 432 ci-dessus sont perçues par apposition, sur la pièce remise au redevable ou à défaut sur la demande faite, de timbres fiscaux oblitérés par les services en charge des transports terrestres dans les conditions fixées à l’article 443 du présent code.

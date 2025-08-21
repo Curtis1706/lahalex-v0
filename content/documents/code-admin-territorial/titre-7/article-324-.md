@@ -1,0 +1,1 @@
+Le secrétariat permanent de l'établissement public de coopération intercommunale est organisé et fonctionne conformément à ses statuts et à l'organigramme adoptés par le conseil de supervision, au règlement intérieur et aux manuels de procédures de l’établissement.

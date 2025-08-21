@@ -1,0 +1,1 @@
+Les donations entre époux sont régies par la loi gouvernant les effets du mariage.

@@ -1,0 +1,1 @@
+L’action en réclamation d’état est imprescriptible à l’égard de l’enfant.

@@ -1,0 +1,3 @@
+Le chef de village ou de quartier de ville assure la remise des convocations et la transmission des correspondances des autorités administratives et judiciaires.
+Il prête son assistance pour la collecte des informations sur les étrangers, les naissances, les mariages, les décès et le recensement des personnes.
+Il sensibilise les parents à faire les déclarations de naissance et de décès dans le délai légal.

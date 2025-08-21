@@ -1,0 +1,1 @@
+Les peines visées aux articles précédents peuvent être assorties du retrait des permis, autorisations et licences délivrés en application des lois et règlements, ainsi que la privation temporaire ou définitive, de l’octroi futur de ces permis, autorisations et licences.

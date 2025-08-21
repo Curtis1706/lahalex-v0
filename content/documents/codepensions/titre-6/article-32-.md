@@ -1,0 +1,3 @@
+Le mari, si la preuve du mariage est faite a droit à la pension de réversion égale à 50 % de la pensionné d’ancienneté ou proportionnelle obtenue par l'épouse ou que celle-ci aurait obtenue le jour de son décès, augmentée, le cas échéant, de la moitié de la rente d'invalidité dont elle bénéficiait ou aurait pu bénéficier.
+Un décret déterminera les conditions de jouissance de ce droit.
+PENSIONS D'ORPHELINS

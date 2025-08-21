@@ -1,0 +1,4 @@
+Services de validation qualifiés des signatures électroniques qualifiées
+Un service de validation qualifié des signatures électroniques qualifiées ne peut être fourni que par un prestataire de services de confiance qualifié qui :
+1. fournit une validation conformément aux exigences légales et réglementaires applicables à la validation des signatures électroniques qualifiées ;
+1. permet aux utilisateurs de recevoir le résultat du processus de validation d’une manière automatisée, fiable, efficace et portant la signature électronique avancée ou le cachet électronique avancé du prestataire qui fournit le service de validation qualifié.

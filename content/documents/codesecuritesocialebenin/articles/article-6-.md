@@ -1,0 +1,1 @@
+Toute personne qui, ayant été affiliée au régime général de sécurité sociale pendant au moins six mois consécutifs, cesse de remplir les conditions d’assujettissement obligatoire, a la faculté de demeurer volontairement affiliée pour une durée limitée à la branche des pensions dans les conditions et modalité fixées par décret pris en conseil des Ministres.

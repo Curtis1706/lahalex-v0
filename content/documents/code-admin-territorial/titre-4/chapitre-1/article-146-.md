@@ -1,0 +1,3 @@
+La décision de révocation du secrétaire exécutif n'est susceptible que d’un recours en indemnité devant la juridiction compétente. Le recours s'exerce dans les formes et délais de droit commun.
+Préalablement au recours en indemnité, le secrétaire exécutif révoqué peut saisir, selon le cas, l'administration communale ou le ministre chargé des finances de sa demande d'indemnité.
+Le montant de l'indemnité ne peut excéder neuf (09) mois de son salaire mensuel, toutes indemnités comprises.

@@ -1,0 +1,14 @@
+{
+  "id": "article-146-",
+  "title": "Article 146 :",
+  "numero": "146 ",
+  "document": "coode-personnes-familles",
+  "path": [
+    "livre-2"
+  ],
+  "navigation": {
+    "parent": "livre-2",
+    "previous": "article-145-",
+    "next": "article-147-"
+  }
+}

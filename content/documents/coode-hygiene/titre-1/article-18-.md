@@ -1,0 +1,2 @@
+Les déchets ménagers sont déposés dans des récipients étanches, faciles à manipuler ou dans des dépotoirs autorisés par les structures agréées.
+Les récipients ou dépotoirs couverts sont placés en bordure des rues pour être enlevés par les structures de pré-collecte.

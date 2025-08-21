@@ -1,0 +1,6 @@
+1) Sauf disposition expresse contraire, les impôts, droits et taxes sont exigibles le dernier jour du mois suivant celui de la notification du titre de perception. Les impositions mises en recouvrement au mois de décembre sont exigibles en totalité au 31 décembre de la même année.
+2) Toutefois :
+1) le  déménagement  hors  du  ressort  de  la  recette  des  impôts,  la  vente
+volontaire ou forcée, la cession ou cessation d’entreprise, le décès du contribuable, la faillite ou la liquidation judiciaire, l’exercice d’une profession commerciale non sédentaire, entraînent l’exigibilité immédiate de l’impôt ;
+2) le retard dans le paiement des impositions antérieures, l’application d’une
+pénalité par le service d’assiette ou de vérification fiscale, soit par suite de défaut de déclaration, soit pour déclaration tardive ou insuffisante des revenus, bénéfices ou chiffres d’affaires  imposables,  entraînent  l’exigibilité  immédiate  de  l’ensemble  des  impositions assises au nom du contribuable ou du redevable, dès la notification du titre de perception.

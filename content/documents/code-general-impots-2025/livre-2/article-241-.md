@@ -1,0 +1,1 @@
+Le taux de la taxe sur la valeur ajoutée est fixé à 18%.

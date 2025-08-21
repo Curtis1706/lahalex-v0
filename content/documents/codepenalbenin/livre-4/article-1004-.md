@@ -1,0 +1,1 @@
+Dans toutes les matières régies par les lois ou règlements particuliers les cours et tribunaux continueront de les appliquer en ce que leurs dispositions ne sont pas contraires à celles du présent code.

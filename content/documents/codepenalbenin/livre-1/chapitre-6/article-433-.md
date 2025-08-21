@@ -1,0 +1,1 @@
+Lorsque des scellés apposés, soit par ordre du Gouvernement, soit par suite d’une ordonnance de justice rendue en quelque matière que ce soit, ont été brisés, les gardiens sont punis, pour simple négligence, de (01) mois à six (06) mois d’emprisonnement.

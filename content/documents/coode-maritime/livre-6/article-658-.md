@@ -1,0 +1,1 @@
+Les infractions aux dispositions de l’article 188 du présent code sont punies d’un emprisonnement de un (01) an à cinq (05) ans et d’une amende de cinq millions (5.000.000) à cinquante millions (50.000.000) de francs.

@@ -1,0 +1,17 @@
+{
+  "id": "article-29-",
+  "title": "Article 29 : Les décisions du Conseil électoral sont prises par consensus ou, à défaut, à la majorité simple des membres présents.",
+  "numero": "29 ",
+  "document": "code-electoral",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "chapitre-2",
+    "section-2"
+  ],
+  "navigation": {
+    "parent": "section-2",
+    "previous": "article-28-",
+    "next": "article-30-"
+  }
+}

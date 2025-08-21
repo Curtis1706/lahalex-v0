@@ -1,0 +1,3 @@
+Sauf dons le cos où la loi en dispose autrement et sons préjudice des droits de la défense, la procédure ou cours de l'enquête et de l'instruction est secrète.
+Toute personne qui concourt à cette procédure est tenue ou secret professionnel dons les conditions et sous les peines prévues par le code pénal.
+Toutefois, afin d'éviter la prolifération d'informations parcellaires ou inexistantes, ou pour mettre fin à un trouble à l'ordre public, le procureur de la République rend publics les éléments objectifs tirés de la procédure et ne comportant aucune appréciation sur le bien-fondé des charges retenues contre les personnes mises en cause.

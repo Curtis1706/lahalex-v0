@@ -1,0 +1,1 @@
+Dans le cas où le juge d’instruction n’est pas compétent aux termes de l’article 45, il rend une ordonnance renvoyant la partie civile à se pourvoir devant telle juridiction qu’il appartiendra. L’ordonnance est prise après réquisitions du ministère public.

@@ -1,0 +1,16 @@
+{
+  "id": "article-43-",
+  "title": "Article 43 :",
+  "numero": "43 ",
+  "document": "code-douane",
+  "path": [
+    "titre-1",
+    "chapitre-6",
+    "section-5"
+  ],
+  "navigation": {
+    "parent": "section-5",
+    "previous": "article-42-",
+    "next": "article-44-"
+  }
+}

@@ -1,0 +1,1 @@
+Le Bureau enquêtes-accidents émet en son nom, des comptes rendus ou des déclarations provisoires, des conclusions, des recommandations de sécurité et un rapport final, sans requérir l'approbation d'aucune autorité externe ou de son autorité de tutelle.

@@ -1,0 +1,2 @@
+Si la menace faite avec ordre ou sous condition a été verbale, le coupable est puni d’un emprisonnement de six (06) mois à deux (02) ans et d’une amende de cinquante mille (50.000) francs CFA à un million cinq cent mille (1.500.000) francs CFA.
+Dans ce cas comme dans celui de l’article 505 du présent code, la peine de l’interdiction de séjour peut être prononcée contre le coupable.

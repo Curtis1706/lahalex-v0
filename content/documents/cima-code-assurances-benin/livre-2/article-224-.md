@@ -1,0 +1,2 @@
+Véhicules non assujettis à l’obligation d’assurance
+Les véhicules utilisés par l’Etat doivent être équipés, lorsqu’ils ne font pas l’objet d’une immatriculation spéciale, d’un certificat d’assurance spécifique dont les caractéristiques sont fixées par le Ministre en charge du secteur des assurances.

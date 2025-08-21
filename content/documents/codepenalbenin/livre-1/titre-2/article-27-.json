@@ -1,0 +1,15 @@
+{
+  "id": "article-27-",
+  "title": "Article 27 : N’est pas pénalement responsable la personne qui accomplit un acte prescrit ou autorisé par des dispositions législatives ou réglementaires.",
+  "numero": "27 ",
+  "document": "codepenalbenin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-26-",
+    "next": "article-28-"
+  }
+}

@@ -1,0 +1,5 @@
+Sur le territoire national, le scrutin se déroule dans les centres de vote retenus par la loi.
+Le vote a lieu sur la base d'un bulletin unique comportant des symboles ou images facilement identifiables par les électeurs.
+Ce bulletin unique est de type uniforme et codé sur toute l'étendue du territoire national, y compris les représentations diplomatiques et consulaires, pour l'élection du duo président de la République et vice-président de la République et, sur toute l'étendue du territoire de la circonscription électorale pour les élections législatives et communales, de village ou de quartier de ville.
+Le vote a lieu sans enveloppe.
+Les bulletins uniques sont présentés sous forme de bloc de (25) vingt-cinq bulletins auto détachables sur des souches numérotées consécutivement. Les numéros des blocs de bulletin envoyés dans une commune doivent être consécutifs, puis répertoriés dans un registre signé et paraphé par tous les membres du bureau de la Commission électorale nationale autonome. Ils sont fournis par la Commission électorale nationale autonome.

@@ -1,0 +1,1 @@
+La tierce opposition à l’encontre du jugement ou de l’arrêt d’adoption n’est recevable qu’en cas de dol ou de fraude imputable aux adoptants.

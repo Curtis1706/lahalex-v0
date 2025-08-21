@@ -1,0 +1,16 @@
+{
+  "id": "article-10-",
+  "title": "Article 10 : (Loi n°200702)",
+  "numero": "10 ",
+  "document": "codesecuritesocialebenin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-1"
+  ],
+  "navigation": {
+    "parent": "chapitre-1",
+    "previous": "article-9-",
+    "next": "article-11-"
+  }
+}

@@ -1,0 +1,1 @@
+Le testament est révoqué de façon totale lorsque le testateur déclare expressément, dans les formes requises pour la validité des testaments, qu’il révoque son testament.

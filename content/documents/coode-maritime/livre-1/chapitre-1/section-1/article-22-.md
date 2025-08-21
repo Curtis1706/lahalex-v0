@@ -1,0 +1,1 @@
+Les nationaux peuvent pêcher librement dans la zone économique exclusive sous réserve des dispositions législatives et réglementaires en vigueur.

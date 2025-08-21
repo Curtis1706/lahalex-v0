@@ -1,0 +1,15 @@
+{
+  "id": "article-808-",
+  "title": "Article 808 :",
+  "numero": "808 ",
+  "document": "coode-personnes-familles",
+  "path": [
+    "livre-3",
+    "chapitre-9"
+  ],
+  "navigation": {
+    "parent": "chapitre-9",
+    "previous": "article-807-",
+    "next": "article-809-"
+  }
+}

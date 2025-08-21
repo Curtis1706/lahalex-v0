@@ -1,0 +1,1 @@
+Est puni d’une peine d’emprisonnement de deux (02) ans à cinq (05) ans, tout ministre de culte ou autorité religieuse, qui a publié un écrit contenant une provocation directe à la désobéissance aux lois ou autres actes de l’autorité ou tendant à soulever ou armer une partie des citoyens contre les autres.

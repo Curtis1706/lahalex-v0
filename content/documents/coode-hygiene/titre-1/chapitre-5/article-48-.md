@@ -1,0 +1,3 @@
+Tout établissement sanitaire possède un système approprié d'évacuation et de traitement des déchets solides et liquides.
+Les effluents issus du prétraitement des déchets liquides dans les ouvrages d'assainissement font l'objet de désinfection préalable avant leur rejet conformément aux normes en vigueur.
+Le traitement des déchets des établissements sanitaires est fait conformément aux normes en vigueur.

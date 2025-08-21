@@ -1,0 +1,9 @@
+Injonction de conserver et de protéger l'intégrité des données informatiques
+Il est inséré dans le code de procédure pénale, un article 78 bis rédigé comme suit :
+« En matière criminelle 	et en matière correctionnelle, lorsque les nécessités de l’information l’exigent, l'officier de police judiciaire ou le juge d’instruction peut, par le biais d’une notification écrite et:
+- lorsqu’il y a des raisons de croire que les données informatiques stockées dans un système informatique sont particulièrement susceptibles de perte ou de modification ; et
+- que ces données informatiques sont utiles à la manifestation de la vérité,
+ordonner à une personne, fournisseur de services en ligne visé à l’article 495 du présent code ou opérateur ou fournisseur de services de communication au public en ligne visés à l’article 34 du présent code, de conserver et de protéger l’intégrité des données informatiques stockées spécifiées dans la notification et qui se trouvent en sa possession ou sous son contrôle, pendant une durée de quatre-vingt-dix (90) jours maximum afin de permettre aux autorités désignées dans la notification écrite d’obtenir la divulgation des données et pour la bonne démarche des investigations judiciaires.
+La durée exacte doit être indiquée dans la notification écrite et est renouvelable jusqu’à atteindre deux (02) ans maximum.
+Le gardien des données ou une autre personne chargée de conserver et de protéger ces mêmes données est tenu de garder le secret de la mise en œuvre des procédures prises dans le cadre de l’alinéa 1. Toute violation du secret est punie par les dispositions prévues par le code pénal relatives au secret professionnel.
+L’alinéa 2 ne s’appliquera pas lorsque l’obligation au secret a été levée par l’officier de police judiciaire ou le juge d’instruction, auteur de la notification écrite ».

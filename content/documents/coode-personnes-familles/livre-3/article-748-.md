@@ -1,0 +1,1 @@
+Les dispositions des articles qui précèdent ne font pas obstacle à ce que les créanciers de la succession poursuivent le recouvrement de leurs créances sur l’ensemble des biens héréditaires aussi longtemps que ces biens restent dans l’indivision.

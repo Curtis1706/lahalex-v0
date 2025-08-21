@@ -1,0 +1,5 @@
+Obligation de conservation de données
+Les fournisseurs de services en ligne détiennent et conservent les données de nature à permettre l’identification de quiconque a contribué à la création du contenu ou de l'un des contenus des services dont ils sont prestataires.
+Ils fournissent aux personnes qui éditent un service de communication au public en ligne des moyens techniques permettant à celles-ci de satisfaire aux conditions d'identification prévues à l’article 501.
+Les magistrats et les fonctionnaires chargés de la mise en œuvre de l'exercice de l'action publique, les autorités administratives mentionnées à l'article 595 du présent code pourraient requérir auprès des fournisseurs de services en ligne, conformément à la loi, la conservation et la protection de l'intégrité ainsi que la communication des données mentionnées au premier alinéa.
+Les dispositions prévues au Livre V du présent code sont applicables au traitement de ces données.

@@ -1,0 +1,14 @@
+{
+  "id": "article-ne-comprend-pas-les-dimanches-et-jours-f-ri-s",
+  "title": "article ne comprend pas les dimanches et jours fériés.",
+  "numero": "ne comprend pas les dimanches et jours fériés",
+  "document": "code-douane",
+  "path": [
+    "titre-3"
+  ],
+  "navigation": {
+    "parent": "titre-3",
+    "previous": "article-89-",
+    "next": "article-90-"
+  }
+}

@@ -1,0 +1,1 @@
+Les époux ne peuvent faire aucune convention ou renonciation dont l’objet serait de changer l’ordre légal des successions sans préjudice des libéralités qui peuvent avoir lieu selon les cas et dans les formes déterminées par la loi.

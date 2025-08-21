@@ -1,0 +1,3 @@
+Article 197 : Interdiction de diffusion des messages à effets sectaires
+Constitue une dérive sectaire, le fait de diffuser, par quelque moyen que ce soit, des messages destinés à la jeunesse et faisant la promotion d'une personne morale, d'une religion, d'un mouvement quelconque quelle qu'en soit la forme juridique ou l'objet, qui poursuit des activités ayant pour but ou pour effet de créer, de maintenir ou d'exploiter la sujétion psychologique ou physique des enfants qui participent à ces activités.
+SECTION XIII : DE LA TORTURE ET DES TRAITEMENTS CRUELS

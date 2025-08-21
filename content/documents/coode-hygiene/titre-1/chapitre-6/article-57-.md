@@ -1,0 +1,1 @@
+Les denrées servant à l'alimentation des détenus font l'objet d'un contrôle approprié par les agents en charge de l'hygiène.

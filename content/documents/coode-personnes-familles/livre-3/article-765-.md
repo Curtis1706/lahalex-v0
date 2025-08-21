@@ -1,0 +1,3 @@
+Le conjoint survivant et tout héritier peuvent être autorisés par le président du tribunal du lieu d’ouverture de la succession à percevoir des débiteurs de la succession ou des dépositaires de fonds successoraux une provision destinée à faire face aux besoins urgents.
+Le président du tribunal peut, en accordant l’autorisation, prescrire toutes mesures utiles en ce qui concerne l’emploi des fonds.
+Cette autorisation n’entraîne pas prise de qualité pour le conjoint ou le(s) héritier(s).

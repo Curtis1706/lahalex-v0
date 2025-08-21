@@ -1,0 +1,1 @@
+Les atteintes aux dépendances du domaine public maritime sont réprimées conformément aux lois et règlements en vigueur.

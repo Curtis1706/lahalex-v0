@@ -1,0 +1,2 @@
+Conseil d’Administration, membres
+La participation aux assemblées générales s’effectue dans les conditions prévues à l’article 330-17. Toutefois, pour l’élection de délégués, les groupements de sociétaires s’effectuent sur la base des associations.

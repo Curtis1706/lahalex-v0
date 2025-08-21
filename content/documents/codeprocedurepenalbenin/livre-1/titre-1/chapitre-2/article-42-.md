@@ -1,0 +1,2 @@
+En cas d’absence ou d’empêchement du procureur de la République et à défaut de substitut pour le remplacer, le juge d’instruction exerce à titre provisoire cumulativement avec ses propres fonctions, celles du ministère public.
+Lorsqu’il existe plusieurs juges d’instruction dans le tribunal, le juge le plus ancien dans le grade le plus élevé exerce les fonctions de ministère public.

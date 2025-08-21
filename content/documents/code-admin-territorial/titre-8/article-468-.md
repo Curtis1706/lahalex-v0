@@ -1,0 +1,2 @@
+Une créance ne peut être liquidée à la charge d'une commune ou d’un établissement public de coopération intercommunale que par l'ordonnateur ou son délégué et dans tous les cas, après engagement régulier sur des crédits disponibles.
+Sauf avance autorisée par les lois et règlements, la liquidation ne peut être effectuée qu'après service fait.

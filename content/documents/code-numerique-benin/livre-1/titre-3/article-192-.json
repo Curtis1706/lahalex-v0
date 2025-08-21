@@ -1,0 +1,15 @@
+{
+  "id": "article-192-",
+  "title": "Article 192 : Brouillages",
+  "numero": "192 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-3"
+  ],
+  "navigation": {
+    "parent": "titre-3",
+    "previous": "article-191-",
+    "next": "article-193-"
+  }
+}

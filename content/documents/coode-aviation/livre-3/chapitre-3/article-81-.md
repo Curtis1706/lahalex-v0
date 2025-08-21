@@ -1,0 +1,1 @@
+Dans l'exercice de ses prérogatives et dans l’exécution des fonctions imposées par la présente loi, l'organisme national en charge de l'aviation civile prend dûment en compte les impératifs de défense nationale, de l'aviation commerciale et générale et le droit de passage du public à travers l'espace aérien.

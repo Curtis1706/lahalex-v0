@@ -1,0 +1,1 @@
+Article 391 : Le père ou la mère qui, sciemment, transporte et/ou remet son enfant en vue de la traite de celui-ci ou d’une façon quelconque aide le trafiquant, encourt un emprisonnement de six (06) mois à cinq (05) ans.

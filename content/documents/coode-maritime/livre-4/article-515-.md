@@ -1,0 +1,1 @@
+Nul ne peut réclamer le bénéfice d’une assurance s’il n’a pas subi un préjudice.

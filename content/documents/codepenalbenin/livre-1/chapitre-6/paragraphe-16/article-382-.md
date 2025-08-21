@@ -1,0 +1,1 @@
+Est punie d’un emprisonnement de deux (02) ans à cinq (05) ans et d’une amende de cinq cent mille (500.000) à cinq millions (5.000.000) de francs CFA la fabrication sans autorisation et à quelque titre que ce soit, d’une arme à feu, qu’elle soit perfectionnée ou artisanale, ou de ses éléments essentiels.

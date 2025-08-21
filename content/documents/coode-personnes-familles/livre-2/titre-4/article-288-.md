@@ -1,0 +1,1 @@
+A défaut de possession d’état dont la preuve est recevable, ou si la possession d'état est contestée ou ne concorde pas avec les énonciations de l’acte de naissance, la filiation ne peut être établie qu’après une action en réclamation d’état.

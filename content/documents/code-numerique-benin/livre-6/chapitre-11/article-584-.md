@@ -1,0 +1,3 @@
+Confiscation
+En cas de condamnation pour l’une des infractions prévues au Titre I du présent Livre, la juridiction de jugement prononce la confiscation des matériels, des équipements, des instruments, des systèmes informatiques ou des données informatiques ainsi que des biens numéraires, avantages ou produits résultant de l’infraction.
+Les décisions de condamnation prises en vertu de l’alinéa précédent sont publiées dans le Journal officiel de la République du Bénin ainsi que sur un support électronique aux frais du condamné.

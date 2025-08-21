@@ -1,0 +1,1 @@
+Tout marin embarquant sur un navire muni d’un rôle d’équipage ou effectuant une formation maritime conduisant à l’obtention d’un brevet, diplôme ou certificat de la marine marchande, reçoit un livret professionnel maritime délivré contre le paiement d’une taxe dont le montant est fixé par voie réglementaire.

@@ -1,0 +1,6 @@
+1- Le Cumul de deux ou plusieurs pensions basées sur la durée des services n'est permis que lorsque lesdites pensions sont fondées sur des services effectués dans des emplois successifs, aucun Agent Permanent de l'Etat Civil ou Militaire ne pouvant acqué­rir des droits à pensions dans deux emplois concomitants, qu'ils soient exercés pour le compte d'une ou plusieurs collectivités ou Établissements visés à l'article 62.
+Dans le cadre de prohibition de cumul, 1'intéressé conserve le droit de désigner la pension dont il entend conserver le bénéfice.
+Lorsque le cumul est autorisé, le total des émoluments ne peut excéder 80 % du traitement afférent à l'indice maximum de l'échelle des traitements.
+Toutefois, si l’une au moins des pensions excède cette limite, l'intéressé peut en conserver le bénéfice à l'exclusion des autres.
+2°- Le cumul par une veuve ou un veuf de plusieurs pensions obtenues du chef d'agents différents est interdit. Il n’est autorisé que pour les orphelins.
+3°- Le cumul de ces pensions obtenues du chef d'un même agent est autorisé dans la limite d'un montant égal à la moitié de celui fixé au paragraphe 1 ci-dessus.

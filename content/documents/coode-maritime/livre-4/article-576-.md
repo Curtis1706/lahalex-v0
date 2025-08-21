@@ -1,0 +1,3 @@
+Le délaissement peut également avoir lieu dans les cas :
+- d’innavigabilité du navire, et si l’acheminement des marchandises par quelque moyen que ce soit, n’a pas pu commencer dans le délai de trois (03) mois à compter de la notification de l’innavigabilité faite par l’assuré à l’assureur ;
+- de défaut de nouvelles du navire trois (03) mois après la date de réception des dernières nouvelles ; la perte est réputée s’être produite à la date à laquelle se rapportent les dernières nouvelles.

@@ -1,0 +1,2 @@
+Lorsque, au cours d’un voyage maritime, il n’est pas possible dans les délais légaux de faire établir, par l’officier d’état civil normalement compétent, un acte public d’état, cet acte est dressé par le capitaine ou celui qui en remplit les fonctions.
+Les actes dressés sont remplis sans forme spéciale et transcrits sur une annexe au rôle d’équipage pour être remis au directeur de la marine marchande qui leur donne la suite appropriée.

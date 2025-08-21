@@ -1,0 +1,1 @@
+Les époux s’obligent à une communauté de vie. Ils se doivent respect, secours et assistance.

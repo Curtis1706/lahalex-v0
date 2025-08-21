@@ -1,0 +1,1 @@
+Le titre de perception établi est exécutoire non seulement contre le contribuable qui y est inscrit, mais aussi contre ses représentants ou ayants droit.

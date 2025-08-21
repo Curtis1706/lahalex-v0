@@ -1,0 +1,1 @@
+Le procureur de la République s’entoure de tous renseignements utiles, aux différents lieux où le condamné a pu séjourner.

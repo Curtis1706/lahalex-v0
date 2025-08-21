@@ -1,0 +1,3 @@
+Sans préjudice de l’application des peines plus graves s’il y échet, est punie d’une amende de cinquante mille (50.000) francs CFA à deux cent cinquante mille (250.000) francs CFA, toute personne qui, dans un acte public ou authentique ou dans un document administratif destiné à l’autorité publique, et hors les cas où la réglementation en vigueur l’autorise à souscrire ces actes ou ces documents sous un état civil d’emprunt, n’a pas pris le nom patronymique qui est légalement le sien.
+Le tribunal peut ordonner que sa décision soit publiée intégralement ou par extraits dans les journaux qu’elle désigne, et affichée dans les lieux qu’elle indique, le tout aux frais du condamné.
+PARAGRAPHES 8 : DE L’USAGE IRREGULIER DE TITRES

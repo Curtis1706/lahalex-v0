@@ -1,0 +1,1 @@
+Tout écrit publié, à l’exception des ouvrages de ville, de bilboquets, d’imprimés pour le compte de l’administration ou destinés à des usages privés, mais non susceptibles d’être répandus dans le commerce, doit porter, quelle que soit son importance ou sa dimension, l’indication des nom, prénoms et domicile de l’imprimeur, que ce dernier soit un professionnel ou non.

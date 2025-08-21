@@ -1,0 +1,1 @@
+Les pilotes se conforment, au cours de la circulation aérienne, aux règlements relatifs à la police de la circulation, aux règles de l’air et prennent toutes les précautions nécessaires pour éviter les dommages.

@@ -1,0 +1,2 @@
+Article 84 : Nature de l'adoption simple
+L’adoption simple est une adoption révocable qui crée un lien de parenté entre l’adopté et l’adoptant tout en laissant subsister des liens avec sa famille d’origine.

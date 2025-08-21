@@ -1,0 +1,4 @@
+Article 601 : Conditions d’indemnisation du Fonds de Garantie Automobile
+Le Fonds de Garantie Automobile créé dans un État membre de la CIMA prend en charge, dans les conditions fixées par l’article 600 du Code des assurances, les indemnités dues aux victimes d’accidents corporels ou à leurs ayants droit, lorsque ces accidents sont survenus sur le territoire dudit État.
+Les versements effectués au profit des victimes ou de leurs ayants droit et qui ne peuvent pas donner lieu à une action récursoire contre le responsable des dommages ne sont pas considérés comme une indemnisation à un autre titre au sens de l’alinéa 2 de l’article 600 précité.
+Les indemnités doivent résulter, soit d’une décision judiciaire exécutoire, soit d’une transaction ayant reçu l’assentiment du Fonds de Garantie.

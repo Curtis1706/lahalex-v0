@@ -1,0 +1,2 @@
+Les dispositions de l’article 526 du présent code sont applicables à la partie civile et à la personne civilement responsable qui résident en dehors de la ville où siège la cour d’appel.
+Dans les cas où la partie civile a renoncé à comparaître dans les conditions prévues à l’alinéa précédent, les dispositions de l’article 433 du présent code ne sont pas applicables.

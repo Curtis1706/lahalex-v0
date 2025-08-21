@@ -1,0 +1,1 @@
+Au port d’attache du navire et partout où demeure l’armateur ou son représentant, le capitaine ne peut engager des dépenses ou souscrire des engagements sans leur autorisation.

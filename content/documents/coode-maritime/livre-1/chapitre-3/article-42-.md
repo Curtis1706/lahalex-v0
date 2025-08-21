@@ -1,0 +1,4 @@
+Sont également réservées au pavillon béninois, les opérations de remorquage effectuées à l’intérieur des ports ou de la mer territoriale béninoise.
+Toutefois, des remorqueurs étrangers peuvent être admis à pratiquer de telles opérations dans le cas où il n’existe pas de remorqueurs béninois disponibles.
+Les remorqueurs étrangers sont admis à pénétrer dans les ports béninois lorsqu’ils effectuent des opérations de remorquage à partir d’un port étranger ou du large au-delà de la limite de la mer territoriale, ou lorsqu’ils viennent effectuer une opération à destination d’un port étranger ou au-delà de la limite des eaux territoriales des opérations de remorquage à partir d’un port étranger ou du large au-delà de la limite de la mer territoriale.
+Les opérations à l’intérieur des ports doivent se limiter à la conduite ou à la prise du navire à son poste d’amarrage.

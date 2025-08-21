@@ -1,0 +1,4 @@
+Les dispositions qui précèdent ne préjudicient point aux droits résultant de l’autorité parentale, tutélaire sur les mineurs en tant que les actes accomplis ne constituent point mise en servitude temporaire ou définitive de ces mineurs au profit de tiers.
+Ceux qui, abusant de l’autorité qu’ils ont sur lesdits mineurs, ont forcé, de quelque manière que ce soit, une mineure, à prendre pour époux quelqu’un qu’il ou elle ne désire point sont punis d’un emprisonnement de trois (03) ans à dix (10) ans et d’une amende triple de la valeur de la dot perçue s’il y a lieu sans qu’elle puisse être inférieure à cinq cent mille (500.000) francs CFA.
+Si la tentative de mariage forcé a été précédée ou suivie de séquestration, violences ou voies de fait, la peine sera celle de la réclusion criminelle à temps de cinq (05) ans à dix (10) ans.
+Si la mort en est résultée, les coupables sont punis de la réclusion criminelle à perpétuité.

@@ -1,0 +1,1 @@
+Ne donne lieu à aucune indemnité en vertu de la présente loi, l’accident résultant de la faute intentionnelle de la victime.

@@ -1,0 +1,3 @@
+Article 248 : Décision de garde à vue de l'enfant
+Lorsqu’un enfant est arrêté, l’officier de police judiciaire en informe immédiatement le procureur de la République. Celui-ci peut décider d’ordonner, soit son placement en garde à vue à condition que l’enfant ait atteint treize (13) ans, soit sa libération.
+La garde à vue ou la retenue au poste d’un enfant ne peut dépasser quarante-huit (48) heures.

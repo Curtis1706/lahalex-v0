@@ -1,0 +1,3 @@
+Sans préjudice des autres peines accessoires applicables aux délits selon le droit commun, les personnes condamnées pour infraction au contrôle des changes ou aux dispositions de l’article 660 de la présente loi sont de plein droit interdit, pendant cinq (05) ans :
+- d’exercer les fonctions d’agent de change ;
+- d’être électeurs, éligibles ou désignées aux juridictions professionnelles, aux chambres de commerce et aux chambres des métiers.

@@ -1,0 +1,1 @@
+Lorsqu’un témoin est sourd-muet ou ne parle pas suffisamment le français, les dispositions des articles 424 et 425 du présent code sont applicables.

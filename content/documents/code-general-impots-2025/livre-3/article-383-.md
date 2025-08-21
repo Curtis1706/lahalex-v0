@@ -1,0 +1,2 @@
+Sont considérées comme mutations à titre gratuit les donations et les legs et successions.
+Les mutations à titre gratuit sont soumises aux règles générales prévues par le présent chapitre, sous réserve de l’application des dispositions particulières énoncées ci-deSOUS.

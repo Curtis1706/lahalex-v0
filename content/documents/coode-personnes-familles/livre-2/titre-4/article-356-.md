@@ -1,0 +1,3 @@
+Le tribunal, après avoir fait procéder à une enquête par toute personne qualifiée et après avoir vérifié si toutes les conditions de la loi sont remplies, prononce, sans énoncer de motif, qu’il y a lieu à adoption.
+S’il est appelé à statuer sur les nom et prénoms de l’adopté, le tribunal décide dans la même forme.
+Le dispositif du jugement indique les noms et prénoms anciens et nouveaux de l’adopté et contient les mentions devant être transcrites sur les registres d’état civil.

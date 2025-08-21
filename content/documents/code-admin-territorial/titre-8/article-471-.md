@@ -1,0 +1,2 @@
+L’autorité de tutelle peut mettre en demeure l'ordonnateur d'effectuer une dépense obligatoire inscrite au budget, lorsque celui-ci ne procède pas à son mandatement.
+Si cette mise en demeure n’est pas suivie d'effet dans un délai de trente (30) jours, elle procède au mandatement d'office.

@@ -1,0 +1,2 @@
+La partie civile qui succombe est tenue des frais. Il en est de même dans le cas visé par l’article 445 du présent code.
+Le tribunal peut toutefois par décision spéciale et motivée, l’en décharger en tout ou partie.

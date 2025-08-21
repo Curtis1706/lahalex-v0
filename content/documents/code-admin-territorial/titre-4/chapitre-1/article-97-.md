@@ -1,0 +1,2 @@
+Le conseil de supervision se réunit valablement si le quorum de la moitié plus un de ses membres est atteint.
+Si, après une convocation régulièrement délivrée, le quorum n'est pas atteint, il est procédé à une seconde convocation. A la seconde réunion, le conseil délibère quel que soit le nombre de membres présents.

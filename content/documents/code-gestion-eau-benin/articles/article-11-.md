@@ -1,0 +1,2 @@
+Article 11 : Le ministère veille à ce que le public, notamment les usagers et les populations concernées par un aménagement hydraulique, une mesure ou un plan de gestion de l’eau, participe au processus de prise de décision et reçoive des autorités compétentes les informations appropriées.
+Le ministère veille à l'instauration d'une concertation permettant d’assurer une gestion participative de l’eau à tous les niveaux : territoire national, ensembles hydrographiques, collectivités territoriales, communautés villageoises.

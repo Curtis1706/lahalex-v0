@@ -1,0 +1,3 @@
+Système de comptabilisation des coûts
+Lorsque la mise en place d’un système de comptabilisation des coûts est rendue obligatoire dans le cadre d’un contrôle des prix, l’Autorité de régulation veille à ce que soit mise à la disposition du public une description du système de comptabilisation des coûts faisant apparaître au moins les principales catégories au sein desquelles les coûts sont regroupés et les règles appliquées en matière de répartition des coûts.
+Le respect du système de comptabilisation des coûts est 	vérifié par un organisme	compétent indépendant. Une attestation de conformité est publiée annuellement.

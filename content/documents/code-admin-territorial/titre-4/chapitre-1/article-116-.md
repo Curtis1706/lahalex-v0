@@ -1,0 +1,1 @@
+La délégation par le maire de ses pouvoirs ne fait pas obstacle à leur exercice par son autorité en cas de nécessité ou de dysfonctionnement préjudiciable à la commune ou aux citoyens.

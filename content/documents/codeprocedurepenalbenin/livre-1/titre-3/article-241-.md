@@ -1,0 +1,2 @@
+Le président de la chambre de l’instruction, chaque fois qu’il l’estime nécessaire et au moins une (01) fois par semestre, visite les maisons d’arrêt du ressort de la cour d’appel et y vérifie la situation des inculpés en état de détention provisoire.
+Le même contrôle est assuré trimestriellement par le président de la chambre des libertés et de la détention.

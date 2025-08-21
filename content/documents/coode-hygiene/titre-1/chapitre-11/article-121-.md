@@ -1,0 +1,1 @@
+Tout établissement de formation et d'enseignement de tout niveau, aussi bien public que privé, sur toute l'étendue du territoire national, dispose dans son infirmerie, de matériels de protection hygiénique pour favoriser la gestion hygiénique des menstrues.

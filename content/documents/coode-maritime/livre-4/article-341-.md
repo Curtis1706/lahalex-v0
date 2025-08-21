@@ -1,0 +1,1 @@
+Les actions nées d’un affrètement coque nue se prescrivent par un (01) an.

@@ -1,0 +1,8 @@
+Est puni d’un emprisonnement de un (01) an à deux (02) ans et d’une amende de dix millions (10.000.000) à vingt-cinq millions (25.000.000) de francs CFA, quiconque a :
+1. divulgué les informations nominatives, personnelles et biométriques collectées et traitées à l’occasion de l’élaboration ou de la mise à jour de la liste électorale ;
+2. divulgué une donnée électorale ou l’a obtenue ou l’a traitée à l’aide de procédés illicites, ou l’a utilisée à des fins contraires aux lois, aux règlements et aux bonnes mœurs.
+Est puni des mêmes peines, quiconque n’a pas transmis intégralement par voie hiérarchique à l’organe en charge des élections dans les délais légaux, les résultats du recensement électoral et tous les documents y afférents.
+Est puni des mêmes peines quiconque a conservé par devers lui tout ou partie desdits documents.
+Est puni des mêmes peines quiconque a conservé par devers lui tout ou partie desdits documents à titre de garantie en vue de l’obtention de quelque gain ou de quelque émolument.
+Est punie des mêmes peines la personne qui a contrefait et/ou falsifié lesdits documents. Les copies et photocopies peuvent être exhibées en guise de commencement de preuve de dénonciation de fraude, de contrefaçon et/ou de falsification.
+Est puni d’un emprisonnement de deux (02) ans à cinq (05) ans et d’une amende de cinq millions (5.000.000) à dix millions (10.000.000) de francs CFA et/ou d’une peine d’inéligibilité de deux (02) ans à cinq (05) ans, toute personne qui modifie ou tente de modifier frauduleusement la liste électorale.

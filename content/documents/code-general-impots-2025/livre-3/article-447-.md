@@ -1,0 +1,2 @@
+1) Le montant des droits exigibles est versé à l’expiration de chaque mois et au plus tard le 10 du mois suivant, au service des impôts qui est désigné à cet effet.
+2) A défaut de versement des droits dans les délais et suivant les formes prescrites ci- dessus, le recouvrement est poursuivi contre le commerçant ou l’industriel comme en matière de timbre.

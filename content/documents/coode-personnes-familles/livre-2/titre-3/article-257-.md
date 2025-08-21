@@ -1,0 +1,1 @@
+En cas d’inaction du ministère public, la mention ou la transcription peut être requise directement par l’une ou l’autre des parties, sur présentation d’un certificat délivré par le greffier et duquel il résulte que le jugement ou l’arrêt est devenu définitif.

@@ -1,0 +1,2 @@
+L’usage de prête-nom pour la dissimulation de biens est sanctionné par la confiscation au profit du Trésor public des biens ou valeurs possédés ou détenus de ce fait, majorée d’une amende égale à la valeur des biens en cause ou au montant des valeurs concernées.
+Le propriétaire réel de ces biens ou valeurs est tenu solidairement au paiement des sanctions pécuniaires prononcées.

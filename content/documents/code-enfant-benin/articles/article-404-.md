@@ -1,0 +1,1 @@
+Article 404 : Le fait de pratiquer sur la personne d’un enfant une recherche biomédicale est puni de cinq (05) ans à dix (10) ans d’emprisonnement et d’une amende de cinq millions (5 000 000) à dix millions (10 000 000) de francs CFA.

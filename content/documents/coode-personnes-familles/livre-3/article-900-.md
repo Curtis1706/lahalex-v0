@@ -1,0 +1,1 @@
+Il est fait mention sur le rôle du bâtiment ou de l’aéronef, en regard du nom du testateur, de la remise des originaux ou expéditions du testament, faite conformément aux prescriptions des articles qui précèdent.

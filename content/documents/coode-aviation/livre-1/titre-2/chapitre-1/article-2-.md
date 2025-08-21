@@ -1,0 +1,2 @@
+La présente loi a pour objet de déterminer les règles relatives à tous les domaines de l'aviation civile et commerciale en République du Bénin.
+Pour toutes les matières non expressément traitées par la présente loi, les dispositions de l'Organisation de l’aviation civile internationale et celles du code communautaire de l’aviation civile des Etats membres de l'Union économique monétaire ouest africaine s'appliquent.

@@ -1,0 +1,2 @@
+Le comité national de facilitation est placé sous l'autorité de l'organisme national en charge de l'aviation civile qui veille à la mise en œuvre du programme national de facilitation.
+La composition et le fonctionnement du comité sont fixés par voie réglementaire.

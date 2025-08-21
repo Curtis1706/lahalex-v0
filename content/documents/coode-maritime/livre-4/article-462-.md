@@ -1,0 +1,1 @@
+Les avaries sont de deux catégories : les avaries simples ou particulières et les avaries grosses ou communes.

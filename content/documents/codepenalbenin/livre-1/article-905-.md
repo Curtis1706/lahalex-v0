@@ -1,0 +1,1 @@
+Toute implantation d’établissement à caractère industriel et alimentaire doit être subordonnée à une autorisation du ministre chargé de la santé publique. Le site choisi devra permettre de réduire au maximum les effets de la pollution.

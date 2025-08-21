@@ -1,0 +1,2 @@
+Sont interdites, toutes activités humaines et d'aménagement dans le périmètre de protection immédiate.
+Sont réglementées, toutes activités humaines et d'aménagement dans le périmètre de protection rapprochée et dans le périmètre de protection éloignée.

@@ -1,0 +1,2 @@
+Lorsqu'un conseiller communal est empêché d'assister à une séance, il peut donner procuration à un autre conseiller de son choix. Chaque procuration est valable pour une seule session du conseil.
+Un même conseiller ne peut recevoir plus d'une procuration valable pour une même session du conseil. Toutefois, la procuration pour cause de maladie dûment constatée par un médecin est valable jusqu'à la guérison du mandant.

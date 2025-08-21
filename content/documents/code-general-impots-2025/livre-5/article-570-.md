@@ -1,0 +1,9 @@
+Le receveur des impôts peut procéder, par dérogation aux dispositions de l’article 595 du présent code, à des saisies conservatoires à hauteur du montant mentionné au procès-verbal, qui ne peut excéder :
+1) Pour  les  impôts  sur  les  revenus  ou  sur  les  bénéfices,  le  produit  résultant  de
+l’application, au montant du chiffre d’affaires hors taxe sur la valeur ajoutée recueilli au titre de l’année ou de l’exercice en cours pour lequel aucune obligation déclarative n’est échue, jusqu’à la date du procès-verbal de flagrance fiscale diminué d’un abattement de 70%, représentant les charges et les dépenses, des taux prévus pour le calcul de l’impôt, sans aucune réduction. Ce produit est diminué du montant des acomptes trimestriels versés dans les conditions prévues à l’article 51 du présent code.
+2) Pour la taxe sur la valeur ajoutée, le montant obtenu par application du taux
+d’imposition en vigueur à la base du chiffre d’affaires hors taxe sur la valeur ajoutée recueilli
+ou reconstitué au titre de la période en cours pour laquelle aucune obligation déclarative n’est échue, jusqu’à la date du procès-verbal de flagrance fiscale, et sous déduction d’un montant de taxe déductible dans les conditions prévues aux articles 243 et suivants du présent code.
+3) Pour les retenues qui devraient être effectuées au titre de l’impôt sur les traitements
+et salaires, à défaut d’éléments recueillis sur place, un montant égal à 15% appliqué au chiffre d’affaires hors taxe sur la valeur ajoutée recueilli ou reconstitué au titre de la période en cours pour laquelle aucune obligation déclarative n’est échue, jusqu’à la date du procès-verbal de flagrance fiscale, après un abattement de 80%.
+Les impositions ci-dessus sont assorties de pénalités au taux le plus élevé prévu à l’article 486 du présent code.

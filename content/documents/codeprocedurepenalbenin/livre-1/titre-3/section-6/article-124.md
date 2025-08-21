@@ -1,0 +1,1 @@
+Aucune condamnation ne peut être prononcée sur le seul fondement de déclarations recueillies dans les conditions prévues par les articles 120,121 et 122 du présent code.

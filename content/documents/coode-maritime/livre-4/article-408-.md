@@ -1,0 +1,3 @@
+La vente dite CIF (cost insurance freight) ou C.A.F (coût assurance fret) est une vente à l’embarquement d’une marchandise d’une nature déterminée, libre de toutes charges qui, à ses qualités matérielles, doit ajouter celle d’être couverte par une assurance et un contrat de transport au port de débarquement.
+Le vendeur doit, selon le cas, individualiser ou spécifier la marchandise vendue, l’assurer et soigner le fret et l’expédition.
+Sauf convention contraire, l’agréage a lieu au port de débarquement.

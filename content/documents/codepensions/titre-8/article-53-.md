@@ -1,0 +1,1 @@
+Il est impérativement établi et remis à tout travailleur ayant rempli les conditions pour prétendre à une pension de retraite, son carnet ou son livret de pension, le jour même de son départ, à la retraite.

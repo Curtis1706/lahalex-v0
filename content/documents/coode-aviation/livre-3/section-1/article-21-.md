@@ -1,0 +1,1 @@
+La tenue du registre d'immatriculation est de la responsabilité de l’organisme national en charge de l'aviation civile.

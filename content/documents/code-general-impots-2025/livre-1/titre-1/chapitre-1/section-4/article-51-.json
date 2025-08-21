@@ -1,0 +1,17 @@
+{
+  "id": "article-51-",
+  "title": "Article 51 :",
+  "numero": "51 ",
+  "document": "code-general-impots-2025",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-1",
+    "section-4"
+  ],
+  "navigation": {
+    "parent": "section-4",
+    "previous": "article-50-",
+    "next": "article-52-"
+  }
+}

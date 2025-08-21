@@ -1,0 +1,1 @@
+Toute personne qui mentionne la taxe sur la valeur ajoutée sur une facture ou tout autre document en tenant lieu est redevable de cette taxe sur la valeur ajoutée du seul fait de sa facturation.

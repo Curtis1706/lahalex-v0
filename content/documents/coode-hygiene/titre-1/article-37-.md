@@ -1,0 +1,1 @@
+Les travailleurs des établissements industriels ou commerciaux sont astreints à des visites médicales systématiques deux (02) fois par an, conformément à la législation du travail.

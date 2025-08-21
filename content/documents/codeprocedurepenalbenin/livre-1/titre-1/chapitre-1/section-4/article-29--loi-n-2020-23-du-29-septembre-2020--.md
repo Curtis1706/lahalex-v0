@@ -1,0 +1,2 @@
+Les préfets de département n’ont pas qualité d’officier de police judiciaire ; toutefois, en matière de crimes et délits contre la sûreté de l’Etat et seulement s’il y a urgence, ils peuvent requérir par écrit les officiers de police judiciaire compétents à l’effet de constater les crimes et délits ci-dessus visés.
+Tout officier de police judiciaire ou tout fonctionnaire saisi en vertu des dispositions ci-dessus est tenu d’en donner avis sans délai au procureur de la République et de lui transférer les personnes appréhendées en même temps que le dossier.

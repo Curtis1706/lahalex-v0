@@ -1,0 +1,4 @@
+Dispositions générales
+La signature électronique nécessaire à la validité d’un acte juridique, identifie celui qui l’appose et manifeste son consentement aux obligations qui en découlent.
+Elle est 	admise 	dans les transactions électroniques.
+La fiabilité d’un procédé de signature électronique est présumée jusqu’à preuve contraire, lorsque ce procédé met en œuvre une signature électronique qualifiée, établie grâce à un dispositif sécurisé de création de signature électronique et que la vérification de cette signature repose sur l’utilisation d’un certificat qualifié répondant aux exigences prévues à l'article 287 du présent code.

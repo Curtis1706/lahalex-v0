@@ -1,0 +1,1 @@
+Sauf si une faute prouvée lui est personnellement imputable, le propriétaire d’un navire peut, même envers l’Etat, et dans les conditions énoncées dans les dispositions qui suivent, limiter sa responsabilité envers des cocontractants ou des tiers, si les dommages se sont produits à bord du navire ou s’ils sont en relation directe avec la navigation ou l’utilisation du navire.

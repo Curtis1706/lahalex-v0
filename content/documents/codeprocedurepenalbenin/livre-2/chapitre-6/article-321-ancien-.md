@@ -1,0 +1,2 @@
+A l’audience, la présence d’un avocat auprès de l’accusé est obligatoire.
+Si l’avocat choisi ou désigné conformément à l’article 281 du présent code, ne se présente pas, le président en commet un d’office.

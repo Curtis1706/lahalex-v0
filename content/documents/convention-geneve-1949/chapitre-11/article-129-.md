@@ -1,0 +1,4 @@
+Testaments, Les internés pourront remettre leurs testaments aux autorités responsables actes de qui en assureront la garde. En cas de décès des internés, ces testaments se-
+décès ront transmis promptement aux personnes désignées par les internés.
+Le décès de chaque interné sera constaté par un médecin et un certificat exposant les causes du décès et les conditions dans lesquelles il s’est produit sera établi.
+un acte de décès officiel, dûment enregistré, sera établi conformément aux prescriptions en vigueur sur le territoire où est situé le lieu d’internement et une copie certifiée conforme en sera adressée rapidement à la Puissance protectrice ainsi qu’à l’a gence centrale prévue à l’article 140.

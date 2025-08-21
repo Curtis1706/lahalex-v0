@@ -1,0 +1,1 @@
+En cas de dissolution du conseil de village ou de quartier de ville ou de démission de tous les membres du conseil, le chef d’arrondissement assure l’expédition de toutes les affaires courantes jusqu'à l’installation d’un nouveau conseil de village ou de quartier de ville.

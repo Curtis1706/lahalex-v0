@@ -1,0 +1,16 @@
+{
+  "id": "article-13-",
+  "title": "Article 13 : Les élections sont gérées par une structure administrative permanente dénommée Commission électorale nationale autonome.",
+  "numero": "13 ",
+  "document": "code-electoral",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "chapitre-1"
+  ],
+  "navigation": {
+    "parent": "chapitre-1",
+    "previous": "article-13-ancien-",
+    "next": "article-14-"
+  }
+}

@@ -1,0 +1,1 @@
+La vente entre époux est nulle. Mais la dation en paiement d'un bien est autorisée, pour règlement du solde entre époux, après une séparation judiciaire des biens.

@@ -1,0 +1,1 @@
+L’établissement public de coopération intercommunale est formé, soit sans fixation de terme, soit pour une durée déterminée. Il peut s’étendre sur un ou plusieurs départements.

@@ -1,0 +1,15 @@
+{
+  "id": "article-42-",
+  "title": "ARTICLE 42 :",
+  "numero": "42 ",
+  "document": "traite-revise-cedeao-1993",
+  "path": [
+    "chapitre-8",
+    "paragraphe-1"
+  ],
+  "navigation": {
+    "parent": "paragraphe-1",
+    "previous": "article-41-",
+    "next": "article-43-"
+  }
+}

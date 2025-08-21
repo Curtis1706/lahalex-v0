@@ -1,0 +1,4 @@
+Recel portant sur des données informatiques
+Une personne qui, intentionnellement et sans droit, aura gardé, retenu ou détenu en tout ou en partie, des données informatiques enlevées, détournées ou obtenues à l'aide d'un crime ou d'un délit prévu par les dispositions du présent Livre, est punie des mêmes peines que celles prévues à l’article 563.
+Dans les cas où le fait qui a procuré les objets recelés a été commis avec une ou plusieurs circonstances aggravantes, le receleur est puni des peines définies par les dispositions du présent Livre s’il est établi qu’il était au courant desdites circonstances.
+L’amende pourra être élevée au-delà des dix millions (10 000 000) de francs CFA ou jusqu’à la moitié de la valeur des objets recélés.

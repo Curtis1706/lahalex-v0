@@ -1,0 +1,1 @@
+Le compte administratif est présenté par le secrétaire permanent au conseil de communauté qui en délibère.

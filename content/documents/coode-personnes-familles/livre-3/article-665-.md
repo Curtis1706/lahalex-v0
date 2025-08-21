@@ -1,0 +1,2 @@
+L’héritier bénéficiaire est tenu de déléguer aux créanciers hypothécaires le prix de vente des immeubles. Il est tenu, si les créanciers ou autres personnes intéressés l’exigent, de donner caution de la valeur du mobilier compris dans l’inventaire et de la portion du prix des immeubles non délégués aux créanciers hypothécaires.
+Faute par lui de fournir cette caution, les meubles sont vendus et leur prix est consigné, ainsi que la portion non déléguée du prix des immeubles, pour être employé à l’acquit des dettes et charges de la succession.

@@ -1,0 +1,2 @@
+Le stockage, le transport et le traitement de tout déchet industriel, toxique ou dangereux se font conformément à la législation et à la réglementation en vigueur.
+Les auteurs de violation du présent article sont punis conformément aux dispositions du code pénal.

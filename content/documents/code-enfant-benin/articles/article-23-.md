@@ -1,0 +1,2 @@
+Article 23 : Droit à la nationalité
+Lorsque la filiation est régulièrement établie, l’enfant porte le nom de son père. Cette filiation lui procure la jouissance de la nationalité du père. L’enfant dont la filiation n’est reconnue que par rapport à la maternité, prend la nationalité de sa mère.

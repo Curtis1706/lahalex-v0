@@ -1,0 +1,5 @@
+Si la fermeture prévue à l’article 561 excède six (06) mois, le préfet pourra procéder à la prise de possession dans l’intérêt public des locaux en vue de l’habitation pour une durée qui ne pourra excéder le délai de fermeture.
+Le propriétaire ou tenancier desdits locaux demeurera tenu d’assurer les services permettant leur utilisation par les bénéficiaires.
+Indépendamment de l’interdiction de séjour qui peut être prononcée, il est interdit à toute personne condamnée à une peine d’emprisonnement en application des articles 556, 558 et 569 du présent code de paraître dans le ou les départements dans lesquels les faits ont été commis pendant un temps égal au double de la peine d’emprisonnement prononcée. Ce délai court du jour où la décision est devenue définitive.
+Toute personne qui paraîtra dans un lieu qui lui est interdit en violation des dispositions du présent article sera punie des peines prévues à l’article 45 du présent code.
+PARAGRAPHES 6 : DE LA BIGAMIE

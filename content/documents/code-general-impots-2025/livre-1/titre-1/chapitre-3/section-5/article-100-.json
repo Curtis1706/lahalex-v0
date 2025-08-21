@@ -1,0 +1,17 @@
+{
+  "id": "article-100-",
+  "title": "Article  100 :",
+  "numero": "100 ",
+  "document": "code-general-impots-2025",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-3",
+    "section-5"
+  ],
+  "navigation": {
+    "parent": "section-5",
+    "previous": "article-99-",
+    "next": "article-101-"
+  }
+}

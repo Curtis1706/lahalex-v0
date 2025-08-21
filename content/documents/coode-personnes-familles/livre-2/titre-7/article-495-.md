@@ -1,0 +1,1 @@
+La tutelle est obligatoire, sauf pour le tuteur testamentaire et sous la réserve exprimée ci-après.

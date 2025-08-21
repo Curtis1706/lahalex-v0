@@ -1,0 +1,2 @@
+Toute infraction aux dispositions de l’article 186 du présent code est punie, indépendamment de la réparation de dommage causé à l’ouvrage, d’une amende de deux millions (2.000.000) à vingt millions (20.000.000) de francs.
+Quiconque a intentionnellement détruit, abattu ou dégradé un feu flottant, une bouée ou une balise, est puni d’un emprisonnement de un (01) an à cinq (05) ans et d’une amende de cinq millions (5.000.000) à cinquante millions (50.000.000) de francs ou de l’une de ces deux peines seulement, sans préjudice de la réparation du dommage causé.

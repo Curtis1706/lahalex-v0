@@ -1,0 +1,1 @@
+Le capitaine répond de toutes fautes commises dans l’exercice de ses fonctions, sauf en cas de force majeure.

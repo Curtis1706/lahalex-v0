@@ -1,0 +1,4 @@
+La commune a la charge de la réalisation, de l'entretien et de la gestion des gares routières, des embarcadères et des parkings à caractère local.
+1. : La commune a la charge de la réalisation des infrastructures hydrauliques et de l’installation des lignes de télécommunication locales, ainsi que des cabines publiques, des centres d'écoute publique radiophonique et/ou télévisuelle.
+2. : La commune est préalablement consultée sur tous les travaux sur son domaine public afin d'assurer une coordination des interventions.
+3. : La commune réglemente les transports des personnes et des biens dans son ressort territorial.

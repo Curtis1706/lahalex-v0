@@ -1,0 +1,1 @@
+L’enregistrement est une formalité fiscale qui entraîne le paiement d’un droit perçu au profit du budget de l’État.

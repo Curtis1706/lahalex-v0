@@ -1,0 +1,16 @@
+{
+  "id": "article-11-",
+  "title": "Article 11 : Exclusions et faute intentionnelle ou dolosive",
+  "numero": "11 ",
+  "document": "cima-code-assurances-benin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-3"
+  ],
+  "navigation": {
+    "parent": "chapitre-3",
+    "previous": "article-10-",
+    "next": "article-12-"
+  }
+}

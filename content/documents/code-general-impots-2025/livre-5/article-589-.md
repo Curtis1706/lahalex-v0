@@ -1,0 +1,3 @@
+1) En cas de destruction totale ou partielle ou de démolition volontaire en cours d’année de leurs maisons ou usines, les propriétaires peuvent demander une remise ou une modération de la taxe foncière frappant ces immeubles dans les conditions prévues par l’article précédent.
+2) Les demandes doivent être adressées au directeur général des impôts dans le mois
+de la destruction ou de l’achèvement de la démolition.

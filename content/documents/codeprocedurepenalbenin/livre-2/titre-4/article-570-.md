@@ -1,0 +1,2 @@
+L’interdiction du territoire prononcée à l’encontre d’un étranger en application de la législation sur le contrôle des drogues et des précurseurs, entraîne de plein droit la reconduite du condamné à la frontière à l’expiration de la peine d’emprisonnement.
+En cas d’interdiction définitive du territoire, cette mesure ne pourra pas être rapportée par la suite.

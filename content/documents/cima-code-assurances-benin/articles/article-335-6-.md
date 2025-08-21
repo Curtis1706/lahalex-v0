@@ -1,0 +1,2 @@
+Article 335-6 : Acceptations en réassurance
+Les provisions techniques afférentes aux acceptations en réassurance doivent être représentées à l’actif par des créances espèces détenues sur les cédantes au titre desdites acceptations.

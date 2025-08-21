@@ -1,0 +1,1 @@
+La loi pénale est applicable aux infractions commises à bord des aéronefs immatriculés au Bénin, ou à l’encontre de tels aéronefs, en quelque lieu qu’ils se trouvent. Elle est seule applicable aux infractions commises à bord des aéronefs militaires béninois, ou à l’encontre de tels aéronefs, en quelque lieu qu’ils se trouvent.

@@ -1,0 +1,2 @@
+Le présent accord s’appliquera également aux localités que les Puissances affecteraient au même but que les zones sanitaires et de sécurité.
+ANNExE 2 proJet.De.rèGLement.concernant. LeS.SecourS.coLLectiFS.aux.internéS.ciViLS

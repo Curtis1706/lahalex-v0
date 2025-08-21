@@ -1,0 +1,15 @@
+{
+  "id": "article-245-",
+  "title": "Article 245 : Prospection directe",
+  "numero": "245 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-7"
+  ],
+  "navigation": {
+    "parent": "titre-7",
+    "previous": "article-244-",
+    "next": "article-246-"
+  }
+}

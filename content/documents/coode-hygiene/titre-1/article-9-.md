@@ -1,0 +1,1 @@
+2 est interdit d'uriner ou de déféquer aux abords des voies publiques et sur les places publiques.

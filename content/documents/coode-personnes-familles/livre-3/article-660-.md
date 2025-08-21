@@ -1,0 +1,3 @@
+L’héritier a trois (3) mois pour faire inventaire, à compter du jour de l'ouverture de la succession.
+Il a, de plus pour délibérer sur son acceptation ou sa renonciation, un délai de quarante (40) jours, qui commence à courir du jour de l’expiration de trois (3) mois donnés pour l’inventaire, ou du jour de la clôture de l’inventaire s’il a été terminé avant les trois (3) mois.
+Passé ce délai, l’héritier est déchu du bénéfice d’inventaire et réputé acceptant pur et simple.

@@ -1,0 +1,2 @@
+Les navires béninois autres que les pirogues portent de façon permanente un signalement extérieur permanent qui permet de les identifier. Ils arborent à la poupe ou à la corne d’artimon le pavillon national selon la réglementation en vigueur.
+Un décret pris en conseil des ministres fixe les caractéristiques et l’emplacement des marques extérieures d’identité.

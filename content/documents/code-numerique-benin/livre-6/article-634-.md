@@ -1,0 +1,4 @@
+Recherche et constatation des infractions
+Toute infraction visée dans les dispositions du présent chapitre est recherchée et constatée par procès-verbal soit par les officiers de police judiciaire et le cas échéant par le juge d’instruction conformément au code de procédure pénale, soit par des agents de l’administration des douanes, conformément aux dispositions du code des douanes.
+Le Ministre en charge des communications électroniques dans ses attributions peut également, par arrêté, nommer des agents assermentés par la
+Commission Cryptologie qui seront habilités à rechercher et constater par procès- verbal, les infractions aux dispositions du présent chapitre et de ses textes d’application.

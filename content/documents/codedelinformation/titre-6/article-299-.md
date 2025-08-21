@@ -1,0 +1,2 @@
+Les propriétaires de journaux ou écrits périodiques ou de stations de radiodiffusion sonore et de télévision sont responsables des condamnations pécuniaires prononcées au profit des tiers contre les personnes désignées dans les deux articles précédents, conformément aux dispositions du code civil.
+Le recouvrement des amendes et dommages-intérêts peut être poursuivi sur l’actif de l’entreprise.

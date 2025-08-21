@@ -1,0 +1,1 @@
+Est puni de la réclusion criminelle à temps de cinq (05) ans à dix (10) ans quiconque, s’étant indûment procuré les vrais timbres, marteaux ou poinçons ayant l’une des destinations exprimées à l’article 297, du présent code en a fait une application ou un usage préjudiciable aux droits ou intérêts de l’Etat.

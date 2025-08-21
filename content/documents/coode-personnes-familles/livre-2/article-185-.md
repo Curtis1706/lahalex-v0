@@ -1,0 +1,2 @@
+Chacun des époux conserve dans la séparation de biens l’administration, la jouissance et la libre disposition de ses biens propres, sous réserve d'assurer sa contribution aux charges du ménage.
+Chaque époux reste seul tenu des dettes nées de son chef avant ou pendant le mariage hors les cas prévus à l’article 179.

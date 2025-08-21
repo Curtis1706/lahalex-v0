@@ -1,0 +1,1 @@
+Outre les ressources visées à l'article 148 de la présente loi, le programme peut bénéficier des subventions de l'Etat, des dons, des legs et de toutes autres ressources non prohibées.

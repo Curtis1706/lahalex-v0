@@ -1,0 +1,4 @@
+Est puni d’un emprisonnement de six (06) mois à trois (03) ans et d’une amende de cinq cent mille (500.000) francs CFA à dix millions (10.000.000) de francs CFA ou de l’une de ces deux peines seulement, quiconque se livre d’une façon illicite aux travaux de prospection, de recherches ou d’exploitation des substances minières outre que les substances de carrière.
+- Les substances minières extraites illicitement sont saisies.
+- La confiscation est prononcée par la juridiction compétente.
+- Le fait pour un particulier résidant dans une zone minière de procurer sciemment le logement à des prospecteurs, exploitants ou acheteurs clandestins constitue un acte de complicité. Ils sont punis des peines prévues à l’alinéa précédent.

@@ -1,0 +1,1 @@
+Au jour indiqué pour chaque affaire, la cour prend séance et fait introduire l’accusé.

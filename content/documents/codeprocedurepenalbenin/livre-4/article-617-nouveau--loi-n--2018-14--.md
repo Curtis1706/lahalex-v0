@@ -1,0 +1,2 @@
+La déposition ainsi reçue est immédiatement remise au greffe ou envoyée, close ou cachetée, à celui de la juridiction requérante et communiquée sans délai, au ministère public ainsi qu’aux parties intéressées.
+A la cour d'appel ou devant le tribunal statuant en matière criminelle, elle est lue publiquement et soumise aux débats.

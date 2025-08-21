@@ -1,0 +1,1 @@
+Les courtiers maritimes et les consignataires qui se sont abstenus d’effectuer en temps prescrits par les règlements, la déclaration de partance des navires étrangers, sont passibles d’une amende de cinq cent mille (500.000) à cinq millions (5.000.000) de francs.

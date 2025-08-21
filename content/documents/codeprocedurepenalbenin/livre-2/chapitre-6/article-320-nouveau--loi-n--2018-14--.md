@@ -1,0 +1,2 @@
+Tous incidents contentieux sont réglés par le tribunal ou la cour, le ministère public, les parties ou leurs avocats entendus.
+Ces jugements ou arrêts ne peuvent préjuger du fond. Le jugement ne peut être attaqué par les voies ordinaires de recours et l’arrêt par le pourvoi en cassation qu'en même temps que la décision sur le fond.

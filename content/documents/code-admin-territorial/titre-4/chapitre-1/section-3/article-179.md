@@ -1,0 +1,11 @@
+Le chef d'arrondissement préside le conseil d'arrondissement. Il est chargé, sous l'autorité du maire, de la police administrative. A ce titre, il assure le maintien de l'ordre public et veille à la tranquillité publique et à la salubrité publique. Il veille à l’application des décisions du conseil communal et du maire. Il apporte son concours à l’exécution des décisions de justice.
+Le chef d’arrondissement assure :
+- le maintien de l'ordre dans les endroits où il se fait de grands rassemblements tels que les foires, marchés, réjouissances et cérémonies publiques, spectacles, jeux, lieux de culte et autres lieux publics :
+- la police des funérailles et des cimetières, conformément à la réglementation en vigueur, l'inhumation d'urgence de toute personne décédée et non identifiée ou atteinte d'une maladie contagieuse et ce, sans distinction de culte ou de croyance ;
+- la répression des atteintes à la tranquillité publique telles que les rixes et disputes accompagnées d’ameutement dans les rues, le tumulte dans les lieux d'assemblée publique, les attroupements, les bruits et rassemblements nocturnes qui troublent le repos des habitants et tous actes de nature à compromettre la tranquillité publique ;
+- le soin d'empêcher la divagation des animaux.
+Il veille notamment à ce que le secrétaire administratif d'arrondissement, en vertu de ses attributions propres, assure :
+- tout ce qui intéresse la sûreté et la commodité du passage dans les rues, places, quais et voies publiques, ce qui inclut le nettoiement, l'éclairage, l'enlèvement des encombrements, la démolition ou la réparation des édifices menaçant ruine ;
+- le contrôle de la conformité aux normes des instruments de mesure, du respect des prescriptions en matière d'hygiène et de salubrité ;
+- le soin de prévenir, par les précautions convenables et de faire cesser, par toutes les mesures appropriées, les fléaux calamiteux tels que les incendies, les inondations, les maladies épidémiques ou contagieuses et de faire atténuer, par l'organisation des secours nécessaires, les conséquences des accidents et desdits fléaux :
+- le soin de prendre provisoirement les mesures nécessaires contre les aliénés dont l'état pourrait compromettre la morale publique, la sécurité des personnes ou la conservation des propriétés.

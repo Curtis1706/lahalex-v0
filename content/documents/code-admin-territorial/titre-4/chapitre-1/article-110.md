@@ -1,0 +1,2 @@
+Le maire représente la commune devant les autorités centrales et départementales et dans le cadre de la coopération décentralisée, sous réserve des attributions propres du secrétaire exécutif.
+Le maire contribue à l'organisation des élections dans la mesure sollicitée par l'organe en charge des élections. Il concourt également à l'exécution des décisions de justice.

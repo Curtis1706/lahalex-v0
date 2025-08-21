@@ -1,0 +1,2 @@
+1°- Les dispositions du présent régime s'appliquent pour compter du 1er Janvier 1987, aux agents permanents de l’Etat Civils et Militaires visés à l'article 1, et auteurs ayants-cause.
+2°- Les services antérieurement rendus sous le régime de l’Office Béninois de Sécurité Sociale sont pris en compte pour la constitution du droit à la liquidation d'une pension du Fonds National de Retraite du Bénin. La pension est liquidée pour l'ensemble de la carrière conformément aux dispositions du présent régime.

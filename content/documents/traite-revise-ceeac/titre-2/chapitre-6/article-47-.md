@@ -1,0 +1,5 @@
+Traitement de la nation la plus favorisée
+1. Les Etats membres s'accordent, en ce qui concerne le commerce intracommunautaire, le traitement de la nation la plus favorisée. En aucun cas, les concessions tarifaires consenties à un pays tiers en application d'un accord conclu avec un Etat membre ne peuvent être plus favorables que celles qui sont appliquées en vertu du présent Traité.
+1. Le texte des accords visés au paragraphe 1 du présent article est communiqué au Président de la Commission par les Etats qui y sont parties.
+1. Aucun accord conclu entre un Etat membre et un pays tiers prévoyant l'octroi de concessions tarifaires ne peut être incompatible avec les obligations assumées en vertu du présent Traité.
+1. Aucun Etat membre ne peut conclure avec un pays tiers un accord en vertu duquel celui-ci accorderait à l'Etat membre des concessions tarifaires qui ne seraient pas octroyées aux autres Etats membres.

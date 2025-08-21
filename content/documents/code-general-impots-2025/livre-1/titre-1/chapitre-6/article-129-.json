@@ -1,0 +1,16 @@
+{
+  "id": "article-129-",
+  "title": "Article 129 :",
+  "numero": "129 ",
+  "document": "code-general-impots-2025",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-6"
+  ],
+  "navigation": {
+    "parent": "chapitre-6",
+    "previous": "article-128-",
+    "next": "article-130-"
+  }
+}

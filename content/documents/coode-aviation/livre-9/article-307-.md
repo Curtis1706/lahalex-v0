@@ -1,0 +1,1 @@
+L’intéressé peut récuser les membres du conseil de discipline dans les conditions prévues par la règlementation en vigueur. Il peut se faire assister du conseil de son choix.

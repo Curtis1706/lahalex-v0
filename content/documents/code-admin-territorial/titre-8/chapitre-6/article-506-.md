@@ -1,0 +1,1 @@
+A la fin de chaque mois, le comptable présente à l'ordonnateur, la balance générale des comptes, la situation financière, la situation d'exécution budgétaire et l'état d'emploi des valeurs inactives.

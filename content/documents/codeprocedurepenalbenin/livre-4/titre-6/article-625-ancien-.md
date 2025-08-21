@@ -1,0 +1,4 @@
+L’inculpé, le prévenu, l’accusé ou toute partie à l’instance qui veut récuser un juge d’instruction, un président ou un juge du tribunal de première instance, un ou plusieurs avocatlers de la cour d’appel, de la cour d’assises ou de la cour suprême doit, à peine de nullité, présenter une requête au président de la cour d’appel ou de la cour suprême.
+Les magistrats du ministère public ne peuvent être récusés.
+La requête doit désigner nommément le ou les magistrats récusés et contenir l’exposé des moyens invoqués avec toutes les justifications utiles à l’appui de la demande.
+La partie qui aura procédé volontairement devant une cour, un tribunal ou un juge d’instruction, ne sera reçue à demander la récusation qu’à raison des circonstances survenues depuis, lorsqu’elles seront de nature à constituer une cause de récusation.

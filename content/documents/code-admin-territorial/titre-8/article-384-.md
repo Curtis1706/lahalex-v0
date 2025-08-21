@@ -1,0 +1,1 @@
+L'ordonnateur ainsi que ses délégués doivent être accrédités auprès du comptable de la commune ou de l'établissement public de coopération, intercommunale, assignataire des recettes et des dépenses dont ils prescrivent l'exécution.

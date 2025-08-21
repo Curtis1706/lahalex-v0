@@ -1,0 +1,1 @@
+La commune est compétente dans son ressort territorial, pour l'animation des activités culturelles, sportives, de jeunesse et de loisirs, en assurant aux structures et aux organes chargés de ces activités, une assistance matérielle et financière.

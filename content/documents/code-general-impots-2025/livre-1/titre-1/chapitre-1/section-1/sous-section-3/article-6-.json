@@ -1,0 +1,18 @@
+{
+  "id": "article-6-",
+  "title": "Article 6 : Modifié par la loi de finances pour 2024",
+  "numero": "6 ",
+  "document": "code-general-impots-2025",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-1",
+    "section-1",
+    "sous-section-3"
+  ],
+  "navigation": {
+    "parent": "sous-section-3",
+    "previous": "article-5-",
+    "next": "article-7-"
+  }
+}

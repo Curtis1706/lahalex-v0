@@ -1,0 +1,2 @@
+Le président de la cour d’assises peut ordonner tous actes d’information qu’il estime utiles, si l’instruction lui semble incomplète ou si des éléments nouveaux ont été révélés depuis sa clôture.
+Il y est procédé soit par le président, soit par l’un de ses assesseurs ou un juge d’instruction qu’il délègue à cette fin. Dans ce cas, les prescriptions du chapitre premier du titre III du livre premier doivent être observées, à l’exception de celles de l’article 182 du présent code.

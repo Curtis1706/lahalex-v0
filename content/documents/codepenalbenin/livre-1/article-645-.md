@@ -1,0 +1,3 @@
+Quiconque a contrefait ou altéré des clefs est condamné à un emprisonnement de trois (03) mois à deux (02) ans et à une amende de cinquante mille (50.000) francs CFA à deux cent cinquante mille (250.000) francs CFA.
+Si le coupable est serrurier de profession, il sera puni d’un emprisonnement de deux (02) ans à cinq (05) ans et d’une amende de cent mille (100.000) francs CFA à cinq cent mille (500.000) francs CFA.
+Il peut en outre être privé des droits mentionnés à l’article 38 du présent code pendant deux (02) ans au moins et dix (10) ans au plus, à compter du jour où il aura subi sa peine, le tout, sans préjudice de peines plus fortes, s’il échet, en cas de complicité de crime.

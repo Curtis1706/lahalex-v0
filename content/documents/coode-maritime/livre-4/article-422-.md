@@ -1,0 +1,3 @@
+Le consignataire de la cargaison doit prendre contre le transporteur maritime ou son représentant, les réserves que commande l’état ou l’importance de la marchandise au moment de la livraison ou le défaut de livraison.
+Si la marchandise est transportée sous connaissement, il doit observer pour la notification des réserves, les conditions et délais prévus à l’article 382 du présent code.
+A défaut de réserve, le consignataire est réputé avoir reçu les marchandises dans l’état ou les quantités décrits au connaissement. Cette présomption admet la preuve contraire dans les rapports entre le consignataire de la cargaison et le transporteur maritime.

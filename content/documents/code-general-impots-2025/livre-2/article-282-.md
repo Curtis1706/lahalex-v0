@@ -1,0 +1,1 @@
+Le  fait  générateur  est  constitué  par  le  franchissement  du  cordon douanier, par la livraison ou par le prélèvement.

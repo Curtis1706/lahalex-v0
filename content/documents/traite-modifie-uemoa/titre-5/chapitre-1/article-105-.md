@@ -1,0 +1,1 @@
+La langue de travail de l'Union est le français. La Conférence des Chefs d'Etat et de Gouvernement peut ajouter d'autres langues de travail.

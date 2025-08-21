@@ -1,0 +1,1 @@
+Le conseil communal délibère sur la création et les taux des redevances locales ainsi que sur les taux des impôts et taxes dans les limites fixées par la loi de finances.

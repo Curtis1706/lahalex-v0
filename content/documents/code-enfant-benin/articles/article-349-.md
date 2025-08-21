@@ -1,0 +1,1 @@
+Article 349 : Est punie de la réclusion de dix (10) ans à vingt (20) ans et d’une amende de cinq cent mille (500 000) à cinq millions (5 000 000) de francs CFA, le coupable de pédophilie.

@@ -1,0 +1,3 @@
+L'Agent Permanent de l'Etat qui a été mis dans l'impressibilité définitive et absolue de continuer ses fonctions par suite d'une invalidité ne résultant pas de blessures ou de maladies con­tractées ou aggravées en service, peut être admis à la retraite sur sa demande ou mis à la retraite d'office à l'expiration des droits de congé de maladie ou de longue durée dont il bénéficiait en vertu des dispositions statutaires qui lui sont applicables.
+Toutefois, les blessures ou maladies doivent être contractée au cours de la période durant laquelle l'intéressé acquérait des droits à pension.
+Il a droit à la pension proportionnelle prévue à l'article 4 (1) qui dans ce cas ne peut être inférieur à 25 % des émoluments de base déterminés à l'article 18.

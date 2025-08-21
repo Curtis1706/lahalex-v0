@@ -1,0 +1,2 @@
+Chaque village ou quartier de ville est administré par un chef de village ou de quartier de ville désigné dans les conditions prévues par le code électoral.
+Le maire, ou par délégation un de ses adjoints, installe le chef de village ou de quartier de ville dans ses fonctions en présence du chef d'arrondissement concerné.

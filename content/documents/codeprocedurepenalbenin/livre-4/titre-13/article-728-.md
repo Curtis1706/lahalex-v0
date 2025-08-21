@@ -1,0 +1,1 @@
+Quiconque s’est, sur le territoire national, rendu complice d’un crime ou d’un délit commis à l’étranger, peut être poursuivi et jugé en République du Bénin, à condition que l’existence du fait principal ait été établie par une décision définitive d’une juridiction étrangère compétente.

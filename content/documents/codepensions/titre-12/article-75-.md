@@ -1,0 +1,3 @@
+Dans le domaine financier et comptable, le Ministre des Finances est chargé de centraliser les opérations de recettes et de dépenses constatées du compte du Fonds National de Retraite.
+Il établit, au cours du 1 trimestre de chaque année un rapport sur la situation financière du Fonds pendant l'année précédente et sur les prévisions financières de l'année en cours.
+Ce rapport est soumis à 1‘Assemblée Nationale Révolutionnaire.

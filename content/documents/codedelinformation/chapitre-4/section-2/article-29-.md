@@ -1,0 +1,1 @@
+Dans l’exercice de son droit d’informer, le journaliste est astreint au respect des lois et règlements de la République du Bénin et au code d’éthique et de déontologie de la presse béninoise.

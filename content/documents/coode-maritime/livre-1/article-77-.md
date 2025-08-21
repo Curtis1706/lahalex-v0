@@ -1,0 +1,1 @@
+Les services de la direction de la marine marchande centralisent les formalités de béninisation des navires qui y sont astreints, les opérations d’immatriculation et d’armement, ainsi que toutes autres formalités maritimes connexes.

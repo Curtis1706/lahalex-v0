@@ -1,0 +1,15 @@
+{
+  "id": "article-71-",
+  "title": "Article 71 :",
+  "numero": "71 ",
+  "document": "codesecuritesocialebenin",
+  "path": [
+    "livre-3",
+    "paragraphe-1"
+  ],
+  "navigation": {
+    "parent": "paragraphe-1",
+    "previous": "article-70-",
+    "next": "article-72-"
+  }
+}

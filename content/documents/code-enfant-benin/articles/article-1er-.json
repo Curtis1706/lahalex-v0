@@ -1,0 +1,11 @@
+{
+  "id": "article-1er-",
+  "title": "Article 1er : Objet",
+  "numero": "1er ",
+  "document": "code-enfant-benin",
+  "path": [],
+  "navigation": {
+    "parent": "code-enfant-benin",
+    "next": "article-2-"
+  }
+}

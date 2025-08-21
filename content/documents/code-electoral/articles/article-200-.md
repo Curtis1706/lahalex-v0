@@ -1,0 +1,2 @@
+La désignation, l'élection, la destitution ou le remplacement d'un chef d'arrondissement s'effectue dans les mêmes conditions que celles relatives à la désignation, l'élection, la destitution ou le remplacement du maire et des adjoints au maire.
+Les conditions de majorité sont celles réunies au niveau communal.

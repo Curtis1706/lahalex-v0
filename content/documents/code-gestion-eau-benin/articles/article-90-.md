@@ -1,0 +1,2 @@
+Article 90 : Outre les peines prévues par la présente loi, les autorités administratives compétentes peuvent procéder au retrait, à la suspension ou à la révocation des autorisations qu’elles ont délivrées.
+SECTION IV : DU PRODUIT DES AMENDES

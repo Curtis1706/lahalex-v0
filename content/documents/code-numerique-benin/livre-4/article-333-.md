@@ -1,0 +1,6 @@
+Exception à l’interdiction de la prospection directe
+La prospection directe est autorisée, sans le consentement préalable du destinataire personne physique, si l'ensemble des conditions suivantes sont remplies :
+1. les coordonnées du destinataire 	ont été recueillies auprès de lui en toute connaissance de cause, et dans le respect des dispositions du Livre V du présent code, à l'occasion d'une vente ou d'une prestation de services ;
+1. la prospection directe concerne exclusivement des produits ou services analogues proposés par le même fournisseur ;
+1. le destinataire se voit offrir, de manière simple, expresse et dénuée d'ambiguïté, la possibilité de s'opposer sans frais, à l'utilisation de ses coordonnées au moment où elles sont recueillies et chaque fois qu'un message de prospection lui est adressé, au cas où il n'aurait pas préalablement refusé une telle exploitation.
+La prospection directe est autorisée, sans le consentement préalable du destinataire personne morale si les coordonnées électroniques utilisées à cette fin sont impersonnelles.

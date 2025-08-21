@@ -1,0 +1,2 @@
+Si l’avis motivé de la chambre de l’instruction accorde l’extradition, l ministre en charge de la justice propose, s’il y a lieu, à la signature du président de la République, un décret autorisant l’extradition.
+Si, dans le délai d’un (01) mois à compter de la notification de cet acte, l’extradé n’a pas été reçu par les agents de l’Etat requérant, il est mis en liberté, et ne peut plus être réclamé pour la même cause.

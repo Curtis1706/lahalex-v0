@@ -1,0 +1,1 @@
+La désignation d’une loi régit, sauf précision contraire expresse du défunt, l’ensemble de sa succession, que le défunt soit décédé ab intestat ou qu’il ait disposé à cause de mort de tout ou partie de ses biens.

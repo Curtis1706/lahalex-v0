@@ -1,0 +1,1 @@
+L’héritier peut faire cesser la saisine en offrant de remettre aux exécuteurs testamentaires une somme suffisante pour le paiement des legs mobiliers, ou en justifiant de ce paiement.

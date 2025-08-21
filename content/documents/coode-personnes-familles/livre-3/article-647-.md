@@ -1,0 +1,1 @@
+L’acceptation ou la renonciation peuvent être déclarées nulles pour cause de dol, violence ou d’erreur sur la substance de la succession.

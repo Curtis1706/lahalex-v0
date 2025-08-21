@@ -1,0 +1,4 @@
+Si le prévenu cité pour un délit ne peut, en raison de son état de santé, comparaître devant le tribunal, et s’il existe des raisons graves de ne point différer le jugement de l’affaire, le tribunal ordonne, par décision spéciale et motivée que le prévenu , éventuellement assisté de son avocat, soit entendu à son domicile ou à la maison d’arrêt dans laquelle il se trouve détenu, par un magistrat commis à cet effet, accompagné d’un greffier. Procès-verbal est dressé de cet interrogatoire.
+Le débat est repris après citation nouvelle du prévenu ou sans citation nouvelle, aux jour et heure qui lui sont expressément indiqués.
+Le prévenu qui ne comparaît pas peut se faire représenter par un avocat. Il est alors jugé contradictoirement.
+Le débat est réputé contradictoire si le prévenu ne comparaît pas et n’est pas représenté.

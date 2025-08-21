@@ -1,0 +1,15 @@
+{
+  "id": "article-94-",
+  "title": "Article 94 :",
+  "numero": "94 ",
+  "document": "code-admin-territorial",
+  "path": [
+    "titre-4",
+    "chapitre-1"
+  ],
+  "navigation": {
+    "parent": "chapitre-1",
+    "previous": "article-93-",
+    "next": "article-95-"
+  }
+}

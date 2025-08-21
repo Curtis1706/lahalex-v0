@@ -1,0 +1,1 @@
+Il est interdit la conservation dans les habitations des objets ou récipients de toute nature, des boîtes vides, des décombres, des épaves de véhicules ou autres, susceptibles de constituer des lieux de prolifération des vecteurs de maladies et autres animaux nuisibles ou de créer une gêne ou une insalubrité.

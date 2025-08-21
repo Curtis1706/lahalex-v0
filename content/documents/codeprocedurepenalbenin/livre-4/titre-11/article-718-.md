@@ -1,0 +1,1 @@
+Le jugement ou l’ordonnance qui accorde des allocations d’entretien à l’Etat ou qui le condamne à payer des allocations est notifié, par l’intermédiaire du ministère public au directeur du trésor public.

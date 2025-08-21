@@ -1,0 +1,2 @@
+Toute personne, autre que les fonctionnaires et agents des services publics habilités qui monte à bord d’un navire sans autorisation du capitaine ou de l’armateur ou sans y être appelée pour les besoins de l’exploitation, est punie d’une amende de cinq cent mille (500.000) à un million (1.000.000) de francs.
+En cas de récidive, l’amende est portée au double et le tribunal peut prononcer, en outre, une peine de trois (03) à six (06) mois d’emprisonnement.

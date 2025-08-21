@@ -1,0 +1,1 @@
+Le juge des enfants a toute possibilité de convoquer en son cabinet et de visiter le mineur, ses parents, son gardien et toutes personnes susceptibles de lui donner des renseignements sur la conduite du mineur et sur l’utilité des mesures prises.

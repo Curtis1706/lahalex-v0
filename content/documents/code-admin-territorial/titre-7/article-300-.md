@@ -1,0 +1,1 @@
+Le mandat du conseiller communautaire est renouvelé dès qu'il siège au conseil de supervision de sa commune.

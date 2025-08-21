@@ -1,0 +1,15 @@
+{
+  "id": "article-105-",
+  "title": "Article 105 : Détermination de l’approche pour assurer la mise en œuvre du    service universel",
+  "numero": "105 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-104-",
+    "next": "article-106-"
+  }
+}

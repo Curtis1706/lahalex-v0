@@ -1,0 +1,1 @@
+Tout aéronef civil est immatriculé sur un registre tenu par l'organisme national en charge de l'aviation civile dans les conditions fixées par décret pris en Conseil des ministres.

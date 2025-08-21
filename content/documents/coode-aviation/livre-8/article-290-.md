@@ -1,0 +1,2 @@
+La qualité de membre d'équipage non professionnel de l'aéronautique civile est attribuée aux personnes s'adonnant à titre occasionnel aux activités liées à la navigation aérienne quelles qu'en soient les raisons.
+Le membre d'équipage non professionnel exerce toutes les activités définies à l’article 259 de la présente loi sur tout aéronef transportant ou non des passagers et qui n'est pas exploité contre rémunération.

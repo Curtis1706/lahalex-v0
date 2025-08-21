@@ -1,0 +1,4 @@
+Aux lieu, jour et heure fixés pour l’ouverture de la session, la cour prend séance.
+Le greffier procède à l’appel des jurés inscrits sur la liste établie conformément à l’article 272 du présent code.
+La cour statue sur le cas des jurés absents. Tout juré qui, sans motif légitime, n’a pas déféré à la citation qui lui a été notifiée, peut être condamné par arrêt de la cour à une amende de cinquante mille (50 000) francs, ainsi que le juré qui, ayant déféré à la citation, se retire avant l’expiration de ses fonctions, sans une excuse jugée valable par la cour.
+Le juré défaillant qui produira des excuses jugées légitimes, pourra, sur conclusions du ministère public, être déchargé de l’amende.

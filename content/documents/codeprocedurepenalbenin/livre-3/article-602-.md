@@ -1,0 +1,8 @@
+L’arrêt ou le jugement de révision d’où résultera l’innocence d’un condamné pourra, sur sa demande, lui allouer des dommages-intérêts. L’action en dommages et intérêts appartiendra dans les mêmes conditions à son conjoint, à ses ascendants et descendants ou légataires universels ou à titre universel.
+La demande en dommages-intérêts sera recevable en tout état de la procédure de révision.
+Les dommages-intérêts alloués seront à la charge du trésor public et seront payés, sauf son recours contre la partie civile, le dénonciateur ou le faux témoin par la faute desquels la condamnation aura été prononcée.
+Ils seront payés comme frais de justice criminelle par le trésor sans ordonnancement préalable.
+Les frais de l’instance en révision seront avancés par le demandeur jusqu’à la décision de recevabilité de la commission de révision. Pour les frais postérieurs à cette décision, l’avance sera faite par le trésor public.
+Si l’arrêt ou le jugement définitif de révision prononce une condamnation, il met à la charge du condamné, ou, s’il y a lieu, des demandeurs en révision, les frais dont l’Etat a demandé le remboursement.
+Le demandeur en révision qui succombera dans son instance sera condamné à tous les frais.
+L’arrêt ou le jugement de révision d’où résulte l’innocence d’un condamné sera affiché dans la ville où a été prononcée la condamnation. Il sera publié au journal officiel. Les frais de la publication ci-dessus prévue seront à la charge du trésor public.

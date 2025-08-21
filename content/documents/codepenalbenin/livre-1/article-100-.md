@@ -1,0 +1,1 @@
+Le sursis simple est applicable, en ce qui concerne les personnes morales, aux condamnations à l’amende et aux peines mentionnées aux points 4, 7, 8 et 9 de l’article 61.

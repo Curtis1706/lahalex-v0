@@ -1,0 +1,2 @@
+Les sessions parlementaires sont couvertes par la presse audiovisuelle et écrite nationale et les débats retransmis en différé au plus tard dans les quarante-huit (48) heures.
+Toutefois, l’Assemblée Nationale, par une résolution, peut demander la couverture intégrale et la retransmission en direct de débats jugés d’intérêt national.

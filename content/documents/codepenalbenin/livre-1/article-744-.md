@@ -1,0 +1,1 @@
+Le taux plafond tel que défini à l’article 741 du présent code et au-delà duquel le délit d’usure est constitué, peut être majoré, pour certaines catégories d’opérations qui, en raison de leur nature, comportent des frais fixes élevés, de perceptions forfaitaires dont le montant sera fixé par le ministre des finances après avis de la Banque centrale.

@@ -1,0 +1,1 @@
+Les virements de crédits de chapitre à chapitre ne peuvent intervenir que sur délibération de l’organe délibérant compétent de la commune ou de l'établissement public de coopération intercommunale et après approbation de l'autorité de tutelle.

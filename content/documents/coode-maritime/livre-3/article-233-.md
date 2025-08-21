@@ -1,0 +1,2 @@
+Dans les circonstances de force majeure et celles où le salut du navire, de ses passagers et de sa cargaison est en jeu, le capitaine doit, dans la mesure du possible recueillir, l’avis des officiers et principaux de l’équipage dans les cas d’abandon du navire en mer, d’évacuation du navire en mer par tout ou partie de l’équipage et des passagers, ainsi qu’en cas de jet à la mer de la cargaison.
+Cet avis, sauf cas d’impossibilité manifeste, doit être inscrit au journal de bord et signé des intéressés.

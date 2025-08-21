@@ -1,0 +1,1 @@
+En application de l'article 42 de la loi n° 91-009 du 04 mars 1991 modifiée par la loi du 31 mai 2001 portant loi organique sur la Cour Constitutionnelle, le contentieux relatif aux candidatures relève de la compétence de la Cour constitutionnelle qui dispose de cinq (05) jours pour statuer.

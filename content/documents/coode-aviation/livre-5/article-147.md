@@ -1,0 +1,2 @@
+L'organisme national en charge de l'aviation civile coordonne avec les autorités aéronautiques concernées la mise en œuvre et la tenue à jour du programme national de sécurité.
+L'organisme national en charge de l'aviation civile peut confier la planification et la gestion quotidienne de la mise en œuvre du programme national de sécurité à une personne, un département ou une équipe. |

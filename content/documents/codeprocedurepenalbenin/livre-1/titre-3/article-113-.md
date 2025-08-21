@@ -1,0 +1,1 @@
+Le juge d’instruction chargé d’une information, ainsi que les magistrats et officiers de police judiciaire agissant sur commission rogatoire, ne peuvent entendre comme témoins, des personnes contre lesquelles il existe des indices graves et concordants de culpabilité.

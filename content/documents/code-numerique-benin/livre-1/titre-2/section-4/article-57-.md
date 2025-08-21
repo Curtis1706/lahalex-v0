@@ -1,0 +1,5 @@
+Règles applicables aux déclarations
+Un récépissé est remis par l’Autorité de régulation à toute personne déposant un dossier complet de déclaration le jour même du dépôt du dossier. Dès la remise de ce récépissé, l’activité objet de la déclaration peut être exercée par le déclarant.
+Les opérateurs dûment autorisés à exercer des activités de communications électroniques dans un autre Etat membre de la CEDEAO qui relèvent, en République du Bénin, du régime de la déclaration, sont autorisés à déclarer leurs activités en République du Bénin dans des conditions identiques aux entreprises nationales.
+L’Autorité de régulation ne peut refuser une déclaration, sauf en cas de dossier incomplet, pour des raisons de sécurité publique ou si les réseaux exploités ou les services fournis sont contraires aux dispositions légales ou règlementaires applicables ou contraires à l’ordre public.
+Les éléments constitutifs de la déclaration, les procédures de réalisation de la déclaration et les conditions particulières d’exploitation sous le régime de la déclaration sont fixés par un arrêté du Ministre chargé des communications électroniques après avis de l’Autorité de régulation.

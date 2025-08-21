@@ -1,0 +1,1 @@
+Sont  passibles,  indépendamment  des  sanctions  fiscales  applicables, d’une  amende  de  deux  cent  cinquante  mille  (250 000)  à  un  million  cinq  cent  mille (1.500 000) francs CFA, les entreprises n’ayant pas acquitté leurs impôts dans les délais fixés au présent code.

@@ -1,0 +1,3 @@
+Le maire ou l'adjoint au maire qui, pour une cause postérieure à sa désignation comme maire, ne remplit plus les conditions requises pour être maire adjoint au maire ou qui se trouve dans un des cas d’incompatibilité ou d'inéligibilité prévus par la loi, doit démissionner de ses fonctions communales.
+Si, dans l’un des cas prévus au 1 alinéa du présent article, le maire ou l'adjoint au maire refuse de démissionner, l'autorité de tutelle, après avoir constaté l’incompatibilité de fonctions ou l’inéligibilité, le déchoit de son mandat de maire ou d'adjoint au maire par arrêté.
+La décision du préfet est susceptible d'un recours pour excès de pouvoir dans un délai de deux (02) mois à compter de sa notification.

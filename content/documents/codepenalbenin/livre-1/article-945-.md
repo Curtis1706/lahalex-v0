@@ -1,0 +1,1 @@
+Les infractions aux règles de publicité des prix sont punies d’un emprisonnement de quinze (15) jours à deux (02) mois et d’une amende de dix mille (10.000) francs CFA à cinquante mille (50.000) francs CFA ou de l’une de ces deux peines seulement.

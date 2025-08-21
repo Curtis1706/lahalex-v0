@@ -1,0 +1,2 @@
+En cas de décès survenu à bord d’un navire ou d’un aéronef, le capitaine ou le commandant de bord constate le décès et le mentionne sur le livre de bord suivant les indications prévues par l’article 76. Il établit en double exemplaire la copie certifiée par ses soins de la mention ainsi portée sur le livre de bord.
+Dès réception de cette copie, l’officier de l’état civil dresse l’acte de décès en appliquant, s’il y a lieu, les règles relatives aux déclarations tardives et en se conformant aux dispositions de l'article 76.

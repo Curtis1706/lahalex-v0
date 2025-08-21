@@ -1,0 +1,5 @@
+Si l’huissier ne trouve personne au domicile de celui que l’exploit concerne, il vérifie immédiatement l’exactitude de ce domicile.
+Lorsque le domicile indiqué est bien celui de l’intéressé, l’huissier mentionne dans l’exploit ses diligences et constatations.
+Il remet alors la copie à un voisin dont il porte dans l’exploit les nom, prénoms et adresse et informe sans délai l’intéressé de cette remise, par lettre ordinaire ou, si l’exploit tend à la signification d’une décision rendue par défaut, par lettre recommandée avec avis de réception.
+Si aucun voisin n’accepte de recevoir la copie, il la remet à l’autorité administrative territorialement compétente.
+L’huissier informe sans délai de cette remise l’intéressé, par lettre ordinaire ou recommandée avec avis de réception selon la distinction prévue à l’alinéa précédent, en lui faisant connaître qu’il doit retirer immédiatement la copie de l’exploit signifié auprès de l’autorité administrative ci-dessus indiquée.

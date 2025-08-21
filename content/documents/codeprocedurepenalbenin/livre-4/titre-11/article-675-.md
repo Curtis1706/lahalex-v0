@@ -1,0 +1,2 @@
+La publication du compte rendu des débats, de l’identité et de la personnalité des mineurs en conflit avec la loi, sous quelque forme que ce soit, est interdite.
+Les infractions à ces dispositions sont punies d’une peine d’emprisonnement de deux (02) mois à un (01) an et d’une amende de cinquante mille (50 000) à trois cent mille (300 000) francs ou de l’une de ces deux (02) peines seulement, prononcée par le tribunal de première instance statuant en matière correctionnelle.

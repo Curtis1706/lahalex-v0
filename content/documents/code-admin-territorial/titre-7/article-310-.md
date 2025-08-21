@@ -1,0 +1,1 @@
+Le conseil de communauté crée par ses délibérations, des commissions temporaires ou permanentes chargées d'étudier et de suivre les questions qui lui sont soumises. Le nombre de commissions permanentes ne peut excéder celui prévu pour les communes.

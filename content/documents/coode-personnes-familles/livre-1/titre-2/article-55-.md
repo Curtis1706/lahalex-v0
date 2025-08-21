@@ -1,0 +1,3 @@
+Toute personne intéressée peut se faire autoriser par décision du président du tribunal de première instance, à se faire délivrer, à ses frais, copie d’un acte déterminé.
+Le Président statue par voie d’ordonnance de référé sur le refus opposé par l’officier de l’état civil de délivrer une copie aux personnes énoncées à l’article 53 du présent code.
+Les copies sont les reproductions intégrales de l’acte original tel qu'il a été dressé ou rectifié et des mentions marginales.

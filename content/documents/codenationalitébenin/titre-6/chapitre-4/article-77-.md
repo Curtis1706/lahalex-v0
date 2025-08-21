@@ -1,0 +1,2 @@
+Lorsque l'autorité en charge de la délivrance des actes relatifs à la nationalité refuse de délivrer un certificat de nationalité, elle motive sa décision.
+L'intéressé ou le ministère public peut, le cas échéant, saisir la juridiction civile de droit commun aux fins de délivrance du certificat de nationalité.

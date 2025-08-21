@@ -1,0 +1,2 @@
+Rachat de rente
+Les entreprises d’assurance sur la vie peuvent procéder au rachat des rentes concernant les contrats qui ont été souscrits auprès d’elles, lorsque les quittances d’arrérages correspondantes ne dépassent pas 25.000 FCFA. Le barème fixant la valeur de rachat des rentes visées ci-dessus est celui des provisions mathématiques.

@@ -1,0 +1,1 @@
+Le principe de la légalité de l'impôt signifie que le taux des impôts et taxes locaux est déterminé dans la limite des plafonds fixés par la loi.

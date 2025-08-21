@@ -1,0 +1,3 @@
+Représentation des engagements réglementés des entreprises visées au 1) de l’article 300
+Les règles fixées à l’article 335-1 sont applicables aux engagements réglementés des entreprises réalisant des opérations dans les branches 20 à 23 de l’article 328, le plafond fixé à l’article 335-1 6) étant ramené à 35 % pour ces branches.
+Sont admises en représentation des engagements réglementés des entreprises réalisant des opérations dans les branches 20 à 23 de l’article 328 les avances sur contrats et les primes ou cotisations restant à recouvrer de trois mois de date au plus, dans les limites respectives de 30 % et 5 % des provisions mathématiques.

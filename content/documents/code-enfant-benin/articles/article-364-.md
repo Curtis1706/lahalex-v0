@@ -1,0 +1,2 @@
+Article 364 : Les infractions aux dispositions des articles 264 et 265 de la présente loi sont punies d’une peine d’emprisonnement de deux (02) mois à un (01) an et de dix mille (10 000) à cent mille (100 000) francs CFA d’amende prononcée par le tribunal de première instance statuant en matière correctionnelle.
+En cas de récidive, la peine est portée au triple.

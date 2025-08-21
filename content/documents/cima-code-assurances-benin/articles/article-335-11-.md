@@ -1,0 +1,2 @@
+Article 335-11 : Valeurs mobilières amortissables
+Les valeurs mobilières amortissables énumérées aux 1) et 2° a) et b) de l’article 335-1 sont évaluées à leur valeur la plus faible résultant de la comparaison entre la valeur d’acquisition, la valeur de remboursement et la valeur vénale.

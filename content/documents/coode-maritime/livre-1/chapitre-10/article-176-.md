@@ -1,0 +1,2 @@
+A défaut de paiement, le bâtiment est remis en vente et adjugé trois (03) jours francs après une nouvelle publication et affiche unique, à la folle enchère des adjudicataires qui sont également tenus pour le paiement du déficit, des dommages, des intérêts et des frais.
+L’adjudicataire doit, dans les cinq (05) jours suivants, présenter requête au président du tribunal de première instance pour faire commettre un juge devant lequel il cite les créanciers par acte signifié aux domiciles élus, à l’effet de s’entendre à l’amiable sur la distribution du prix.

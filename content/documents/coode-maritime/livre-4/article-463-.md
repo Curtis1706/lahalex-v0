@@ -1,0 +1,6 @@
+Sont avaries particulières, en général, les dépenses faites et le dommage souffert pour ou par le navire seul, ou encore pour ou par les marchandises seules, depuis leur chargement au départ jusqu’à leur déchargement à l’arrivée notamment :
+- les dommages survenus aux marchandises par leur vice propre, par tempête, prise, naufrage ou échouement ;
+- les frais engagés pour les sauver ;
+- la perte des câbles, chaînes, ancres, voiles, mâts, cordages et tous apparaux, causée par la tempête ou autre accident de mer ; les dépenses résultant de toute relâche occasionnée par la perte fortuite de ces matériels, par les nécessités d’avitaillement ou par voie d’eau à réparer ;
+- la nourriture et le loyer des équipages pendant la détention quand le navire est arrêté en cours de voyage par ordre d’une puissance et pendant les réparations qu’on est obligé d’y faire si le navire est affrété au voyage ;
+- la nourriture et le loyer des équipages pendant la quarantaine, que le navire soit affrété au voyage ou à temps.

@@ -1,0 +1,1 @@
+Lorsque le père et la mère d’un enfant peuvent prétendre chacun de son côté aux prestations familiales soit à la charge du régime de sécurité sociale, soit à la charge du budget d’une collectivité publique, celleci sont établies et liquidées au nom de celui qui bénéficie des prestations les plus avantageuses. Aucun cumul n’est admis.

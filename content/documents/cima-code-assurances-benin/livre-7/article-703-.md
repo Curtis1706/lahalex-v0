@@ -1,0 +1,2 @@
+Valeur de rachat
+La valeur de rachat ne peut être inférieure à la somme des cotisations versées par l’assuré. Pour les contrats mixtes, les cotisations nettes de taxes versées s’entendent celles relatives à la garantie en cas de vie.

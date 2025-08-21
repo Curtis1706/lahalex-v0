@@ -1,0 +1,1 @@
+Seront punis des mêmes peines, ceux qui, membres des associations ou groupements visés à l’article précédent auront, en employant des manœuvres frauduleuses, privé ou tenté de priver un ou plusieurs autres membres des prestations auxquelles ils pouvaient prétendre.

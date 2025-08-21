@@ -1,0 +1,2 @@
+Article 74 : Dans les cas visés à l’article 73 ci-dessus, le tribunal peut condamner le contrevenant à restaurer les lieux pollués.
+En cas d'inexécution, le ministre peut y faire procéder d'office, aux frais et dépens du contrevenant.

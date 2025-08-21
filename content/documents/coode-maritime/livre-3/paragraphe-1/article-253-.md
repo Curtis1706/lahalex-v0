@@ -1,0 +1,4 @@
+En cas de décès du marin pendant la durée du contrat :
+- s’il est payé au mois, son salaire est dû jusqu’à la fin du mois ;
+- s’il est engagé pour la durée du voyage et s’il est rémunéré au profit ou au fret, la moitié de son salaire ou de sa part est due si le marin décède au cours du voyage aller, la totalité est due s’il décède au cours du voyage de retour ;
+En cas de disparition, il est dû aux ayants droit du marin, outre les salaires échus jusqu’aux dernières nouvelles, un mois en sus si le marin était payé au mois, la moitié des salaires afférents au voyage au cours duquel le sinistre a eu lieu si le marin était payé au voyage.

@@ -1,0 +1,10 @@
+1. Les Etats membres de la CEEAC conviennent de coopérer dans le domaine de l’aménagement du territoire. Cette coopération a pour objectifs :
+1) l’édification d’une Communauté plus forte et solidaire, plus attractive et compétitive, avec un marché régional dans lequel chaque Etat membre optimise, dans la complémentarité, ses avantages comparatifs ;
+1) la maîtrise spatiale d’un développement économique, social et culturel soutenu, harmonisé et durable. Elle contribue à la réduction de la pauvreté.
+1) la cohérence et l’harmonisation des politiques sectorielles nationales et communautaires.
+2. Afin de promouvoir cette coopération, les Etats membres s’engagent à :
+1) promouvoir l’aménagement du territoire communautaire dans les politiques publiques des Etats membres de la CEEAC. A cet effet, la Communauté veille à encourager les Etats dans l’élaboration et la mise en œuvre de politiques nationales cohérentes et convergentes d’aménagement du territoire dans une vision communautaire.
+1) accélérer la réalisation concertée de grandes infrastructures et d’équipements d’intérêt communautaire ainsi que la définition d’une armature urbaine régionale.
+1) orienter sur le plan spatial, la mise en valeur des potentialités de la Communauté pour renforcer la complémentarité, la compétitivité et la meilleure insertion des Etats membres de la CEEAC dans l’économie régionale et mondiale.
+4) développer la solidarité communautaire et à renforcer la cohésion sociale pour procurer aux populations les bénéfices attendus de l’intégration.
+3. Pour la mise en œuvre des actions de coopération énumérées ci-dessus, la Commission formule des propositions au Conseil tendant à élaborer une politique commune d’aménagement du territoire et toutes mesures nécessaires à sa mise en œuvre. Elle s’attelle, en outre, à mobiliser des fonds pour le financement des projets et programmes d’aménagement du territoire communautaire, dans le cadre d’un dialogue permanent avec les partenaires au développement.

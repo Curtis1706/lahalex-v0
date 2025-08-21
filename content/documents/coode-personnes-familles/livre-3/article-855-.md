@@ -1,0 +1,1 @@
+Toute donation faite sous des conditions dont l’exécution dépend de la seule volonté du donateur est nulle.

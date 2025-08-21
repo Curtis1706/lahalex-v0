@@ -1,0 +1,4 @@
+Le directeur de la marine marchande, les agents qualifiés de la direction de la marine marchande, les agents des forces de sécurité publique, et dans les ports, les officiers et les officiers adjoints de port, sont habilités à constater par procès-verbaux les infractions aux dispositions du présent titre.
+Le directeur de la marine marchande peut, en vue de découvrir des épaves, procéder à des visites domiciliaires et des perquisitions. 2 peut suivre les objets enlevés dans les lieux où ils ont été transportés et les mettre sous séquestre.
+Les procès-verbaux sont transmis au procureur de la République près le tribunal du lieu de la découverte de l’épave.
+Le directeur de la marine marchande et les agents qualifiés de la direction de la marine marchande, les officiers et les officiers adjoints de port peuvent requérir directement la force publique si nécessaire.

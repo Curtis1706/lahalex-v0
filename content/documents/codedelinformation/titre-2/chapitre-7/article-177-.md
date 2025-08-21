@@ -1,0 +1,2 @@
+La Haute Autorité de l’Audiovisuel et de la Communication assure le contrôle du contenu des messages publicitaires.
+A cet effet, il est créé par voie règlementaire un bureau de vérification de la publicité placé sous la tutelle de la Haute Autorité de l’Audiovisuel et de la Communication. Il est chargé de veiller à l’application des dispositions légales en matière de publicité et de parrainage des émissions.

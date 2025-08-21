@@ -1,0 +1,1 @@
+Le contrat d’assurance consenti pour une somme supérieure à la valeur de la chose assurée, alors même que la valeur assurée est une valeur agréée, est annulable à la demande de l’assureur s’il établit qu’il y a eu fraude, et la prime lui reste acquise.

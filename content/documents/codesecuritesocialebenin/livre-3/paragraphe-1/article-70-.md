@@ -1,0 +1,1 @@
+Le salaire servant de base au calcul de l’indemnité journalière due au travailleur âgé de moins de 18 ans ne peut être inférieur au salaire minimum de sa catégorie.

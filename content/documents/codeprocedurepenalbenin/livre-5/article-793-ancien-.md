@@ -1,0 +1,2 @@
+Tous incidents contentieux relatifs à l’exécution sont portés devant la juridiction qui a prononcé la sentence. Cette juridiction peut également procéder à la rectification des erreurs purement matérielles contenues dans ses décisions.
+Par exception, la chambre d’accusation connaît des rectifications et des incidents d’exécution auxquels peuvent donner lieu les arrêts de la cour d’assises.

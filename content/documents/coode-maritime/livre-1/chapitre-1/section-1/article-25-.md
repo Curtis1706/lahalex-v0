@@ -1,0 +1,1 @@
+L’Etat exerce ses droits souverains et exclusifs quant à l’exploration et à l’exploitation des ressources naturelles biologiques ou non biologiques du fond de la mer et de son sous-sol sur toute l’étendue de son plateau continental. Nul ne peut y entreprendre quelque activité sans autorisation préalable.

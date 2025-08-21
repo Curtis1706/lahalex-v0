@@ -1,0 +1,2 @@
+Le liquidateur accomplit tous les actes et exerce toutes les actions nécessaires pour conserver les biens de la succession.
+Il doit poursuivre le paiement des créances qui appartiennent à la succession lorsque ces créances sont exigibles. Il donne valablement quittance.

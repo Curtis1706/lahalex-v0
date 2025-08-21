@@ -1,0 +1,2 @@
+Dans l’assurance à temps, les risques du 1 et du dernier jour sont couverts par l’assurance.
+Les jours se comptent de zéro (00) à vingt-quatre (24) heures, d’après l’heure du pays où la police a été émise.

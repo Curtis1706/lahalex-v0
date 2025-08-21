@@ -1,0 +1,1 @@
+Quiconque s'oppose, de quelque façon que ce soit, à l'exercice des fonctions des agents de la police environnementale, est puni d'une amende supérieure à cinquante mille (50 000) et n'excédant pas neuf cent mille (900 000) FCFA et d'un emprisonnement de deux (02) mois à trois (03) ans, ou de l'une de ces peines seulement.

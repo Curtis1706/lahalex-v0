@@ -1,0 +1,1 @@
+Toute personne qui a commis un outrage public à la pudeur est punie d’un emprisonnement de trois (03) mois à deux (02) ans et d’une amende de cinquante mille (50.000) francs CFA à deux cent cinquante mille (250.000) francs CFA.

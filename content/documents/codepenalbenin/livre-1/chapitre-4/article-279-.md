@@ -1,0 +1,4 @@
+Constitue une immixtion dans le fonctionnement de la justice, notamment :
+1. toute pression de quelque nature que ce soit exercée sur un juge en charge d’un dossier;
+2. toute entrave, tout ordre donné, toute artifice, toute déclaration, toute manifestation publique de nature à influencer le cours normale d’une instance ou tendant à empêcher ou à retarder l’exécution d’une décision de justice.
+Toute immixtion dans le fonctionnement de la justice est punie d’un emprisonnement de six (06) mois à douze (12) mois et d’une amende de cinquante mille (50.000) à cinq cent mille (500.000) francs CFA ou de l’une de ces deux peines seulement.

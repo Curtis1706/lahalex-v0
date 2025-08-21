@@ -1,0 +1,16 @@
+{
+  "id": "article-440-",
+  "title": "Article 440 :",
+  "numero": "440 ",
+  "document": "coode-personnes-familles",
+  "path": [
+    "livre-2",
+    "titre-6",
+    "section-5"
+  ],
+  "navigation": {
+    "parent": "section-5",
+    "previous": "article-439-",
+    "next": "article-441-"
+  }
+}

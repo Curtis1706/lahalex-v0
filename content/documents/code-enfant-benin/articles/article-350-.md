@@ -1,0 +1,1 @@
+Article 350 : Si les coupables de pédophilie sont le père ou la mère, le tuteur, la personne exerçant une autorité sur l’enfant ou si l’acte a été commis en réunion, la peine est la réclusion à perpétuité et une amende de un million (1 000 000) à dix millions (10 000 000) de francs CFA.

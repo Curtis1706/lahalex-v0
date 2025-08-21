@@ -1,0 +1,1 @@
+En ce qui concerne les travailleurs relevant de l'Administration Publique, leurs dossiers complets de pension doivent être transmis par le Ministre chargé du Travail au Ministre chargé des Finances, six (6) mois au moins avant la date de leur départ à la retraite.

@@ -1,0 +1,2 @@
+Article 300 : Appel des ordonnances du juge
+Il peut être interjeté appel des ordonnances prévues aux articles 284 à 286 de la présente loi dans les formes ordinaires. Il y est statué par la chambre des mineurs de la cour d’appel.

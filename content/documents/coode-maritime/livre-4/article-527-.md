@@ -1,0 +1,1 @@
+En l’absence de fraude, le contrat est valable à concurrence de la valeur des objets assurés et, si elle a été agréée, pour toute la somme assurée.

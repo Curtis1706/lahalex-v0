@@ -1,0 +1,16 @@
+{
+  "id": "article-201-",
+  "title": "Article 201 :",
+  "numero": "201 ",
+  "document": "coode-personnes-familles",
+  "path": [
+    "livre-2",
+    "section-1",
+    "paragraphe-2"
+  ],
+  "navigation": {
+    "parent": "paragraphe-2",
+    "previous": "article-200-",
+    "next": "article-202-"
+  }
+}

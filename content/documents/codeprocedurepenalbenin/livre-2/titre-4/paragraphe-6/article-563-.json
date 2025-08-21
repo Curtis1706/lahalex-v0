@@ -1,0 +1,16 @@
+{
+  "id": "article-563-",
+  "title": "Article 563 :",
+  "numero": "563 ",
+  "document": "codeprocedurepenalbenin",
+  "path": [
+    "livre-2",
+    "titre-4",
+    "paragraphe-6"
+  ],
+  "navigation": {
+    "parent": "paragraphe-6",
+    "previous": "article-562-",
+    "next": "article-564-"
+  }
+}

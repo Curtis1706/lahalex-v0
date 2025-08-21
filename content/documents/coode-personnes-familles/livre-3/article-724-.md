@@ -1,0 +1,1 @@
+Le cohéritier qui fait le rapport peut retenir la possession du bien jusqu’au remboursement effectif des sommes qui lui sont dues pour impenses ou améliorations.

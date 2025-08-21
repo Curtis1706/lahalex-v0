@@ -1,0 +1,2 @@
+Quiconque a outragé le ministre d’un culte dans l’exercice de ses fonctions, est puni d’une amende de vingt mille (20.000) francs CFA à cinquante mille (50.000) francs CFA et d’un emprisonnement de un (01) mois à un (01) an.
+Celui qui a porté des coups et fait des blessures au ministre d’un culte dans l’exercice de ses fonctions, est puni d’un emprisonnement de un (01) an à trois (03) ans et d’une amende de cent mille (100.000) francs CFA à cinq cent mille (500.000) francs CFA.

@@ -1,0 +1,2 @@
+L'accès et la circulation aux zones côté piste des aéroports et en tout lieu où sont mises en œuvre des mesures de sûreté prévues par la présente loi et ses textes d'application sont soumis à la détention d'un titre de circulation ou d'une autorisation d'accès.
+Les conditions de délivrance et d'utilisation des titres de circulation et des autorisations d'accès sont définies dans les programmes nationaux de sécurité et de sûreté.

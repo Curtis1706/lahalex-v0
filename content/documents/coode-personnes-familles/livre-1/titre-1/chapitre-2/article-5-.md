@@ -1,0 +1,2 @@
+Toute personne s’identifie par un ou plusieurs prénoms et par un nom patronymique.
+Toutefois, un surnom ou un pseudonyme peut être choisi pour préciser l’identité d’une personne, mais il ne fait pas partie du nom de cette personne.

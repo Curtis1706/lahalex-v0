@@ -1,0 +1,1 @@
+L’étranger en cours de poursuite ou d’exécution d’une peine en République du Bénin ne peut être extradé pour comparaître devant les tribunaux de l’Etat requérant qu’après l’intervention d’une décision au fond ou l’exécution des peines privatives de liberté.

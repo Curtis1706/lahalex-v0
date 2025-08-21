@@ -1,0 +1,1 @@
+L’adultère de l’épouse ne suffit pas pour ouvrir l’action en désaveu.

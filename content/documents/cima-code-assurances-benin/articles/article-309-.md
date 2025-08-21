@@ -1,0 +1,2 @@
+Article 309 : Commission Régionale de Contrôle des Assurances
+La Commission Régionale de Contrôle des Assurances, ci-après dénommée la Commission, est l’organe régulateur de la Conférence. Elle est chargée du contrôle des sociétés et de la surveillance complémentaire des sociétés d’assurance faisant partie d’un groupe d’assurance au sens du 7) de l’article 301-1. Elle assure la surveillance générale et concourt à l’organisation des marchés nationaux d’assurances.

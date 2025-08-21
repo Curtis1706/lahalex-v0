@@ -1,0 +1,1 @@
+En l’absence de dispositions particulières des conventions internationales ratifiées par la République du Bénin et dans la mesure où les dispositions du présent code ne sont pas applicables, il est fait application des dispositions des règles générales applicables en République du Bénin.

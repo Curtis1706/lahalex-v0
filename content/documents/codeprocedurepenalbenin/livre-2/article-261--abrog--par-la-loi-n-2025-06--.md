@@ -1,0 +1,2 @@
+Il peut leur être adjoint dans les mêmes formes, un ou deux (02) assesseurs supplémentaires pour une ou plusieurs affaires déterminées dont la durée ou l’importance rendent cette mesure nécessaire.
+L’assesseur supplémentaire siège aux audiences. Il ne prend part aux délibérations qu’en cas d’empêchement d’un assesseur titulaire.

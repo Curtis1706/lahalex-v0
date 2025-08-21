@@ -1,0 +1,1 @@
+La publicité non commerciale, en faveur des idées politiques, des hommes et des partis politiques, est réglementée par la Haute Autorité de l’Audiovisuel et de la Communication.

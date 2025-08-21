@@ -1,0 +1,16 @@
+{
+  "id": "article-12-",
+  "title": "Article 12 :",
+  "numero": "12 ",
+  "document": "code-douane",
+  "path": [
+    "titre-1",
+    "chapitre-5",
+    "section-2"
+  ],
+  "navigation": {
+    "parent": "section-2",
+    "previous": "article-11-",
+    "next": "article-13-"
+  }
+}

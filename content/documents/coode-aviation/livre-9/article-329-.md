@@ -1,0 +1,2 @@
+Est punie d'une amende maximale de douze millions (12 000 000) de francs CFA et d'un emprisonnement maximal d'un an ou de l’une de ces deux peines seulement, toute personne qui a exercé l'un des emplois correspondant aux brevets, licences et qualifications des membres d'équipage professionnel de l'aéronautique civile en infraction aux dispositions du chapitre relatif au personnel navigant.
+Est puni de la même peine, le responsable de toute entreprise qui a confié l'un de ces emplois à une personne ne remplissant pas les conditions exigées par la présente loi.

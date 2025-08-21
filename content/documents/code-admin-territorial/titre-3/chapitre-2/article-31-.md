@@ -1,0 +1,1 @@
+La commune a compétence en matière d'habitat pour créer les conditions pouvant favoriser la promotion immobilière publique et privée. Elle délivre les permis de construire et assure le contrôle permanent de la conformité des réalisations et des constructions avec la réglementation en vigueur.

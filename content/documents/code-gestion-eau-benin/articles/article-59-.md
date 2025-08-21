@@ -1,0 +1,2 @@
+Article 59 : Afin d’assurer l’exercice du droit à l’eau reconnu à l’article 6 de la présente loi, l’Etat et les collectivités territoriales décentralisées sont responsables, dans le cadre de leurs compétences respectives, de l’organisation et du fonctionnement du service public d’approvisionnement en eau potable.
+Le service est géré, soit en régie ou dans le cadre d’un contrat de gestion ou de gérance, soit par voie de concession ou d’affermage. Des modalités de gestion et de distribution différentes peuvent être retenues en zone urbaine et en zone rurale.

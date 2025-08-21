@@ -1,0 +1,2 @@
+Le chef du service d'assiette et le receveur des impôts sont les conseillers au plan technique du maire en sa qualité de titulaire du pouvoir règlementaire et du secrétaire exécutif de la commune, ordonnateur du budget de celle-ci. Ils les assistent dans la fixation des taux dans les limites prescrites par la loi.
+Les délibérations prises par les organes délibérants compétents des communes sur les taux, après approbation sont transmises aux services des impôts.

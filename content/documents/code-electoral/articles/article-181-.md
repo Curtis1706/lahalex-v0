@@ -1,0 +1,1 @@
+Le Conseil communal est l'organe délibérant de la commune.

@@ -1,0 +1,6 @@
+Etablissement d'un tarif extérieur commun
+1. Les États membres conviennent de l'établissement progressif d'un tarif extérieur commun, applicable aux marchandises importées dans les États membres en provenance de pays tiers ainsi qu’il ressort des dispositions de l’annexe 1 du présent Traité.
+1. Les États membres s’engagent à supprimer, conformément à un programme à proposer par le Conseil, à l’initiative de la Commission, les différences qui existent entre les taux de droits de douane inscrits dans leurs tarifs douaniers respectifs.
+1. Après l’entrée en vigueur du présent Traité, Le Conseil proposera à la Conférence l'adoption d’un tarif extérieur commun et d'une nomenclature des statistiques commune à tous les Etats membres.
+1. Le Conseil adopte, sur proposition de la Commission, tous les instruments opérationnels pertinents pour le fonctionnement harmonieux du territoire douanier communautaire
+1. Le Conseil peut réexaminer, sur proposition de la Commission, la structure du tarif extérieur commun et proposer à la Conférence les mesures destinées à remédier à tout effet préjudiciable que l'un des Etats membres pourrait subir du fait de l'application de la présente disposition.

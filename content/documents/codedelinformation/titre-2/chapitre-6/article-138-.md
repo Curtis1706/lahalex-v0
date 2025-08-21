@@ -1,0 +1,1 @@
+La réponse est toujours gratuite. Le demandeur en insertion ne peut excéder les limites fixées au présent chapitre.

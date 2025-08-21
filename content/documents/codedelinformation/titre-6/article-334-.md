@@ -1,0 +1,2 @@
+Les infractions aux dispositions des articles 172 à 177 de la présente loi, sont punies conformément aux textes en vigueur relatifs à la répression des fraudes.
+Le maximum de l’amende prévue par lesdits textes peut être porté à cinquante pour cent (50%) des dépenses de la publicité constituant le délit.

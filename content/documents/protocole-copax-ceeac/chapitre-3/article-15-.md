@@ -1,0 +1,2 @@
+LE DEPARTEMENT CHARGE DES AFFAIRES POLITIQUES, DE LA PAIX ET DE LA SECURITE
+La Commission dispose d’un Département chargé des affaires politiques, de la paix et de la sécurité, placé sous l’autorité d’un Commissaire auprès duquel sont rattachés des services techniques, des dispositifs opérationnels et des Agences répondant de ce domaine.

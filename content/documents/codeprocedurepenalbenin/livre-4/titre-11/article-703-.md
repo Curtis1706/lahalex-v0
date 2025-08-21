@@ -1,0 +1,1 @@
+S’il est établi qu’un mineur, par sa mauvaise conduite, son indiscipline ou son comportement dangereux rend inopérantes les mesures de surveillance ou d’éducation prises à son égard, le juge des enfants peut, par ordonnance motivée, le placer, jusqu’à un âge qui ne peut dépasser dix-huit (18) ans, dans un centre de rééducation pour mineurs.

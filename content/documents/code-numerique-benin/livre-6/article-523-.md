@@ -1,0 +1,2 @@
+Viol
+Le viol est puni de vingt (20) ans de réclusion criminelle et de cinquante millions (50 000 000) de francs CFA d'amende lorsque la victime a été mise en contact avec l'auteur des faits au moyen d’un ou sur un réseau de communication électronique ou un système informatique.

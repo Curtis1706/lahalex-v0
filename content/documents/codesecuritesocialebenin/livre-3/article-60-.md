@@ -1,0 +1,1 @@
+Lorsque l’accident du travail est survenu sur le territoire d’un pays qui est lié au Bénin par un accord de réciprocité en matière de sécurité sociale, la déclaration et l’enquête sur cet accident sont effectuées dans les conditions prescrites par cet accord.

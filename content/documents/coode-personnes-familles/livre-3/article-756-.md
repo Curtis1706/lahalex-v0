@@ -1,0 +1,3 @@
+Le gérant peut faire tous les actes d'administration relatifs aux biens indivis. Il ne peut toutefois, sans y être autorisé par une décision des indivisaires prise à la majorité en nombre et en parts, donner à bail les immeubles ou les fonds de commerce lorsqu’ils n’étaient pas affectés à la location lors de la naissance de l’indivision.
+Il ne peut, sans la même autorisation, contracter des emprunts ni constituer sur les biens indivis des hypothèques ou autres sûretés réelles, ni vendre un bien déterminé.
+Il ne peut aliéner les biens indivis qu’avec le consentement unanime des indivisaires, lorsque cette aliénation aurait pour effet de mettre fin à l’indivision.

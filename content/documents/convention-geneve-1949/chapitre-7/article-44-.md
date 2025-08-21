@@ -1,0 +1,11 @@
+L’emblème de la croix rouge sur fond blanc et les mots « croix rouge » ou Limitation
+- croix de Genève » ne pourront, à l’exception des cas visés dans les alinéas de l’emploi suivants du présent article, être employés, soit en temps de paix, soit en du signe et temps de guerre, que pour désigner ou protéger les formations et les éta- exceptions blissements sanitaires, le personnel et le matériel protégés par la présente
+Convention et par les autres Conventions internationales réglant semblable
+matière. Il en sera de même en ce qui concerne les emblèmes visés à l’article
+38, deuxième alinéa, pour les pays qui les emploient. Les Sociétés nationales
+de la Croix-Rouge et les autres sociétés visées à l’article 26 n’auront droit à
+l’usage du signe distinctif conférant la protection de la Convention que dans
+le cadre des dispositions de cet alinéa.
+En outre, les Sociétés nationales de la Croix-Rouge (Croissant-Rouge, Lion et Soleil Rouges) pourront en temps de paix, conformément à la législation nationale, faire usage du nom et de l’emblème de la Croix-Rouge pour leurs autres activités conformes aux principes formulés par les Conférences in- ternationales de la Croix-Rouge. Lorsque ces activités se poursuivront en temps de guerre, les conditions de l’emploi de l’emblème devront être telles qu’il ne puisse être considéré comme visant à conférer la protection de la Convention ; l’emblème sera relativement de petites dimensions et il ne pourra être apposé sur un brassard ou une toiture.
+Les organismes internationaux de la Croix-Rouge et leur personnel dûment légitimé seront autorisés à se servir en tout temps du signe de la croix rouge sur fond blanc.
+à titre exceptionnel, conformément à la législation nationale, et avec l’autori- sation expresse de l’une des Sociétés nationales de la Croix-Rouge (Croissant- Rouge, Lion et Soleil Rouges), il pourra être fait usage de l’emblème de la Convention en temps de paix, pour signaler les véhicules utilisés comme am- bulances et pour marquer l’emplacement des postes de secours exclusivement réservés aux soins gratuits à donner à des blessés ou à des malades.

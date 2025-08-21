@@ -1,0 +1,1 @@
+Toute autre exploitation de jeux de hasard, d’argent et de paris ne peut se faire que par des personnes morales privées de droit béninois, après autorisation accordée par décret pris en Conseil des ministres.

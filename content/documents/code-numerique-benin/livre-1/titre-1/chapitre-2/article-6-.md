@@ -1,0 +1,2 @@
+Principe de liberté d’exercice des activités de communications électroniques
+Les activités de communications électroniques s'exercent librement, dans le respect des dispositions prévues au présent code.

@@ -1,0 +1,1 @@
+Si, parmi les héritiers, il s’en trouve un contre lequel la prescription ne peut courir, elle est suspendue contre tous.

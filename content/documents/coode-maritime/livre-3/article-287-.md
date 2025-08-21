@@ -1,0 +1,1 @@
+Les fautes disciplinaires commises dans l’exercice de la fonction sont classées en fautes légères et en fautes graves.

@@ -1,0 +1,3 @@
+La simple rétractation du consentement à l’adoption ou la demande de nouvelles n’est pas une marque d’intérêt suffisante pour fonder de plein droit le rejet d’une demande en déclaration d’abandon.
+La demande peut être présentée par la personne ou l’œuvre qui a recueilli l’enfant, par un service social ou par le ministère public.
+Lorsqu’il déclare l’enfant abandonné, le tribunal, par la même décision, délègue l’autorité parentale à toute personne susceptible de s’intéresser à l’enfant, à un service public spécialisé.

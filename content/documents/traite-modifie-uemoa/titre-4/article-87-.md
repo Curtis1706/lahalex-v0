@@ -1,0 +1,1 @@
+Les Etats membres s'abstiennent de conclure de nouvelles conventions d'établissement. Ils alignent, dans les meilleurs délais possibles, les conventions existantes sur les mesures d'harmonisation des législations visées à l'article 23 du Protocole Additionnel n°2, conformément à la procédure prévue aux articles 60 et 61.

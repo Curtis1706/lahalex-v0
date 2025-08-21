@@ -1,0 +1,1 @@
+Lorsque la poursuite est fondée sur les dispositions de l’article 663, la peine est prononcée en matière de délits de droit commun.

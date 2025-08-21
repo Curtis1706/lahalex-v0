@@ -1,0 +1,4 @@
+Conditions d’exercice du droit de rétractation
+En cas d'exercice du droit de rétractation, le consommateur doit, sans délai, cesser l'utilisation du bien ou du service fourni et renvoyer, à ses frais, le bien au professionnel, pour les contrats portant sur la fourniture de biens.
+En cas d'exercice du droit de rétractation, le consommateur est tenu de renvoyer le bien au professionnel dans le délai de quatorze (14) jours ouvrables, prévu à l'article 348 ci-dessus.
+Le professionnel peut s'opposer à la réception du bien retourné et au remboursement du consommateur en raison de la dépréciation du bien, seulement si cette dépréciation résulte de manipulations par le consommateur autres que celles strictement nécessaires à vérifier sa conformité ou dépassant manifestement l'usage fait à titre de test ou d'essai.

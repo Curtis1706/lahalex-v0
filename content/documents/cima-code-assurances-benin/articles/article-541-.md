@@ -1,0 +1,3 @@
+Article 541 : Encaissement de primes - Interdiction
+Il est interdit aux intermédiaires, sous peine des sanctions prévues aux articles 534-2 et 545, d’encaisser des primes, des fractions de primes, de faire libeller ou de recevoir des chèques libellés à leur ordre.
+Cette interdiction ne s’applique pas aux paiements effectués en espèces n’excédant pas la somme de 1.000.000 FCFA par police et aux paiements par chèques libellés à l’ordre de l’assureur. Il est interdit aux intermédiaires de retenir le montant de leurs commissions sur la prime encaissée.

@@ -1,0 +1,16 @@
+{
+  "id": "article-192-",
+  "title": "Article 192 :",
+  "numero": "192 ",
+  "document": "code-admin-territorial",
+  "path": [
+    "titre-4",
+    "chapitre-1",
+    "section-3"
+  ],
+  "navigation": {
+    "parent": "section-3",
+    "previous": "article-191-",
+    "next": "article-193-"
+  }
+}

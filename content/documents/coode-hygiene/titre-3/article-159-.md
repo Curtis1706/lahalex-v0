@@ -1,0 +1,1 @@
+Tout dépôt de matières et tout épandage constituant une cause de pollution, sont supprimés sans délai, aux frais de l'auteur du dépôt, du propriétaire du déchet ou, à défaut, du propriétaire du terrain au constat de l'infraction.

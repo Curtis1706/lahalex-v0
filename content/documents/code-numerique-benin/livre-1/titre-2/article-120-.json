@@ -1,0 +1,15 @@
+{
+  "id": "article-120-",
+  "title": "Article 120 : Recours contre les décisions de l’Autorité de régulation",
+  "numero": "120 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-119-",
+    "next": "article-121-"
+  }
+}

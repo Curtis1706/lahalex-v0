@@ -1,0 +1,3 @@
+Aucune action judiciaire visant une condamnation pécuniaire d'une commune ne peut, sous peine de nullité, être intentée contre une commune si le demandeur n'a, au préalable, adressé à l'autorité de tutelle un mémoire sur ses prétentions.
+L'action ne peut être portée devant les tribunaux que deux (02) mois après la réception du mémoire par l'autorité de tutelle, sans préjudice des actes conservatoires.
+L'autorité de tutelle adresse le mémoire avec ses observations au maire, avec invitation de convoquer, dans les plus brefs délais, le conseil de supervision pour en délibérer.

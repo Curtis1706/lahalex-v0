@@ -1,0 +1,2 @@
+Dans la police d’abonnement, la prime est calculée sur le montant des déclarations d’aliment.
+Quel que soit le nombre d’événements survenus pendant la durée du contrat, l’assureur est tenu, pour chaque événement, jusqu’à concurrence du maximum fixé au contrat sur un même navire.

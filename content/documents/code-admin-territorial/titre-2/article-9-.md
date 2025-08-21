@@ -1,0 +1,1 @@
+Le préfet est nommé dans les conditions fixées par le décret relatif aux attributions du préfet, à l'organisation et au fonctionnement des départements.

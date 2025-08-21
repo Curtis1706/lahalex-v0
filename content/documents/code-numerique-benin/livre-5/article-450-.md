@@ -1,0 +1,2 @@
+Droit à un recours juridictionnel effectif contre un responsable du traitement ou un sous-traitant
+Toute personne concernée a droit à un recours juridictionnel effectif si elle considère que les droits que lui confèrent les dispositions du présent Livre ont été violés du fait d'un traitement de ses données à caractère personnel effectué en violation des dispositions du présent livre.

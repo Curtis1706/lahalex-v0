@@ -1,0 +1,1 @@
+Les frais de nourriture, d’entretien, d’éducation, d’apprentissage, les frais ordinaires d’installation, les frais de noces et présents d’usage ne doivent pas être rapportés.

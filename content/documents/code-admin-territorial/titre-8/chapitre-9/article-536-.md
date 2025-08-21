@@ -1,0 +1,1 @@
+La délibération d'affectation des résultats intervient après le vote du compte administratif et les résultats sont intégrés lors de la décision budgétaire qui suit le vote du compte administratif.

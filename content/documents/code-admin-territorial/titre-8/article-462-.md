@@ -1,0 +1,1 @@
+L'ordonnateur du budget de la commune ou de l’établissement public de coopération intercommunale ne peut engager, liquider ou mandater aucune dépense à la charge de la commune ou de l'établissement public de coopération intercommunale au-delà des crédits régulièrement ouverts aux articles correspondant au budget.

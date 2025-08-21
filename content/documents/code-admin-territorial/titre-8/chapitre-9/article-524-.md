@@ -1,0 +1,1 @@
+La commune ou rétablissement public de coopération intercommunale constitue des dotations aux amortissements des immobilisations et des dotations aux provisions dont les modalités de constitution, d'ajustement et d'emploi sont déterminées par les lois et règlements.

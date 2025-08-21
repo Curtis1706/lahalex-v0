@@ -1,0 +1,14 @@
+{
+  "id": "article-204-",
+  "title": "Article 204 :",
+  "numero": "204 ",
+  "document": "code-douane",
+  "path": [
+    "titre-5"
+  ],
+  "navigation": {
+    "parent": "titre-5",
+    "previous": "article-203-",
+    "next": "article-205-"
+  }
+}

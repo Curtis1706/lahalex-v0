@@ -1,0 +1,1 @@
+Les modalités d'installation et d'exploitation des feux visés à la présente section sont fixées par décret pris en Conseil des ministres.

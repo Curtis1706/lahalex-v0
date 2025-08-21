@@ -1,0 +1,1 @@
+La nomenclature budgétaire et le plan comptable nécessaires à l’exécution de la présente loi sont fixés par voie réglementaire.

@@ -1,0 +1,2 @@
+Le contrat d’assurance ne peut être prouvé que par un écrit ou police authentique ou sous seing privé. Les additions, modifications et applications au contrat primitif sont rédigées en la même forme et constituent des avenants.
+Avant la signature de la police ou de l’avenant, l’assuré et l’assureur peuvent être engagés l’un à l’égard de l’autre par la remise d’une note de couverture.

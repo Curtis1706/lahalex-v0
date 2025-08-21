@@ -1,0 +1,1 @@
+Article 340 : Est punie de cinq (5) ans à vingt (20) ans de réclusion et d’une amende de deux cent mille (200 000) à cinq cent mille (500 000) francs CFA, toute personne qui, par des rituelles, des cérémonies dangereuses, des pratiques malsaines, donne la mort à un nouveau-né.

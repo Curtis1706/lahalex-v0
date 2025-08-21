@@ -1,0 +1,1 @@
+Le préfet exerce, dans les conditions fixées par la présente loi, la tutelle des collectivités territoriales et veille, à ce titre, à la légalité de leurs actes.

@@ -1,0 +1,2 @@
+L'hypothèque peut être étendue, à titre accessoire, aux pièces de rechange correspondant au type de l'aéronef hypothéqué, à condition que ces pièces soient individualisées.
+Les pièces de rechange visées au 1 alinéa du présent article correspondent à toutes les parties composant l'aéronef : moteurs, hélices, appareils radio, instruments, équipements, garnitures, partie de ces différents éléments et puis, généralement, tous objets de quelque nature que ce soit, conservés en vue du remplacement des pièces composant l'aéronef, sous réserve de leur individualisation.

@@ -1,0 +1,6 @@
+Sont exonérés de l’impôt sur le revenu des capitaux mobiliers :
+1) les distributions de réserves effectuées sous la forme d’augmentation de capital ;
+2) les bénéfices incorporés directement au capital.
+2) Toutefois, lorsque ces distributions sont consécutives à une réduction de capital non motivée  par  des  pertes  sociales  ou  à  une  opération  quelconque  impliquant  le remboursement direct ou indirect en franchise de l’impôt sur le revenu des capitaux mobiliers réalisé depuis moins de dix (10) ans, elles ne peuvent bénéficier de l’exemption édictée par le paragraphe 1 ci-dessus que si et dans la mesure où l’augmentation de capital en résultant excède le capital remboursé.
+3) Lorsque les distributions sont suivies dans le délai de dix (10) ans d’une réduction de
+capital non motivé par des pertes sociales ou d’une opération quelconque impliquant remboursement direct ou indirect du capital en franchise d’impôt, elles sont déchues du bénéfice de l’exemption pour une somme égale au montant du remboursement et les droits  exigibles  doivent  être  acquittés  au  plus  tard  le  10  du  mois  suivant  celui  de l’événement qui a entraîné la déchéance.

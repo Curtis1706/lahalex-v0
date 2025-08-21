@@ -1,0 +1,2 @@
+Le silence observé à l’issue des délais indiqués aux articles 80 et 81, vaut décision implicite de rejet.
+Le demandeur qui entend contester une décision de rejet peut déposer une plainte auprès de la Haute Autorité de l’Audiovisuel et de la Communication dans les cinq (05) jours francs à compter de la date de la notification ou du constat de la décision implicite de rejet, sous peine de forclusion.

@@ -1,0 +1,1 @@
+Dans les cas prévus au présent livre ou par les lois et règlements particuliers, sont ou peuvent être confisqués soit les choses saisies en contravention, soit les choses produites par la contravention, soit les matières ou les instruments qui ont servi ou étaient destinés à la commettre.

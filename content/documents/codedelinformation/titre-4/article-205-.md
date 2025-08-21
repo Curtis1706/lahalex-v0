@@ -1,0 +1,1 @@
+Les correspondances postales ou télégraphiques circulant à découvert ne peuvent contenir aucune allégation de fait, aucune imputation, aucune information, aucun dessin, aucune illustration de nature à troubler l’ordre public, à porter atteinte à l’honneur et à la réputation des individus.

@@ -1,0 +1,1 @@
+Article 381 : Si l’attentat à la pudeur est tenté ou consommé sur la personne d’un enfant de moins de treize (13) ans, la peine est portée au double.

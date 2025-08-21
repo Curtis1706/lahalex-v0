@@ -1,0 +1,1 @@
+L'autorité de tutelle, assistée de ses services techniques compétents au niveau départemental, se prononce, en tout état de cause, sur les actes budgétaires reçus dans les délais prévus par la présente loi. Passé ces délais, ils sont réputés approuvés et exécutoires.

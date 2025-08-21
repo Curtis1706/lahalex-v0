@@ -1,0 +1,2 @@
+Les procès-verbaux, dûment signés, établis par les officiers et agents énumérés à l’article 660 du présent code, font foi jusqu’à preuve du contraire.
+Ils ne sont pas soumis à l’affirmation. Ils sont, dans tous les cas, transmis par leurs auteurs à l’autorité maritime.

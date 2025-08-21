@@ -1,0 +1,2 @@
+Prescription
+La garantie d'éviction cesse lorsque l'acquéreur s'est laissé condamner par un jugement en dernier ressort, ou dont l'appel n'est plus recevable, sans avoir appelé le vendeur, si celui-ci prouve qu'il existait des moyens suffisants de faire rejeter la demande.

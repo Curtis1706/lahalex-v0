@@ -1,0 +1,3 @@
+Dans les trois (3) mois qui suivent la fin de la tutelle, le compte définitif est rendu soit au mineur lui-même devenu majeur ou émancipé, soit à ses héritiers ; le tuteur en avance les frais, la charge en incombe au pupille.
+Toutes dépenses suffisamment justifiées et dont l’objet est utile sont remboursées au tuteur.
+Si le tuteur vient à cesser ses fonctions avant la fin de la tutelle, il rend un compte récapitulatif de sa gestion au nouveau tuteur, lequel ne peut l’accepter qu'avec l’autorisation du conseil de famille, sur les observations du subrogé-tuteur.

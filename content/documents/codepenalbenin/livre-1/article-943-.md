@@ -1,0 +1,17 @@
+Sont également assimilés à la pratique de prix illicite :
+- le fait de mettre en vente des produits non commercialisables ou n’ayant pas été assujettis aux droits d’entrée ;
+- la mise en vente avant homologation de produits, denrées, soumis à cette obligation ;
+- la pratique des ventes jumelées ;
+- le refus de vente si l’acheteur est de bonne foi solvable et si la demande est conforme aux us et coutumes commerciales ;
+- la non délivrance de facture, l’emploi de fausses factures ou de factures falsifiées ;
+- le fait pour tout vendeur de ne pas garder trace dans sa comptabilité des opérations commerciales réalisées ;
+- tout manquement caractérisé aux règles de publicité, toute publicité mensongère ;
+- la pratique des prix imposés ;
+- toutes mesures discriminatoires de vente dans les prix ou les quantités ;
+- toutes les actions concertées, conventions, ententes expresses ou tacites, coalitions sous quelque forme et pour quelque cause que ce soit ayant pour objet ou pouvant avoir pour effet d’entraver le plein exercice de la concurrence en faisant obstacle à l’établissement des prix de revient ou de vente ou en favorisant une hausse artificielle des prix ;
+- les activités d’une entreprise ou d’un groupe d’entreprises occupant sur le marché intérieur une position dominante, qui ont pour objet ou pouvant avoir pour effet d’entraver le fonctionnement normal du marché, sauf les ententes et positions dominantes qui résultent de l’application d’un texte législatif ou réglementaire ou dont les auteurs sont en mesure de justifier qu’elles ont pour objet d’améliorer et d’étendre les débouchés de la production ou d’assurer le développement du progrès économique par la rationalisation ou la spécialisation ;
+- la dissimulation de stocks destinés à la vente dans un lieu autre que commercial ;
+- le fait d’exercer ou de tenter d’exercer une action en vue de faire échec à la réglementation des prix ;
+- le refus de communication de documents à première réquisition des agents habilités à cet effet ;
+- la dissimulation de documents ;
+- l’opposition active ou passive à l’action des agents chargés du contrôle, ainsi que les injures et voies de fait commises à leur égard, sans préjudice des sanctions prévues au code pénal.

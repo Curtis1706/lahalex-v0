@@ -1,0 +1,1 @@
+L'enquête menée en vertu des dispositions de la présente loi donne accès sans restriction et sans délai à tous les éléments de preuve sans être empêchée par des enquêtes ou des procédures administratives ou judiciaires.

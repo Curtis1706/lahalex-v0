@@ -1,0 +1,1 @@
+La femme ne peut servir d’objet publicitaire dégradant pour son image jusqu’à mettre à mal la décence de manière à provoquer le mépris, le ridicule ou le discrédit à son égard.

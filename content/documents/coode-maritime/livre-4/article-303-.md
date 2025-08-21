@@ -1,0 +1,1 @@
+Par affrètement au voyage, le fréteur met, en tout ou en partie, un navire désigné, à la disposition de l’affréteur en vue de transporter, à une ou plusieurs destinations, des cargaisons fixées par la charte-partie.

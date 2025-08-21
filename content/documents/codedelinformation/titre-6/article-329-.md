@@ -1,0 +1,4 @@
+Les agents des administrations compétentes en matière de lutte contre la concurrence déloyale et la publicité mensongère ou trompeuse, sont habilités à constater, au moyen de procès-verbaux, les infractions à la présente loi.
+Ils peuvent exiger de l’annonceur, la mise à leur disposition de tous les éléments justifiant les allégations, les indications ou les présentations publicitaires.
+Ils peuvent également exiger de l’annonceur, de l’agence de publicité ou du responsable du support, la mise à leur disposition des messages publicitaires diffusés.
+Les procès-verbaux dressés en application du présent article sont transmis au procureur de la République territorialement compétent.

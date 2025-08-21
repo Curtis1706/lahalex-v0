@@ -1,0 +1,2 @@
+Hors des lieux où l’armateur a son principal établissement ou une agence, le capitaine pourvoit aux besoins normaux du navire et de l’expédition et peut, en cas d’urgence, prendre au nom de l’armateur toutes dispositions conservatoires des droits de celui-ci, des passagers et des chargeurs.
+Le capitaine est alors réputé, dans ce dernier cas, avoir agi comme gérant d’affaires de l’armateur, des passagers et des chargeurs.

@@ -1,0 +1,1 @@
+Lorsque l’accident ou l'incident est survenu hors du territoire national à un aéronef immatriculé en République du Bénin, la déclaration prévue à l'article 129 de la présente loi est faite par les dirigeants de la compagnie exploitant l'aéronef auprès du Bureau enquêtes-accidents.

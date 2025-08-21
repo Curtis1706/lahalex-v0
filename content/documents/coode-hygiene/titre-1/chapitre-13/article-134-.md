@@ -1,0 +1,1 @@
+Les autorités communales assurent l'entretien et la sécurité des cimetières.

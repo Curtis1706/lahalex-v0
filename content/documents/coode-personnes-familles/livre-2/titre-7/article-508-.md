@@ -1,0 +1,4 @@
+Le tuteur administre et agit en cette qualité du jour de sa nomination si elle a été faite en sa présence, sinon, du jour où elle lui a été notifiée.
+Dans les dix (10) jours qui suivent, il requerra la levée des scellés s’ils ont été apposés et fera procéder immédiatement à l’inventaire des biens du mineur en présence du subrogé-tuteur. Expédition de cet inventaire sera transmise au président du conseil de famille.
+A défaut d’inventaire dans le délai prescrit, le subrogé-tuteur saisira le président du conseil de famille à l’effet d’y faire procéder, à peine d’être solidairement responsable avec le tuteur de toutes les condamnations qui pourraient être prononcées au profit du pupille.
+Le défaut d’inventaire autorise le pupille à faire la preuve de la valeur et de la consistance de ses biens par tous moyens, même la commune renommée.

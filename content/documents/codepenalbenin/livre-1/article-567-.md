@@ -1,0 +1,4 @@
+Dans chacun des deux cas suivants, les coupables sont punis de la réclusion criminelle à temps de dix (10) ans à vingt (20) ans :
+- si l’arrestation a été exécutée avec un faux costume, sous un faux nom ou sur un faux ordre de l’autorité publique ;
+- si l’individu a été arrêté ou enlevé à l’aide d’un moyen de transport motorisé ou si la victime a été menacée de mort.
+La peine est celle de la réclusion criminelle à perpétuité si les personnes arrêtées, détenues ou séquestrées ont été soumises à des tortures corporelles et à des actes de barbarie ou sont décédées du fait de la détention ou de la séquestration.

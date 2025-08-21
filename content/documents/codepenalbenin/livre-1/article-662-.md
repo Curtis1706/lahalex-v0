@@ -1,0 +1,1 @@
+En cas de pluralité d’infractions au contrôle des changes, les confiscations et autres condamnations pécuniaires sont prononcées pour chacune des infractions dûment établies, sans préjudice des pénalités encourues pour d’autres infractions.

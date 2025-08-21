@@ -1,0 +1,17 @@
+{
+  "id": "article-8-",
+  "title": "Article  8 :",
+  "numero": "8 ",
+  "document": "code-general-impots-2025",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-1",
+    "section-2"
+  ],
+  "navigation": {
+    "parent": "section-2",
+    "previous": "article-7-",
+    "next": "article-9-"
+  }
+}

@@ -1,0 +1,2 @@
+7. Réfugiés En prenant les mesures de contrôle prévues par la présente Convention, la
+Puissance détentrice ne traitera pas comme étrangers ennemis, exclusive- ment sur la base de leur appartenance juridique à un état ennemi, les réfu- giés qui ne jouissent en fait de la protection d’aucun gouvernement.

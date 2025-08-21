@@ -1,0 +1,5 @@
+La mise en liberté peut aussi être demandée en tout état de cause par tout inculpé, prévenu ou accusé, ou leur avocat, et en toute période de la procédure.
+En cas de pourvoi et jusqu’à l’arrêt de la cour suprême, il est statué sur la demande de mise en liberté par la chambre des libertés et de la détention.
+Si le pourvoi était formé contre un arrêt de la cour d’assises, il est statué sur la détention par la chambre des libertés et de la détention.
+En cas de décision d’incompétence et généralement dans tous les cas où aucune juridiction n’est saisie, la chambre des libertés et de la détention connaît des demandes de mise en liberté.
+Dans tous les cas prévus aux alinéas précédents, il est statué sur simple requête en chambre de conseil, le ministère public entendu. Des observations écrites peuvent être fournies à l’appui de sa requête par l’inculpé, le prévenu ou l’accusé.

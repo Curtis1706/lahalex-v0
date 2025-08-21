@@ -1,0 +1,10 @@
+Engagements des Etats
+1. Les Etats membres s’engagent à :
+1) Protéger, préserver et améliorer l’environnement naturel de l’espace communautaire et coopérer en cas de désastre naturel ;
+1) Adopter aux plans national et régional, des politiques, stratégies et programmes appropriés pour faire contribuer, de manière durable, la gestion des ressources de leurs écosystèmes forestiers et de leur biodiversité à la préservation de l’environnement, d’une part, à l’intégration régionale, à leurs développements économiques et à l’amélioration des conditions de vie de leurs populations, d’autre part.
+2. En vue de réaliser les objectifs visés au paragraphe 1 ci-dessus, les Etats membres s'engagent à :
+1) harmoniser leurs politiques et stratégies nationales de gestion des ressources forestières et de leurs biodiversités tout en tenant compte concomitamment des besoins et des contextes nationaux respectifs et des engagements pris vis-à-vis des accords régionaux et internationaux, dont l’Agenda 2063 et l’Accord de Paris sur le climat ;
+1) développer des plans ou dispositifs de lutte contre l’érosion, la déforestation, la dégradation des paysages forestiers, la désertification, les périls acridiens et les autres fléaux, notamment la sécheresse et la dégradation des sols et des ressources en eau ;
+1) créer des cadres adéquats de concertation et de coordination des secteurs ayant des interactions et impacts dans l’exploitation et/ou la lutte contre l’exploitation illicite des ressources des écosystèmes naturels ;
+1) promouvoir la formation et le perfectionnement des cadres dans le but de développer les ressources humaines et les capacités technologiques endogènes nécessaires à la mise en valeur structurelle et inclusive des ressources et services environnementaux des écosystèmes forestiers ;
+1) développer et à harmoniser des stratégies et des plans de gestion des risques de catastrophes et d’adaptation au changement climatique.

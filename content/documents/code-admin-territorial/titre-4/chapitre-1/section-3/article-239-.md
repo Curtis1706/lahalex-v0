@@ -1,0 +1,1 @@
+Tout décès de chef de village ou de quartier de ville est porté à la connaissance du maire par le chef d'arrondissement. Ce dernier informe immédiatement le préfet.

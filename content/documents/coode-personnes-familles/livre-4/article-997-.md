@@ -1,0 +1,1 @@
+L’autorité parentale sur l’enfant mineur s’exerce selon la loi désignée en vertu des dispositions de l’article 993 du présent code.

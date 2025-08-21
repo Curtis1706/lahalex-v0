@@ -1,0 +1,1 @@
+Pour chacune de ces fonctions, en cas d'absence de majorité absolue lors du 1 tour de scrutin, il est procédé, en cas d'égalité de voix, à autant de tours qu'il sera nécessaire pour que le candidat ayant obtenu le plus grand nombre de suffrages exprimés soit déclaré élu.

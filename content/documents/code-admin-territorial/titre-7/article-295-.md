@@ -1,0 +1,1 @@
+Le conseil de communauté est composé de membres des conseils de supervision des communes membres. Ils portent le titre de « conseiller communautaire

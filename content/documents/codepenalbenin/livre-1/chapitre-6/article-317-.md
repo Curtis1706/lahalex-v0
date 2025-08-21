@@ -1,0 +1,1 @@
+Quiconque pour se rédimer lui-même ou affranchir autrui d’un service public quelconque a fabriqué sous le nom d’un médecin, d’un chirurgien ou de toute personne exerçant une profession médicale ou paramédicale, un certificat de maladie ou d’infirmité, est puni d’un emprisonnement de un (01) an au moins et de trois (03) ans au plus.

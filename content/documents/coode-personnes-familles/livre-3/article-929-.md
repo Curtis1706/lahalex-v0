@@ -1,0 +1,1 @@
+Lorsqu’il y a un héritier réservataire et que le testateur n’a disposé, à titre universel, que d’une portion de la quotité disponible, le légataire est tenu d’acquitter les legs particuliers par contribution avec les héritiers.

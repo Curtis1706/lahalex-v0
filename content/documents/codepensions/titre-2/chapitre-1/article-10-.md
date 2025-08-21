@@ -1,0 +1,1 @@
+Les réductions d’âge visées à l’article 5 comme la bonification de service prévu à l'article précédent ne peuvent être imposées d’office aux ayants droits en dehors des garanties prévues aux articles 2 et 4 ci-dessus.

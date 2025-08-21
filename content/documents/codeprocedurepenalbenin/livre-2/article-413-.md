@@ -1,0 +1,1 @@
+Il est tenu au greffe de chaque juridiction, un registre spécial où sont mentionnés, pour chaque contravention, la nature et la date de la décision, le montant de l’amende prononcée et, s’il y a lieu, le recouvrement effectué dans les circonstances sus indiquées.

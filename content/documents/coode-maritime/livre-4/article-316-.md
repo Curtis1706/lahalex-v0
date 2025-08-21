@@ -1,0 +1,1 @@
+En cas d’arrêt définitif du navire en cours de route par suite d’un événement non imputable au fréteur, l’affréteur peut décharger la marchandise à ses frais, mais il doit le fret entier stipulé pour le voyage.

@@ -1,0 +1,16 @@
+{
+  "id": "article-30-",
+  "title": "Article 30 : Compétences",
+  "numero": "30 ",
+  "document": "cima-code-assurances-benin",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-4"
+  ],
+  "navigation": {
+    "parent": "chapitre-4",
+    "previous": "article-29-",
+    "next": "article-31-"
+  }
+}

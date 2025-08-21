@@ -1,0 +1,1 @@
+Les héritiers qui auraient diverti ou recelé les effets d’une succession sont déchus de la faculté d’y renoncer ; ils demeurent héritiers purs et simples, nonobstant leur renonciation, sans pouvoir prétendre à aucune part dans les objets divertis ou recelés.

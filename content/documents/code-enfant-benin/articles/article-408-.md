@@ -1,0 +1,1 @@
+Article 408 : Toutes les matières qui n’ont pas été réglées par la présente loi continuent d’être régies par les lois et règlements particuliers.

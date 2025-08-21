@@ -1,0 +1,1 @@
+Le secrétaire exécutif est institutionnellement placé sous le maire, sans aucun préjudice à ses attributions propres.

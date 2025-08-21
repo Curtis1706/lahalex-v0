@@ -1,0 +1,16 @@
+{
+  "id": "article-62-",
+  "title": "Article 62 : Frais et redevances",
+  "numero": "62 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "section-5"
+  ],
+  "navigation": {
+    "parent": "section-5",
+    "previous": "article-61-",
+    "next": "article-63-"
+  }
+}

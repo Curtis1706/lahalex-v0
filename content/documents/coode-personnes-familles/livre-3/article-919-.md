@@ -1,0 +1,1 @@
+Les dispositions testamentaires sont ou universelles ou à titre universel, ou à titre particulier.

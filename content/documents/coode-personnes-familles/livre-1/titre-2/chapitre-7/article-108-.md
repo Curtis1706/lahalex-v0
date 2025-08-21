@@ -1,0 +1,1 @@
+Les actions en contestation ou en réclamation d’état relèvent de la compétence exclusive des juridictions civiles ; elles sont portées devant le tribunal de première instance.

@@ -1,0 +1,1 @@
+Les dispositions prises dans un testament en faveur d’un conjoint du testateur deviennent caduques si le mariage avec ce conjoint est dissous par le divorce aux torts et griefs exclusifs de ce dernier.

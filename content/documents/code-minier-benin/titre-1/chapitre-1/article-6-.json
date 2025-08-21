@@ -1,0 +1,15 @@
+{
+  "id": "article-6-",
+  "title": "ARTICLE 6 : Dans le cas où plusieurs personnes physiques ou morales",
+  "numero": "6 ",
+  "document": "code-minier-benin",
+  "path": [
+    "titre-1",
+    "chapitre-1"
+  ],
+  "navigation": {
+    "parent": "chapitre-1",
+    "previous": "article-5-",
+    "next": "article-7-"
+  }
+}

@@ -1,0 +1,5 @@
+Élaboration de la politique nationale d’accès/service universel
+La politique nationale d’accès/service universel est élaborée par le Ministre chargé des communications électroniques et de la poste qui :
+- identifie les objectifs d’accès/service universel appropriés et réalistes qui tiennent compte des spécificités de l’accès universel, de l’accès public aux Technologies de l’Information et de la Communication (TIC), du service universel et des services postaux et financiers de base ;
+- élabore la réglementation et les pratiques d’accès/service universel afin de prendre, pour le secteur privé, des mesures incitatives visant l’atteinte des objectifs de l’accès universel aux services de communication ;
+- réalise régulièrement des études afin d’identifier les besoins et de modifier en conséquence la politique, la réglementation et les pratiques d’accès/service universel.

@@ -1,0 +1,1 @@
+Le consignataire du navire est personnellement responsable des droits de pilotage, conformément aux dispositions du présent code ainsi que des droits et taxes de port ou quai non acquittés par le capitaine.

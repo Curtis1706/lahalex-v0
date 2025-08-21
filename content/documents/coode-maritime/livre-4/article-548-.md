@@ -1,0 +1,1 @@
+Dans le cas d’une assurance cumulative ou d’assurances successives et lorsque la bonne foi de l’assuré est établie, chaque contrat produit son effet à concurrence de l’entière valeur de la chose assurée et en proportion de la somme pour laquelle il s’applique.

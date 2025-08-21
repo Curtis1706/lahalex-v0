@@ -1,0 +1,14 @@
+{
+  "id": "article-222-",
+  "title": "Article 222 : L'organisme national en charge de l'aviation civile est chargé de mener les inspections nécessaires, notamment celles des installations et infrastructures, des aérodromes, des services de navigation aérienne, des aéronefs, des centres de maintenance et des centres de formation aéronautique, hangars, ateliers, aires de trafic, installations des dépôts de carburant, bureaux des exploitants, zones de manutention du fret, installations situées à l'intérieur ou à l'extérieur du périmètre d'un aéroport ou en zone de sûreté à accès réglementé d’un aéroport et utilisées pour des opérations aéroportuaires ou des opérations commerciales liées à un aéroport ou au profit ou pour le compte d’un exploitant d'aéronef, afin de veiller au maintien de la sécurité de l'exploitation, conformément aux dispositions de la Convention relative à l’aviation civile internationale.",
+  "numero": "222 ",
+  "document": "coode-aviation",
+  "path": [
+    "livre-7"
+  ],
+  "navigation": {
+    "parent": "livre-7",
+    "previous": "article-221-",
+    "next": "article-223-"
+  }
+}

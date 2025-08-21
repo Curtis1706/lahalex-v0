@@ -1,0 +1,6 @@
+Le tribunal pour enfants est composé du juge des enfants et de deux (02) assesseurs.
+Les assesseurs sont choisis sur une liste établie par arrêté du ministre en charge de la justice et nommés pour trois (03) ans. Ils doivent être âgés de plus de trente (30) ans, jouir de leurs droits civiques, n’avoir jamais été condamnés et s’être signalés par l’intérêt qu’ils portent aux questions de l’enfance et par leur compétence.
+En cas d’absence ou d’empêchement des assesseurs, il est pourvu sur-le-champ à leur remplacement par le président du tribunal pour enfants.
+Le tribunal pour enfants statue après avoir entendu le mineur, les majeurs co-inculpés, les témoins, les parents, les tuteurs ou gardiens, les parties civiles, les assistants sociaux et délégués à la surveillance éducative des mineurs, le ministère public et l’avocat.
+Le président du tribunal pour enfants peut, si l’intérêt supérieur du mineur l’exige, dispenser ce dernier de comparaître à l’audience.
+Ce mineur est représenté par son avocat, ses parents, tuteurs ou représentant légal. La décision est contradictoire.

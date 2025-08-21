@@ -1,0 +1,1 @@
+Lorsqu’un acte contient, de la part des parties ou de l’une d’elles, élection de domicile pour l’exécution de ce même acte dans un lieu autre que celui du domicile réel, les significations, demandes et poursuites ou autres, relatives à cet acte peuvent être faites au domicile convenu et devant le juge de ce domicile élu.

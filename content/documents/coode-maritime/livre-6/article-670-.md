@@ -1,0 +1,1 @@
+Le droit commun est applicable aux infractions, règles de compétence, procédures, instructions ou autres non prévues ou non précisées dans le présent code.

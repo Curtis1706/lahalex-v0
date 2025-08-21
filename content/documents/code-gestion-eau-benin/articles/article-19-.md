@@ -1,0 +1,1 @@
+Article 19 : Nonobstant les dispositions des articles 17 et 18 ci-dessus, l’eau recueillie dans un ouvrage privé et destinée à un usage domestique ne fait pas partie du domaine public. Il en est de même des piscines, des étangs, des citernes et des bassins d’agrément construits ou aménagés par les personnes privées sur un fonds privé.

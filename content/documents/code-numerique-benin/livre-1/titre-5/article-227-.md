@@ -1,0 +1,3 @@
+Expertises techniques, économiques et juridiques
+L’Autorité de régulation peut procéder à des consultations ou faire appel à des expertises techniques, économiques ou juridiques. Elle veille dans ce cas au respect de la confidentialité de la procédure et des informations et documents communiqués par les parties.
+Les frais engendrés par ces consultations et expertises peuvent être mis à la charge de la partie perdante, sauf si les circonstances particulières du différend justifient qu'ils soient mis à la charge d'une autre partie ou partagés entre les parties.

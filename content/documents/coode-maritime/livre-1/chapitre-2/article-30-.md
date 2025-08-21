@@ -1,0 +1,1 @@
+Les modalités de délimitation du domaine public maritime sont précisées par décret pris en conseil des ministres.

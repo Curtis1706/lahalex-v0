@@ -1,0 +1,1 @@
+Si les risques de guerre ont été assurés, le délaissement du navire peut encore avoir lieu en cas de capture, saisie ou arrêt par ordre de puissance, si le navire n’a pas encore été remis à la disposition de l’assuré dans le délai de trois (03) mois après la notification de l’événement faite par l’assuré à l’assureur.

@@ -1,0 +1,1 @@
+Les modalités pratiques d’application des dispositions de l’article ci-dessus sont fixées par décret

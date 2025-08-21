@@ -1,0 +1,2 @@
+Sous réserve des dispositions du 7e de l'article 6 ci-dessus le temps passé dans toute position ne comportant pas d'accomplissement de services effectifs ne peut entrer en ligne de compte dans la constitution du droit à pension sauf dans le cas où l'Agent Permanent de l'Etat se trouve placé en position régulière d'absence pour cause de maladie en vertu des dispositions statu­taires qui lui sont applicables.
+C - BONIFICATIONS

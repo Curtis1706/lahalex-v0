@@ -1,0 +1,1 @@
+Le père ou la mère qui, sciemment, a transporté et/ou a remis son enfant en vue de la traite de celui-ci ou qui a aidé d’une façon quelconque le trafiquant, encourt un emprisonnement de six (06) mois à cinq (05) ans.

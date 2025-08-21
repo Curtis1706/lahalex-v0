@@ -1,0 +1,3 @@
+Article 332 : Autres opérations d’assurances : privilège
+L’actif mobilier des entreprises soumises au contrôle par l’article 300 est affecté par un privilège général au règlement de leurs engagements envers les assurés et bénéficiaires de contrats. Ce privilège prend rang selon l’ordre établi par les lois de chaque État membre.
+Pour les entreprises étrangères, l’actif mobilier représentant les provisions techniques et les cautionnements est affecté par un privilège spécial au règlement de leurs opérations d’assurances directes pour les contrats souscrits ou exécutés sur le territoire de l’État membre.

@@ -1,0 +1,1 @@
+Les sommes, rentes ou émoluments quelconques dus par un assureur, à raison ou à l’occasion du décès de l’assuré, ne donnent ouverture aux droits de mutation par  décès,  suivant  le  degré  de  parenté  existant  entre  l’assuré  et  le  bénéficiaire  des sommes, que dans la mesure ou le capital est réputé par la loi faire partie de la succession.

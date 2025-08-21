@@ -1,0 +1,2 @@
+Les orientations objet du débat sont présentées par le secrétaire exécutif de la commune ou le secrétaire permanent de l’établissement public de coopération intercommunale.
+Le débat d'orientation budgétaire s'organise dans les mêmes conditions qu’une session mais ne donne pas lieu à un vote. Il fait l'objet d'un procès-verbal.

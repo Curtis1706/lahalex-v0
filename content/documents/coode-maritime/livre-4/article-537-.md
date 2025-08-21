@@ -1,0 +1,5 @@
+L’assureur est affranchi de toutes réclamations pour les causes suivantes et leurs conséquences :
+- vice propre de l’objet assuré, vers et vermines, influence de la température, piquage des liquides en fût, sauf s’il est établi qu’ils résultent d’un des risques garantis par la police ;
+- dommages et pertes matériels résultant des amendes, confiscation, mise sous séquestre, réquisition, mesures sanitaires ou de désinfection, ou consécutifs à des violations de blocus, actes de contrebande, de commerce prohibé ou clandestin ;
+- dommages-intérêts ou autres indemnités à raison de toutes saisies ou cautions données pour libérer les objets ;
+- préjudices qui ne constituent pas des dommages ou pertes matériels atteignant directement l’objet assuré, tels que chômage, retard, différence de cours, frais quelconques de quarantaine, d’hivernage, de surestaries ou de magasinage, préjudices résultant de prohibition, d’exportation ou d’importation, ainsi que tous obstacles apportés à l’exploitation ou à l’opération commerciale de l’assuré.

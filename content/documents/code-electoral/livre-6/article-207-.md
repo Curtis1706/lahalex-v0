@@ -1,0 +1,2 @@
+Les dispositions nouvelles concernant l'élection et le mandat du président de la République entrent en vigueur à l'occasion de l'élection du président de la République en 2021.
+Le mandat du président de la République en exercice s'achève à la date de prestation de serment du président de la République élu en 2021 à 00H.

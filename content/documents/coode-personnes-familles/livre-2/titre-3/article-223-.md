@@ -1,0 +1,4 @@
+Le consentement de chacun des époux n’est valable que s’il émane d’une volonté libre, éclairée et exempte de vice.
+Ce consentement doit porter non seulement sur la rupture du lien conjugal, mais aussi sur la situation des époux quant aux biens qu’ils possèdent et sur le sort réservé aux enfants issus du mariage.
+Les époux ont toute liberté pour régler ces questions, sous réserve du respect dû à l’ordre public et aux bonnes mœurs. Sont considérées comme relevant de l’ordre public, toutes les dispositions concernant l’intérêt des enfants, telles que les obligations qui incombent aux parents quant à l’entretien, la garde, l’éducation, la sécurité et la moralité des enfants.
+Le divorce par consentement mutuel ne peut être demandé au cours des deux premières années du mariage.

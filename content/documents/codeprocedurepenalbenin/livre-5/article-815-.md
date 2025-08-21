@@ -1,0 +1,1 @@
+En cas de condamnation à l’emprisonnement ou à l’amende, si le condamné n’a pas fait l’objet de condamnation antérieure à l’emprisonnement pour crime ou délit de droit commun, les cours et tribunaux peuvent ordonner, par le même jugement et par décision motivée, qu’il sera sursis totalement ou partiellement à l’exécution de la peine principale.

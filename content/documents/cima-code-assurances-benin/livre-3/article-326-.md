@@ -1,0 +1,5 @@
+Agrément
+Les entreprises soumises au contrôle par l’article 300 ne peuvent commencer leurs opérations qu’après avoir obtenu un agrément. Toutefois, en ce qui concerne les opérations d’acceptation en réassurance, cet agrément n’est pas exigé.
+L’agrément est accordé sur demande de l’entreprise, pour les opérations d’une ou plusieurs branches d’assurance. L’entreprise ne peut pratiquer que les opérations pour lesquelles elle est agréée.
+Toute entreprise réalisant des opérations définies au 1) de l’article 300 ne peut pratiquer en même temps les opérations définies au 2) du même article.
+Les sociétés qui à la date d’application du présent Code pratiquent à la fois les opérations définies aux 1) et 2) de l’article 300 ont un délai de trois ans pour se mettre en conformité avec les prescriptions des deux alinéas ci-dessus.

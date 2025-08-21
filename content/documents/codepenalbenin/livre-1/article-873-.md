@@ -1,0 +1,3 @@
+Quiconque réalise, en violation d’une mesure d’interdiction ou d’une règle édictée en application des lois et règlements, une action susceptible de porter atteinte à l’équilibre d’un écosystème ou d’affecter sa biodiversité, est puni d’une peine d’emprisonnement de six (06) mois à douze (12) mois et d’une amende de cinq millions (5.000.000) de francs CFA à dix millions (10.000.000) de francs CFA ou de l’une de ces deux peines seulement.
+En cas de récidive, les peines susvisées sont portées au double.
+La juridiction peut ordonner la cessation de l’acte incriminé, le cas échéant, sous astreinte, et la remise en l’état des lieux. En cas d’inexécution des travaux de remise en l’état, le ministre peut y procéder d’office, aux frais de la personne condamnée.

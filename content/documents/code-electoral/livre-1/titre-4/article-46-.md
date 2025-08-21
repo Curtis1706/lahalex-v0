@@ -1,0 +1,2 @@
+La campagne électorale est déclarée ouverte par le président de la CENA. Elle dure quinze (15) jours.
+Elle s'achève, la veille du scrutin à zéro (00) heure, soit vingt-quatre (24) heures avant le jour du scrutin.

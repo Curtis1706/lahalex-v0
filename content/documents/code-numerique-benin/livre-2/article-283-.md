@@ -1,0 +1,2 @@
+Entité délivrant les moyens d’identification électronique
+Au plus tard un (01) an après l'entrée en vigueur du présent code, est désigné par décret pris en Conseil des Ministres sur proposition du Ministre chargé des communications électroniques la ou les autorités compétentes responsables de la délivrance des moyens d’identification électronique en République du Bénin.

@@ -1,0 +1,1 @@
+Les conseillers communautaires sont installés dans leurs fonctions par le préfet du département du lieu du siège de l'établissement public de coopération intercommunale.

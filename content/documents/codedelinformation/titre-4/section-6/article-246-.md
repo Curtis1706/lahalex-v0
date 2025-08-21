@@ -1,0 +1,1 @@
+L’installation et l’exploitation des stations terriennes de télédiffusion à usage privé, même à titre expérimental, font l’objet d’une autorisation délivrée par la Haute Autorité de l’Audiovisuel et de la Communication dans les conditions fixées par la présente loi.

@@ -1,0 +1,2 @@
+Lorsque le chargeur a fait sciemment une déclaration inexacte de la nature ou de la valeur des marchandises, le transporteur n’encourt aucune responsabilité pour les pertes ou dommages survenus à ces marchandises.
+Le chargeur est également tenu responsable, lorsqu’il a fait sciemment une déclaration inexacte sur les marchandises qu’il a fait transporter, des pertes ou dommages survenus du fait de ces marchandises, au cours du transport et des opérations de manutention.

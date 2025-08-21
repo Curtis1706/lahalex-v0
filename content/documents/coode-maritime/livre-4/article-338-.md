@@ -1,0 +1,2 @@
+Sont à la charge de l’affréteur, l’entretien du navire, les réparations et remplacements autres que ceux visés à l’article 335 du présent code.
+L’affréteur recrute l’équipage, paie ses gages, sa nourriture et les dépenses annexes. 2 supporte tous les frais d’exploitation. 2 assure le navire et doit justifier tant de la police d’assurance que du paiement des primes si le fréteur le requiert.

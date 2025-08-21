@@ -1,0 +1,3 @@
+Le secrétaire exécutif entretient une relation hiérarchique ou fonctionnelle avec le maire, selon qu’il s'agisse respectivement d'attributions propres du maire ou d'attributions propres du secrétaire exécutif.
+Dans la mise en œuvre de ses attributions propres, le maire s'appuie sur les services administratifs et techniques placés sous l’autorité du secrétaire exécutif.
+Sous réserve de celles qui seraient manifestement illégales et pour lesquelles le secrétaire exécutif est délié du devoir d’obéissance, le secrétaire exécutif assure l'exécution des instructions du maire par le biais des services administratifs et techniques communaux. Dans les cas où il opposerait un refus à des instructions du maire, ce refus doit être motivé et écrit.

@@ -1,0 +1,1 @@
+Le rejet dans la nature des huiles de vidange est interdit. Les garages devront disposer de bacs à huiles aménagés à cet effet. En aucun cas, leurs activités ne devront déborder dans la voie publique.

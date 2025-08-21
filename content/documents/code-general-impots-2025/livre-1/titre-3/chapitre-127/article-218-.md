@@ -1,0 +1,2 @@
+(Modifié par la loi de finances pour 2023) Les entreprises dont le chiffre d’affaires est supérieur ou égal à un milliard (1 000 000 000) de francs CFA sont soumises à une taxe annuelle dénommée taxe de développement du sport.
+Le produit de cette taxe est reversé à un fonds dédié au développement du sport. Les modalités de gestion de ces ressources sont fixées par arrêté conjoint des Ministres chargés des sports et des finances.

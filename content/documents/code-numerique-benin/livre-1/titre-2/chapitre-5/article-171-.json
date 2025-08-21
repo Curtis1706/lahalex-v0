@@ -1,0 +1,16 @@
+{
+  "id": "article-171-",
+  "title": "Article 171 : Exonération des sanctions pécuniaires",
+  "numero": "171 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "chapitre-5"
+  ],
+  "navigation": {
+    "parent": "chapitre-5",
+    "previous": "article-170-",
+    "next": "article-172-"
+  }
+}

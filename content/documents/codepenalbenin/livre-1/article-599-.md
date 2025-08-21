@@ -1,0 +1,1 @@
+La même peine est appliquée si le coupable s’est fait payer ou a eu pour but de se faire payer une rançon par les personnes sous l’autorité ou la surveillance desquelles le mineur était placé.

@@ -1,0 +1,1 @@
+Chaque poste de vote est doté d'un ou de plusieurs isoloirs. Les isoloirs doivent assurer le secret du vote de chaque électeur. Ils doivent être placés de telle manière que le citoyen puisse cacher son vote.

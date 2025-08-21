@@ -1,0 +1,1 @@
+En cas de vente de droits successifs faite sans fraude à l’un des héritiers à ses risques et périls, par ses cohéritiers ou par l'un d’eux, le cessionnaire qui a payé au-delà de sa part n'a pas de recours contre le (s) cédant(s).

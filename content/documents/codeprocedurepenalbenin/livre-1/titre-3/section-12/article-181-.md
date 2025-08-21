@@ -1,0 +1,5 @@
+Lorsque les opérations d’expertise sont terminées, les experts rédigent un rapport qui doit contenir la description desdites opérations ainsi que leurs conclusions. Les experts attestent avoir personnellement accompli les opérations qui leur sont confiées et signent leur rapport.
+En cas de pluralité d’experts, si ceux-ci sont d’avis différents ou s’ils ont des réserves à formuler sur des conclusions communes, chacun d’eux indique son opinion ou ses réserves en les motivant.
+Le rapport et les scellés ou leurs résidus sont déposés entre les mains du greffier de la juridiction qui a ordonné l’expertise ; ce dépôt est constaté par procès-verbal.
+Toute violation du délai fixé pour le dépôt du rapport d’expertise peut être sanctionnée d’une peine d’amende de dix mille (10 000) francs par jour de retard.
+Ladite peine est prononcée, sur réquisition du procureur de la République, par le président du tribunal ou le juge par lui délégué.

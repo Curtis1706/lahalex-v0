@@ -1,0 +1,4 @@
+Encourent une peine d’emprisonnement de six (06) mois à deux (02) ans et une amende de cinq cent mille (500.000) francs CFA à cinq millions (5.000.000) de francs CFA ou l’une de ces deux peines seulement, les dirigeants sociaux qui, sciemment, lorsque les capitaux propres de la société deviennent inférieurs à la moitié du capital social du fait des pertes constatées dans les états financiers de synthèse :
+1. n’ont pas fait convoquer dans les quatre (04) mois qui suivent l’approbation des états financiers de synthèse ayant fait apparaître ces pertes, l’assemblée générale extraordinaire à l’effet de décider s’il y a lieu, la dissolution anticipée de la société ;
+2. n’ont pas déposé au greffe du tribunal chargé des affaires commerciales, inscrit au registre du commerce et du crédit mobilier et publié dans un journal habilité à recevoir les annonces légales, la dissolution anticipée de la société.
+PARAGRAPHES 7 : DES INFRACTIONS RELATIVES A LA LIQUIDATION DES SOCIETES

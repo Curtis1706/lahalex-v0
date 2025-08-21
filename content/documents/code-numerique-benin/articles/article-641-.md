@@ -1,0 +1,4 @@
+Délais de mise en conformité
+Les licences, autorisations et déclarations visées au Livre I et délivrées avant l’entrée en vigueur de la présente loi, devront être mises en conformité avec elle dans un délai de six (06) mois à compter de la date de son entrée en vigueur.
+Les personnes physiques ou morales visées et/ou dont l’activité relève des dispositions de la présente loi, bénéficient d’un délai transitoire de six (06) mois à compter de sa date d’entrée en vigueur, pour se mettre en conformité avec toutes les dispositions nouvelles prévues par la présente loi.
+Ce délai est allongé, le cas échéant, de durées égales aux délais nécessaires aux autorités publiques béninoises pour assurer la mise en conformité des personnes visées à l’alinéa précédent, aux dispositions nouvelles prévues par la présente loi, notamment dans les cas où l’autorisation, la réponse ou la réaction des autorités publiques béninoises est attendue, aux fins de mise en conformité.

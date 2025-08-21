@@ -1,0 +1,2 @@
+Les personnes protégées inculpées ou condamnées par les tribunaux en Remise territoire occupé seront remises, à la fin de l’occupation, avec le dossier les des détenus concernant, aux autorités du territoire libéré. à la fin de
+l’occupation

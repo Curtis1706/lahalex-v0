@@ -1,0 +1,2 @@
+Article 241 : Requête de médiation pénale
+La demande peut être faite par l’enfant ou la victime, ou leur représentant légal respectif. Elle doit intervenir au plus tard dans les vingt-quatre (24) heures qui suivent la présentation de l’enfant au parquet.

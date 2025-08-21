@@ -1,0 +1,3 @@
+Simplification de l’obligation de déclaration
+Pour les catégories les plus courantes de traitement des données à caractère personnel dont la mise en œuvre n’est pas susceptible de porter atteinte à la vie privée ou aux libertés et droits fondamentaux, l'Autorité établit et publie des normes destinées à simplifier l’obligation de déclaration.
+Ces normes peuvent prendre en compte les codes de conduite homologués par l'Autorité.

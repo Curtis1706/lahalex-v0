@@ -1,0 +1,1 @@
+Les testaments mentionnés à l’article précédent deviennent nuls six (6) mois après que les communications auront été rétablies dans le lieu où le testateur se trouve, ou six (6) mois après qu’il aura passé dans un lieu où elles ne sont point interrompues.

@@ -1,0 +1,2 @@
+Est puni de la réclusion criminelle à temps de cinq (05) ans à dix
+(10) ans et d’une amende de cinquante millions (50.000.000) à cent millions (100.000.000) de francs CFA, quiconque menace, dans des circonstances qui rendent la menace crédible de commettre un des actes prévus à l’article 218 ci-dessus.

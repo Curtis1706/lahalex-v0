@@ -1,0 +1,1 @@
+Les modalités, les conditions d’apposition des affiches et les normes techniques sont déterminées par les mairies.

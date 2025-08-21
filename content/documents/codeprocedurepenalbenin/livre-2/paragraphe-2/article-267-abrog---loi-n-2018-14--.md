@@ -1,0 +1,1 @@
+Il est établi, annuellement, pour chaque tribunal, dans le ressort de chaque cour d’assises, une liste du jury criminel.

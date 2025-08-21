@@ -1,0 +1,2 @@
+Tout membre de poste de vote qui délivre ou tente de délivrer un procès-verbal et/ou une feuille de dépouillement non conforme aux résultats du vote est passible des peines prévues au code pénal.
+Sont passibles des mêmes peines, les représentants de candidats, de partis politiques, d'organisations non gouvernementales, qui se seraient fait délivrer un procès-verbal ou une feuille de dépouillement non conforme aux résultats réellement sortis des urnes.

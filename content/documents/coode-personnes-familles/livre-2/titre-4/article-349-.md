@@ -1,0 +1,2 @@
+Lorsque l'adoption est rendue impossible par le refus abusif de consentement de l'un des parents qui s’est notoirement désintéressé de l’enfant au risque d’en compromettre la moralité, la santé ou l'éducation, et que l’autre consent à l'adoption, ou bien est décédé, ou est inconnu, ou se trouve dans l’impossibilité de manifester sa volonté, la personne qui se propose d'adopter l’enfant peut, en présentant la requête d'adoption, demander au tribunal de passer outre et d'autoriser celle-ci.
+Il en est de même en cas de refus abusif de consentement du conseil de famille.

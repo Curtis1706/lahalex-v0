@@ -1,0 +1,1 @@
+Lorsque des mineurs de moins de dix-huit (18) ans doivent être gardés à vue, ils le sont sous le contrôle effectif du procureur de la République et dans des locaux distincts de ceux des adultes.

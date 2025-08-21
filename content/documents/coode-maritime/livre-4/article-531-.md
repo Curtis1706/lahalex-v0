@@ -1,0 +1,2 @@
+La clause ‘’franc d’avarie’’ affranchit l’assureur de toutes avaries, soit communes, soit particulières, excepté dans les cas qui donnent ouverture au délaissement.
+La clause ‘’franc d’avaries particulières sauf…’’ affranchit l’assureur de toutes avaries particulières, à l’exception de celles causées par l’un des événements énumérés à la clause et des cas qui donnent ouverture au délaissement.

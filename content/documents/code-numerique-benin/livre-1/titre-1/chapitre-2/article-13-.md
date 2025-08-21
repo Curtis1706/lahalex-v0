@@ -1,0 +1,2 @@
+Accès ouvert à internet
+Les utilisateurs ont le droit d’accéder et de diffuser les informations et contenus légaux de leur choix, et d’utiliser et fournir des applications, services et équipements terminaux de leur choix, quel que soit le lieu où ils se trouvent et où se trouve le fournisseur, et quel que soit le lieu, l’origine ou la destination de l’information communiquée, du contenu diffusé, de l’application utilisée ou du service fourni ou utilisé.

@@ -1,0 +1,3 @@
+Article 8 : Intérêt supérieur de l’enfant
+Dans toutes les décisions qui concernent l’enfant, qu’elles soient le fait des institutions publiques ou privées de protection sociale, des juridictions, des autorités administratives ou des organes législatifs, l’intérêt supérieur de l’enfant est la considération primordiale.
+Par intérêt supérieur de l’enfant, on entend la primauté à sauvegarder et à privilégier, à tout prix, les droits de l’enfant dans le sens de son épanouissement, de son bien-être, de sa croissance et de sa préparation à la vie active d’adulte mature et responsable.

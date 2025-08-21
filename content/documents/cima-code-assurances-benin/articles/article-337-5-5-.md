@@ -1,0 +1,2 @@
+Article 337-5-5 : Solvabilité ajustée d’une entreprise d’assurance d’un pays tiers
+Pour le calcul de la solvabilité ajustée, la Commission Régionale de Contrôle des Assurances peut prendre en compte les montants minimaux de marge de solvabilité et les éléments de marge disponible admissibles par les autorités d’un Etat non membre de la CIMA dans lequel une entreprise d’assurance ou de réassurance a son siège et dont les exigences de solvabilité sont considérées comme équivalentes.

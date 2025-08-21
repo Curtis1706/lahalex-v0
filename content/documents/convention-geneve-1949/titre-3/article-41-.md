@@ -1,0 +1,5 @@
+Affichage de Dans chaque camp, le texte de la présente Convention, de ses annexes et le la Conven- contenu de tous accords spéciaux prévus à l’article 6, seront affichés, dans la
+tion, des langue des prisonniers de guerre, à des emplacements où ils pourront être règlements consultés par tous les prisonniers. Ils seront communiqués, sur demande, et ordres aux prisonniers qui se trouveraient dans l’impossibilité de prendre connais- concernant sance du texte affiché.
+les prison- Les règlements, ordres, avertissements et publications de toute nature relatifs niers à la conduite des prisonniers de guerre leur seront communiqués dans une
+langue qu’ils comprennent ; ils seront affichés dans les conditions prévues ci- dessus, et des exemplaires en seront transmis à l’homme de confiance. Tous
+les ordres et commandements adressés individuellement à des prisonniers devront également être donnés dans une langue qu’ils comprennent.

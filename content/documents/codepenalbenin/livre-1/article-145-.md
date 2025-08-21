@@ -1,0 +1,1 @@
+Sauf dispositions contraires, les peines prononcées pour un crime se prescrivent par dix (10) ans révolus à compter de la date à laquelle la décision de condamnation est devenue définitive.

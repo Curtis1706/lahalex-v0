@@ -1,0 +1,1 @@
+La partie civile, en cas d’acquittement ou d’absolution, peut demander réparation du dommage résultant de la faute de l’accusé, telle qu’elle résulte des faits qui sont l’objet de l’accusation.

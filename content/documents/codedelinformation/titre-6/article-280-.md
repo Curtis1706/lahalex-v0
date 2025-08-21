@@ -1,0 +1,6 @@
+Il est interdit de rendre compte d’un procès en diffamation dans les cas prévus à l’alinéa 1 de l’article 275 de la présente loi ainsi que des débats de procès en déclaration de paternité, de divorce, en séparation de corps et de procès d’avortement.
+Cette interdiction ne s’applique pas aux jugements qui peuvent toujours être publiés.
+Dans toutes les affaires pendantes, les cours et les tribunaux peuvent interdire le compte rendu du procès.
+Il est également interdit de rendre compte des délibérations des jurys des cours et tribunaux.
+Pendant le cours des débats, et à l’intérieur des salles d’audience des tribunaux administratifs ou judiciaires, l’emploi de tout appareil d’enregistrement sonore ou d’images, du téléphone mobile ou de tous autres moyens de communication est interdit, sauf autorisation donnée, à titre exceptionnel par le ministre en charge de la justice. La même interdiction est applicable à l’emploi des appareils photographiques.
+Toute infraction aux dispositions ci-dessus sera punie d’une amende de un million (1 000 000) à cinq millions (5 000 000) de francs CFA.

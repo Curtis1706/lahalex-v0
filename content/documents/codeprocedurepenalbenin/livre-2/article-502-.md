@@ -1,0 +1,1 @@
+Le jugement prononcé par défaut est signifié conformément aux dispositions des articles 538 et suivants du présent code, par le ministère public.

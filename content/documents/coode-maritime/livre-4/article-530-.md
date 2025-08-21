@@ -1,0 +1,2 @@
+L’assureur répond également des dommages et pertes matériels survenus par le fait ou par la faute du capitaine et des membres et l’équipage, quelles que soient leur nature et leur gravité.
+En cas de faute intentionnelle de ceux-ci, l’assurance devient inopérante.

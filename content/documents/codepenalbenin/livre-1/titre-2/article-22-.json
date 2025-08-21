@@ -1,0 +1,15 @@
+{
+  "id": "article-22-",
+  "title": "Article 22 : Est complice d’un crime ou d’un délit, la personne qui par don, promesse, menace, ordre, abus d’autorité ou de pouvoir aura provoqué une infraction ou donné des instructions pour la commettre.",
+  "numero": "22 ",
+  "document": "codepenalbenin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-21-",
+    "next": "article-23-"
+  }
+}

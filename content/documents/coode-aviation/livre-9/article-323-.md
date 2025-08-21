@@ -1,0 +1,1 @@
+Tout commandant de bord d’un aéronef qui, sachant qu'il vient de causer ou d'occasionner un accident à la surface, n’a pas averti sans délai les autorités de l'aéroport le plus proche avec lequel il peut entrer en communication et a aussi tenté d’échapper à sa responsabilité pénale ou civile éventuelle, est puni des peines relatives au délit de fuite prévues par la loi.

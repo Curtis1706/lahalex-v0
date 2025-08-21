@@ -1,0 +1,16 @@
+{
+  "id": "article-178-",
+  "title": "Article 178 :",
+  "numero": "178 ",
+  "document": "code-admin-territorial",
+  "path": [
+    "titre-4",
+    "chapitre-1",
+    "section-3"
+  ],
+  "navigation": {
+    "parent": "section-3",
+    "previous": "article-177-",
+    "next": "article-179"
+  }
+}

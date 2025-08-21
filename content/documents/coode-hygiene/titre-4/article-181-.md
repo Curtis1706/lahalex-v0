@@ -1,0 +1,1 @@
+Les vingt-cinq pour cent (25%) versés au ministère en charge de l'environnement concourent au fonctionnement de la police environnementale.

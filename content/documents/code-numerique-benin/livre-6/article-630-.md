@@ -1,0 +1,2 @@
+Obstacle à une enquête
+Est puni d'un emprisonnement d’un (01) an à cinq (05) ans et d’une amende de un million (1 000 000) à vingt millions (20 000 000) de francs CFA ou de l’une de ces deux peines seulement, quiconque aura fait obstacle au déroulement des enquêtes prévues au sens des articles 634 et 635 du présent code ou refusé de fournir des informations ou documents y afférents, sans préjudice de l’application du code des douanes.

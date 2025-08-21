@@ -1,0 +1,2 @@
+Par le contrat de passage, l’armateur s’oblige à transporter par mer, sur un trajet défini, un voyageur qui s’oblige à acquitter le prix du passage.
+Les dispositions qui suivent s’appliquent aussi au transport gratuit effectué par une entreprise de transport maritime mais non au transport des passagers clandestins.

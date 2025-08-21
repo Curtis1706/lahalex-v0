@@ -1,0 +1,2 @@
+La demande en divorce est présentée par les époux en personne, par écrit au tribunal civil de droit commun.
+Elle peut également être introduite soit par les conseils respectifs des époux, soit par un conseil choisi d’un commun accord.

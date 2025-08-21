@@ -1,0 +1,1 @@
+Est réputé maison habitée, tout bâtiment, tout logement, toute loge, cabane, même mobile qui, sans être actuellement habité, est destiné à l’habitation, et tout ce qui en dépend, comme cour, basse-cour, granges, écuries, édifices qui y sont enfermés quel qu’en soit l’usage et quand bien même ils auraient une clôture particulière dans la clôture ou enceinte générale.

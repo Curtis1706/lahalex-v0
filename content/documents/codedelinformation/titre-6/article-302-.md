@@ -1,0 +1,1 @@
+Le défaut du dépôt légal prévu à l’article 182 de la présente loi sera puni d’une amende de cinquante mille (50 000) à cinq cent mille (500 000) francs CFA.

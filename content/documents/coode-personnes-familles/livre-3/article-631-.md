@@ -1,0 +1,4 @@
+La succession du conjoint prédécédé doit les aliments au conjoint survivant qui est dans le besoin. Le délai pour les réclamer est d’un an à partir du décès et se prolonge, en cas de partage, jusqu’à son achèvement.
+La pension alimentaire est prélevée sur l’hérédité. Elle est supportée par tous les héritiers et, en cas d’insuffisance, par tous les héritiers particuliers proportionnellement à leurs émoluments.
+Les aliments ne sont accordés que dans la proportion du besoin de celui qui les réclame et de la fortune de celui qui les doit.
+Lorsque celui qui fournit ou celui qui reçoit les aliments est replacé dans un état tel que l’un ne puisse plus en donner ou que l’autre n’en ait plus besoin en tout ou partie, la décharge ou réduction peut en être demandée.

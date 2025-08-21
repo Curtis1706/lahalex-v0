@@ -1,0 +1,1 @@
+Les actes de procédure, les décisions et les registres relatifs aux élections communales, législatives, et à l'élection du président de la République sont dispensés de timbre, de l'enregistrement et des frais de justice.

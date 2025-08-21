@@ -1,0 +1,1 @@
+Tout rejet ou incinération dans les zones maritimes sous souveraineté ou juridiction béninoise est interdit à l’exception des déversements éventuels de substances effectuées après autorisation et sous contrôle de l’autorité compétente dans le but de réduire ou de combattre la pollution.

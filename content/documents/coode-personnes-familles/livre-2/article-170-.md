@@ -1,0 +1,4 @@
+Après deux années d’application du régime matrimonial de droit commun ou conventionnel, les époux pourront convenir, dans l’intérêt de la famille, de le changer par acte authentique qui sera soumis à l’homologation du tribunal civil de leur domicile.
+Le tribunal recueillera s’il y a lieu l’avis des parents qui avaient consenti au mariage.
+La modification n’aura d’effet entre les parties que du jour du jugement et à l’égard des tiers, que du jour où il en aura été fait mention en marge de l'acte de mariage, à moins que dans l’acte passé avec un tiers les époux n'aient déclaré avoir modifié leur régime matrimonial.
+Les créanciers de l’un des époux ne pourront pas demander de leur chef la modification de son régime matrimonial. Ils pourront cependant, s’il est fait fraude à leurs droits, former opposition contre le jugement homologuant la modification du régime matrimonial.

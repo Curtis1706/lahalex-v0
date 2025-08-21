@@ -1,0 +1,2 @@
+L'Agence nationale d'identification des personnes transmet à la Commission électorale nationale autonome, les statistiques relatives à la liste électorale informatisée cent quatre-vingts (180) jours avant la date du scrutin, puis la liste électorale informatisée, au plus tard soixante (60) jours avant la date du 1 scrutin de l'année électorale.
+La liste électorale informatisée est publiée quinze (15) jours avant sa transmission à la Commission électorale nationale autonome.

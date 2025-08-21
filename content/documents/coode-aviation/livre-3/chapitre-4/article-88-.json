@@ -1,0 +1,15 @@
+{
+  "id": "article-88-",
+  "title": "Article 88 :",
+  "numero": "88 ",
+  "document": "coode-aviation",
+  "path": [
+    "livre-3",
+    "chapitre-4"
+  ],
+  "navigation": {
+    "parent": "chapitre-4",
+    "previous": "article-87-",
+    "next": "article-89-"
+  }
+}

@@ -1,0 +1,1 @@
+Le taux, les modalités de liquidation et de paiement des allocations familiales sont fixés par décret pris en conseil des Ministres.

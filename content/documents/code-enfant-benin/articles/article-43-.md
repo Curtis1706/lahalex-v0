@@ -1,0 +1,2 @@
+Article 43 : Responsabilités civiles de l'enfant
+Tout enfant a des devoirs envers lui-même, ses parents, sa famille, sa communauté, la société, l’Etat, la communauté internationale et toute autre communauté légalement reconnue.

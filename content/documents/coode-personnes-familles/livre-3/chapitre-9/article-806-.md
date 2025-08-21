@@ -1,0 +1,2 @@
+Le procès-verbal de liquidation peut être attaqué par les personnes visées à l’article précédent dans les trois (3) mois à compter du jour de sa notification aux héritiers.
+L’action est portée devant le président du tribunal du lieu d'ouverture de la succession.

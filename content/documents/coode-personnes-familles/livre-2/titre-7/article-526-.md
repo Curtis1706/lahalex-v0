@@ -1,0 +1,1 @@
+La tutelle prend fin par l’émancipation, la majorité ou le décès du mineur.

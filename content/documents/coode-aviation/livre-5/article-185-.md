@@ -1,0 +1,1 @@
+La circulation des personnes ou des véhicules dans certaines zones du domaine aéroportuaire est autorisée par voie réglementaire.

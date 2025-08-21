@@ -1,0 +1,3 @@
+Les vols commis sur les chemins publics ou dans les wagons des chemins de fer servant au transport des voyageurs, des correspondances de bagages ou de marchandises toutes les fois qu’ils formeront un convoi, emporteront la peine de la réclusion criminelle à perpétuité lorsqu’ils auront été commis avec deux des circonstances visées au deuxième alinéa de l’article 629 du présent code.
+Ils emporteront la peine de la réclusion criminelle à temps de dix (10) ans à vingt (20) ans lorsqu’ils auront été commis avec une seule de ces circonstances.
+Dans les autres cas, la peine sera celle de la réclusion criminelle à temps de cinq (05) ans à dix (10) ans.

@@ -1,0 +1,1 @@
+Toute personne qui découvre une épave ou un élément d'aéronef en fait la déclaration sans délai auprès du Bureau enquêtes-accidents ou de l'autorité locale ou militaire la plus proche.

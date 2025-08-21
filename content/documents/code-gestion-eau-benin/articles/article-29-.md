@@ -1,0 +1,3 @@
+Article 29 : Dans le cadre de la gestion de l’eau, l’Etat et les collectivités territoriales décentralisées assurent, à tous les niveaux, la mise en place des structures appropriées et la participation des acteurs concernés.
+Des décrets pris en conseil des ministres déterminent, en tant que de besoin, lesdites structures en fixant leurs compositions, leurs attributions et leur mode de fonctionnement.
+CHAPITRE VI : DE LA PLANIFICATION

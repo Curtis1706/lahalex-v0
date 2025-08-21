@@ -1,0 +1,2 @@
+Tout titulaire d'une licence détient un carnet de vol dont le modèle est défini par voie réglementaire et sur lequel sont inscrites la nature et la durée des vols.
+Le carnet est communiqué aux services de contrôle et à l'autorité compétente sur leur demande, notamment au moment de la délivrance, du renouvellement ou de la validation de la licence ou au moment de la délivrance des qualifications.

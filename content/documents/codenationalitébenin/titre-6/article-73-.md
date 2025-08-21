@@ -1,0 +1,1 @@
+Lorsque la nationalité béninoise se perd autrement que par l'un des modes prévus par la présente loi, la preuve résulte de l'établissement des faits et des actes qui ont pour conséquence la perte de la nationalité béninoise.

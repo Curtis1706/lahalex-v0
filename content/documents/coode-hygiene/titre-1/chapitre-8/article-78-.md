@@ -1,0 +1,2 @@
+L'eau des puits est tenue en état constant de propreté. Sa désinfection est assurée périodiquement sous le contrôle des services compétents.
+La désinfection est à la charge des propriétaires ou des exploitants.

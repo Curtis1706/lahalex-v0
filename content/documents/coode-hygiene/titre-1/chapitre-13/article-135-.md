@@ -1,0 +1,1 @@
+La création des cimetières, ainsi que les modalités de leur utilisation, les conditions de leur sécurité et entretien sont fixées par voie réglementaire.

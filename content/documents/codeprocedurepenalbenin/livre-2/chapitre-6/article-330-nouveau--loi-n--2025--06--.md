@@ -1,0 +1,2 @@
+A l’audience de la formation du tribunal de première instance statuant en matière criminelle, le président ordonne au greffier de lire le dispositif du réquisitoire, de l'ordonnance ou de l'arrêt de renvoi.
+A l'audience de la cour d'appel statuant en matière criminelle, le président ordonne au greffier la lecture du dispositif du jugement du tribunal statuant en matière criminelle dont appel.

@@ -1,0 +1,4 @@
+Il est institué des servitudes spéciales dites servitudes aéronautiques pour assurer la sécurité de la circulation des aéronefs.
+Il s'agit :
+1. des servitudes de dégagement qui emportent interdiction de créer ou obligation de supprimer les obstacles susceptibles de constituer un danger pour la circulation aérienne ou nuisibles au fonctionnement des dispositifs de sécurité établis dans l'intérêt de la navigation aérienne ;
+2. des servitudes de balisage qui emportent obligation de pourvoir certains obstacles ainsi que certains emplacements, de dispositifs visuels ou radioélectriques destinés à signaler leur présence aux navigateurs aériens ou à en permettre l'identification ou de supporter l’installation de ces dispositifs.

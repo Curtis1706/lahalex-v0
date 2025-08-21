@@ -1,0 +1,3 @@
+Nonobstant toute saisie, le juge peut autoriser le départ du navire pour un ou plusieurs voyages déterminés.
+Pour obtenir cette autorisation, le requérant doit fournir une caution fixée par le tribunal en fonction de la créance, des frais et accessoires.
+Le tribunal fixe le délai dans lequel le navire devra regagner le port de la saisie. 2 peut ultérieurement modifier ce délai pour tenir compte des circonstances.

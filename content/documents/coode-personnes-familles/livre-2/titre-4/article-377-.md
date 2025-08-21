@@ -1,0 +1,2 @@
+La révocation fait cesser pour l’avenir tous les effets de l’adoption.
+Les biens donnés par l’adoptant à l’adopté retournent à celui-ci ou à ses héritiers, dans l’état où ils se trouvent à la date de la révocation sans préjudice des droits acquis par les tiers.

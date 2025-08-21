@@ -1,0 +1,1 @@
+Il est interdit de produire, de manipuler, d'étaler ou de vendre les denrées alimentaires aux abords immédiats de toute source de pollution.

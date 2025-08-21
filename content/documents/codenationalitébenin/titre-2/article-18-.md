@@ -1,0 +1,3 @@
+Est béninois, l'enfant né d'un père ou d'une mère de nationalité béninoise.
+L'enfant auquel a été attribuée la nationalité béninoise à raison de la filiation conserve cette nationalité si la filiation cesse d'être établie après qu'il a atteint l'âge de dixhuit (18) ans.
+Si la filiation cesse d'être établie avant l'âge de dixhuit (18) ans, les actes passés avant que la filiation cesse d'être établie et dont la validité est subordonnée à la possession de la nationalité béninoise, ne peuvent être contestés pour le seul motif que l'intéressé n'avait pas cette nationalité. Il en est de même des droits acquis avant la même date.

@@ -1,0 +1,2 @@
+Toute personne humaine, sans distinction aucune notamment de race, de couleur, de sexe, de religion, de langue, d’opinion politique ou de toute autre opinion, d’origine nationale ou sociale, de fortune, de naissance ou de toute autre situation, est sujet de droit, de sa naissance à son décès.
+Le droit à la vie, à l’intégrité physique et morale, est reconnu à l’enfant dès sa conception sous réserve des cas exceptés par la loi.

@@ -1,0 +1,2 @@
+a fin d’assurer une distribution régulière de secours collectifs aux internés de leur lieu d’internement et, éventuellement, de faire face aux besoins que provoquerait l’arrivée de <a name="_page221_x0.00_y651.97"></a>nouveaux contingents d’internés, les Comités d’internés seront autorisés à constituer et à
+maintenir des réserves suffisantes de secours collectifs. Ils disposeront, à cet effet, d’entre- pôts adéquats ; chaque entrepôt sera muni de deux serrures, le Comité des internés possé- dant les clés de l’une et le commandant du lieu d’internement celles de l’autre.

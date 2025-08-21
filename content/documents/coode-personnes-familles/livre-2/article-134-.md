@@ -1,0 +1,2 @@
+Tant que la mainlevée de l’opposition n’a pas été notifiée, l'officier de l’état civil ne peut procéder à la célébration du mariage, sous peine d’une amende civile de cent mille (100.000) francs au plus prononcée par le tribunal de première instance sur réquisition du procureur de la République.
+Nulle autre opposition ne pourrait être faite à un mariage lorsqu’il a été donné mainlevée d’une première opposition.

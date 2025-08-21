@@ -1,0 +1,1 @@
+L’officier de l’état civil qui célèbre le mariage doit en dresser acte sur le registre des mariages et en faire mention en marge de l’acte de naissance de chacun des époux, conformément aux dispositions des articles 49 et 50.

@@ -1,0 +1,3 @@
+Un acte réglementaire fixe les modalités d'application des dispositions des articles 236 et 239 de la présente loi.
+Cet acte réglementaire tient compte des contraintes propres à chacune des catégories de personnes visées à l'article 239 de la présente loi. Il peut prévoir que le fret ou les colis postaux ainsi que les correspondances et le transport de la presse sont soumis à des règles particulières ou sont exemptés de procédures de sûreté.
+Cet acte réglementaire détermine également les prescriptions que les entreprises ou organismes visés à l'article 239 de la présente loi respectent en matière de réception et de contrôle pour éviter des dépôts et des expéditions anonymes.

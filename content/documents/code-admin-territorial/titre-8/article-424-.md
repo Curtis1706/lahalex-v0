@@ -1,0 +1,2 @@
+Le budget de la commune ou de l'établissement public de coopération intercommunale est proposé par l'ordonnateur, adopté par le conseil de supervision et validé par le conseil communal ou le conseil de communauté selon le cas.
+Il est approuvé par l'autorité de tutelle.

@@ -1,0 +1,2 @@
+L'adoption plénière confère de plein droit la nationalité béninoise à un enfant étranger adopté par un Béninois ou une Béninoise.
+Toutefois, l'enfant a la faculté de la répudier dans les douze (12) mois suivant sa majorité.

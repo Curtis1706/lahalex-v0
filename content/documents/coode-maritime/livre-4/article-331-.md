@@ -1,0 +1,2 @@
+Le fret n’est pas dû pour les périodes où le navire est commercialement inutilisable par l’effet d’un événement imputable au fréteur ou par suite d’un arrêt de puissance nationale ou étrangère.
+Dans les cas d’interruption définitive et de suspension, les calculs se font par jour. Toute journée commencée est due.

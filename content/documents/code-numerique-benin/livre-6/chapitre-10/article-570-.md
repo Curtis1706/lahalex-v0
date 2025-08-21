@@ -1,0 +1,2 @@
+Extorsion
+Est puni de un (01) an à cinq (05) ans d'emprisonnement et de cinq cent mille (500 000) francs CFA à cinq millions (5 000 000) de francs CFA d'amende, le fait d'extorquer par violence, menace de violence ou contrainte, soit une signature, un engagement ou une renonciation, soit la révélation d'un secret, soit la remise de fonds, de valeurs ou d'une chose quelconque au moyen d’un ou sur un réseau de communication électronique ou un système informatique.

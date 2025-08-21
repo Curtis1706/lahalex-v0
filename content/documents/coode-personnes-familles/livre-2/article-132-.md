@@ -1,0 +1,5 @@
+Durant le délai de publication, lorsqu’un fait susceptible de constituer un empêchement au mariage en vertu des articles 120 à 125 est porté à la connaissance de l’officier de l’état civil compétent pour procéder à la célébration, il doit surseoir à celle-ci et en aviser dans les soixante-douze (72) heures le procureur de la République.
+Celui-ci peut soit demander à l’officier de l’état civil de passer outre, soit former opposition au mariage.
+Le procureur de la République doit former opposition lorsqu’un empêchement est porté directement à sa connaissance.
+Le ministère public notifie dans les quarante-huit (48) heures son opposition par voie administrative aux futurs époux et à l’officier de l’état civil qui en dresse un acte. L’absence d’opposition dans le mois de l’avis donné au parquet permet à l’officier de l’état civil de passer outre.
+Après une année révolue, l’acte d’opposition cesse de produire effet ; il peut être renouvelé.

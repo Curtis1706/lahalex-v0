@@ -1,0 +1,1 @@
+Est puni d’un emprisonnement de trois (03) mois à douze (12) mois et d’une amende de cent mille (100.000) francs CFA à cinq cent mille (500.000) francs CFA, quiconque divulgue les secrets économiques, industriels, commerciaux ou professionnels ou les procédés commerciaux relatives aux substances classées précurseurs par les lois ou les règlements.

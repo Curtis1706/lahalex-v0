@@ -1,0 +1,2 @@
+Quiconque a contrevenu aux dispositions de l’alinéa 1er de l’article précédent ainsi que de son dernier alinéa est puni d’un emprisonnement de un (01) mois à trois (03) mois et d’une amende de vingt-cinq mille (25.000) francs CFA à un million (1.000.000) de francs CFA ou de l’une de ces deux peines seulement.
+En cas d’accident, la peine encourue est de quatre (04) mois à un (01) an d’emprisonnement et de cinquante (50.000) francs CFA à deux millions (2.000.000) de francs CFA d’amende ou de l’une de ces deux peines seulement.

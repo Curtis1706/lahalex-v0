@@ -1,0 +1,5 @@
+Législation La législation pénale du territoire occupé demeurera en vigueur, sauf dans la
+pénale mesure où elle pourra être abrogée ou suspendue par la Puissance occupante
+1. Généralités si cette législation constitue une menace pour la sécurité de cette Puissance
+ou un obstacle à l’application de la présente Convention. Sous réserve de cette dernière considération et de la nécessité d’assurer l’administration ef- fective de la justice, les tribunaux du territoire occupé continueront à fonc- tionner pour toutes les infractions prévues par cette législation.
+La Puissance occupante pourra toutefois soumettre la population du territoire occupé à des dispositions qui sont indispensables pour lui permettre de remplir ses obligations découlant de la présente Convention, et d’assurer l’administra- tion régulière du territoire ainsi que la sécurité soit de la Puissance occupante, soit des membres et des biens des forces ou de l’administration d’occupation ainsi que des établissements et des lignes de communications utilisés par elle.

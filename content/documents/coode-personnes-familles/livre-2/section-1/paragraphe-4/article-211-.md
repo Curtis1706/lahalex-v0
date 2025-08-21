@@ -1,0 +1,1 @@
+La séparation judiciaire de biens entraîne liquidation des intérêts des époux et place les conjoints sous le régime de la séparation de biens tel qu’il est réglé par les articles 185 et suivants du présent code.

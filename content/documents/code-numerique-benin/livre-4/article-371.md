@@ -1,0 +1,4 @@
+Contrats conclus entre professionnels
+Dans le cadre de contrats conclus entre professionnels, les parties peuvent, par des dispositions particulières, aménager les effets et/ou les obligations liées à la garantie d’éviction. Elles peuvent même convenir que le vendeur ne sera soumis à aucune garantie.
+Une telle exonération ne peut être applicable en cas de fait personnel du vendeur.
+Dans le même cas de stipulations d'exemption de garantie, le vendeur, en cas d'éviction, est tenu à la restitution du prix, à moins que l'acquéreur n'ait connu lors de la vente le danger de l'éviction ou qu'il n'ait acquis le bien à ses risques et périls.

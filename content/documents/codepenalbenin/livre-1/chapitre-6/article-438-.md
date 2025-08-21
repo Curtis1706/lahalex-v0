@@ -1,0 +1,2 @@
+Quiconque s’est rendu coupable des soustractions, enlèvements ou destructions mentionnés dans l’article précédent, est puni de la réclusion criminelle à temps de cinq (05) ans à dix (10) ans.
+Si le crime est l’œuvre du dépositaire lui-même, il sera puni de la réclusion criminelle à temps de dix (10) ans à vingt (20) ans.

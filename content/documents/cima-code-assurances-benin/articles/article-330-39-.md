@@ -1,0 +1,2 @@
+Article 330-39 : Pertes atteignant la moitié des emprunts contractés
+Dans le cas où, du fait de pertes constatées dans les documents comptables, l’actif net devient inférieur à la moitié du montant du fonds d’établissement, le Conseil d’Administration est tenu de provoquer la réunion de l’assemblée générale délibérant comme il est dit à l’article 330-25, à l’effet de statuer sur la question de savoir s’il y a lieu de prononcer la dissolution de la société.

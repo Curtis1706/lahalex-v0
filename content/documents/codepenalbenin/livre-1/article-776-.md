@@ -1,0 +1,1 @@
+Encourent une peine d’emprisonnement de un (01) an à trois (03) ans et une amende de un million (1.000.000) de francs CFA à dix millions (10.000.000) de francs CFA sans préjudice des réparations civiles, les dirigeants sociaux qui n’ont pas provoqué la désignation des commissaires aux comptes de la société ou ne les ont pas convoqués aux assemblées générales.

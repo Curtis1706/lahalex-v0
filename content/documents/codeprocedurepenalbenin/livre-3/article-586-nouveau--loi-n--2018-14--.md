@@ -1,0 +1,1 @@
+En matière criminelle, l'ordonnance ou l’arrêt de renvoi du juge d'instruction ou de la chambre de l’instruction, devenu définitif, fixe la compétence du tribunal statuant en matière criminelle et couvre, s'il en existe, les vices de la procédure antérieure.

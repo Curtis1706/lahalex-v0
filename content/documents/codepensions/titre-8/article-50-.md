@@ -1,0 +1,4 @@
+Le paiement des arrérages a lieu sans production d'un Certificat de Vie, à la caisse du comptable assignataire, sur présen­tation par le pensionné ou son représentant légal du titre de pension et contre remise du coupon échu sur lequel l'intéressé donne la quittance en présence de l'Agent chargé du paiement.
+Le paiement des arrérages peut également être effectué par virement à un compte bancaire ou postal ; dans ce cas il est subor­donne à la production trimestrielle, les premiers Janvier, Avril, Juillet et Octobre de chaque année d'un certificat de vie attestant que le pensionné est vivant.
+Le représentant légal doit produire une déclaration attestant l'existence du ou des titulaires de la pension.
+Les actes périodiques (Certificats de non remariage, et de non concubinage pour veuves, les Certificats de vie, de scolarité ou d'apprentissage des orphelins) ne seront fournis que le 1er Avril de chaque année.

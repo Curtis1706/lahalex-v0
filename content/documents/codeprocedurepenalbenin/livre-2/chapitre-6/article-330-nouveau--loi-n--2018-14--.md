@@ -1,0 +1,2 @@
+Le président ordonne au greffier de lire le dispositif de l'ordonnance ou de l'arrêt de renvoi, et fait de l'affaire l'exposé nécessaire à la compréhension des débats.
+A l'audience de la cour d’appel statuant en matière criminelle, il donne également lecture du jugement du tribunal statuant en matière criminelle dont appel.

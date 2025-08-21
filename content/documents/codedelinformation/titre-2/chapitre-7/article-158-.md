@@ -1,0 +1,2 @@
+La publicité est conçue de manière à se conformer aux lois, aux exigences de véracité, de décence, de loyauté et au respect de la personne humaine.
+Elle ne doit ni porter atteinte à la crédibilité de l’Etat et à l’ordre public, ni contenir aucune déclaration et présentation visuelle contraire à la pudeur et aux bonnes mœurs.

@@ -1,0 +1,1 @@
+La reconnaissance de paternité est irrévocable.

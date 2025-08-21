@@ -1,0 +1,1 @@
+Les dispositions des articles 11,218, 219 et 223 de la présente loi sont applicables aux transporteurs aériens étrangers.

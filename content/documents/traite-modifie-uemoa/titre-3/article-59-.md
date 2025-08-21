@@ -1,0 +1,2 @@
+En vue du financement d'un aménagement équilibré du territoire communautaire, l'Union pourra instituer des fonds structurels dont les modalités d'intervention seront précisées par voie d'acte additionnel de la Conférence des Chefs d'Etat et de Gouvernement.
+18

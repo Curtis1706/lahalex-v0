@@ -1,0 +1,3 @@
+Inspections Des inspections médicales des internés seront faites au moins une fois par médicales mois. Elles auront pour objet, en particulier, de contrôler l’état général de
+santé et de nutrition et l’état de propreté, ainsi que de dépister les mala- dies contagieuses, notamment la tuberculose, les affections vénériennes et le
+paludisme. Elles comporteront notamment le contrôle du poids de chaque interné et, au moins une fois par an, un examen radioscopique.

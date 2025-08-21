@@ -1,0 +1,4 @@
+Les condamnés ayant à subir une ou plusieurs peines privatives de liberté peuvent bénéficier d’une libération conditionnelle s’ils ont donné des preuves suffisantes de bonne conduite et présentent des gages sérieux de réadaptation sociale.
+La libération conditionnelle est réservée aux condamnés ayant accompli trois (03) mois de leur peine, si cette peine est inférieure à six (06) mois, et la moitié de la peine dans le cas contraire.
+Pour les condamnés en état de récidive légale, le temps d’épreuve est porté à six (06) mois si la peine est inférieure à neuf (09) mois et aux deux tiers de la peine dans le cas contraire.
+Pour les condamnés à une peine perpétuelle, le temps d’épreuve est de trente (30) années.

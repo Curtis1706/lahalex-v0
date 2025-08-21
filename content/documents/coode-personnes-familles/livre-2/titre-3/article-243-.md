@@ -1,0 +1,2 @@
+Avant de renvoyer l’affaire devant le tribunal, le juge peut, suivant les circonstances et sauf à ordonner les mesures provisoires nécessaires, ajourner les parties à une date qui n’excèdera pas six (6) mois. Ce délai peut être renouvelé, sans toutefois que sa durée totale puisse dépasser une année.
+L’ordonnance prononçant l’ajournement n’est susceptible d’appel qu’en ce qui concerne les mesures provisoires qu’elle a pu décider.

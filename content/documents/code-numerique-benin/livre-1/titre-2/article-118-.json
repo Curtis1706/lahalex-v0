@@ -1,0 +1,15 @@
+{
+  "id": "article-118-",
+  "title": "Article 118 : Objectifs visés par l’Autorité de régulation",
+  "numero": "118 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-117-",
+    "next": "article-119-"
+  }
+}

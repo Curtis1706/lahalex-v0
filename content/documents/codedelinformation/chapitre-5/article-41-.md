@@ -1,0 +1,2 @@
+Le financement des médias de service public est constitué de subventions de l’Etat, de redevances soumises annuellement à l’approbation de l’Assemblée Nationale, de recettes publicitaires, des dons et legs.
+Les montants des subventions accordées aux différents organes de presse de service public sont examinés et votés chaque année par l’Assemblée Nationale en sa session budgétaire.

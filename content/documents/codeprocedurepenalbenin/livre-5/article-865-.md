@@ -1,0 +1,1 @@
+Un décret détermine les mesures nécessaires à l’exécution des articles 853 et 862 et notamment les conditions dans lesquelles doivent être demandés, établis et délivrés les bulletins n° 1, 2 et 3 du casier judiciaire.

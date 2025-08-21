@@ -1,0 +1,3 @@
+Surveillance complémentaire - Portée
+1.  La Commission peut décider de ne pas tenir compte, dans la surveillance complémentaire visée à l’article 310-2, d’entreprises ayant leur siège social dans un pays tiers où il existe des obstacles juridiques au transfert de l’information nécessaire, sans préjudice des dispositions de l’article 337-6.
+2.  La Commission peut également décider, au cas par cas, de ne pas tenir compte d’une entreprise dans la surveillance complémentaire visée à l’article 310-2 lorsque l’entreprise à inclure ne présente qu’un intérêt négligeable au regard des objectifs de la surveillance complémentaire des entreprises d’assurance faisant partie d’un groupe d’assurance.

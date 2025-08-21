@@ -1,0 +1,2 @@
+Le transporteur remet aux autorités compétentes un formulaire de trafic, ou à défaut un manifeste de passagers.
+Toutefois, la disposition prévue au 1 alinéa du présent article n’est pas applicable aux déplacements qui comportent le retour sans escale à l'aérodrome de départ.

@@ -1,0 +1,1 @@
+La manipulation des corps des victimes de maladies contagieuses obéit à des règles strictes édictées par les services compétents du ministère en charge de la santé.

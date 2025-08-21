@@ -1,0 +1,15 @@
+{
+  "id": "article-257-",
+  "title": "Article 257 :",
+  "numero": "257 ",
+  "document": "coode-maritime",
+  "path": [
+    "livre-3",
+    "paragraphe-4"
+  ],
+  "navigation": {
+    "parent": "paragraphe-4",
+    "previous": "article-256-",
+    "next": "article-258-"
+  }
+}

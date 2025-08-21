@@ -1,0 +1,2 @@
+Article 337-5-1 : Solvabilité ajustée - Définition
+La solvabilité ajustée d’une entreprise consolidante ou combinante est la différence entre la marge de solvabilité disponible et le montant minimal de la marge de solvabilité, calculés à partir des données consolidées ou combinées selon les dispositions de l’article 434-3.

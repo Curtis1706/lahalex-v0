@@ -1,0 +1,2 @@
+Traitement non autorisé
+Quiconque aura procédé à un traitement de données à caractère personnel soit sans avoir préalablement informé individuellement les personnes concernées de leur droit d’accès, de rectification ou d’opposition, de la nature des données transmises et des destinataires de celles-ci, soit malgré l’opposition de la personne concernée est puni selon les peines prévues à l’article 454 du présent code.

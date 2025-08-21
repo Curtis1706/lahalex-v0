@@ -1,0 +1,15 @@
+{
+  "id": "article-224-",
+  "title": "Article 224 : Types de procédures",
+  "numero": "224 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-5"
+  ],
+  "navigation": {
+    "parent": "titre-5",
+    "previous": "article-223-",
+    "next": "article-225-"
+  }
+}

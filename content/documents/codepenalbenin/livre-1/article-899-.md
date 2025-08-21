@@ -1,0 +1,1 @@
+L’emprisonnement est obligatoire, sans bénéfice de sursis et sans circonstances atténuantes, lorsque l’auteur de l’infraction commise dans une réserve naturelle intégrale ou un parc national, aura déjà été condamné une première fois pour des faits analogues dans des délais de récidive prévus par le présent code.

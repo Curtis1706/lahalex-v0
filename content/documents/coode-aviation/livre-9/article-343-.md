@@ -1,0 +1,1 @@
+Sous réserve des dispositions édictées dans le cadre de l'Union, notamment en ce qui concerne les principes fondamentaux régissant les enquêtes sur les accidents et incidents de l'aviation civile, les dispositions du présent chapitre sont complétées parcelles du code de procédure pénale.

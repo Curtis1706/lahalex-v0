@@ -1,0 +1,1 @@
+Lorsqu’un membre du conseil communal, sans motif valable, est absent à trois (03) sessions ordinaires successives, il peut, sous réserve d'avoir été admis à fournir des explications, être démis de son mandat par le conseil. L'autorité de tutelle et le conseil d'arrondissement en reçoivent notification.

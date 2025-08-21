@@ -1,0 +1,3 @@
+Les créanciers personnels d’un des héritiers ne peuvent poursuivre la saisie et la vente de la part indivise de leur débiteur dans la succession ou de l’un des biens dépendant de la succession.
+Ils peuvent demander le partage de la succession dans les cas où leur débiteur aurait lui- même négligé de le faire, mettant ainsi leurs créances en péril.
+Le juge saisi d'une demande tendant au maintien de l'indivision, en application de l’article 766, peut ordonner la mise en cause des créanciers. Les créanciers peuvent intervenir volontairement dans l'instance.

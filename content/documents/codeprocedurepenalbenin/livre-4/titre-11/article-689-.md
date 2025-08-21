@@ -1,0 +1,4 @@
+Le juge des enfants saisi d’une information peut prendre l’une des décisions suivantes concernant la garde provisoire du mineur :
+1. remise aux père et mère ou à un des parents du mineur ;
+2. remise à une personne digne de confiance ou à une institution charitable ou à un centre d’accueil ou d’observation ;
+3. le mineur ne peut être placé provisoirement dans une maison d’arrêt que si cette mesure paraît indispensable ou encore s’il est impossible de prendre toute autre disposition ; dans ce cas, le mineur sera retenu dans un quartier spécial ou à défaut dans un local spécial ; il doit être soumis à l’isolement de nuit.

@@ -1,0 +1,1 @@
+Article 8 : Les promoteurs d’activités qui rendent nécessaires ou utiles des interventions publiques ou privées en vue de répondre aux besoins, tant quantitatifs que qualitatifs en ressources en eau sont soumis à des charges ou des contributions correspondantes pour leur financement.

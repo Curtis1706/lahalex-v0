@@ -1,0 +1,5 @@
+Le journaliste doit observer une intégrité morale.
+Il ne doit accepter, en dehors de la rémunération qui lui est due par son employeur, aucune libéralité soit numéraire, soit en nature quelle qu’en soit la valeur, lorsque celle-ci est susceptible de l’assujettir à quelque flexion morale.
+Le journaliste ne doit céder à aucune pression tendant à corrompre l’exactitude de l’information. Il ne publie que les informations dont l’origine, la véracité et l’exactitude sont établies et vérifiées. Le moindre doute l’oblige à s’abstenir de toute publication ou à émettre les réserves nécessaires dans les formes professionnelles requises.
+Le journaliste doit restituer les faits fidèlement et en toute honnêteté quoique cela puisse lui coûter personnellement.
+Il ne doit altérer ou dénaturer aucune information, aucune image, aucune représentation ou aucune exposition.

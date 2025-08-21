@@ -1,0 +1,4 @@
+Si d'après les débats, la déposition d'un témoin paraît fausse, le président, soit d'office, soit à la requête du ministère public ou d'une des parties, peut ordonner spécialement à ce témoin d'être présent aux débats jusqu'à leur clôture et en outre, de demeurer dans la salle d'audience jusqu’au prononcé du jugement du tribunal ou de l’arrêt de la cour d’appel statuant en matière criminelle.
+En cas d'infraction à cet ordre, le président fait mettre le témoin en état d'arrestation provisoire.
+Après lecture de la décision du tribunal ou de la cour statuant en matière criminelle, ou dans le cas de renvoi à une autre session, le président ordonne que le témoin soit, par la force publique, conduit sans délai devant le procureur de la République près le tribunal de première instance qui requiert l'ouverture d'une information.
+Le greffier transmet à ce magistrat une expédition du procès-verbal qui a pu être dressé en application de l’article 336 du présent code.

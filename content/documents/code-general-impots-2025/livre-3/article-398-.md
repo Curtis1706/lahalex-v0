@@ -1,0 +1,2 @@
+Les  administrations  publiques,  les  établissements  ou  organismes quelconques soumis au contrôle de l’autorité administrative, les sociétés, les banques, officiers publics ou ministériels ou agents d’affaires qui sont dépositaires, détenteurs ou débiteurs de titres, sommes ou valeurs dépendant d’une succession qu’ils savent ouverte, doivent adresser, soit avant le paiement, la remise ou le transfert, soit dans la quinzaine qui suit ces opérations, au service des impôts de leur résidence, la liste de ces titres, sommes ou valeurs. Il en est donné récépissé.
+225

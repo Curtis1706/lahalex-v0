@@ -1,0 +1,3 @@
+Les prénoms sont choisis par le père ou la mère ou la personne qui en tient lieu.
+Un des prénoms au moins doit distinguer l’enfant de ses ascendants ainsi que de ses frères et sœurs.
+L’officier de l’état civil ou l’agent qui en tient lieu, est avisé des prénoms lorsque la naissance de l’enfant lui est déclarée. Il ne peut recevoir que des prénoms consacrés par la coutume ou la tradition, ou figurant dans différents calendriers et ne portant pas atteinte à l’honneur et à la considération de l’enfant et/ ou à celle d'autrui tel que prévu à l'article 7 de la même loi.

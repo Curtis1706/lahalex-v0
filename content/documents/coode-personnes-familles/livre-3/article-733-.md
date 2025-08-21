@@ -1,0 +1,1 @@
+Le liquidateur est tenu de payer les legs faits par le défunt, à moins que le paiement n’en ait été mis à la charge d’un héritier.

@@ -1,0 +1,14 @@
+{
+  "id": "article-100-",
+  "title": "Article 100 : Avenants",
+  "numero": "100 ",
+  "document": "code-marche-public",
+  "path": [
+    "titre-4"
+  ],
+  "navigation": {
+    "parent": "titre-4",
+    "previous": "article-99-",
+    "next": "article-101-"
+  }
+}

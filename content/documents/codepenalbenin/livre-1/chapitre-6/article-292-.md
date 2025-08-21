@@ -1,0 +1,2 @@
+Quiconque a fabriqué, offert, reçu, importé, exporté ou détenu sans y avoir été autorisé, des marques, matières, appareils ou autres objets destinés par leur nature à la fabrication, à la contrefaçon, à la falsification, à l’altération ou à la coloration de signes monétaires, est puni d’un emprisonnement de deux (02) ans à cinq (05) ans et d’une amende de quatre millions (4.000.000) à dix millions (10.000.000) de francs CFA ou de l’une de ces deux peines seulement.
+La tentative est punie comme le délit consommé.

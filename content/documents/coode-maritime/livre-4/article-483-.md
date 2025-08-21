@@ -1,0 +1,2 @@
+Sont admis en avaries communes, les dommages causés au navire et à la cargaison, ou à l’un d’eux, par l’eau ou autrement, y compris les dommages causés en échouant, en submergeant ou en sabordant le navire en feu en vue d’éteindre un incendie à bord.
+Toutefois, les dommages causés à la cargaison ou au navire par l’incendie même ne sont pas admis en avaries communes.

@@ -1,0 +1,2 @@
+Les crédits sont votés par chapitre, au niveau de la section de fonctionnement et par article, au niveau de la section d'investissement.
+L'organe délibérant compétent de la commune ou de l'établissement public de coopération intercommunale peut toutefois, pour la section de fonctionnement, spécialiser les crédits au sein de certains chapitres et, pour la section d'investissement décider de voter des opérations telles que définies à l’article 423 de la présente loi et qui correspondent à des chapitres budgétaires.

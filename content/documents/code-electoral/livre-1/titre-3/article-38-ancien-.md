@@ -1,0 +1,1 @@
+Chaque candidat à l'élection du président de la République ou chaque liste de candidats aux élections législatives ou communales présente une déclaration de candidature auprès de la CENA.

@@ -1,0 +1,1 @@
+Les installations et équipements liés à la production, à la manipulation, à la conservation et au transport des denrées alimentaires, sont choisis de manière à faciliter leur entretien, leur nettoyage et leur désinfection.

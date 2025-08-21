@@ -1,0 +1,12 @@
+Renseignements généraux
+Les renseignements généraux du dossier annuel à produire au Ministre en charge des assurances dans l’Etat membre où ils ont été agréés par les agents généraux d’assurances, les courtiers et sociétés de courtage d’assurance sont les suivants :
+a) la raison sociale de l’entreprise, son adresse, la date de sa constitution, les modifications apportées aux statuts en cours d’exercice, et, si de telles modifications sont intervenues, un exemplaire à jour des statuts, la copie de l’agrément délivré par le Ministère en charge du secteur des assurances et le traité de nomination pour l’agent général d’assurance ;
+b) les noms, date et lieu de naissance, nationalité et domicile des membres du Conseil d’Administration (ou de tout autre organe dirigeant) et du personnel de direction ; les professions des membres du Conseil d’administration et les grades ou fonctions du personnel de direction ;
+c) la liste des branches d’assurance pratiquées dans le pays concerné ainsi que toute autre activité industrielle et commerciale et les références de l’autorisation du Ministre en charge du secteur des assurances qui y donne droit ;
+d) la liste des pays où l’entreprise travaille et les branches qu’elle y pratique, la date de l’agrément par les autorités de contrôle de ces pays si cet agrément existe, et l’année du début de l’exploitation ;
+e) la liste des entreprises d’assurance, de réassurance ou de capitalisation avec lesquelles ils entretiennent des relations ;
+f) le rapport du Conseil d’Administration et du Conseil de Surveillance (ou de tout autre organe dirigeant) et les rapports des commissaires aux comptes à l’assemblée générale des actionnaires ou associés ;
+g) le montant de la caution prévue à l’article 525 du Code des assurances, le nom de l’établissement de crédit ou de l’entreprise d’assurances ayant fourni cette caution, le montant des fonds perçus au cours des douze derniers mois précédent le mois de la date de souscription ou de reconduction de l’engagement de caution ;
+h) le nom de la compagnie d’assurance assurant sa responsabilité civile pour les courtiers et sociétés de courtage d’assurance ;
+i) un tableau indiquant les modifications apportées au cours de l’exercice au capital social (versements, appels, augmentations ou réductions, remboursements) ;
+j) un tableau indiquant l’effectif, au dernier jour de l’exercice, du personnel salarié de l’entreprise dans le pays concerné ventilé en « personnel de direction et cadres », « agents de maîtrise », « employés », « total du personnel salarié ».

@@ -1,0 +1,1 @@
+L’inscription hypothécaire garantit, au même rang de capital, trois années d'intérêt en plus de l’année courante.

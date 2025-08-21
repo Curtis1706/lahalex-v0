@@ -1,0 +1,5 @@
+Les agents permanents de l’Etat et les agents contractuels de l’Etat concernés peuvent, sur leur demande et à partir de cinquante-cinq (55) ans d’âge au moins, faire valoir leurs droits à une pension de retraite ou pension proportionnelle.
+Les personnels des corps de l'enseignement supérieur des universités nationales du Bénin et les personnels des corps de la recherche scientifique du Bénin âgés de soixante (60) ans au moins peuvent, sur leur demande, faire valoir leur droit à une pension normale de retraite.
+Dans ces différents cas, la jouissance est immédiate.
+Les agents permanents de l’Etat et les agents contractuels de l’Etat visés à l’article 1<sup>er</sup> nouveau ci-dessus qui sollicitent ainsi leur départ anticipé à la retraite doivent supporter sur leur pension une pénalité de 2 % par année d’anticipation avec un maximum de 10 %.
+Cependant, à l’âge limite d’admission à la retraite, cette pénalité est supprimée et les intéressés bénéficient de l’intégralité de leur pension.

@@ -1,0 +1,1 @@
+Le donataire doit exécuter les charges imposées par le donateur, soit à son profit, soit dans l’intérêt du donataire, soit au profit d'un tiers.

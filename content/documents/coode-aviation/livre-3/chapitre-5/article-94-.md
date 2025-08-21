@@ -1,0 +1,4 @@
+La recherche et le sauvetage des aéronefs en détresse sont assurés par les organes habilités de l'Etat.
+Les services et moyens locaux qui ne font pas partie de l’organisation de recherche et de sauvetage prêtent sans réserve leur concours aux équipes de recherche et de sauvetage dans les opérations et fournissent toute assistance possible aux survivants d'accidents d'aviation.
+Une coordination étroite est assurée entre le centre de recherche et de sauvetage aéronautique, le centre de recherche et de sauvetage maritime, et les autres administrations ou organismes capables de contribuer aux recherches et au sauvetage.
+Les modalités d'application des dispositions du présent chapitre sont fixées par décret pris en Conseil des ministres.

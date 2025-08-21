@@ -1,0 +1,2 @@
+Règlementation du secteur
+La règlementation du secteur des communications électroniques et de la poste est du ressort de l’Etat. Cette prérogative est exercée par le Ministère en charge des communications électroniques et de la poste.

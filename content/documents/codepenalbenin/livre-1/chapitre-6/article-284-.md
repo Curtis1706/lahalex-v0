@@ -1,0 +1,1 @@
+Constituent le faux monnayage, la contrefaçon, la fabrication, l’altération par tous les moyens des signes monétaires ayant cours légal sur le territoire national ou à l’étranger.

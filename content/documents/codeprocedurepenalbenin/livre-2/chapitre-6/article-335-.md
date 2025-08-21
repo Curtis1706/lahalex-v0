@@ -1,0 +1,2 @@
+Après chaque déposition, le président peut poser des questions aux témoins.
+Le ministère public ainsi que les avocats de l’accusé ou de la partie civile ont la même faculté dans les conditions déterminées à l’article 316 du présent code.

@@ -1,0 +1,2 @@
+L’assurance des rémunérations d’assistance et de sauvetage couvre, jusqu’à concurrence du capital assuré, les dépenses engagées pour assister ou sauver le navire à la suite d’un risque garanti, ainsi que toute rémunération due en raison de ce risque.
+Cette assurance ne produit effet qu’en cas d’insuffisance de la somme assurée par la police du navire.

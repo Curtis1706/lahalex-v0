@@ -1,0 +1,2 @@
+L’affréteur doit restituer le navire en fin de contrat, à la date et dans le port convenu dans l’état où il l’a reçu, sauf usure normale du navire et des appareils.
+En cas de retard dans la restitution du navire, sauf preuve par le fréteur d’un préjudice plus élevé, l’affréteur doit une indemnité calculée pendant les quinze (15) premiers jours sur le prix du loyer et postérieurement sur le double de ce prix.

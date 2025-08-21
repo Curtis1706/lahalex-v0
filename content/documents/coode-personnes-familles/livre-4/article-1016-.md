@@ -1,0 +1,1 @@
+La quotité disponible et le droit à réserve des héritiers se déterminent selon la loi nationale du défunt. Le mode et l’ordre de réduction des libéralités sont régis par la loi du lieu d’ouverture de la succession.

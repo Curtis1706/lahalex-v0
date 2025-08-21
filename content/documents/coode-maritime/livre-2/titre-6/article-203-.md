@@ -1,0 +1,2 @@
+Si, après conclusion d’une enquête maritime, des faits, informations ou éléments de preuve nouveaux de nature à remettre en cause les décisions prises sont rapportés, une nouvelle enquête maritime peut être ordonnée à la demande de l’autorité maritime ou, à l’étranger, à la demande du consul de la République du Bénin.
+La nouvelle enquête maritime est effectuée au lieu indiqué par l’autorité maritime ou par le consul de la République du Bénin.

@@ -1,0 +1,3 @@
+Hors le cas prévu au dernier alinéa de l’article 378 du présent code, il est procédé à la lecture de l’arrêt de renvoi devant la cour d’assises et de l’exploit de citation. Après cette lecture, la cour d’assises, sur les réquisitions du ministère public, se prononce sur le défaut de comparution des accusés.
+Si toutes les formalités ont été régulièrement accomplies, la cour d’assises se prononce sur l’accusation. Elle statue ensuite sur les intérêts civils.
+Le recours en cassation contre les arrêts de défaut rendus par la cour d’assises n’est ouvert qu’au procureur général et à la partie civile.

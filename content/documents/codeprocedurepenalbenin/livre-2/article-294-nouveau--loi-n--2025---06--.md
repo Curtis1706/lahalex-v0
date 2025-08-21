@@ -1,0 +1,1 @@
+Lorsque le réquisitoire, l'ordonnance ou l'arrêt de renvoi vise plusieurs infractions non connexes, le tribunal de première instance statuant en matière criminelle peut soit d’office soit sur réquisition du ministère public, ordonner que les accusés ne soient immédiatement poursuivis que sur l'une ou quelques-unes de ces infractions.

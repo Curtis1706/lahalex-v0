@@ -1,0 +1,4 @@
+L’adoption peut être révoquée, s’il est justifié de motifs graves, par une décision du tribunal rendue à la demande de l’adoptant ou de l’adopté et, si ce dernier est encore mineur, du procureur de la République.
+Néanmoins, aucune demande de révocation d’adoption n’est recevable lorsque l’adopté est encore âgé de moins de quinze (15) ans révolus.
+Le jugement rendu par le tribunal compétent en vertu du droit commun, à la suite de la procédure ordinaire après audition du ministère public, doit être motivé.
+Dès qu’il n’est plus susceptible de voies de recours, le ministère public procède aux formalités prévues par l’article 60 du présent code pour mention complémentaire en marge de l’acte de naissance.

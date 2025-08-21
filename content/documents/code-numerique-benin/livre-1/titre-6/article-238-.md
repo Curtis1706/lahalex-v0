@@ -1,0 +1,3 @@
+Application des décisions de l’Autorité de régulation et recours
+Les décisions rendues par l’Autorité de régulation en application du présent Titre s’imposent aux parties nonobstant tout recours.
+Les décisions prises par l’Autorité de régulation dans le cadre du présent Titre peuvent faire l’objet d’un recours devant la chambre administrative de la Cour Suprême dans les conditions prévues à l’article 232 du présent code, qui est applicable mutatis mutandis.

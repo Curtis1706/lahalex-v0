@@ -1,0 +1,14 @@
+{
+  "id": "article-123-",
+  "title": "Article 123 : Sanctions applicables aux violations commises par les",
+  "numero": "123 ",
+  "document": "codemarchepublic",
+  "path": [
+    "titre-5"
+  ],
+  "navigation": {
+    "parent": "titre-5",
+    "previous": "article-122-",
+    "next": "article-124-"
+  }
+}

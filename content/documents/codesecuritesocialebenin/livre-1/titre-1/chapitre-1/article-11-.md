@@ -1,0 +1,5 @@
+En cas d’irrégularité, ou de carence caractérisée, le conseil d’administration peut être dissout ou suspendu dans les conditions fixées par décret pris en conseil des Ministres sur propositions du Ministre de tutelle.
+Un nouveau conseil d’administration doit être installé au plus tard dans les deux mois qui suivent la dissolution.
+Le décret de dissolution précise les conditions dans lesquelles l’administration de la Caisse est assurée jusqu’à l’installation du nouveau conseil.
+Les actes pris éventuellement pendant la durée de dissolution du conseil d’administration et qui relèvent normalement de la compétence dudit conseil, sont soumis à la délibération du nouveau conseil d’administration aussitôt après son installation.
+Dès que les irrégularités ou la mauvaise gestion de la Caisse sont imputables à un ou à plusieurs membres du conseil d’administration, ces derniers sont révoqués par décret pris en conseil des Ministres après avis du conseil d’administration. Cette révocation, sans préjudice des poursuites judiciaires, entraîne l’incapacité définitive d’exercer les fonctions d’administrateurs de la Caisse.

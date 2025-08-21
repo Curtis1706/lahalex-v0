@@ -1,0 +1,1 @@
+Le tribunal peut ordonner la fermeture temporaire ou définitive de l’établissement, il peut en outre interdire au délinquant, à temps ou définitivement, l’exercice de toute profession se rapportant à la production ou à la commercialisation de produits identiques ou similaires à ceux qu’il vendait au moment de l’infraction.

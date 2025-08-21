@@ -1,0 +1,3 @@
+Exigences applicables aux dispositifs de création et de validation de cachets électroniques qualifiés
+Les dispositions de l’article 290 relatives aux exigences applicables aux dispositifs de création de cachets électroniques qualifiés s’appliquent mutatis mutandis aux exigences applicables aux dispositifs de création de cachet électronique qualifiés.
+Les dispositions de l’article 289 relatives à la certification des dispositifs de création de signature électronique qualifiés s’appliquent mutatis mutandis à la certification des dispositifs de création de cachet électronique qualifié.

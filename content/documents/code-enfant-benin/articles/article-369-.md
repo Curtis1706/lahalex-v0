@@ -1,0 +1,1 @@
+Article 369 : L’exhibition sexuelle imposée à un enfant est punie de cinq (05) ans à dix (10) ans d’emprisonnement et d’une amende de cinq cent mille (500 000) francs à deux millions (2 000 000) de francs CFA.

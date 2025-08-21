@@ -1,0 +1,1 @@
+L'accusé ne cesse pas de pouvoir communiquer librement avec son avocat. Celui-ci peut prendre sur place communication de toutes les pièces sans que cette communication puisse provoquer un retard dans le déroulement de la procédure.

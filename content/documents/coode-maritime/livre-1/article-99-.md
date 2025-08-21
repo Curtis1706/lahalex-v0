@@ -1,0 +1,1 @@
+En cas de pluralité de gérants, ceux-ci agissent d’un commun accord.

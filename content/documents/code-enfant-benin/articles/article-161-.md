@@ -1,0 +1,2 @@
+Article 161 : Déplacement à l'extérieur du territoire
+Aucun enfant béninois ne peut quitter le territoire national s’il n’est porteur d’une autorisation spéciale établie par l’autorité administrative de son lieu de résidence.

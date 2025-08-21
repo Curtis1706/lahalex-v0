@@ -1,0 +1,3 @@
+Conditions d’échange d’informations
+Les informations prévues au présent Chapitre, doivent être fournies par tout moyen adapté au service utilisé et accessible à tout stade de la conclusion du contrat, dans le respect des principes qui régissent la protection des personnes frappées d’incapacité juridique, notamment les mineurs et les majeurs incapables.
+Les informations demandées en vue de la conclusion d'un contrat en ligne ou celles qui sont adressées ou échangées au cours de son exécution peuvent être transmises par voie électronique si le destinataire a accepté l'usage de ce procédé.

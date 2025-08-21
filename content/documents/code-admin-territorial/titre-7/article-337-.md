@@ -1,0 +1,2 @@
+La décision de révocation du secrétaire permanent n’est susceptible que d'un recours en indemnité devant la juridiction administrative territorialement compétente. Le délai de recours est de quinze (15) jours à compter de la notification ou de la connaissance acquise de la décision.
+Le montant de l'indemnité ne peut excéder neuf (09) mois de son salaire mensuel, toutes indemnités comprises.

@@ -1,0 +1,2 @@
+Sont punis des peines prévues à l’article précédent, les fondateurs, les directeurs ou gérants de sociétés ou d’établissements à objet commercial, industriel ou financier qui ont fait ou laissé figurer le nom de l’ancien titre d’un ancien membre du gouvernement, d’un ancien agent de l’Etat, d’un magistrat ou ancien magistrat dans toute publicité faite dans l’intérêt de l’entreprise qu’ils dirigent ou qu’ils se proposent de fonder.
+Les mêmes peines sont applicables à tous les agents de banque et tous les démarcheurs qui auront fait usage des publicités prévues ci-dessus.

@@ -1,0 +1,1 @@
+Les allocations d’entretien dues par l’Etat sont réglées prioritairement et tous les trois (03) mois par le trésorier payeur sur le chapitre des frais de justice et sur présentation d’un état rendu exécutoire par le président du tribunal de première instance après réquisitions du procureur de la République.

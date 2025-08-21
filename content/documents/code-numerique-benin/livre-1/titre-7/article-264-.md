@@ -1,0 +1,2 @@
+Confidentialité des communications, accès ouvert à internet, transparence et communication d’informations
+Toute violation des dispositions prévues aux articles 12, 13, 17 et 18 du présent code, est punie d’une amende d’un montant de deux millions (2 000 000) de francs CFA.

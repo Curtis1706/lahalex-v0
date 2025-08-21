@@ -1,0 +1,2 @@
+Au jour indiqué, le juge statue d’abord, s’il y a lieu, sur la compétence du tribunal, après audition des parties assistées, le cas échéant, de leurs avocats.
+Il entend ensuite les époux, tenus de comparaître en personne, hors la présence de leurs conseils, et leur fait les observations de nature à opérer un rapprochement.

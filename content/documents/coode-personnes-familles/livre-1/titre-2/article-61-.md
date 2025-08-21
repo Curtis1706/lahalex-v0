@@ -1,0 +1,3 @@
+L'acte énonce le jour et le lieu de la naissance, le sexe de l’enfant, les prénoms qui lui sont donnés, les prénoms, nom, âge, profession et domicile des père et mère et, s’il y a lieu, ceux du déclarant.
+Si les père et mère ou l’un des deux ne sont pas désignés à l’officier de l’état civil, il n'est fait sur le registre aucune mention à ce sujet.
+L’acte est rédigé immédiatement et est signé du déclarant et de l’officier de l'état civil conformément aux dispositions de l'article 42 du présent code.

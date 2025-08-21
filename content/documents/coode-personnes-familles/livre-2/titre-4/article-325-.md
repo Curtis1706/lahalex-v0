@@ -1,0 +1,1 @@
+La volonté de reconnaissance par un homme marié ou une femme mariée d’un enfant né hors mariage doit être notifiée à son conjoint soit par écrit, soit par exploit d’huissier.

@@ -1,0 +1,1 @@
+Toute autre violation des règles en matière de publicité relative aux manufactures, au commerce et aux arts est punie des peines prévues par les textes en vigueur en République du Bénin.

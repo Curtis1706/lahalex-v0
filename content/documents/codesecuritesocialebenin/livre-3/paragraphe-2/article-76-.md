@@ -1,0 +1,3 @@
+Les rentes dues pour la réparation d’un accident mortel ou entraînant une réduction de capacité au moins égale à 20 % ne peuvent être calculées sur un salaire annuel inférieur au salaire minimum interprofessionnel garanti multiplié par le coefficient 1,40.
+Si le salaire annuel de la victime est supérieur au salaire annuel minimum visé à l’alinéa précédent, il n’entre intégralement en compte pour le calcul des rentes que s’il ne dépasse pas trois fois le salaire minimum.
+S’il le dépasse, l’excédent n’est compté que pour la moitié. Il n’est pas tenu compte de la fraction dépassant dix fois le montant du salaire minimum annuel visé à l’alinéa précédent.

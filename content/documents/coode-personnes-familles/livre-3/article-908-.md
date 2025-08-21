@@ -1,0 +1,1 @@
+Toute aliénation, même celle par vente avec faculté de rachat ou par échange, que fait le testateur de la chose léguée, emporte révocation du legs pour tout ce qui a été aliéné, encore que l'aliénation postérieure soit nulle et que l’objet soit rentré dans la main du testateur.

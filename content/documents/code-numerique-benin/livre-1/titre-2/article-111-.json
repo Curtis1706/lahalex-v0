@@ -1,0 +1,15 @@
+{
+  "id": "article-111-",
+  "title": "Article 111 : Mission de l’ABSU-CEP",
+  "numero": "111 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-110-",
+    "next": "article-112-"
+  }
+}

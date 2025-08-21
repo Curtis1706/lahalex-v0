@@ -1,0 +1,1 @@
+Les conditions et modalités d'élection des conseillers communaux et/ou de désignation du maire et des adjoints au maire ainsi que les incompatibilités liées à leurs fonctions sont déterminées par le code électoral.

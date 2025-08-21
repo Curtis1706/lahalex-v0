@@ -1,0 +1,6 @@
+Ne peuvent faire l’objet d’une révision, que les décisions rendues en matière criminelle ou correctionnelle par les juridictions de première instance et les cours d’appel.
+La révision est possible :
+1. lorsque, après une condamnation pour homicide, seront présentées des pièces propres à faire naître des indices suffisants sur l’existence de la prétendue victime de l’homicide ;
+2. lorsque, après une condamnation pour crime ou délit, un nouvel arrêt ou jugement aura condamné pour le même fait, un autre accusé ou prévenu, ou que les deux (02) condamnations ne pouvant se concilier, leur contradiction sera la preuve de l’innocence de l’un ou de l’autre condamné ;
+3. lorsqu’un témoin entendu aura été, postérieurement à la condamnation, poursuivi et condamné pour faux témoignage contre l’accusé ou le prévenu ; le témoin ainsi condamné ne pourra pas être entendu dans les nouveaux débats ;
+4. lorsque, après une condamnation, un fait vient à se produire ou à se révéler ou lorsque des pièces inconnues lors des débats sont présentées, de nature à établir l’innocence du condamné.

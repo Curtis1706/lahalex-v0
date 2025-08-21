@@ -1,0 +1,2 @@
+Le préfet est assisté d'un secrétariat général du département, dirigé par un secrétaire général chargé de l'animation, de la coordination et du contrôle des activités des services de la préfecture.
+Les attributions, l'organisation et le fonctionnement du secrétariat général ainsi que les conditions de nomination du secrétaire général sont fixés par le décret relatif aux attributions du préfet, à l'organisation et au fonctionnement des départements.

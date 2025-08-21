@@ -1,0 +1,13 @@
+Les plis scellés sont placés dans l'urne scellée et immédiatement acheminés au chef-lieu de l'arrondissement pour être remis entre les mains du coordonnateur d'arrondissement par le président du poste de vote accompagné de ses assesseurs.
+Le coordonnateur d'arrondissement fait procéder à l'ouverture des urnes pour récupérer les plis scellés. Les urnes sont à nouveau scellées. Puis il effectue une première centralisation de tous les plis scellés en présence des présidents des postes de vote, des représentants des candidats, de listes de candidats ou de partis politiques.
+Cette centralisation est constatée par un procès-verbal signé du coordonnateur d'arrondissement et de tous les présidents des postes de vote de l'arrondissement.
+Tous les plis destinés au coordonnateur d'arrondissement sont alors ouverts sous son contrôle. Les résultats de tous les postes de vote, centre de vote par centre de vote sont compilés pour obtenir les résultats par village ou quartier de ville et les résultats de tous les villages ou quartiers de ville de l'arrondissement et enfin, tous les résultats de l'arrondissement.
+Un procès-verbal est dressé des résultats obtenus dans chaque village ou quartier de ville et dans tout l'arrondissement.
+Le procès-verbal des résultats du village ou quartier de ville ainsi que le procès-verbal des résultats de tout l'arrondissement sont signés par le coordonnateur de l'arrondissement, les présidents des postes de vote et les représentants des candidats, des listes de candidats et des partis politiques en lice et présents.
+L'absence de signature doit être motivée.
+Le procès-verbal de centralisation ainsi que le procès-verbal de compilation par arrondissement sont établis en quatre (04) exemplaires. Les procès-verbaux mis sous plis sont scellés comme suit :
+un pli scellé destiné à la Cour Constitutionnelle ou à la Cour suprême selon le type d’élection :
+un pli scellé destiné à la Commission électorale nationale autonome :
+un exemplaire de chaque procès-verbal détenu par le coordonnateur d’arrondissement ;
+le dernier procès-verbal de compilation des résultats de l'arrondissement, affiché sur les lieux de centralisation par le coordonnateur d'arrondissement qui en donne également copie à tous les représentants de candidats, de listes de candidats ou de partis en lice et présents.
+Le coordonnateur assure la sécurisation de l'affichage pendant vingt-quatre (24) heures au moins.

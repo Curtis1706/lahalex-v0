@@ -1,0 +1,1 @@
+Quiconque, ayant été condamné pour crime à une peine supérieure à un (01) an d’emprisonnement, aura, dans un délai de cinq (05) ans après l’expiration de cette peine ou sa prescription, commis un délit ou un crime puni d’une peine d’emprisonnement, sera condamné au maximum de la peine prévue par la loi, laquelle peine pourra être élevée jusqu’au double.

@@ -1,0 +1,1 @@
+Encourent une peine d’emprisonnement de un (01) an à cinq (05) ans et une amende de un million (1.000.000) de francs CFA à dix millions (10.000.000) de francs CFA, les dirigeants sociaux qui, sciemment, ont donné ou confirmé des indications inexactes dans les rapports présentés à l’assemblée générale appelée à décider de la suppression du droit préférentiel de souscription.

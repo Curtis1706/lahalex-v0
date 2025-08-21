@@ -1,0 +1,3 @@
+Les directeurs de publication, les directeurs de stations de radiodiffusion sonore ou de télévision, les exploitants de services de communication audiovisuelle sont tenus d’insérer gratuitement, en tête du plus prochain numéro du journal ou écrit quotidien, dans les émissions les plus proches, toutes les rectifications qui leur sont adressées par un dépositaire de l’autorité publique au sujet des actes de sa fonction qui auront été inexactement rapportés par ledit journal, écrit quotidien ou service de communication audiovisuelle.
+Toutefois, ces rectifications ne dépassent pas le double de l’article auquel elles répondent.
+Outre les précisions indiquées aux alinéas précédents, le droit de rectification s’exerce dans les mêmes conditions que le droit de réponse.

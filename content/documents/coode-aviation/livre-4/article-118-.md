@@ -1,0 +1,2 @@
+Lorsqu'un accident ou incident d'aviation civile survient, le Bureau enquêtes-accidents décide de l'ouverture de l’enquête, de sa conduite ou de sa délégation.
+Lorsque cela est matériellement possible, le Bureau enquêtes-accidents ou toute autre personne désignée par ses soins inspecte les lieux de l'accident, examine l'épave et note les déclarations des témoins.

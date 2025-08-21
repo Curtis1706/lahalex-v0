@@ -1,0 +1,1 @@
+L’obligation alimentaire entre un époux et les descendants au 1 degré du conjoint reste morale.

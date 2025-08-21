@@ -1,0 +1,5 @@
+En cas de condamnation prononcée en application des articles 704 et 705, le tribunal peut ordonner :
+1. la privation des droits mentionnés à l’article 38 pour une durée de cinq ans au plus ;
+2. l’affichage de sa décision dans les conditions prévues à l’article 57 ;
+3. la publication de celle-ci ou l’insertion d’un extrait du dispositif de la décision dans les conditions prévues par l’alinéa 4 de l’article 57 du présent code, sans que les frais de publication ou d’insertion puissent excéder le maximum de l’amende encourue.
+Toutefois, en cas de condamnation en application des dispositions de l’article 705 relatives à l’état de santé ou au handicap, l’affichage ou la publication de la décision, ou l’insertion d’un communiqué, ne peuvent comporter l’identité de la victime qu’avec son accord ou celui de son représentant légal.

@@ -1,0 +1,2 @@
+Lorsque l’assurance est conclue sur bonne ou mauvaise nouvelle, le contrat n’est annulé que sur la preuve de la connaissance personnelle de la perte par l’assuré ou de l’arrivée par l’assureur.
+S’il y a eu ordre d’assurance, mais que le contrat n’a pas encore été conclu, l’assuré, avisé ultérieurement de la perte ou de l’arrivée des choses assurées, doit en informer immédiatement et par les voies les plus rapides l’assureur. Si à la réception de cet avis, l’ordre n’a pas encore été accepté, il est considéré comme non avenu.

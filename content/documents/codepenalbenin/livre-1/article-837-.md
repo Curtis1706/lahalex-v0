@@ -1,0 +1,3 @@
+Quiconque a :
+- en tout ou en partie, comblé des fossés, détruit des clôtures de quelques matériaux qu’elles soient faites, coupé ou arraché des haies vives ou sèches ;
+- supprimé des bornes ou pieds corniers, ou autres arbres plantés ou reconnus pour établir les limites entre différents héritages, est puni d’un emprisonnement qui ne peut être en-dessous de un (01) mois ni excéder une année et d’une amende égale au quart (1/4) des restitutions et des dommages-intérêts qui, dans aucun cas, ne peut être en dessous de cinquante mille (50.000) francs CFA.

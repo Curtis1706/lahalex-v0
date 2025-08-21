@@ -1,0 +1,2 @@
+La présente loi a pour objet de fixer les conditions d'attribution, d'acquisition, de perte, de déchéance, de déclaration de la nationalité béninoise, ainsi que celles de réintégration dans cette nationalité.
+Elle régit également le contentieux de la nationalité béninoise.

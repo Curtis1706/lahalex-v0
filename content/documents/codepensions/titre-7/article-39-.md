@@ -1,0 +1,1 @@
+Est privé de tout droit à pension de réversion ou d'orphelins, le veuf, la veuve ou l’orphelin convaincu par décision de justice d’avoir pris une part quelconque dans le décès de l'Agent Permanent de l'Etat Civil ou Militaire ayant acquis des droits à pension.

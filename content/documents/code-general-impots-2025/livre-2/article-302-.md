@@ -1,0 +1,3 @@
+1) Tout assujetti qui n’aurait pas payé la contribution au développement local dans la commune compétente peut être appréhendé et imposé par n’importe quelle autre commune.
+Dans ce cas, la totalité de la contribution au développement local est reversée à la commune visée au premier alinéa du présent article.
+2)  Le  produit  des  pénalités  d’assiette  et  de  recouvrement  est  réparti  entre  la Commune dans le ressort de laquelle est située la matière taxée, la commune ayant appréhendé et imposé le fraudeur et le service des impôts de cette dernière.

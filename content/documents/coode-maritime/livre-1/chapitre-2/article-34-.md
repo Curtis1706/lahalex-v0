@@ -1,0 +1,1 @@
+Les navires étrangers naviguant dans les eaux béninoises sont tenus de se conformer strictement aux dispositions des conventions Internationales ratifiées par la République du Bénin.

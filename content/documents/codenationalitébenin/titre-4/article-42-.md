@@ -1,0 +1,4 @@
+L'individu qui a acquis la qualité de Béninois peut, par décret, être déchu de la nationalité béninoise, sauf si la déchéance a pour résultat de le rendre apatride :
+s'il est condamné pour un acte qualifié de crime ou délit contre la sûreté intérieure ou extérieure de l'Etat, contre les intérêts fondamentaux de la nation ou constituant un acte de terrorisme ;
+s'il s'est livré au profit d'un Etat étranger à des actes incompatibles avec la qualité de Béninois et préjudiciables aux intérêts de la République du Bénin ;
+s'il est condamné pour s'être soustrait aux obligations résultant pour lui des lois béninoises sur le recrutement de l'armée.

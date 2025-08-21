@@ -1,0 +1,5 @@
+Le jugement prononçant la nullité doit, en toute hypothèse, statuer sur la bonne foi de l’un ou l’autre des époux ; celle-ci est présumée.
+Si les deux époux sont de mauvaise foi, le mariage est réputé n'avoir jamais existé, tant dans les rapports des époux entre eux que dans leurs rapports avec les tiers.
+Il produit cependant des effets à l’égard des enfants, quand bien même les deux époux n’auraient pas été de bonne foi. Il est statué sur leur garde comme en matière de divorce.
+Lorsqu’un seul des époux est déclaré de mauvaise foi, le mariage nul est réputé n’avoir jamais existé à son égard, tandis que l'autre peut se prévaloir des dispositions de l’article 165.
+Les enfants issus du mariage ou légitimés conservent à l'égard de leurs auteurs et des tiers la qualité qui leur avait été conférée par le mariage, sans que l'époux de mauvaise foi puisse s’en prévaloir à leur encontre.

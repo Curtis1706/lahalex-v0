@@ -1,0 +1,1 @@
+Dans les arrondissements comptant plus d'un (01) siège, les Conseillers communaux sont élus au suffrage universel direct au scrutin de liste à un (01) tour.

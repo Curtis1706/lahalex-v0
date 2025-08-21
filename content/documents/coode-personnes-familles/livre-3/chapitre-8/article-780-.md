@@ -1,0 +1,3 @@
+Dans la formation et la composition des lots, il doit être évité de morceler les immeubles ruraux et de diviser les exploitations de toute nature.
+Dans la mesure où le morcellement des immeubles et la division des exploitations peuvent être évités, chaque lot doit autant que possible, être composé soit en totalité, soit en partie, de meubles ou d’immeubles, de droits ou de créances de valeur équivalente.
+L’inégalité de valeur des lots se compense par une soulte.

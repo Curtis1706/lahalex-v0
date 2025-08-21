@@ -1,0 +1,1 @@
+L’action civile résultant des délits de diffamation prévus et punis par les articles 296 et 298 de la présente loi ne peut, sauf en cas du décès de l’auteur ou de l’amnistie du fait incriminé, être poursuivie séparément de l’action publique.

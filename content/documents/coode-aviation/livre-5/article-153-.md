@@ -1,0 +1,1 @@
+Pour assurer la sécurité, la régularité et l'efficacité des opérations aériennes sur les aérodromes, l'Etat met en place une réglementation nationale pour la conception, l’exploitation technique, la certification et la surveillance continue des aérodromes.

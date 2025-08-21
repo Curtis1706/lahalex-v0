@@ -1,0 +1,2 @@
+Désignation des opérateurs dominants
+Après avoir analysé l’état et l’évolution prévisible de la concurrence sur les différents marchés, l’Autorité de régulation établit la liste des opérateurs dominants sur chacun de ces marchés.

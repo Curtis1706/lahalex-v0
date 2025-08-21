@@ -1,0 +1,1 @@
+Le domicile, au sens des dispositions du présent code, est au lieu de la résidence commune habituelle des époux.

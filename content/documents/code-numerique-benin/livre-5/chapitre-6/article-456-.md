@@ -1,0 +1,2 @@
+Injonction
+Toute sanction prononcée par l'Autorité peut être assortie d’une injonction de procéder, dans un délai qui ne peut excéder huit (08) jours, à toute modification ou suppression utile dans le fonctionnement des traitements de données à caractère personnel, objet de la sanction.

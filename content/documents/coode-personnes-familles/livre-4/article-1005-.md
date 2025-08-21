@@ -1,0 +1,3 @@
+Une personne peut désigner la loi d’un Etat pour régir l’ensemble de sa succession ; cette désignation ne prend effet que si cette personne, au moment de la désignation ou du décès, possédait la nationalité de cet Etat ou y avait son domicile. Cette désignation doit être exprimée dans une déclaration revêtant la forme d’une disposition à cause de mort.
+L’existence et la validité du consentement quant à cette désignation sont régies par la loi désignée. Si, d’après cette loi, cette désignation n’est pas valide, la loi applicable à la succession est déterminée par application de la loi nationale du défunt.
+La révocation par son auteur d’une telle désignation doit remplir, en la forme, les conditions de la révocation d’une disposition à cause de mort.

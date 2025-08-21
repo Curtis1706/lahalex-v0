@@ -1,0 +1,3 @@
+Subvention pour la fourniture de l’accès/service universel
+Lorsque la fourniture de l’accès/service universel représente une charge injustifiée pour les entreprises désignées comme fournisseurs, l’Agence béninoise de service universel détermine la subvention à accorder pour la fourniture de l’accès/service universel.
+Le calcul du coût net des obligations de service universel est soumis à la vérification de l’Autorité de régulation.

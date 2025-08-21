@@ -1,0 +1,5 @@
+Article 836 : _(Règlement 2015-02)_ Sanction des règles relatives à la liquidation
+En cas de liquidation, les dispositions suivantes sont applicables :
+1° si la situation financière de l’entreprise de réassurance dissoute à la suite du retrait total de l’agrément fait apparaître une insuffisance d’actif par rapport au passif qui doit être réglé au cours de la liquidation, le tribunal peut, en cas de faute de gestion ayant contribué à cette insuffisance d’actif, décider à la demande du liquidateur ou même d’office que les dettes de l’entreprise seront supportées en tout ou partie, avec ou sans solidarité, par tous les dirigeants de droit ou de fait, rémunérés ou non, ou par certains d’entre eux ;
+2° l’action se prescrit par trois ans à compter du dépôt au greffe du huitième rapport trimestriel du liquidateur ;
+3° les dirigeants qui se seront rendus coupables des agissements mentionnés à l’article 829 pourront faire l’objet des sanctions prévues en cas de faillite personnelle.

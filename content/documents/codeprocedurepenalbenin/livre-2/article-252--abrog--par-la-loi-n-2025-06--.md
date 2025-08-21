@@ -1,0 +1,1 @@
+La date de chaque session d’assises est fixée après avis du procureur général, par ordonnance du président de la cour d’appel.

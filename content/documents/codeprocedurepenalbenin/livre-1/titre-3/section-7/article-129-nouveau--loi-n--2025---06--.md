@@ -1,0 +1,4 @@
+Les dispositions de l’article 128 du présent code sont applicables au avocat de la partie civile pour les auditions et confrontations de celle-ci.
+Le procureur de la République peut assister aux interrogatoires, auditions et confrontations chaque fois qu’il en manifeste le désir. Il peut poser des questions. Mention de ces questions et réponses est portée au procès-verbal. Dans ce cas, il est désigné d'office un avocat à l'inculpé s'il n'en a déjà. La commission d’office s’impose à l'inculpé. Toutefois, cette commission est non avenue si, par la suite, l’inculpé choisit un avocat.
+En cas de refus par l’inculpé de l’assistance d’un avocat désigné d’office, mention en est faite au procès-verbal.
+Les avocats de l'inculpé et de la partie civile peuvent prendre la parole pour poser des questions. Le texte des questions est reproduit ou joint au procès-verbal.

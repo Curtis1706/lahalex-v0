@@ -1,0 +1,1 @@
+Les candidats aux fonctions de Conseiller communal doivent savoir lire et écrire en français.

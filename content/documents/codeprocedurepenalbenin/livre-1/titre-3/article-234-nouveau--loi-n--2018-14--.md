@@ -1,0 +1,2 @@
+L'arrêt de mise en accusation, comme l'ordonnance de mise en accusation prévue à l'article 196, contient, à peine de nullité, l'exposé et la qualification légale des faits, objets de l'accusation.
+Le juge d'instruction ou, le cas échéant, la chambre de l'instruction, décerne en outre ordonnance de prise de corps contre l'accusé dont il précise l'identité.

@@ -1,0 +1,15 @@
+{
+  "id": "article-78-",
+  "title": "Article 78 : Demandes d’accès et d’interconnexion",
+  "numero": "78 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-77-",
+    "next": "article-79-"
+  }
+}

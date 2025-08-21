@@ -1,0 +1,5 @@
+Les allocations d’entretien mises à la charge des parents sont recouvrées comme frais de justice.
+Les père et mère ou tuteur, condamnés au paiement desdites allocations doivent se présenter au greffe du tribunal qui a rendu la décision. Il leur est remis un extrait en trois (03) exemplaires portant le décompte des sommes dues.
+Les condamnés s’acquitteront de leur dette entre les mains du trésorier payeur ou de l’un de ses comptables sur présentation de l’extrait.
+Nonobstant appel ou opposition, le paiement des allocations d’entretien doit s’effectuer par tranches mensuelles ou trimestrielles selon le cas, le versement de la première tranche devant avoir lieu dans les trois (03) mois à compter du jour où la décision a été rendue contradictoirement ou signifiée à personne.
+A défaut de paiement, il est fait application de la contrainte par corps prévue par les articles 826et suivants du présent code.

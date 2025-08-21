@@ -1,0 +1,1 @@
+Le régime matrimonial règle les effets patrimoniaux dans les rapports des époux entre eux et à l’égard des tiers.

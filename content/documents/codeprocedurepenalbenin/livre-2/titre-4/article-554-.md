@@ -1,0 +1,6 @@
+Les tribunaux de la République du Bénin sont compétents pour connaître des infractions en matière de drogue et des précurseurs :
+- lorsque l’infraction a été commise sur le territoire national ou lorsque l’un des actes qui constituent les éléments de l’infraction a été accompli en République du Bénin ;
+- lorsque l’infraction a été commise par un béninois ou par une personne résidant habituellement en République du Bénin ;
+- lorsque l’auteur se trouve en République du Bénin et qu’il n’est pas extradé ;
+- lorsque l’infraction a été commise à bord d’un aéronef immatriculé en République du Bénin ou d’un navire battant pavillon béninois ;
+- sous réserve des accords et arrangements conclus entre Etats, lorsque l’infraction a été commise à bord d’un navire que l’Etat du pavillon a autorisé la République du Bénin à arraisonner, à visiter et à prendre, en cas de découverte de preuve de participation à un trafic illicite, les mesures appropriées à l’égard du navire, des personnes se trouvant à bord et de la cargaison.

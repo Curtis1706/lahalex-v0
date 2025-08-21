@@ -1,0 +1,15 @@
+{
+  "id": "article-654-",
+  "title": "Article 654 :",
+  "numero": "654 ",
+  "document": "codeprocedurepenalbenin",
+  "path": [
+    "livre-4",
+    "titre-11"
+  ],
+  "navigation": {
+    "parent": "titre-11",
+    "previous": "article-653-",
+    "next": "article-655-"
+  }
+}

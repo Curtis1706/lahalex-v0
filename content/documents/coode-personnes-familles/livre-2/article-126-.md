@@ -1,0 +1,3 @@
+Tout mariage doit être célébré par l'officier de l’état civil dans les conditions prévues par la présente loi.
+Seul le mariage célébré par un officier de l’état civil a des effets légaux.
+Pour l’accomplissement des formalités prévues par le présent chapitre, l’officier de l’état civil peut faire appel, en cas de besoin, à un interprète sachant lire et écrire qui signera les actes en qualité de témoin instrumentaire.

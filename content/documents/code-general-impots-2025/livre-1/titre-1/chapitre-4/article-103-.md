@@ -1,0 +1,4 @@
+1) Le revenu imposable est constitué par le montant brut des loyers.
+Le cas échéant, ce montant est augmenté du montant des dépenses incombant normalement au propriétaire et mises par les conventions à la charge des locataires, et diminué du montant des dépenses supportées par le propriétaire pour le compte des locataires.
+2) Lorsque le propriétaire n’occupe pas personnellement le logement mais le met gratuitement à la disposition d’un tiers sans y être tenu par une obligation légale, le revenu en nature correspondant est compris dans la base d’imposition.
+Ce revenu est évalué conformément aux dispositions de l’article 157 du présent code.

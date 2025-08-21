@@ -1,0 +1,12 @@
+Article 2 : La présente loi portant Code des investissements fixe les conditions, avantages et règles générales applicables aux investissements directs, nationaux et étrangers, réalisés au Bénin. Il a pour objet de promouvoir, faciliter et protéger l’investissement durable et responsable en République du Bénin dans le but d’accélérer la croissance économique et de réduire !a pauvreté. A ce titre, il a vocation à encourager la création et le développement des activités visant à :
+- favoriser la création d’emplois durables et décents, la formation des cadres nationaux et l’émergence d’une main‐d’œuvre nationale qualifiée ;
+- favoriser la création d’activités à forte valeur ajoutée ;
+- encourager l’utilisation et la valorisation des ressources naturelles et des matières premières locales en priorité ;
+- favoriser la restructuration, la compétitivité, l’intégration et la croissance des entreprises ;
+- favoriser la promotion de l’industrie verte et la protection de l’environnement ;
+- encourager la décentralisation des activités économiques ;
+- développer l’industrialisation et les exportations ;
+- promouvoir certains grands travaux ;
+- encourager le transfert de compétences et de technologies ;
+- développer les secteurs tels que le tourisme, l’agriculture, certaines infrastructures pour l’industrie ou le commerce, l’économie numérique, l’énergie, le cadre de vie, l’eau potable, et tout projet éducatif orienté vers la formation professionnelle, la recherche appliquée et l’innovation ;
+- développer tous autres secteurs ou activités jugés prioritaires par décret pris en Conseil des Ministres.

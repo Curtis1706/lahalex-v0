@@ -1,0 +1,2 @@
+Signaux ou appels de détresse faux ou trompeurs
+Toute personne qui, sciemment, transmet ou met en circulation, par voie radioélectrique, des signaux ou appels de détresse faux ou trompeurs, est punie d’un emprisonnement de trois (03) mois à douze (12) mois et d’une amende de cinq cent mille (500 000) francs CFA à deux millions (2 000 000) de francs CFA ou de l’une de ces deux peines seulement.

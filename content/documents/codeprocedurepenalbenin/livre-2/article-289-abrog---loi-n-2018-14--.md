@@ -1,0 +1,1 @@
+La liste des jurés de session telle qu’elle a été arrêtée conformément aux prescriptions de l’article 272 du présent code, est notifiée à chaque accusé au plus tard, l’avant veille de l’ouverture des débats.

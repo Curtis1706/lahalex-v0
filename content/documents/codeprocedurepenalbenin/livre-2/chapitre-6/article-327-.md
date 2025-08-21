@@ -1,0 +1,2 @@
+Le président ordonne au greffier de donner lecture de la liste des témoins appelés par le ministère public, par l’accusé et s’il y a lieu, par la partie civile.
+L’huissier de service ou à défaut l’agent désigné à cet effet fait l’appel de ces témoins.

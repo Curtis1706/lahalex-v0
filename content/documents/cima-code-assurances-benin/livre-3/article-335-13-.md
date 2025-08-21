@@ -1,0 +1,4 @@
+Expertise
+La Commission de Contrôle peut faire procéder à la fixation par une expertise de la valeur de tout ou partie de l’actif des entreprises et notamment des immeubles et des parts et actions de sociétés immobilières leur appartenant ou sur lesquels elles ont consenti un prêt ou une ouverture de crédit hypothécaire.
+La valeur résultant de l’expertise doit figurer dans l’évaluation de la valeur de réalisation des placements prévus à l’article 335-12 2). Elle peut également être inscrite à l’actif du bilan dans les limites et les conditions fixées dans chaque cas par la Commission de contrôle.
+Les frais de l’expertise sont à la charge des entreprises.

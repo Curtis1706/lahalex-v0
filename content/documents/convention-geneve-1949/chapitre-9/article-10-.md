@@ -1,0 +1,1 @@
+La Puissance qui aura créé une ou plusieurs zones et localités sanitaires, ainsi que les parties adverses auxquelles leur existence aura été notifiée, nommeront, ou feront désigner par des Puissances neutres les personnes qui pourront faire partie des commission spéciales dont il est fait mention aux article 8 et 9.

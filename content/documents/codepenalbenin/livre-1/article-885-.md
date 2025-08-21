@@ -1,0 +1,1 @@
+Quiconque aura utilisé une tronçonneuse pour le sciage du bois sera puni d’une amende de cinquante mille (50.000) à cinq cent mille (500.000) francs CFA et d’un emprisonnement de trois (03) mois à trois (03) ans ou de l’une de ces deux peines seulement.

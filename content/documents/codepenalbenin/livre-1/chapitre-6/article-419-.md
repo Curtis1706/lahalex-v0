@@ -1,0 +1,1 @@
+Les lois et règlements relatifs à la conscription militaire continuent de recevoir leur exécution.

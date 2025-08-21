@@ -1,0 +1,1 @@
+Les formalités à accomplir pour l’obtention de l’acte de béninisation, ainsi que celles à remplir en cas de perte du titre ou de modification dans les caractéristiques du navire sont déterminées par décret pris en conseil des ministres.

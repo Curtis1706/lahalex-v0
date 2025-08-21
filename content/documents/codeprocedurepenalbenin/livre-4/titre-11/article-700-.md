@@ -1,0 +1,1 @@
+Le juge des enfants fixe par ordonnance le droit de visite des parents, si le mineur est placé hors de sa famille.

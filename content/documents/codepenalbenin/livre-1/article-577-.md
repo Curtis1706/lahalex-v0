@@ -1,0 +1,1 @@
+Dans les divers cas prévus aux articles 569, 572 à 576 et 578 du présent code, les condamnés seront privés des droits mentionnés à l’article 38 du présent code pour une durée de temps variant entre cinq (05) à dix (10) ans. Ils pourront, en outre, être interdits de séjour pendant une durée de cinq (05) ans à dix (10) ans.

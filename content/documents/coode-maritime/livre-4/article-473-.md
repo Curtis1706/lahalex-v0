@@ -1,0 +1,1 @@
+Les avaries communes sont supportées par le navire, le fret et la cargaison, évaluées comme il est dit dans les articles ci-après.

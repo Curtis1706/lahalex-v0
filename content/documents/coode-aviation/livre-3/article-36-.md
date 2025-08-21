@@ -1,0 +1,4 @@
+Les pièces de rechange sont entreposées en un ou plusieurs emplacements qui font objet de publicité.
+Lorsqu'elles sont utilisées sur les aéronefs auxquels elles sont affectées, elles sont immédiatement remplacées. Le créancier est prévenu de cette utilisation.
+La publicité visée au 1 alinéa du présent article, effectuée sur place par voie d’affiches avertit dûment les tiers de la nature et de l'étendue du droit dont ces pièces sont grevées et mentionne le registre où l'hypothèque est inscrite ainsi que le nom et l'adresse de son titulaire.
+Un inventaire indiquant la nature et le nombre de pièces est annexé au document inscrit.

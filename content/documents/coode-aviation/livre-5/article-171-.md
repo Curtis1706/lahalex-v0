@@ -1,0 +1,1 @@
+Tout feu non aéronautique au sol qui est situé à proximité d’un aérodrome et qui risque d'être dangereux pour la sécurité des aéronefs est éteint, masqué ou modifié de façon à supprimer la cause du danger.

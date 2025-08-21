@@ -1,0 +1,8 @@
+Agrément pour pratiquer des opérations de micro assurance
+Les entreprises de micro assurance et les entreprises d’assurance ne peuvent pratiquer les opérations prévues à l’article 717 qu’après avoir obtenu un agrément.
+Les acceptations en réassurance sont interdites aux entreprises de micro assurance.
+L’agrément est accordé sur demande de l’entreprise, pour les opérations d’une ou plusieurs branches d’assurance. L’entreprise ne peut pratiquer que les opérations pour lesquelles elle est agréée.
+Les entreprises d’assurance agréées pour pratiquer les opérations non vie prévues à l’article 300 peuvent également demander un agrément pour pratiquer les opérations non vie de micro assurance prévues à l’article 717.
+Les entreprises d’assurance agréées pour pratiquer les opérations vie prévues à l’article 300 peuvent également demander un agrément pour pratiquer les opérations vie de micro assurance prévues à l’article 717.
+Les entreprises de micro assurance peuvent demander un agrément pour pratiquer des opérations de micro assurance non vie et des opérations d’assurance temporaire décès de la micro assurance. Il leur est interdit de commercialiser pour propre compte des contrats d’épargne et de capitalisation.
+Le principe de spécialisation s’applique cependant aux entreprises de micro assurance souhaitant pratiquer des opérations d’épargne et de capitalisation. Ces entreprises sont agréées pour pratiquer des opérations de micro assurance vie à l’exclusion de toute autre activité.

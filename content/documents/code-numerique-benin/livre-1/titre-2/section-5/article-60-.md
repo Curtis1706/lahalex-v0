@@ -1,0 +1,3 @@
+Contribution au titre de l’aménagement numérique du territoire, du service universel et du fonctionnement de l’Autorité de régulation
+La contribution des opérateurs titulaires de licence et d’autorisation au titre de l’aménagement numérique du territoire, du service universel et du fonctionnement de l’Autorité de régulation est fixée à un pourcentage de leur chiffre d’affaire réalisé au titre des activités de communications électroniques objet de la licence et de l’autorisation.
+Ce pourcentage est fixé par décret pris en Conseil des Ministres sur proposition du Ministre chargé des communications électroniques et du Ministre chargé des finances.

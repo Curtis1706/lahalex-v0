@@ -1,0 +1,1 @@
+Le président interroge l’accusé sur son identité et s’assure que celui-ci a reçu soit la notification, soit la signification de l’arrêt de renvoi. Il peut lui en faire donner traduction. Il l’avise de la date à laquelle il doit comparaître devant la cour d’assises.

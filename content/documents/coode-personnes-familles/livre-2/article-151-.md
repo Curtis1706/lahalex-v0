@@ -1,0 +1,2 @@
+Le mariage nul produit ses effets comme s’il avait été valable, jusqu’au jour où la décision prononçant la nullité est devenue définitive. Il est réputé dissous à compter de ce jour.
+En ce qui concerne les biens, la dissolution remonte, quant à ses effets entre les époux, au jour de la demande ; elle n’est opposable aux tiers que du jour de l’accomplissement des formalités prévues à l’article précédent.

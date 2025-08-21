@@ -1,0 +1,5 @@
+Les privilèges mentionnés à l'article 45 de la présente loi portent sur l’aéronef ou sur l'indemnité d’assurance mentionnée à l'article 38 de la présente loi. Ils suivent l'aéronef en quelque main qu’il passe.
+Les privilèges visés au présent article s'éteignent trois mois après l'événement qui leur a donné naissance à moins que, auparavant, le créancier n'ait fait inscrire sa créance au registre d’immatriculation de l'aéronef après avoir fait reconnaître à l’amiable son montant ou à défaut, avoir introduit une autre action en justice à son sujet.
+Les privilèges peuvent aussi s'éteindre indépendamment des modes normaux :
+- par la vente judiciaire de l'aéronef ;
+- en cas de cession volontaire régulièrement inscrite au registre d'immatriculation, au plus tard un mois après la publication de la cession, dans un journal d'annonces légales du domicile du vendeur à moins que, avant l'expiration de ce délai, le créancier n'ait notifié sa créance à l'acquéreur au domicile élu par lui dans les publications.

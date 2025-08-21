@@ -1,0 +1,2 @@
+Quiconque a intentionnellement et sans droit introduit, altéré, modifié, supprimé des données informatiques ou porté atteinte de quelque manière que ce soit au fonctionnement d’un système informatique en vue d’obtenir un bénéfice personnel ou pour autrui sera puni de la réclusion criminelle à temps de cinq (05) ans à dix (10) ans et d’une amende de cinq millions (5.000.000) de francs CFA à cinquante millions (50.000.000) de francs CFA.
+Lorsqu’il en est résulté un préjudice patrimonial pour autrui, la peine sera portée au double.

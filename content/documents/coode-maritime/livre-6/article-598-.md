@@ -1,0 +1,1 @@
+Tout capitaine, officier ou maître, auteur d’outrage caractérisé par parole, geste ou menace envers les hommes d’équipage, ou qui a ordonné ou toléré un abus d’autorité vis-à-vis d’une personne embarquée est puni d’une amende de cent mille (100.000) à un million (1.000.000) de francs.

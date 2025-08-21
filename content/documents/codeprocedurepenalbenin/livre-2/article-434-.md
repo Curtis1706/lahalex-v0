@@ -1,0 +1,4 @@
+La personne civilement responsable peut toujours se faire représenter par un avocat. Le jugement est alors contradictoire à son égard, même si elle ne comparaît pas.
+Le jugement est réputé contradictoire à l’égard de la personne civilement responsable :
+1. lorsque, citée à sa personne, elle n’a pas comparu et n’a fourni de son absence une excuse valable ; lorsqu’elle a demandé, par lettre adressée au président et qui est jointe au dossier de la procédure, à être jugée en son absence.
+2. Dans tous les autres cas, si la personne civilement responsable ne comparaît pas, le jugement est à son égard rendu par défaut.

@@ -1,0 +1,4 @@
+Est puni de la réclusion criminelle à perpétuité, quiconque, sans autorisation légale, utilise ou libère de quelque manière que ce soit, des matières radioactives/nucléaires ou utilise ou fabrique un engin :
+1. dans l’intention de causer la mort ou des dommages corporels graves ; ou des dommages substantiels aux biens ou à l’environnement ;
+2. pour contraindre une personne physique ou morale, une organisation internationale ou un Etat à accomplir ou à s’abstenir d’accomplir un acte ;
+3. entrainant ou pouvant entrainer la mort ou des blessures graves pour autrui ou des dommages considérables pour les biens ou l’environnement.

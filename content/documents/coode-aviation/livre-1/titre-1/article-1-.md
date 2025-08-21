@@ -1,0 +1,120 @@
+Au sens de la présente loi, les termes, expressions ou sigles ci-après se définissent comme suit :
+• accident : événement lié à l’utilisation d'un aéronef qui se produit entre le moment où une personne monte à bord avec l'intention d’effectuer un vol et le moment où toutes les personnes qui sont montées dans cette intention sont descendues, et au cours duquel :
+1. soit une personne est mortellement ou grièvement blessée du fait qu'elle se trouve :
+- dans l'aéronef ou
+- en contact direct avec une partie quelconque de l’aéronef, y compris les parties qui s'en sont détachées ou
+- directement exposée au souffle des réacteurs.
+Sont exclues des dispositions du présent paragraphe a), les lésions dues à des causes naturelles, les blessures infligées à la personne par elle-même ou par d'autres et les blessures subies par un passager clandestin caché hors des zones auxquelles les passagers et l'équipage ont normalement accès ;
+1. soit l’aéronef a subi des dommages ou une rupture structurelle :
+- qui altèrent ses caractéristiques de résistance structurelle, de performances ou de vol et ;
+- qui, normalement, nécessitent une réparation importante ou le remplacement de l’élément endommagé.
+Sont exclues des dispositions du présent paragraphe b), les pannes ou les avaries de moteurs, lorsque les dommages sont limités aux moteurs, à leurs capotages ou leurs accessoires, ou encore lorsque les dommages sont limités aux hélices, aux extrémités d'ailes, aux antennes, aux pneus, aux freins, aux carénages, ou à de petites entailles ou perforations du revêtement ;
+1. soit l'aéronef a disparu ou est totalement inaccessible.
+- administration de l'aviation civile : établissement public ou structure dotée de la personnalité juridique et de l'autonomie financière, chargé de l'aviation civile ;
+- aéroclub : association de sport aérien ;
+- aérodrome : surface définie sur terre ou sur l'eau, comprenant, éventuellement, des bâtiments, des installations et matériels, et destinée à être utilisée, en totalité ou en partie, pour l'arrivée, le départ et les évolutions des aéronefs à la surface ;
+- aérodrome certifié : aérodrome dont l'exploitant a reçu un certificat d'aérodrome ;
+- aérodrome ouvert à la circulation aérienne publique : aérodrome certifié conformément aux dispositions de l'article 160 de la présente loi ;
+- aérodyne : aéronef dont la sustentation en vol est obtenue principalement par les forces aérodynamiques sur des surfaces qui restent fixes dans des conditions données de vol ;
+- aéronef : appareil qui peut se soutenir dans l'atmosphère grâce à des réactions de l'air autres que les réactions de l'air sur la surface de la terre ;
+- aéronef civil : aéronef autre qu'un aéronef d'Etat ;
+- aéronef d’Etat : aéronef utilisé pour les services militaires, de douane ou de police ;
+- aéroport : terrain spécialement aménagé pour l'atterrissage, le décollage et les manœuvres d'aéronefs, y compris les installations annexes qu’il peut comporter pour les besoins du trafic et le service des aéronefs ainsi que les installations nécessaires pour assister les services aériens commerciaux ;
+- aéroport douanier : aéroport sur lequel peuvent s'accomplir les formalités de douane ;
+- aéroport international : aéroport désigné par l'Etat comme aéroport d’entrée et de sortie destiné au trafic aérien international et où s’accomplissent les formalités de douane, de contrôle des personnes, de santé publique, de contrôle vétérinaire et phytosanitaire et autres formalités analogues ;
+- affrètement d'aéronef : opération de mise à disposition d'un aéronef avec équipage, moyennant rémunération ;
+- agrément: autorisation administrative accordée à une entreprise par l'autorité aéronautique civile pour effectuer, à titre onéreux, le transport de passagers, de fret et de courrier ;
+- aire de manœuvre : partie d’un aérodrome à utiliser pour les décollages, les atterrissages et la circulation des aéronefs à la surface, à l'exception des aires de trafic ;
+- aire de trafic : aire définie, sur un aérodrome terrestre, destinée aux aéronefs pendant rembarquement ou le débarquement des voyageurs, le chargement ou le déchargement de la poste ou du fret, l’avitaillement ou la reprise de carburant, le stationnement ou l'entretien ;
+- annexes à la Convention relative à l'aviation civile internationale : documents publiés par l'Organisation de l'aviation civile internationale contenant les normes et pratiques recommandées applicables à l'aviation civile ;
+- autorité aéroportuaire : autorité habilitée à exercer l’activité aéroportuaire ;
+- assistance en escale : prestations fournies sur un aéroport à un usager, notamment à une compagnie aérienne ou à un exploitant d'aéronef ;
+- aviation générale: ensemble des activités d’aviation civile, notamment le sport, l'entraînement au vol, autres que le transport aérien commercial et le travail aérien ;
+- auto-assistance en escale : situation dans laquelle un usager se fournit directement à lui-même une ou plusieurs catégories de services d'assistance et ne passe avec un tiers aucun contrat, sous quelque dénomination que ce soit, ayant pour objet la prestation de tels services ;
+- autorité aéronautique civile ou autorité de l'aviation civile : autorité gouvernementale en charge de l'aviation civile, personne morale ou organe habilité à exercer une telle fonction ;
+- brevet : titre sanctionnant un ensemble de connaissances générales, théoriques et pratiques ; il est délivré après examen et est définitivement acquis par son titulaire ;
+- Bureau enquêtes-accidents : service indépendant ou autorité désigné par l'Etat pour procéder aux enquêtes sur les accidents et incidents d'aviation dans le cadre de l'annexe 13 à la Convention relative à l'aviation civile internationale concernant les enquêtes sur les accidents et incidents d'aviation ;
+- certificat d'aérodrome : document délivré par l'autorité aéronautique civile en vertu des règlements applicables d'exploitation d'un aérodrome ;
+- certificat de navigabilité : document attestant que l'aéronef est apte à effectuer la navigation aérienne ;
+- circulation aérienne : ensemble des mouvements des aéronefs en vol et des aéronefs évoluant sur l'aire de manœuvre d’un aérodrome ;
+- circulation aérienne publique : circulation aérienne constituée par l’ensemble des mouvements des aéronefs civils et des aéronefs d'Etat soumis à la réglementation relevant de la compétence de l'autorité aéronautique ;
+- commission technique d’enquête ou équipe d’enquête : commission indépendante mise en place par le responsable du Bureau enquêtes-accidents pour procéder aux enquêtes sur les accidents et les incidents graves d'aviation civile ;
+- contrat de transport aérien : contrat par lequel un transporteur s'engage contre rémunération à transporter par aéronef d'un point de départ à un point d'arrivée convenus et dans un délai déterminé, des passagers, des marchandises ou du courrier ;
+- contrôle de l'exploitation aérienne : exercice de l'autorité sur le commencement, la continuation, le déroulement et l'achèvement d'un vol dans l'intérêt de la sécurité de l’aéronef, ainsi que de la régularité et de l'efficacité du vol ;
+- Convention relative à l'aviation civile internationale : Convention signée à Chicago, le 7 décembre 1944 et toutes ses annexes ;
+- détresse : situation dans laquelle un aéronef et ses occupants sont menacés d'un danger grave et imminent et ont besoin de secours immédiat ;
+- enquête technique : activités menées en vue de prévenir les accidents et les incidents graves, qui comprennent la collecte et l'analyse de renseignements, l'exposé des conclusions, la détermination des causes et s'il y a lieu, l'établissement de recommandations de sécurité ;
+- entreprise de transport aérien : entreprise de transport offrant ou exploitant un service aérien régulier et/ou non régulier ;
+- environnement : ensemble des éléments naturels ou artificiels et des équilibres bio et géochimiques auxquels ils participent ainsi que les facteurs économiques, sociaux et culturels qui favorisent l'existence, la transformation et le développement du milieu, des organismes vivants et des activités humaines ;
+- équipage : ensemble des personnes embarquées pour le service de l'aéronef en vol. Il est placé sous les ordres du commandant de bord ;
+- essais : épreuves exécutées en vol, à terre ou dans l'eau, sous la direction ou le contrôle des industriels ou des représentants de l'Etat, ayant pour objet la recherche des caractéristiques et la mise au point des aéronefs portant sur la cellule, les organes moteurs et, généralement, tous les instruments, machines, équipements et aménagements concourant à la marche et à la conduite des aéronefs. Elles portent également sur la sécurité et le confort de l'équipage ainsi que ceux des passagers et s’appliquent aux aéronefs qui possèdent la qualité de prototype ou de tête de série ou qui comportent un élément nouveau de nature à affecter leurs qualités de vol ou leurs performances ;
+- Etat d'immatriculation : Etat sur le registre duquel un aéronef est inscrit ;
+- exploitant : personne physique ou morale qui se livre ou propose de se livrer à l’exploitation d'un ou de plusieurs aéronefs ;
+- facilitation : gestion efficiente d'un processus de contrôle nécessaire, de nature à accélérer l'acheminement des personnes ou des marchandises en les épargnant des délais opérationnels évitables ;
+- gestionnaire de l'aéroport : structure ou personne morale à qui il est confié par voie de contrat, la gestion d'un aéroport ;
+- héliport : surface aménagée pour le décollage et l'atterrissage des hélicoptères ;
+- hélistation : aérodrome ou aire définie sur une construction, destiné à être utilisé, en totalité ou en partie, pour l'arrivée, le départ et les évolutions des hélicoptères à la surface ;
+- hydrobase : plan d'eau aménagé pour l'amerrissage des hydravions ;
+- hypothèque : sûreté conventionnelle qui confère au créancier un droit réel sur un aéronef ;
+- immatriculation : inscription sur un registre de lettres et/ou de chiffres attribués par l'Organisation de l'aviation civile internationale à l'Etat d’immatriculation ;
+- incident: événement, autre qu'un accident, lié à l'utilisation d’un aéronef qui compromet ou peut compromettre la sécurité de l'exploitation ;
+- incident grave : événement dont les circonstances indiquent qu'un accident a failli se produire ;
+- licence : titre sanctionnant l'aptitude et le droit pour les titulaires de brevets, de remplir les fonctions correspondantes. Une licence n’est valable que pour une période limitée ; elle est renouvelable pour vérifications périodiques des diverses aptitudes requises ;
+- location d'aéronefs : opération par laquelle une personne appelée bailleur met à la disposition d’une autre personne appelée preneur ou locataire, un aéronef sans équipage moyennant rémunération ;
+- marchandises : biens, autres que la poste, les provisions de bord et les bagages, transportés à bord d'un aéronef ;
+- marchandises dangereuses : matières ou objets de nature à présenter un risque appréciable pour la santé, la sécurité, les biens ou l'environnement qui sont énumérés dans la liste des marchandises dangereuses des instructions techniques ou qui, s'ils ne figurent pas sur cette liste, sont classés conformément à ces instructions ;
+- membre d'équipage : personne chargée par un exploitant d'une fonction à bord d'un aéronef pendant une période de service de vol ;
+- membre d'équipage de cabine : membre d'équipage qui effectue les tâches que lui a assignées l'exploitant ou le pilote commandant de bord pour assurer la sécurité des passagers mais qui n'exerce pas de fonction de membre d'équipage de conduite ;
+- membre d'équipage de conduite : membre d'équipage titulaire d'une licence et détenant une qualification en état de validité et qui accomplit les tâches liées aux fonctions essentielles de commandement, de pilotage ou de mécanique à bord d'un aéronef pendant une période de service de vol ;
+- membre d'équipage professionnel : personne rémunérée et chargée par un exploitant, de fonctions à bord d'un aéronef pendant une période de service de vol ;
+- membre d’équipage non professionnel : membre d’équipage qui n'entre pas dans la catégorie des membres d'équipage professionnel ;
+- navigation aérienne : ensemble des techniques et procédés permettant de définir la position d'un aéronef et de guider sa trajectoire ;
+- navigabilité : conditions d'aptitude au vol d'un aéronef ;
+- Organisation de l'aviation civile internationale : organisation créée par la Convention relative à l'aviation civile internationale signée à Chicago, le 7 décembre 1944, qui a pour but d'élaborer les principes et techniques de la navigation aérienne et de promouvoir la planification et le développement du transport aérien international ;
+- permis d'exploitation aérienne : document délivré à une entreprise par l'autorité aéronautique civile d'un Etat attestant que l'entreprise concernée possède les capacités professionnelles et organisationnelles pour assurer l'exploitation d'aéronefs en toute sécurité en vue des activités de transport aérien qui y sont mentionnées ;
+- prestataires d’assistance aux familles : entités ayant un rôle en matière d'assistance aux victimes d'accidents et à leurs familles, telles que les ministères et organismes de l'Etat où l'accident s'est produit, l'exploitant aérien, les exploitants d'aéroports, les associations des familles et les tiers, notamment les organismes d’aide non gouvernementaux, les entreprises commerciales ;
+- prestations fournies dans l'assistance en escale : ensemble des activités comprenant l'assistance administrative au sol et la supervision, l’assistance fret et poste, l'assistance passagers, l'assistance bagages, l'assistance opérations en piste, l'assistance nettoyage et service de l'avion, l'assistance carburant et huile, l'assistance entretien en ligne, l'assistance opérations aériennes et administration des équipages, l’assistance transport au sol et l'assistance service commissariat ;
+- pilote commandant de bord ou commandant de bord : pilote désigné par l'exploitant ou par le propriétaire dans le cas de l'aviation générale, comme étant celui qui commande à bord et qui est responsable de l'exécution sûre du vol ;
+- piraterie aérienne : saisie réelle ou tentative de saisie ou exercice de contrôle d'un aéronef, par la force ou par la violence, ou par toute autre forme d'intimidation, sans motif légitime ;
+- piste : aire rectangulaire définie sur un aérodrome terrestre, aménagée pour servir, sur sa longueur, au roulement, au décollage et à l'atterrissage des aéronefs ;
+- police des aérodromes : ensemble des mesures ayant pour but de garantir la sécurité des aérodromes ;
+- programme national de sécurité : ensemble intégré de lois, de règlements, de politiques, d’objectifs, de processus et d’activités visant à une gestion proactive de la sécurité ;
+- programme national de sûreté de l’aviation civile: mesures adoptées par l’Etat béninois pour assurer la protection de l'aviation civile internationale contre les actes d'intervention illicite ;
+- règlement aéronautique : corpus de règles appropriées pour assurer, au minimum, le respect des prescriptions nationales issues de la présente loi et prévoyant des procédures d’exploitation des équipements et des infrastructures, y compris des systèmes normalisés de gestion de la sécurité et de formation, en conformité avec les normes et pratiques recommandées figurant dans les annexes à la Convention relative à l'aviation civile internationale ;
+- réceptions : épreuves de vérifications en vol prévues par les règlements ou conventions et portant sur les aéronefs et les matériels aéronautiques de série ;
+- redevances : rémunérations perçues pour services rendus aux usagers et aux exploitants d'aéronefs ;
+- saisie conservatoire : acte par lequel un aéronef est mis sous main de justice, en application des dispositions de la Convention pour l'unification de certaines règles relatives à la saisie conservatoire des aéronefs, signée à Rome le 29 mai 1933 ;
+- salaire minimum mensuel garanti : salaire de base augmenté des indemnités de logement, de déplacement et de communication et du minimum d’heures de vol garanti ;
+- sécurité : ensemble des mesures prises pour assurer ou faire assurer la sécurité de l'exploitation aérienne ;
+- sécurité-sauvetage : fonctions de surveillance, de protection et de secourisme des passagers ou de marchandises à bord d'un aéronef au sol ;
+- service aérien commercial : vol ou série de vols transportant, à titre onéreux, des passagers, du fret, du courrier ;
+- service aérien régulier : série de vols :
+1. effectués à titre onéreux, au moyen d'aéronefs destinés à transporter des passagers, du fret, du courrier, dans des conditions telles que, sur chaque vol, des sièges, vendus individuellement, sont mis à disposition du public soit directement par le transporteur aérien, soit par ses agents agréés ;
+2. organisés de façon à assurer la liaison entre deux aéroports ou plus :
+- soit selon un horaire public ;
+- soit avec une régularité ou une fréquence telle qu'il fait partie d'une série systématique évidente.
+Les caractéristiques visées aux points 1- et 2- de la présente définition sont cumulatives ;
+- service aérien non régulier : service de transport aérien commercial effectué autrement que comme un service régulier, à savoir : un vol ou une série de vols à la demande ou en charter ;
+- souveraineté : droit et propriété complète et exclusive d’un Etat sur l’espace aérien au-dessus de son territoire ;
+- supervision de la sécurité : fonction exécutée par l’organisme national chargé de l'aviation civile pour s'assurer que les personnes et les organisations qui exercent une activité aéronautique respectent les lois et les règlements nationaux concernant la sécurité ;
+- supervision de la sûreté : fonction par laquelle l'organisme national chargé de l'aviation civile assure l'application effective des normes et pratiques recommandées de l'Organisation de l'aviation civile internationale relatives à la sûreté et des procédures correspondantes figurant dans les annexes à la Convention relative à l'aviation civile internationale, notamment, les annexes 17 relative à la sûreté et 9 relative à la facilitation, ainsi que dans les documents connexes de l'Organisation ;
+- sûreté aéroportuaire : combinaison des mesures ainsi que des moyens techniques et humains mis en place sur un aéroport et visant la protection de l’aviation civile contre les actes d'intervention illicite, conformément aux dispositions des conventions et protocoles signés, ratifiés ou auxquels a adhéré la République du Bénin ;
+- sûreté de l'aviation civile : protection de l'aviation civile contre les actes d'intervention illicite, réalisé par une combinaison de mesures ainsi que de moyens humains et matériels ;
+- survivant : victime qui n'est pas mortellement blessée suite à un accident d’aviation ;
+- suzeraineté : situation dans laquelle le suzerain exerce une puissance sur une région ou une nation tributaire qui dispose toutefois de quelque autonomie de gouvernance ;
+- système de gestion de la sécurité : formalisation d’une culture de la sécurité existante qui fédère les obligations et les pratiques et met en avant la gestion des risques en vue de leur atténuation. Elle s'intéresse aux dérives dans les pratiques de travail de façon à identifier les incidents et accidents potentiels ;
+- territoire de l'Etat : régions terrestres et eaux territoriales y adjacentes qui se trouvent sous la souveraineté, la suzeraineté, la protection et le mandat de l’Etat ;
+- transport aérien : opération aérienne effectuée contre rémunération ou contre salaire, en vue ou pendant l’accomplissement du transport de passagers, du courrier et du fret ;
+- transport aérien commercial ou public : transport aérien de passagers, de fret ou de poste, effectué contre rémunération ou en vertu d'un contrat de location ;
+- transport aérien commercial international : transport par aéronef de personnes ou de biens moyennant rémunération ou par le biais d’un contrat ou transport aérien de courrier entre deux ou plusieurs Etats ;
+- transporteur aérien : entreprise de transport aérien possédant un agrément en cours de validité ;
+- transporteur contractuel : transporteur qui a signé un contrat de transport avec l’expéditeur ou le passager ;
+- transporteur de fait : quiconque, sans avoir signé un contrat de transport avec l’expéditeur ou le passager, a effectué tout ou partie du transport, en vertu d'une autorisation donnée par le transporteur contractuel ;
+- transporteur aérien de l'Union : transporteur aérien titulaire d'un agrément en cours de validité délivrée par une autorité aéronautique civile d'un Etat membre de l'Union économique et monétaire ouest africaine ;
+- transporteur aérien étranger: transporteur aérien titulaire d'un agrément en cours de validité délivrée par une autorité aéronautique civile d'un Etat tiers de l'Union économique et monétaire ouest africaine ;
+- Union : Union économique et monétaire ouest africaine ;
+- validation : acceptation écrite d'une mesure prise par les autorités aéronautiques civiles d'un autre Etat en lieu et place d'une mesure qui relève, selon la présente loi, de la responsabilité des autorités aéronautiques de la République du Bénin ;
+- victime : tout occupant d'un aéronef ou toute autre personne se trouvant hors de l'aéronef, qui est directement mais involontairement touché par l'accident. Une victime peut être un membre de l'équipage, un passager payant ou non ou un tiers ;
+- vol privé : vol qui n'assure ni des services aériens de transport public, ni des travaux aériens ;
+- voltige: acrobatie aérienne ou ensemble des manœuvres inhabituelles dans le pilotage ordinaire d'un aéronef et qui font l'objet d'un apprentissage particulier ;
+- zone interdite : espace aérien de dimensions définies au-dessus du territoire ou des eaux territoriales d'un Etat dans les limites duquel le vol des aéronefs est interdit.

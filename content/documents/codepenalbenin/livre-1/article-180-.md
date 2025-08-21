@@ -1,0 +1,2 @@
+Est coupable d’espionnage et puni de la réclusion criminelle à perpétuité, tout étranger qui a commis l’un des actes visés aux articles 176-3, 177-4, 178 et 179 du présent code.
+La provocation à commettre ou l’offre de commettre un des crimes visés aux articles 176, 178 et 179 du présent code et au présent article, est punie comme le crime même.

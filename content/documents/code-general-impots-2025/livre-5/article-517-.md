@@ -1,0 +1,7 @@
+1)  Toute  communication  officielle  entre  l’administration  fiscale  et  le contribuable ou toute autre personne visée par les dispositions du présent livre se fait par l’un des moyens suivants :
+1) une lettre recommandée ;
+1) un acte ou une communication écrit remis ou envoyé contre accusé de
+réception ou décharge administrative, au contribuable, ou à toute autre personne visée par les dispositions du présent code, ou dans les locaux de l’administration ;
+3) un  écrit  électronique  conforme  aux  dispositions  de  la  législation  sur  le
+numérique et répondant aux exigences équivalentes à celles de l’écrit non-électronique. Un arrêté du ministre chargé des finances fixe les conditions et modalités d’échange d’informations sous forme d’écrits électroniques entre l’administration fiscale et les usagers.
+2) Tout changement d’adresse du contribuable, y compris l’adresse électronique, doit être communiqué à l’administration fiscale. Si aucun changement d’adresse n’a été communiqué à l’administration fiscale, toute communication est envoyée à la dernière adresse connue. Si un contribuable ou toute autre personne n’a pas d’adresse connue, l’administration fiscale publie, sous réserve du respect du secret professionnel, toutes les communications concernant ledit contribuable ou ladite personne par voie de presse.

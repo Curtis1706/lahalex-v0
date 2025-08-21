@@ -1,0 +1,2 @@
+Le conseil de supervision se réunit sur convocation du président au moins une (01) fois par mois. En cas de besoin, il tient des réunions extraordinaires.
+Les convocations sont notifiées à la diligence du secrétaire permanent au moins trois (03) jours avant la réunion. Ce délai est réduit à vingt-quatre (24) heures en cas d’urgence indiquée par le président.

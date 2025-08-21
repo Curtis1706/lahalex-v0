@@ -1,0 +1,1 @@
+Les experts appelés à participer aux visites citées à l’article précédent reçoivent des vacations dont le montant et l’imputation sont fixés par voie réglementaire.

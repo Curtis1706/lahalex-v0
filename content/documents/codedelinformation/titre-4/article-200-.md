@@ -1,0 +1,1 @@
+Les professions de foi, les circulaires et les affiches particulières, électorales ou religieuses, ne peuvent être placardées que sur les emplacements déterminés par l’autorité administrative territorialement compétente.

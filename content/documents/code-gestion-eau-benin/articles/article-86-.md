@@ -1,0 +1,1 @@
+Article 86 : Quiconque édifie une construction ou un bâtiment en violation d’une interdiction ou d’une règle édictée en application des dispositions de l’article 55 de la présente loi, est puni d’une amende de cinq cent mille (500 000) à deux millions (2 000 000) de francs CFA sans préjudice de la destruction des édifices.

@@ -1,0 +1,3 @@
+Est puni de un (01) an à cinq (05) ans d’emprisonnement et d’une amende de deux millions (2.000.000) à cinq millions (5.000.000) de francs CFA :
+1. quiconque a empêché de faire campagne ou d’intimider de quelque manière que ce soit, un candidat ou un groupe de candidats faisant campagne sur le territoire de sa circonscription électorale ;
+2. toute personne, ayant pris part à des manifestations culturelles traditionnelles publiques ou toutes autres manifestations publiques susceptibles de restreindre les libertés individuelles pendant la période allant de l’ouverture officielle de la campagne électorale au jour du vote.

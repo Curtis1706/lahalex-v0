@@ -1,0 +1,2 @@
+Le maire et ses adjoints sont élus par le Conseil communal en son sein, au scrutin uninominal secret et à la majorité absolue.
+Le candidat aux fonctions de maire ou d'adjoint au maire est présenté par le parti ayant obtenu la majorité absolue des conseillers.

@@ -1,0 +1,1 @@
+Quiconque a participé à une association formée ou à une entente établie en vue de la préparation concrétisée par un ou plusieurs faits matériels, d’un ou de plusieurs crimes contre les personnes ou les biens, est puni d’un emprisonnement de cinq (05) ans à dix (10) ans et pourra être interdit de séjour.

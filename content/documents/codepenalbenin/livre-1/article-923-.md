@@ -1,0 +1,1 @@
+Il est interdit de s’opposer aux mesures d’hygiène notamment la désinfection, la désinsectisation et la dératisation à domicile ordonnée par les autorités compétentes.

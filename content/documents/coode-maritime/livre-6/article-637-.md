@@ -1,0 +1,2 @@
+Dans les eaux territoriales et la zone économique exclusive de la République du Bénin, les dispositions du présent code s’appliquent dans les conditions visées à l’article 635 aux navires et plateformes étrangers, même lorsqu’ils sont immatriculés dans un territoire relevant d’un Gouvernement non partie à la convention susmentionnée.
+Toutefois, seules les peines d’amende peuvent être prononcées lorsque l’infraction a été constatée dans la zone économique exclusive de la République du Bénin.

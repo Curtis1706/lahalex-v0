@@ -1,0 +1,876 @@
+{
+  "id": "code-gestion-eau-benin",
+  "title": "Code de la Gestion de l’Eau en République du Bénin",
+  "type": "codes",
+  "description": "Code fixant les règles relatives à la gestion, la protection et l’utilisation durable des ressources en eau en République du Bénin.",
+  "structure": {
+    "sections": [
+      {
+        "id": "article-1er-",
+        "title": "Article 1er : Toute personne a le droit à un environnement sain, satisfaisant et durable et a le devoir de le défendre. L’Etat veille à la protection de l’environnement et à la conservation des ressources naturelles en général, en l’occurrence l’eau.",
+        "type": "article",
+        "level": 1,
+        "order": 0,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-2-",
+        "title": "Article 2 : La présente loi a pour objet de déterminer les conditions d’une gestion intégrée des ressources en eau.",
+        "type": "article",
+        "level": 1,
+        "order": 1,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-3-",
+        "title": "Article 3 : La gestion intégrée des ressources en eau a pour but d’assurer une utilisation équilibrée, une répartition équitable et une exploitation durable de la ressource disponible.",
+        "type": "article",
+        "level": 1,
+        "order": 2,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-4--",
+        "title": "Article 4 _:_ Sont soumis aux dispositions de la présente loi les aménagements, les ouvrages, les installations et les activités réalisés dans les eaux intérieures, y compris les eaux de transition, par toute personne physique ou morale, publique ou privée, et entraînant selon le cas :",
+        "type": "article",
+        "level": 1,
+        "order": 3,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-5-",
+        "title": "Article 5 : Au sens de la présente loi, on entend par :",
+        "type": "article",
+        "level": 1,
+        "order": 4,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-6--",
+        "title": "Article 6 _:_ chaque citoyen béninois a le droit de disposer de l’eau pour ses besoins et les exigences élémentaires de sa vie et de sa dignité.",
+        "type": "article",
+        "level": 1,
+        "order": 5,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-7-",
+        "title": "Article 7 : L’utilisation de l’eau, sous quelque forme que ce soit, exige de chacun une contribution à l’effort de la Nation pour une gestion rationnelle de cette ressource.",
+        "type": "article",
+        "level": 1,
+        "order": 6,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-8-",
+        "title": "Article 8 : Les promoteurs d’activités qui rendent nécessaires ou utiles des interventions publiques ou privées en vue de répondre aux besoins, tant quantitatifs que qualitatifs en ressources en eau sont soumis à des charges ou des contributions correspondantes pour leur financement.",
+        "type": "article",
+        "level": 1,
+        "order": 7,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-9-",
+        "title": "Article 9 : La gestion durable de l’eau consiste en une utilisation prudente et rationnelle fondée sur les données scientifiques, les solidarités caractérisant les eaux superficielles et souterraines, le respect des engagements internationaux et les principes généraux de protection de l’environnement reconnus par les lois de la République du Bénin.",
+        "type": "article",
+        "level": 1,
+        "order": 8,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-10-",
+        "title": "Article 10 : Les décisions relatives à la gestion de l’eau sont prises, selon le cas, par les autorités compétentes aux niveaux national, départemental, ou communal, en concertation avec les institutions de bassin et les usagers organisés en groupes d’intérêt, sous réserve qu’aucune considération d’intérêt général ou d’efficacité ne s’y oppose.",
+        "type": "article",
+        "level": 1,
+        "order": 9,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-11-",
+        "title": "Article 11 : Le ministère veille à ce que le public, notamment les usagers et les populations concernées par un aménagement hydraulique, une mesure ou un plan de gestion de l’eau, participe au processus de prise de décision et reçoive des autorités compétentes les informations appropriées.",
+        "type": "article",
+        "level": 1,
+        "order": 10,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-12-",
+        "title": "Article 12 : Dans tous les projets de valorisation, de mobilisation, de protection et de conservation des ressources en eau, l’Etat et les collectivités territoriales encouragent la participation des personnes physiques et morales de droit privé du secteur national de l’eau, sous réserve que des considérations d’intérêt général ou d’efficacité ne s’y opposent.",
+        "type": "article",
+        "level": 1,
+        "order": 11,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-13-",
+        "title": "Article 13 : Les pratiques coutumières ainsi que les conventions locales, dès lors qu’elles ne compromettent pas la réalisation des objectifs de la présente loi et n’en contredisent pas les dispositions, sont prises en compte par les autorités en charge de la gestion de l’eau.",
+        "type": "article",
+        "level": 1,
+        "order": 12,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-14-",
+        "title": "Article 14 : La pollution des ressources en eau est interdite.",
+        "type": "article",
+        "level": 1,
+        "order": 13,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-15-",
+        "title": "Article 15 : La République du Bénin coopère avec les autres Etats pour la mise en œuvre des accords internationaux ratifiés, particulièrement, ceux visant la prévention et l’élimination de la pollution de l’environnement marin, pour les utilisations et fonctions de l’eau à caractère transfrontalier.",
+        "type": "article",
+        "level": 1,
+        "order": 14,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-16-",
+        "title": "Article 16 : Toute construction d’ouvrages susceptibles d’avoir une incidence sur la qualité et/ou la répartition des eaux transfrontières, doit faire préalablement l’objet d’une autorisation et d’une étude d’impact environnemental.",
+        "type": "article",
+        "level": 1,
+        "order": 15,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-17-",
+        "title": "Article 17 : L’eau, élément du patrimoine commun national, fait partie du domaine public.",
+        "type": "article",
+        "level": 1,
+        "order": 16,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-18-",
+        "title": "Article 18 : Le domaine public de l’eau comprend les eaux superficielles et les eaux souterraines ainsi que leurs dépendances et les ouvrages publics affectés ou nécessaires à leur gestion. Y sont inclus, à ce titre :",
+        "type": "article",
+        "level": 1,
+        "order": 17,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-19-",
+        "title": "Article 19 : Nonobstant les dispositions des articles 17 et 18 ci-dessus, l’eau recueillie dans un ouvrage privé et destinée à un usage domestique ne fait pas partie du domaine public. Il en est de même des piscines, des étangs, des citernes et des bassins d’agrément construits ou aménagés par les personnes privées sur un fonds privé.",
+        "type": "article",
+        "level": 1,
+        "order": 18,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-20-",
+        "title": "Article 20 : Dans le cas des cours d’eau, le domaine public inclut le lit, identifié par la présence de l’eau ou des traces apparentes attestant cette présence à une époque récente, les îles, les îlots, les bancs de sable et les atterrissements, ainsi que les berges jusqu’à la limite atteinte par les plus hautes eaux avant débordement et les francs-bords.",
+        "type": "article",
+        "level": 1,
+        "order": 19,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-21-",
+        "title": "Article 21 : Lorsqu’un cours d’eau se trouve modifié naturellement ou par l’effet direct ou indirect d’interventions humaines, le lit nouveau ainsi que les berges et les francs-bords sont inclus dans le domaine public. Il en est de même des zones de mobilité correspondant aux caractères hydrologiques et géomorphologiques essentiels du cours d’eau.",
+        "type": "article",
+        "level": 1,
+        "order": 20,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-22-",
+        "title": "Article 22 : Les dispositions prévues à l’article 20 de la présente loi sont également applicables aux lacs, lagunes et autres étendues d’eau continentales.",
+        "type": "article",
+        "level": 1,
+        "order": 21,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-23-",
+        "title": "Article 23 : Les cours d’eau, les étendues d’eau et les espaces mentionnés à l’article 18 de la présente loi sont inscrits dans une nomenclature établie par décret pris en conseil des ministres, après une enquête publique conduite sous l’autorité du ministre.",
+        "type": "article",
+        "level": 1,
+        "order": 22,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-24-",
+        "title": "Article 24 : Un décret pris en conseil des ministres fixe la procédure de détermination des limites des dépendances du domaine public de l’eau et, en particulier :",
+        "type": "article",
+        "level": 1,
+        "order": 23,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-25-",
+        "title": "Article 25 : Des décrets pris en conseil des ministres déterminent les modalités de l’indemnisation des propriétaires et autres titulaires de droits fonciers devant subir un préjudice direct, matériel et certain du fait du classement de leurs terrains parmi les dépendances du domaine public de l’eau à la suite d’une modification des limites de ce dernier, que cette modification résulte des dispositions de la présente loi ou d’un changement artificiel ou naturel du cours ou du régime des eaux.",
+        "type": "article",
+        "level": 1,
+        "order": 24,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-26-",
+        "title": "Article 26 : En vue de la conservation des ressources en eau, l’Etat et les collectivités territoriales assurent, dans le temps et dans l’espace, un équilibre entre la disponibilité de la ressource en eau en quantité et en qualité et les besoins à satisfaire selon les divers usages et fonctions de l’eau.",
+        "type": "article",
+        "level": 1,
+        "order": 25,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-27-",
+        "title": "Article 27 : Le ministère réalise un inventaire quantitatif et qualitatif de l’eau et en assure le suivi.",
+        "type": "article",
+        "level": 1,
+        "order": 26,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-28-",
+        "title": "Article 28 : La mise en œuvre de la politique de conservation des ressources en eau requiert la fixation des objectifs de qualité pour certaines masses d’eau superficielles ou souterraines.",
+        "type": "article",
+        "level": 1,
+        "order": 27,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-29-",
+        "title": "Article 29 : Dans le cadre de la gestion de l’eau, l’Etat et les collectivités territoriales décentralisées assurent, à tous les niveaux, la mise en place des structures appropriées et la participation des acteurs concernés.",
+        "type": "article",
+        "level": 1,
+        "order": 28,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-30-",
+        "title": "Article 30 : Les outils de planification nécessaires à la gestion durable de l’eau sont :",
+        "type": "article",
+        "level": 1,
+        "order": 29,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-31-",
+        "title": "Article 31 : Il est créé en République du Bénin un établissement public doté de la personnalité juridique appelé fonds national de l’eau.",
+        "type": "article",
+        "level": 1,
+        "order": 30,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-32-",
+        "title": "Article 32 : Un décret pris en conseil des ministres fixe les missions, l’organisation et le fonctionnement du fonds national de l’eau.",
+        "type": "article",
+        "level": 1,
+        "order": 31,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-33-",
+        "title": "Article 33 : Les ressources du fonds national de l’eau sont constituées par :",
+        "type": "article",
+        "level": 1,
+        "order": 32,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-34-",
+        "title": "Article 34 : En application du principe « utilisateur-payeur » énoncé aux articles 7 et 8 de la présente loi, les personnes physiques ou morales qui utilisent l’eau à des fins autres que domestiques peuvent être assujetties au versement d’une contribution financière calculée sur la base du volume d’eau prélevé, consommé ou mobilisé ; cette contribution doit en priorité servir au financement du secteur de l’eau.",
+        "type": "article",
+        "level": 1,
+        "order": 33,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-35-",
+        "title": "Article 35 : Sur proposition des ministres en charge des finances et de l’eau, un décret pris en conseil des ministres précise les utilisations domestiques, en fixe les seuils et définit, le cas échéant, les conditions dans lesquelles certaines utilisations domestiques peuvent être soumises à une contribution financière.",
+        "type": "article",
+        "level": 1,
+        "order": 34,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-36-",
+        "title": "Article 36 : Les contributions résultant de l’application du principe « pollueur-payeur » énoncé à l’article 14 de la présente loi sont proportionnées à l’importance de la pollution ou de la dégradation en cause. Elles peuvent être réduites à raison des dispositions prises par les redevables pour y remédier et n’excluent pas le bénéfice d’une aide publique tendant aux mêmes fins.",
+        "type": "article",
+        "level": 1,
+        "order": 35,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-37-",
+        "title": "Article 37 : En cas de pollution accidentelle de l’eau, les personnes publiques intervenues matériellement ou financièrement ont droit au remboursement, par la ou les personnes à qui incombe la responsabilité de l’accident, des dépenses effectuées pour atténuer ou éviter l’aggravation des dommages.",
+        "type": "article",
+        "level": 1,
+        "order": 36,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-38-",
+        "title": "Article 38 : Les modalités d’application des dispositions qui précèdent font l’objet d’un décret pris en conseil des ministres, sur proposition conjointe des ministres en charge respectivement des finances, de l’eau et de l’environnement, et des ministres dont les attributions correspondent à l’activité pour laquelle une redevance ou une contribution financière est envisagée.",
+        "type": "article",
+        "level": 1,
+        "order": 37,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-39-",
+        "title": "Article 39 : Les règles générales de préservation et de répartition des ressources en eau sont déterminées par décret pris en conseil des ministres.",
+        "type": "article",
+        "level": 1,
+        "order": 38,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-40-",
+        "title": "Article 40 : Sont soumis à autorisation ou à déclaration, les aménagements hydrauliques et, d’une manière générale, les installations, ouvrages, travaux et activités réalisés par toute personne physique ou morale, publique ou privée, et entraînant, selon le cas :",
+        "type": "article",
+        "level": 1,
+        "order": 39,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-41-",
+        "title": "Article 41 : Sont soumis à autorisation les installations, ouvrages, travaux et activités susceptibles de présenter des dangers pour la santé et la sécurité publique, de réduire la ressource en eau, de modifier substantiellement le niveau, le mode d’écoulement ou le régime des eaux, de porter atteinte à la qualité ou à la diversité des écosystèmes aquatiques.",
+        "type": "article",
+        "level": 1,
+        "order": 40,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-42-",
+        "title": "Article 42 : Les installations, ouvrages, travaux et activités mentionnés à l’article 50 de la présente loi qui ne présentent pas des dangers ou des incidences négatives sur l’eau ou les écosystèmes aquatiques impliquant un régime d’autorisation, sont soumis à déclaration.",
+        "type": "article",
+        "level": 1,
+        "order": 41,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-43-",
+        "title": "Article 43 : La réalisation des installations, ouvrages, travaux et activités soumis à autorisation en application des dispositions de l’article 42 ci-dessus, donne lieu à l’élaboration d’une étude d’impact sur l’environnement permettant de déterminer leurs incidences sur l’eau et les écosystèmes aquatiques, conformément à la législation en vigueur sur la protection de l'environnement et du cadre de vie.",
+        "type": "article",
+        "level": 1,
+        "order": 42,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-44-",
+        "title": "Article 44 : Les activités, installations, opérations, travaux et ouvrages entrant dans le cadre de projets bénéficiant d’un financement spécifique et mentionnés à l’article 4 ci-dessus, font, à leur achèvement, l’objet d’un rapport indiquant les modalités selon lesquelles a été assuré le respect des exigences de la présente loi. Le rapport est rédigé sous la responsabilité du maître d’ouvrage. Lorsque la réalisation du projet dépasse une année, un rapport d’étape doit être produit à l’issue de chaque période de douze mois.",
+        "type": "article",
+        "level": 1,
+        "order": 43,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-45--",
+        "title": "Article 45 _:_ Lorsqu’une installation, un ouvrage, un travail ou une activité soumis à autorisation ou à déclaration, fonctionne ou s’exerce sans autorisation ou sans avoir été déclaré, le maître d’ouvrage ou l’exploitant encourt, indépendamment des éventuelles poursuites pénales ou indemnités dues au titre de sa responsabilité civile, une mesure de suspension prononcée par le ministre ou son représentant.",
+        "type": "article",
+        "level": 1,
+        "order": 44,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-46--",
+        "title": "Article 46 _:_ Un décret pris en conseil des ministres détermine la nomenclature des installations, ouvrages, travaux et activités soumis, selon le cas, à autorisation ou à déclaration ainsi que les modalités des procédures correspondantes.",
+        "type": "article",
+        "level": 1,
+        "order": 45,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-47-",
+        "title": "Article 47 : En vue d’assurer la protection de la qualité des eaux, l’autorisation des travaux, des installations, des ouvrages réalisés pour le prélèvement d’eau superficielle ou souterraine, ou l’autorisation de ces prélèvements eux-mêmes, prévoit les mesures de protection appropriées.",
+        "type": "article",
+        "level": 1,
+        "order": 46,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-48-",
+        "title": "Article 48 : Dans le cas des prélèvements d’eau souterraine, les mesures de protection visées à l’article 47 ci-dessus incluent la délimitation autour du point de prélèvement, d’un périmètre de protection immédiate, d’un périmètre de protection rapprochée et, en tant que de besoin, d’un périmètre de protection éloignée.",
+        "type": "article",
+        "level": 1,
+        "order": 47,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-49-",
+        "title": "Article 49 : Les terrains inclus dans le périmètre de protection immédiate sont acquis en pleine propriété par l’Etat. Celui-ci ou le concessionnaire du service public d’approvisionnement en eau potable, a la charge de les clôturer et de veiller à ce qu’ils soient exclusivement affectés au prélèvement de l’eau et régulièrement entretenus à cette fin.",
+        "type": "article",
+        "level": 1,
+        "order": 48,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-50-",
+        "title": "Article 50 : L’autorité compétente délimite des aires de protection autour des retenues de barrage, des lacs, des mares et, d’une manière générale, des étendues d’eau destinées, au moins partiellement, à la consommation. Ces aires peuvent également être instituées pour protéger des zones d’alimentation des nappes souterraines ou des zones ayant un intérêt écologique particulier.",
+        "type": "article",
+        "level": 1,
+        "order": 49,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-51-",
+        "title": "Article 51 : Des décrets pris en conseil des ministres déterminent les modalités d’application des dispositions des articles 47 à 50 de la présente loi et en particulier les procédures de délimitation des aires et des périmètres de protection rapprochée et éloignée y compris lorsqu’ils concernent des puits de prélèvement existant à la promulgation de la présente loi, ainsi que les conditions dans lesquelles les propriétaires ou occupants de terrains concernés peuvent être indemnisés dans le cas où ils subissent, de ce fait, un préjudice direct, matériel et certain.",
+        "type": "article",
+        "level": 1,
+        "order": 50,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-52-",
+        "title": "Article 52 : Dans les parcs nationaux et les autres aires bénéficiant d’une protection spéciale, ainsi que dans les zones humides et particulièrement celles d’importance internationale inscrites sur la liste prévue par la Convention de Ramsar du 2 février 1971, les actions susceptibles de porter atteinte à l’équilibre des écosystèmes ou d’affecter leur diversité biologique, sont réglementées et, le cas échéant, interdites. Sont visés notamment les utilisations des eaux entraînant une modification de leur régime, l’épandage à quelque fin que ce soit de produits chimiques et en particulier de pesticides agricoles, les rejets d’effluents ou de substances toxiques, le déversement ou l’écoulement d’eaux usées et le dépôt d’immondices ou de déchets domestiques ou industriels.",
+        "type": "article",
+        "level": 1,
+        "order": 51,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-53-",
+        "title": "Article 53 : Les zones humides d’importance internationale inscrites sur la liste prévue par la Convention de Ramsar du 2 février 1971 sont dotées d’un plan de gestion.",
+        "type": "article",
+        "level": 1,
+        "order": 52,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-54-",
+        "title": "Article 54 : Les ouvrages construits dans le lit des cours d’eau doivent maintenir un débit minimal garantissant la satisfaction des besoins des usagers et la vie aquatique à l’aval de l’ouvrage. Lorsqu’ils sont implantés dans des cours d’eau fréquentés par des poissons migrateurs, ils doivent en outre être équipés de dispositifs de franchissement.",
+        "type": "article",
+        "level": 1,
+        "order": 53,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-55-",
+        "title": "Article 55 : Dans les milieux lagunaires et les eaux de transition, des zones de protection peuvent être délimitées selon une procédure définie par décret pris en conseil des ministres, sur proposition du ministre.",
+        "type": "article",
+        "level": 1,
+        "order": 54,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-56-",
+        "title": "Article 56 : Les sites, les milieux naturels et les paysages présentant, au point de vue esthétique et culturel, un intérêt particulier lié à la présence de l’eau peuvent faire l’objet d’une protection spéciale reposant notamment sur la réglementation et, le cas échéant, l’interdiction des activités et installations susceptibles de leur porter atteinte.",
+        "type": "article",
+        "level": 1,
+        "order": 55,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-57-",
+        "title": "Article 57 : Un décret pris en conseil des ministres détermine les conditions dans lesquelles peut être édictée une réglementation des activités agricoles et pastorales. Cette réglementation comporte, le cas échéant, des restrictions à la circulation des animaux, voire l'interdiction des pratiques et techniques agricoles et pastorales susceptibles d’avoir une incidence négative sur le cycle hydrologique ou la qualité de l’eau.",
+        "type": "article",
+        "level": 1,
+        "order": 56,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-58-",
+        "title": "Article 58 : Les instruments d’aménagement du territoire et les règles d’urbanisme prennent en considération les exigences d’une gestion durable de l’eau.",
+        "type": "article",
+        "level": 1,
+        "order": 57,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-59-",
+        "title": "Article 59 : Afin d’assurer l’exercice du droit à l’eau reconnu à l’article 6 de la présente loi, l’Etat et les collectivités territoriales décentralisées sont responsables, dans le cadre de leurs compétences respectives, de l’organisation et du fonctionnement du service public d’approvisionnement en eau potable.",
+        "type": "article",
+        "level": 1,
+        "order": 58,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-60-",
+        "title": "Article 60 : L’eau livrée à la consommation des populations doit être potable.",
+        "type": "article",
+        "level": 1,
+        "order": 59,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-61-",
+        "title": "Article 61 : L’Etat, les collectivités territoriales décentralisées et, le cas échéant, la personne chargée d’assurer la gestion du service public d’approvisionnement en eau potable, sont tenus de fournir aux usagers les informations appropriées concernant la qualité et le prix de l’eau distribuée.",
+        "type": "article",
+        "level": 1,
+        "order": 60,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-62-",
+        "title": "Article 62 : Le traitement et l’évacuation des eaux usées sont des éléments du droit à l’eau. La personne publique qui en a la charge en assure la gestion selon les modalités mentionnées à l’article 60 de la présente loi.",
+        "type": "article",
+        "level": 1,
+        "order": 61,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-63-",
+        "title": "Article 63 : Les projets d’aménagement ainsi que les documents et plans d’urbanisme doivent prendre en compte le drainage et l’évacuation des eaux pluviales qui sont des éléments du droit à la sécurité et à un environnement sain.",
+        "type": "article",
+        "level": 1,
+        "order": 62,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-64-",
+        "title": "Article 64 : Afin d’assurer la gestion durable d’une masse d’eau superficielle ou souterraine, l’Etat peut conclure avec les collectivités territoriales concernées et d’autres personnes publiques ou privées, selon le cas, un contrat de rivière, un contrat de lac ou de lagune ou un contrat d'aquifère.",
+        "type": "article",
+        "level": 1,
+        "order": 63,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-65-",
+        "title": "Article 65 : Lorsqu’une sécheresse ou une inondation grave ou d’autres circonstances exceptionnelles ne permettent pas de satisfaire l’intégralité des besoins en eau, le ministre détient un pouvoir de contrôle et de répartition mis en œuvre selon les modalités définies par décret pris en conseil des ministres.",
+        "type": "article",
+        "level": 1,
+        "order": 64,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-66-",
+        "title": "Article 66 : L’Etat exerce une mission générale de coordination et de contrôle à des fins de prévention, d'alerte et de lutte contre les inondations. Il lui incombe, à ce titre, de garantir que les mesures prises en ce domaine par quelque autorité que ce soit, respectent les principes et les objectifs d’une gestion durable de l’eau.",
+        "type": "article",
+        "level": 1,
+        "order": 65,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-67--",
+        "title": "Article 67 _:_ Compte tenu de leur importance dans le cycle hydrologique et dans la durabilité des écosystèmes aquatiques et des écosystèmes terrestres qui en dépendent, les zones humides doivent être conservées afin d_e_ jouer pleinement leurs rôles naturels de renouvellement de la ressource en eau et de maintien de sa qualité.",
+        "type": "article",
+        "level": 1,
+        "order": 66,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-68-",
+        "title": "Article 68 : Sont habilités à rechercher et constater les infractions prévues par la présente loi et les textes pris pour son application :",
+        "type": "article",
+        "level": 1,
+        "order": 67,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-69-",
+        "title": "Article 69 : Les infractions prévues à la présente loi sont constatées par procès-verbaux dressés par les officiers et agents désignés à l’article 68 cidessus et transmis sans délai au procureur de la République compétent et au ministre.",
+        "type": "article",
+        "level": 1,
+        "order": 68,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-70-",
+        "title": "Article 70 : La mise en mouvement de l’action publique devant les juridictions compétentes appartient au ministère public, au ministre, aux victimes ou à leurs ayants droit, ainsi qu'aux associations de protection de l'environnement.",
+        "type": "article",
+        "level": 1,
+        "order": 69,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-71-",
+        "title": "Article 71 : Tout citoyen ayant connaissance de l’une des infractions prévues par la présente loi a l’obligation d’en informer soit le procureur de la République, soit le ministre ou les agents chargés de constater lesdites infractions ou les élus locaux qui sont chargés de faire remonter l’information aux agents assermentés.",
+        "type": "article",
+        "level": 1,
+        "order": 70,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-72--",
+        "title": "Article 72 _:_ Quiconque jette, déverse ou laisse s’écouler dans les eaux superficielles ou souterraines, directement ou indirectement, une ou des substances dont l’action ou les réactions entraînent ou sont susceptibles d’entraîner, même provisoirement, des effets nuisibles à la santé ou des atteintes à la diversité biologique ou à l’équilibre des écosystèmes aquatiques est puni d’une peine d’emprisonnement de deux (2) mois à douze (12) mois et d’une amende de cinq cent mille (500 000) à deux millions (2 000 000) de francs CFA ou de l’une de ces deux peines seulement.",
+        "type": "article",
+        "level": 1,
+        "order": 71,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-73-",
+        "title": "Article 73 : Est puni d’une amende de vingt-cinq mille (25 000) à deux cent cinquante (250 000) francs CFA ou à des travaux d’intérêt général :",
+        "type": "article",
+        "level": 1,
+        "order": 72,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-74-",
+        "title": "Article 74 : Dans les cas visés à l’article 73 ci-dessus, le tribunal peut condamner le contrevenant à restaurer les lieux pollués.",
+        "type": "article",
+        "level": 1,
+        "order": 73,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-75-",
+        "title": "Article 75 : Quiconque a effectué des prélèvements d’eau en violation des dispositions de l’article 57 de la présente loi est puni d’une peine d’emprisonnement de vingt (20) jours à trente (30) jours et d’une amende de cinquante mille (50 000) à cinq millions (5 000 000) de francs ou de l’une de ces deux peines seulement.",
+        "type": "article",
+        "level": 1,
+        "order": 74,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-76-",
+        "title": "Article 76 : Quiconque a effectué des prélèvements d’eau en violation des dispositions de l’article 43 de la présente loi, est puni d’une amende de cent mille (100 000) à trois cent mille (300 000) francs CFA.",
+        "type": "article",
+        "level": 1,
+        "order": 75,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-77-",
+        "title": "Article 77 : Quiconque construit, modifie ou exploite un ouvrage ou une installation, réalise des travaux ou exerce une activité sans l’autorisation requise en application des dispositions de l’article 42 de la présente loi, est puni d’une peine d’emprisonnement de deux (02) mois à six (06) mois et d’une amende de cent mille (100 000) à un million (1000 000) de francs CFA ou de l’une de ces deux peines seulement, sans préjudice de la suspension des travaux ou des activités jusqu’à l’obtention de l’autorisation requise.",
+        "type": "article",
+        "level": 1,
+        "order": 76,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-78-",
+        "title": "Article 78 : Quiconque construit un ouvrage ou une installation, réalise des travaux ou exerce une activité sans respecter les prescriptions imposées par l’acte d’autorisation, est puni d’une amende de cinquante mille (50 000) à deux cent mille (200 000) francs CFA sans préjudice de la suspension du fonctionnement de l’installation ou de l’ouvrage.",
+        "type": "article",
+        "level": 1,
+        "order": 77,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-79-",
+        "title": "Article 79 : Quiconque construit, modifie ou exploite un ouvrage ou une installation, réalise des travaux ou exerce une activité sans avoir souscrit à la déclaration prescrite par l’article 42 de la présente loi, est puni d’une amende de deux cent mille (200 000) à cinq cent mille (500 000) francs CFA.",
+        "type": "article",
+        "level": 1,
+        "order": 78,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-80-",
+        "title": "Article 80 : Quiconque construit ou exploite un ouvrage ou une installation, réalise des travaux ou exerce une activité soumise à déclaration en violation des règles prévues à l’article 43, alinéa 2 de la présente loi, est puni d’une amende de un million (1 000 000) à trois millions (3 000 000) de francs CFA.",
+        "type": "article",
+        "level": 1,
+        "order": 79,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-81-",
+        "title": "Article 81 : Quiconque exploite un ouvrage ou une installation, réalise des travaux ou exerce une activité en violation d’une mesure de suspension décidée en application des dispositions de l’article 45 de la présente loi, est puni d’une amende de un million (1 000 000) à cinq millions (5 000 000) de francs CFA sans préjudice de la destruction de l’installation ou de l’ouvrage, assortie, le cas échéant, de la remise des lieux en l’état.",
+        "type": "article",
+        "level": 1,
+        "order": 80,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-82-",
+        "title": "Article 82 : Quiconque exploite un ouvrage ou une installation, réalise des travaux ou exerce une activité en violation d’une mesure de cessation, d’interdiction, de suspension ou de destruction ordonnée par le tribunal, est puni de la peine visée à l’article 73 de la présente loi.",
+        "type": "article",
+        "level": 1,
+        "order": 81,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-83-",
+        "title": "Article 83 : Quiconque utilise de l’eau en violation d’une interdiction ou d’une mesure de restriction édictée en application des dispositions de l’article 67 de la présente loi, est puni d’une peine d’amende de cinquante mille (50 000) à deux cent cinquante mille (250 000) francs CFA.",
+        "type": "article",
+        "level": 1,
+        "order": 82,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-84-",
+        "title": "Article 84 : Quiconque, dans un périmètre de protection rapprochée d’un point de prélèvement des eaux, réalise des dépôts, construit ou exploite une installation ou exerce une activité en violation d’une interdiction édictée en application des dispositions de l’article 49 de la présente loi, est puni d’une peine d’emprisonnement de trois (03) mois à six (06) mois et d’une amende de cent mille (100 000) à cinq cent mille (500 000) francs CFA, ou de l’une de ces deux peines seulement.",
+        "type": "article",
+        "level": 1,
+        "order": 83,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-85-",
+        "title": "Article 85 : Quiconque exerce une activité agricole, pastorale ou artisanale en violation d’une mesure d’interdiction ou d’une règle édictée en application des dispositions de l’article 52 de la présente loi, est puni d’une peine d’emprisonnement de un (01) jour à soixante (60) jours et d’une amende de cinquante mille (50 000) à deux cent cinquante mille (250 000) francs CFA ou de l’une de ces deux peines seulement.",
+        "type": "article",
+        "level": 1,
+        "order": 84,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-86-",
+        "title": "Article 86 : Quiconque édifie une construction ou un bâtiment en violation d’une interdiction ou d’une règle édictée en application des dispositions de l’article 55 de la présente loi, est puni d’une amende de cinq cent mille (500 000) à deux millions (2 000 000) de francs CFA sans préjudice de la destruction des édifices.",
+        "type": "article",
+        "level": 1,
+        "order": 85,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-87-",
+        "title": "Article 87 : Quiconque construit ou exploite un ouvrage en violation des obligations imposées par les dispositions de l’article 42 de la présente loi, est puni d’une peine d’emprisonnement de six (06) mois à douze (12) mois et d’une amende de cinq cent mille (500 000) à deux millions (2 000 000) de francs CFA ou de l’une de ces deux peines seulement, sans préjudice de la destruction de l’ouvrage, le cas échéant, sous astreinte.",
+        "type": "article",
+        "level": 1,
+        "order": 86,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-88-",
+        "title": "Article 88 : Quiconque réalise, en violation d’une mesure d’interdiction ou d’une règle édictée en application des dispositions de l’article 53 de la présente loi, une action susceptible de porter atteinte à l’équilibre d’un écosystème ou d’affecter sa biodiversité, est puni d’une peine d’emprisonnement de six (06) mois à douze (12) mois et d’une amende de cinq millions (5 000 000) à dix millions (10 000 000) de francs CFA ou de l’une de ces deux peines seulement.",
+        "type": "article",
+        "level": 1,
+        "order": 87,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-89-",
+        "title": "Article 89 : Si les infractions prévues par la présente loi sont commises dans le cadre de l’activité d’une personne morale, la responsabilité pénale en incombe aux dirigeants de celle-ci.",
+        "type": "article",
+        "level": 1,
+        "order": 88,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-90-",
+        "title": "Article 90 : Outre les peines prévues par la présente loi, les autorités administratives compétentes peuvent procéder au retrait, à la suspension ou à la révocation des autorisations qu’elles ont délivrées.",
+        "type": "article",
+        "level": 1,
+        "order": 89,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-91-",
+        "title": "Article 91 : La répartition du produit des amendes prononcées aux termes de la présente loi est opérée selon les modalités prévues par voie réglementaire.",
+        "type": "article",
+        "level": 1,
+        "order": 90,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-92-",
+        "title": "Article 92 : Un décret pris en conseil des ministres, sur rapport du ministre, détermine en tant que de besoin :",
+        "type": "article",
+        "level": 1,
+        "order": 91,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-93-",
+        "title": "Article 93 : Pendant une durée de trois (03) ans au plus à compter de la promulgation de la présente loi, le ministre peut, par arrêté, soumettre certains ouvrages, installations, travaux et activités déjà existants à des prescriptions qu’il détermine.",
+        "type": "article",
+        "level": 1,
+        "order": 92,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-94-",
+        "title": "Article 94 : La présente loi qui abroge toutes dispositions antérieures contraires, notamment la loi n° 87-016 du 21 septembre 1987 portant code de l'eau sera exécutée comme loi de l’Etat.",
+        "type": "article",
+        "level": 1,
+        "order": 93,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-premie",
+        "title": "Article premier",
+        "type": "article",
+        "level": 1,
+        "order": 94,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-1",
+        "title": "Article 11",
+        "type": "article",
+        "level": 1,
+        "order": 97,
+        "path": [],
+        "children": []
+      }
+    ],
+    "totalArticles": 97
+  },
+  "source": "nationale"
+}

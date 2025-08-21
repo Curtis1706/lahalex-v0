@@ -1,0 +1,9 @@
+Tout acte de pénétration sexuelle, de quelque nature qu’il soit, commis sur la personne d’autrui, par violence, contrainte, menaces ou surprise est un viol.
+Le viol est puni de la réclusion criminelle à temps de cinq (05) ans à dix (10) ans.
+Toutefois, le viol sera puni de la réclusion criminelle à temps de dix (10) ans à vingt (20) ans, lorsqu’il aura été commis soit sur une personne particulièrement vulnérable en raison d’un état de grossesse, d’une maladie, d’une infirmité ou d’une déficience physique ou mentale, soit sur un enfant de plus treize (13) ans, soit sous la menace d’une arme, soit par deux ou plusieurs auteurs ou complices
+Lorsque le viol est commis sur un enfant de moins de treize (13) ans, il est puni de la réclusion à perpétuité.
+Les peines encourues sont portées à la réclusion de quinze (15) à vingt (20) ans et à une amende de cinq cent mille (500.000) à cinq millions (5.000.000) de francs CFA si, le viol est le fait d’un ascendant légitime, naturel ou adoptif de la victime ou par une personne ayant autorité sur elle ou encore par une personne qui a abusé de l’autorité que lui confèrent ses fonctions.
+L’individu qui accomplit ou tente d’accomplir l’acte sexuel autorisé coutumièrement sur un enfant de sexe féminin âgé de moins de dix-huit (18) ans est puni de deux (02) ans à cinq (05) ans d’emprisonnement et d’une amende de cent mille (100.000) à deux cent cinquante mille (250.000) francs CFA.
+Le viol est puni de la réclusion criminelle à perpétuité lorsqu’il est précédé, accompagné ou suivi de tortures ou d’actes de barbarie.
+Le viol est puni de la réclusion criminelle à perpétuité lorsqu’il a entraîné la mort de la victime.
+La tentative de viol est punie comme le viol lui-même.

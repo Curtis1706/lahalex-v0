@@ -1,0 +1,3 @@
+Est punie des peines prévues à l’article 307, toute personne qui a frauduleusement apposé ou tenté d’apposer une signature au moyen d’un procédé non manuscrit.
+Les mêmes peines sont applicables à toute personne qui a fait usage ou tenté de faire usage d’une lettre de change ou d’un billet à ordre sur lequel a été frauduleusement apposée une signature au moyen d’un procédé non manuscrit.
+Les mêmes peines sont applicables lorsqu’il aura été fait usage ou tenté de faire usage d’un chèque endossé frauduleusement au moyen d’un procédé non manuscrit.

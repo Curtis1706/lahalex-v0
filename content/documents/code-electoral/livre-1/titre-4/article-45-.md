@@ -1,0 +1,2 @@
+En période électorale, les candidats bénéficient d'un accès équitable aux organes de communication audiovisuelle publics ou privés.
+Pendant cette période, tout candidat ou liste de candidats dispose, pour présenter son programme aux électeurs, d'un accès équitable aux moyens publics et privés d'information et de communication dans le respect des procédures et modalités déterminées par la Haute Autorité de l'Audiovisuel et de la Communication (HAAC).

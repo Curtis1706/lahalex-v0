@@ -1,0 +1,2 @@
+En cas de poursuites répressives exercées à l’étranger, lorsqu’un Gouvernement étranger juge nécessaire, la notification d’un acte de procédure ou d’un jugement à un individu résidant sur le territoire béninois, la pièce est transmis suivant les formes prévues aux articles 743 et 744 du présent code, accompagnée, le cas échéant, d’une traduction française.
+La signification n’est faite à personne à la requête du ministère public que par les soins d’un officier compétent. L’original constatant la notification est retourné par la même voie au Gouvernement requérant.

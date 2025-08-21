@@ -1,0 +1,2 @@
+Les déchets biomédicaux solides, notamment infectieux, anatomiques, piquants et coupants sont incinérés.
+Lorsqu'un déchet anatomique ne présente pas un risque pour la santé des populations, il peut être désinfecté et remis à la famille pour élimination selon les rites culturels ou cultuels.

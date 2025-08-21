@@ -1,0 +1,1 @@
+La Haute Autorité de l’Audiovisuel et de la Communication peut s’autosaisir de demandes d’information non satisfaites par les sources publiques si elle le juge nécessaire.

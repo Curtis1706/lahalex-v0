@@ -1,0 +1,4 @@
+Audit et évaluation ponctuels des prestataires de services de confiance
+Sans préjudice des dispositions de l’article 318, l’organe de contrôle peut à tout moment, soumettre les prestataires de services de confiance qualifiés à un audit ou demander à un organisme d’évaluation de la conformité de procéder à une évaluation de la conformité des prestataires de services de confiance qualifiés, aux frais de ces derniers, afin de s'assurer que les prestataires et les services de confiance qualifiés qu’ils fournissent remplissent les exigences fixées au code.
+Les contrôles inopinés de conformité par l'organe de contrôle ne peuvent être abusifs et doivent être justifiés au regard de la situation du prestataire de services de confiance et des éléments le concernant dont il dispose.
+\

@@ -1,0 +1,3 @@
+1) Dans les divers cas où, en matière d’impôt, le paiement est attesté par l’apposition de timbres, de vignettes ou marques, l’administration peut, dans les conditions fixées par le présent Chapitre, autoriser les redevables à acquitter les droits sur états ou d’après un système forfaitaire, soit à substituer aux figurines des empreintes imprimées à l’aide de machines spéciales préalablement soumises à son agrément.
+2)  L’apposition  des  timbres  et  leur  paiement  peuvent  être  faits  de  façon
+dématérialisée selon des modalités précisées par voie réglementaire.

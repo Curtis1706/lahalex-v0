@@ -1,0 +1,1 @@
+Le point de départ et la computation des jours de planche sont, à défaut de convention des parties, réglés suivant l’usage du port où ont lieu les opérations.

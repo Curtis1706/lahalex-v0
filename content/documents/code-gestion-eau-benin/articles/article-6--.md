@@ -1,0 +1,1 @@
+Article 6 _:_ chaque citoyen béninois a le droit de disposer de l’eau pour ses besoins et les exigences élémentaires de sa vie et de sa dignité.

@@ -1,0 +1,1 @@
+L'action en pétition d’hérédité est portée devant le tribunal du lieu d’ouverture de la succession. Elle se prescrit par l’expiration d’un délai de trente (30) ans à compter du jour où le défendeur a commencé à se comporter comme un héritier.

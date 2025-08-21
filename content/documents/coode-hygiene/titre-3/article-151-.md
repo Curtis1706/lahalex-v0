@@ -1,0 +1,2 @@
+Il est interdit le brûlage à l'air libre de déchets de quelque nature que ce soit, ainsi que la destruction dans les mêmes conditions, de produits avariés.
+Le brûlage et la destruction de produits avariés se font conformément à une procédure définie par voie réglementaire.

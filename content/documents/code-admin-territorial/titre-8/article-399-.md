@@ -1,0 +1,3 @@
+L'ordonnateur élabore sous le contrôle de l'organe compétent, le projet de budget de la commune ou de l'établissement public de coopération intercommunale au plus tard le 30 septembre de chaque année.
+Dans ce cadre, il dispose des services techniques de la commune ou de l'établissement public de coopération intercommunale et recourt aux services compétents déconcentrés de l'Etat, notamment ceux chargés des finances. Il peut également solliciter les conseils de l'autorité de tutelle.
+Les services compétents de l'Etat communiquent, le 31 août au plus tard, à l’ordonnateur, les informations indispensables à l'établissement du budget.

@@ -1,0 +1,3 @@
+Article 545-1 : Sanctions administratives - Amendes
+Quand un courtier ou une société de courtage d’assurance ne produit pas les états annuels prévus à l’article 556 ou n’exécute pas ses injonctions, dans les délais requis, le Ministre en charge des assurances de l’Etat membre peut lui infliger une amende dont le montant varie, selon la gravité de l’infraction, entre 0,1 % et 2 % des commissions perçues au cours du dernier exercice clos.
+La même amende est infligée en cas de non-respect des dispositions des articles 13 relatif au paiement de la prime, 541 relatif aux encaissements des primes et 542 relatif aux délais de reversement des primes.

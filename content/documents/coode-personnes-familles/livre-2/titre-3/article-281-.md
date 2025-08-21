@@ -1,0 +1,4 @@
+En cas de conversion de la séparation de corps en divorce, l’époux demandeur saisit le-président du tribunal du domicile de son conjoint. La cause est débattue et instruite en la forme ordinaire en audience non publique et le jugement rendu en audience publique.
+Le juge transforme le jugement de séparation de corps en jugement de divorce pour les mêmes causes et motifs.
+Il statue le cas échéant sur l'exécution de l’obligation alimentaire.
+Il statue également, s'il y a lieu, sur les dommages et intérêts pouvant être attribués à l’époux innocent par l’application de l’article 263 en lui allouant des dommages-intérêts complémentaires pour tenir compte de la disposition relative à l’obligation d’entretien.

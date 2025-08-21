@@ -1,0 +1,1 @@
+Lorsque le pupille est dépourvu de biens et revenus personnels, son entretien et son éducation sont à la charge du tuteur qui doit y pourvoir conformément à ses ressources.

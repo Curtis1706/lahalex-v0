@@ -1,0 +1,5 @@
+1) A l’issue de l’enquête, les enquêteurs établissent un procès-verbal consignant les manquements constatés ou l’absence de tels manquements. La liste des documents dont une copie a été délivrée lui est annexée s’il y a lieu.
+2) Ce procès-verbal est établi après la dernière intervention sur place ou la dernière
+convocation. Il est signé par les enquêteurs ainsi que par l’assujetti ou son représentant. En cas de refus de signer, mention en est faite au procès-verbal. Une copie de celui-ci est remise à l’intéressé.
+3) Les constatations du procès-verbal ne peuvent être opposées à cet assujetti ainsi
+qu’aux tiers concernés par la facturation que dans le cadre des procédures de contrôle prévues par le présent titre au regard des impositions de toute nature et de la procédure d’enquête prévue à la présente section.

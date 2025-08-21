@@ -1,0 +1,3 @@
+Les entreprises qui sont sous la dépendance ou qui possèdent le contrôle d’entreprises établies hors du Bénin au sens du paragraphe 2 de l’article 45 du présent code et dont le chiffre d’affaires annuel hors taxes ou l’actif brut est supérieur ou égal à un milliard (1 000 000 000) de francs CFA sont tenues de souscrire, par voie électronique, une déclaration annuelle des prix de transfert au plus tard le 30 avril de chaque année.
+Le contenu et le format de cette déclaration sont fixés par arrêté du ministre chargé des finances.
+Toute infraction aux dispositions du présent article donne lieu à l’application des sanctions prévues à l’article 496 du présent code.

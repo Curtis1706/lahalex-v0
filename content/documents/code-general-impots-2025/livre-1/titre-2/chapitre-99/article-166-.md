@@ -1,0 +1,1 @@
+Les véhicules à moteur d’au moins trois roues, immatriculés en République du Bénin et utilisés pour le transport public ou privé des personnes ou des marchandises, sont soumis à une taxe annuelle dénommée taxe sur les véhicules à moteur.

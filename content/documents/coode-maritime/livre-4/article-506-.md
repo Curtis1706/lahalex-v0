@@ -1,0 +1,1 @@
+Les frais et honoraires nécessités par l’établissement du règlement d’avaries communes, sont prélevés, par priorité, sur les valeurs contributives.

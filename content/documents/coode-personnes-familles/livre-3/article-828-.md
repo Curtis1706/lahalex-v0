@@ -1,0 +1,1 @@
+On ne peut disposer de ses biens à titre gratuit que par donation entre vifs ou par testament, dans les formes et sous les conditions ci-après établies.

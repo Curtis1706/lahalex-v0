@@ -1,0 +1,1 @@
+Article 325 : La femme qui, volontairement avorte ou se fait avorter, est punie de cinq (5) ans à vingt (20) ans de réclusion et d’une amende de deux cent mille (200 000) à cinq cent mille (500 000) francs CFA.

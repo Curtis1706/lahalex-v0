@@ -1,0 +1,1 @@
+Les fonctions de membre du Conseil électoral sont incompatibles avec celles de membre du Gouvernement et de membre des autres institutions de la République.

@@ -1,0 +1,1 @@
+Toutes autres infractions à la réglementation des feux de brousse seront punies d’une amende de cinq mille (5.000) francs CFA à cinquante mille (50.000) francs CFA et d’un emprisonnement de quinze (15) jours à six (06) mois ou de l’une de ces deux peines seulement sans préjudice des dommages-intérêts.

@@ -1,0 +1,1 @@
+Le pilotage est obligatoire pour tous les navires à l’exception des bâtiments de servitude des ports et des navires dont le tonnage ne dépasse pas le seuil fixé par les règlements du port.

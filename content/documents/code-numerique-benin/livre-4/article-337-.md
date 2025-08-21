@@ -1,0 +1,3 @@
+Sanctions
+Toute personne effectuant une prospection directe non autorisée au sens des articles 332 à 334 du présent Titre ou ne respectant pas l’obligation d’information prévue à l’article 336 est puni d'une peine allant de trente (30) jours à six (06) mois d’emprisonnement et d’une amende de cinquante mille (50 000) à cinq cent mille (500 000) francs CFA.
+Lorsque ces manquements concernent la prospection directe destinée à des enfants, des personnes âgées, des personnes malades ou vulnérables, ou à toute personne qui ne serait pas en mesure de comprendre pleinement les informations qui lui sont présentées, les peines prévues à l’alinéa précédent sont doublées.

@@ -1,0 +1,2 @@
+En l’absence de traités, les conditions, la procédure et les effets de l’extradition sont déterminés par les dispositions du titre XIII du présent code.
+Elles s’appliquent également aux points qui n’auraient pas été règlementés par les traités.

@@ -1,0 +1,2 @@
+Le chef de village ou de quartier de ville est chargé, dans le cadre du maintien de l'ordre public et de la protection civile, d'assister le chef d'arrondissement et de prendre les mesures conservatoires nécessaires.
+En cas de calamité ou de trouble, il avise le chef d'arrondissement ou à défaut, le maire et prend toutes les mesures nécessitées par la circonstance.

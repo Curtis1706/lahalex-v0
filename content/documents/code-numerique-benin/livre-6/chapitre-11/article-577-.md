@@ -1,0 +1,2 @@
+Mode de preuve électronique
+L’écrit sous forme électronique, en application du Livre II, est, pour les besoins de l’application du présent Livre, admis en preuve au même titre que l’écrit sur support papier et possède la même force probante que celui-ci, sous réserve que puisse être dûment identifié la personne dont il émane et qu’il soit établi et conservé dans des conditions de nature à en garantir l’intégrité et la pérennité.

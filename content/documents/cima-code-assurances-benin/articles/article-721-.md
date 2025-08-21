@@ -1,0 +1,3 @@
+Article 721 : Sanctions des règles relatives à la souscription de contrats de micro assurance
+Seront punis d’un emprisonnement de un à cinq ans et/ou d’une amende de 5 à 25 % des primes émises ou de l’une de ces deux peines seulement ceux qui sciemment, auront proposé ou commercialisé des produits de micro assurance au public en infraction aux dispositions des articles 731 et 732. Est punie des mêmes peines toute personne qui aura exercé les activités de micro assurance sans obtenir l’agrément prévu à l’article 715.
+### CHAPITRE 3 : REGIME FINANCIER

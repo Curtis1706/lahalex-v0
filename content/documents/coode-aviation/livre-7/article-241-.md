@@ -1,0 +1,1 @@
+A l'égard des ayants droit du propriétaire de la marchandise et du passager, le transporteur de fait répond des dommages survenus pour le transport qu'il a effectué alors que le transporteur contractuel est responsable pour la totalité du transport envisagé.

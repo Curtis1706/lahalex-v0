@@ -1,0 +1,2 @@
+Les demandes en vue d'acquérir ou de perdre la nationalité béninoise ou d'être réintégré dans cette nationalité, ainsi que les déclarations de nationalité peuvent, dans les conditions prévues par la loi, être faites, sans autorisation parentale, dès l'âge de seize (16) ans.
+Les majeurs incapables sont représentés, pour accomplir les actes juridiques en matière de nationalité, par leur représentant légal.

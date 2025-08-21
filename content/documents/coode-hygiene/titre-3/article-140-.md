@@ -1,0 +1,1 @@
+Conformément aux normes prescrites par la loi-cadre sur l'environnement, les services de la voirie de chaque localité déterminent les conditions de collecte et d'élimination des déchets solides, liquides et industriels.

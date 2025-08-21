@@ -1,0 +1,3 @@
+Quiconque contrevient aux dispositions relatives aux eaux continentales est puni d’une amende de deux cent mille (200.000) francs CFA à deux millions (2.000.000) de francs CFA et d’une peine d’emprisonnement de un (01) mois à cinq (05) mois ou de l’une de ces deux peines seulement.
+En cas de récidive, la peine est portée au double.
+La juridiction peut condamner le prévenu à curer les lieux pollués. Le ministre peut, en cas de résistance de l’intéressé, y procéder ou faire procéder aux frais et dépens du contrevenant.

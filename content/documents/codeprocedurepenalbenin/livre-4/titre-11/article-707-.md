@@ -1,0 +1,1 @@
+La personne chargée de la garde, le directeur de l’établissement charitable ou professionnel ou scolaire ou le particulier reçoit une copie de la décision qui l’a nommé. Il doit s’occuper du mineur en bon père de famille et aviser le délégué de tout incident grave qui surviendrait dans le comportement ou la santé de l’enfant.

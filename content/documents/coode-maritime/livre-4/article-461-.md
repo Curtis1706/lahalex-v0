@@ -1,0 +1,1 @@
+Toute dépense extraordinaire faite pour le navire et les marchandises, conjointement ou séparément, tout dommage subi par le navire et les marchandises depuis leur chargement au départ jusqu’à leur déchargement à l’arrivée sont réputés avaries.

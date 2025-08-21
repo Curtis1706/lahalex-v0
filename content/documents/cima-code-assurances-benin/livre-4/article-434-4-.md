@@ -1,0 +1,2 @@
+Périmètre de combinaison
+Le périmètre de combinaison englobe toutes les entreprises des Etats membres satisfaisant à des critères d’unicité et de cohésion caractérisant l’ensemble économique formé, quels que soient leur activité, leur forme juridique ou leur objet lucratif ou non.

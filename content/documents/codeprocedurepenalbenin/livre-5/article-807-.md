@@ -1,0 +1,1 @@
+Si quelque détenu use de menaces, injures ou violences ou commet une infraction à la discipline, il peut être enfermé seul dans une cellule aménagée à cet effet, sans préjudice des poursuites dont il peut faire l’objet.

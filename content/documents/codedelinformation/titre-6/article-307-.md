@@ -1,0 +1,1 @@
+Lorsque l’ouverture d’une information est requise par le ministère public, celui-ci est tenu d’articuler et de qualifier dans son réquisitoire, les offenses, les provocations, les outrages, les diffamations et les injures, en raison desquels la poursuite est intentée avec indication des textes dont l’application est demandée.

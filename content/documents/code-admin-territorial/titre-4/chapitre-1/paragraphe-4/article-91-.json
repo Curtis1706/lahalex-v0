@@ -1,0 +1,16 @@
+{
+  "id": "article-91-",
+  "title": "Article 91 :",
+  "numero": "91 ",
+  "document": "code-admin-territorial",
+  "path": [
+    "titre-4",
+    "chapitre-1",
+    "paragraphe-4"
+  ],
+  "navigation": {
+    "parent": "paragraphe-4",
+    "previous": "article-87-",
+    "next": "article-92-"
+  }
+}

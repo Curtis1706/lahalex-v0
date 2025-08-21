@@ -1,0 +1,1 @@
+Les conventions passées entre l’armateur et le capitaine en qualité de mandataire de l’armateur peuvent être valablement conclues sans l’intervention du directeur de la marine marchande.

@@ -1,0 +1,1 @@
+est puni de cinq (05) ans à vingt (20) ans de réclusion et d’une amende de cinq cent mille (500.000) francs CFA à un million (1.000.000) de francs CFA, quiconque est coupable d’infanticide.

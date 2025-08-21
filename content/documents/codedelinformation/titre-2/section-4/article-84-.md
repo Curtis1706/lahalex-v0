@@ -1,0 +1,1 @@
+Le droit d’accès aux sources publiques d’information ne s’étend pas aux notes personnelles inscrites sur un document, ni aux esquisses, ébauches, brouillons, notes préparatoires ou autres documents de même nature.

@@ -1,0 +1,5 @@
+Sur présentation de leur document officiel d'identité, les inspecteurs de l’aviation civile ont accès à tout moment et sans restriction aux aéronefs, aux terrains, aux locaux à usage professionnel et aux installations où s'exercent les activités contrôlées. Ils ont également accès aux documents de toute nature en relation avec les opérations pour lesquelles le contrôle est exercé.
+Lorsque l’exercice des activités ou l'exploitation des aéronefs, mentionnés aux articles 214, 215 et 216 de la présente loi, présente des risques particuliers pour la sécurité des biens et des personnes, l’inspecteur de l'aviation civile peut :
+1. prescrire des mesures correctives ou restrictives d'exploitation ;
+2. ordonner en cas de risque immédiat, l'interdiction totale ou partielle de l'exercice des privilèges d'une licence, d’un certificat ou d'un document aéronautique ;
+3. procéder à l'immobilisation au sol d’un aéronef jusqu'à l'élimination du risque identifié pour la sécurité.

@@ -1,0 +1,1 @@
+Chacun des époux peut agir en divorce en fondant son action sur l’une des causes admises par la loi.

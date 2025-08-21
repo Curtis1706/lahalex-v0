@@ -1,0 +1,2 @@
+Le juge entend le demandeur, lui fait les observations qu'il croit convenables et, si la requête est maintenue, fixe le jour et l’heure où les parties comparaîtront en personne devant lui pour la tentative de conciliation à laquelle le défendeur est convoqué par les soins du greffe. Copie de la requête est envoyée à ce dernier sous pli fermé en même temps que la convocation.
+Si cette convocation n’a pu être remise à personne, ou si le défendeur est demeuré introuvable, le juge autorise le demandeur à l’assigner dans un délai maximum de deux (2) mois.

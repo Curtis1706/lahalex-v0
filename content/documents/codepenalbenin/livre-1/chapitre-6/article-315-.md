@@ -1,0 +1,1 @@
+Les peines portées à l’article 314 du présent code sont appliquées, selon les distinctions qui y sont établies à toute personne qui s’est fait délivrer par l’officier public une feuille de route sous un nom supposé ou qui a fait usage d’une feuille de route délivrée sous un nom autre que le sien.

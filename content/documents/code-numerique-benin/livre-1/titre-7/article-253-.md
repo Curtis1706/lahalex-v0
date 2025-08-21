@@ -1,0 +1,2 @@
+Interruption volontaire des communications électroniques par un opérateur
+Tout opérateur qui, volontairement, cause l’interruption des communications électroniques, est puni d’une amende de dix millions (10 000 000) à cinquante millions (50 000 000) de francs CFA, sans préjudice des peines prévues à l’article 252 du présent code, applicables à ses administrateurs.

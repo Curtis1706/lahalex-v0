@@ -1,0 +1,2 @@
+Si durant le voyage, des dépenses s’avèrent nécessaires pour la réparation d’avaries ou la subsistance des passagers ou de l’équipage, le capitaine peut emprunter sur le navire, mettre en gage ou vendre tout ou partie de la cargaison jusqu’à concurrence de la somme que les besoins constatés exigent.
+2 doit solliciter l’autorisation préalable de son armateur et, en cas de communications impossibles avec lui, se faire autoriser par le tribunal compétent et, à l’étranger, par l’autorité consulaire béninoise.

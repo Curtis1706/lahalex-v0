@@ -1,0 +1,2 @@
+En cas de récidive, les permis, autorisations et licences délivrés en application des lois et règlements sont obligatoirement retirés.
+En outre, les armes, munitions, véhicules, engins et objets ayant servi à commettre l’infraction sont confisqués.

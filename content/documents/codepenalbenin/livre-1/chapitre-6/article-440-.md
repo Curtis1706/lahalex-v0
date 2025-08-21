@@ -1,0 +1,1 @@
+Quiconque a détruit, abattu, ou dégradé des monuments, statues et autres objets destinés à l’utilité ou à la décoration publique et élevés par l’autorité publique ou avec son autorisation, est puni d’un emprisonnement de un (01) mois à deux (02) ans et d’une amende de cinquante mille (50.000) francs CFA à deux cent cinquante mille (250.000) francs CFA.

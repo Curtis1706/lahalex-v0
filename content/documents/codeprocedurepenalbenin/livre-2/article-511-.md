@@ -1,0 +1,2 @@
+Sauf dans le cas prévu à l’article 518 du présent code, l’appel est interjeté dans le délai de quinze (15) jours à compter du prononcé du jugement contradictoire.
+Toutefois, le délai d’appel ne court qu’à compter de la signification du jugement, quel qu’en soit le mode, pour le prévenu et la personne civilement responsable, dans tous les cas où les débats et le jugement ont été réputés contradictoires à leur égard.

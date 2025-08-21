@@ -1,0 +1,2 @@
+Essai de vulnérabilité
+Les vendeurs de produits de technologies de l’information et de la communication devront faire réaliser par des experts en sécurité informatique indépendants agréés par le Ministère en charge des communications électroniques, un essai de vulnérabilité et une évaluation de la garantie de sécurité, et devront informer les consommateurs de toutes les vulnérabilités décelées dans les produits de technologie de l’information et la communication ainsi que des solutions recommandées pour y remédier.

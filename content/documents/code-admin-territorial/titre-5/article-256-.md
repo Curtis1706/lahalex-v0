@@ -1,0 +1,1 @@
+Les membres du conseil de supervision, le secrétaire exécutif, les membres d'une délégation spéciale, les fonctionnaires et les agents communaux ne peuvent sous peine de nullité, par eux-mêmes ou par personne interposée, traiter avec la commune ou un groupement intercommunal ou se rendre soumissionnaires d’un marché communal.

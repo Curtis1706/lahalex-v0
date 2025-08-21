@@ -1,0 +1,4 @@
+Sans préjudice des sanctions pénales prévues par la présente loi, les employeurs non déclarés, les employeurs qui ne cotisent pas à la Caisse, les employeurs qui ne déclarent pas leurs travailleurs sont astreints :
+à supporter l’ensemble des frais occasionnés par l’accident du travail ou la maladie professionnelle tels qu’ils sont déterminés par les présentes dispositions ;
+à verser à la Caisse, le montant du capital constitutif des rentes.
+La Caisse doit en tout état de cause assurer au travailleur accidenté ou à ses ayants droit les prestations qui lui ou leur sont dues en vertu des dispositions de la présente loi.

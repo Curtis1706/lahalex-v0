@@ -1,0 +1,3 @@
+Les prévenus en état de détention hors de la ville où siège la cour d’appel ne comparaissent pas devant la cour et celle-ci statue sur pièces à moins qu’elle juge leur comparution nécessaire ou qu’ils n’aient eux-mêmes demandé à comparaître.
+La date d’audience leur est signifiée quinze (15) jours au moins à l’avance. Ils font connaître leur volonté de comparaître à l’huissier ou à l’agent chargé de la signification. Ils sont obligatoirement interpellés à ce sujet et il est fait mention de leur réponse sur l’original de la citation. Ils ont la faculté de se faire représenter par un avocat ou de produire un mémoire.
+L’arrêt est contradictoire à leur égard s’ils ont été représentés. Il est réputé contradictoire s’ils n’ont pas été représentés.

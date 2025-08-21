@@ -1,0 +1,1 @@
+Le donateur doit livrer la chose donnée et s'abstenir de tout acte susceptible d'en troubler la jouissance, à peine de dommages-intérêts envers le donataire.

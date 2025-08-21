@@ -1,0 +1,1 @@
+Si l’avis motivé de la chambre de l’instruction repousse la demande d’extradition, cet avis est définitif et l’extradition ne peut être accordée.

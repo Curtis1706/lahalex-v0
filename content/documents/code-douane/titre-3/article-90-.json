@@ -1,0 +1,14 @@
+{
+  "id": "article-90-",
+  "title": "Article 90 :",
+  "numero": "90 ",
+  "document": "code-douane",
+  "path": [
+    "titre-3"
+  ],
+  "navigation": {
+    "parent": "titre-3",
+    "previous": "article-ne-comprend-pas-les-dimanches-et-jours-f-ri-s",
+    "next": "article-91-"
+  }
+}

@@ -1,0 +1,1 @@
+Il est interdit d'importer, de produire, de commercialiser ou de distribuer des denrées alimentaires avariées, périmées, falsifiées ou contenant des substances pouvant nuire à la santé des populations ou des denrées alimentaires non contrôlées par les services compétents.

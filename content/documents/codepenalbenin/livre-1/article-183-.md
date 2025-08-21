@@ -1,0 +1,4 @@
+Est puni de la détention criminelle à temps de cinq (05) ans à dix (10) ans, tout béninois ou étranger autre que ceux visés à l’article 182 qui, sans intention de trahison ou d’espionnage :
+1. s’est assuré, étant sans qualité, la possession d’un renseignement, objet, document ou procédé qui doit être tenu secret dans l’intérêt de la défense nationale ou dont la connaissance pourrait conduire à la découverte d’un secret de la défense nationale ;
+2. a détruit, soustrait, laissé détruire ou soustraire, a reproduit ou laissé reproduire un tel renseignement, objet, document ou procédé ;
+3. a porté ou laissé porter à la connaissance d’une personne non qualifiée ou du public un tel renseignement, objet, document ou procédé ou en a étendu la divulgation.

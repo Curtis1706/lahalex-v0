@@ -1,0 +1,1 @@
+Les prestations sont supprimées lorsque l’accident résulte de la faute intentionnelle de la victime.

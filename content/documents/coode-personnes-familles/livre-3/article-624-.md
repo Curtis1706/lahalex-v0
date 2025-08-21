@@ -1,0 +1,1 @@
+Dans le cas où la personne morte sans postérité laisse des frères et sœurs ou des descendants d'eux, si le père ou la mère est prédécédé, la portion qui lui aurait été dévolue ; conformément au précédent article se réunit à la moitié déférée aux frères, sœurs ou à leurs représentants, ainsi qu’il sera expliqué, au paragraphe 3 de la présente section.

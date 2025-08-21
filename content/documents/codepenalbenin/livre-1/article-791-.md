@@ -1,0 +1,7 @@
+Est coupable de banqueroute frauduleuse, les personnes physiques dirigeantes de personnes morales de droit privé ou de toute entreprise publique ou ayant la forme d’une personne morale de droit privé, ou les associés des sociétés commerciales qui ont la qualité de commerçants, en cas de cessation de paiement qui ont :
+1. soustrait sa comptabilité ;
+2. détourné ou dissipé tout ou partie de son actif ;
+3. soit dans ses écritures, soit par des actes publics ou des engagements sous seing privé, soit dans son bilan, s’est frauduleusement reconnue débitrice des sommes qu’elle ne devait pas ;
+4. exercé une activité professionnelle indépendante, civile, commerciale, artisanale ou agricole en violation d’une interdiction prévue par un Acte uniforme ou en violation d’une disposition prévue par les lois et règlements applicables ;
+5. après la cessation des paiements, payé un créancier au préjudice de la masse ;
+6. consenti à un créancier des avantages particuliers à raison de son vote dans la délibération de la masse ou a conclu avec un créancier un accord particulier duquel il résulterait pour ce dernier un avantage à la charge de l’actif du débiteur à partir du jour de la décision d’ouverture d’une procédure collective le concernant.

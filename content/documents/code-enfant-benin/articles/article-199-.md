@@ -1,0 +1,2 @@
+Article 199 : Traitements cruels et inhumains Les traitements cruels, inhumains ou dégradants sont définis comme tous actes visant la soumission de l’enfant à des actes de brutalité, de privation ou de séquestration susceptibles de porter atteinte à sa santé physique ou mentale ou à son équilibre affectif et psychologique.
+SECTION XIV : DE LA VENTE ET DE LA TRAITE DES ENFANTS

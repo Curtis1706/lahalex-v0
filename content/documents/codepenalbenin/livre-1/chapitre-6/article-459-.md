@@ -1,0 +1,2 @@
+Est puni de la réclusion criminelle à temps de quinze (15) ans à vingt (20) ans d’emprisonnement et d’une amende de un million (1.000.000) de francs CFA à cinq millions (5.000.000) de francs CFA quiconque en toute connaissance de cause vend, achète, transporte, prépare ou consomme de la chair humaine.
+Est puni de la même peine, quiconque prélève ou conserve aux fins ci-dessus visées de la chair humaine.

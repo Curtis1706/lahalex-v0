@@ -1,0 +1,17 @@
+{
+  "id": "article-162-",
+  "title": "Article 162 : Justification de la mesure",
+  "numero": "162 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-2",
+    "chapitre-5",
+    "sous-section-6"
+  ],
+  "navigation": {
+    "parent": "sous-section-6",
+    "previous": "article-161-",
+    "next": "article-163-"
+  }
+}

@@ -1,0 +1,3 @@
+Si en cours de voyage le capitaine décède, disparaît ou se trouve dans l’incapacité d’exercer son commandement, il est remplacé de plein droit par l’officier de pont possédant le brevet le plus élevé.
+A l’escale suivante, le capitaine intérimaire doit se mettre en rapport avec l’armateur pour faire nommer un nouveau capitaine. Celui-ci peut être désigné par l’autorité consulaire à défaut d’instructions de l’armateur en temps voulu.
+Pendant la durée de l’intérim, l’armateur est valablement représenté par le capitaine intérimaire.

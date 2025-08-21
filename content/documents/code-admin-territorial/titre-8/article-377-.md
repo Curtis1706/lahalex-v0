@@ -1,0 +1,1 @@
+Le principe de l'indépendance des exercices signifie que les opérations sont prises en compte au titre de l'exercice auquel elles se rattachent, indépendamment de leur date de paiement ou d'encaissement.

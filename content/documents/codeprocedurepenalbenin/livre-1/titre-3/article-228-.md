@@ -1,0 +1,1 @@
+Le dossier de la procédure reste déposé au greffe pendant quarante- huit (48) heures en matière de détention provisoire, pendant cinq (05) jours en toute autre matière. Il est alors procédé conformément aux articles 216, 217 et 218 du présent code.

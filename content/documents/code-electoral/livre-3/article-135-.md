@@ -1,0 +1,3 @@
+Le dépôt de candidatures aux fonctions de président de la République et de vice-président de la République est effectué cent quatre-vingts (180) jours avant la date du 1 tour du scrutin.
+La déclaration de candidature est faite en double exemplaire, revêtue de la signature de chaque candidat et attestant sur L'honneur qu'il remplit les conditions d'éligibilité requises.
+Outre les pièces mentionnées à l'article 41 du présent code et aux fins de l'étude des dossiers de candidature, la Commission électorale nationale autonome se fait délivrer par les autorités compétentes, le bulletin n° 2 du casier judiciaire des candidats.

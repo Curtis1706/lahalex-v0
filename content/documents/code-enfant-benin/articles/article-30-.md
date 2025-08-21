@@ -1,0 +1,2 @@
+Article 30 : Droit à la protection spéciale
+L’enfant orphelin ou celui qui est temporairement ou définitivement privé de son milieu familial ou qui, dans son intérêt supérieur, ne peut être laissé dans ce milieu, a droit à une protection spéciale de l’Etat ou de ses démembrements.

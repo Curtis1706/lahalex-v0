@@ -1,0 +1,15 @@
+{
+  "id": "article-210-",
+  "title": "Article 210 : Rôle du Registre",
+  "numero": "210 ",
+  "document": "code-numerique-benin",
+  "path": [
+    "livre-1",
+    "titre-3"
+  ],
+  "navigation": {
+    "parent": "titre-3",
+    "previous": "article-209-",
+    "next": "article-211-"
+  }
+}

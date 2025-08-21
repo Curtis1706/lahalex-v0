@@ -1,0 +1,4 @@
+Frais et redevances
+Sur proposition de l’Autorité de régulation et sans préjudice des contreparties financières, des contributions prévues dans la présente Section et des contributions au financement de l’accès/service universel auxquelles sont assujetties les opérateurs conformément aux dispositions du présent code, l’État instaure, en cas de besoin, dans les conditions de transparence et de non-discrimination, des taxes, frais et des redevances, destinés à couvrir les charges inhérentes à l’exercice des activités de régulation et de règlementations.
+Les modalités d’affectation desdits frais et redevances sont déterminées par arrêté du Ministre chargé des communications électroniques.
+Les frais et les redevances ainsi créés sont publiés, chaque année, au Journal Officiel et par toutes voies d’annonces légales.

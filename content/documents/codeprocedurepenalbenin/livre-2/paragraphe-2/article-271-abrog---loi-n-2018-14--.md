@@ -1,0 +1,1 @@
+Chaque président de tribunal est tenu d’informer immédiatement le président de la cour d’appel des décès, des incapacités ou des incompatibilités légales qui frappent les personnes dont les noms sont portés sur la liste annuelle.

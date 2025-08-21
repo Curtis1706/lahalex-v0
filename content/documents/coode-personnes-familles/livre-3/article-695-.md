@@ -1,0 +1,1 @@
+Le défunt, dans son testament, et le tribunal, le cas échéant, peuvent limiter les pouvoirs du liquidateur ou lui donner les instructions sur la manière dont il devra remplir ses fonctions.

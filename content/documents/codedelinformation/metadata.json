@@ -1,0 +1,4508 @@
+{
+  "id": "codedelinformation",
+  "title": "Code de l'Information et de la Communication",
+  "type": "codes",
+  "description": "Code régissant les médias, la liberté d'expression et les droits des journalistes en République du Bénin, promulgué en 2015, visant à garantir une information libre et responsable tout en protégeant les droits individuels et collectifs.",
+  "structure": {
+    "sections": [
+      {
+        "id": "titre-1",
+        "title": "TITRE 1 : DES DISPOSITIONS GENERALES",
+        "type": "titre",
+        "level": 2,
+        "order": 0,
+        "path": [
+          "titre-1"
+        ],
+        "children": [
+          "chapitre-1",
+          "chapitre-2",
+          "chapitre-3"
+        ]
+      },
+      {
+        "id": "chapitre-1",
+        "title": "CHAPITRE 1: DE L'OBJET ET DU CHAMP D’APPLICATION",
+        "type": "chapitre",
+        "level": 3,
+        "order": 1,
+        "path": [
+          "titre-1",
+          "chapitre-1"
+        ],
+        "children": [
+          "article-1-",
+          "article-2-",
+          "article-3-",
+          "article-4-"
+        ]
+      },
+      {
+        "id": "article-1-",
+        "title": "Article 1 : La présente loi a pour objet :",
+        "type": "article",
+        "level": 3,
+        "order": 2,
+        "path": [
+          "titre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-2-",
+        "title": "Article 2 : La présente loi est applicable aux personnes physiques ou morales qui mettent à la disposition du public des services en matière d’information et de communication notamment aux professionnels des médias et aux entreprises de presse établies en République du Bénin, sans préjudice de l’application des règles relatives à l’occupation du domaine public.",
+        "type": "article",
+        "level": 3,
+        "order": 3,
+        "path": [
+          "titre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-3-",
+        "title": "Article 3 : Toute personne physique ou toute personne morale possédant une entreprise de presse en République du Bénin et qui prend les décisions relatives à son exploitation en dehors du territoire de la République du Bénin, est tenue de se conformer aux dispositions de la présente loi.",
+        "type": "article",
+        "level": 3,
+        "order": 4,
+        "path": [
+          "titre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-4-",
+        "title": "Article 4 : Toute personne physique ou toute personne morale qui n’a ni représentation, ni siège en République du Bénin, est soumise à la présente loi si :",
+        "type": "article",
+        "level": 3,
+        "order": 5,
+        "path": [
+          "titre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-2",
+        "title": "CHAPITRE 2 : DES DEFINITIONS",
+        "type": "chapitre",
+        "level": 3,
+        "order": 6,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": [
+          "article-5-"
+        ]
+      },
+      {
+        "id": "article-5-",
+        "title": "Article 5 : Au sens de la présente loi, on entend par :",
+        "type": "article",
+        "level": 3,
+        "order": 7,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-3",
+        "title": "CHAPITRE 3 : DES PRINCIPES GENERAUX",
+        "type": "chapitre",
+        "level": 3,
+        "order": 8,
+        "path": [
+          "titre-1",
+          "chapitre-3"
+        ],
+        "children": [
+          "article-6-",
+          "article-7-",
+          "article-8-",
+          "article-9-",
+          "article-10-",
+          "article-11-",
+          "article-12-",
+          "article-13-"
+        ]
+      },
+      {
+        "id": "article-6-",
+        "title": "Article 6 : La liberté de parler et d’écrire, d’imprimer et de publier, de lire et de recevoir des informations, des idées, des pensées et opinions de son choix est garantie en République du Bénin.",
+        "type": "article",
+        "level": 3,
+        "order": 9,
+        "path": [
+          "titre-1",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-7-",
+        "title": "Article 7 : Toute personne a droit à l’information.",
+        "type": "article",
+        "level": 3,
+        "order": 10,
+        "path": [
+          "titre-1",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-8-",
+        "title": "Article 8 : Nul, surtout un professionnel des médias, ne peut être empêché, ni interdit d’accès aux sources d’information, ni inquiété de quelque façon que ce soit dans l’exercice régulier de sa mission de communicateur s’il se conforme aux dispositions de la présente loi.",
+        "type": "article",
+        "level": 3,
+        "order": 11,
+        "path": [
+          "titre-1",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-9-",
+        "title": "Article 9 : L’espace de diffusion et les bandes de fréquences couvrant le territoire national de la République du Bénin sont la propriété de l’Etat béninois. Celui-ci détermine, par l’entremise de la Haute Autorité de l’Audiovisuel et de la Communication, le quota des bandes de fréquences radioélectriques et les capacités satellitaires à concéder aux personnes privées exploitant des chaînes de radiodiffusion sonore et de télévision ainsi qu’aux exploitants de services de communication audiovisuelle.",
+        "type": "article",
+        "level": 3,
+        "order": 12,
+        "path": [
+          "titre-1",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-10-",
+        "title": "Article 10 : Toute personne physique ou toute personne morale désirant créer une entreprise de presse en République du Bénin, remplit les conditions suivantes :",
+        "type": "article",
+        "level": 3,
+        "order": 13,
+        "path": [
+          "titre-1",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-11-",
+        "title": "Article 11 : La Haute Autorité de l’Audiovisuel et de la Communication a pour rôle de protéger et de promouvoir la liberté de presse et de communication. Elle veille au respect de la déontologie en matière d’information et à l’accès équitable des partis politiques, des associations et des citoyens aux moyens officiels d’information et de communication.",
+        "type": "article",
+        "level": 3,
+        "order": 14,
+        "path": [
+          "titre-1",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-12-",
+        "title": "Article 12 : En matière de presse écrite, de communication audiovisuelle ou en ligne et de Global System for Mobil Communication (GSM), la Haute Autorité de l’Audiovisuel et de la Communication est habilitée à prendre des décisions pour sanctionner les comportements des acteurs des médias qui portent atteinte à la déontologie et à l’accès équitable aux médias de service public.",
+        "type": "article",
+        "level": 3,
+        "order": 15,
+        "path": [
+          "titre-1",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-13-",
+        "title": "Article 13 : Constituent au sens de la présente loi, des manquements :",
+        "type": "article",
+        "level": 3,
+        "order": 16,
+        "path": [
+          "titre-1",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-14-",
+        "title": "Article 14 : Les organes et agences de presse sont tenus d’assurer et de respecter le pluralisme de l’information.",
+        "type": "article",
+        "level": 1,
+        "order": 19,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-15-",
+        "title": "Article 15 : Il est formellement interdit à tout organe de presse, tout journal, tout écrit périodique, toute radiodiffusion sonore, toute télévision, tout exploitant d’un service de communication audiovisuelle en ligne et/ou à ses collaborateurs de recevoir ou de se faire promettre une somme d’argent ou tous autres avantages aux fins de travestir une information ou de présenter l’actualité sous un faux jour.",
+        "type": "article",
+        "level": 1,
+        "order": 20,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-16-",
+        "title": "Article 16 : Une personne physique ou une personne morale privée ne peut détenir à la fois plus d’un organe de même catégorie.",
+        "type": "article",
+        "level": 1,
+        "order": 21,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-17-",
+        "title": "Article 17 : La Haute Autorité de l’Audiovisuel et de la Communication assure, d’une manière générale, le respect de l’expression pluraliste des courants de pensée et d’opinion dans la presse et la communication audiovisuelle, notamment en ce qui concerne les émissions d’information politique.",
+        "type": "article",
+        "level": 1,
+        "order": 22,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-18-",
+        "title": "Article 18 : Les organes d’information et de communication audiovisuelle et les exploitants de services audiovisuels, publics ou privés assurent, dans l’intérêt général, des missions de service public qui visent à :",
+        "type": "article",
+        "level": 1,
+        "order": 24,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-19-",
+        "title": "Article 19 : Les programmes radiophoniques et télévisuels sont librement conçus par les organes de radiodiffusion et de télévision.",
+        "type": "article",
+        "level": 1,
+        "order": 25,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-20-",
+        "title": "Article 20 : Tout manquement aux dispositions du présent chapitre fait l’objet de rappel à l’ordre écrit ou de mise en demeure adressé par la Haute Autorité de l’Audiovisuel et de la Communication au directeur de l’organe de radiodiffusion et de télévision mis en cause.",
+        "type": "article",
+        "level": 1,
+        "order": 26,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-21-",
+        "title": "Article 21 : Est journaliste :",
+        "type": "article",
+        "level": 1,
+        "order": 28,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-22-",
+        "title": "Article 22 : Sont considérées comme assimilés et auxiliaires à la fonction de journaliste, les professions suivantes :",
+        "type": "article",
+        "level": 1,
+        "order": 29,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-23-",
+        "title": "Article 23 : Les organes de presse peuvent s’adjoindre des collaborateurs non journalistes ou recevoir, publier ou diffuser toutes opinions, analyses, émissions, à condition que les écrits, les émissions soient signés par un auteur identifiable.",
+        "type": "article",
+        "level": 1,
+        "order": 30,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-24-",
+        "title": "Article 24 : L’exercice de la profession de journaliste est libre. Tout journaliste, dans l’exercice de sa fonction, est détenteur de la carte de presse.",
+        "type": "article",
+        "level": 1,
+        "order": 31,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-25-",
+        "title": "Article 25 : La fonction de journaliste est incompatible avec toute subordination fonctionnelle à une autorité publique.",
+        "type": "article",
+        "level": 1,
+        "order": 32,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "chapitre-4",
+        "title": "CHAPITRE 4 : DES DROITS ET DES OBLIGATIONS DU JOURNALISTE ET DES ORGANES DE PRESSE",
+        "type": "chapitre",
+        "level": 3,
+        "order": 33,
+        "path": [
+          "chapitre-4"
+        ],
+        "children": [
+          "section-1",
+          "section-2"
+        ]
+      },
+      {
+        "id": "section-1",
+        "title": "SECTION 1 : DES DROITS DU JOURNALISTE",
+        "type": "section",
+        "level": 4,
+        "order": 34,
+        "path": [
+          "chapitre-4",
+          "section-1"
+        ],
+        "children": [
+          "article-26-",
+          "article-27-",
+          "article-28-"
+        ]
+      },
+      {
+        "id": "article-26-",
+        "title": "Article 26 : Le journaliste exerce son métier en toute indépendance et en toute responsabilité.",
+        "type": "article",
+        "level": 3,
+        "order": 35,
+        "path": [
+          "chapitre-4",
+          "section-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-27-",
+        "title": "Article 27 : La clause de conscience est une prérogative reconnue et garantie au journaliste dans l’exercice de ses fonctions.",
+        "type": "article",
+        "level": 3,
+        "order": 36,
+        "path": [
+          "chapitre-4",
+          "section-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-28-",
+        "title": "Article 28 : Le journaliste a droit, sur toute l’étendue du territoire national, à la sécurité de sa personne et de son matériel de travail. En dehors des espaces et des objectifs légalement protégés, il ne saurait lui être refusé le droit de filmer des événements, de publier et de commenter des informations à caractère public.",
+        "type": "article",
+        "level": 3,
+        "order": 37,
+        "path": [
+          "chapitre-4",
+          "section-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "section-2",
+        "title": "SECTION 2 : DES OBLIGATIONS DU JOURNALISTE ET DES ORGANES DE PRESSE",
+        "type": "section",
+        "level": 4,
+        "order": 38,
+        "path": [
+          "chapitre-4",
+          "section-2"
+        ],
+        "children": [
+          "article-29-",
+          "article-30-",
+          "article-31-",
+          "article-32-",
+          "article-33-",
+          "article-34-",
+          "article-35-",
+          "article-36-"
+        ]
+      },
+      {
+        "id": "article-29-",
+        "title": "Article 29 : Dans l’exercice de son droit d’informer, le journaliste est astreint au respect des lois et règlements de la République du Bénin et au code d’éthique et de déontologie de la presse béninoise.",
+        "type": "article",
+        "level": 3,
+        "order": 39,
+        "path": [
+          "chapitre-4",
+          "section-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-30-",
+        "title": "Article 30 : Le journaliste doit observer une intégrité morale.",
+        "type": "article",
+        "level": 3,
+        "order": 40,
+        "path": [
+          "chapitre-4",
+          "section-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-31-",
+        "title": "Article 31 : Toute publication, même contenant des réserves expresses, est écartée lorsqu’elle est susceptible d’entraîner des torts pour autrui.",
+        "type": "article",
+        "level": 3,
+        "order": 41,
+        "path": [
+          "chapitre-4",
+          "section-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-32-",
+        "title": "Article 32 : Le journaliste s’abstient de toute incursion ou immixtion dans la vie privée des personnes même lorsque ces personnes assument des fonctions ou un rôle politique. Toutefois, lorsque l’intérêt public le justifie, le journaliste peut révéler des informations lorsque celles-ci compromettent la morale publique et/ou constituent une menace pour la santé publique.",
+        "type": "article",
+        "level": 3,
+        "order": 42,
+        "path": [
+          "chapitre-4",
+          "section-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-33-",
+        "title": "Article 33 : Les nouvelles et les informations publiées, de bonne foi, doivent être spontanément rectifiées par le journaliste, dès lors que celles-ci se révèlent fausses ou inexactes. Aussi le journaliste se plie-t-il à l’exercice du droit de réponse de l’offensé.",
+        "type": "article",
+        "level": 3,
+        "order": 43,
+        "path": [
+          "chapitre-4",
+          "section-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-34-",
+        "title": "Article 34 : Les organes de presse, les éditeurs et les imprimeurs ou tous autres services de communication audiovisuelle en ligne ou non contribuent au respect du droit d’auteur sur les œuvres littéraires, artistiques et intellectuelles.",
+        "type": "article",
+        "level": 3,
+        "order": 44,
+        "path": [
+          "chapitre-4",
+          "section-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-35-",
+        "title": "Article 35 : Le journaliste est astreint au secret professionnel. Il ne peut ni divulguer les sources et les origines des informations confidentiellement reçues, ni y être contraint.",
+        "type": "article",
+        "level": 3,
+        "order": 45,
+        "path": [
+          "chapitre-4",
+          "section-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-36-",
+        "title": "Article 36 : Le journaliste s’abstient de toute publication qui incite au régionalisme, à l’ethnocentrisme, à la discrimination, à la haine, à la xénophobie, à la violence et à la débauche. Il s’abstient également de toute incitation au crime ou au suicide et ne peut faire l’apologie du crime.",
+        "type": "article",
+        "level": 3,
+        "order": 46,
+        "path": [
+          "chapitre-4",
+          "section-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-5",
+        "title": "CHAPITRE 5 : DE L’AIDE DE L’ETAT A LA PRESSE PRIVEE ET DU FINANCEMENT DES MEDIAS",
+        "type": "chapitre",
+        "level": 3,
+        "order": 47,
+        "path": [
+          "chapitre-5"
+        ],
+        "children": [
+          "article-37-",
+          "article-38-",
+          "article-39-",
+          "article-40-",
+          "article-41-",
+          "article-42-",
+          "article-43-",
+          "article-44-"
+        ]
+      },
+      {
+        "id": "article-37-",
+        "title": "Article 37 : L’Etat accorde une aide à la presse privée. Elle est inscrite au budget général de l’Etat.",
+        "type": "article",
+        "level": 2,
+        "order": 49,
+        "path": [
+          "chapitre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-38-",
+        "title": "Article 38 : Les publications quotidiennes ou périodiques, les chaînes de radiodiffusion sonore ou de télévision et la presse en ligne, ainsi que les projets d’intérêts communs à la corporation bénéficient de cette aide.",
+        "type": "article",
+        "level": 2,
+        "order": 50,
+        "path": [
+          "chapitre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-39-",
+        "title": "Article 39 : Il est créé un fonds d’appui au développement des médias logé dans un compte bancaire.",
+        "type": "article",
+        "level": 2,
+        "order": 51,
+        "path": [
+          "chapitre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-40-",
+        "title": "Article 40 : L’Etat accorde des facilités aux entreprises de presse privée à travers un régime fiscal spécial favorable. Il peut s’agir d’allègement, de diminution ou d’exonération des impôts, taxes ou redevances.",
+        "type": "article",
+        "level": 2,
+        "order": 52,
+        "path": [
+          "chapitre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-41-",
+        "title": "Article 41 : Le financement des médias de service public est constitué de subventions de l’Etat, de redevances soumises annuellement à l’approbation de l’Assemblée Nationale, de recettes publicitaires, des dons et legs.",
+        "type": "article",
+        "level": 2,
+        "order": 54,
+        "path": [
+          "chapitre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-42-",
+        "title": "Article 42 : Tout média de service public qui reçoit des dons et legs de quelque donateur que ce soit, en informe la Haute Autorité de l’Audiovisuel et de la Communication.",
+        "type": "article",
+        "level": 2,
+        "order": 55,
+        "path": [
+          "chapitre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-43-",
+        "title": "Article 43 : Le financement public des médias de service public astreint ces derniers au respect strict de la déontologie et des obligations de transparence dans la gestion des fonds. Il les oblige aussi à :",
+        "type": "article",
+        "level": 2,
+        "order": 56,
+        "path": [
+          "chapitre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-44-",
+        "title": "Article 44 : Les comptes des médias de service public font l’objet, chaque année, d’un audit réalisé par une institution publique compétente.",
+        "type": "article",
+        "level": 2,
+        "order": 57,
+        "path": [
+          "chapitre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-2",
+        "title": "TITRE 2 : DES DISPOSITIONS COMMUNES AUX MOYENS D’INFORMATION ET DE COMMUNICATION",
+        "type": "titre",
+        "level": 2,
+        "order": 58,
+        "path": [
+          "titre-2"
+        ],
+        "children": [
+          "article-45-",
+          "article-46-",
+          "article-47-",
+          "article-48-",
+          "article-49-",
+          "section-3",
+          "article-60-",
+          "article-61-",
+          "article-62-",
+          "article-63-",
+          "article-64-",
+          "article-65-",
+          "article-66-",
+          "article-67-",
+          "article-68-",
+          "article-69-",
+          "article-70-",
+          "article-71-",
+          "article-72-",
+          "article-73-",
+          "article-74-",
+          "article-75-",
+          "article-76-",
+          "article-77-",
+          "article-78-",
+          "article-79-",
+          "article-80-",
+          "article-81-",
+          "article-82-",
+          "section-4",
+          "section-5",
+          "article-108-",
+          "article-109-",
+          "article-110-",
+          "article-111-",
+          "article-112-",
+          "article-113-",
+          "article-114-",
+          "article-115-",
+          "article-116-",
+          "article-117-",
+          "article-118-",
+          "article-119-",
+          "article-120-",
+          "article-121-",
+          "article-122-",
+          "chapitre-6",
+          "chapitre-7"
+        ]
+      },
+      {
+        "id": "article-45-",
+        "title": "Article 45 : Les écrits, les jeux et les programmes mis à la disposition du public par les organes de presse, les éditeurs et les imprimeurs ainsi que les services de communication audiovisuelle en ligne ou non :",
+        "type": "article",
+        "level": 2,
+        "order": 61,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-46-",
+        "title": "Article 46 : Les organes de presse, les éditeurs et les imprimeurs ainsi que les services de communication audiovisuelle en ligne ou non veillent :",
+        "type": "article",
+        "level": 2,
+        "order": 63,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-47-",
+        "title": "Article 47 : Le président de la Haute Autorité de l’Audiovisuel et de la Communication et le procureur de la République territorialement compétent, chacun en ce qui le concerne, sont habilités à constater la circulation frauduleuse de tout périodique visé aux articles 45 et 46 et la mise à la disposition du public d’écrits, de jeux ou de programmes à caractère licencieux, pornographique ou contraires aux bonnes mœurs.",
+        "type": "article",
+        "level": 2,
+        "order": 64,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-48-",
+        "title": "Article 48 : Toute personne a droit au respect de sa vie privée. Cela s’entend que toute personne est libre de gérer sa propre existence comme elle la pense sans craindre aucune ingérence extérieure et/ou publicité.",
+        "type": "article",
+        "level": 2,
+        "order": 67,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-49-",
+        "title": "Article 49 : La diffusion, la publication, la reproduction d’image ou de fait concernant les vedettes de spectacles, les personnes assumant une fonction ou un rôle politique ou qui sont candidates à des élections ne sauraient excéder le minimum d’ingérence extérieure nécessaire à des fins d’information, scientifiques, didactiques ou culturelles. Leur consentement n’est pas obligatoire.",
+        "type": "article",
+        "level": 2,
+        "order": 68,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "section-3",
+        "title": "SECTION 3 : DE LA REPRODUCTION DE L’IMAGE ET DES TRAITS",
+        "type": "section",
+        "level": 4,
+        "order": 69,
+        "path": [
+          "titre-2",
+          "section-3"
+        ],
+        "children": [
+          "article-50-",
+          "article-51-",
+          "article-52-",
+          "article-53-",
+          "article-54-",
+          "article-55-",
+          "article-56-",
+          "article-57-",
+          "article-58-",
+          "article-59-"
+        ]
+      },
+      {
+        "id": "article-50-",
+        "title": "Article 50 : Toute personne a un droit exclusif sur son image et sur l’usage qu’on peut en faire.",
+        "type": "article",
+        "level": 3,
+        "order": 70,
+        "path": [
+          "titre-2",
+          "section-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-51-",
+        "title": "Article 51 : L’autorisation n’est pas requise pour la simple reproduction à des fins d’information de l’image d’un homme assumant des fonctions ou un rôle politique, d’une vedette de spectacles ou encore d’une personne qui participe à une manifestation publique ou qui se trouve mêlée à l’actualité judiciaire.",
+        "type": "article",
+        "level": 3,
+        "order": 71,
+        "path": [
+          "titre-2",
+          "section-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-52-",
+        "title": "Article 52 : Il est autorisé la reproduction des images de personnes qui ont acquis une notoriété publique par le fait de leur vie professionnelle, administrative ou politique.",
+        "type": "article",
+        "level": 3,
+        "order": 72,
+        "path": [
+          "titre-2",
+          "section-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-53-",
+        "title": "Article 53 : Toute personne photographiée, filmée, reproduite, peinte ou dessinée, a le droit de s’opposer à l’exposition de son image, si son consentement n’a pas été obtenu.",
+        "type": "article",
+        "level": 3,
+        "order": 73,
+        "path": [
+          "titre-2",
+          "section-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-54-",
+        "title": "Article 54 : La reproduction ou l’exposition de l’image d’un groupe de personnes photographiées ou filmées dans un lieu public n’est pas répréhensible.",
+        "type": "article",
+        "level": 3,
+        "order": 74,
+        "path": [
+          "titre-2",
+          "section-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-55-",
+        "title": "Article 55 : La reproduction, l’exposition ou la présentation de l’image d’une personne portant des menottes ne saurait être faite et utilisée que pour illustrer la procédure judiciaire ou l’événement public au cours duquel la photographie a été prise et dans le moment et le temps que dure cette procédure judiciaire ou cet événement.",
+        "type": "article",
+        "level": 3,
+        "order": 75,
+        "path": [
+          "titre-2",
+          "section-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-56-",
+        "title": "Article 56 : Toute reproduction de l’image d’une personne doit être fidèle.",
+        "type": "article",
+        "level": 3,
+        "order": 76,
+        "path": [
+          "titre-2",
+          "section-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-57-",
+        "title": "Article 57 : Toute personne ayant fait des déclarations en public ne peut s’opposer à la diffusion, par les organes d’information et de communication, de son image en raison des nécessités de l’information. Toutefois, cette diffusion ou publicité ne doit pas s’accompagner de commentaires tendancieux ou désobligeants.",
+        "type": "article",
+        "level": 3,
+        "order": 77,
+        "path": [
+          "titre-2",
+          "section-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-58-",
+        "title": "Article 58 : La présentation caricaturale de l’image ou des traits d’une personne est libre.",
+        "type": "article",
+        "level": 3,
+        "order": 78,
+        "path": [
+          "titre-2",
+          "section-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-59-",
+        "title": "Article 59 : L’imitation de la voix d’une personne est libre.",
+        "type": "article",
+        "level": 3,
+        "order": 79,
+        "path": [
+          "titre-2",
+          "section-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-60-",
+        "title": "Article 60 : Toute personne a droit au respect du principe de la présomption d’innocence.",
+        "type": "article",
+        "level": 2,
+        "order": 81,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-61-",
+        "title": "Article 61 : Les autorités judiciaires, notamment le procureur de la République, veillent au respect de la présomption d’innocence par les journalistes et les organes de presse.",
+        "type": "article",
+        "level": 2,
+        "order": 82,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-62-",
+        "title": "Article 62 : Les directeurs de publication de journaux et de périodiques sont tenus de déposer, contre récépissé ou décharge auprès de la Haute Autorité de l’Audiovisuel et de la Communication et au parquet près le tribunal de première instance territorialement compétent, leurs publications.",
+        "type": "article",
+        "level": 2,
+        "order": 85,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-63-",
+        "title": "Article 63 : Avant la diffusion de chaque feuille de journal ou de périodique, il est déposé, par le directeur de publication ou son fondé de pouvoir, sous forme de dépôt légal :",
+        "type": "article",
+        "level": 2,
+        "order": 86,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-64-",
+        "title": "Article 64 : Les livres, les périodiques, les journaux, les brochures, les écrits et les publications destinés aux mineurs, les estampes, les gravures, les cartes postales illustrées et autres imprimés de toutes natures, ainsi que les œuvres cinématographiques et phonographiques destinés à la distribution, à la vente, à la location publique ou cédés pour la reproduction, l’exposition ou la représentation sont soumis à la formalité du dépôt légal.",
+        "type": "article",
+        "level": 2,
+        "order": 87,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-65-",
+        "title": "Article 65 : Sont transmis sans délai, à la bibliothèque nationale dont ils constituent la propriété, pour y être conservés, les livres, les journaux, les brochures, les écrits et les publications destinés aux mineurs, les estampes, les gravures, les cartes postales illustrées et autres imprimés de toutes natures ainsi que les œuvres cinématographiques, phonographiques, déposées au titre de dépôt légal, auprès de la Haute Autorité de l’Audiovisuel et de la Communication.",
+        "type": "article",
+        "level": 2,
+        "order": 88,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-66-",
+        "title": "Article 66 : Ne sont pas soumis au dépôt légal :",
+        "type": "article",
+        "level": 2,
+        "order": 89,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-67-",
+        "title": "Article 67 : Les directeurs de radiodiffusion sonore ou de télévision et les exploitants de services de communication audiovisuelle sont tenus de déposer au procureur de la République territorialement compétent et auprès de la Haute Autorité de l’Audiovisuel et de la Communication, les copies des enregistrements des productions cinématographiques et de fiction, soumises à la formalité du dépôt légal.",
+        "type": "article",
+        "level": 2,
+        "order": 91,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-68-",
+        "title": "Article 68 : S’agissant des émissions audiovisuelles destinées aux mineurs, hormis les émissions ludiques classiques, les directeurs de radiodiffusion sonore ou de télévision et les exploitants de services de communication audiovisuelle déposent copie au procureur de la République territorialement compétent et auprès de la Haute Autorité de l’Audiovisuel et de la Communication, leur diffusion, dans les vingt-quatre (24) heures si elles sont préenregistrées, et quarante-huit (48) heures si elles sont produites en direct.",
+        "type": "article",
+        "level": 2,
+        "order": 92,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-69-",
+        "title": "Article 69 : Sont transmis, sans délai, à la bibliothèque nationale, dont ils constituent la propriété, pour y être conservés, les enregistrements, les vidéogrammes, les œuvres cinématographiques et phonographiques déposés auprès de la Haute Autorité de l’Audiovisuel et de la Communication.",
+        "type": "article",
+        "level": 2,
+        "order": 93,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-70-",
+        "title": "Article 70 : Tout citoyen a le droit d’accéder aux documents ou aux renseignements détenus par un organisme public ou par ses agents dans l’exercice de leurs fonctions.",
+        "type": "article",
+        "level": 2,
+        "order": 96,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-71-",
+        "title": "Article 71 : Tout agent ou organisme public qui refuse le droit d’accès aux sources publiques d’information, doit en justifier la décision. Toute entrave aux droits d’accès à l’information est passible de sanction administrative et/ou judiciaire.",
+        "type": "article",
+        "level": 2,
+        "order": 97,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-72-",
+        "title": "Article 72 : Le droit d’accès aux sources publiques d’information s’exerce quelle que soit la forme des documents : écrite, graphique, sonore, visuelle, informatisée ou autre.",
+        "type": "article",
+        "level": 2,
+        "order": 98,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-73-",
+        "title": "Article 73 : Les agents peuvent dévoiler et fournir des preuves de tous comportements illicites dans l’administration publique. Sauf dénonciation calomnieuse, ils n’encourent, ce faisant, aucune sanction administrative ou mesure disciplinaire.",
+        "type": "article",
+        "level": 2,
+        "order": 99,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-74-",
+        "title": "Article 74 : Le droit d’accès à un document ou à un renseignement public s’exerce par consultation sur place pendant les heures habituelles de travail.",
+        "type": "article",
+        "level": 2,
+        "order": 101,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-75-",
+        "title": "Article 75 : L’accès à un document ou renseignement public est gratuit.",
+        "type": "article",
+        "level": 2,
+        "order": 102,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-76-",
+        "title": "Article 76 : Le droit d’accès à un document produit par un organisme public ou pour son compte et ayant fait l’objet d’une publication ou d’une diffusion, ne s’exerce que par consultation sur place pendant les heures habituelles de travail ou par l’obtention d’informations suffisantes pour permettre au requérant de le consulter ou de se le procurer là où il est disponible.",
+        "type": "article",
+        "level": 2,
+        "order": 103,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-77-",
+        "title": "Article 77 : Un organisme public ne peut refuser de communiquer un renseignement visé aux articles 74 à 76 ci-dessus, lorsque ce renseignement permet de connaître ou de confirmer l’existence d’un risque immédiat pour la santé ou la sécurité d’une personne ou d’une atteinte sérieuse ou irréparable à son droit, à la qualité de l’environnement, ou lorsque l’intérêt public l’exige.",
+        "type": "article",
+        "level": 2,
+        "order": 104,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-78-",
+        "title": "Article 78 : Tout citoyen qui veut obtenir un renseignement ou un document auprès d’un organisme public en formule la demande. Cette demande est écrite ou verbale. Lorsqu’il s’agit d’une consultation sur place, la demande verbale est assortie d’un écrit.",
+        "type": "article",
+        "level": 2,
+        "order": 106,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-79-",
+        "title": "Article 79 : L’agent ou le responsable public donne à la personne qui lui a fait une demande écrite, un avis de la date de réception de sa demande, sous peine d’être déchu du droit d’invoquer un délai insuffisant devant la Haute Autorité de l’Audiovisuel et de la Communication et les juridictions.",
+        "type": "article",
+        "level": 2,
+        "order": 107,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-80-",
+        "title": "Article 80 : L’agent ou le responsable public qui a reçu une demande est appelé, avec diligence et, dans les cinq (05) jours francs qui suivent la date de la réception à :",
+        "type": "article",
+        "level": 2,
+        "order": 108,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-81-",
+        "title": "Article 81 : Lorsqu’il est saisi d’une demande qui, à son avis, relève de la compétence d’un autre organisme public ou qui est relative à un document produit par un autre organisme public ou pour son compte dont il a connaissance, l’agent ou le responsable public, dans le délai de cinq (05) jours francs, indique au requérant le nom de l’organisme compétent et celui du responsable de l’accès aux documents de cet organisme.",
+        "type": "article",
+        "level": 2,
+        "order": 109,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-82-",
+        "title": "Article 82 : Tout refus de donner communication d’un renseignement ou d’un document public doit être motivé.",
+        "type": "article",
+        "level": 2,
+        "order": 110,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "section-4",
+        "title": "SECTION 4 : DES RESTRICTIONS DU DROIT D’ACCES",
+        "type": "section",
+        "level": 4,
+        "order": 111,
+        "path": [
+          "titre-2",
+          "section-4"
+        ],
+        "children": [
+          "article-83-",
+          "article-84-",
+          "article-85-",
+          "article-86-",
+          "article-87-",
+          "article-88-",
+          "article-89-",
+          "article-90-",
+          "article-91-",
+          "article-92-",
+          "article-93-",
+          "article-94-",
+          "article-95-",
+          "article-96-"
+        ]
+      },
+      {
+        "id": "article-83-",
+        "title": "Article 83 : Les restrictions du droit d’accès aux sources publiques d’information ne se justifient que dans des circonstances exceptionnelles commanditées par l’intérêt public : le secret-défense et le secret de l’instruction judiciaire.",
+        "type": "article",
+        "level": 3,
+        "order": 112,
+        "path": [
+          "titre-2",
+          "section-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-84-",
+        "title": "Article 84 : Le droit d’accès aux sources publiques d’information ne s’étend pas aux notes personnelles inscrites sur un document, ni aux esquisses, ébauches, brouillons, notes préparatoires ou autres documents de même nature.",
+        "type": "article",
+        "level": 3,
+        "order": 113,
+        "path": [
+          "titre-2",
+          "section-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-85-",
+        "title": "Article 85 : Un organisme public peut refuser de communiquer un secret industriel qui lui appartient.",
+        "type": "article",
+        "level": 3,
+        "order": 114,
+        "path": [
+          "titre-2",
+          "section-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-86-",
+        "title": "Article 86 : Un organisme public ne peut communiquer le secret industriel ou commercial d’un tiers ou un renseignement industriel, financier, commercial, scientifique, technique ou syndical frappé de secret fourni par un tiers et habituellement traité de façon confidentielle, sans le consentement de celui-ci.",
+        "type": "article",
+        "level": 3,
+        "order": 115,
+        "path": [
+          "titre-2",
+          "section-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-87-",
+        "title": "Article 87 : Un organisme public ne peut ni confirmer, ni donner communication d’un renseignement obtenu d’une personne qui, en vertu de la loi, est chargée de prévenir, détecter ou réprimer le crime ou les infractions aux lois lorsque sa divulgation est susceptible de :",
+        "type": "article",
+        "level": 3,
+        "order": 116,
+        "path": [
+          "titre-2",
+          "section-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-88-",
+        "title": "Article 88 : Un organisme public ne peut communiquer un renseignement portant sur une méthode ou sur une arme susceptible d’être utilisée pour commettre un crime ou une infraction à la loi.",
+        "type": "article",
+        "level": 3,
+        "order": 117,
+        "path": [
+          "titre-2",
+          "section-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-89-",
+        "title": "Article 89 : La décision rendue par un organe judiciaire est publique.",
+        "type": "article",
+        "level": 3,
+        "order": 118,
+        "path": [
+          "titre-2",
+          "section-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-90-",
+        "title": "Article 90 : Ne peuvent pas être communiquées avant l’expiration d’un délai de six (06) mois à compter de la date d’émission :",
+        "type": "article",
+        "level": 3,
+        "order": 119,
+        "path": [
+          "titre-2",
+          "section-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-91-",
+        "title": "Article 91 : Un organisme public peut refuser de laisser consulter ou de communiquer un document administratif dont la consultation ou la communication est susceptible de porter atteinte au secret-défense ou à la politique extérieure de la République du Bénin.",
+        "type": "article",
+        "level": 3,
+        "order": 120,
+        "path": [
+          "titre-2",
+          "section-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-92-",
+        "title": "Article 92 : Un organisme public peut refuser de laisser consulter ou de communiquer un document administratif dont la consultation ou la communication est susceptible de porter atteinte à la monnaie et au crédit public, à la sûreté de l’Etat et à la sécurité publique.",
+        "type": "article",
+        "level": 3,
+        "order": 121,
+        "path": [
+          "titre-2",
+          "section-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-93-",
+        "title": "Article 93 : Un organisme public peut refuser de communiquer :",
+        "type": "article",
+        "level": 3,
+        "order": 122,
+        "path": [
+          "titre-2",
+          "section-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-94-",
+        "title": "Article 94 : Un organisme public peut refuser de communiquer une épreuve destinée à l’évaluation comparative des connaissances, des aptitudes ou de l’expérience d’une personne, jusqu’au terme de l’utilisation de cette épreuve.",
+        "type": "article",
+        "level": 3,
+        "order": 123,
+        "path": [
+          "titre-2",
+          "section-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-95-",
+        "title": "Article 95 : Toute personne exerçant une fonction de vérification dans un organisme public ou pour le compte de cet organisme peut refuser de confirmer l’existence ou de donner communication d’un renseignement dont la divulgation serait susceptible de :",
+        "type": "article",
+        "level": 3,
+        "order": 124,
+        "path": [
+          "titre-2",
+          "section-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-96-",
+        "title": "Article 96 : Un organisme public peut refuser de laisser consulter ou de communiquer un document administratif dont la consultation ou la communication est de nature à porter atteinte au secret de la vie privée, des dossiers personnels et médicaux de ses membres.",
+        "type": "article",
+        "level": 3,
+        "order": 125,
+        "path": [
+          "titre-2",
+          "section-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "section-5",
+        "title": "SECTION 5 : DES VOIES DE RECOURS",
+        "type": "section",
+        "level": 4,
+        "order": 126,
+        "path": [
+          "titre-2",
+          "section-5"
+        ],
+        "children": [
+          "article-97-",
+          "article-98-",
+          "article-99-",
+          "article-100-",
+          "article-101-",
+          "article-102-",
+          "article-103-",
+          "article-104-",
+          "article-105-",
+          "article-106-",
+          "article-107-"
+        ]
+      },
+      {
+        "id": "article-97-",
+        "title": "Article 97 : Le silence observé à l’issue des délais indiqués aux articles 80 et 81, vaut décision implicite de rejet.",
+        "type": "article",
+        "level": 3,
+        "order": 127,
+        "path": [
+          "titre-2",
+          "section-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-98-",
+        "title": "Article 98 : Le recours est fait par écrit, et copie est donnée pour information à l’organisme public concerné, ensemble avec tous autres renseignements que le demandeur jugera utile de produire pour éclairer la Haute Autorité de l’Audiovisuel et de la Communication.",
+        "type": "article",
+        "level": 3,
+        "order": 128,
+        "path": [
+          "titre-2",
+          "section-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-99-",
+        "title": "Article 99 : La Haute Autorité de l’Audiovisuel et de la Communication peut s’autosaisir de demandes d’information non satisfaites par les sources publiques si elle le juge nécessaire.",
+        "type": "article",
+        "level": 3,
+        "order": 129,
+        "path": [
+          "titre-2",
+          "section-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-100-",
+        "title": "Article 100 : L’agent ou le responsable public, ainsi informé de l’existence d’un recours en contestation d’une décision de rejet au niveau de la Haute Autorité de l’Audiovisuel et de la Communication, veille à ce que tout document, objet de ce recours, soit conservé durant tout le temps requis pour épuiser la procédure prévue par la présente loi.",
+        "type": "article",
+        "level": 3,
+        "order": 130,
+        "path": [
+          "titre-2",
+          "section-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-101-",
+        "title": "Article 101 : La Haute Autorité de l’Audiovisuel et de la Communication saisit les autorités compétentes aux fins de :",
+        "type": "article",
+        "level": 3,
+        "order": 131,
+        "path": [
+          "titre-2",
+          "section-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-102-",
+        "title": "Article 102 : L’agent et l’institution publique concernés facilitent l’enquête de la Haute Autorité de l’Audiovisuel et de la Communication en mettant à sa disposition toutes les informations demandées.",
+        "type": "article",
+        "level": 3,
+        "order": 132,
+        "path": [
+          "titre-2",
+          "section-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-103-",
+        "title": "Article 103 : La Haute Autorité de l’Audiovisuel et de la Communication statue dans un délai de trente (30) jours à compter de la date de saisine.",
+        "type": "article",
+        "level": 3,
+        "order": 133,
+        "path": [
+          "titre-2",
+          "section-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-104-",
+        "title": "Article 104 : La décision de la Haute Autorité de l’Audiovisuel et de la Communication (HAAC) est notifiée aux parties et publiée au Journal Officiel.",
+        "type": "article",
+        "level": 3,
+        "order": 134,
+        "path": [
+          "titre-2",
+          "section-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-105-",
+        "title": "Article 105 : La décision de confirmation a pour effet de mettre définitivement fin à toute autre contestation de la décision de rejet attaquée. La décision portant infirmation permet à la Haute Autorité de l’Audiovisuel et de la Communication de mener des actions de manière à faciliter la jouissance effective d’un droit conféré par la présente loi.",
+        "type": "article",
+        "level": 3,
+        "order": 135,
+        "path": [
+          "titre-2",
+          "section-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-106-",
+        "title": "Article 106 : Dans le cas d’une décision d’infirmation, la Haute Autorité de l’Audiovisuel et de la Communication adresse, à l’agent ou au responsable de l’institution publique concernée, un courrier dans lequel elle lui demande de satisfaire le demandeur dans les délais fixés par elle. Une copie du courrier est remise au demandeur.",
+        "type": "article",
+        "level": 3,
+        "order": 136,
+        "path": [
+          "titre-2",
+          "section-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-107-",
+        "title": "Article 107 : Si l’agent ou l’institution publique persiste dans son refus de satisfaire le demandeur, la Haute Autorité de l’Audiovisuel et de la Communication prend l’initiative d’une action en recours devant la juridiction administrative. Elle en informe aussitôt après le requérant qui peut lui-même prendre toute initiative pour le rétablissement de son droit.",
+        "type": "article",
+        "level": 3,
+        "order": 137,
+        "path": [
+          "titre-2",
+          "section-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-108-",
+        "title": "Article 108 : Le Président de la République, Chef de l’Etat, agissant au nom du peuple béninois et garant de l’unité nationale intervient sans limitation et sans restriction aucune sur les médias de service public.",
+        "type": "article",
+        "level": 2,
+        "order": 140,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-109-",
+        "title": "Article 109 : Les adresses du Président de la République sont susceptibles, dans le but de l’animation de la vie politique, de répliques et de commentaires de la part des leaders des divers courants politiques et d’opinion.",
+        "type": "article",
+        "level": 2,
+        "order": 141,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-110-",
+        "title": "Article 110 : Seules les allocutions ou les interventions du Chef de l’Etat peuvent faire l’objet d’une diffusion synchronisée, en direct ou en différé, sur les chaînes de radiodiffusion et de télévision nationales.",
+        "type": "article",
+        "level": 2,
+        "order": 142,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-111-",
+        "title": "Article 111 : Les déclarations, les interventions et les communications des membres du Gouvernement, dans le cadre des activités de leurs départements ministériels respectifs, ne sont pas concernées par les répartitions horaires définies dans la présente loi.",
+        "type": "article",
+        "level": 2,
+        "order": 144,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-112-",
+        "title": "Article 112 : En temps ordinaire et conformément aux principes du pluralisme et de l’équilibre de l’information dans le cadre de la liberté d’expression, ces interventions peuvent faire l’objet de réactions variées de la part des leaders des autres courants politiques et d’opinion.",
+        "type": "article",
+        "level": 2,
+        "order": 145,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-113-",
+        "title": "Article 113 : Est interdite, en période de précampagne et de campagne électorale, l’organisation en séries ou non d’émissions susceptibles d’être assimilées à la propagande politique.",
+        "type": "article",
+        "level": 2,
+        "order": 146,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-114-",
+        "title": "Article 114 : Les interventions des membres du Gouvernement en leur qualité de chef ou de militant de parti sont comptabilisées dans la tranche horaire mensuelle affectée à leur formation politique et traitées comme telles.",
+        "type": "article",
+        "level": 2,
+        "order": 147,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-115-",
+        "title": "Article 115 : L’ouverture des sessions ordinaires de l’Assemblée nationale bénéficie d’une couverture intégrale en direct.",
+        "type": "article",
+        "level": 2,
+        "order": 149,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-116-",
+        "title": "Article 116 : Les sessions parlementaires sont couvertes par la presse audiovisuelle et écrite nationale et les débats retransmis en différé au plus tard dans les quarante-huit (48) heures.",
+        "type": "article",
+        "level": 2,
+        "order": 150,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-117-",
+        "title": "Article 117 : Les activités du Président de l’Assemblée Nationale, à savoir : les audiences, les tournées, les missions à l’extérieur et les conférences de presse font l’objet de couverture classique de la part des organes.",
+        "type": "article",
+        "level": 2,
+        "order": 151,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-118-",
+        "title": "Article 118 : Les institutions constitutionnelles et légales de la République autres que l’Assemblée Nationale ne sont pas soumises, dans l’exécution de leurs missions, aux répartitions horaires fixées dans la présente loi.",
+        "type": "article",
+        "level": 2,
+        "order": 152,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-119-",
+        "title": "Article 119 : Les partis politiques ou alliances de partis politiques régulièrement déclarés bénéficient, dans le cadre de l’animation de la vie politique nationale, de la couverture et de la retransmission de leurs activités, par les média de service public.",
+        "type": "article",
+        "level": 2,
+        "order": 154,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-120-",
+        "title": "Article 120 : Il est attribué, pour l’animation de la vie politique nationale, à chaque parti politique ou à chaque alliance de partis politiques régulièrement déclaré, un temps d’antenne ou une tranche horaire mensuelle, en toutes langues confondues, à la radio, à la télévision nationale et des espaces rédactionnels dans la presse écrite de service public.",
+        "type": "article",
+        "level": 2,
+        "order": 155,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-121-",
+        "title": "Article 121 : Les partis politiques ou alliances de partis politiques représentés à l’Assemblée Nationale bénéficient sur leur tranche horaire mensuelle, d’un quota horaire supplémentaire déterminé au prorata du nombre de leurs députés au parlement.",
+        "type": "article",
+        "level": 2,
+        "order": 156,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-122-",
+        "title": "Article 122 : Il est attribué aux organisations de la société civile, régulièrement constituées et représentatives, une tranche horaire mensuelle à la radio et à la télévision dans toutes les langues confondues.",
+        "type": "article",
+        "level": 2,
+        "order": 158,
+        "path": [
+          "titre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-6",
+        "title": "CHAPITRE 6 : DU DROIT DE REPONSE",
+        "type": "chapitre",
+        "level": 3,
+        "order": 159,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": [
+          "article-123-",
+          "article-124-",
+          "article-125-",
+          "article-126-",
+          "article-127-",
+          "article-128-",
+          "article-129-",
+          "article-130-",
+          "article-131-",
+          "article-132-",
+          "article-133-",
+          "article-134-",
+          "article-135-",
+          "article-136-",
+          "article-137-",
+          "article-138-",
+          "article-139-",
+          "article-140-",
+          "article-141-",
+          "article-142-",
+          "article-143-",
+          "article-144-",
+          "article-145-",
+          "article-146-",
+          "article-147-",
+          "article-148-",
+          "article-149-",
+          "article-150-",
+          "article-151-",
+          "article-152-",
+          "article-153-",
+          "article-154-",
+          "article-155-"
+        ]
+      },
+      {
+        "id": "article-123-",
+        "title": "Article 123 : Toute personne physique ou morale ayant fait l’objet d’une information contenant des faits erronés ou des assertions malveillantes de nature à lui causer un préjudice moral, matériel ou financier ou des imputations dommageables susceptibles de porter atteinte à son honneur ou à sa réputation dispose d’un droit de réponse.",
+        "type": "article",
+        "level": 3,
+        "order": 161,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-124-",
+        "title": "Article 124 : Aux fins d’exercer le droit de réponse, la personne mise en cause peut demander à l’auteur de la diffusion ou de la publication concernée ou à toute personne qui en a la détention, la communication d’un exemplaire du journal ou d’un enregistrement de l’émission.",
+        "type": "article",
+        "level": 3,
+        "order": 162,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-125-",
+        "title": "Article 125 : Lorsque la personne nommément visée par l’information, l’imputation, la publication ou la diffusion est décédée, incapable ou empêchée pour cause légitime, la réponse peut être faite en ses lieu et place par son représentant légal ou dans l’ordre de priorité, par les héritiers en ligne directe, les légataires universels ou le conjoint, ses ascendants ou collatéraux au premier degré.",
+        "type": "article",
+        "level": 3,
+        "order": 163,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-126-",
+        "title": "Article 126 : L’exercice du droit de réponse s’applique aussi bien aux organes de presse de service public qu’à ceux du secteur privé qui assurent, à quelque titre ou sous quelque forme que ce soit, un service de communication.",
+        "type": "article",
+        "level": 3,
+        "order": 164,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-127-",
+        "title": "Article 127 : L’insertion du droit de réponse est faite dans les mêmes dispositions, proportions, formats, polices et caractères que l’article qui l’a provoquée et sans aucune intercalation. La diffusion ou la publication de la réponse a lieu sur le même territoire dans les conditions équivalentes à celles de l’émission incriminée sans additif, sans coupure et sans montage.",
+        "type": "article",
+        "level": 3,
+        "order": 165,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-128-",
+        "title": "Article 128 : Dès l’ouverture des périodes électorales, tout changement de périodicité ou de programmation d’un organe de presse est porté à la connaissance de la Haute Autorité de l’Audiovisuel et de la Communication.",
+        "type": "article",
+        "level": 3,
+        "order": 166,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-129-",
+        "title": "Article 129 : Les périodes de précampagne et de campagne électorales donnent lieu à des mesures réglementaires spécifiques de la Haute Autorité de l’Audiovisuel et de la Communication.",
+        "type": "article",
+        "level": 3,
+        "order": 167,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-130-",
+        "title": "Article 130 : Les dispositions sus-énoncées relatives au droit de réponse ne s’appliquent pas aux temps d’antenne antérieurement affectés aux différents courants religieux et autres écoles de pensée qui peuvent poursuivre leurs activités en attendant toute réglementation ultérieure.",
+        "type": "article",
+        "level": 3,
+        "order": 168,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-131-",
+        "title": "Article 131 : La Haute Autorité de l’Audiovisuel et de la Communication publie, par trimestre, le point des temps d’antenne consommés par chacune des entités ci-dessus citées.",
+        "type": "article",
+        "level": 3,
+        "order": 169,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-132-",
+        "title": "Article 132 : Tout contentieux découlant de l’application des présentes dispositions est soumis à la Haute Autorité de l’Audiovisuel et de la Communication pour examen et règlement.",
+        "type": "article",
+        "level": 3,
+        "order": 170,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-133-",
+        "title": "Article 133 : Pour l’application des dispositions des articles de la présente section, toute personne qui assure, à quelque titre et sous quelque forme que ce soit, un service d’information ou de communication, désigne un responsable chargé d’assurer l’exécution des obligations se rattachant à l’exercice du droit de réponse.",
+        "type": "article",
+        "level": 3,
+        "order": 171,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-134-",
+        "title": "Article 134 : En matière de presse écrite, la réponse à une publication contenant des faits erronés ou des assertions malveillantes de nature à causer un préjudice moral, matériel ou financier ou à des imputations dommageables à l’honneur ou à la réputation est remise au moins vingt-quatre (24) heures avant le tirage du journal dans lequel elle doit paraître.",
+        "type": "article",
+        "level": 3,
+        "order": 173,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-135-",
+        "title": "Article 135 : La publication de la réponse ne peut être refusée que dans les cas suivants :",
+        "type": "article",
+        "level": 3,
+        "order": 174,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-136-",
+        "title": "Article 136 : La réponse est publiée dans les deux (2) jours ouvrables suivant sa réception lorsqu’il s’agit d’un journal paraissant quotidiennement et dans le numéro suivant pour les autres périodiques de la presse écrite.",
+        "type": "article",
+        "level": 3,
+        "order": 175,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-137-",
+        "title": "Article 137 : La réponse est publiée dans les mêmes proportions, le format, les polices, le caractère et les dispositions de l’article qui l’a provoquée. Elle est ostensible et signalée.",
+        "type": "article",
+        "level": 3,
+        "order": 176,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-138-",
+        "title": "Article 138 : La réponse est toujours gratuite. Le demandeur en insertion ne peut excéder les limites fixées au présent chapitre.",
+        "type": "article",
+        "level": 3,
+        "order": 177,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-139-",
+        "title": "Article 139 : La réponse n’est exigible que dans l’édition ou les éditions où est paru l’article. Est assimilé au refus d’insertion et puni comme tel, sans préjudice de l’action en dommages et intérêts, le fait de publier la réponse dans les régions non desservies par l’édition ou les éditions concernée(s).",
+        "type": "article",
+        "level": 3,
+        "order": 178,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-140-",
+        "title": "Article 140 : En cas de refus ou de silence et dans un délai de huit (08) jours à partir de la réception de la demande d’exercice du droit de réponse, le demandeur est fondé à saisir le président du tribunal de première instance territorialement compétent par simple requête aux fins de voir ordonner l’insertion, la publication ou la diffusion de la réponse qui est soumise à l’appréciation du président du tribunal.",
+        "type": "article",
+        "level": 3,
+        "order": 179,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-141-",
+        "title": "Article 141 : Le président du tribunal de première instance rend une ordonnance à pied de requête dans un délai de soixante-douze (72) heures à compter de la première audience sur la demande en insertion.",
+        "type": "article",
+        "level": 3,
+        "order": 180,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-142-",
+        "title": "Article 142 : En matière de communication audiovisuelle, la réponse est faite dans les mêmes conditions et les mêmes proportions que la publication contestée.",
+        "type": "article",
+        "level": 3,
+        "order": 182,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-143-",
+        "title": "Article 143 : La réponse est diffusée dans les mêmes conditions techniques que celles dans lesquelles a été diffusé le message contenant l’imputation invoquée.",
+        "type": "article",
+        "level": 3,
+        "order": 183,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-144-",
+        "title": "Article 144 : La personne qui désire faire usage de son droit de réponse précise la date et l’heure de l’émission ainsi que le nom de la station incriminée. Elle indique également les passages contestés.",
+        "type": "article",
+        "level": 3,
+        "order": 184,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-145-",
+        "title": "Article 145 : Les directeurs de stations de radiodiffusion sonore ou de télévision sont tenus de faire diffuser les réponses de toutes les personnes nommées ou désignées au cours d’une émission dans les quarante-huit (48) heures suivant la réception de leur requête.",
+        "type": "article",
+        "level": 3,
+        "order": 185,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-146-",
+        "title": "Article 146 : La demande d’exercice du droit de réponse est adressée au directeur de la station de radiodiffusion sonore ou de télévision par lettre missive ou par lettre recommandée avec accusé de réception ou par les voies les plus rapides.",
+        "type": "article",
+        "level": 3,
+        "order": 186,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-147-",
+        "title": "Article 147 : Dans les délais prévus à l’article 145 de la présente loi, le directeur de la station de radiodiffusion sonore ou de la télévision fait connaître au demandeur, par lettre ou par les voies les plus rapides, la suite qu’il entend donner à la demande.",
+        "type": "article",
+        "level": 3,
+        "order": 187,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-148-",
+        "title": "Article 148 : La publication ou la diffusion de la réponse ne peut être refusée que dans les cas suivants :",
+        "type": "article",
+        "level": 3,
+        "order": 188,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-149-",
+        "title": "Article 149 : Le texte de la réponse établie par le demandeur ou le texte de la réponse qui a été arrêté avec son accord reste accessible au public pendant trente (30) jours au maximum à compter de la date de sa diffusion.",
+        "type": "article",
+        "level": 3,
+        "order": 189,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-150-",
+        "title": "Article 150 : Lorsque la demande tend à l’exercice du droit de réponse, la réponse est annoncée comme s’inscrivant dans le cadre de l’exercice de ce droit.",
+        "type": "article",
+        "level": 3,
+        "order": 190,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-151-",
+        "title": "Article 151 : Pour les services de vidéographie, la preuve du contenu du message peut être rapportée par tout moyen.",
+        "type": "article",
+        "level": 3,
+        "order": 191,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-152-",
+        "title": "Article 152 : Les directeurs de publication, les directeurs de stations de radiodiffusion sonore ou de télévision, les exploitants de services de communication audiovisuelle sont tenus d’insérer gratuitement, en tête du plus prochain numéro du journal ou écrit quotidien, dans les émissions les plus proches, toutes les rectifications qui leur sont adressées par un dépositaire de l’autorité publique au sujet des actes de sa fonction qui auront été inexactement rapportés par ledit journal, écrit quotidien ou service de communication audiovisuelle.",
+        "type": "article",
+        "level": 3,
+        "order": 193,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-153-",
+        "title": "Article 153 : Pour un journal, un écrit quotidien ou périodique, la rectification est publiée en tête du plus prochain numéro et imprimée avec les mêmes caractères que l’écrit contesté, sans rajout, ni suppression.",
+        "type": "article",
+        "level": 3,
+        "order": 194,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-154-",
+        "title": "Article 154 : Les réactions et les commentaires des leaders des divers courants politiques et d’opinion suscités par les adresses ou allocutions du Président de la République ou des déclarations, interventions et communications des membres de son Gouvernement constituent des répliques politiques.",
+        "type": "article",
+        "level": 3,
+        "order": 196,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-155-",
+        "title": "Article 155 : Les répliques ou les nouvelles réponses s’inscrivent dans la rectification de la réponse ou autres commentaires faits de la réplique et ne doivent pas contenir des provocations, des propos diffamatoires ou injurieux.",
+        "type": "article",
+        "level": 3,
+        "order": 197,
+        "path": [
+          "titre-2",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-7",
+        "title": "CHAPITRE 7 : DE LA PUBLICITE",
+        "type": "chapitre",
+        "level": 3,
+        "order": 198,
+        "path": [
+          "titre-2",
+          "chapitre-7"
+        ],
+        "children": [
+          "article-156-",
+          "article-157-",
+          "article-158-",
+          "article-159-",
+          "article-160-",
+          "article-161-",
+          "article-162-",
+          "article-163-",
+          "article-164-",
+          "article-165-",
+          "article-166-",
+          "article-167-",
+          "article-168-",
+          "article-169-",
+          "article-170-",
+          "article-171-",
+          "article-172-",
+          "article-173-",
+          "article-174-",
+          "article-175-",
+          "article-176-",
+          "article-177-",
+          "article-178-"
+        ]
+      },
+      {
+        "id": "article-156-",
+        "title": "Article 156 : Les personnes qui demandent ou qui autorisent la diffusion ou la publication de messages publicitaires contenant des informations dommageables à autrui sont conjointement responsables tant du point de vue civil que pénal.",
+        "type": "article",
+        "level": 3,
+        "order": 200,
+        "path": [
+          "titre-2",
+          "chapitre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-157-",
+        "title": "Article 157 : La diffusion ou la publication des messages publicitaires se distinguent des nouvelles, des bulletins d’informations ou des articles à caractère rédactionnel.",
+        "type": "article",
+        "level": 3,
+        "order": 201,
+        "path": [
+          "titre-2",
+          "chapitre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-158-",
+        "title": "Article 158 : La publicité est conçue de manière à se conformer aux lois, aux exigences de véracité, de décence, de loyauté et au respect de la personne humaine.",
+        "type": "article",
+        "level": 3,
+        "order": 202,
+        "path": [
+          "titre-2",
+          "chapitre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-159-",
+        "title": "Article 159 : La publicité ne peut ni représenter une personne aussi bien dans ses activités publiques que privées, ni s’y référer sans autorisation préalable.",
+        "type": "article",
+        "level": 3,
+        "order": 203,
+        "path": [
+          "titre-2",
+          "chapitre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-160-",
+        "title": "Article 160 : La publicité respecte les droits des consommateurs en évitant toutes pratiques frauduleuses ou de mauvaise foi tendant à les induire en erreur et en mettant à leur disposition toutes les informations relatives aux biens, produits ou services, objet de la publicité, pour les aider à faire un choix éclairé selon leurs désirs et leurs besoins.",
+        "type": "article",
+        "level": 3,
+        "order": 204,
+        "path": [
+          "titre-2",
+          "chapitre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-161-",
+        "title": "Article 161 : Interdiction est faite de dépeindre, par voie publicitaire, sans autorisation préalable, des biens personnels ou de s’y référer de telle sorte qu’elle laisse supposer l’accord de la personne concernée.",
+        "type": "article",
+        "level": 3,
+        "order": 205,
+        "path": [
+          "titre-2",
+          "chapitre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-162-",
+        "title": "Article 162 : La publicité ne fait pas un usage injustifié ou non autorisé du nom d’une personne, d’une famille ou d’un groupe de personnes.",
+        "type": "article",
+        "level": 3,
+        "order": 206,
+        "path": [
+          "titre-2",
+          "chapitre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-163-",
+        "title": "Article 163 : La publicité ne peut insinuer l’idée d’une infériorité ou d’une subordination ou d’une subordination matérielle, même acceptée ou tolérée, d’une personne par rapport à une autre, ou de la femme à l’homme, ni réduire le rôle de la femme à des tâches ménagères en méconnaissance de ses autres aptitudes et aspirations.",
+        "type": "article",
+        "level": 3,
+        "order": 207,
+        "path": [
+          "titre-2",
+          "chapitre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-164-",
+        "title": "Article 164 : La femme ne peut servir d’objet publicitaire dégradant pour son image jusqu’à mettre à mal la décence de manière à provoquer le mépris, le ridicule ou le discrédit à son égard.",
+        "type": "article",
+        "level": 3,
+        "order": 208,
+        "path": [
+          "titre-2",
+          "chapitre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-165-",
+        "title": "Article 165 : La publicité, ne peut comporter aucune déclaration ou présentation visuelle qui risque de causer aux enfants, aux mineurs et aux handicapés, un dommage moral ou physique.",
+        "type": "article",
+        "level": 3,
+        "order": 209,
+        "path": [
+          "titre-2",
+          "chapitre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-166-",
+        "title": "Article 166 : Le message publicitaire ne peut exploiter, en aucun cas, l’inexpérience ou la crédulité des enfants ou des adolescents et l’infirmité des handicapés.",
+        "type": "article",
+        "level": 3,
+        "order": 210,
+        "path": [
+          "titre-2",
+          "chapitre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-167-",
+        "title": "Article 167 : L’utilisation des enfants, des adolescents et des handicapés comme objet publicitaire de sorte à provoquer à leur égard, le mépris, le ridicule ou le discrédit de la communauté est interdite.",
+        "type": "article",
+        "level": 3,
+        "order": 211,
+        "path": [
+          "titre-2",
+          "chapitre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-168-",
+        "title": "Article 168 : Les conditions d’exploitation publicitaire des œuvres de l’esprit sont réglementées par la législation en vigueur en République du Bénin.",
+        "type": "article",
+        "level": 3,
+        "order": 212,
+        "path": [
+          "titre-2",
+          "chapitre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-169-",
+        "title": "Article 169 : La publicité non commerciale, en faveur des idées politiques, des hommes et des partis politiques, est réglementée par la Haute Autorité de l’Audiovisuel et de la Communication.",
+        "type": "article",
+        "level": 3,
+        "order": 213,
+        "path": [
+          "titre-2",
+          "chapitre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-170-",
+        "title": "Article 170 : Les émissions publicitaires à caractère politique sont interdites.",
+        "type": "article",
+        "level": 3,
+        "order": 214,
+        "path": [
+          "titre-2",
+          "chapitre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-171-",
+        "title": "Article 171 : La publicité est différente, de par sa nature, de l’information.",
+        "type": "article",
+        "level": 3,
+        "order": 215,
+        "path": [
+          "titre-2",
+          "chapitre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-172-",
+        "title": "Article 172 : Constitue un délit de publicité mensongère ou trompeuse, toute publicité comportant des allégations ou des prétentions fausses, ayant pour but et/ou pour effet d’induire le consommateur en erreur.",
+        "type": "article",
+        "level": 3,
+        "order": 217,
+        "path": [
+          "titre-2",
+          "chapitre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-173-",
+        "title": "Article 173 : Le délit de publicité mensongère ou trompeuse est constitué lorsque la publicité masque ou modifie un ou plusieurs des éléments ci-après :",
+        "type": "article",
+        "level": 3,
+        "order": 218,
+        "path": [
+          "titre-2",
+          "chapitre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-174-",
+        "title": "Article 174 : La publicité est également dite mensongère lorsqu’elle a pour but d’attirer le consommateur vers un produit ou un bien qui n’existe pas ou de lui proposer des articles différents quant aux qualités et aux prix.",
+        "type": "article",
+        "level": 3,
+        "order": 219,
+        "path": [
+          "titre-2",
+          "chapitre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-175-",
+        "title": "Article 175 : La publicité est conçue de manière à ne pas abuser de la confiance, ni exploiter le manque d’expérience et de connaissance des consommateurs.",
+        "type": "article",
+        "level": 3,
+        "order": 220,
+        "path": [
+          "titre-2",
+          "chapitre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-176-",
+        "title": "Article 176 : Toute personne, ayant connaissance et pouvant rapporter la preuve d’une publicité mensongère, peut dénoncer le fait à l’officier de police judiciaire de la localité ou au procureur de la République territorialement compétent.",
+        "type": "article",
+        "level": 3,
+        "order": 221,
+        "path": [
+          "titre-2",
+          "chapitre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-177-",
+        "title": "Article 177 : La Haute Autorité de l’Audiovisuel et de la Communication assure le contrôle du contenu des messages publicitaires.",
+        "type": "article",
+        "level": 3,
+        "order": 222,
+        "path": [
+          "titre-2",
+          "chapitre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-178-",
+        "title": "Article 178 : Les émissions publicitaires sont autorisées dans le respect :",
+        "type": "article",
+        "level": 3,
+        "order": 223,
+        "path": [
+          "titre-2",
+          "chapitre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-4",
+        "title": "TITRE 4 : DES DISPOSITIONS PARTICULIERES A CHAQUE MOYEN D’INFORMATION ET DE COMMUNICATION ECRITE ET AUDIOVISUELLE",
+        "type": "titre",
+        "level": 2,
+        "order": 224,
+        "path": [
+          "titre-4"
+        ],
+        "children": [
+          "article-179-",
+          "article-180-",
+          "article-181-",
+          "article-182-",
+          "article-183-",
+          "article-184-",
+          "article-185-",
+          "article-186-",
+          "article-187-",
+          "article-188-",
+          "article-189-",
+          "article-190-",
+          "article-191-",
+          "article-192-",
+          "article-193-",
+          "paragraphe-1",
+          "paragraphe-2",
+          "paragraphe-3",
+          "article-197-",
+          "article-198-",
+          "article-199-",
+          "article-200-",
+          "article-201-",
+          "article-202-",
+          "article-203-",
+          "article-204-",
+          "article-205-",
+          "article-206-",
+          "article-207-",
+          "article-208-",
+          "article-209-",
+          "article-210-",
+          "article-211-",
+          "article-212-",
+          "article-213-",
+          "article-214-",
+          "article-215-",
+          "article-216-",
+          "article-217-",
+          "article-218-",
+          "article-219-",
+          "article-220-",
+          "article-221-",
+          "article-222-",
+          "article-223-",
+          "article-224-",
+          "article-225-",
+          "article-226-",
+          "article-227-",
+          "article-228-",
+          "article-229-",
+          "article-230-",
+          "article-231-",
+          "article-232-",
+          "article-233-",
+          "article-234-",
+          "article-235-",
+          "article-236-",
+          "article-237-",
+          "article-238-",
+          "article-239-",
+          "article-240-",
+          "article-241-",
+          "article-242-",
+          "article-243-",
+          "article-244-",
+          "article-245-",
+          "section-6",
+          "article-252-",
+          "article-253-",
+          "article-254-",
+          "article-255-",
+          "article-256-",
+          "article-257-",
+          "article-258-",
+          "article-259-",
+          "article-260-",
+          "article-261-",
+          "article-262-"
+        ]
+      },
+      {
+        "id": "article-179-",
+        "title": "Article 179 : L’imprimerie, l’édition et la librairie sont libres.",
+        "type": "article",
+        "level": 2,
+        "order": 227,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-180-",
+        "title": "Article 180 : Tout écrit peut être publié par tout support médiatique écrit.",
+        "type": "article",
+        "level": 2,
+        "order": 228,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-181-",
+        "title": "Article 181 : Tout écrit publié, à l’exception des ouvrages de ville, de bilboquets, d’imprimés pour le compte de l’administration ou destinés à des usages privés, mais non susceptibles d’être répandus dans le commerce, doit porter, quelle que soit son importance ou sa dimension, l’indication des nom, prénoms et domicile de l’imprimeur, que ce dernier soit un professionnel ou non.",
+        "type": "article",
+        "level": 2,
+        "order": 229,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-182-",
+        "title": "Article 182 : L’édition de tout journal et écrit périodique est libre.",
+        "type": "article",
+        "level": 2,
+        "order": 231,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-183-",
+        "title": "Article 183 : La déclaration préalable comporte obligatoirement :",
+        "type": "article",
+        "level": 2,
+        "order": 232,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-184-",
+        "title": "Article 184 : La déclaration préalable est faite auprès de la Haute Autorité de l’Audiovisuel et de la Communication sur papier timbré, signé par le directeur de publication. Il lui est délivré un récépissé.",
+        "type": "article",
+        "level": 2,
+        "order": 233,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-185-",
+        "title": "Article 185 : Les journaux ou écrits périodiques sont classés en trois (03) catégories :",
+        "type": "article",
+        "level": 2,
+        "order": 234,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-186-",
+        "title": "Article 186 : Le directeur de publication d’un journal ou d’un écrit périodique doit remplir les conditions suivantes :",
+        "type": "article",
+        "level": 2,
+        "order": 235,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-187-",
+        "title": "Article 187 : Tout journal ou tout écrit périodique porte sur chaque numéro :",
+        "type": "article",
+        "level": 2,
+        "order": 236,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-188-",
+        "title": "Article 188 : Toute entreprise de presse écrite est libre d’assurer, elle-même, la distribution de ses propres journaux et autres publications périodiques par les moyens qu’elle juge convenables.",
+        "type": "article",
+        "level": 2,
+        "order": 238,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-189-",
+        "title": "Article 189 : Le groupage et la distribution de plusieurs publications de presse peuvent être assurés par une entreprise de messagerie de presse, quelle qu’en soit la forme juridique.",
+        "type": "article",
+        "level": 2,
+        "order": 239,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-190-",
+        "title": "Article 190 : Une société coopérative de messagerie de presse est constituée d’au moins trois (03) entreprises de publication de presse.",
+        "type": "article",
+        "level": 2,
+        "order": 240,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-191-",
+        "title": "Article 191 : Les sociétés coopératives de messagerie de presse peuvent grouper et diffuser des publications d’autres entreprises éditrices autres que celles des organes de presse associés.",
+        "type": "article",
+        "level": 2,
+        "order": 241,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-192-",
+        "title": "Article 192 : L’objet des sociétés coopératives de messagerie de presse ne peut s’étendre qu’à des opérations commerciales relatives à l’utilisation de divers éléments matériels qu’elles emploient à cet effet.",
+        "type": "article",
+        "level": 2,
+        "order": 242,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-193-",
+        "title": "Article 193 : Le capital social des sociétés coopératives de messagerie de presse peut être souscrit aussi bien par des personnes physiques ou morales propriétaires de journaux ou de publication de presse que par toutes autres personnes physiques ou morales qui en manifestent l’intérêt.",
+        "type": "article",
+        "level": 2,
+        "order": 243,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "paragraphe-1",
+        "title": "PARAGRAPHE 1 : DE LA VENTE ET DE LA CIRCULATION DES JOURNAUX ET DES PERIODIQUES ETRANGERS",
+        "type": "paragraphe",
+        "level": 6,
+        "order": 245,
+        "path": [
+          "titre-4",
+          "paragraphe-1"
+        ],
+        "children": [
+          "article-194-"
+        ]
+      },
+      {
+        "id": "article-194-",
+        "title": "Article 194 : La circulation, la distribution ou la mise en vente sur le territoire national des journaux ou des périodiques étrangers sont autorisées.",
+        "type": "article",
+        "level": 3,
+        "order": 246,
+        "path": [
+          "titre-4",
+          "paragraphe-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "paragraphe-2",
+        "title": "PARAGRAPHE 2 : DE LA VENTE ET DE LA CIRCULATION DES JOURNAUX ET DES PERIODIQUES DESTINES AUX MINEURS",
+        "type": "paragraphe",
+        "level": 6,
+        "order": 247,
+        "path": [
+          "titre-4",
+          "paragraphe-2"
+        ],
+        "children": [
+          "article-195-"
+        ]
+      },
+      {
+        "id": "article-195-",
+        "title": "Article 195 : L’affichage et la vente des écrits destinés aux mineurs sont subordonnés à l’autorisation de la Haute Autorité de l’Audiovisuel et de la Communication.",
+        "type": "article",
+        "level": 3,
+        "order": 248,
+        "path": [
+          "titre-4",
+          "paragraphe-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "paragraphe-3",
+        "title": "PARAGRAPHE 3 : DE L’EXPOSITION, DU COLPORTAGE ET DE LA VENTE DES ECRITS LICENCIEUX OU PORNOGRAPHIQUES",
+        "type": "paragraphe",
+        "level": 6,
+        "order": 249,
+        "path": [
+          "titre-4",
+          "paragraphe-3"
+        ],
+        "children": [
+          "article-196-"
+        ]
+      },
+      {
+        "id": "article-196-",
+        "title": "Article 196 : Sont interdits :",
+        "type": "article",
+        "level": 3,
+        "order": 250,
+        "path": [
+          "titre-4",
+          "paragraphe-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-197-",
+        "title": "Article 197 : Les modalités, les conditions d’apposition des affiches et les normes techniques sont déterminées par les mairies.",
+        "type": "article",
+        "level": 2,
+        "order": 253,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-198-",
+        "title": "Article 198 : Les affiches et les publications à caractère administratif ou judiciaire ne sont pas concernées par la présente loi.",
+        "type": "article",
+        "level": 2,
+        "order": 254,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-199-",
+        "title": "Article 199 : Dans chaque circonscription administrative, l’autorité administrative territorialement compétente fixe, par arrêté, les lieux exclusivement destinés à recevoir les affiches, les lois et autres actes de l’autorité publique.",
+        "type": "article",
+        "level": 2,
+        "order": 255,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-200-",
+        "title": "Article 200 : Les professions de foi, les circulaires et les affiches particulières, électorales ou religieuses, ne peuvent être placardées que sur les emplacements déterminés par l’autorité administrative territorialement compétente.",
+        "type": "article",
+        "level": 2,
+        "order": 256,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-201-",
+        "title": "Article 201 : Il est créé sur toute l’étendue du territoire de la République du Bénin, une redevance d’autorisation et une redevance annuelle sur les publicités ou les indications faites à l’aide d’affiche, telles que définies par les textes en vigueur.",
+        "type": "article",
+        "level": 2,
+        "order": 258,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-202-",
+        "title": "Article 202 : Un arrêté communal ou municipal fixe tous les trois (03) ans, le montant des taxes d’affiches en tenant compte notamment de la surface du panneau, de l’objet de l’affiche et du niveau de vie de la collectivité locale concernée.",
+        "type": "article",
+        "level": 2,
+        "order": 259,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-203-",
+        "title": "Article 203 : Les redevances d’affichage visées à l’article 201 sont des redevances locales dont le recouvrement est assuré par les services compétents de la circonscription administrative pour le compte du budget de la collectivité locale.",
+        "type": "article",
+        "level": 2,
+        "order": 260,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-204-",
+        "title": "Article 204 : L’affiche faite pour le compte de l’Etat et des collectivités locales par les partis politiques, à l’exclusion des entreprises publiques et semi-publiques, est exonérée de redevance.",
+        "type": "article",
+        "level": 2,
+        "order": 261,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-205-",
+        "title": "Article 205 : Les correspondances postales ou télégraphiques circulant à découvert ne peuvent contenir aucune allégation de fait, aucune imputation, aucune information, aucun dessin, aucune illustration de nature à troubler l’ordre public, à porter atteinte à l’honneur et à la réputation des individus.",
+        "type": "article",
+        "level": 2,
+        "order": 263,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-206-",
+        "title": "Article 206 : Dans les conditions définies par la présente loi et celles déterminées par la Haute Autorité de l’Audiovisuel et de la Communication pour son application, l’espace audiovisuel national est ouvert à l’initiative privée pour l’implantation et l’exploitation de stations de radiodiffusion sonore et de télévision.",
+        "type": "article",
+        "level": 2,
+        "order": 266,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-207-",
+        "title": "Article 207 : Font l’objet d’une autorisation délivrée par la Haute Autorité de l’Audiovisuel et de la Communication agissant au nom de l’Etat, l’implantation et l’exploitation :",
+        "type": "article",
+        "level": 2,
+        "order": 267,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-208-",
+        "title": "Article 208 : La Haute Autorité de l’Audiovisuel et de la Communication autorise, dans le respect des traités et accords internationaux signés par la République du Bénin, l’utilisation par des personnes privées, des bandes de fréquences ou des fréquences dont l’attribution lui est confiée par le Gouvernement.",
+        "type": "article",
+        "level": 2,
+        "order": 268,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-209-",
+        "title": "Article 209 : Le service privé de la radiodiffusion sonore et de la télévision a pour mission, sur l’ensemble du territoire national, de servir l’intérêt général, notamment de :",
+        "type": "article",
+        "level": 2,
+        "order": 269,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-210-",
+        "title": "Article 210 : La liberté de création des services de radiodiffusion sonore et de télévision privée est limitée par :",
+        "type": "article",
+        "level": 2,
+        "order": 270,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-211-",
+        "title": "Article 211 : Nul n’est autorisé à se servir des moyens de presse et de communication audiovisuelle pour :",
+        "type": "article",
+        "level": 2,
+        "order": 271,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-212-",
+        "title": "Article 212 : Les bandes de fréquences ou les fréquences à attribuer aux administrations de l’Etat ou à tout service ou département ministériel responsable des mesures à prendre pour exécuter les obligations découlant de la Convention et des Règlements de l’Union Internationale des Télécommunications (UIT), sont définies par décret pris en Conseil des ministres.",
+        "type": "article",
+        "level": 2,
+        "order": 272,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-213-",
+        "title": "Article 213 : Toute personne physique ou toute personne morale de droit privé béninois, après avoir satisfait aux cahiers des charges, peut postuler et être autorisée d’une part, à créer, installer et exploiter un service privé de radiodiffusion sonore et de télévision, à distribuer par câble ou non des émissions radiophoniques ou télévisuelles, et d’autre part, à utiliser des fréquences radioélectriques.",
+        "type": "article",
+        "level": 2,
+        "order": 273,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-214-",
+        "title": "Article 214 : Les demandes de concession pour la diffusion des programmes de radiodiffusion sonore et de télévision sont adressées à la Haute Autorité de l’Audiovisuel et de la Communication.",
+        "type": "article",
+        "level": 2,
+        "order": 274,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-215-",
+        "title": "Article 215 : La Haute Autorité de l’Audiovisuel et de la Communication, selon une procédure définie par elle, et après élaboration des dossiers d’appel d’offres des bandes de fréquence, procède à des appels à candidatures par catégorie de service.",
+        "type": "article",
+        "level": 2,
+        "order": 275,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-216-",
+        "title": "Article 216 : L’usage des fréquences pour la diffusion de services de communication audiovisuelle par voie hertzienne, par satellite ou par autres moyens, est subordonné au respect des conditions techniques préalablement définies par la Haute Autorité de l’Audiovisuel et de la Communication. Elles concernent notamment :",
+        "type": "article",
+        "level": 2,
+        "order": 276,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-217-",
+        "title": "Article 217 : La Haute Autorité de l’Audiovisuel et de la Communication peut soumettre l’utilisateur d’un site d’émission à des obligations particulières en fonction notamment de la rareté des sites d’émission dans une région. Elle peut, en particulier, imposer le regroupement de plusieurs utilisateurs sur un même site.",
+        "type": "article",
+        "level": 2,
+        "order": 277,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-218-",
+        "title": "Article 218 : Conformément aux dispositions de la loi organique relative à la Haute Autorité de l’Audiovisuel et de la Communication et outre le respect des dispositions des articles 215 et 216 de la présente loi, le demandeur à la concession d’une fréquence doit :",
+        "type": "article",
+        "level": 2,
+        "order": 278,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-219-",
+        "title": "Article 219 : Les cahiers des charges visent à recueillir, justificatifs à l’appui, tous les éléments de nature à garantir le respect de la législation en vigueur, des informations complètes sur le requérant, sa moralité, sa crédibilité ainsi que sur les autres associés de l’entreprise, lorsqu’il s’agit d’une personne morale.",
+        "type": "article",
+        "level": 2,
+        "order": 279,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-220-",
+        "title": "Article 220 : L’octroi d’une licence d’exploitation est subordonné à la signature d’une convention avec la Haute Autorité de l’Audiovisuel et de la Communication.",
+        "type": "article",
+        "level": 2,
+        "order": 280,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-221-",
+        "title": "Article 221 : Il est délivré au demandeur agréé un permis d’installation qui précise les conditions et les délais de réalisation de son projet.",
+        "type": "article",
+        "level": 2,
+        "order": 281,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-222-",
+        "title": "Article 222 : La licence d’exploitation est octroyée pour une durée de douze (12) ans pour les télévisions et de huit (08) ans pour les radiodiffusions sonores.",
+        "type": "article",
+        "level": 2,
+        "order": 282,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-223-",
+        "title": "Article 223 : La durée de la licence d’exploitation est renouvelable à l’échéance.",
+        "type": "article",
+        "level": 2,
+        "order": 283,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-224-",
+        "title": "Article 224 : La licence d’exploitation n’est transférée partiellement ou intégralement à un tiers qu’avec l’autorisation préalable de l’autorité concédante.",
+        "type": "article",
+        "level": 2,
+        "order": 284,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-225-",
+        "title": "Article 225 : La Haute Autorité de l’Audiovisuel et de la Communication révoque l’autorisation si son bénéficiaire :",
+        "type": "article",
+        "level": 2,
+        "order": 285,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-226-",
+        "title": "Article 226 : L’autorisation accordée par la Haute Autorité de l’Audiovisuel et de la Communication devient caduque :",
+        "type": "article",
+        "level": 2,
+        "order": 286,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-227-",
+        "title": "Article 227 : Aucune concession de fréquence ou de bande de fréquence n’est accordée à un parti politique ou à un membre de ses organes dirigeants.",
+        "type": "article",
+        "level": 2,
+        "order": 287,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-228-",
+        "title": "Article 228 : Aucun promoteur d’organe de presse écrite, de radiodiffusion sonore ou de télévision ne peut être dirigeant d’un parti politique.",
+        "type": "article",
+        "level": 2,
+        "order": 288,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-229-",
+        "title": "Article 229 : Sont interdites :",
+        "type": "article",
+        "level": 2,
+        "order": 289,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-230-",
+        "title": "Article 230 : Les diffuseurs sont tenus de transmettre :",
+        "type": "article",
+        "level": 2,
+        "order": 290,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-231-",
+        "title": "Article 231 : Sont considérés comme urgents, les communiqués des forces de l’ordre dont la transmission par la radiodiffusion sonore et la télévision est indispensable au maintien de l’ordre public et de la sécurité des personnes.",
+        "type": "article",
+        "level": 2,
+        "order": 291,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-232-",
+        "title": "Article 232 : Dans le respect des dispositions de la loi organique relative à la Haute Autorité de l’Audiovisuel et de la Communication, celle-ci connaît de tout litige relatif aux licences d’exploitation octroyées en application de la présente loi.",
+        "type": "article",
+        "level": 2,
+        "order": 292,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-233-",
+        "title": "Article 233 : Pour être autorisée, une radiodiffusion sonore privée commerciale doit remplir les conditions suivantes :",
+        "type": "article",
+        "level": 2,
+        "order": 294,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-234-",
+        "title": "Article 234 : Dans le respect des dispositions de la présente loi, la Haute Autorité de l’Audiovisuel et de la Communication peut autoriser une ou plusieurs stations étrangères de radiodiffusions sonores de réputation internationale.",
+        "type": "article",
+        "level": 2,
+        "order": 295,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-235-",
+        "title": "Article 235 : Pour être autorisée, une radiodiffusion sonore privée non commerciale doit remplir les conditions suivantes :",
+        "type": "article",
+        "level": 2,
+        "order": 297,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-236-",
+        "title": "Article 236 : La Haute Autorité de l’Audiovisuel et de la Communication accorde les autorisations d’exploitation aux radiodiffusions sonores privées non commerciales dans la mesure des disponibilités de fréquences.",
+        "type": "article",
+        "level": 2,
+        "order": 298,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-237-",
+        "title": "Article 237 : La Haute Autorité de l’Audiovisuel et de la Communication peut exceptionnellement accorder des licences d’exploitation à des établissements d’enseignement technique et professionnel, supérieur ou universitaire.",
+        "type": "article",
+        "level": 2,
+        "order": 299,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-238-",
+        "title": "Article 238 : Pour être autorisée, une télévision privée commerciale diffusant des émissions par voie hertzienne terrestre doit remplir les conditions suivantes :",
+        "type": "article",
+        "level": 2,
+        "order": 301,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-239-",
+        "title": "Article 239 : Pour être autorisée, une télévision diffusant par voie hertzienne terrestre Multichannel Multipoint Distribution Service (MMDS) et tous autres moyens techniques des émissions reçues par câble ou par satellite doit remplir les conditions suivantes :",
+        "type": "article",
+        "level": 2,
+        "order": 302,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-240-",
+        "title": "Article 240 : Pour être autorisée, une télévision privée commerciale diffusant des émissions par câble ou par satellite doit remplir les conditions suivantes :",
+        "type": "article",
+        "level": 2,
+        "order": 303,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-241-",
+        "title": "Article 241 : Les administrations publiques et les organismes d’intérêt public ne peuvent participer, ni directement, ni indirectement, au capital ou aux organes de gestion des télévisions privées visées au présent chapitre, sauf s’il s’agit de la participation d’un fournisseur telle que définie à l’article 245 de la présente loi ou d’un organisme public de radiodiffusion sonore pour autant que sa participation ne dépasse pas vingt quatre pour cent (24%) du capital de la télévision privée.",
+        "type": "article",
+        "level": 2,
+        "order": 304,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-242-",
+        "title": "Article 242 : Les membres de la Haute Autorité de l’Audiovisuel et de la Communication et les agents mandatés par elle, jouissent d’un droit d’inspection des installations et des programmes de télévisions publiques et privées.",
+        "type": "article",
+        "level": 2,
+        "order": 305,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-243-",
+        "title": "Article 243 : La Haute Autorité de l’Audiovisuel et de la Communication peut, après deux rappels à l’ordre, suspendre ou retirer l’autorisation accordée à une télévision privée qui ne respecte pas les dispositions de la loi organique relative à la Haute Autorité de l’Audiovisuel et de la Communication, celles de la présente loi, ainsi que les dispositions réglementaires et conventionnelles d’application.",
+        "type": "article",
+        "level": 2,
+        "order": 306,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-244-",
+        "title": "Article 244 : La Haute Autorité de l’Audiovisuel et de la Communication peut autoriser l’installation d’une ou de plusieurs stations de télévision étrangère dans le respect des dispositions de la présente loi.",
+        "type": "article",
+        "level": 2,
+        "order": 307,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-245-",
+        "title": "Article 245 : Pour être autorisée, une télévision privée non commerciale doit remplir les conditions suivantes :",
+        "type": "article",
+        "level": 2,
+        "order": 309,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "section-6",
+        "title": "SECTION 6 : DES CONDITIONS D’INSTALLATION ET D’EXPLOITATION DES STATIONS TERRIENNES A USAGE PRIVE",
+        "type": "section",
+        "level": 4,
+        "order": 310,
+        "path": [
+          "titre-4",
+          "section-6"
+        ],
+        "children": [
+          "article-246-",
+          "article-247-",
+          "article-248-",
+          "article-249-",
+          "article-250-",
+          "article-251-"
+        ]
+      },
+      {
+        "id": "article-246-",
+        "title": "Article 246 : L’installation et l’exploitation des stations terriennes de télédiffusion à usage privé, même à titre expérimental, font l’objet d’une autorisation délivrée par la Haute Autorité de l’Audiovisuel et de la Communication dans les conditions fixées par la présente loi.",
+        "type": "article",
+        "level": 3,
+        "order": 311,
+        "path": [
+          "titre-4",
+          "section-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-247-",
+        "title": "Article 247 : L’autorisation délivrée par la Haute Autorité de l’Audiovisuel et de la Communication permet, au bénéficiaire, l’exploitation exclusive des équipements à des fins de réception et d’émissions de données scientifiques et de presse à usage domestique ou collectif pour des personnes physiques ou morales.",
+        "type": "article",
+        "level": 3,
+        "order": 312,
+        "path": [
+          "titre-4",
+          "section-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-248-",
+        "title": "Article 248 : L’exploitation des stations terriennes de réception télévisuelle ou de données est assujettie au paiement au Trésor public d’une redevance annuelle fixée par la loi de finances.",
+        "type": "article",
+        "level": 3,
+        "order": 313,
+        "path": [
+          "titre-4",
+          "section-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-249-",
+        "title": "Article 249 : Toute modification de situation doit faire l’objet d’une autorisation préalable de la Haute Autorité de l’Audiovisuel et de la Communication.",
+        "type": "article",
+        "level": 3,
+        "order": 314,
+        "path": [
+          "titre-4",
+          "section-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-250-",
+        "title": "Article 250 : Les installations terriennes de télédiffusion sont soumises au contrôle permanent de la Haute Autorité de l’Audiovisuel et de la Communication.",
+        "type": "article",
+        "level": 3,
+        "order": 315,
+        "path": [
+          "titre-4",
+          "section-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-251-",
+        "title": "Article 251 : Il est interdit aux stations terriennes de télédiffusion, situées sur le territoire national, d’émettre des signaux radioélectriques parasites susceptibles de perturber les installations radioélectriques environnantes.",
+        "type": "article",
+        "level": 3,
+        "order": 316,
+        "path": [
+          "titre-4",
+          "section-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-252-",
+        "title": "Article 252 : L’exploitation directe ou indirecte en République du Bénin à titre gratuit ou onéreux, d’un site internet fournissant des services de communication audiovisuelle et de presse écrite destinés au public est subordonnée à l’autorisation de la Haute Autorité de l’Audiovisuel et de la Communication.",
+        "type": "article",
+        "level": 2,
+        "order": 319,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-253-",
+        "title": "Article 253 : Toute personne physique ou morale désirant exploiter un service en ligne doit remplir les conditions suivantes :",
+        "type": "article",
+        "level": 2,
+        "order": 321,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-254-",
+        "title": "Article 254 : Toute demande d’autorisation d’exploitation d’un site internet fournissant des services de communication audiovisuelle et de presse écrite destinés au public comporte :",
+        "type": "article",
+        "level": 2,
+        "order": 322,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-255-",
+        "title": "Article 255 : L’Etat met en œuvre une politique de promotion de l’internet en vue d’en faciliter l’accès aux diverses couches de la population. Il veille notamment à ce que les médias et les structures documentaires bénéficient de tarifs de connexion internet spéciaux.",
+        "type": "article",
+        "level": 2,
+        "order": 324,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-256-",
+        "title": "Article 256 : Une autorité administrative peut répondre par voie électronique à toute demande d’information qui lui a été adressée par cette voie par un usager ou par une autre autorité administrative.",
+        "type": "article",
+        "level": 2,
+        "order": 325,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-257-",
+        "title": "Article 257 : Lorsqu’un usager a transmis par internet à une autorité administrative, une déclaration, un paiement ou une information par voie électronique, il reçoit en retour un accusé de réception. L’accusé de réception précise la date de réception de la demande, le service saisi et la date à laquelle cette demande est acceptée ou rejetée. Elle mentionne le délai de réponse. L’autorité administrative traite le dossier sans exiger, de l’usager, la confirmation ou la répétition de l’envoi de sa correspondance sous une autre forme.",
+        "type": "article",
+        "level": 2,
+        "order": 326,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-258-",
+        "title": "Article 258 : Les personnes physiques ou morales et les créateurs de blogs, dont l’activité est la fourniture d’accès aux services de communication audiovisuelle et de presse écrite en ligne, sont astreintes au strict respect des dispositions de la présente loi, notamment :",
+        "type": "article",
+        "level": 2,
+        "order": 327,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-259-",
+        "title": "Article 259 : Les opérateurs de téléphonie mobile et les usagers veillent, à se conformer aux dispositions de l’article 216, notamment en ce qui concerne l’exactitude et la véracité de l’information, la non présentation d’images, de publications, d’illustrations ou de photographies obscènes, licencieuses ou pornographiques.",
+        "type": "article",
+        "level": 2,
+        "order": 328,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-260-",
+        "title": "Article 260 : Les personnes physiques ou morales qui assurent, directement ou indirectement, à titre gratuit ou onéreux, l’accès à des services de communication audiovisuelle ou de presse écrite en ligne sont responsables des atteintes aux droits des tiers résultants du contenu de ces services si :",
+        "type": "article",
+        "level": 2,
+        "order": 329,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-261-",
+        "title": "Article 261 : Les exploitants de systèmes d’accès sous condition font droit, dans des conditions équitables, raisonnables et non discriminatoires, aux demandes provenant de distributeurs ou éditeurs de services mis à la disposition du public par voie de signaux numériques lorsque ces demandes concernent la fourniture des prestations techniques nécessaires à la réception de leur offre par le public.",
+        "type": "article",
+        "level": 2,
+        "order": 330,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-262-",
+        "title": "Article 262 : Les exploitants de systèmes d’accès sous condition utilisent des procédés techniques permettant aux distributeurs d’offres groupées de services, dans des contextes économiques raisonnables, de distribuer les services par voie de signaux numériques sur le réseau qu’ils utilisent au moyen de systèmes d’accès sous condition de leur choix.",
+        "type": "article",
+        "level": 2,
+        "order": 331,
+        "path": [
+          "titre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-6",
+        "title": "TITRE 6 : DES DISPOSITION PENALES",
+        "type": "titre",
+        "level": 2,
+        "order": 332,
+        "path": [
+          "titre-6"
+        ],
+        "children": [
+          "article-263-",
+          "article-264-",
+          "article-265-",
+          "article-266-",
+          "article-267-",
+          "article-268-",
+          "article-269-",
+          "article-270-",
+          "article-271-",
+          "article-272-",
+          "article-273-",
+          "article-274-",
+          "article-275-",
+          "article-276-",
+          "article-277-",
+          "article-278-",
+          "article-279-",
+          "article-280-",
+          "article-281-",
+          "article-282-",
+          "article-283-",
+          "article-284-",
+          "article-285-",
+          "article-286-",
+          "article-287-",
+          "article-288-",
+          "article-289-",
+          "article-290-",
+          "article-291-",
+          "article-292-",
+          "article-293-",
+          "article-294-",
+          "article-295-",
+          "article-296-",
+          "article-297-",
+          "article-298-",
+          "article-299-",
+          "article-300-",
+          "article-301-",
+          "article-302-",
+          "article-303-",
+          "article-304-",
+          "article-305-",
+          "article-306-",
+          "article-307-",
+          "article-308-",
+          "article-309-",
+          "article-310-",
+          "article-311-",
+          "article-312-",
+          "article-313-",
+          "article-314-",
+          "article-315-",
+          "article-316-",
+          "article-317-",
+          "article-318-",
+          "article-319-",
+          "article-320-",
+          "article-321-",
+          "article-322-",
+          "article-323-",
+          "article-324-",
+          "article-325-",
+          "article-326-",
+          "article-327-",
+          "article-328-",
+          "article-329-",
+          "article-330-",
+          "article-331-",
+          "article-332-",
+          "article-333-",
+          "article-334-",
+          "article-335-",
+          "article-336",
+          "article-337-"
+        ]
+      },
+      {
+        "id": "article-263-",
+        "title": "Article 263 : Seront punis comme complices d’une infraction qualifiée de crime ceux qui, soit par la presse écrite ou audiovisuelle, des imprimés vendus ou distribués, mis en vente ou exposés dans les lieux publics, ou par des placards et affiches publics soit par tous les moyens modernes de communication de masse, auront directement provoqué l’auteur ou les auteurs à commettre ladite infraction si la provocation a été suivie d’effet.",
+        "type": "article",
+        "level": 2,
+        "order": 335,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-264-",
+        "title": "Article 264 : Ceux qui, par l’un des moyens énoncés à l’article précédent, auront directement provoqué ou incité, soit aux crimes de meurtre, d’assassinat, de pillage, d’incendie, de destructions volontaires d’édifices, d’habitations, magasins, digues, chaussées, ponts, voies publiques et, d’une façon générale, de tous objets mobiliers et immobiliers soit à l’un des crimes contre la sûreté intérieure de l’Etat, seront punis, même si cette provocation n’a pas été suivie d’effet, d’un emprisonnement de deux (02) ans à cinq (05) ans et/ou d’une amende de un million (1 000 000) à dix millions (10 000 000) de francs CFA.",
+        "type": "article",
+        "level": 2,
+        "order": 336,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-265-",
+        "title": "Article 265 : Toute provocation adressée, par l’un des moyens énoncés à l’article 263, aux agents des forces de sécurité intérieure et de l’armée dans le but de les détourner de leurs devoirs militaires et de l’obéissance qu’ils doivent à leurs chefs dans le cadre des missions républicaines qui ne sont pas contraires d’une part, à l’exécution des lois et règlements militaires et d’autre part, à la Constitution, est punie d’un emprisonnement de six (06) mois à trois (03) ans et d’une amende de cinq cent mille (500 000) francs à cinq millions (5 000 000) de francs CFA.",
+        "type": "article",
+        "level": 2,
+        "order": 337,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-266-",
+        "title": "Article 266 : La publication, la diffusion ou la reproduction, par quelque moyen que ce soit, de fausses nouvelles, de pièces fabriquées, falsifiées ou mensongèrement attribuées à des tiers lorsque, faite de mauvaise foi, elle aura troublé la paix publique, sera punie d’un emprisonnement de six (06) mois à trois (03) ans et/ou d’une amende de cinq cent mille (500 000) francs à deux millions (2 000 000) de francs CFA. Les mêmes faits sont punis des mêmes peines lorsque la publication, la diffusion ou la reproduction faite de mauvaise foi est de nature à ébranler la discipline et le moral des forces armées.",
+        "type": "article",
+        "level": 2,
+        "order": 339,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-267-",
+        "title": "Article 267 : Toute dissimulation, dissipation ou altération du contenu d’un document objet d’un recours en contestation d’une décision de refus d’accès aux sources d’information publiques, sera punie d’un emprisonnement de trois (03) mois à un (01) an et d’une amende de cinq cent mille (500 000) à deux millions (2 000 000) de francs CFA.",
+        "type": "article",
+        "level": 2,
+        "order": 340,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-268-",
+        "title": "Article 268 : Toute allégation ou imputation d’un fait qui porte atteinte à l’honneur ou à la considération d’une personne ou du corps auquel le fait est imputé est une diffamation.",
+        "type": "article",
+        "level": 2,
+        "order": 342,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-269-",
+        "title": "Article 269 : La diffamation commise par l’un des moyens énoncés à l’article 263 envers les cours et les tribunaux, les forces armées et de sécurité publique, les corps constitués et les administrations publiques, sera punie d’une amende de un million (1 000 000) à dix millions (10 000 000) de francs CFA.",
+        "type": "article",
+        "level": 2,
+        "order": 343,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-270-",
+        "title": "Article 270 : Sera punie des mêmes peines, la diffamation ou l’outrage commis par les mêmes moyens, en raison de leurs fonctions ou de leur qualité, envers un ou plusieurs membres du Gouvernement, un ou plusieurs membres de l’Assemblée Nationale et des autres Institutions de l’Etat, un fonctionnaire public, un dépositaire ou agent de l’autorité publique, un citoyen chargé d’un service ou d’un mandat public temporaire ou permanent, un juré ou un témoin à raison de sa déposition.",
+        "type": "article",
+        "level": 2,
+        "order": 344,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-271-",
+        "title": "Article 271 : La diffamation commise envers les particuliers par l’un des moyens énoncés à l’article 263 sera punie d’une amende de cinq cent mille à (500 000) francs à cinq millions (5 000 000) de francs CFA.",
+        "type": "article",
+        "level": 2,
+        "order": 345,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-272-",
+        "title": "Article 272 : Toute expression outrageante, tous termes de mépris ou invectives qui ne renferment l’imputation d’aucun fait, est une injure.",
+        "type": "article",
+        "level": 2,
+        "order": 346,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-273-",
+        "title": "Article 273 : L’injure commise envers les particuliers, sera punie d’une amende de cinq cent mille (500 000) francs à deux millions (2 000 000) de francs CFA.",
+        "type": "article",
+        "level": 2,
+        "order": 347,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-274-",
+        "title": "Article 274 : Les articles 296, 297 et 299 ne sont applicables aux diffamations ou injures dirigées contre la mémoire des morts que dans les cas où les auteurs de ces diffamations ou injures auraient eu l’intention de porter atteinte à l’honneur ou à la considération des héritiers, époux ou légataires universels vivants.",
+        "type": "article",
+        "level": 2,
+        "order": 348,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-275-",
+        "title": "Article 275 : La vérité des faits diffamatoires peut toujours être prouvée sauf :",
+        "type": "article",
+        "level": 2,
+        "order": 349,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-276-",
+        "title": "Article 276 : Toute reproduction d’une imputation qui a été jugée diffamatoire sera réputée faite de mauvaise foi, sauf preuve contraire par son auteur.",
+        "type": "article",
+        "level": 2,
+        "order": 350,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-277-",
+        "title": "Article 277 : Le délit d’offense au Président de la République est constitué par toutes allégations diffamatoires tant dans sa vie publique que privée et qui sont de nature à l’atteindre dans son honneur ou dans sa dignité.",
+        "type": "article",
+        "level": 2,
+        "order": 352,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-278-",
+        "title": "Article 278 : Le délit d’outrage est constitué par des paroles, des gestes, des menaces, des images et des envois d’objet à l’encontre d’une personne chargée d’une mission de service public ou dépositaire de l’autorité publique afin de porter atteinte à sa dignité ou au respect dû à sa fonction.",
+        "type": "article",
+        "level": 2,
+        "order": 353,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-279-",
+        "title": "Article 279 : Il est interdit de publier des actes d’accusation et tous autres actes de procédure criminelle ou correctionnelle avant qu’ils aient été lus en audience publique et ce, sous peine d’une amende de un million (1 000 000) à cinq millions (5 000 000) de francs CFA.",
+        "type": "article",
+        "level": 2,
+        "order": 355,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-280-",
+        "title": "Article 280 : Il est interdit de rendre compte d’un procès en diffamation dans les cas prévus à l’alinéa 1 de l’article 275 de la présente loi ainsi que des débats de procès en déclaration de paternité, de divorce, en séparation de corps et de procès d’avortement.",
+        "type": "article",
+        "level": 2,
+        "order": 356,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-281-",
+        "title": "Article 281 : Il est interdit d’ouvrir ou d’annoncer publiquement des souscriptions ayant pour objet d’aider à payer les amendes, frais et dommages intérêts prononcés par des condamnations judiciaires, en matière criminelle, correctionnelle et de simple police, sous peine d’une amende de cinq cent mille (500 000) francs à cinq millions (5 000 000) de francs CFA.",
+        "type": "article",
+        "level": 2,
+        "order": 357,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-282-",
+        "title": "Article 282 : Ne donneront lieu à aucune action :",
+        "type": "article",
+        "level": 2,
+        "order": 358,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-283-",
+        "title": "Article 283 : Les infractions aux dispositions de l’article 252 de la présente loi seront punies d’une amende de cinq cent mille (500 000) francs à deux millions (2 000 000) de francs CFA.",
+        "type": "article",
+        "level": 2,
+        "order": 361,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-284-",
+        "title": "Article 284 : Lorsqu’une personne physique ou morale ne remplissant pas la condition indiquée à l’article 193 de la présente loi a souscrit au capital social d’une société coopérative de messagerie de presse, celle-ci perd ce statut.",
+        "type": "article",
+        "level": 2,
+        "order": 362,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-285-",
+        "title": "Article 285 : En cas de non respect des dispositions des articles 63, 70 et 72 de la présente loi, les contrevenants seront punis d’une amende de deux cent mille (200 000) à cinq cent mille (500 000) francs CFA.",
+        "type": "article",
+        "level": 2,
+        "order": 363,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-286-",
+        "title": "Article 286 : En cas d’infraction par voie de presse, les directeurs de publication, les éditeurs, les directeurs de radiodiffusion et de télévision, leurs adjoints, les rédacteurs en chef, les directeurs généraux de ces organes sont punis comme auteurs principaux.",
+        "type": "article",
+        "level": 2,
+        "order": 364,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-287-",
+        "title": "Article 287 : En cas de violation des dispositions des articles 146 à 148, les responsables cités à l’article 286 de la présente loi, seront punis d’une peine d’amende de cinq cent mille (500 000) francs à deux millions (2 000 000) de francs CFA.",
+        "type": "article",
+        "level": 2,
+        "order": 365,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-288-",
+        "title": "Article 288 : Le directeur de publication d’un organe de presse écrite, le directeur d’une station de radiodiffusion sonore ou de télévision, l’exploitant de site internet, l’exploitant d’un service en ligne en matière de communication audiovisuelle et de presse est tenu, sous peine d’une amende de cinq cent mille (500 000) francs à deux millions (2 000 000) de francs CFA, d’insérer, de publier ou de diffuser gratuitement dans le plus prochain numéro du journal ou écrit périodique, sur sa station de radiodiffusion sonore ou de télévision ou encore sur son site internet, toutes les rectifications qui sont adressées par un dépositaire de l’autorité publique au sujet des écrits qui ont été publiés par son journal ou sur son site internet, des propos ou des images diffusés par sa radio ou sa télévision.",
+        "type": "article",
+        "level": 2,
+        "order": 366,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-289-",
+        "title": "Article 289 : En cas de violation des dispositions des articles 183, 184 et 208 de la présente loi, le propriétaire ou le directeur de publication, l’imprimeur ou l’éditeur sera puni d’une amende de cinq cent mille (500 000) francs à deux millions (2 000 000) de francs CFA.",
+        "type": "article",
+        "level": 2,
+        "order": 367,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-290-",
+        "title": "Article 290 : L’exercice de la profession de colporteur, de vendeur ou de distributeur sans déclaration préalable, la fausseté de la déclaration et le défaut de présentation de toute réquisition du récépissé, seront sanctionnés par une amende de vingt mille (20 000) à cent mille (100 000) francs CFA.",
+        "type": "article",
+        "level": 2,
+        "order": 368,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-291-",
+        "title": "Article 291 : Les vendeurs et distributeurs qui ont sciemment colporté ou distribué ou vendu des imprimés de toutes natures, des publications, des livres, des écrits, des brochures, des journaux, des dessins, des gravures, des lithographies et des photographies et autres feuilles périodiques présentant un caractère délictueux, licencieux ou pornographique à des mineurs seront punis d’une amende de cent mille (100 000) francs à cinq cent mille (500 000) francs CFA .",
+        "type": "article",
+        "level": 2,
+        "order": 369,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-292-",
+        "title": "Article 292 : L’exercice de la profession de colporteur, de vendeur ou de distributeur est organisé par voie réglementaire.",
+        "type": "article",
+        "level": 2,
+        "order": 370,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-293-",
+        "title": "Article 293 : En cas de violation des dispositions prévues à l’article 201 de la présente loi, les contrevenants seront passibles d’une amende de cinq cent mille (500 000) francs à cinq millions (5 000 000) de francs CFA.",
+        "type": "article",
+        "level": 2,
+        "order": 371,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-294-",
+        "title": "Article 294 : En cas de violation des dispositions prévues à l’article 204 de la présente loi, les contrevenants seront passibles d’une amende de cinquante mille (50 000) à cinq cent mille (500 000) francs CFA.",
+        "type": "article",
+        "level": 2,
+        "order": 372,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-295-",
+        "title": "Article 295 : Ceux qui auront enlevé, déchiré, recouvert ou altéré par un procédé quelconque, de manière à les travestir ou à les rendre illisibles, des affiches apposées par ordre de l’administration dans les emplacements réservés ainsi que les commanditaires de ces actes, seront punis d’une amende de cent mille (100 000) francs à un million (1 000 000) de francs CFA.",
+        "type": "article",
+        "level": 2,
+        "order": 373,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-296-",
+        "title": "Article 296 : Seront passibles des peines qui constituent la répression des crimes et délits commis par les moyens d’information et de communication comme auteurs principaux dans l’ordre ci-après :",
+        "type": "article",
+        "level": 2,
+        "order": 374,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-297-",
+        "title": "Article 297 : Lorsque les directeurs de publication, les directeurs de radiodiffusion sonore et de télévision sont mis en cause, les auteurs des faits incriminés sont poursuivis comme complices.",
+        "type": "article",
+        "level": 2,
+        "order": 375,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-298-",
+        "title": "Article 298 : Seront poursuivies, au même titre et selon les cas, les personnes auxquelles les dispositions du code pénal relatives à la complicité pourraient s’appliquer ; à l’exception des imprimeurs pour fait d’impression, sauf dans le cas d’atteinte à la sûreté intérieure de l’Etat.",
+        "type": "article",
+        "level": 2,
+        "order": 376,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-299-",
+        "title": "Article 299 : Les propriétaires de journaux ou écrits périodiques ou de stations de radiodiffusion sonore et de télévision sont responsables des condamnations pécuniaires prononcées au profit des tiers contre les personnes désignées dans les deux articles précédents, conformément aux dispositions du code civil.",
+        "type": "article",
+        "level": 2,
+        "order": 377,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-300-",
+        "title": "Article 300 : Toute infraction aux dispositions de l’article 249 de la présente loi sera punie d’une amende de deux cent cinquante mille francs (250 000) à deux millions cinq cent mille (2 500 000) francs CFA, sans préjudice de la dissolution de la société qui peut être prononcée à la requête du ministère public.",
+        "type": "article",
+        "level": 2,
+        "order": 378,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-301-",
+        "title": "Article 301 : Toute infraction aux dispositions du deuxième alinéa de l’article 26 de la présente loi sera punie d’une amende de cent mille (100 000) francs à un million (1 000 000) de francs CFA.",
+        "type": "article",
+        "level": 2,
+        "order": 379,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-302-",
+        "title": "Article 302 : Le défaut du dépôt légal prévu à l’article 182 de la présente loi sera puni d’une amende de cinquante mille (50 000) à cinq cent mille (500 000) francs CFA.",
+        "type": "article",
+        "level": 2,
+        "order": 380,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-303-",
+        "title": "Article 303 : Le défaut de dépôt légal d’une parution sera puni d’une amende de cinquante mille (50 000) à deux cent cinquante mille (250.000) francs CFA pour les journaux imprimés et les journaux électroniques.",
+        "type": "article",
+        "level": 2,
+        "order": 381,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-304-",
+        "title": "Article 304 : Les infractions aux lois sur l’information et la communication sont déférées devant les tribunaux correctionnels.",
+        "type": "article",
+        "level": 2,
+        "order": 383,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-305-",
+        "title": "Article 305 : L’action civile résultant des délits de diffamation prévus et punis par les articles 296 et 298 de la présente loi ne peut, sauf en cas du décès de l’auteur ou de l’amnistie du fait incriminé, être poursuivie séparément de l’action publique.",
+        "type": "article",
+        "level": 2,
+        "order": 384,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-306-",
+        "title": "Article 306 : La poursuite des délits commis par les moyens d’information et de communication a lieu d’office et à la requête du ministère public sauf :",
+        "type": "article",
+        "level": 2,
+        "order": 385,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-307-",
+        "title": "Article 307 : Lorsque l’ouverture d’une information est requise par le ministère public, celui-ci est tenu d’articuler et de qualifier dans son réquisitoire, les offenses, les provocations, les outrages, les diffamations et les injures, en raison desquels la poursuite est intentée avec indication des textes dont l’application est demandée.",
+        "type": "article",
+        "level": 2,
+        "order": 386,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-308-",
+        "title": "Article 308 : Lorsque des poursuites sont engagées, le juge saisi peut ordonner la saisie des écrits ou imprimés, des supports sonores ou audiovisuels tels que les bandes magnétiques, les cassettes audio et vidéo, les photos, les dispositifs des placards ou affiches, les dessins ou les gravures, les peintures, les emblèmes et tous autres supports numériques de stockage ou de diffusion ou ordonner l’interdiction d’accès au site web incriminé.",
+        "type": "article",
+        "level": 2,
+        "order": 387,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-309-",
+        "title": "Article 309 : Dans les seuls cas prévus aux articles 67, 68, 70, 233, 263, et 290 de la présente loi, la saisie conservatoire des journaux ou écrits périodiques, des écrits ou imprimés, des supports sonores et audiovisuels tels que les bandes magnétiques, les cassettes audio et vidéo, les photos, les dispositifs des placards ou affiches, les dessins ou gravures, les peintures, les emblèmes et tous autres supports numériques de stockage ou de diffusion peut être ordonnée par décision de la Haute Autorité de l’Audiovisuel et de la Communication, avec obligation pour celle-ci de provoquer l’exercice de l’action publique par le ministère public dans le délai de soixante-douze (72) heures à compter de la saisie.",
+        "type": "article",
+        "level": 2,
+        "order": 388,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-310-",
+        "title": "Article 310 : La garde à vue et la détention préventive en matière de presse sont interdites sauf en cas de provocation au crime et délits contre la chose publique.",
+        "type": "article",
+        "level": 2,
+        "order": 389,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-311-",
+        "title": "Article 311 : La citation précise et qualifie les faits incriminés ; elle indique le texte de loi applicable et en quelle qualité les prévenus sont poursuivis.",
+        "type": "article",
+        "level": 2,
+        "order": 390,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-312-",
+        "title": "Article 312 : Le délai entre la citation et la comparution devant la juridiction saisie est de huit (08) jours, outre un (01) jour supplémentaire par cinquante (50) kilomètres de distance.",
+        "type": "article",
+        "level": 2,
+        "order": 391,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-313-",
+        "title": "Article 313 : En cas de diffamation ou d’injure pendant la période électorale contre un candidat à une fonction élective, le délai prévu à l’article 312 de la présente loi est réduit à soixante-douze (72) heures non compris le délai de distance.",
+        "type": "article",
+        "level": 2,
+        "order": 392,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-314-",
+        "title": "Article 314 : Lorsque le prévenu est admis à prouver la vérité des faits de diffamation conformément aux dispositions de l’article 275 de la présente loi, il fait, dans le délai maximum de quinze (15) jours ouvrables après la signification de la citation, signifier au ministère public et au plaignant au domicile par lui élu, suivant qu’il est assigné à la requête de l’un ou de l’autre :",
+        "type": "article",
+        "level": 2,
+        "order": 393,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-315-",
+        "title": "Article 315 : Au moins trois (03) jours ouvrables avant l’audience, le plaignant ou le ministère public, suivant les cas, est tenu de faire signifier au prévenu, au domicile par lui élu, les copies des pièces, les nom, prénoms et adresse des témoins par lesquels il entend faire la preuve du contraire sous peine d’être déchu de son droit.",
+        "type": "article",
+        "level": 2,
+        "order": 394,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-316-",
+        "title": "Article 316 : Le tribunal correctionnel est tenu de statuer au fond dans le délai maximum de quarante-cinq (45) jours à compter de la première audience.",
+        "type": "article",
+        "level": 2,
+        "order": 395,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-317-",
+        "title": "Article 317 : L’appel contre le jugement du tribunal ou le pourvoi contre l’arrêt de la cour d’appel qui a statué sur les incidents et exceptions autres que les exceptions d’incompétence n’est formé, à peine de nullité, qu’après le jugement ou l’arrêt au fond et en même temps que l’appel ou le pourvoi contre ledit jugement ou arrêt.",
+        "type": "article",
+        "level": 2,
+        "order": 396,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-318-",
+        "title": "Article 318 : En sus des peines principales prévues, il est prononcé les peines complémentaires suivantes :",
+        "type": "article",
+        "level": 2,
+        "order": 398,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-319-",
+        "title": "Article 319 : Les dispositions du code pénal relatives aux circonstances atténuantes sont applicables dans tous les cas prévus par la présente loi.",
+        "type": "article",
+        "level": 2,
+        "order": 399,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-320-",
+        "title": "Article 320 : L’action publique et l’action civile résultant des crimes et délits se prescrivent conformément aux dispositions du code de procédure pénale.",
+        "type": "article",
+        "level": 2,
+        "order": 400,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-321-",
+        "title": "Article 321 : Sous réserve des dispositions des articles 307, 308, 309 et 310 de la présente loi, la poursuite des crimes a lieu conformément au droit commun.",
+        "type": "article",
+        "level": 2,
+        "order": 401,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-322-",
+        "title": "Article 322 : Toute publicité qui fait apparaître ou des qualités inexactes du produit ou du service est interdite.",
+        "type": "article",
+        "level": 2,
+        "order": 404,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-323-",
+        "title": "Article 323 : La publicité mensongère est à la fois, imputable à l’annonceur qu’au diffuseur.",
+        "type": "article",
+        "level": 2,
+        "order": 405,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-324-",
+        "title": "Article 324 : Si le contrevenant est une personne morale, la responsabilité pénale incombe à ses dirigeants. La complicité est punissable dans les conditions de droit commun.",
+        "type": "article",
+        "level": 2,
+        "order": 406,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-325-",
+        "title": "Article 325 : Lorsque le message publicitaire contient une comparaison, les éléments de comparaison doivent s’appuyer sur des faits choisis loyalement et objectivement vérifiables. Dans tous les cas, la publicité ne doit pas induire le consommateur en erreur.",
+        "type": "article",
+        "level": 2,
+        "order": 407,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-326-",
+        "title": "Article 326 : Est interdite, sous peine de sanctions prévues aux articles 328 et 329 de la présente loi, toute imitation de mise en page, texte, slogan, présentation visuelle, musique, effets sonores ou d’autres messages publicitaires lorsque cette imitation risque d’entraîner des erreurs ou des confusions.",
+        "type": "article",
+        "level": 2,
+        "order": 408,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-327-",
+        "title": "Article 327 : Est interdite toute publicité qui :",
+        "type": "article",
+        "level": 2,
+        "order": 409,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-328-",
+        "title": "Article 328 : Toute personne qui s’estime victime et qui introduit une action en réparation du préjudice subi du fait d’actes de concurrence déloyale ou illicite, peut en outre demander, en attendant qu’il soit définitivement statué au fond, que la cessation des agissements reprochés au défendeur soit ordonnée à titre provisoire et sous astreinte comminatoire.",
+        "type": "article",
+        "level": 2,
+        "order": 411,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-329-",
+        "title": "Article 329 : Les agents des administrations compétentes en matière de lutte contre la concurrence déloyale et la publicité mensongère ou trompeuse, sont habilités à constater, au moyen de procès-verbaux, les infractions à la présente loi.",
+        "type": "article",
+        "level": 2,
+        "order": 412,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-330-",
+        "title": "Article 330 : La cessation de la publicité peut être ordonnée soit sur réquisition du ministère public, soit d’office par le juge d’instruction ou le tribunal saisi des poursuites. La mesure ainsi prise est exécutoire nonobstant toutes voies de recours. Mainlevée peut être ordonnée par la juridiction qui l’a prescrite ou qui est saisie du dossier. La mesure cesse d’avoir effet en cas de décision de non-lieu ou de relaxe.",
+        "type": "article",
+        "level": 2,
+        "order": 413,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-331-",
+        "title": "Article 331 : Les décisions statuant sur les demandes de mainlevée peuvent faire l’objet d’un recours devant la chambre d’accusation ou devant la cour d’appel selon qu’elles ont été prononcées par un juge d’instruction ou par le tribunal saisi des poursuites.",
+        "type": "article",
+        "level": 2,
+        "order": 414,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-332-",
+        "title": "Article 332 : En cas de condamnation, le tribunal ordonne la publication du jugement. Il peut, en outre, ordonner la diffusion, aux frais du condamné, d’une ou de plusieurs annonces rectificatives. Le jugement fixe les termes de ces annonces et les modalités de leur diffusion et impartit au condamné un délai pour y faire procéder.",
+        "type": "article",
+        "level": 2,
+        "order": 415,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-333-",
+        "title": "Article 333 : Constitue un délit, toute publicité telle que visée à l’article 172 de la présente loi. Le délit est constitué dès lors que la publicité est faite, reçue ou perçue en République du Bénin.",
+        "type": "article",
+        "level": 2,
+        "order": 416,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-334-",
+        "title": "Article 334 : Les infractions aux dispositions des articles 172 à 177 de la présente loi, sont punies conformément aux textes en vigueur relatifs à la répression des fraudes.",
+        "type": "article",
+        "level": 2,
+        "order": 417,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-335-",
+        "title": "Article 335 : Pour l’application de l’article précédent, le tribunal peut demander, tant aux parties qu’à l’annonceur, la communication de tous documents utiles.",
+        "type": "article",
+        "level": 2,
+        "order": 418,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-336",
+        "title": "Article 336: Les pénalités prévues à l’article précédent sont également applicables en cas de refus de communication des éléments de justification ou des publicités diffusées, demandées dans les conditions prévues à l’article 329 de la présente loi, de même qu’en cas d’inobservance des décisions ordonnant la cessation de la publicité ou de non-exécution dans le délai imparti des annonces rectificatives.",
+        "type": "article",
+        "level": 2,
+        "order": 419,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-337-",
+        "title": "Article 337 : Toute autre violation des règles en matière de publicité relative aux manufactures, au commerce et aux arts est punie des peines prévues par les textes en vigueur en République du Bénin.",
+        "type": "article",
+        "level": 2,
+        "order": 420,
+        "path": [
+          "titre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-7",
+        "title": "TITRE 7: DES DISPOSITIONS DIVERSES, TRANSITOIRES ET FINALES",
+        "type": "titre",
+        "level": 2,
+        "order": 421,
+        "path": [
+          "titre-7"
+        ],
+        "children": [
+          "article-338-",
+          "article-339-",
+          "article-340-",
+          "article-341-",
+          "article-342-",
+          "article-343-",
+          "article-344-"
+        ]
+      },
+      {
+        "id": "article-338-",
+        "title": "Article 338 : Lorsque l’intégrité du territoire national et la sécurité de l’Etat sont menacées, en cas de catastrophe, d’épidémie ou de crise grave, le Gouvernement peut faire publier, programmer et diffuser, à tout moment, sur les organes d’information de service public ou du secteur privé, des communiqués d’intérêt général et des interventions solennelles du Chef de l’Etat jugés nécessaires, sans qu’il soit besoin d’en justifier l’opportunité.",
+        "type": "article",
+        "level": 2,
+        "order": 423,
+        "path": [
+          "titre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-339-",
+        "title": "Article 339 : La Haute Autorité de l’Audiovisuel et de la Communication définit, conformément aux textes qui la régissent, les modalités d’accès aux médias du service public et du secteur privé pendant les périodes de précampagne et de campagne électorales.",
+        "type": "article",
+        "level": 2,
+        "order": 424,
+        "path": [
+          "titre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-340-",
+        "title": "Article 340 : Deux (02) ans après la promulgation de la présente loi, les dispositions de l’article 19 en ce qui concerne la part des programmes radiophoniques et télévisuels, pour prendre en compte l’insuffisance de productions nationales, sont applicables.",
+        "type": "article",
+        "level": 2,
+        "order": 426,
+        "path": [
+          "titre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-341-",
+        "title": "Article 341 : Les organes de presse créés avant la promulgation de la présente loi disposent du délai de trente (30) jours pour s’y conformer.",
+        "type": "article",
+        "level": 2,
+        "order": 427,
+        "path": [
+          "titre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-342-",
+        "title": "Article 342 : Tout directeur de publication qui jouit d’une immunité conférée par un mandat électif dispose de trente (30) jours pour se conformer aux dispositions de la présente loi.",
+        "type": "article",
+        "level": 2,
+        "order": 428,
+        "path": [
+          "titre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-343-",
+        "title": "Article 343 : La présente loi abroge toutes dispositions antérieures contraires applicables en matière de presse et de communication audiovisuelle notamment :",
+        "type": "article",
+        "level": 2,
+        "order": 430,
+        "path": [
+          "titre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-344-",
+        "title": "Article 344 : La présente loi sera exécutée comme loi de l’Etat.",
+        "type": "article",
+        "level": 2,
+        "order": 432,
+        "path": [
+          "titre-7"
+        ],
+        "children": []
+      }
+    ],
+    "totalArticles": 344
+  },
+  "source": "nationale"
+}

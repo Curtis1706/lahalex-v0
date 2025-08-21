@@ -1,0 +1,1 @@
+Article 7 : L’utilisation de l’eau, sous quelque forme que ce soit, exige de chacun une contribution à l’effort de la Nation pour une gestion rationnelle de cette ressource.

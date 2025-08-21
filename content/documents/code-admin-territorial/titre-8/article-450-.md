@@ -1,0 +1,4 @@
+Les titres de recettes transmis au comptable de la commune ou de l’établissement public de coopération intercommunale sont récapitulés dans l'ordre croissant des articles budgétaires sur un bordereau en trois exemplaires, répartis comme suit :
+1. un exemplaire pour les archives de la commune ou de l'établissement public de coopération intercommunale où les bordereaux sont classés dans l'ordre chronologique ;
+2. deux exemplaires pour le comptable de la commune ou de l’établissement public de coopération intercommunale dont un exemplaire est ultérieurement joint au compte de gestion.
+Chaque bordereau de titres est numéroté suivant une série ininterrompue commencée pour chaque exercice au numéro 1.

@@ -1,0 +1,2 @@
+Article 310-4 : Surveillance complémentaire - Contrôle interne
+Toute entreprise d’assurance participante d’au moins une entreprise visée aux 1° à 3° de l’article 310-1 doit disposer d’un système de contrôle interne pour la production des données et informations destinées à permettre l’exercice de la surveillance complémentaire de sa situation financière.

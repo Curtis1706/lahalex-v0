@@ -1,0 +1,1 @@
+Cette validation entraînera ipso facto le versement rétroactif d'une retenue de 6 % effectuée sur les émoluments bruts perçus par le Militaire à la date de la demande.

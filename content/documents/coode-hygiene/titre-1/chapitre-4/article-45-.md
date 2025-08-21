@@ -1,0 +1,2 @@
+Les chefs d'établissement veillent au respect des règles élémentaires d'hygiène dans les écoles et les universités.
+Les agents assermentés de la municipalité et des services en charge de l'hygiène et de l'assainissement du ministère en charge de la santé procèdent à des inspections sanitaires dans les établissements scolaires et universitaires.

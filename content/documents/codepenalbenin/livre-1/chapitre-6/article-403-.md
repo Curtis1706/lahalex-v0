@@ -1,0 +1,2 @@
+Est puni comme coupable de rébellion, quiconque l’aura provoquée soit par discours tenus dans des lieux ou réunions publics, soit par placards affichés, soit par écrits imprimés.
+Dans le cas où la rébellion n’aurait pas eu lieu, le provocateur sera puni d’un emprisonnement de deux (02) mois au moins et de un (01) an au plus.

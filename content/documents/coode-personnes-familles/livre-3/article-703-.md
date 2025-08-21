@@ -1,0 +1,1 @@
+En cas de pluralité de liquidateurs, l’inventaire et l’évaluation provisoire faits par l’un d’eux sont réputés avoir reçu l’approbation des autres liquidateurs, dans les hypothèses prévues aux alinéas 2 et 3 de l’article 696.

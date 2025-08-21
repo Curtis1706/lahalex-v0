@@ -1,0 +1,4 @@
+Modifié par la loi de finances pour 2024
+1) Les entrepreneurs du secteur du bâtiment et des travaux publics joignent à leur déclaration annuelle de résultat, un état précisant l’identité et l’adresse exacte de leurs sous-traitants, ainsi que le montant et la nature des travaux qui leur ont été confiés l’année précédente. Un état comportant les mêmes indications est établi et transmis pour les cotraitants ou membres de groupements, y compris les cotraitants non-résidents en République du Bénin.
+2) Toute infraction constatée dans la communication des renseignements visés ci-
+dessus est sanctionnée dans les conditions prévues à l’article 498 du présent code.

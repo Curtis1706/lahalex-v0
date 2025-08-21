@@ -1,0 +1,5 @@
+Retrait et Dissolution
+1. Tout État membre désireux de se retirer de la Communauté notifie par écrit son intention au Président en exercice de la Conférence, un (1) an à l’avance. Dès réception de cette notification, des négociations sont engagées entre l’Etat candidat au retrait et la Communauté à l’effet notamment de discuter de l’impact de ce retrait sur le fonctionnement de la Communauté. A l’expiration du délai de préavis, il cesse d’être membre de la Communauté, à moins que dans l’intervalle il n’ait renoncé à son retrait.
+1. Pendant la période d’un (1) an visée au paragraphe 1 du présent article, tout Etat membre désireux de se retirer de la Communauté se conforme néanmoins à ses dispositions et reste tenu de s’acquitter de ses obligations y relatives.
+1. Le retrait d’un ou plusieurs Etats membres n’entraine pas la dissolution de la Communauté.
+1. Seule la Conférence peut décider de la dissolution de la Communauté et en fixer les modalités de répartition de l’actif et du passif.

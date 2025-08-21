@@ -1,0 +1,1 @@
+Si ce fait a été commis par suite d’un plan concerté pour être exécuté soit dans toute la République, soit dans un ou plusieurs départements, soit dans une ou plusieurs communes, la peine est l’emprisonnement de deux (02) ans à cinq (05) ans.

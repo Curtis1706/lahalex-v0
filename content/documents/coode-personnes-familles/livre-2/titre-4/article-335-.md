@@ -1,0 +1,4 @@
+L’action est dirigée contre le père prétendu ou ses héritiers. L’action n’appartient qu’à l’enfant. Pendant la minorité de l’enfant, la mère même mineure, a seule qualité pour l'intenter. Si la mère est décédée, incapable ou présumée absente, l’action est introduite par la personne qui a la garde de l’enfant.
+Elle doit, à peine de déchéance, être introduite dans les six (6) mois qui suivent l’accouchement.
+Toutefois, dans les cas prévus aux tirets 4 et 5 de l’article 333, l’action peut être intentée jusqu’à l’expiration des deux (02) années qui suivent la cessation, soit du concubinage, soit de la participation du père prétendu à l'entretien, l’établissement et l’éducation de l’enfant.
+Lorsque l’action n’a pas été intentée pendant la minorité de l’enfant, celui-ci peut l’intenter pendant les deux années qui suivent sa majorité.
