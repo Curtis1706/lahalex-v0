@@ -179,7 +179,7 @@ export default function HomePage() {
               return (
                 <button
                   key={category.key}
-                  onClick={() => handleCategoryClick(category.key, "regionale")}
+                  onClick={() => handleCategoryClick(category.key, "internationale")}
                   className={`w-full flex items-center justify-between px-3 py-2.5 lg:py-2 rounded-md text-sm transition-all duration-200 ${
                     selectedCategory === category.key
                       ? "bg-blue-100 text-blue-700 shadow-sm"
