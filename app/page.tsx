@@ -130,8 +130,6 @@ export default function HomePage() {
     { key: "conventions-collectives", label: "Conventions collectives", icon: FileText },
     { key: "lois-organiques", label: "Lois organiques", icon: FileText },
     { key: "lois-ordinaires", label: "Lois ordinaires", icon: FileText },
-    { key: "decrets", label: "Décrets", icon: FileText },
-    { key: "arretes", label: "Arrêtés", icon: FileText },
   ]
 
   const internationalCategories = [
