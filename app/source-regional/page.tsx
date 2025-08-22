@@ -1,6 +1,7 @@
 "use client"
 import { useState, useEffect } from "react"
 import { LahalexHeaderResponsive } from "@/components/lahalex-header-responsive"
+import { LahalexBreadcrumbResponsive } from "@/components/lahalex-breadcrumb-responsive"
 import { useIsMobile } from "@/hooks/use-mobile"
 import Link from "next/link"
 import { format } from "date-fns"
@@ -37,6 +38,11 @@ export default function HomePage() {
   const [sidebarOpen, setSidebarOpen] = useState(false)
   const [currentPage, setCurrentPage] = useState(1)
   const isMobile = useIsMobile()
+
+  // Fonction pour générer le fil d'ariane selon la source
+  const getBreadcrumbSource = () => {
+    return "Source régionale"
+  }
 
   // Pagination
   const totalPages = Math.ceil(documents.length / ITEMS_PER_PAGE)
@@ -179,7 +185,7 @@ export default function HomePage() {
               return (
                 <button
                   key={category.key}
-                  onClick={() => handleCategoryClick(category.key, "regionale")}
+                  onClick={() => handleCategoryClick(category.key, "internationale")}
                   className={`w-full flex items-center justify-between px-3 py-2.5 lg:py-2 rounded-md text-sm transition-all duration-200 ${
                     selectedCategory === category.key
                       ? "bg-blue-100 text-blue-700 shadow-sm"
@@ -307,9 +313,16 @@ export default function HomePage() {
     )
   }
 
+  // Breadcrumb items pour source régionale
+  const breadcrumbItems = [
+    { label: "Accueil", href: "/" },
+    { label: getBreadcrumbSource(), isActive: true }
+  ]
+
   return (
     <div className="min-h-screen bg-white">
       <LahalexHeaderResponsive searchValue={searchValue} onSearchChange={setSearchValue} />
+      <LahalexBreadcrumbResponsive items={breadcrumbItems} />
 
       <div className="flex min-h-[calc(100vh-64px)] lg:min-h-[calc(100vh-80px)]">
         {/* Sidebar Desktop */}
@@ -349,6 +362,8 @@ export default function HomePage() {
                 <div className="flex flex-col space-y-2 lg:space-y-3">
                   <div className="flex items-center text-sm text-gray-500">
                     <span>Textes</span>
+                    <ChevronRight className="w-4 h-4 mx-2" />
+                    <span className="text-gray-900 font-medium">{getBreadcrumbSource()}</span>
                     <ChevronRight className="w-4 h-4 mx-2" />
                     <span className="text-gray-900 font-medium">{getCategoryTitle()}</span>
                   </div>

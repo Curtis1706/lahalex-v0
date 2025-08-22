@@ -5,10 +5,11 @@ import { processMarkdownContent } from '@/lib/text-processor'
 import { DocumentReader } from '@/components/DocumentReader'
 
 interface ArticlePageProps {
-  params: Promise<{ 
+  params: Promise<{
     documentId: string
     articlePath: string[]
   }>
+  searchParams?: Promise<{ [key: string]: string | string[] | undefined }>
 }
 
 export async function generateMetadata({ params }: ArticlePageProps): Promise<Metadata> {
@@ -53,6 +54,3 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     />
   )
 }
-
-
-
