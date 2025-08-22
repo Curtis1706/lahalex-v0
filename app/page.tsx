@@ -9,6 +9,9 @@ import { Menu, X, ChevronRight, FileText, Clock, BookOpen, ChevronLeft } from "l
 import { Button } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"
 import { Footer } from "@/components/footer"
+import type { DocumentMetadata } from "@/types/document"
+
+
 
 interface Document {
   id: string
@@ -21,6 +24,15 @@ interface Document {
   num_pages: number
 }
 
+interface SearchDocument extends DocumentMetadata {
+  searchScore?: number
+  matchDetails?: {
+    title: boolean
+    subject: boolean
+    content: boolean
+  }
+}
+
 interface CategoryCounts {
   [key: string]: number
 }
@@ -29,13 +41,17 @@ const ITEMS_PER_PAGE = 12
 
 export default function HomePage() {
   const [searchValue, setSearchValue] = useState("")
-  const [documents, setDocuments] = useState<Document[]>([])
+  const [documents, setDocuments] = useState<DocumentMetadata[]>([])
   const [categoryCounts, setCategoryCounts] = useState<CategoryCounts>({})
   const [loading, setLoading] = useState(false)
   const [selectedCategory, setSelectedCategory] = useState<string>("")
   const [selectedSource, setSelectedSource] = useState<string>("")
   const [sidebarOpen, setSidebarOpen] = useState(false)
   const [currentPage, setCurrentPage] = useState(1)
+  const [searchResults, setSearchResults] = useState<SearchDocument[]>([])
+  const [isSearching, setIsSearching] = useState(false)
+  const [searchQuery, setSearchQuery] = useState("")
+  const [searchError, setSearchError] = useState<string | null>(null)
   const isMobile = useIsMobile()
 
   // Pagination
@@ -72,6 +88,52 @@ export default function HomePage() {
     fetchCategoryCounts()
   }, [])
 
+  // Gérer les paramètres de recherche dans l'URL
+  useEffect(() => {
+    const urlParams = new URLSearchParams(window.location.search)
+    const searchParam = urlParams.get('search')
+    
+    if (searchParam && searchParam.trim()) {
+      const query = searchParam.trim()
+      setSearchValue(query)
+      setSearchQuery(query)
+      
+      // Effectuer la recherche
+      const performSearch = async () => {
+        setIsSearching(true)
+        setSearchError(null)
+        setSelectedCategory("")
+        setSelectedSource("")
+
+        try {
+          const response = await fetch(`/api/documents/search?q=${encodeURIComponent(query)}`)
+
+          if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`)
+          }
+
+          const data = await response.json()
+
+          if (data.success) {
+            setSearchResults(data.documents)
+          } else {
+            setSearchResults([])
+            setSearchError(data.error || 'Erreur lors de la recherche')
+            console.error('Search failed:', data.error)
+          }
+        } catch (error) {
+          console.error('Search error:', error)
+          setSearchResults([])
+          setSearchError('Erreur lors de la recherche. Veuillez réessayer.')
+        } finally {
+          setIsSearching(false)
+        }
+      }
+
+      performSearch()
+    }
+  }, [])
+
   useEffect(() => {
     if (selectedCategory) {
       const fetchDocuments = async () => {
@@ -102,6 +164,44 @@ export default function HomePage() {
   const handleCategoryClick = (category: string, source = "") => {
     setSelectedCategory(category)
     setSelectedSource(source)
+    // Clear search results when category is selected
+    setSearchResults([])
+    setSearchQuery("")
+    setSearchValue("")
+  }
+
+  const handleSearchSubmit = async (query: string) => {
+    if (!query.trim()) return
+
+    setIsSearching(true)
+    setSearchError(null)
+    setSearchQuery(query)
+    setSelectedCategory("") // Clear category selection
+    setSelectedSource("")
+
+    try {
+      const response = await fetch(`/api/documents/search?q=${encodeURIComponent(query)}`)
+
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`)
+      }
+
+      const data = await response.json()
+
+      if (data.success) {
+        setSearchResults(data.documents)
+      } else {
+        setSearchResults([])
+        setSearchError(data.error || 'Erreur lors de la recherche')
+        console.error('Search failed:', data.error)
+      }
+    } catch (error) {
+      console.error('Search error:', error)
+      setSearchResults([])
+      setSearchError('Erreur lors de la recherche. Veuillez réessayer.')
+    } finally {
+      setIsSearching(false)
+    }
   }
 
   const getCategoryTitle = () => {
@@ -308,7 +408,11 @@ export default function HomePage() {
 
   return (
     <div className="min-h-screen bg-white">
-      <LahalexHeaderResponsive searchValue={searchValue} onSearchChange={setSearchValue} />
+      <LahalexHeaderResponsive
+        searchValue={searchValue}
+        onSearchChange={setSearchValue}
+        onSearchSubmit={handleSearchSubmit}
+      />
 
       <div className="flex min-h-[calc(100vh-64px)] lg:min-h-[calc(100vh-80px)]">
         {/* Sidebar Desktop */}
@@ -341,7 +445,107 @@ export default function HomePage() {
 
         {/* Main Content */}
         <div className="flex-1 min-w-0">
-          {selectedCategory ? (
+          {searchQuery ? (
+            <div className="h-full flex flex-col">
+              {/* Header avec titre et breadcrumb */}
+              <div className="bg-white border-b border-gray-200 px-4 lg:px-6 py-4 lg:py-6">
+                <div className="flex flex-col space-y-2 lg:space-y-3">
+                  <div className="flex items-center text-sm text-gray-500">
+                    <span>Recherche</span>
+                    <ChevronRight className="w-4 h-4 mx-2" />
+                    <span className="text-gray-900 font-medium">"{searchQuery}"</span>
+                  </div>
+                  <div className="flex items-center justify-between">
+                    <h1 className="text-xl lg:text-2xl font-semibold text-gray-900">
+                      Résultats de recherche
+                    </h1>
+                    <Button
+                      variant="outline"
+                      size="sm"
+                      onClick={() => {
+                        setSearchQuery("")
+                        setSearchResults([])
+                        setSearchValue("")
+                        setSearchError(null)
+                      }}
+                    >
+                      Effacer la recherche
+                    </Button>
+                  </div>
+                </div>
+              </div>
+
+              {/* Content */}
+              <div className="flex-1 overflow-y-auto p-4 lg:p-6">
+                {isSearching ? (
+                  <div className="flex items-center justify-center py-12">
+                    <div className="text-center">
+                      <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-blue-600 mx-auto mb-4"></div>
+                      <p className="text-gray-500">Recherche en cours...</p>
+                    </div>
+                  </div>
+                ) : searchError ? (
+                  <div className="text-center py-12">
+                    <div className="w-12 h-12 bg-red-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                      <svg className="w-6 h-6 text-red-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-2.5L13.732 4c-.77-.833-1.964-.833-2.732 0L3.732 16.5c-.77.833.192 2.5 1.732 2.5z" />
+                      </svg>
+                    </div>
+                    <p className="text-red-600 text-lg mb-2">Erreur de recherche</p>
+                    <p className="text-gray-500 text-sm mb-4">
+                      {searchError}
+                    </p>
+                    <Button
+                      variant="outline"
+                      onClick={() => {
+                        setSearchError(null)
+                        setSearchQuery("")
+                        setSearchResults([])
+                        setSearchValue("")
+                      }}
+                    >
+                      Réessayer
+                    </Button>
+                  </div>
+                ) : searchResults.length === 0 ? (
+                  <div className="text-center py-12">
+                    <FileText className="w-12 h-12 text-gray-400 mx-auto mb-4" />
+                    <p className="text-gray-500 text-lg mb-2">Aucun résultat trouvé</p>
+                    <p className="text-gray-400 text-sm">
+                      Aucun document ne correspond à votre recherche "{searchQuery}".
+                    </p>
+                  </div>
+                ) : (
+                  <div className="space-y-6 lg:space-y-8">
+                    <p className="text-gray-600">
+                      {searchResults.length} résultat{searchResults.length > 1 ? 's' : ''} trouvé{searchResults.length > 1 ? 's' : ''}
+                    </p>
+
+                    {/* Search Results Timeline */}
+                    <div className="relative">
+                      <div className="absolute left-6 lg:left-8 top-0 bottom-0 w-0.5 bg-gradient-to-b from-[#770D28] via-[#770D28] to-[#770D28]"></div>
+
+                      <ul className="space-y-6">
+                        {searchResults.map((document) => (
+                          <li key={document.id} className="relative pl-14 lg:pl-16">
+                            <span className="absolute left-6 lg:left-8 top-2 -translate-x-1/2">
+                              <span className="block w-3.5 h-3.5 bg-[#770D28] rounded-full ring-4 ring-[#770D28]/20"></span>
+                            </span>
+                            <Link href={`/documents/${document.id}`} className="text-base lg:text-lg font-semibold text-gray-900 hover:text-[#770D28]">
+                              {document.title}
+                            </Link>
+                            {document.description && (
+                              <p className="text-sm text-gray-600 mt-1">{document.description}</p>
+                            )}
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                  </div>
+                )}
+              </div>
+            </div>
+          ) : selectedCategory ? (
             <div className="h-full flex flex-col">
               {/* Header avec titre et breadcrumb */}
               <div className="bg-white border-b border-gray-200 px-4 lg:px-6 py-4 lg:py-6">
@@ -390,7 +594,7 @@ export default function HomePage() {
                             <Link href={`/documents/${document.id}`} className="text-base lg:text-lg font-semibold text-gray-900 hover:text-[#770D28]">
                               {document.title}
                             </Link>
-                            {document.subject && (
+                             {document.subject && (
                               <p className="text-sm text-gray-600 mt-1">{document.subject}</p>
                             )}
                           </li>

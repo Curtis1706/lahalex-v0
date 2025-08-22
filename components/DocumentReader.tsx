@@ -133,6 +133,14 @@ export function DocumentReader({
   const isMobile = useIsMobile();
   const pathname = usePathname();
 
+  // Fonction pour la recherche globale depuis le header
+  const handleSearchSubmit = async (query: string) => {
+    if (!query.trim()) return
+    
+    // Rediriger vers la page principale avec la recherche
+    window.location.href = `/?search=${encodeURIComponent(query)}`
+  }
+
   // Auto-expand sections contenant l'article actuel
   useEffect(() => {
     if (article?.metadata?.path) {
@@ -393,6 +401,7 @@ export function DocumentReader({
       <LahalexHeaderResponsive
         searchValue={searchValue}
         onSearchChange={setSearchValue}
+        onSearchSubmit={handleSearchSubmit}
       />
       <LahalexBreadcrumbResponsive items={breadcrumbItems} />
 

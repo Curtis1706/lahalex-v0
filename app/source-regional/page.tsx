@@ -28,7 +28,7 @@ interface CategoryCounts {
 
 const ITEMS_PER_PAGE = 12
 
-export default function HomePage() {
+export default function SourceRegionalPage() {
   const [searchValue, setSearchValue] = useState("")
   const [documents, setDocuments] = useState<Document[]>([])
   const [categoryCounts, setCategoryCounts] = useState<CategoryCounts>({})
@@ -313,6 +313,14 @@ export default function HomePage() {
     )
   }
 
+  // Fonction pour la recherche globale depuis le header
+  const handleSearchSubmit = async (query: string) => {
+    if (!query.trim()) return
+    
+    // Rediriger vers la page principale avec la recherche
+    window.location.href = `/?search=${encodeURIComponent(query)}`
+  }
+
   // Breadcrumb items pour source régionale
   const breadcrumbItems = [
     { label: "Accueil", href: "/" },
@@ -321,7 +329,7 @@ export default function HomePage() {
 
   return (
     <div className="min-h-screen bg-white">
-      <LahalexHeaderResponsive searchValue={searchValue} onSearchChange={setSearchValue} />
+      <LahalexHeaderResponsive searchValue={searchValue} onSearchChange={setSearchValue} onSearchSubmit={handleSearchSubmit} />
       <LahalexBreadcrumbResponsive items={breadcrumbItems} />
 
       <div className="flex min-h-[calc(100vh-64px)] lg:min-h-[calc(100vh-80px)]">
