@@ -142,6 +142,7 @@ export default function HomePage() {
     { key: "cedeao", label: "CEDEAO", icon: FileText },
     { key: "conventions-internationales", label: "Conventions internationales", icon: FileText },
     { key: "uemoa", label: "UEMOA", icon: FileText },
+    { key: "omc", label: "OMC", icon: FileText },
   ]
 
   const SidebarContent = () => (

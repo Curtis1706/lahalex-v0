@@ -1,0 +1,16 @@
+{
+  "id": "article-35-",
+  "title": "Article 35 :",
+  "numero": "35 ",
+  "document": "omc",
+  "path": [
+    "titre-2",
+    "chapitre-3",
+    "section-5"
+  ],
+  "navigation": {
+    "parent": "section-5",
+    "previous": "article-34-",
+    "next": "article-36-"
+  }
+}

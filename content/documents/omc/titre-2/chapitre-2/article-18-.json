@@ -1,0 +1,15 @@
+{
+  "id": "article-18-",
+  "title": "Article 18 :",
+  "numero": "18 ",
+  "document": "omc",
+  "path": [
+    "titre-2",
+    "chapitre-2"
+  ],
+  "navigation": {
+    "parent": "chapitre-2",
+    "previous": "article-17-",
+    "next": "article-19-"
+  }
+}

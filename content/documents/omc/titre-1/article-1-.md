@@ -1,0 +1,1 @@
+La présente loi organique régit la compétence, la composition, les attributions et le fonctionnement de la Cour des comptes et du Conseil supérieur des comptes.

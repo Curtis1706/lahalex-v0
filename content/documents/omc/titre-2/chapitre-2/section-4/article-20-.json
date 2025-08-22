@@ -1,0 +1,16 @@
+{
+  "id": "article-20-",
+  "title": "Article 20 :",
+  "numero": "20 ",
+  "document": "omc",
+  "path": [
+    "titre-2",
+    "chapitre-2",
+    "section-4"
+  ],
+  "navigation": {
+    "parent": "section-4",
+    "previous": "article-19-",
+    "next": "article-21-"
+  }
+}

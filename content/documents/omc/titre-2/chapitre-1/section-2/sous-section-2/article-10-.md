@@ -1,0 +1,5 @@
+La Cour des comptes apporte son expertise à l'Assemblée nationale et au gouvernement dans le contrôle de l'exécution des lois de finances.
+Elle vérifie la régularité des recettes et des dépenses décrites dans les comptabilités publiques et s'assure, à partir de ces dernières, du bon emploi des crédits, des fonds et valeurs gérés par les institutions de l'État, les services de l'État et les autres organismes publics.
+La Cour des comptes établit un rapport sur l'exécution de la loi de finances.
+Elle établit la déclaration générale de conformité entre les comptes individuels des comptables principaux de l'État et les comptes des ordonnateurs ou un rapport de certification des comptes de l'État conformément aux dispositions de la loi organique relative aux lois de finances et émet un avis sur les rapports annuels de performance.
+Elle délivre un certificat de concordance en ce qui concerne les autres comptabilités qui ne relèvent pas d'autres régimes de certification des comptes annuels.

@@ -1,0 +1,2 @@
+Ont qualité de magistrats de la Cour des comptes, les personnes nommées à la Cour, conformément au statut des magistrats de la Cour des comptes.
+Le président et les autres magistrats de la Cour des comptes sont nommés et entrent en fonction conformément aux dispositions de la loi portant statut des magistrats de la Cour des comptes.

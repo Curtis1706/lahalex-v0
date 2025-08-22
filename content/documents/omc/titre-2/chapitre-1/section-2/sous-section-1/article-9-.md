@@ -1,0 +1,5 @@
+Conformément aux dispositions de la présente loi organique, la Cour des comptes juge les comptes des comptables publics, sauf lorsqu'il y a lieu à apurement administratif.
+Les modalités de l'apurement administratif sont fixées par ordonnance du président de la Cour des comptes.
+La Cour des comptes juge les comptes qui lui sont rendus par les personnes qu'elle a déclarées comptables de fait.
+Elle condamne, s'il y a lieu, les comptables à l'amende pour retard dans la production de leurs comptes et dans les réponses aux injonctions qui ont été formulées à leur encontre et à l'amende pour gestion de fait.
+La Cour des comptes a compétence pour juger les fautes de gestion commises par tout ordonnateur ou gestionnaire envers l'État, les collectivités territoriales et les autres organismes soumis à son contrôle. Elle prononce, s'il y a lieu, des sanctions pécuniaires contre les comptables publics et les ordonnateurs en raison de fautes ou d'irrégularités constatées dans leur gestion.

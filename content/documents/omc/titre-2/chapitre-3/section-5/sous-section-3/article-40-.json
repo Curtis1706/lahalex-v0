@@ -1,0 +1,17 @@
+{
+  "id": "article-40-",
+  "title": "Article 40 :",
+  "numero": "40 ",
+  "document": "omc",
+  "path": [
+    "titre-2",
+    "chapitre-3",
+    "section-5",
+    "sous-section-3"
+  ],
+  "navigation": {
+    "parent": "sous-section-3",
+    "previous": "article-39-",
+    "next": "article-41-"
+  }
+}

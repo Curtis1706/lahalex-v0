@@ -1,0 +1,13 @@
+{
+  "id": "article-1-",
+  "title": "Article 1 : La présente loi organique régit la compétence, la composition, les attributions et le fonctionnement de la Cour des comptes et du Conseil supérieur des comptes.",
+  "numero": "1 ",
+  "document": "omc",
+  "path": [
+    "titre-1"
+  ],
+  "navigation": {
+    "parent": "titre-1",
+    "next": "article-2-"
+  }
+}

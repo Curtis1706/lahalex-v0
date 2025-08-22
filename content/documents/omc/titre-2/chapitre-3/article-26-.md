@@ -1,0 +1,1 @@
+Le président de la Cour des comptes est l'ordonnateur du budget de la Cour.

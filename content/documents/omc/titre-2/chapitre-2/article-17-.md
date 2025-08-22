@@ -1,0 +1,1 @@
+Les magistrats de la Cour des comptes sont installés dans leurs fonctions en audience solennelle. Ils portent aux audiences publiques de la Cour des comptes des costumes dont les caractéristiques sont définies par décret pris en Conseil des ministres.

@@ -1,0 +1,16 @@
+{
+  "id": "article-5-",
+  "title": "Article 5 :",
+  "numero": "5 ",
+  "document": "omc",
+  "path": [
+    "titre-2",
+    "chapitre-1",
+    "section-1"
+  ],
+  "navigation": {
+    "parent": "section-1",
+    "previous": "article-4-",
+    "next": "article-6-"
+  }
+}

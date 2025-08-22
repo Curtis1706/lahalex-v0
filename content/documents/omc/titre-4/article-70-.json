@@ -1,0 +1,14 @@
+{
+  "id": "article-70-",
+  "title": "Article 70 :",
+  "numero": "70 ",
+  "document": "omc",
+  "path": [
+    "titre-4"
+  ],
+  "navigation": {
+    "parent": "titre-4",
+    "previous": "article-69-",
+    "next": "article-71-"
+  }
+}
