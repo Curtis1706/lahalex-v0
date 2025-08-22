@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useRef, useCallback } from "react";
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import {
   ChevronDown,
   ChevronRight,
@@ -42,26 +43,73 @@ const getDocumentTypeLabel = (type: string) => {
   return typeLabels[type as keyof typeof typeLabels] || "Documents";
 };
 
-const getDocumentSource = (document: any) => {
-  // Déterminer la source basée sur la catégorie ou les propriétés du document
+const getDocumentSource = (document: any, currentPath?: string) => {
+  console.log('=== DEBUG getDocumentSource ==='); // Debug log
+  console.log('Full document object:', JSON.stringify(document, null, 2)); // Debug log
+  console.log('Current path:', currentPath); // Debug log
+
+  // 1. Vérifier le type du document (priorité absolue)
+  const docType = document.type || "";
+  console.log('Document type:', docType); // Debug log
+
+  if (docType === "ceeac" || docType === "cemac" || docType === "cedeao" || docType === "uemoa") {
+    console.log('Document type is regional organization - returning Source régionale');
+    return "Source régionale";
+  }
+
+  // 2. Vérifier la catégorie du document
   const category = document.category || document.document_type || "";
+  console.log('Document category:', category); // Debug log
 
   if (
-    category.includes("ohada") ||
-    category.includes("union-africaine") ||
-    category.includes("conventions-internationales")
-  ) {
-    return "Source internationale";
-  } else if (
     category.includes("cemac") ||
     category.includes("ceeac") ||
     category.includes("cedeao") ||
     category.includes("uemoa")
   ) {
+    console.log('Detected regional organization from category'); // Debug log
     return "Source régionale";
-  } else {
-    return "Source nationale";
+  } else if (
+    category.includes("ohada") ||
+    category.includes("union-africaine") ||
+    category.includes("conventions-internationales")
+  ) {
+    console.log('Detected international organization from category'); // Debug log
+    return "Source internationale";
   }
+
+  // 3. Vérifier l'URL actuelle pour déterminer la source
+  if (currentPath) {
+    if (currentPath.startsWith('/source-regional')) {
+      console.log('Detected source from URL: régionale'); // Debug log
+      return "Source régionale";
+    } else if (currentPath.startsWith('/source-international')) {
+      console.log('Detected source from URL: internationale'); // Debug log
+      return "Source internationale";
+    }
+  }
+
+  // 4. Vérifier la propriété source du document si elle existe
+  const source = document.source || "";
+  if (source) {
+    console.log('Source property found:', source); // Debug log
+    if (source.toLowerCase().includes('regional')) {
+      console.log('Detected source from document: régionale'); // Debug log
+      return "Source régionale";
+    } else if (source.toLowerCase().includes('international')) {
+      console.log('Detected source from document: internationale'); // Debug log
+      return "Source internationale";
+    } else if (source.toLowerCase().includes('national')) {
+      console.log('Detected source from document: nationale'); // Debug log
+      return "Source nationale";
+    }
+  } else {
+    console.log('No source property found in document'); // Debug log
+  }
+
+  // 5. Fallback par défaut
+  console.log('Using default fallback: nationale'); // Debug log
+  return "Source nationale";
 };
 
 export function DocumentReader({
@@ -83,6 +131,7 @@ export function DocumentReader({
   const sidebarMobileRef = useRef<HTMLDivElement>(null);
   const articleContentRef = useRef<HTMLDivElement>(null);
   const isMobile = useIsMobile();
+  const pathname = usePathname();
 
   // Auto-expand sections contenant l'article actuel
   useEffect(() => {
@@ -323,10 +372,14 @@ export function DocumentReader({
     );
   };
 
+  // Calcul de la source pour le fil d'ariane
+  const currentSource = getDocumentSource(document, pathname);
+  console.log('Final source for breadcrumb:', currentSource); // Debug log
+
   const breadcrumbItems = [
     { label: "Accueil", href: "/" },
     { label: "Textes", href: "/documents" },
-    { label: getDocumentSource(document), href: "/documents" },
+    { label: currentSource, href: "/documents" },
     {
       label: getDocumentTypeLabel(document.type),
       href: `/documents?type=${document.type}`,
