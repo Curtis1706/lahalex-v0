@@ -24,6 +24,7 @@ import { useIsMobile } from "@/hooks/use-mobile";
 import { LahalexHeaderResponsive } from "@/components/lahalex-header-responsive";
 import { LahalexBreadcrumbResponsive } from "@/components/lahalex-breadcrumb-responsive";
 import { Footer } from "@/components/footer";
+import { processMarkdownContent } from "@/lib/text-processor";
 
 interface DocumentReaderProps {
   document: any;
@@ -151,6 +152,7 @@ export function DocumentReader({
   const [isSearching, setIsSearching] = useState(false);
   const [unifiedMatches, setUnifiedMatches] = useState<UnifiedSearchMatch[]>([]);
   const [currentUnifiedIndex, setCurrentUnifiedIndex] = useState<number>(-1);
+  const [fullFicheContent, setFullFicheContent] = useState<string>("");
 
   const sidebarRef = useRef<HTMLDivElement>(null);
   const sidebarMobileRef = useRef<HTMLDivElement>(null);
@@ -158,6 +160,63 @@ export function DocumentReader({
   const isMobile = useIsMobile();
   const pathname = usePathname();
   const router = useRouter();
+
+  // Fonction pour charger tout le contenu d'une fiche de synthèse
+  const loadFullFicheContent = useCallback(async () => {
+    if (document.type === 'fiche-synthese' && allArticles && allArticles.length > 0) {
+      try {
+        // Trier les articles par ordre pour maintenir la structure logique
+        const sortedArticles = allArticles.sort((a, b) => {
+          const aOrder = a.metadata.order || 0;
+          const bOrder = b.metadata.order || 0;
+          return aOrder - bOrder;
+        });
+
+        // Construire le contenu complet
+        let fullContent = '';
+        
+        // Ajouter le titre principal du document
+        fullContent += `# ${document.title}\n\n`;
+        
+        // Ajouter la description
+        if (document.description) {
+          fullContent += `${document.description}\n\n`;
+        }
+
+        // Ajouter le contenu de chaque article dans l'ordre
+        for (const articleData of sortedArticles) {
+          if (articleData.metadata.title && articleData.content) {
+            // Ajouter le titre de la section
+            fullContent += `## ${articleData.metadata.title}\n\n`;
+            // Ajouter le contenu de la section
+            fullContent += `${articleData.content}\n\n`;
+          }
+        }
+
+        setFullFicheContent(fullContent);
+      } catch (error) {
+        console.error('Erreur lors du chargement du contenu complet:', error);
+        setFullFicheContent(processedContent); // Fallback au contenu de l'article actuel
+      }
+    }
+  }, [document.type, document.title, document.description, allArticles, processedContent]);
+
+  // Charger le contenu complet au montage du composant pour les fiches de synthèse
+  useEffect(() => {
+    if (document.type === 'fiche-synthese') {
+      loadFullFicheContent();
+    }
+  }, [document.type, loadFullFicheContent]);
+
+  // État pour le contenu traité complet
+  const [processedFullContent, setProcessedFullContent] = useState<string>("");
+
+  // Traiter le contenu complet quand il change
+  useEffect(() => {
+    if (document.type === 'fiche-synthese' && fullFicheContent) {
+      processMarkdownContent(fullFicheContent).then(setProcessedFullContent);
+    }
+  }, [document.type, fullFicheContent]);
 
   // Fonction pour la recherche globale depuis le header
   const handleSearchSubmit = async (query: string) => {
@@ -219,7 +278,10 @@ export function DocumentReader({
       setCurrentUnifiedIndex(-1);
       // Restaurer le contenu original
       if (articleContentRef.current) {
-        articleContentRef.current.innerHTML = processedContent;
+        const contentToRestore = document.type === 'fiche-synthese' && processedFullContent 
+          ? processedFullContent 
+          : processedContent;
+        articleContentRef.current.innerHTML = contentToRestore;
       }
       return;
     }
@@ -230,8 +292,13 @@ export function DocumentReader({
       const searchTerm = escapeRegex(documentSearch);
       const regex = new RegExp(`(${searchTerm})`, "gi");
       
-      // Rechercher dans l'article actuel
-      const currentArticleMatches = [...processedContent.matchAll(regex)];
+      // Déterminer le contenu à rechercher
+      const contentToSearch = document.type === 'fiche-synthese' && processedFullContent 
+        ? processedFullContent 
+        : processedContent;
+      
+      // Rechercher dans l'article actuel ou le contenu complet
+      const currentArticleMatches = [...contentToSearch.matchAll(regex)];
       
       // Rechercher dans tous les autres articles si disponibles
       let allSearchResults: SearchResult[] = [];
@@ -261,14 +328,14 @@ export function DocumentReader({
       // Créer la liste unifiée de toutes les correspondances
       let unifiedMatchesList: UnifiedSearchMatch[] = [];
       
-      // Ajouter les correspondances de l'article actuel
+      // Ajouter les correspondances de l'article actuel ou du contenu complet
       if (currentArticleMatches.length > 0) {
         // Créer une copie du contenu HTML pour le surlignage
-        let newHighlightedHtml = processedContent;
+        let newHighlightedHtml = contentToSearch;
         let matchCounter = 0;
         
         // Remplacer chaque correspondance par un élément span avec une classe spéciale
-        newHighlightedHtml = processedContent.replace(regex, (match) => {
+        newHighlightedHtml = contentToSearch.replace(regex, (match) => {
           const id = `search-match-${matchCounter++}`;
           return `<span id="${id}" class="search-highlight">${match}</span>`;
         });
@@ -341,7 +408,10 @@ export function DocumentReader({
         
         // Restaurer le contenu original
         if (articleContentRef.current) {
-          articleContentRef.current.innerHTML = processedContent;
+          const contentToRestore = document.type === 'fiche-synthese' && processedFullContent 
+            ? processedFullContent 
+            : processedContent;
+          articleContentRef.current.innerHTML = contentToRestore;
         }
       }
       
@@ -350,7 +420,7 @@ export function DocumentReader({
     } finally {
       setIsSearching(false);
     }
-  }, [documentSearch, processedContent, allArticles, article.metadata.id]);
+  }, [documentSearch, processedContent, processedFullContent, document.type, allArticles, article.metadata.id]);
 
 
 
@@ -424,7 +494,10 @@ export function DocumentReader({
       setCurrentMatchIndex(-1);
       // Restaurer le contenu original
       if (articleContentRef.current) {
-        articleContentRef.current.innerHTML = processedContent;
+        const contentToRestore = document.type === 'fiche-synthese' && processedFullContent 
+          ? processedFullContent 
+          : processedContent;
+        articleContentRef.current.innerHTML = contentToRestore;
       }
     } else {
       // Déclencher la recherche automatiquement quand l'utilisateur tape
@@ -583,43 +656,59 @@ export function DocumentReader({
       <LahalexBreadcrumbResponsive items={breadcrumbItems} />
 
       <div className="flex min-h-[calc(100vh-200px)]">
-        {/* Sidebar Gauche */}
-        <div
-          className="hidden lg:block w-80 border-r border-gray-200 flex flex-col h-[calc(100vh-200px)] overflow-y-auto"
-          style={{ backgroundColor: "#F8F3F4" }}
-        >
+        {/* Sidebar Gauche - Masquée pour les fiches de synthèse */}
+        {document.type !== 'fiche-synthese' && (
           <div
-            className="p-4 border-b border-gray-200 flex-shrink-0"
+            className="hidden lg:block w-80 border-r border-gray-200 flex flex-col h-[calc(100vh-200px)] overflow-y-auto"
             style={{ backgroundColor: "#F8F3F4" }}
           >
-            <h2 className="text-lg font-bold text-gray-900">
-              {getDocumentTypeLabel(document.type)}
-            </h2>
-          </div>
-
-          <ScrollArea className="flex-1 h-full" ref={sidebarRef}>
-            <div className="p-2 space-y-1">
-              {document.structure.sections
-                .filter((section: any) => section.level === 1)
-                .map((section: any) => renderSection(section))}
+            <div
+              className="p-4 border-b border-gray-200 flex-shrink-0"
+              style={{ backgroundColor: "#F8F3F4" }}
+            >
+              <h2 className="text-lg font-bold text-gray-900">
+                {getDocumentTypeLabel(document.type)}
+              </h2>
             </div>
-          </ScrollArea>
-        </div>
 
-        {/* Contenu Principal - Milieu */}
-        <div className="flex-1 min-w-0 overflow-y-auto h-[calc(100vh-200px)]">
+            <ScrollArea className="flex-1 h-full" ref={sidebarRef}>
+              <div className="p-2 space-y-1">
+                {document.structure.sections
+                  .filter((section: any) => section.level === 1)
+                  .map((section: any) => renderSection(section))}
+              </div>
+            </ScrollArea>
+          </div>
+        )}
+
+        {/* Contenu Principal - Milieu - Ajusté pour les fiches de synthèse */}
+        <div className={`flex-1 min-w-0 overflow-y-auto h-[calc(100vh-200px)] ${document.type === 'fiche-synthese' ? 'mx-auto' : ''}`}>
           <div
-            className="max-w-4xl mx-auto p-4 lg:p-8 bg-white"
+            className={`max-w-4xl mx-auto p-4 lg:p-8 bg-white ${document.type === 'fiche-synthese' ? 'max-w-6xl' : ''}`}
             style={{ backgroundColor: "#FFFFFF" }}
           >
-            <div className="mb-8">
-              <div className="text-sm text-gray-600 font-bold mb-6">
-                {document.description}
+            {/* En-tête simplifié pour les fiches de synthèse */}
+            {document.type === 'fiche-synthese' ? (
+              <div className="mb-8">
+                <h1 className="text-3xl font-bold text-gray-900 mb-6 text-center">
+                  {document.title}
+                </h1>
+                {document.description && (
+                  <div className="text-lg text-gray-600 mb-8 text-center max-w-4xl mx-auto leading-relaxed">
+                    {document.description}
+                  </div>
+                )}
               </div>
-              <h1 className="text-2xl font-bold text-gray-900 mb-6">
-                {article.metadata.title}
-              </h1>
-            </div>
+            ) : (
+              <div className="mb-8">
+                <div className="text-sm text-gray-600 font-bold mb-6">
+                  {document.description}
+                </div>
+                <h1 className="text-2xl font-bold text-gray-900 mb-6">
+                  {article.metadata.title}
+                </h1>
+              </div>
+            )}
 
             <article
               className="prose prose-lg max-w-none text-gray-900 leading-loose font-sans [&>*]:text-justify"
@@ -640,7 +729,11 @@ export function DocumentReader({
               <div
                 ref={articleContentRef}
                 className="overflow-auto"
-                dangerouslySetInnerHTML={{ __html: processedContent }}
+                dangerouslySetInnerHTML={{ 
+                  __html: document.type === 'fiche-synthese' && processedFullContent 
+                    ? processedFullContent 
+                    : processedContent 
+                }}
               />
               <style>
                 {`
@@ -805,8 +898,8 @@ export function DocumentReader({
           </div>
         </div>
 
-        {/* Mobile: Boutons flottants */}
-        {isMobile && (
+        {/* Mobile: Boutons flottants - Masqués pour les fiches de synthèse */}
+        {isMobile && document.type !== 'fiche-synthese' && (
           <>
             <Button
               variant="outline"

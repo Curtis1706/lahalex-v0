@@ -1,0 +1,1 @@
+3. Appliquer ce taux aux seuls revenus nationaux (base imposable réelle)

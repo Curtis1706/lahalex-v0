@@ -1,0 +1,14 @@
+{
+  "id": "fiche-19-erreurs-procdurales-",
+  "title": "Erreurs procédurales :",
+  "numero": "section-19",
+  "document": "fiche-double-imposition",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-18-erreurs-de-qualification-",
+    "next": "fiche-20-erreurs-de-calcul-"
+  }
+}

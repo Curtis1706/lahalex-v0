@@ -1,0 +1,14 @@
+{
+  "id": "fiche-17-chantier-de-courte-dure",
+  "title": "Chantier de courte durée",
+  "numero": "section-17",
+  "document": "fiche-etablissement-stable",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-16-mission-commerciale-ponctuelle",
+    "next": "fiche-18-simple-stockage-pour-tiers"
+  }
+}

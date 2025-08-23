@@ -1,0 +1,14 @@
+{
+  "id": "fiche-23-rang-et-concours-des-hypothques",
+  "title": "Rang et concours des hypothèques",
+  "numero": "section-23",
+  "document": "fiche-hypotheque-ohada",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-22-diffrence-avec-lhypothque-future-",
+    "next": "fiche-24-exemple-de-concours-"
+  }
+}

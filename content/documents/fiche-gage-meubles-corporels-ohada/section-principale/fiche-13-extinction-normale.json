@@ -1,0 +1,14 @@
+{
+  "id": "fiche-13-extinction-normale",
+  "title": "Extinction normale",
+  "numero": "section-13",
+  "document": "fiche-gage-meubles-corporels-ohada",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-12-ralisation-du-gage",
+    "next": "fiche-14-modes-de-ralisation"
+  }
+}

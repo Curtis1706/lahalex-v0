@@ -1,0 +1,14 @@
+{
+  "id": "fiche-18-exemples-didentification-",
+  "title": "Exemples d'identification :",
+  "numero": "section-18",
+  "document": "fiche-tribunal-arbitral-ohada",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-17-nature-juridique-et-identification-",
+    "next": "fiche-19-intervention-strictement-subsidiaire-"
+  }
+}

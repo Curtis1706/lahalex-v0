@@ -1,0 +1,14 @@
+{
+  "id": "fiche-26-cumul-possible-des-critres",
+  "title": "Cumul possible des critères",
+  "numero": "section-26",
+  "document": "fiche-etablissement-stable",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-25-approche-factuelle",
+    "next": "fiche-27-conventions-fiscales"
+  }
+}

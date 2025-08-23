@@ -1,0 +1,2 @@
+Pour que la CCJA soit compétente, il faut qu'existe un lien territorial avec l'espace OHADA selon l'une des modalités suivantes :
+Première modalité : critère personnel "L'une au moins des parties a son domicile ou sa résidence habituelle sur le territoire d'un État partie."

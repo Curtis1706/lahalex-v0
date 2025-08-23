@@ -1,0 +1,14 @@
+{
+  "id": "fiche-32-autonomie-juridique-non-consacre-",
+  "title": "Autonomie juridique non consacrée :",
+  "numero": "section-32",
+  "document": "fiche-arbitrage-ccja",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-31-diffrences-avec-le-droit-commun-",
+    "next": "fiche-33-consquences-pratiques-"
+  }
+}

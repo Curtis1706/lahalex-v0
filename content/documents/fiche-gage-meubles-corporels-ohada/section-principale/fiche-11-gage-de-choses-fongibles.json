@@ -1,0 +1,14 @@
+{
+  "id": "fiche-11-gage-de-choses-fongibles",
+  "title": "Gage de choses fongibles",
+  "numero": "section-11",
+  "document": "fiche-gage-meubles-corporels-ohada",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-10-perception-des-fruits",
+    "next": "fiche-12-ralisation-du-gage"
+  }
+}

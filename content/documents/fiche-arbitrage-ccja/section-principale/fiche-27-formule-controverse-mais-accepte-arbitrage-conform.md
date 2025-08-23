@@ -1,0 +1,1 @@
+Formule controversée mais acceptée : "Arbitrage conformément aux dispositions du Traité de l'OHADA" (référence générale au Traité)

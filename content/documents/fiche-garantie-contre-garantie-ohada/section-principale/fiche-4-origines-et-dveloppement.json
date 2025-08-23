@@ -1,0 +1,14 @@
+{
+  "id": "fiche-4-origines-et-dveloppement",
+  "title": "Origines et développement",
+  "numero": "section-4",
+  "document": "fiche-garantie-contre-garantie-ohada",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-3-le-caractre-autonome-et-ses-consquences",
+    "next": "fiche-5-le-mcanisme-de-contregarantie"
+  }
+}

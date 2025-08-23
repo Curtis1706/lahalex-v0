@@ -1,0 +1,2 @@
+Critère de permanence
+L'installation doit présenter un caractère fixe et durable. Il ne s'agit pas d'une présence temporaire ou occasionnelle, mais d'une implantation destinée à perdurer dans le temps.

@@ -1,0 +1,14 @@
+{
+  "id": "fiche-20-consquences-fiscales",
+  "title": "CONSÉQUENCES FISCALES",
+  "numero": "section-20",
+  "document": "fiche-etablissement-stable",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-19-participation-salon-professionnel",
+    "next": "fiche-21-imposition-limite-aux-bnfices-attribuables"
+  }
+}

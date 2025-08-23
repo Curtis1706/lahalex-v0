@@ -1,0 +1,14 @@
+{
+  "id": "fiche-14-modes-de-ralisation",
+  "title": "Modes de réalisation",
+  "numero": "section-14",
+  "document": "fiche-gage-meubles-corporels-ohada",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-13-extinction-normale",
+    "next": "fiche-15-conditions-du-pacte-commissoire-"
+  }
+}

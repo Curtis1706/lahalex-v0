@@ -1,0 +1,14 @@
+{
+  "id": "fiche-2-dfinition-et-nature-juridique",
+  "title": "Définition et nature juridique",
+  "numero": "section-2",
+  "document": "fiche-garantie-contre-garantie-ohada",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-1-la-garantie-et-contregarantie-autonomes-en-droit-o",
+    "next": "fiche-3-le-caractre-autonome-et-ses-consquences"
+  }
+}

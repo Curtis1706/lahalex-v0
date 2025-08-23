@@ -1,0 +1,14 @@
+{
+  "id": "fiche-5-le-mcanisme-de-contregarantie",
+  "title": "Le mécanisme de contre-garantie",
+  "numero": "section-5",
+  "document": "fiche-garantie-contre-garantie-ohada",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-4-origines-et-dveloppement",
+    "next": "fiche-6-conditions-dmission"
+  }
+}

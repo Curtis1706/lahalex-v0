@@ -1,0 +1,14 @@
+{
+  "id": "fiche-12-socit-de-conseil-internationale",
+  "title": "Société de conseil internationale",
+  "numero": "section-12",
+  "document": "fiche-etablissement-stable",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-11-une-socit-franaise-de-btp",
+    "next": "fiche-13-entreprise-minire-canadienne"
+  }
+}

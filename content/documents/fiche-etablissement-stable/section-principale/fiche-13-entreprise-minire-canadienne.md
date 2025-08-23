@@ -1,0 +1,2 @@
+Entreprise minière canadienne
+Une société canadienne exploite une mine d'or au Bénin avec installations permanentes et personnel local. Établissement stable évident par la nature même de l'activité extractive.

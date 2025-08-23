@@ -1,0 +1,14 @@
+{
+  "id": "fiche-17-personnes-physiques-",
+  "title": "Personnes physiques :",
+  "numero": "section-17",
+  "document": "fiche-arbitrage-ccja",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-16-applications-pratiques-du-critre-personnel-",
+    "next": "fiche-18-personnes-morales-"
+  }
+}

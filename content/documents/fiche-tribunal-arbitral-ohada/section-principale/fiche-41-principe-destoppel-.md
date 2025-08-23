@@ -1,0 +1,3 @@
+Principe d'estoppel :
+Une partie qui participe à la désignation d'un arbitre en connaissant les causes de récusation ne peut plus les invoquer ultérieurement (article 14 AU).
+Exemple d'estoppel : "Mining Corp" propose trois noms d'arbitres dont Maître Diallo. "Equipment Ltd" choisit Maître Diallo en sachant qu'il est l'ancien avocat de Mining Corp. Equipment Ltd ne peut plus invoquer cette cause de récusation.

@@ -1,0 +1,466 @@
+{
+  "id": "fiche-etablissement-stable",
+  "title": "Établissement stable",
+  "type": "fiche-synthese",
+  "description": "Fiche de synthèse sur la notion d’établissement stable : critères de définition, implications fiscales et juridiques en droit OHADA.",
+  "structure": {
+    "sections": [
+      {
+        "id": "section-principale",
+        "title": "Établissement stable",
+        "type": "section-synthese",
+        "level": 1,
+        "order": 0,
+        "path": [
+          "section-principale"
+        ],
+        "children": [
+          "fiche-1-dfinition-et-principe-gnral",
+          "fiche-2-critres-constitutifs-de-ltablissement-stable",
+          "fiche-3-critre-de-permanence",
+          "fiche-4-critre-dactivit-conomique",
+          "fiche-5-critre-de-rattachement-territorial",
+          "fiche-6-le-lgislateur-bninois-a-tabli-une-liste-prcise-des",
+          "fiche-7-cas-particuliers-avec-seuils-temporels",
+          "fiche-8-chantiers-de-construction-et-projets-de-montage",
+          "fiche-9-fourniture-de-services",
+          "fiche-10-exemples-dtablissements-stables",
+          "fiche-11-une-socit-franaise-de-btp",
+          "fiche-12-socit-de-conseil-internationale",
+          "fiche-13-entreprise-minire-canadienne",
+          "fiche-14-multinationale-avec-succursale",
+          "fiche-15-contreexemples-pas-dtablissement-stable",
+          "fiche-16-mission-commerciale-ponctuelle",
+          "fiche-17-chantier-de-courte-dure",
+          "fiche-18-simple-stockage-pour-tiers",
+          "fiche-19-participation-salon-professionnel",
+          "fiche-20-consquences-fiscales",
+          "fiche-21-imposition-limite-aux-bnfices-attribuables",
+          "fiche-22-obligation-dclarative",
+          "fiche-23-rgles-de-tva",
+          "fiche-24-choses-retenir",
+          "fiche-25-approche-factuelle",
+          "fiche-26-cumul-possible-des-critres",
+          "fiche-27-conventions-fiscales",
+          "fiche-28-piges-viter",
+          "fiche-29-confusion-avec-la-notion-de-rsidence",
+          "fiche-30-sousestimation-des-seuils-temporels",
+          "fiche-31-ngligence-des-activits-auxiliaires",
+          "fiche-32-mconnaissance-des-volutions-jurisprudentielles",
+          "fiche-33-ignorance-des-consquences-en-chane",
+          "fiche-34-mauvaise-apprciation-du-caractre-temporaire"
+        ]
+      },
+      {
+        "id": "fiche-1-dfinition-et-principe-gnral",
+        "title": "DÉFINITION ET PRINCIPE GÉNÉRAL",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 1,
+        "path": [
+          "section-principale",
+          "fiche-1-dfinition-et-principe-gnral"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-2-critres-constitutifs-de-ltablissement-stable",
+        "title": "CRITÈRES CONSTITUTIFS DE L'ÉTABLISSEMENT STABLE",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 2,
+        "path": [
+          "section-principale",
+          "fiche-2-critres-constitutifs-de-ltablissement-stable"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-3-critre-de-permanence",
+        "title": "Critère de permanence",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 3,
+        "path": [
+          "section-principale",
+          "fiche-3-critre-de-permanence"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-4-critre-dactivit-conomique",
+        "title": "Critère d'activité économique",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 4,
+        "path": [
+          "section-principale",
+          "fiche-4-critre-dactivit-conomique"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-5-critre-de-rattachement-territorial",
+        "title": "Critère de rattachement territorial",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 5,
+        "path": [
+          "section-principale",
+          "fiche-5-critre-de-rattachement-territorial"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-6-le-lgislateur-bninois-a-tabli-une-liste-prcise-des",
+        "title": "Le législateur béninois a établi une liste précise des installations considérées comme établissements stables :",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 6,
+        "path": [
+          "section-principale",
+          "fiche-6-le-lgislateur-bninois-a-tabli-une-liste-prcise-des"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-7-cas-particuliers-avec-seuils-temporels",
+        "title": "CAS PARTICULIERS AVEC SEUILS TEMPORELS",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 7,
+        "path": [
+          "section-principale",
+          "fiche-7-cas-particuliers-avec-seuils-temporels"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-8-chantiers-de-construction-et-projets-de-montage",
+        "title": "Chantiers de construction et projets de montage",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 8,
+        "path": [
+          "section-principale",
+          "fiche-8-chantiers-de-construction-et-projets-de-montage"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-9-fourniture-de-services",
+        "title": "Fourniture de services",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 9,
+        "path": [
+          "section-principale",
+          "fiche-9-fourniture-de-services"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-10-exemples-dtablissements-stables",
+        "title": "EXEMPLES D'ÉTABLISSEMENTS STABLES",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 10,
+        "path": [
+          "section-principale",
+          "fiche-10-exemples-dtablissements-stables"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-11-une-socit-franaise-de-btp",
+        "title": "Une société française de BTP",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 11,
+        "path": [
+          "section-principale",
+          "fiche-11-une-socit-franaise-de-btp"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-12-socit-de-conseil-internationale",
+        "title": "Société de conseil internationale",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 12,
+        "path": [
+          "section-principale",
+          "fiche-12-socit-de-conseil-internationale"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-13-entreprise-minire-canadienne",
+        "title": "Entreprise minière canadienne",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 13,
+        "path": [
+          "section-principale",
+          "fiche-13-entreprise-minire-canadienne"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-14-multinationale-avec-succursale",
+        "title": "Multinationale avec succursale",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 14,
+        "path": [
+          "section-principale",
+          "fiche-14-multinationale-avec-succursale"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-15-contreexemples-pas-dtablissement-stable",
+        "title": "CONTRE-EXEMPLES (PAS D'ÉTABLISSEMENT STABLE)",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 15,
+        "path": [
+          "section-principale",
+          "fiche-15-contreexemples-pas-dtablissement-stable"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-16-mission-commerciale-ponctuelle",
+        "title": "Mission commerciale ponctuelle",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 16,
+        "path": [
+          "section-principale",
+          "fiche-16-mission-commerciale-ponctuelle"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-17-chantier-de-courte-dure",
+        "title": "Chantier de courte durée",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 17,
+        "path": [
+          "section-principale",
+          "fiche-17-chantier-de-courte-dure"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-18-simple-stockage-pour-tiers",
+        "title": "Simple stockage pour tiers",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 18,
+        "path": [
+          "section-principale",
+          "fiche-18-simple-stockage-pour-tiers"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-19-participation-salon-professionnel",
+        "title": "Participation à salon professionnel",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 19,
+        "path": [
+          "section-principale",
+          "fiche-19-participation-salon-professionnel"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-20-consquences-fiscales",
+        "title": "CONSÉQUENCES FISCALES",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 20,
+        "path": [
+          "section-principale",
+          "fiche-20-consquences-fiscales"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-21-imposition-limite-aux-bnfices-attribuables",
+        "title": "Imposition limitée aux bénéfices attribuables",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 21,
+        "path": [
+          "section-principale",
+          "fiche-21-imposition-limite-aux-bnfices-attribuables"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-22-obligation-dclarative",
+        "title": "Obligation déclarative",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 22,
+        "path": [
+          "section-principale",
+          "fiche-22-obligation-dclarative"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-23-rgles-de-tva",
+        "title": "Règles de TVA",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 23,
+        "path": [
+          "section-principale",
+          "fiche-23-rgles-de-tva"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-24-choses-retenir",
+        "title": "CHOSES À RETENIR",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 24,
+        "path": [
+          "section-principale",
+          "fiche-24-choses-retenir"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-25-approche-factuelle",
+        "title": "Approche factuelle",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 25,
+        "path": [
+          "section-principale",
+          "fiche-25-approche-factuelle"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-26-cumul-possible-des-critres",
+        "title": "Cumul possible des critères",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 26,
+        "path": [
+          "section-principale",
+          "fiche-26-cumul-possible-des-critres"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-27-conventions-fiscales",
+        "title": "Conventions fiscales",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 27,
+        "path": [
+          "section-principale",
+          "fiche-27-conventions-fiscales"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-28-piges-viter",
+        "title": "PIÈGES À ÉVITER",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 28,
+        "path": [
+          "section-principale",
+          "fiche-28-piges-viter"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-29-confusion-avec-la-notion-de-rsidence",
+        "title": "Confusion avec la notion de résidence",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 29,
+        "path": [
+          "section-principale",
+          "fiche-29-confusion-avec-la-notion-de-rsidence"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-30-sousestimation-des-seuils-temporels",
+        "title": "Sous-estimation des seuils temporels",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 30,
+        "path": [
+          "section-principale",
+          "fiche-30-sousestimation-des-seuils-temporels"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-31-ngligence-des-activits-auxiliaires",
+        "title": "Négligence des activités auxiliaires",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 31,
+        "path": [
+          "section-principale",
+          "fiche-31-ngligence-des-activits-auxiliaires"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-32-mconnaissance-des-volutions-jurisprudentielles",
+        "title": "Méconnaissance des évolutions jurisprudentielles",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 32,
+        "path": [
+          "section-principale",
+          "fiche-32-mconnaissance-des-volutions-jurisprudentielles"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-33-ignorance-des-consquences-en-chane",
+        "title": "Ignorance des conséquences en chaîne",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 33,
+        "path": [
+          "section-principale",
+          "fiche-33-ignorance-des-consquences-en-chane"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-34-mauvaise-apprciation-du-caractre-temporaire",
+        "title": "Mauvaise appréciation du caractère temporaire",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 34,
+        "path": [
+          "section-principale",
+          "fiche-34-mauvaise-apprciation-du-caractre-temporaire"
+        ],
+        "children": []
+      }
+    ],
+    "totalArticles": 34
+  },
+  "source": "autre"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fiche-9-inconvnients-",
+  "title": "Inconvénients :",
+  "numero": "section-9",
+  "document": "fiche-double-imposition",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-8-avantages-",
+    "next": "fiche-10-variantes-de-la-mthode-dimputation-"
+  }
+}

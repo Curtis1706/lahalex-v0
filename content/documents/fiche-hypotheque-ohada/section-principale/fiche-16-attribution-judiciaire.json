@@ -1,0 +1,14 @@
+{
+  "id": "fiche-16-attribution-judiciaire",
+  "title": "Attribution judiciaire",
+  "numero": "section-16",
+  "document": "fiche-hypotheque-ohada",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-15-saisie-immobilire",
+    "next": "fiche-17-pacte-commissoire-attribution-conventionnelle"
+  }
+}

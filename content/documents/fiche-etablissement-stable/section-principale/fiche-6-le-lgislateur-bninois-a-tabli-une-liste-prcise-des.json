@@ -1,0 +1,14 @@
+{
+  "id": "fiche-6-le-lgislateur-bninois-a-tabli-une-liste-prcise-des",
+  "title": "Le législateur béninois a établi une liste précise des installations considérées comme établissements stables :",
+  "numero": "section-6",
+  "document": "fiche-etablissement-stable",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-5-critre-de-rattachement-territorial",
+    "next": "fiche-7-cas-particuliers-avec-seuils-temporels"
+  }
+}

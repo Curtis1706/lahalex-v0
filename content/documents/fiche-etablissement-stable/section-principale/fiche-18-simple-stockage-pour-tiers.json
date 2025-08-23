@@ -1,0 +1,14 @@
+{
+  "id": "fiche-18-simple-stockage-pour-tiers",
+  "title": "Simple stockage pour tiers",
+  "numero": "section-18",
+  "document": "fiche-etablissement-stable",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-17-chantier-de-courte-dure",
+    "next": "fiche-19-participation-salon-professionnel"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fiche-10-procdures-collectives-",
+  "title": "Procédures collectives :",
+  "numero": "section-10",
+  "document": "fiche-hypotheque-ohada",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-9-conditions-de-capacit-et-pouvoir",
+    "next": "fiche-11-formation-du-contrat"
+  }
+}

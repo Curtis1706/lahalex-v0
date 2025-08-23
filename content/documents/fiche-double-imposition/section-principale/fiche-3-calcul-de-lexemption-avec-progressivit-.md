@@ -1,0 +1,1 @@
+Calcul de l'exemption avec progressivité :

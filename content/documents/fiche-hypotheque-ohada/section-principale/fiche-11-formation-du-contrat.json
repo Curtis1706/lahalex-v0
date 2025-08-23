@@ -1,0 +1,14 @@
+{
+  "id": "fiche-11-formation-du-contrat",
+  "title": "Formation du contrat",
+  "numero": "section-11",
+  "document": "fiche-hypotheque-ohada",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-10-procdures-collectives-",
+    "next": "fiche-12-exigence-dcrit-lhypothque-doit-tre-tablie-par-acte"
+  }
+}

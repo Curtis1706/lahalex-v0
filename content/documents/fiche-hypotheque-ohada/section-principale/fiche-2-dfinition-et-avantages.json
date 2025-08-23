@@ -1,0 +1,14 @@
+{
+  "id": "fiche-2-dfinition-et-avantages",
+  "title": "Définition et avantages",
+  "numero": "section-2",
+  "document": "fiche-hypotheque-ohada",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-1-lhypothque-en-droit-ohada",
+    "next": "fiche-3-cette-sret-relle-immobilire-prsente-des-avantages-"
+  }
+}

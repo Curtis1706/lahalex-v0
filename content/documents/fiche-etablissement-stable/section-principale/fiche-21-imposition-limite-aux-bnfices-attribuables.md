@@ -1,0 +1,2 @@
+Imposition limitée aux bénéfices attribuables
+Selon l'article 5 du CGI, les bénéfices imposables au Bénin se limitent à ceux imputables à l'établissement stable, aux ventes de marchandises similaires ou aux activités analogues exercées au Bénin.

@@ -1,0 +1,14 @@
+{
+  "id": "fiche-21-hypothque-rechargeable",
+  "title": "Hypothèque rechargeable",
+  "numero": "section-21",
+  "document": "fiche-hypotheque-ohada",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-20-hypothque-en-garantie-de-crances-futures",
+    "next": "fiche-22-diffrence-avec-lhypothque-future-"
+  }
+}

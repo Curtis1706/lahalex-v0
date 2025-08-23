@@ -1,0 +1,13 @@
+{
+  "id": "fiche-21-piges-conventionnels-",
+  "title": "Pièges conventionnels :",
+  "numero": "section-21",
+  "document": "fiche-double-imposition",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-20-erreurs-de-calcul-"
+  }
+}

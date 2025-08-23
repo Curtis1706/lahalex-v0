@@ -1,0 +1,14 @@
+{
+  "id": "fiche-25-approche-factuelle",
+  "title": "Approche factuelle",
+  "numero": "section-25",
+  "document": "fiche-etablissement-stable",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-24-choses-retenir",
+    "next": "fiche-26-cumul-possible-des-critres"
+  }
+}

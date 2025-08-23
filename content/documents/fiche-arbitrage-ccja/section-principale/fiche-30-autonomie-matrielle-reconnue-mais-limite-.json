@@ -1,0 +1,14 @@
+{
+  "id": "fiche-30-autonomie-matrielle-reconnue-mais-limite-",
+  "title": "Autonomie matérielle reconnue mais limitée :",
+  "numero": "section-30",
+  "document": "fiche-arbitrage-ccja",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-29-rgles-de-fond-spcifiques-larbitrage-ccja",
+    "next": "fiche-31-diffrences-avec-le-droit-commun-"
+  }
+}

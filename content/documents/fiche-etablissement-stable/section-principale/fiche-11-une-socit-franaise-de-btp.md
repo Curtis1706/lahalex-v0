@@ -1,0 +1,2 @@
+Une société française de BTP
+Une entreprise française obtient un marché de construction d'un pont au Bénin. Le chantier dure 8 mois avec du personnel permanent sur place. Établissement stable constitué car la durée dépasse 3 mois.

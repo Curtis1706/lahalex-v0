@@ -1,0 +1,14 @@
+{
+  "id": "fiche-10-perception-des-fruits",
+  "title": "Perception des fruits",
+  "numero": "section-10",
+  "document": "fiche-gage-meubles-corporels-ohada",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-9-obligations-de-conservation",
+    "next": "fiche-11-gage-de-choses-fongibles"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fiche-2-modalits-dapplication-",
+  "title": "Modalités d'application :",
+  "numero": "section-2",
+  "document": "fiche-double-imposition",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-1-principes-dlimination-de-la-double-imposition",
+    "next": "fiche-3-calcul-de-lexemption-avec-progressivit-"
+  }
+}

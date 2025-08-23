@@ -1,0 +1,13 @@
+{
+  "id": "fiche-1-lhypothque-en-droit-ohada",
+  "title": "L'HYPOTHÈQUE EN DROIT OHADA",
+  "numero": "section-1",
+  "document": "fiche-hypotheque-ohada",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "next": "fiche-2-dfinition-et-avantages"
+  }
+}
