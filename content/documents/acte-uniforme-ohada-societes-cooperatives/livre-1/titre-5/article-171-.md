@@ -1,0 +1,1 @@
+La décision de transformation met fin aux pouvoirs des organes d’administration ou de gestion de la société coopérative transformée.

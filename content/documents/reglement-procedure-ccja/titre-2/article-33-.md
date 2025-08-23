@@ -1,0 +1,1 @@
+La Cour peut   tout moment pour cause de connexité, ordonner la jonction de plusieurs affaires aux fins de la procédure écrite ou orale ou de l’arrŒt qui met fin   l’instance.  Elle peut les disjoindre   nouveau.

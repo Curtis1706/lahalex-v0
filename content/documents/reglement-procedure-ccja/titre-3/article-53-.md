@@ -1,0 +1,1 @@
+Dans l’exercice des fonctions consultatives que lui confie le deuxième alinéa de l’article 14 du traité, la Cour applique les dispositions ci-après. Elle applique également, dans la mesure oé elle le juge convenable, les autres dispositions du présent Règlement.

@@ -1,0 +1,1 @@
+Les statuts organisent l’élection des membres du conseil de surveillance et détermi- nent la durée de leur mandat.

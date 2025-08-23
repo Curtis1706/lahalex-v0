@@ -1,0 +1,5 @@
+La Cour Commune de Justice et d’Arbitrage assure dans les Etats Parties l’interprétation et l’application communes du présent Traité, des rŁglements pris pour son application et des actes uniformes.
+La Cour peut Œtre consultée par tout Etat Partie ou par le Conseil des ministres sur toute question entrant dans le champ de l’alinéa précédent. La mŒme faculté de solliciter l’avis consultatif de la Cour est reconnue aux juridictions nationales saisies en application de l’article 13 ci-dessus.
+Saisie par la voie du recours en cassation, la Cour se prononce sur les décisions rendues par les juridictions d’Appel des Etats Parties dans toutes les affaires soulevant des questions relatives l’application des actes uniformes et des rŁglements prévus au présent Traité l’exception des décisions appliquant des sanctions pénales.
+Elle se prononce dans les mŒmes conditions sur les décisions non susceptibles d’appel rendues par toute juridiction des Etats Parties dans les mŒmes contentieux.
+En cas de cassation, elle évoque et statue sur le fond.

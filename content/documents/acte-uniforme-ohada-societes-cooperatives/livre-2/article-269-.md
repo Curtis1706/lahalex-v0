@@ -1,0 +1,1 @@
+Le capital de la société coopérative avec conseil d’administration doit être entière- ment souscrit avant la tenue de l’assemblée générale constitutive.

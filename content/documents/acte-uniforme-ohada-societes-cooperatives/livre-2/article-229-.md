@@ -1,0 +1,1 @@
+Le président du comité de gestion préside les réunions du comité de gestion et cel- les de l’assemblée générale. En cas d’empêchement, l’assemblée générale est présidée par l’un des membres du comité de gestion.

@@ -1,0 +1,1 @@
+Les parts sociales sont insaisissables. Elles ne peuvent faire l’objet de nantissement.

@@ -1,0 +1,4 @@
+Les responsables des Organes et des Institutions Spécialisées de l’Union Monétaire assistent aux réunions du Comité Ministériel avec voix consultative.
+Le Président de la Commission de la CEMAC assiste aux réunions avec voix consultative.
+Lors des réunions du Comité Ministériel, chaque responsable des Organes ou Institutions Spécialisées de l’Union Monétaire rapporte les affaires inscrites à l’ordre du jour concernant son Organe ou son Institution.
+Les frais de fonctionnement du Comité Ministériel de l’UMAC sont à la charge des Organes et / ou des Institutions Spécialisées de l’Union, dans les conditions définies par le Règlement intérieur du Comité Ministériel.

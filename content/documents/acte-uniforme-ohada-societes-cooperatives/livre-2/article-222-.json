@@ -1,0 +1,14 @@
+{
+  "id": "article-222-",
+  "title": "Article 222 :",
+  "numero": "222 ",
+  "document": "acte-uniforme-ohada-societes-cooperatives",
+  "path": [
+    "livre-2"
+  ],
+  "navigation": {
+    "parent": "livre-2",
+    "previous": "article-221-",
+    "next": "article-223-"
+  }
+}

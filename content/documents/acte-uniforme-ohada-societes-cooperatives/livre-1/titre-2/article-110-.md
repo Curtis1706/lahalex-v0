@@ -1,0 +1,2 @@
+Les états financiers de synthèse annuels et le rapport de gestion sont présentés à l’assemblée générale ordinaire de la société coopérative statuant sur ces documents, qui doit obligatoirement se tenir dans les six mois de la clôture de l’exercice.
+Ces états financiers de synthèse sont, le cas échéant, également adressés à l’organisation faî- tière immédiate à laquelle est affiliée la société coopérative, quarante-cinq jours au moins avant la date de l’assemblée générale ordinaire.

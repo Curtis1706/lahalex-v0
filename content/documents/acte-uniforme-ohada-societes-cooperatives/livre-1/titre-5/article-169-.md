@@ -1,0 +1,2 @@
+La transformation prend effet à compter du jour où la décision la constatant est pri- se. Cependant, elle ne devient opposable aux personnes autres que les coopérateurs qu’après inscription modificative dans le Registre des Sociétés Coopératives et publication de cette transformation et de cette inscription aux lieux officiels d’affichage de la circonscription ad- ministrative du siège social.
+La transformation ne peut avoir d’effet rétroactif.

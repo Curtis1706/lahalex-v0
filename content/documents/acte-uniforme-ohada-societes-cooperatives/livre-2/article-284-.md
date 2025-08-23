@@ -1,0 +1,2 @@
+Chaque apport en nature fait l’objet d’un vote spécial de l’assemblée générale.
+50’assemblée générale approuve ou désapprouve le rapport du commissaire aux apports ou de la société coopérative faîtière sur l’évaluation des apports en nature. 50’apporteur en nature ne participe pas au vote.

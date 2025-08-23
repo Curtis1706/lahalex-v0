@@ -1,0 +1,2 @@
+Le siège de la Cour des Comptes est fixé par la Conférence des Chefs d’Etat.
+La Cour des Comptes peut, toutefois, en cas de nécessité impérieuse, siéger et exercer ses fonctions en tout autre lieu du territoire abritant le siège ou dans celui de tout Etat membre de la CEMAC.

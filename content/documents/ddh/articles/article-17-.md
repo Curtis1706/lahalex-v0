@@ -1,0 +1,2 @@
+1. Toute personne, aussi bien seule qu'en collectivité, a droit à la propriété.
+2. Nul ne peut être arbitrairement privé de sa propriété

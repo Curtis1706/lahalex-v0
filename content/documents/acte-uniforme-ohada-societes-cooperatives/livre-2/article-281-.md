@@ -1,0 +1,1 @@
+50’assemblée générale constitutive ne délibère valablement que si les deux tiers au moins des membres initiateurs sont présents.

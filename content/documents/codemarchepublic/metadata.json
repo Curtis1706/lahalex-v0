@@ -9,7 +9,7 @@
         "id": "titre-1",
         "title": "TITRE 1 : DISPOSITIONS GENERALES",
         "type": "titre",
-        "level": 2,
+        "level": 1,
         "order": 0,
         "path": [
           "titre-1"
@@ -24,7 +24,7 @@
         "id": "chapitre-1",
         "title": "CHAPITRE 1 : DEFINITIONS",
         "type": "chapitre",
-        "level": 3,
+        "level": 2,
         "order": 1,
         "path": [
           "titre-1",
@@ -38,11 +38,11 @@
         "id": "article-1-",
         "title": "Article 1 : Définitions",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 2,
         "path": [
-          "titre-1",
-          "chapitre-1"
+          "chapitre-1",
+          "article-1-"
         ],
         "children": []
       },
@@ -50,7 +50,7 @@
         "id": "chapitre-2",
         "title": "CHAPITRE 2 : OBJET ET CHAMP D'APPLICATION",
         "type": "chapitre",
-        "level": 3,
+        "level": 2,
         "order": 3,
         "path": [
           "titre-1",
@@ -68,11 +68,11 @@
         "id": "article-2-",
         "title": "Article 2 : Objet",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 4,
         "path": [
-          "titre-1",
-          "chapitre-2"
+          "chapitre-2",
+          "article-2-"
         ],
         "children": []
       },
@@ -80,11 +80,11 @@
         "id": "article-3-",
         "title": "Article 3 : Personnes et opérations assujetties",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 5,
         "path": [
-          "titre-1",
-          "chapitre-2"
+          "chapitre-2",
+          "article-3-"
         ],
         "children": []
       },
@@ -92,11 +92,11 @@
         "id": "article-4-",
         "title": "Article 4 : Application aux marchés sur financements extérieurs",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 6,
         "path": [
-          "titre-1",
-          "chapitre-2"
+          "chapitre-2",
+          "article-4-"
         ],
         "children": []
       },
@@ -104,11 +104,11 @@
         "id": "article-5-",
         "title": "Article 5 : Catégorisation des procédures applicables aux marchés",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 7,
         "path": [
-          "titre-1",
-          "chapitre-2"
+          "chapitre-2",
+          "article-5-"
         ],
         "children": []
       },
@@ -116,11 +116,11 @@
         "id": "article-6-",
         "title": "Article 6 : Exclusions",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 8,
         "path": [
-          "titre-1",
-          "chapitre-2"
+          "chapitre-2",
+          "article-6-"
         ],
         "children": []
       },
@@ -128,7 +128,7 @@
         "id": "chapitre-3",
         "title": "CHAPITRE 3 : PRINCIPES GENERAUX",
         "type": "chapitre",
-        "level": 3,
+        "level": 2,
         "order": 9,
         "path": [
           "titre-1",
@@ -144,11 +144,11 @@
         "id": "article-7-",
         "title": "Article 7 : Principes fondamentaux",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 10,
         "path": [
-          "titre-1",
-          "chapitre-3"
+          "chapitre-3",
+          "article-7-"
         ],
         "children": []
       },
@@ -156,11 +156,11 @@
         "id": "article-8-",
         "title": "Article 8 : Conditions de la validité des marchés",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 11,
         "path": [
-          "titre-1",
-          "chapitre-3"
+          "chapitre-3",
+          "article-8-"
         ],
         "children": []
       },
@@ -168,11 +168,11 @@
         "id": "article-9-",
         "title": "Article 9 : Principes de séparation des fonctions",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 12,
         "path": [
-          "titre-1",
-          "chapitre-3"
+          "chapitre-3",
+          "article-9-"
         ],
         "children": []
       },
@@ -180,7 +180,7 @@
         "id": "titre-2",
         "title": "TITRE 2 : CADRE INSTITUTIONNEL",
         "type": "titre",
-        "level": 2,
+        "level": 1,
         "order": 13,
         "path": [
           "titre-2"
@@ -204,7 +204,7 @@
         "id": "article-10-",
         "title": "Article 10 : Personne responsable des marchés publics",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 15,
         "path": [
           "titre-2"
@@ -215,7 +215,7 @@
         "id": "article-11-",
         "title": "Article 11 : Modalités de nomination de la personne responsable des",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 16,
         "path": [
           "titre-2"
@@ -226,7 +226,7 @@
         "id": "article-12-",
         "title": "Article 12 : Commission d'ouverture et d'évaluation (COE)",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 17,
         "path": [
           "titre-2"
@@ -237,7 +237,7 @@
         "id": "article-13-",
         "title": "Article 13 : Délais impartis aux organes de passation",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 18,
         "path": [
           "titre-2"
@@ -248,7 +248,7 @@
         "id": "article-14-",
         "title": "Article 14 : Direction nationale de contrôle des marchés publics",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 20,
         "path": [
           "titre-2"
@@ -259,7 +259,7 @@
         "id": "article-15-",
         "title": "Article 15 : Cellule de contrôle des marchés publics",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 21,
         "path": [
           "titre-2"
@@ -270,7 +270,7 @@
         "id": "article-16-",
         "title": "Article 16 : Délais impartis aux organes de contrôle des marchés",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 22,
         "path": [
           "titre-2"
@@ -281,7 +281,7 @@
         "id": "article-17-",
         "title": "Article 17 : Mission et statut de l'Autorité de régulation des marchés",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 24,
         "path": [
           "titre-2"
@@ -292,7 +292,7 @@
         "id": "article-18-",
         "title": "Article 18 : Composition de l'Autorité de régulation des marchés",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 25,
         "path": [
           "titre-2"
@@ -303,7 +303,7 @@
         "id": "article-19",
         "title": "Article 19: Recours contre les décisions de l'Autorité de régulation",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 26,
         "path": [
           "titre-2"
@@ -314,7 +314,7 @@
         "id": "article-20-",
         "title": "Article 20 : Organisation et fonctionnement de l'Autorité de",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 27,
         "path": [
           "titre-2"
@@ -325,7 +325,7 @@
         "id": "chapitre-4",
         "title": "CHAPITRE 4 : AUTORITES CHARGEES DE LA SIGNATURE ET DE L'APPROBATION DES MARCHES PUBLICS",
         "type": "chapitre",
-        "level": 3,
+        "level": 2,
         "order": 28,
         "path": [
           "titre-2",
@@ -340,11 +340,11 @@
         "id": "article-21-",
         "title": "Article 21 : Autorité signataire",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 29,
         "path": [
-          "titre-2",
-          "chapitre-4"
+          "chapitre-4",
+          "article-21-"
         ],
         "children": []
       },
@@ -352,11 +352,11 @@
         "id": "article-22-",
         "title": "Article 22 : Autorité approbatrice",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 30,
         "path": [
-          "titre-2",
-          "chapitre-4"
+          "chapitre-4",
+          "article-22-"
         ],
         "children": []
       },
@@ -364,7 +364,7 @@
         "id": "titre-3",
         "title": "TITRE 3 : PROCEDURES DE PASSATION DES MARCHES PUBLICS",
         "type": "titre",
-        "level": 2,
+        "level": 1,
         "order": 31,
         "path": [
           "titre-3"
@@ -405,7 +405,7 @@
         "id": "article-23-",
         "title": "Article 23 : Détermination des besoins à satisfaire",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 33,
         "path": [
           "titre-3"
@@ -416,7 +416,7 @@
         "id": "article-24-",
         "title": "Article 24 : Plan de passation des marchés publics",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 34,
         "path": [
           "titre-3"
@@ -427,7 +427,7 @@
         "id": "article-25-",
         "title": "Article 25 : Avis général de passation de marchés",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 35,
         "path": [
           "titre-3"
@@ -438,7 +438,7 @@
         "id": "article-26-",
         "title": "Article 26 : Conformité des procédures au plan de passation",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 36,
         "path": [
           "titre-3"
@@ -449,7 +449,7 @@
         "id": "article-27-",
         "title": "Article 27 : Allotissement",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 37,
         "path": [
           "titre-3"
@@ -460,7 +460,7 @@
         "id": "article-28-",
         "title": "Article 28 : Appel d'offres",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 39,
         "path": [
           "titre-3"
@@ -471,7 +471,7 @@
         "id": "article-29-",
         "title": "Article 29 : Appel d'offres ouvert",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 40,
         "path": [
           "titre-3"
@@ -482,7 +482,7 @@
         "id": "article-30-",
         "title": "Article 30 : Appel d'offres ouvert précédé de pré qualification",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 41,
         "path": [
           "titre-3"
@@ -493,7 +493,7 @@
         "id": "article-31-",
         "title": "Article 31 : Appel d'offres ouvert en deux étapes",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 42,
         "path": [
           "titre-3"
@@ -504,7 +504,7 @@
         "id": "article-32-",
         "title": "Article 32 : Appel d'offres avec concours",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 43,
         "path": [
           "titre-3"
@@ -515,7 +515,7 @@
         "id": "article-33-",
         "title": "Article 33 : Appel d'offres restreint",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 44,
         "path": [
           "titre-3"
@@ -526,7 +526,7 @@
         "id": "article-34-",
         "title": "Article 34 : Entente directe ou gré à gré",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 45,
         "path": [
           "titre-3"
@@ -537,7 +537,7 @@
         "id": "article-35-",
         "title": "Article 35 : Autres règles spécifiques au gré à gré",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 46,
         "path": [
           "titre-3"
@@ -548,7 +548,7 @@
         "id": "article-36-",
         "title": "Article 36 : Procédure spécifique des prestations intellectuelles",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 48,
         "path": [
           "titre-3"
@@ -559,7 +559,7 @@
         "id": "article-37-",
         "title": "Article 37 : Méthodes de sélection des consultants",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 49,
         "path": [
           "titre-3"
@@ -570,7 +570,7 @@
         "id": "article-38-",
         "title": "Article 38 : Négociation des marchés de prestations intellectuelles",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 50,
         "path": [
           "titre-3"
@@ -581,7 +581,7 @@
         "id": "article-39-",
         "title": "Article 39 : Groupement de commandes",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 52,
         "path": [
           "titre-3"
@@ -592,7 +592,7 @@
         "id": "article-40-",
         "title": "Article 40 : Accordcadre, principe et condition de validité",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 53,
         "path": [
           "titre-3"
@@ -603,7 +603,7 @@
         "id": "article-41-",
         "title": "Article 41 : Mise en œuvre de l'accordcadre",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 54,
         "path": [
           "titre-3"
@@ -614,7 +614,7 @@
         "id": "article-42-",
         "title": "Article 42 : Enchère électronique, principes et conditions de",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 55,
         "path": [
           "titre-3"
@@ -625,7 +625,7 @@
         "id": "article-43-",
         "title": "Article 43 : Mise en œuvre de l'enchère électronique",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 56,
         "path": [
           "titre-3"
@@ -636,7 +636,7 @@
         "id": "article-44-",
         "title": "Article 44 : Modalités de clôture de l'enchère électronique",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 57,
         "path": [
           "titre-3"
@@ -647,7 +647,7 @@
         "id": "article-45-",
         "title": "Article 45 : Centrale d'achat",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 58,
         "path": [
           "titre-3"
@@ -658,7 +658,7 @@
         "id": "chapitre-5",
         "title": "CHAPITRE 5 : CONTENU DU DOSSIER D'APPEL A CONCURRENCE, AVIS D'APPEL A CONCURRENCE, REGLEMENT PARTICULIER D'APPEL A CONCURRENCE, NORMES ET AGREMENTS TECHNIQUES",
         "type": "chapitre",
-        "level": 3,
+        "level": 2,
         "order": 59,
         "path": [
           "titre-3",
@@ -678,11 +678,11 @@
         "id": "article-46-",
         "title": "Article 46 : Contenu des dossiers types d'appel à concurrence",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 60,
         "path": [
-          "titre-3",
-          "chapitre-5"
+          "chapitre-5",
+          "article-46-"
         ],
         "children": []
       },
@@ -690,11 +690,11 @@
         "id": "article-47-",
         "title": "Article 47 : Conditions de retrait des dossiers d'appel à",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 61,
         "path": [
-          "titre-3",
-          "chapitre-5"
+          "chapitre-5",
+          "article-47-"
         ],
         "children": []
       },
@@ -702,11 +702,11 @@
         "id": "article-48-",
         "title": "Article 48 : Contenu de l'avis d'appel à concurrence",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 62,
         "path": [
-          "titre-3",
-          "chapitre-5"
+          "chapitre-5",
+          "article-48-"
         ],
         "children": []
       },
@@ -714,11 +714,11 @@
         "id": "article-49-",
         "title": "Article 49 : Contenu du règlement particulier d'appel à concurrence",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 63,
         "path": [
-          "titre-3",
-          "chapitre-5"
+          "chapitre-5",
+          "article-49-"
         ],
         "children": []
       },
@@ -726,11 +726,11 @@
         "id": "article-50-",
         "title": "Article 50 : Normes, agréments techniques ou spécifications de",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 64,
         "path": [
-          "titre-3",
-          "chapitre-5"
+          "chapitre-5",
+          "article-50-"
         ],
         "children": []
       },
@@ -738,11 +738,11 @@
         "id": "article-51-",
         "title": "Article 51 : Interdiction des normes, agréments techniques ou",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 65,
         "path": [
-          "titre-3",
-          "chapitre-5"
+          "chapitre-5",
+          "article-51-"
         ],
         "children": []
       },
@@ -750,11 +750,11 @@
         "id": "article-52-",
         "title": "Article 52 : Inscription des normes, agréments techniques ou",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 66,
         "path": [
-          "titre-3",
-          "chapitre-5"
+          "chapitre-5",
+          "article-52-"
         ],
         "children": []
       },
@@ -762,7 +762,7 @@
         "id": "chapitre-6",
         "title": "CHAPITRE 6 : PUBLICITE ET DELAI DE REMISE DES SOUMISSIONS",
         "type": "chapitre",
-        "level": 3,
+        "level": 2,
         "order": 67,
         "path": [
           "titre-3",
@@ -780,11 +780,11 @@
         "id": "article-53-",
         "title": "Article 53 : Obligation de publicité des avis",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 68,
         "path": [
-          "titre-3",
-          "chapitre-6"
+          "chapitre-6",
+          "article-53-"
         ],
         "children": []
       },
@@ -792,11 +792,11 @@
         "id": "article-54-",
         "title": "Article 54 : Délai de remise des offres",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 69,
         "path": [
-          "titre-3",
-          "chapitre-6"
+          "chapitre-6",
+          "article-54-"
         ],
         "children": []
       },
@@ -804,11 +804,11 @@
         "id": "article-55-",
         "title": "Article 55 : Communication électronique",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 70,
         "path": [
-          "titre-3",
-          "chapitre-6"
+          "chapitre-6",
+          "article-55-"
         ],
         "children": []
       },
@@ -816,11 +816,11 @@
         "id": "article-56-",
         "title": "Article 56 : Outils et moyens électroniques",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 71,
         "path": [
-          "titre-3",
-          "chapitre-6"
+          "chapitre-6",
+          "article-56-"
         ],
         "children": []
       },
@@ -828,11 +828,11 @@
         "id": "article-57-",
         "title": "Article 57 : Intégrité des données et confidentialité",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 72,
         "path": [
-          "titre-3",
-          "chapitre-6"
+          "chapitre-6",
+          "article-57-"
         ],
         "children": []
       },
@@ -840,7 +840,7 @@
         "id": "chapitre-7",
         "title": "CHAPITRE 7 : SOUMISSIONNAIRES",
         "type": "chapitre",
-        "level": 3,
+        "level": 2,
         "order": 73,
         "path": [
           "titre-3",
@@ -860,11 +860,11 @@
         "id": "article-58-",
         "title": "Article 58 : Capacité des candidats",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 74,
         "path": [
-          "titre-3",
-          "chapitre-7"
+          "chapitre-7",
+          "article-58-"
         ],
         "children": []
       },
@@ -872,11 +872,11 @@
         "id": "article-59-",
         "title": "Article 59 : Capacité technique",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 75,
         "path": [
-          "titre-3",
-          "chapitre-7"
+          "chapitre-7",
+          "article-59-"
         ],
         "children": []
       },
@@ -884,11 +884,11 @@
         "id": "article-60-",
         "title": "Article 60 : Capacité financière",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 76,
         "path": [
-          "titre-3",
-          "chapitre-7"
+          "chapitre-7",
+          "article-60-"
         ],
         "children": []
       },
@@ -896,11 +896,11 @@
         "id": "article-61-",
         "title": "Article 61 : Conflits d'intérêts",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 77,
         "path": [
-          "titre-3",
-          "chapitre-7"
+          "chapitre-7",
+          "article-61-"
         ],
         "children": []
       },
@@ -908,11 +908,11 @@
         "id": "article-62-",
         "title": "Article 62 : Restrictions liées à la situation administrative des",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 78,
         "path": [
-          "titre-3",
-          "chapitre-7"
+          "chapitre-7",
+          "article-62-"
         ],
         "children": []
       },
@@ -920,11 +920,11 @@
         "id": "article-63-",
         "title": "Article 63 : Attestation de catégorisation",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 79,
         "path": [
-          "titre-3",
-          "chapitre-7"
+          "chapitre-7",
+          "article-63-"
         ],
         "children": []
       },
@@ -932,11 +932,11 @@
         "id": "article-64-",
         "title": "Article 64 : Inexactitude ou fausseté des mentions",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 80,
         "path": [
-          "titre-3",
-          "chapitre-7"
+          "chapitre-7",
+          "article-64-"
         ],
         "children": []
       },
@@ -944,7 +944,7 @@
         "id": "chapitre-8",
         "title": "CHAPITRE 8 : PRESENTATION, RECEPTION ET OUVERTURE DES OFFRES",
         "type": "chapitre",
-        "level": 3,
+        "level": 2,
         "order": 81,
         "path": [
           "titre-3",
@@ -964,11 +964,11 @@
         "id": "article-65-",
         "title": "Article 65 : Présentation des offres",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 82,
         "path": [
-          "titre-3",
-          "chapitre-8"
+          "chapitre-8",
+          "article-65-"
         ],
         "children": []
       },
@@ -976,11 +976,11 @@
         "id": "article-66-",
         "title": "Article 66 : Signature des offres et soumission",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 83,
         "path": [
-          "titre-3",
-          "chapitre-8"
+          "chapitre-8",
+          "article-66-"
         ],
         "children": []
       },
@@ -988,11 +988,11 @@
         "id": "article-67-",
         "title": "Article 67 : Obligation de confidentialité",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 84,
         "path": [
-          "titre-3",
-          "chapitre-8"
+          "chapitre-8",
+          "article-67-"
         ],
         "children": []
       },
@@ -1000,11 +1000,11 @@
         "id": "article-68-",
         "title": "Article 68 : Garantie de soumission",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 85,
         "path": [
-          "titre-3",
-          "chapitre-8"
+          "chapitre-8",
+          "article-68-"
         ],
         "children": []
       },
@@ -1012,11 +1012,11 @@
         "id": "article-69-",
         "title": "Article 69 : Réception des offres",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 86,
         "path": [
-          "titre-3",
-          "chapitre-8"
+          "chapitre-8",
+          "article-69-"
         ],
         "children": []
       },
@@ -1024,11 +1024,11 @@
         "id": "article-70-",
         "title": "Article 70 : Ouverture des plis",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 87,
         "path": [
-          "titre-3",
-          "chapitre-8"
+          "chapitre-8",
+          "article-70-"
         ],
         "children": []
       },
@@ -1036,11 +1036,11 @@
         "id": "article-71-",
         "title": "Article 71 : Appel d'offres infructueux",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 88,
         "path": [
-          "titre-3",
-          "chapitre-8"
+          "chapitre-8",
+          "article-71-"
         ],
         "children": []
       },
@@ -1048,7 +1048,7 @@
         "id": "chapitre-9",
         "title": "CHAPITRE 9 : EVALUATION DES OFFRES",
         "type": "chapitre",
-        "level": 3,
+        "level": 2,
         "order": 89,
         "path": [
           "titre-3",
@@ -1067,11 +1067,11 @@
         "id": "article-72-",
         "title": "Article 72 : Evaluation des offres",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 90,
         "path": [
-          "titre-3",
-          "chapitre-9"
+          "chapitre-9",
+          "article-72-"
         ],
         "children": []
       },
@@ -1079,11 +1079,11 @@
         "id": "article-73-",
         "title": "Article 73 : Offre conforme économiquement la plus avantageuse",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 91,
         "path": [
-          "titre-3",
-          "chapitre-9"
+          "chapitre-9",
+          "article-73-"
         ],
         "children": []
       },
@@ -1091,11 +1091,11 @@
         "id": "article-74-",
         "title": "Article 74 : Conformité des offres",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 92,
         "path": [
-          "titre-3",
-          "chapitre-9"
+          "chapitre-9",
+          "article-74-"
         ],
         "children": []
       },
@@ -1103,11 +1103,11 @@
         "id": "article-75-",
         "title": "Article 75 : Préférence communautaire",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 93,
         "path": [
-          "titre-3",
-          "chapitre-9"
+          "chapitre-9",
+          "article-75-"
         ],
         "children": []
       },
@@ -1115,11 +1115,11 @@
         "id": "article-76-",
         "title": "Article 76 : Préférence spécifique aux marchés des collectivités",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 94,
         "path": [
-          "titre-3",
-          "chapitre-9"
+          "chapitre-9",
+          "article-76-"
         ],
         "children": []
       },
@@ -1127,11 +1127,11 @@
         "id": "article-77-",
         "title": "Article 77 : Préférence spécifique au profit des micros, petites et",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 95,
         "path": [
-          "titre-3",
-          "chapitre-9"
+          "chapitre-9",
+          "article-77-"
         ],
         "children": []
       },
@@ -1139,7 +1139,7 @@
         "id": "chapitre-10",
         "title": "CHAPITRE 10 : ATTRIBUTION DES MARCHES PUBLICS",
         "type": "chapitre",
-        "level": 3,
+        "level": 2,
         "order": 96,
         "path": [
           "titre-3",
@@ -1162,11 +1162,11 @@
         "id": "article-78-",
         "title": "Article 78 : Attribution provisoire",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 97,
         "path": [
-          "titre-3",
-          "chapitre-10"
+          "chapitre-10",
+          "article-78-"
         ],
         "children": []
       },
@@ -1174,11 +1174,11 @@
         "id": "article-79-",
         "title": "Article 79 : Notification de l'attribution provisoire",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 98,
         "path": [
-          "titre-3",
-          "chapitre-10"
+          "chapitre-10",
+          "article-79-"
         ],
         "children": []
       },
@@ -1186,11 +1186,11 @@
         "id": "article-80-",
         "title": "Article 80 : Arrêt de procédure",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 99,
         "path": [
-          "titre-3",
-          "chapitre-10"
+          "chapitre-10",
+          "article-80-"
         ],
         "children": []
       },
@@ -1198,11 +1198,11 @@
         "id": "article-81-",
         "title": "Article 81 : Offre anormalement basse (OAB)",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 100,
         "path": [
-          "titre-3",
-          "chapitre-10"
+          "chapitre-10",
+          "article-81-"
         ],
         "children": []
       },
@@ -1210,11 +1210,11 @@
         "id": "article-82-",
         "title": "Article 82 : Interdiction de négociation",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 101,
         "path": [
-          "titre-3",
-          "chapitre-10"
+          "chapitre-10",
+          "article-82-"
         ],
         "children": []
       },
@@ -1222,11 +1222,11 @@
         "id": "article-83-",
         "title": "Article 83 : Principales mentions des marchés",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 102,
         "path": [
-          "titre-3",
-          "chapitre-10"
+          "chapitre-10",
+          "article-83-"
         ],
         "children": []
       },
@@ -1234,11 +1234,11 @@
         "id": "article-84-",
         "title": "Article 84 : Examen juridique et technique préalable à",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 103,
         "path": [
-          "titre-3",
-          "chapitre-10"
+          "chapitre-10",
+          "article-84-"
         ],
         "children": []
       },
@@ -1246,11 +1246,11 @@
         "id": "article-85-",
         "title": "Article 85 : Approbation des marchés publics",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 104,
         "path": [
-          "titre-3",
-          "chapitre-10"
+          "chapitre-10",
+          "article-85-"
         ],
         "children": []
       },
@@ -1258,11 +1258,11 @@
         "id": "article-86-",
         "title": "Article 86 : Enregistrement et notification des marchés",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 105,
         "path": [
-          "titre-3",
-          "chapitre-10"
+          "chapitre-10",
+          "article-86-"
         ],
         "children": []
       },
@@ -1270,11 +1270,11 @@
         "id": "article-87-",
         "title": "Article 87 : Entrée en vigueur des marchés et attribution définitive",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 106,
         "path": [
-          "titre-3",
-          "chapitre-10"
+          "chapitre-10",
+          "article-87-"
         ],
         "children": []
       },
@@ -1282,7 +1282,7 @@
         "id": "titre-4",
         "title": "TITRE 4 : EXECUTION ET REGLEMENT DES MARCHES PUBLICS",
         "type": "titre",
-        "level": 2,
+        "level": 1,
         "order": 107,
         "path": [
           "titre-4"
@@ -1322,7 +1322,7 @@
         "id": "article-88-",
         "title": "Article 88 : Obligations du titulaire",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 109,
         "path": [
           "titre-4"
@@ -1333,7 +1333,7 @@
         "id": "article-89-",
         "title": "Article 89 : Typologie des réceptions",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 110,
         "path": [
           "titre-4"
@@ -1344,7 +1344,7 @@
         "id": "article-90-",
         "title": "Article 90 : Cahiers des charges",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 111,
         "path": [
           "titre-4"
@@ -1355,7 +1355,7 @@
         "id": "article-91-",
         "title": "Article 91 : Garantie de bonne exécution : champ d'application",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 113,
         "path": [
           "titre-4"
@@ -1366,7 +1366,7 @@
         "id": "article-92-",
         "title": "Article 92 : Garantie de restitution de l'avance de démarrage",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 114,
         "path": [
           "titre-4"
@@ -1377,7 +1377,7 @@
         "id": "article-93-",
         "title": "Article 93 : Formes de garanties admissibles",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 115,
         "path": [
           "titre-4"
@@ -1388,7 +1388,7 @@
         "id": "article-94-",
         "title": "Article 94 : Avances sur approvisionnements",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 116,
         "path": [
           "titre-4"
@@ -1399,7 +1399,7 @@
         "id": "article-95-",
         "title": "Article 95 : Retenue de garantie",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 117,
         "path": [
           "titre-4"
@@ -1410,7 +1410,7 @@
         "id": "article-96-",
         "title": "Article 96 : Contenu et types de prix",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 119,
         "path": [
           "titre-4"
@@ -1421,7 +1421,7 @@
         "id": "article-97-",
         "title": "Article 97 : Actualisation et révision des prix",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 120,
         "path": [
           "titre-4"
@@ -1432,7 +1432,7 @@
         "id": "article-98-",
         "title": "Article 98 : Prestations exécutées en régie",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 121,
         "path": [
           "titre-4"
@@ -1443,7 +1443,7 @@
         "id": "article-99-",
         "title": "Article 99 : Régime fiscal",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 122,
         "path": [
           "titre-4"
@@ -1454,7 +1454,7 @@
         "id": "article-100-",
         "title": "Article 100 : Avenants",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 124,
         "path": [
           "titre-4"
@@ -1465,7 +1465,7 @@
         "id": "article-101-",
         "title": "Article 101 : Soustraitance",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 126,
         "path": [
           "titre-4"
@@ -1476,7 +1476,7 @@
         "id": "article-102-",
         "title": "Article 102 : Cotraitance ou groupement d'entreprises",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 127,
         "path": [
           "titre-4"
@@ -1487,7 +1487,7 @@
         "id": "article-103-",
         "title": "Article 103 : Nantissement et cession : principes et champs",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 129,
         "path": [
           "titre-4"
@@ -1498,7 +1498,7 @@
         "id": "article-104-",
         "title": "Article 104 : Modalités de mise en œuvre du nantissement de marché et",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 130,
         "path": [
           "titre-4"
@@ -1509,7 +1509,7 @@
         "id": "article-105-",
         "title": "Article 105 : Organes chargés du contrôle de l'exécution",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 132,
         "path": [
           "titre-4"
@@ -1520,7 +1520,7 @@
         "id": "article-106-",
         "title": "Article 106 : Maîtrise d'œuvre",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 133,
         "path": [
           "titre-4"
@@ -1531,7 +1531,7 @@
         "id": "article-107-",
         "title": "Article 107 : Résiliation",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 134,
         "path": [
           "titre-4"
@@ -1542,7 +1542,7 @@
         "id": "article-108-",
         "title": "Article 108 : Mise en régie",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 135,
         "path": [
           "titre-4"
@@ -1553,7 +1553,7 @@
         "id": "article-109-",
         "title": "Article 109 : Ajournement",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 136,
         "path": [
           "titre-4"
@@ -1564,7 +1564,7 @@
         "id": "article-110-",
         "title": "Article 110 : Modalités de paiement",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 138,
         "path": [
           "titre-4"
@@ -1575,7 +1575,7 @@
         "id": "article-111-",
         "title": "Article 111 : Versement d'avances",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 139,
         "path": [
           "titre-4"
@@ -1586,7 +1586,7 @@
         "id": "article-112-",
         "title": "Article 112 : Paiement d'acomptes",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 140,
         "path": [
           "titre-4"
@@ -1597,7 +1597,7 @@
         "id": "article-113-",
         "title": "Article 113 : Pénalité de retard",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 141,
         "path": [
           "titre-4"
@@ -1608,7 +1608,7 @@
         "id": "article-114-",
         "title": "Article 114 : Pénalités particulières",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 142,
         "path": [
           "titre-4"
@@ -1619,7 +1619,7 @@
         "id": "article-115-",
         "title": "Article 115 : Paiement des soustraitants",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 143,
         "path": [
           "titre-4"
@@ -1630,7 +1630,7 @@
         "id": "titre-5",
         "title": "TITRE 5 : CONTENTIEUX ET SANCTIONS RELATIFS AUX MARCHES PUBLICS",
         "type": "titre",
-        "level": 2,
+        "level": 1,
         "order": 144,
         "path": [
           "titre-5"
@@ -1657,7 +1657,7 @@
         "id": "article-116-",
         "title": "Article 116 : Recours administratifs préalables",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 146,
         "path": [
           "titre-5"
@@ -1668,7 +1668,7 @@
         "id": "article-117-",
         "title": "Article 117 : Recours devant l'Autorité de régulation des marchés",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 147,
         "path": [
           "titre-5"
@@ -1679,7 +1679,7 @@
         "id": "article-118-",
         "title": "Article 118 : Délais de recours",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 148,
         "path": [
           "titre-5"
@@ -1690,7 +1690,7 @@
         "id": "article-119-",
         "title": "Article 119 : Modalités de gestion des différends au contrat",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 150,
         "path": [
           "titre-5"
@@ -1701,7 +1701,7 @@
         "id": "article-120-",
         "title": "Article 120 : Modes de règlement des litiges",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 151,
         "path": [
           "titre-5"
@@ -1712,7 +1712,7 @@
         "id": "article-121-",
         "title": "Article 121 : Incompatibilités des",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 153,
         "path": [
           "titre-5"
@@ -1723,7 +1723,7 @@
         "id": "article-122-",
         "title": "Article 122 : Violations commises par les soumissionnaires",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 155,
         "path": [
           "titre-5"
@@ -1734,7 +1734,7 @@
         "id": "article-123-",
         "title": "Article 123 : Sanctions applicables aux violations commises par les",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 156,
         "path": [
           "titre-5"
@@ -1745,7 +1745,7 @@
         "id": "article-124-",
         "title": "Article 124 : Violations commises par les agents de l'Etat",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 157,
         "path": [
           "titre-5"
@@ -1756,7 +1756,7 @@
         "id": "article-125-",
         "title": "Article 125 : Sanctions applicables aux violations commises par les",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 158,
         "path": [
           "titre-5"
@@ -1767,7 +1767,7 @@
         "id": "article-126-",
         "title": "Article 126 : Sanctions applicables aux violations commises par les",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 159,
         "path": [
           "titre-5"
@@ -1778,7 +1778,7 @@
         "id": "article-127-",
         "title": "Article 127 : Sanctions applicables aux violations commises par les",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 160,
         "path": [
           "titre-5"
@@ -1789,7 +1789,7 @@
         "id": "article-128-",
         "title": "Article 128 : Sanctions applicables aux violations commises par les",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 161,
         "path": [
           "titre-5"
@@ -1800,7 +1800,7 @@
         "id": "article-129-",
         "title": "Article 129 : Réparation de préjudice résultant d'un acte de",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 162,
         "path": [
           "titre-5"
@@ -1811,7 +1811,7 @@
         "id": "article-130-",
         "title": "Article 130 : Annulation des contrats irréguliers",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 163,
         "path": [
           "titre-5"
@@ -1822,7 +1822,7 @@
         "id": "titre-6",
         "title": "TITRE 6 : DISPOSITIONS TRANSITOIRES ET FINALES",
         "type": "titre",
-        "level": 2,
+        "level": 1,
         "order": 164,
         "path": [
           "titre-6"
@@ -1838,7 +1838,7 @@
         "id": "article-131-",
         "title": "Article 131 : Gestion des procédures de marchés en cours avant",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 165,
         "path": [
           "titre-6"
@@ -1849,7 +1849,7 @@
         "id": "article-132-",
         "title": "Article 132 : Conformité des textes régissant les différents ordres",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 166,
         "path": [
           "titre-6"
@@ -1860,7 +1860,7 @@
         "id": "article-133-",
         "title": "Article 133 : Abrogation des textes antérieurs contraires",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 167,
         "path": [
           "titre-6"
@@ -1871,7 +1871,7 @@
         "id": "article-134-",
         "title": "Article 134 : Entrée en vigueur",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 169,
         "path": [
           "titre-6"

@@ -1,0 +1,14 @@
+{
+  "id": "article-20-",
+  "title": "Article 20 :",
+  "numero": "20 ",
+  "document": "acte-uniforme-transport-ohada",
+  "path": [
+    "chapitre-4"
+  ],
+  "navigation": {
+    "parent": "chapitre-4",
+    "previous": "article-19-",
+    "next": "article-21-"
+  }
+}

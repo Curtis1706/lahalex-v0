@@ -1,0 +1,1 @@
+Durant leur mandat, les membres de la Commission sont irrévocables sauf en cas de faute lourde ou d’incapacité constatée par la Cour de Justice sur saisine du Conseil des Ministres.

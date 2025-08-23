@@ -1,0 +1,1 @@
+Le présent Règlement entrera en vigueur dès sa signature.  Il sera publié au Journal officiel de l’OHADA.

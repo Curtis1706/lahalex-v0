@@ -1,0 +1,1 @@
+Lorsque la Présidence est vacante, ou que le Président est empŒché de l’exercer, elle est assurée par le premier Vice-Président, ou   défaut par le second Vice-Président, ou   défaut par l’un des juges selon l’ordre fixé par l’article 2 ci-dessus.

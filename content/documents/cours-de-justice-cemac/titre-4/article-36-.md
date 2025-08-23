@@ -1,0 +1,1 @@
+La Conférence des Chefs d’Etat adopte par Actes Additionnels les Règlements de procédure et d’Arbitrage élaborés par la Cour.

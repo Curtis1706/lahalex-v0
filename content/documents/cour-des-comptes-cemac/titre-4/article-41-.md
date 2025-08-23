@@ -1,0 +1,1 @@
+Le secret professionnel n'est pas opposable aux membres de la Cour des Comptes à l'occasion des contrôles effectués dans l'exercice de leurs fonctions.

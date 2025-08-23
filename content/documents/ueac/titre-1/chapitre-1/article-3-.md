@@ -1,0 +1,1 @@
+La réalisation des objectifs de l’Union Economique prendra en compte les acquis de la Communauté Economique et Monétaire de l’Afrique Centrale (CEMAC) et sera entreprise en deux (2) étapes.

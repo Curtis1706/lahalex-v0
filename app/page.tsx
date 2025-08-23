@@ -141,6 +141,7 @@ export default function HomePage() {
     { key: "conventions-internationales", label: "Conventions internationales", icon: FileText },
     { key: "uemoa", label: "UEMOA", icon: FileText },
     { key: "omc", label: "OMC", icon: FileText },
+    { key: "cemac", label: "CEMAC", icon: FileText },
   ]
 
   const SidebarContent = () => (

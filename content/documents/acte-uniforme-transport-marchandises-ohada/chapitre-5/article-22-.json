@@ -1,0 +1,14 @@
+{
+  "id": "article-22-",
+  "title": "Article 22 :",
+  "numero": "22 ",
+  "document": "acte-uniforme-transport-marchandises-ohada",
+  "path": [
+    "chapitre-5"
+  ],
+  "navigation": {
+    "parent": "chapitre-5",
+    "previous": "article-21-",
+    "next": "article-23-"
+  }
+}

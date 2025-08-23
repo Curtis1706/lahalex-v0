@@ -1,0 +1,1 @@
+Toute réunion de l’assemblée générale irrégulièrement convoquée peut être annu- lée. Toutefois, l’action en nullité n’est pas recevable lorsque tous les coopérateurs étaient pré- sents.

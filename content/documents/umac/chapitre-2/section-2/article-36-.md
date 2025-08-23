@@ -1,0 +1,2 @@
+Dès l’entrée en vigueur de la présente Convention, les dispositions de celleci se substituent à celles de la Convention régissant l’UMAC signée le 5 Juillet 1996.
+Les droits et obligations de la Banque des Etats de l’Afrique Centrale et des Institutions Spécialisées existantes ne seront pas, à l’égard des tiers, affectés par cette substitution.

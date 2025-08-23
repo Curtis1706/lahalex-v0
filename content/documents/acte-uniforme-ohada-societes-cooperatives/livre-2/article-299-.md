@@ -1,0 +1,1 @@
+Les membres du conseil d’administration sont élus par l’assemblée générale selon des modalités fixées par les statuts.

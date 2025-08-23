@@ -1,0 +1,2 @@
+Pour les questions ne portant pas principalement sur la politique économique et financière, et par dérogation à l’article 18 du présent Traité, le Conseil peut réunir en formation ad hoc les Ministres compétents.
+Dans ce cas, les délibérations adoptées deviennent définitives après que le Conseil en a constaté la compatibilité avec la politique économique et financière de l’Union Economique.

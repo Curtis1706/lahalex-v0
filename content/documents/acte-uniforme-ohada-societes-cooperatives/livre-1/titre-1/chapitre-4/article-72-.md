@@ -1,0 +1,5 @@
+Toutes les déclarations sont établies en quatre exemplaires sur formulaires fournis par l’autorité administrative chargée de la tenue du Registre des Sociétés Coopératives.
+Elles sont revêtues de la signature ou de l’empreinte digitale du déclarant ou de son mandatai- re qui doit à la fois justifier de son identité et, sauf s’il est Avocat ou Notaire, être muni d’une procuration signée du déclarant ou sur laquelle est apposée son empreinte digitale.
+Le 1 exemplaire est conservé par l’autorité administrative chargée de la tenue du Regis- tre des Sociétés Coopératives.
+Le 2 exemplaire est remis au déclarant avec mention de la date et de la désignation de la formalité effectuée.
+Les 3 et 4 exemplaires sont adressés par l’autorité administrative chargée de la tenue du Registre des Sociétés Coopératives au Fichier National, pour transmission de l’un d’entre eux au Fichier Régional.

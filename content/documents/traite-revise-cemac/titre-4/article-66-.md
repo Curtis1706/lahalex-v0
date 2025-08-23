@@ -1,0 +1,1 @@
+Le présent Traité sera ratifié à l'initiative des Hautes Parties Contractantes, en conformité avec leurs règles constitutionnelles respectives. Les instruments de ratification seront déposés auprès du gouvernement de la République du Tchad, qui en informera les autres Etats membres et leur en délivrera copies certifiées conformes.

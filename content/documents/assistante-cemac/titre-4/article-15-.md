@@ -1,0 +1,1 @@
+Le Gouvernement de la République de Guinée Equatoriale et l'UDEAC conviennent que les experts en poste à la date de signature de la présente Convention continuent leurs prestations jusqu'à son expiration. Leur liste figure en annexe.

@@ -1,0 +1,2 @@
+Le conseil d’administration détermine, à travers le contrat de travail qui lie le res- ponsable chargé de direction à la société coopérative, l’étendue des pouvoirs de gestion qui lui sont délégués.
+Le responsable chargé de direction peut assister aux réunions du conseil d’administration avec voix consultative.

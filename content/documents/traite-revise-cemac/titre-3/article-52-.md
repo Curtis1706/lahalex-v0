@@ -1,0 +1,3 @@
+Si un Etat ne s’est pas acquitté de ses contributions un an après l’expiration du délai fixé par les règlements financiers, sauf cas de force majeure dûment constatée par le Conseil des Ministres, le Gouvernement de cet Etat est privé du droit de prendre part aux votes lors des assises des Institutions, Organes et Institutions Spécialisées de la Communauté.
+Six (6) mois après la suspension du droit de vote, ledit Gouvernement est privé de prendre part aux activités de la Communauté et cesse de bénéficier des avantages prévus au titre du présent Traité et des Conventions de l’UEAC et de l’UMAC.
+Ces diverses sanctions prennent fin de plein droit dès la régularisation totale de la situation de cet Etat.

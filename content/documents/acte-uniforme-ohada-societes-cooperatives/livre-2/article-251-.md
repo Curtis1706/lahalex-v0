@@ -1,0 +1,2 @@
+A peine de nullité du contrat, il est interdit aux personnes physiques, gérants ou coopérateurs, de contracter, sous quelque forme que ce soit, des emprunts auprès de la société coopérative simplifiée, de se faire consentir par elle un découvert en compte courant ou au- trement, ainsi que de faire cautionner, avaliser ou garantir par elle leurs engagements envers d’autres personnes.
+Cette interdiction s’applique également aux conjoints, ascendants et descendants des person- nes visées à l’alinéa 1 ci-dessus ainsi qu’à toute personne interposée.

@@ -1,0 +1,1 @@
+La société coopérative avec conseil d’administration est constituée entre quinze personnes physiques ou morales au moins.

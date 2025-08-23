@@ -1,0 +1,1 @@
+Les sanctions applicables ainsi que la procédure disciplinaire sont fixées par la loi portant statut des magistrats de la Cour des comptes.

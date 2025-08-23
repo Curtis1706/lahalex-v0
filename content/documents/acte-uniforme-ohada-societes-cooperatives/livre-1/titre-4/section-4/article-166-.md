@@ -1,0 +1,3 @@
+La dissolution du réseau coopératif de moyens ou d’objectifs entraîne sa liquida- tion. La personnalité morale du réseau subsiste pour les besoins de sa liquidation.
+La liquidation s’opère conformément aux dispositions de la convention. A défaut, un liquida- teur est nommé par l’assemblée générale des membres du réseau ou si l’assemblée n’a pu pro- céder à cette nomination, par décision de la juridiction compétente.
+Après paiement des dettes, l’excédent d’actif est dévolu soit à d’autres réseaux de coopérati- ves ou à des sociétés coopératives de l’un des Etats Parties, soit à un ou plusieurs organismes ayant pour but le soutien et la promotion des sociétés coopératives.

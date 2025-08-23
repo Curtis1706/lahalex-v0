@@ -1,0 +1,17 @@
+{
+  "id": "article-45-",
+  "title": "Article 45 :",
+  "numero": "45 ",
+  "document": "acte-uniforme-ohada-societes-cooperatives",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-3",
+    "sous-section-8"
+  ],
+  "navigation": {
+    "parent": "sous-section-8",
+    "previous": "article-44-",
+    "next": "article-46-"
+  }
+}

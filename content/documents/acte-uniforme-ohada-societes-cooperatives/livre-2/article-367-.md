@@ -1,0 +1,2 @@
+50’assemblée générale extraordinaire ne délibère valablement que si les deux tiers des coopérateurs de la société coopérative avec conseil d’administration sont présents ou re- présentés.
+Lorsque le quorum n’est pas réuni, l’assemblée peut être convoquée une 2 fois dans un délai qui ne peut excéder deux mois à compter de la date fixée par la 1 convoca- tion ; dans ce cas, elle peut valablement délibérer avec la moitié au moins des coopérateurs présents ou représentés.

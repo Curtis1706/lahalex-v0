@@ -1,0 +1,15 @@
+{
+  "id": "article-48-",
+  "title": "Article 48 :",
+  "numero": "48 ",
+  "document": "acte-uniforme-comptabilite-ohada",
+  "path": [
+    "titre-1",
+    "chapitre-4"
+  ],
+  "navigation": {
+    "parent": "chapitre-4",
+    "previous": "article-47-",
+    "next": "article-49-"
+  }
+}

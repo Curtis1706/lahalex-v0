@@ -1,0 +1,1 @@
+Les actes uniformes sont préparés par le Secrétariat Permanent en concertation avec les gouvernements des Etats Parties. Ils sont délibérés et adoptés par le Conseil des ministres aprŁs avis de la Cour Commune de Justice et d’Arbitrage.

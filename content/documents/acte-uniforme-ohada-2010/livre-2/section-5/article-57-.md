@@ -1,0 +1,1 @@
+La radiation emporte la perte des droits résultant de l’immatriculation.

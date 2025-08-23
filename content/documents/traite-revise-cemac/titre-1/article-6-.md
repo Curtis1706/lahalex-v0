@@ -1,0 +1,1 @@
+La Conférence des Chefs d’Etat arrête, par voie d’acte additionnel, le régime des droits, immunités et privilèges accordés à la Communauté, aux membres de ses institutions et à son personnel.

@@ -1,0 +1,1 @@
+La Cour des Comptes vérifie les comptes de la Communauté selon les modalités fixées par la présente Convention et par ses règles de procédure.

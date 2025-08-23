@@ -1,0 +1,1 @@
+Le budget de la Cour des Comptes de la CEMAC est incorporé au budget de la Communauté. La Cour jouit d'une autonomie de gestion.

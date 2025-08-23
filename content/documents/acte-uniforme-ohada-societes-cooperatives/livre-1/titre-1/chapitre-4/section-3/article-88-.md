@@ -1,0 +1,2 @@
+A partir de la signature des statuts, les dirigeants sociaux se substituent aux initia- teurs. Ils agissent au nom de la société coopérative constituée et non encore immatriculée.
+Leurs pouvoirs et leurs obligations sont fixés conformément aux dispositions prévues par le présent Acte uniforme et par les statuts.

@@ -1,0 +1,4 @@
+La Cour de Justice assure le respect du droit dans l’interprétation et dans l’application du présent Traité et des conventions subséquentes.
+La Cour des Comptes est chargée du contrôle des finances publiques de la Communauté, notamment du contrôle juridictionnel des comptes des comptables de celle-ci, à l’exception de ceux dont les conventions spécifiques ou les statuts en disposent autrement.
+Elle sanctionne les fautes de gestion commises par les ordonnateurs à l’égard des Institutions, Organes et Institutions Spécialisées de la Communauté.
+L’organisation, le fonctionnement et les compétences de la Cour de Justice et de la Cour des Comptes sont définis par les conventions qui les régissent, par leurs statuts propres et par d’autres textes communautaires spécifiques.

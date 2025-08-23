@@ -1,0 +1,2 @@
+La Conférence des Chefs d’Etat détermine la politique de la Communauté et oriente l’action du Conseil des Ministres de l’UEAC et du Comité Ministériel de l’UMAC.
+Elle fixe le siège des Institutions, des Organes et des Institutions Spécialisées de la Communauté. Elle nomme et révoque leurs dirigeants conformément aux dispositions prévues par leurs textes constitutifs respectifs.

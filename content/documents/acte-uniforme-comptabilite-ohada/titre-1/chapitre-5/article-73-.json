@@ -1,0 +1,15 @@
+{
+  "id": "article-73-",
+  "title": "Article 73-1",
+  "numero": "73-",
+  "document": "acte-uniforme-comptabilite-ohada",
+  "path": [
+    "titre-1",
+    "chapitre-5"
+  ],
+  "navigation": {
+    "parent": "chapitre-5",
+    "previous": "article-73-",
+    "next": "article-74-"
+  }
+}

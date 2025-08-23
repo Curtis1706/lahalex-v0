@@ -1,0 +1,1 @@
+50’agrément résulte de la notification dudit agrément ou du défaut de réponse dans le délai de trois mois à compter de la demande.

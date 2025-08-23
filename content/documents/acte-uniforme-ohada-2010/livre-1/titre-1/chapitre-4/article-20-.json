@@ -1,0 +1,16 @@
+{
+  "id": "article-20-",
+  "title": "Article 20 :",
+  "numero": "20 ",
+  "document": "acte-uniforme-ohada-2010",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-4"
+  ],
+  "navigation": {
+    "parent": "chapitre-4",
+    "previous": "article-19-",
+    "next": "article-21-"
+  }
+}

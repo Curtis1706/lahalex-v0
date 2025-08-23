@@ -1,0 +1,15 @@
+{
+  "id": "article-25-",
+  "title": "Article 25 :",
+  "numero": "25 ",
+  "document": "acte-uniforme-comptabilite-ohada",
+  "path": [
+    "titre-1",
+    "chapitre-3"
+  ],
+  "navigation": {
+    "parent": "chapitre-3",
+    "previous": "article-24-",
+    "next": "article-26-"
+  }
+}

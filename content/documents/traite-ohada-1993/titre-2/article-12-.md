@@ -1,0 +1,1 @@
+Les actes uniformes ne peuvent Œtre modifiés que dans les conditions prévues par les articles 7 9 ci-dessus, la demande de tout Etat Partie.

@@ -2,10 +2,10 @@ Engagements
 1. Les Etats membres conviennent de coopérer dans les domaines de l'agriculture, de la sécurité alimentaire et nutritionnelle, des ressources animales et halieutiques. Cette coopération a pour objectifs :
 2) Le relèvement du niveau de vie des populations rurales, en particulier par l'augmentation des revenus, grâce à l'accroissement de la production agricole, de pêche et à la création d’emplois ;
 3) La satisfaction des besoins alimentaires des populations et le renforcement de la sécurité alimentaire, notamment par l'amélioration quantitative et qualitative de la production vivrière et la définition d'une politique d'échanges et de réserves alimentaires ;
-4) 50'amélioration des conditions de vie et de travail en milieu rural ;
+4) Lioration des conditions de vie et de travail en milieu rural ;
 5) La valorisation sur place des productions agricoles, par la transformation des produits végétaux et animaux ;
 6) Le développement de la capacité des populations à assurer leur propre développement, notamment par une plus grande maîtrise de leur environnement technique et économique ;
-7) 50’assistance des populations sinistrées suite à des catastrophes majeures à travers des outils d’alerte et des stocks alimentaires d’urgence.
+7) Lns sinistrées suite à des catastrophes majeures à travers des outils d’alerte et des stocks alimentaires d’urgence.
 8. A cet effet, les Etats membres s'engagent à :
 9) Se concerter en vue d'harmoniser leurs politiques agricoles ;
 10) Procéder à des échanges réguliers d'informations sur les expériences et les résultats des recherches en cours sur leurs territoires respectifs ainsi que sur les programmes de développement rural ;

@@ -1,0 +1,4 @@
+Chaque Etat membre est représenté au Comité Ministériel par deux (2) Ministres, dont le Ministre chargé des Finances, et n’y dispose que d’une voix exprimée par ce dernier.
+La Présidence du Comité Ministériel est tournante. Elle est assurée, pour une année civile et par ordre alphabétique des Etats membres, par le Ministre chargé des Finances.
+Le Comité Ministériel se réunit au moins deux fois par an, dont une fois pour la ratification des comptes de la BEAC.
+Les réunions du Comité Ministériel ont lieu sur convocation de son Président en exercice, agissant sur sa propre initiative ou à la demande de la moitié de seus membres ou encore, à la demande motivée de l’un des responsables des Organes ou Institutions Spécialisées de l’Union Monétaire.

@@ -1,0 +1,1 @@
+Le Conseil des Ministres, sur proposition du Président de la Commission, arrête, à la majorité qualifiée, les règlements, directives et recommandations nécessaires à la mise en œuvre de l’article 29 cidessus.

@@ -1,0 +1,1 @@
+Les délibérations prises par un conseil d’administration irrégulièrement constitué sont nulles.

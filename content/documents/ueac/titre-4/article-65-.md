@@ -1,0 +1,1 @@
+Le Conseil des Ministres de l’UEAC, régi par les articles 17 et suivants du Traité de la CEMAC, assure la direction de l’UEAC par l’exercice des pouvoirs que la présente Convention lui confère.

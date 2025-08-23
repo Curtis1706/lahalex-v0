@@ -1,0 +1,2 @@
+Les actes et engagements repris par la société coopérative régulièrement constituée et enregistrée sont réputés avoir été contractés par celle-ci dès l’origine.
+Les actes et engagements qui n’ont pas été repris par la société coopérative dans les condi- tions prévues par le présent Acte uniforme sont inopposables à celle-ci et les personnes qui les ont souscrits sont tenues solidairement et indéfiniment par les obligations qu’ils comportent.

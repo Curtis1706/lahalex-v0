@@ -1,0 +1,14 @@
+{
+  "id": "article-6-",
+  "title": "Article 6 : Réponse à la demande",
+  "numero": "6 ",
+  "document": "reglement-arbitrage-ccja-ohada",
+  "path": [
+    "chapitre-2"
+  ],
+  "navigation": {
+    "parent": "chapitre-2",
+    "previous": "article-5-",
+    "next": "article-7-"
+  }
+}

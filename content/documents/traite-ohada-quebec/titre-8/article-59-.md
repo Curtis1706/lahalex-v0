@@ -1,0 +1,2 @@
+(Québec 2008) Le Gouvernement dépositaire enregistrera le Traité auprès de l’Union  Africaine  et  auprès  de l’Organisation des Nations Unies confor- mément à l’article 102 de la charte des Na- tions-Unies.
+Une copie du Traité enregistré sera déli- vrée au Secrétariat Permanent par le Gou- vernement dépositaire.

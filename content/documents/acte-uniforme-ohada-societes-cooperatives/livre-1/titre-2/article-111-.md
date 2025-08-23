@@ -1,0 +1,1 @@
+Toute modification dans la présentation des états financiers de synthèse ou dans les méthodes d’évaluation, d’amortissement ou de provisions conformes à l’Acte uniforme por- tant organisation et harmonisation des comptabilités des entreprises doit être signalée dans le rapport de gestion.

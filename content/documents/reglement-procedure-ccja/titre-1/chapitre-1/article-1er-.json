@@ -1,0 +1,14 @@
+{
+  "id": "article-1er-",
+  "title": "Article 1er :",
+  "numero": "1er ",
+  "document": "reglement-procedure-ccja",
+  "path": [
+    "titre-1",
+    "chapitre-1"
+  ],
+  "navigation": {
+    "parent": "chapitre-1",
+    "next": "article-2-"
+  }
+}

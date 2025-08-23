@@ -1,0 +1,1 @@
+Le Président, le Vice-Président de la Commission et les Commissaires sont nommés par la Conférence des Chefs d’Etat pour un mandat de quatre ans renouvelable une fois. Ils sont choisis sur la base des critères de compétence, d’objectivité et d’indépendance.

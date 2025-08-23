@@ -1,0 +1,1 @@
+Le Traité de la CEMAC peut être dénoncé par tout Etat membre. Il cesse d'avoir effet à l'égard de celui-ci le dernier jour du 6 mois suivant la date de notification à la Conférence des Chefs d'Etat. Ce délai peut cependant être abrégé d'un commun accord entre les Etats signataires.

@@ -1,4 +1,4 @@
-LE MECANISME D’ALERTE RAPIDE DE 50’AFRIQUE CENTRALE
+LE MECANISME D’ALERTE RAPIDE DE L’AFRIQUE CENTRALE
 1. Le MARAC est un système d’observation et d’alerte préventive destiné à mettre en œuvre une réponse prompte aux menaces de crises et conflits.
 1. Il est chargé de la collecte et de l’analyse prévisionnelle des données et informations structurelles et conjoncturelles aux fins de la prévention des crises et des conflits.
 1. Le MARAC est constitué d’un Centre d’observation et de suivi au siège de la Commission, disposant de bureaux nationaux dans les Etats membres.

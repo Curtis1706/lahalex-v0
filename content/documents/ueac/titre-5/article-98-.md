@@ -1,0 +1,2 @@
+Les dispositions de la présente Convention ne font pas obstacle aux mesures qu'un Etat peut être amené à prendre en cas de troubles intérieurs graves affectant l'ordre public, ainsi qu'en cas de guerre ou de tension internationale grave constituant une menace de guerre.
+Dans ce cas, les Etats membres se consultent d'urgence en vue de prendre en commun les dispositions nécessaires pour éviter que le fonctionnement de l'Union Economique ne soit affecté par de telles mesures.

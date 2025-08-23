@@ -1,0 +1,15 @@
+{
+  "id": "article-21-",
+  "title": "Article 21 :",
+  "numero": "21 ",
+  "document": "parlement-communautaire-cemac",
+  "path": [
+    "titre-2",
+    "chapitre-1"
+  ],
+  "navigation": {
+    "parent": "chapitre-1",
+    "previous": "article-20-",
+    "next": "article-22-"
+  }
+}

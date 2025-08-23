@@ -1,0 +1,16 @@
+{
+  "id": "article-89",
+  "title": "Article 89:",
+  "numero": "89",
+  "document": "aupc-ohada",
+  "path": [
+    "titre-2",
+    "chapitre-3",
+    "sous-section-2"
+  ],
+  "navigation": {
+    "parent": "sous-section-2",
+    "previous": "article-88",
+    "next": "article-90"
+  }
+}

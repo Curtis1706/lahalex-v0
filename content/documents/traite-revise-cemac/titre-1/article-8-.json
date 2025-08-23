@@ -1,0 +1,14 @@
+{
+  "id": "article-8-",
+  "title": "Article 8 :",
+  "numero": "8 ",
+  "document": "traite-revise-cemac",
+  "path": [
+    "titre-1"
+  ],
+  "navigation": {
+    "parent": "titre-1",
+    "previous": "article-7-",
+    "next": "article-9-"
+  }
+}

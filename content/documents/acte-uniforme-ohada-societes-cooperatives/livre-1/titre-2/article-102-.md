@@ -1,0 +1,1 @@
+Chaque coopérateur dispose d’une voix quelle que soit l’importance de sa participa- tion au capital de la société coopérative.

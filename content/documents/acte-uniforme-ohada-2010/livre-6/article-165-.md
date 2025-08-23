@@ -1,0 +1,1 @@
+La vente se fait à la barre de la juridiction compétente, dans les formes des criées.

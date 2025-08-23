@@ -1,0 +1,2 @@
+Tout différend qui pourrait surgir entre  les  Etats-Parties  quant  à l’interprétation ou à l’application du pré- sent  Traité  et  qui  ne  serait  pas  résolu  à l’amiable peut être porté par un Etat Partie devant  la  Cour  Commune  de  Justice  et d’Arbitrage.
+Si la Cour compte sur le siège un juge de la nationalité d’une des parties, toute autre partie peut désigner un juge ad hoc pour siéger  dans  l’affaire.  Ce  dernier  devra remplir les conditions fixées à l’article 31 ci-dessus.

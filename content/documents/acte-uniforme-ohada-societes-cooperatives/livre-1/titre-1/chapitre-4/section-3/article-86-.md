@@ -1,0 +1,2 @@
+Toute société coopérative est constituée à compter de l’assemblée générale constitu- tive et de la signature de ses statuts par les coopérateurs.
+Avant son immatriculation au Registre des Sociétés Coopératives, l’existence de la société coopérative n’est pas opposable aux personnes autres que les coopérateurs. Néanmoins, cel- les-ci peuvent s’en prévaloir.

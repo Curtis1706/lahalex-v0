@@ -1,0 +1,1 @@
+50’arrivée du terme entraîne la dissolution de plein droit de la société coopérative, à moins que sa prorogation soit décidée dans les conditions du présent Acte uniforme.

@@ -1,0 +1,2 @@
+(Québec 2008) Le Traité, rédigé en deux exemplaires en langues française, anglaise, espagnole et portugaise, sera dé- posé dans les archives du Gouvernement de la République du Sénégal qui remettra une copie certifiée conforme à chacun des Etats parties.
+[NB  -  Les  dispositions  modificatives  du Traité  de  Québec  entrent  en  vigueur soixante  jours  après  la  date  du  dépôt  du huitième instrument de ratification.]

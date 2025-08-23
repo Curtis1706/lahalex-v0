@@ -1,0 +1,1 @@
+Les langues de travail de la Communauté sont le français, l’anglais, l’espagnol et l’arabe.

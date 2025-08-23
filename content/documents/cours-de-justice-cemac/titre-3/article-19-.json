@@ -1,0 +1,14 @@
+{
+  "id": "article-19-",
+  "title": "Article 19 :",
+  "numero": "19 ",
+  "document": "cours-de-justice-cemac",
+  "path": [
+    "titre-3"
+  ],
+  "navigation": {
+    "parent": "titre-3",
+    "previous": "article-18-",
+    "next": "article-20-"
+  }
+}

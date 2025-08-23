@@ -1,0 +1,1 @@
+50’union de sociétés coopératives est constituée par l’adoption de ses statuts par l’assemblée générale constitutive réunissant au moins trois délégués dûment mandatés par chacune des sociétés coopératives membres fondatrices.

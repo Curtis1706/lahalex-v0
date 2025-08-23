@@ -1,0 +1,2 @@
+Toute société coopérative est tenue, si elle exploite des établissements secondaires ou des succursales dans le ressort d’autres autorités administratives chargées de la tenue du Re- gistre des Sociétés Coopératives, de souscrire une déclaration d’immatriculation secondaire dans le délai d’un mois à compter du début de l’exploitation.
+Cette déclaration doit mentionner, outre la référence à l’immatriculation principale, les ren- seignements requis pour les sociétés coopératives par l’article 75 ci-dessus.

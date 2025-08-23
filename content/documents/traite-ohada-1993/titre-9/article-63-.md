@@ -1,0 +1,1 @@
+Le présent Traité, rédigé en deux exemplaires, en langue fran aise, sera déposé dans les archives du gouvernement de la République du Sénégal qui remettra une copie certifiée conforme chacun des autres Etats Parties signataires.

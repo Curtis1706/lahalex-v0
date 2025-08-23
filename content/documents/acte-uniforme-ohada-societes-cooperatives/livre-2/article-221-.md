@@ -1,0 +1,3 @@
+Les statuts peuvent prévoir en cas de décès d’un coopérateur, l’admission d’un ou plusieurs héritiers ou d’un successeur de ce dernier à la société coopérative, à condition qu’ils partagent le lien commun. Les statuts définissent les conditions de cette admission.
+50’admission ou le refus d’admission est prononcé dans un délai qui ne peut excéder trois mois à compter de la réception de la demande y afférente. A défaut de réponse dans le délai impar- ti, l’admission est réputée acquise.
+La décision d’admission ou de rejet doit être notifiée à chaque héritier ou successeur intéressé par tout procédé laissant trace écrite.

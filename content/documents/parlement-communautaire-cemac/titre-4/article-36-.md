@@ -1,0 +1,1 @@
+La présente Convention entre en vigueur après sa signature par les Etats membres et soixante (60) jours après le dépôt de l'instrument de ratification auprès de la République du Tchad qui en informera les Etats membres signataires et leur en délivrera copies certifiées conformes.

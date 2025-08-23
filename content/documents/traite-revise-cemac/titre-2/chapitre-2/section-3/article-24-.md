@@ -1,0 +1,1 @@
+Les dispositions relatives à l’organisation, au fonctionnement et aux modalités de prise de décisions sont prévues dans la Convention régissant l’UMAC.

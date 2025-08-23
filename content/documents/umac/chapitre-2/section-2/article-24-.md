@@ -1,0 +1,1 @@
+Les signes monétaires mis en circulation par la BEAC dans chaque Etat membre de l’Union Monétaire ont également cours légal et pouvoir libératoire dans les autres Etats membres.

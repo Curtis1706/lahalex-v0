@@ -1,0 +1,1 @@
+Sous réserve des dispositions spécifiques prévues à l’article 386 ci-dessus, sont ap- plicables aux sociétés coopératives ainsi qu’à leurs unions, fédérations et confédérations, les dispositions non contraires des articles 886 à 905 de l’Acte uniforme relatif au droit des socié- tés commerciales et du groupement d’intérêt économique.

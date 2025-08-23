@@ -1,4 +1,4 @@
-1) 50'article 96 ne porte pas atteinte au droit des Etats membres à :
+1) L'article 96 ne porte pas atteinte au droit des Etats membres à :
 1) prendre des mesures indispensables pour prévenir les infractions à leur législation fiscale ;
 1) prévoir éventuellement des dispositions afin de renforcer les moyens d'information statistique sur les mouvements de capitaux ;
 1) prendre des mesures justifiées par des raisons d'ordre public ou de sécurité publique.

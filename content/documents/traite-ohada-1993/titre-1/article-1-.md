@@ -1,0 +1,2 @@
+Le présent Traité a pour objet l’harmonisation du droit des affaires dans les Etats Parties par l’élaboration et l’adoption de rŁgles communes simples, modernes et adaptées la situation de leurs économies, par la mise en
+oeuvre de procédures judiciaires appropriées, et par l’encouragement au recours l’arbitrage pour le rŁglement des différends contractuels.

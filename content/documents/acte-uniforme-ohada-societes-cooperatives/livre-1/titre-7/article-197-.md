@@ -1,0 +1,2 @@
+Les dispositions des articles 182 à 196 ci-dessus s’appliquent également aux unions, fédérations et confédérations des sociétés coopératives.
+Dans le cas des unions, fédérations et confédérations, la dissolution et la liquidation ainsi pro- noncées ne préjudicient pas aux organisations de base affiliées auxquelles ces fautes ne sont pas imputables.

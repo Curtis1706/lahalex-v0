@@ -1,0 +1,14 @@
+{
+  "id": "article-15-",
+  "title": "Article 15 :",
+  "numero": "15 ",
+  "document": "statut-ersuma-ohada",
+  "path": [
+    "titre-3"
+  ],
+  "navigation": {
+    "parent": "titre-3",
+    "previous": "article-14-",
+    "next": "article-16-"
+  }
+}

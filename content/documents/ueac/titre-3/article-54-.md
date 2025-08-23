@@ -1,0 +1,2 @@
+Le Collège de Surveillance se réunit au moins deux fois par an sur convocation du Président de la Commission en vue de préparer les réunions du Conseil des Ministres relatives à l'exercice de la Surveillance Multilatérale. Le Collège de Surveillance veille au bon fonctionnement de la Cellule communautaire et des Cellules nationales.
+Il est composé de deux (2) représentants par Cellule nationale désignés à titre personnel et de deux (2) représentants de la Cellule communautaire, dont un de la BEAC et un autre de la Commission. Il est présidé par le Président de la Commission.

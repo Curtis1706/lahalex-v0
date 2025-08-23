@@ -1,0 +1,1 @@
+Les parts sociales ne sont pas négociables. Elles sont insaisissables et ne peuvent faire l’objet d’un nantissement.

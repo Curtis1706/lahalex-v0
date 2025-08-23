@@ -1,0 +1,2 @@
+Les membres de la Cour de Justice de la CEMAC élisent en leur sein, pour un mandat de trois (03) ans renouvelable une (01) fois, le Président de la Cour, et pour un mandat d’un (01) an renouvelable une (01) fois, l’Avocat Général.
+Les postes de Président et d’Avocat Général sont rotatifs entre les Etats membres.

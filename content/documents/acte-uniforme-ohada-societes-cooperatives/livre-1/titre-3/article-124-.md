@@ -1,0 +1,2 @@
+50’action individuelle est l’action en réparation du dommage subi par un tiers ou par un coopérateur, lorsque celui-ci subit un dommage distinct du dommage que pourrait subir la société coopérative, du fait de la faute commise individuellement ou collectivement par les dirigeants sociaux dans l’exercice de leurs fonctions.
+Cette action est intentée par celui qui subit le dommage.

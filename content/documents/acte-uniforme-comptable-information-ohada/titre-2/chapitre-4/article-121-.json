@@ -1,0 +1,15 @@
+{
+  "id": "article-121-",
+  "title": "Article 121 :",
+  "numero": "121 ",
+  "document": "acte-uniforme-comptable-information-ohada",
+  "path": [
+    "titre-2",
+    "chapitre-4"
+  ],
+  "navigation": {
+    "parent": "chapitre-4",
+    "previous": "article-120-",
+    "next": "article-122-"
+  }
+}

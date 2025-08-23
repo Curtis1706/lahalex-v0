@@ -1,0 +1,1 @@
+Le président du conseil d’administration ne peut pas être lié à la société coopérative avec conseil d’administration par un contrat de travail.

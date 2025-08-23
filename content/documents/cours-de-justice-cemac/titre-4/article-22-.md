@@ -1,0 +1,1 @@
+La Cour de Justice Communautaire a une triple fonction : juridictionnelle, consultative et d’administration des arbitrages dans les matières relevant du droit communautaire de la CEMAC.

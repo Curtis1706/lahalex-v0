@@ -1,0 +1,3 @@
+complément de formation des auxiliaires de justice 1 - a la demande des etats membres ou de certains d'entre eux, l'ERSUMA assure un complément de formation et une spécialisation pour les auxiliaires de justice, sous forme de cycles de perfectionnement.
+2 - l'organisation de ces cycles est définie par le plan de formation adopte annuellement par le conseil d'administration.
+3 - la mise en place, la durée et le programme de ces cycles sont décidés par le directeur général, après avis du conseil d'établissement.

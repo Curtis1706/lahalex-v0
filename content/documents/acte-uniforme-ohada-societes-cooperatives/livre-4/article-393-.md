@@ -1,0 +1,1 @@
+Si, pour une raison quelconque, l’assemblée générale des coopérateurs n’a pu sta- tuer régulièrement, le projet de mise en harmonie des statuts sera soumis à l’homologation du président de la juridiction compétente statuant sur requête des représentants légaux de la so- ciété coopérative.

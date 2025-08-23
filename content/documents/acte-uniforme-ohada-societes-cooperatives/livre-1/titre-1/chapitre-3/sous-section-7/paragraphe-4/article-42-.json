@@ -1,0 +1,18 @@
+{
+  "id": "article-42-",
+  "title": "Article 42 :",
+  "numero": "42 ",
+  "document": "acte-uniforme-ohada-societes-cooperatives",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-3",
+    "sous-section-7",
+    "paragraphe-4"
+  ],
+  "navigation": {
+    "parent": "paragraphe-4",
+    "previous": "article-41-",
+    "next": "article-43-"
+  }
+}

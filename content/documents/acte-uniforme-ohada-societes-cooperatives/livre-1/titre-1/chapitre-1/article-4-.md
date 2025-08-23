@@ -1,0 +1,2 @@
+La société coopérative est un groupement autonome de personnes volontairement ré- unies pour satisfaire leurs aspirations et besoins économiques, sociaux et culturels communs, au moyen d’une entreprise dont la propriété et la gestion sont collectives et où le pouvoir est exercé démocratiquement et selon les principes coopératifs.
+La société coopérative peut, en plus de ses coopérateurs qui en sont les principaux usagers, traiter avec des usagers non coopérateurs dans les limites que fixent les statuts.

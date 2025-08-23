@@ -1,0 +1,2 @@
+Les actes pris pour l’adoption des règles communes prévues à l’article 1 du présent  Traité  sont  qualifiés  « actes  uni- formes ».
+Les  actes  uniformes  peuvent  inclure  des dispositions  d’incrimination  pénale.  Les Etats-Parties  s’engagent  à  déterminer  les sanctions pénales encourues.

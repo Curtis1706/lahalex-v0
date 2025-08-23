@@ -1,0 +1,1 @@
+En contrepartie de leurs apports et selon la forme de la société coopérative, les coo- pérateurs reçoivent dans les conditions précisées par le présent Acte uniforme, des parts socia- les émises par la société coopérative.

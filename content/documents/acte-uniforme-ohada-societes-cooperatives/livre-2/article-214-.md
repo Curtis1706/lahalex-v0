@@ -1,0 +1,3 @@
+Les fonds ainsi déposés sont indisponibles jusqu’au jour de l’immatriculation de la société au Registre des Sociétés Coopératives. A compter de ce jour, ils sont mis à la disposi- tion du comité de gestion désigné dans les statuts ou dans un acte postérieur.
+Dans le cas où la société coopérative ne serait pas immatriculée dans le délai de six mois à compter du 1 dépôt des fonds, les apporteurs peuvent, soit individuellement, soit par mandataire les représentant collectivement, demander au président de la juridiction compéten- te l’autorisation de retirer le montant de leurs apports.
+Les apporteurs peuvent également, individuellement ou collectivement, requérir de l’autorité chargée des sociétés coopératives qu’elle autorise le retrait individuel de leur apport.

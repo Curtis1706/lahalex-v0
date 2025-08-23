@@ -1,0 +1,1 @@
+Dans les sociétés coopératives simplifiées, un avis est envoyé à l’autorité compéten- te habilitée par la loi nationale à enregistrer la coopérative dans un délai de huit jours. Cet avis contient la décision de liquidation et les modalités de mise en œuvre.

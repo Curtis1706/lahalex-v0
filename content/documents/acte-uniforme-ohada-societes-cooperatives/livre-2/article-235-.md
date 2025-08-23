@@ -1,0 +1,2 @@
+Les délibérations de l’assemblée générale sont constatées par des procès-verbaux qui indiquent la date et le lieu de réunion, les nom et prénoms des coopérateurs présents, les documents et rapports soumis à discussion, un résumé des débats, le texte des résolutions mi- ses aux voix et le résultat des votes.
+Le procès-verbal doit être signé par chacun des coopérateurs présents, à moins que les statuts n’en disposent autrement.

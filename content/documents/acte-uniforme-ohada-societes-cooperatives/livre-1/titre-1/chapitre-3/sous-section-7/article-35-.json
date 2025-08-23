@@ -1,0 +1,17 @@
+{
+  "id": "article-35-",
+  "title": "Article 35 :",
+  "numero": "35 ",
+  "document": "acte-uniforme-ohada-societes-cooperatives",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-3",
+    "sous-section-7"
+  ],
+  "navigation": {
+    "parent": "sous-section-7",
+    "previous": "article-34-",
+    "next": "article-36-"
+  }
+}

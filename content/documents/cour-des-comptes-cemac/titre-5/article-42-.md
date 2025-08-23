@@ -1,0 +1,1 @@
+Dans tous les textes communautaires et actes en vigueur, l'appellation Chambre des Comptes est désormais remplacée par celle de Cour des Comptes.

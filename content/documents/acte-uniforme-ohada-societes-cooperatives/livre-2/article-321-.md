@@ -1,0 +1,2 @@
+Les procès-verbaux du conseil d’administration sont certifiés sincères par le prési- dent de séance et par au moins un administrateur.
+En cas d’empêchement du président de séance, ils sont signés par deux administrateurs au moins.

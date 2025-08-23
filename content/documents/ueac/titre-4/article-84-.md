@@ -1,0 +1,1 @@
+Le Président et les autres membres de la Commission peuvent être auditionnés par le Parlement Communautaire à la demande de celuici.

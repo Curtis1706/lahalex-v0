@@ -1,0 +1,2 @@
+l'OHADA, ses avoirs, ses biens et ses revenus ainsi que les opérations autorisées par le présent Traité sont
+exonérés de tous imp ts, taxes et droits de douane. l'OHADA est également exempte de toute obligation relative au recouvrement ou au paiement d’imp ts, de taxes ou de droits de douane.

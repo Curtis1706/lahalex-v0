@@ -1,0 +1,3 @@
+Toute partie qui, aprŁs avoir soulevé l’incompétence d’une juridiction nationale statuant en cassation estime que cette juridiction a, dans un litige la concernant, méconnu la compétence de la Cour Commune de Justice et d’Arbitrage peut saisir cette derniŁre dans un délai de deux mois compter de la notification de la décision contestée.
+La Cour se prononce sur sa compétence par un arrŒt qu’elle notifie tant aux parties qu’ la juridiction en cause.
+Si la Cour décide que cette juridiction s’est déclarée compétente tort, la décision rendue par cette juridiction est réputée nulle et non avenue.

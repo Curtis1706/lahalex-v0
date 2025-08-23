@@ -1,0 +1,1 @@
+Dès saisine de la Cour, le Président désigne un juge rapporteur chargé de suivre l’instruction de l’affaire et de faire rapport   la Cour.

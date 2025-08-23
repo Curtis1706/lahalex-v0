@@ -1,0 +1,1 @@
+La cession de tout ou partie de l’actif de la société coopérative en liquidation au liquidateur, à ses employés ou à leur conjoint, ascendants ou descendants, est interdite.

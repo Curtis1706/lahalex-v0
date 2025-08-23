@@ -1,0 +1,2 @@
+Après réception de la demande d’arbitrage, de la réponse et, éventuellement de la note complémentaire telles que visées aux articles 5, 6 et 7 ci-dessus, ou passé les délais pour les recevoir, le Secrétaire Général saisit la Cour pour la fixation de la provision pour les frais de l’arbitrage, pour la mise en œuvre de celui-ci et, s’il y a lieu, la fixation du lieu de l’arbitrage.
+Le dossier est envoyé à l’arbitre quand le tribunal arbitral est constitué et que les décisions prises en application de l’article 11.2 pour le paiement de la provision ont été satisfaites.

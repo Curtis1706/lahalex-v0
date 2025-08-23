@@ -1,0 +1,2 @@
+Le Conseil supérieur des comptes peut valablement délibérer avec les deux tiers (2/3) de ses membres. Ses avis ou décisions sont pris à la majorité simple des voix.
+En cas de partage égal des voix, celle du président est prépondérante.

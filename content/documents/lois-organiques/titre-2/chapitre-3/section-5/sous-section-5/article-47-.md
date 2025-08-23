@@ -1,0 +1,1 @@
+Outre les formations prévues par la présente loi, le président de la Cour peut instituer par note de service, des commissions ou comités auxquels il assigne des missions spécifiques.

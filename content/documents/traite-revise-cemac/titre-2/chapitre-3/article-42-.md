@@ -1,0 +1,1 @@
+Les règlements, les règlementaires cadres, les directives et les décisions du Conseil des Ministres, du Comité Ministériel, de la Commission et des autres Institutions, Organes et Institutions Spécialisées de la Communauté sont motivés.

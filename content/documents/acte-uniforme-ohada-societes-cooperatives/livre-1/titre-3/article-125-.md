@@ -1,0 +1,1 @@
+La juridiction compétente pour connaître de l’action individuelle est celle dans le ressort de laquelle est situé le siège de la société coopérative

@@ -1,0 +1,1 @@
+Les instruments de ratification et les instruments d’adhésion seront déposés auprŁs du Gouvernement du Sénégal qui sera le Gouvernement dépositaire. Copie en sera délivrée au Secrétariat Permanent par ce dernier.

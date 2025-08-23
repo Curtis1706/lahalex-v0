@@ -1,0 +1,2 @@
+Dans les rapports entre associés et sous réserve des dispositions légales spécifiques à chaque forme de société coopérative, les statuts peuvent limiter les pouvoirs des organes de gestion et d’administration.
+Ces limitations sont inopposables aux personnes autres que les coopérateurs qui sont de bonne foi.

@@ -1,0 +1,2 @@
+Les budgets annuels de la Cour Commune de Justice et d’Arbitrage et du Secrétariat permanent sont adoptés par le Conseil des ministres.
+Les comptes de l’exercice clos sont certifiés par des commissaires aux comptes désignés par le Conseil des ministres. Ils sont approuvés par le Conseil des ministres.

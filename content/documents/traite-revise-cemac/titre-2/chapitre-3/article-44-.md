@@ -1,0 +1,1 @@
+Sous réserve des dispositions de l’article 43 du présent Traité, les actes adoptés par les Institutions, Organes et Institutions Spécialisées de la Communauté pour la réalisation des objectifs du présent Traité sont appliqués dans chaque Etat membre nonobstant toute législation nationale contraire, antérieure ou postérieure.

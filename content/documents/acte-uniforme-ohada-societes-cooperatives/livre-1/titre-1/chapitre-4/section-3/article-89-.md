@@ -1,0 +1,1 @@
+Entre la date de constitution de la société coopérative et celle de son immatriculation au Registre des Sociétés Coopératives, les rapports entre les coopérateurs sont régis par les statuts et par les règles générales de droit applicables aux obligations dans l’Etat du siège so- cial.

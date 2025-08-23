@@ -1,0 +1,2 @@
+En attendant l'adoption d'un Acte additionnel pris en application de la Convention régissant la Cour des Comptes de la CEMAC, les Actes additionnels n°005/00/CEMAC-041-CCE-CJ-02 du 14 décembre 2000 portant règles de procédure devant la Chambre des Comptes de la Cour
+de Justice de la CEMAC et 007/00/CEMAC-041-CCE-CJ-02 du 14 décembre 2000 portant statut de la Chambre des Comptes s’appliquent à la procédure devant la Cour des Comptes de la CEMAC.

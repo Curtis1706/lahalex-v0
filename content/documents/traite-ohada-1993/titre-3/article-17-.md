@@ -1,0 +1,1 @@
+l'incompétence manifeste de la Cour Commune de Justice et d’Arbitrage peut Œtre soulevée d’office ou par toute partie au litige in limine litis. La Cour se prononce dans les trente jours.

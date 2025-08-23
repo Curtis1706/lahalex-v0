@@ -1,0 +1,2 @@
+A la clôture de chaque exercice, le comité de gestion ou le conseil d’administration, selon le cas, établit et arrête les états financiers de synthèse conformément aux dispositions du présent Acte uniforme et de l’Acte uniforme portant organisation et harmonisation des comp- tabilités des entreprises.
+Les états financiers sont signés par une personne dûment accréditée pour engager la responsa- bilité de la société coopérative et certifiés par un commissaire aux comptes si la société coo- pérative en est dotée.

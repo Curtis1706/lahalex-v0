@@ -1,0 +1,269 @@
+{
+  "id": "acte-uniforme-mediation-ohada",
+  "title": "Acte uniforme relatif au droit de la médiation OHADA",
+  "type": "ohada",
+  "description": "Cet acte uniforme établit les règles de la médiation dans l’espace OHADA, permettant le règlement amiable des différends commerciaux entre les États membres par des procédures harmonisées.",
+  "structure": {
+    "sections": [
+      {
+        "id": "chapitre-1",
+        "title": "CHAPITRE 1 : DÉFINITIONS ET CHAMP D’APPLICATION",
+        "type": "chapitre",
+        "level": 1,
+        "order": 0,
+        "path": [
+          "chapitre-1"
+        ],
+        "children": [
+          "article-1-",
+          "article-2-"
+        ]
+      },
+      {
+        "id": "article-1-",
+        "title": "Article 1 :",
+        "type": "article",
+        "level": 3,
+        "order": 1,
+        "path": [
+          "chapitre-1",
+          "article-1-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-2-",
+        "title": "Article 2 :",
+        "type": "article",
+        "level": 3,
+        "order": 2,
+        "path": [
+          "chapitre-1",
+          "article-2-"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-2",
+        "title": "CHAPITRE 2 : PROCÉDURE DE MÉDIATION",
+        "type": "chapitre",
+        "level": 1,
+        "order": 3,
+        "path": [
+          "chapitre-2"
+        ],
+        "children": [
+          "article-3-",
+          "article-4-",
+          "article-5-",
+          "article-6-",
+          "article-7-",
+          "article-8-",
+          "article-9-",
+          "article-10-",
+          "article-11-",
+          "article-12-",
+          "article-13-",
+          "article-14-",
+          "article-15-",
+          "article-16-"
+        ]
+      },
+      {
+        "id": "article-3-",
+        "title": "Article 3 :",
+        "type": "article",
+        "level": 3,
+        "order": 4,
+        "path": [
+          "chapitre-2",
+          "article-3-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-4-",
+        "title": "Article 4 :",
+        "type": "article",
+        "level": 3,
+        "order": 5,
+        "path": [
+          "chapitre-2",
+          "article-4-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-5-",
+        "title": "Article 5 :",
+        "type": "article",
+        "level": 3,
+        "order": 6,
+        "path": [
+          "chapitre-2",
+          "article-5-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-6-",
+        "title": "Article 6 :",
+        "type": "article",
+        "level": 3,
+        "order": 7,
+        "path": [
+          "chapitre-2",
+          "article-6-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-7-",
+        "title": "Article 7 :",
+        "type": "article",
+        "level": 3,
+        "order": 8,
+        "path": [
+          "chapitre-2",
+          "article-7-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-8-",
+        "title": "Article 8 :",
+        "type": "article",
+        "level": 3,
+        "order": 9,
+        "path": [
+          "chapitre-2",
+          "article-8-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-9-",
+        "title": "Article 9 :",
+        "type": "article",
+        "level": 3,
+        "order": 10,
+        "path": [
+          "chapitre-2",
+          "article-9-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-10-",
+        "title": "Article 10 :",
+        "type": "article",
+        "level": 3,
+        "order": 11,
+        "path": [
+          "chapitre-2",
+          "article-10-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-11-",
+        "title": "Article 11 :",
+        "type": "article",
+        "level": 3,
+        "order": 12,
+        "path": [
+          "chapitre-2",
+          "article-11-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-12-",
+        "title": "Article 12 :",
+        "type": "article",
+        "level": 3,
+        "order": 13,
+        "path": [
+          "chapitre-2",
+          "article-12-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-13-",
+        "title": "Article 13 :",
+        "type": "article",
+        "level": 3,
+        "order": 14,
+        "path": [
+          "chapitre-2",
+          "article-13-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-14-",
+        "title": "Article 14 :",
+        "type": "article",
+        "level": 3,
+        "order": 15,
+        "path": [
+          "chapitre-2",
+          "article-14-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-15-",
+        "title": "Article 15 :",
+        "type": "article",
+        "level": 3,
+        "order": 16,
+        "path": [
+          "chapitre-2",
+          "article-15-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-16-",
+        "title": "Article 16 :",
+        "type": "article",
+        "level": 3,
+        "order": 17,
+        "path": [
+          "chapitre-2",
+          "article-16-"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-3",
+        "title": "CHAPITRE 3 : DISPOSITIONS TRANSITOIRES ET FINALES",
+        "type": "chapitre",
+        "level": 1,
+        "order": 18,
+        "path": [
+          "chapitre-3"
+        ],
+        "children": [
+          "article-17-"
+        ]
+      },
+      {
+        "id": "article-17-",
+        "title": "Article 17 :",
+        "type": "article",
+        "level": 3,
+        "order": 20,
+        "path": [
+          "chapitre-3",
+          "article-17-"
+        ],
+        "children": []
+      }
+    ],
+    "totalArticles": 17
+  },
+  "source": "internationale"
+}

@@ -1,0 +1,3 @@
+(Québec 2008) Le Traité peut être amendé ou révisé si un Etat partie envoie, à cet effet, une demande écrite au Secréta- riat Permanent de l’OHADA qui en saisit le Conseil des Ministres.
+Le Conseil des Ministres apprécie l’objet de la demande et l’étendue de la modification.
+L’amendement  ou  la  révision  doit  être adopté dans les mêmes formes que le Trai- té à la diligence du Conseil des Ministres.

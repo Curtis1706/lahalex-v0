@@ -1,0 +1,1 @@
+Les initiateurs de la société coopérative avec conseil d’administration auxquels la nullité de l’assemblée constitutive est imputable et les administrateurs en fonction au moment où elle a été encourue, peuvent être déclarés solidairement responsables du dommage résul- tant, pour les personnes autres que les coopérateurs, de l’annulation de la société.

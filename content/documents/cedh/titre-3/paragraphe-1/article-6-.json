@@ -1,0 +1,15 @@
+{
+  "id": "article-6-",
+  "title": "Article 6 : Signature et ratification",
+  "numero": "6 ",
+  "document": "cedh",
+  "path": [
+    "titre-3",
+    "paragraphe-1"
+  ],
+  "navigation": {
+    "parent": "paragraphe-1",
+    "previous": "article-5-",
+    "next": "article-1-"
+  }
+}

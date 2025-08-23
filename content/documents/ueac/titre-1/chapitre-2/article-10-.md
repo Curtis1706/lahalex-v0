@@ -1,0 +1,1 @@
+Les Etats membres apportent leur concours à la réalisation des objectifs de l'Union Economique. Ils s'abstiennent de toute mesure susceptible de faire obstacle à l'application de la présente Convention et des actes juridiques pris pour sa mise en œuvre.

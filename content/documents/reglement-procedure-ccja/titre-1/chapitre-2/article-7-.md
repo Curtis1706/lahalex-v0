@@ -1,0 +1,1 @@
+Le Président dirige les travaux et contr le les services de la Cour.  Il en préside les séances.  Il représente la Cour et exerce toute autre mission qui lui est confiée par celle-ci.

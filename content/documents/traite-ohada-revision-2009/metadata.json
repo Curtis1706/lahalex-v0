@@ -1,0 +1,210 @@
+{
+  "id": "traite-ohada-revision-2009",
+  "title": "Traité portant révision du Traité relatif à l’harmonisation du droit des affaires en Afrique (OHADA)",
+  "type": "ohada",
+  "description": "Traité portant révision du Traité OHADA initial signé à Port-Louis (Île Maurice) le 17 octobre 1993, publié au Journal Officiel de l’OHADA n°20 du 1er novembre 2009. Ce traité renforce la sécurité juridique et judiciaire dans l’espace OHADA, consolide et promeut les acquis de l’Organisation et modifie plusieurs articles du Traité de 1993.",
+  "structure": {
+    "sections": [
+      {
+        "id": "article-0-",
+        "title": "Article 0 : Préambule",
+        "type": "article",
+        "level": 1,
+        "order": 0,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-1-",
+        "title": "Article 1 :",
+        "type": "article",
+        "level": 1,
+        "order": 1,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-3-",
+        "title": "Article 3 :",
+        "type": "article",
+        "level": 1,
+        "order": 2,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-4-",
+        "title": "Article 4 :",
+        "type": "article",
+        "level": 1,
+        "order": 3,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-7-",
+        "title": "Article 7 :",
+        "type": "article",
+        "level": 1,
+        "order": 4,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-9-",
+        "title": "Article 9 :",
+        "type": "article",
+        "level": 1,
+        "order": 5,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-12-",
+        "title": "Article 12 :",
+        "type": "article",
+        "level": 1,
+        "order": 6,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-1",
+        "title": "Article 17",
+        "type": "article",
+        "level": 1,
+        "order": 8,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-27-",
+        "title": "Article 27 :",
+        "type": "article",
+        "level": 1,
+        "order": 9,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-31-",
+        "title": "Article 31 :",
+        "type": "article",
+        "level": 1,
+        "order": 10,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-3",
+        "title": "Article 39",
+        "type": "article",
+        "level": 1,
+        "order": 11,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-4",
+        "title": "Article 40",
+        "type": "article",
+        "level": 1,
+        "order": 12,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-41-",
+        "title": "Article 41 :",
+        "type": "article",
+        "level": 1,
+        "order": 13,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-42-",
+        "title": "Article 42 :",
+        "type": "article",
+        "level": 1,
+        "order": 14,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-43-",
+        "title": "Article 43 :",
+        "type": "article",
+        "level": 1,
+        "order": 15,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-45-",
+        "title": "Article 45 :",
+        "type": "article",
+        "level": 1,
+        "order": 16,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-49-",
+        "title": "Article 49 :",
+        "type": "article",
+        "level": 1,
+        "order": 17,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-57-",
+        "title": "Article 57 :",
+        "type": "article",
+        "level": 1,
+        "order": 18,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-59-",
+        "title": "Article 59 :",
+        "type": "article",
+        "level": 1,
+        "order": 19,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-6",
+        "title": "Article 61",
+        "type": "article",
+        "level": 1,
+        "order": 20,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-63-",
+        "title": "Article 63 :",
+        "type": "article",
+        "level": 1,
+        "order": 21,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-2-",
+        "title": "Article 2 :",
+        "type": "article",
+        "level": 1,
+        "order": 23,
+        "path": [],
+        "children": []
+      }
+    ],
+    "totalArticles": 23
+  },
+  "source": "internationale"
+}

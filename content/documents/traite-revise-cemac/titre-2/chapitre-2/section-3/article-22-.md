@@ -1,0 +1,3 @@
+Chaque Etat membre est représenté au Comité Ministériel par deux Ministres, dont le Ministre chargé des finances, et ne dispose que d’une voix exprimée par ce dernier.
+La Présidence du Comité Ministériel est tournante. Elle est assurée, pour une année civile et par ordre alphabétique des Etats membres, par le Ministre des Finances.
+Le Comité Ministériel se réunit sur convocation de son Président au moins deux fois par an dont une pour la ratification des comptes de la BEAC. Il se réunit également à la demande de la moitié de ses membres ou encore à la demande d’un Organe ou d’une Institution Spécialisée de l’UMAC.

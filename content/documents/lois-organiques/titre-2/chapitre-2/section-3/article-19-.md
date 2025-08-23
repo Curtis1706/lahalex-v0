@@ -1,0 +1,1 @@
+Les magistrats du parquet général près la Cour des comptes sont le procureur général et les avocats généraux.

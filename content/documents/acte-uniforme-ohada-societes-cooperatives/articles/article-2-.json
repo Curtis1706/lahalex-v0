@@ -1,0 +1,12 @@
+{
+  "id": "article-2-",
+  "title": "Article 2 :",
+  "numero": "2 ",
+  "document": "acte-uniforme-ohada-societes-cooperatives",
+  "path": [],
+  "navigation": {
+    "parent": "acte-uniforme-ohada-societes-cooperatives",
+    "previous": "article-1-",
+    "next": "article-3-"
+  }
+}

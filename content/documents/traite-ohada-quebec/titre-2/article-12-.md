@@ -1,0 +1,2 @@
+(Québec 2008) Les Actes unifor- mes peuvent être modifiés, à la demande de tout Etat Partie ou du Secrétariat Per- manent, après autorisation du Conseil des Ministres.
+La modification intervient dans les condi- tions  prévues  par  les  articles  6  à  9  ci- dessus.

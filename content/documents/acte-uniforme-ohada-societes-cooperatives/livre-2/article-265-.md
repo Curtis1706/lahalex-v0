@@ -1,0 +1,1 @@
+La société coopérative simplifiée est dissoute pour les causes communes applica- bles à toutes les sociétés coopératives.

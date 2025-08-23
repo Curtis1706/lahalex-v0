@@ -1,0 +1,1 @@
+Le contrôle des activités de la Communauté est assuré respectivement par le Parlement Communautaire, la Cour de Justice et la Cour des Comptes.

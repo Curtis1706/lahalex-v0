@@ -1,0 +1,1 @@
+La confédération de sociétés coopératives est immatriculée au Registre des Sociétés Coopératives conformément aux dispositions du présent Acte uniforme et acquiert la person- nalité juridique dans les mêmes conditions.

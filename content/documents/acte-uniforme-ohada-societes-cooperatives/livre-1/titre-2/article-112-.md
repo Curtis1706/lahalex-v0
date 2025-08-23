@@ -1,0 +1,1 @@
+Les statuts peuvent prévoir le versement de ristournes aux coopérateurs proportion- nellement aux opérations faites par eux avec la société coopérative ou au travail effectué en faveur de cette dernière.

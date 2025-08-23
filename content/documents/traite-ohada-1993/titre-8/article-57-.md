@@ -1,0 +1,1 @@
+Les instruments de ratification et les instruments d’adhésion seront déposés auprŁs du gouvernement du Sénégal, qui sera le gouvernement dépositaire.

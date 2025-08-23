@@ -1,0 +1,2 @@
+Les décisions collectives sont prises en assemblée générale.
+Chaque coopérateur a le droit de participer aux décisions de l’assemblée générale et ne dispo- se que d’une voix, quel que soit le nombre de parts sociales qu’il possède.

@@ -1,0 +1,1 @@
+La responsabilité des coopérateurs est au minimum égale au montant des parts so- ciales souscrites. Néanmoins les statuts peuvent prévoir une responsabilité plus étendue qui ne peut excéder cinq fois le montant des parts sociales souscrites.

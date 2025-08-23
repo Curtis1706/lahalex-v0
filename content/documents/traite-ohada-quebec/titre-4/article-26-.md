@@ -1,0 +1,1 @@
+Le  Règlement  d’arbitrage  de  la Cour Commune de Justice et d’Arbitrage est fixé par le Conseil des Ministres dans les  conditions  prévues  à  l’article  8  ci- dessus. Il est publié au Journal Officiel de l’OHADA.  Il  est  également  publié  au Journal  Officiel  des  Etats-Parties  ou  par tout autre moyen approprié.

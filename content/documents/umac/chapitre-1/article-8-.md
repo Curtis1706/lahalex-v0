@@ -1,0 +1,1 @@
+Les Etats membres apportent leur concours à la réalisation des objectifs de l’Union Monétaire, en adoptant toutes mesures internes propres à assurer l’exécution des obligations découlant de la présente Convention. Ils s’abstiennent de toute mesure susceptible de faire obstacle à l’application de la présente Convention et des actes juridiques adoptés pour sa mise en œuvre.

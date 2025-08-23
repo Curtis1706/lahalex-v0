@@ -1,0 +1,1 @@
+Les dispositions de l’article 167 ci-dessus ne s’appliquent pas aux cas de transfor- mation d’une société coopérative en toute autre forme de société non régie par le présent Acte uniforme.

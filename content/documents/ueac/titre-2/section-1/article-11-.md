@@ -1,0 +1,2 @@
+Les Etats membres considèrent leurs politiques économiques comme une question d’intérêt commun et veillent à leur coordination au sein du Conseil des Ministres en vue de la réalisation des objectifs définis à l’article 2, paragraphe b de la présente Convention.
+La coordination des politiques économiques est assurée conformément aux dispositions prévues au Titre 3 de la présente Convention.

@@ -1,0 +1,490 @@
+{
+  "id": "reglement-arbitrage-ccja-ohada",
+  "title": "Règlement d’arbitrage de la Cour Commune de Justice et d’Arbitrage (OHADA)",
+  "type": "ohada",
+  "description": "Règlement d’arbitrage adopté par le Conseil des ministres de l’OHADA, en application du Traité relatif à l’harmonisation du droit des affaires en Afrique et du règlement de procédure de la Cour Commune de Justice et d’Arbitrage. Ce règlement définit les attributions de la Cour en matière d’arbitrage, ainsi que les procédures administratives et juridictionnelles applicables.",
+  "structure": {
+    "sections": [
+      {
+        "id": "chapitre-1",
+        "title": "CHAPITRE 1 :LES ATTRIBUTIONS DE LA COUR COMMUNE DE JUSTICE ET D’ARBITRAGE EN MATIERE D’ARBITRAGE",
+        "type": "chapitre",
+        "level": 1,
+        "order": 0,
+        "path": [
+          "chapitre-1"
+        ],
+        "children": [
+          "article-1er-"
+        ]
+      },
+      {
+        "id": "article-1er-",
+        "title": "Article 1er : Exercice par la Cour de ses attributions",
+        "type": "article",
+        "level": 3,
+        "order": 1,
+        "path": [
+          "chapitre-1",
+          "article-1er-"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-2",
+        "title": "CHAPITRE 2 : LA PROCEDURE SUIVIE DEVANT LA COUR COMMUNE DE JUSTICE ET D’ARBITRAGE",
+        "type": "chapitre",
+        "level": 1,
+        "order": 2,
+        "path": [
+          "chapitre-2"
+        ],
+        "children": [
+          "article-2-",
+          "article-3-",
+          "article-4-",
+          "article-5-",
+          "article-6-",
+          "article-7-",
+          "article-8-",
+          "article-9-",
+          "article-10-",
+          "article-11-",
+          "article-12-",
+          "article-13-",
+          "article-14-",
+          "article-15-",
+          "article-16-",
+          "article-17-",
+          "article-18-",
+          "article-19-",
+          "article-20-",
+          "article-21-",
+          "article-22-",
+          "article-23-",
+          "article-24-",
+          "article-25-",
+          "article-26-",
+          "article-27-",
+          "article-28-"
+        ]
+      },
+      {
+        "id": "article-2-",
+        "title": "Article 2 : Mission de la Cour",
+        "type": "article",
+        "level": 3,
+        "order": 3,
+        "path": [
+          "chapitre-2",
+          "article-2-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-3-",
+        "title": "Article 3 : La désignation des arbitres",
+        "type": "article",
+        "level": 3,
+        "order": 4,
+        "path": [
+          "chapitre-2",
+          "article-3-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-4-",
+        "title": "Article 4 : Indépendance, récusation et remplacement des arbitres",
+        "type": "article",
+        "level": 3,
+        "order": 5,
+        "path": [
+          "chapitre-2",
+          "article-4-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-5-",
+        "title": "Article 5 : Demande d’arbitrage",
+        "type": "article",
+        "level": 3,
+        "order": 6,
+        "path": [
+          "chapitre-2",
+          "article-5-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-6-",
+        "title": "Article 6 : Réponse à la demande",
+        "type": "article",
+        "level": 3,
+        "order": 7,
+        "path": [
+          "chapitre-2",
+          "article-6-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-7-",
+        "title": "Article 7 :",
+        "type": "article",
+        "level": 3,
+        "order": 8,
+        "path": [
+          "chapitre-2",
+          "article-7-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-8-",
+        "title": "Article 8 :",
+        "type": "article",
+        "level": 3,
+        "order": 9,
+        "path": [
+          "chapitre-2",
+          "article-8-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-9-",
+        "title": "Article 9 : Absence de convention d’arbitrage",
+        "type": "article",
+        "level": 3,
+        "order": 10,
+        "path": [
+          "chapitre-2",
+          "article-9-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-10-",
+        "title": "Article 10 : Effets de la convention d’arbitrage",
+        "type": "article",
+        "level": 3,
+        "order": 11,
+        "path": [
+          "chapitre-2",
+          "article-10-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-11-",
+        "title": "Article 11 : Provision pour frais de l’arbitrage",
+        "type": "article",
+        "level": 3,
+        "order": 12,
+        "path": [
+          "chapitre-2",
+          "article-11-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-12-",
+        "title": "Article 12 : Notification, communication et délais",
+        "type": "article",
+        "level": 3,
+        "order": 13,
+        "path": [
+          "chapitre-2",
+          "article-12-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-13-",
+        "title": "Article 13 : Siège de l’arbitrage",
+        "type": "article",
+        "level": 3,
+        "order": 14,
+        "path": [
+          "chapitre-2",
+          "article-13-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-14-",
+        "title": "Article 14 : Confidentialité de la procédure arbitrale",
+        "type": "article",
+        "level": 3,
+        "order": 15,
+        "path": [
+          "chapitre-2",
+          "article-14-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-15-",
+        "title": "Article 15 : Procès-verbal constatant l’objet de l’arbitrage et fixant le déroulement",
+        "type": "article",
+        "level": 3,
+        "order": 16,
+        "path": [
+          "chapitre-2",
+          "article-15-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-16-",
+        "title": "Article 16 : Règles applicables à la procédure",
+        "type": "article",
+        "level": 3,
+        "order": 17,
+        "path": [
+          "chapitre-2",
+          "article-16-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-17-",
+        "title": "Article 17 : Loi applicable au fond",
+        "type": "article",
+        "level": 3,
+        "order": 18,
+        "path": [
+          "chapitre-2",
+          "article-17-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-18-",
+        "title": "Article 18 : Demandes nouvelles",
+        "type": "article",
+        "level": 3,
+        "order": 19,
+        "path": [
+          "chapitre-2",
+          "article-18-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-19-",
+        "title": "Article 19 : Instruction de la cause",
+        "type": "article",
+        "level": 3,
+        "order": 20,
+        "path": [
+          "chapitre-2",
+          "article-19-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-20-",
+        "title": "Article 20 : Sentences d’accord parties",
+        "type": "article",
+        "level": 3,
+        "order": 21,
+        "path": [
+          "chapitre-2",
+          "article-20-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-21-",
+        "title": "Article 21 : Exception d’incompétence",
+        "type": "article",
+        "level": 3,
+        "order": 22,
+        "path": [
+          "chapitre-2",
+          "article-21-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-22-",
+        "title": "Article 22 : Sentence arbitrale",
+        "type": "article",
+        "level": 3,
+        "order": 23,
+        "path": [
+          "chapitre-2",
+          "article-22-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-23-",
+        "title": "Article 23 : Examen préalable par la Cour",
+        "type": "article",
+        "level": 3,
+        "order": 24,
+        "path": [
+          "chapitre-2",
+          "article-23-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-24-",
+        "title": "Article 24 : Décision sur les frais de l’arbitrage",
+        "type": "article",
+        "level": 3,
+        "order": 25,
+        "path": [
+          "chapitre-2",
+          "article-24-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-25-",
+        "title": "Article 25 : Notification de la sentence",
+        "type": "article",
+        "level": 3,
+        "order": 26,
+        "path": [
+          "chapitre-2",
+          "article-25-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-26-",
+        "title": "Article 26 : Rectification et interprétation de la sentence",
+        "type": "article",
+        "level": 3,
+        "order": 27,
+        "path": [
+          "chapitre-2",
+          "article-26-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-27-",
+        "title": "Article 27 : Autorité de chose jugée",
+        "type": "article",
+        "level": 3,
+        "order": 28,
+        "path": [
+          "chapitre-2",
+          "article-27-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-28-",
+        "title": "Article 28 : Divers",
+        "type": "article",
+        "level": 3,
+        "order": 29,
+        "path": [
+          "chapitre-2",
+          "article-28-"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-3",
+        "title": "CHAPITRE 3 : LA RECONNAISSANCE ET l'EXECUTION FORCEE DES SENTENCES ARBITRALES",
+        "type": "chapitre",
+        "level": 1,
+        "order": 30,
+        "path": [
+          "chapitre-3"
+        ],
+        "children": [
+          "article-29-",
+          "article-30-",
+          "article-31-",
+          "article-32-",
+          "article-33-",
+          "article-34-"
+        ]
+      },
+      {
+        "id": "article-29-",
+        "title": "Article 29 : Contestation de validité",
+        "type": "article",
+        "level": 3,
+        "order": 31,
+        "path": [
+          "chapitre-3",
+          "article-29-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-30-",
+        "title": "Article 30 : Exequatur",
+        "type": "article",
+        "level": 3,
+        "order": 32,
+        "path": [
+          "chapitre-3",
+          "article-30-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-31-",
+        "title": "Article 31 : Formule exécutoire",
+        "type": "article",
+        "level": 3,
+        "order": 33,
+        "path": [
+          "chapitre-3",
+          "article-31-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-32-",
+        "title": "Article 32 : Recours en révision",
+        "type": "article",
+        "level": 3,
+        "order": 34,
+        "path": [
+          "chapitre-3",
+          "article-32-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-33-",
+        "title": "Article 33 : Tierce opposition",
+        "type": "article",
+        "level": 3,
+        "order": 35,
+        "path": [
+          "chapitre-3",
+          "article-33-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-34-",
+        "title": "Article 34 : Dispositions finales",
+        "type": "article",
+        "level": 3,
+        "order": 37,
+        "path": [
+          "chapitre-3",
+          "article-34-"
+        ],
+        "children": []
+      }
+    ],
+    "totalArticles": 34
+  },
+  "source": "internationale"
+}

@@ -1,0 +1,1 @@
+50’évaluation des apports en nature est faite, sous le contrôle de l’union ou de la fédération, par un commissaire aux apports désigné par les initiateurs de la société coopérati- ve.

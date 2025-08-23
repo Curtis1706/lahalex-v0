@@ -1,0 +1,2 @@
+Le Gouvernement dépositaire enregistrera le Traité auprŁs de l’Union Africaine et auprŁs de l’Organisation des Nations Unies conformément l’article 102 de la Charte des Nations unies.
+Une copie du Traité enregistré sera délivrée au Secrétariat Permanent par le Gouvernement dépositaire.

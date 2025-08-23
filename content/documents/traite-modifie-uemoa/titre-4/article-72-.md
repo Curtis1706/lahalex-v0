@@ -6,5 +6,5 @@ Si un Etat membre ne satisfait pas aux exigences mentionnées au paragraphe pré
 adopte à la majorité des deux tiers (2/3) de ses membres les propositions de directives faites dans ce cadre par la Commission. Par dérogation à l'article 22 du présent Traité, il a la faculté d'amender celles-ci à la majorité des deux tiers (2/3) de ses membres. Il en informe le Parlement.
 Si le Conseil n'a pas été en mesure de réunir les conditions de majorité nécessaires à l'adoption d'une directive à l'issue du 1 examen de celle-ci, la Commission a la faculté de rendre sa proposition publique.
 Articie 73
-50'Etat membre destinataire d'une directive émise par le Conseil dans le cadre de la surveillance multilatérale, élabore en concertation avec la Commission et dans un délai de trente (30) jours, un programme de mesures rectificatives.
+L'Etat membre destinataire d'une directive émise par le Conseil dans le cadre de la surveillance multilatérale, élabore en concertation avec la Commission et dans un délai de trente (30) jours, un programme de mesures rectificatives.
 La Commission vérifie la conformité des mesures envisagées à la directive du Conseil et à la politique économique de l'Union et tient compte des éventuels programmes d'ajustement en vigueur.

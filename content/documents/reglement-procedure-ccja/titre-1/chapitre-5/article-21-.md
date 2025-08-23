@@ -1,0 +1,1 @@
+Le quorum de cinq est suffisant pour constituer la Cour.

@@ -1,0 +1,1 @@
+Aucun magistrat membre du Conseil supérieur des comptes ne peut participer à une délibération à laquelle il est personnellement intéressé.

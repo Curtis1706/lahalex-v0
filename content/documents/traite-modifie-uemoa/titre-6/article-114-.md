@@ -1,4 +1,4 @@
-50'article 5
+Larticle 5
 "Les Chefs des Etats membres de l'Union réunis en Conférence constituent l'autorité suprême de l'Union.
 La Conférence des Chefs d'Etat décide de l'adhésion de nouveaux membres, prend acte du retrait et de l'exclusion des membres de l'Union et fixe le siège de son institut d'émission.
 La Conférence des Chefs d'Etat tranche toute question n'ayant pu trouver une solution par accord unanime du Conseil des Ministres de l'Union et que celui-ci soumet à sa décision.

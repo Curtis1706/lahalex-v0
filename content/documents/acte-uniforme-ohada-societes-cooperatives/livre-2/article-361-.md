@@ -1,0 +1,2 @@
+Les copies ou extraits des procès-verbaux des assemblées sont valablement certifiés par le président du conseil d’administration ou par toute personne dûment mandatée à cet ef- fet.
+En cas de liquidation, ils sont certifiés par un seul liquidateur.

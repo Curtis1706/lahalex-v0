@@ -1,0 +1,2 @@
+Les parties conviennent que la date d'entrée en vigueur de la présente Convention est le 2 Avril 1990 et la date d'expiration le 31 Décembre 1994.
+Toutefois, celle-ci peut être renouvelée pour une période à déterminer d'accord parties. Dans ce cas, le renouvellement de la Convention est constaté par décision du Président en exercice du Conseil des Chefs d'Etat de l'UDEAC.

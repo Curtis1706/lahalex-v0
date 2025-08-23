@@ -1,0 +1,16 @@
+{
+  "id": "article-38-",
+  "title": "Article 38 :",
+  "numero": "38 ",
+  "document": "traite-revise-cemac",
+  "path": [
+    "titre-2",
+    "chapitre-2",
+    "section-4"
+  ],
+  "navigation": {
+    "parent": "section-4",
+    "previous": "article-37-",
+    "next": "article-39-"
+  }
+}

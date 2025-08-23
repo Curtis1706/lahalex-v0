@@ -1,0 +1,1 @@
+Le bulletin de souscription est établi en deux exemplaires originaux, l’un pour la société en formation et l’autre pour le souscripteur.

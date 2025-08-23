@@ -1,0 +1,1 @@
+50’acheteur s’oblige à payer le prix et à prendre livraison des marchandises.

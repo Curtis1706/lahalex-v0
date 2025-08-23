@@ -1,0 +1,1 @@
+L'assistance technique de l'Union à la République de Guinée Equatoriale est régie par les disposition de la présente Convention.

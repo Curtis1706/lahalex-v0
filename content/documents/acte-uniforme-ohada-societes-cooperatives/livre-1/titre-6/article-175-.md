@@ -1,0 +1,2 @@
+Les modalités pratiques de la fusion ou de la scission sont arrêtées par une conven- tion signée entre les sociétés coopératives concernées, sous le contrôle des organisations faî- tières auxquelles elles sont affiliées.
+Toutefois, si l’opération projetée a pour effet d’augmenter les engagements des coopérateurs, ou de l’une ou de plusieurs sociétés coopératives en cause, elle ne peut être décidée qu’à l’unanimité desdits coopérateurs ou sociétés coopératives.

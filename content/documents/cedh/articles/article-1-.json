@@ -1,0 +1,11 @@
+{
+  "id": "article-1-",
+  "title": "Article 1 :Obligation de respecter les droits de l’homme",
+  "numero": "1 ",
+  "document": "cedh",
+  "path": [],
+  "navigation": {
+    "parent": "cedh",
+    "next": "article-2-"
+  }
+}

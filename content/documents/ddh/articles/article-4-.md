@@ -1,0 +1,2 @@
+Nul ne sera tenu en esclavage ni en servitude; l'esclavage et la traite des esclaves
+sont interdits sous toutes leurs formes.

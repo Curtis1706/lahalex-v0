@@ -1,0 +1,2 @@
+Le siège de la Cour des comptes est fixé à Porto-Novo.
+Toutefois, en cas de nécessité, les activités de la Cour peuvent être transférées dans toute autre localité du territoire national, sur ordonnance du président, le bureau entendu.

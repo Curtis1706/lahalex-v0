@@ -1,0 +1,1 @@
+Les statuts peuvent également interdire toute répartition des excédents pendant un délai qu’ils fixent.

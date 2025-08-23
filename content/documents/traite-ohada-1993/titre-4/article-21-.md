@@ -1,0 +1,3 @@
+En application d’une clause compromissoire ou d’un compromis d’arbitrage, toute partie un contrat, soit que l’une des parties ait son domicile ou sa résidence habituelle dans un des Etats Parties, soit que le contrat soit exécuté ou exécuter en tout ou partie sur le territoire d’un ou plusieurs Etats Parties, peut soumettre un différend d’ordre contractuel la procédure d’arbitrage prévue par le présent titre.
+La Cour Commune de Justice et d’Arbitrage ne tranche pas elle-mŒme les différends. Elle nomme ou confirme les arbitres, est informée du déroulement de l’instance, et examine les projets de sentences, conformément l’article
+24 ci-aprŁs.

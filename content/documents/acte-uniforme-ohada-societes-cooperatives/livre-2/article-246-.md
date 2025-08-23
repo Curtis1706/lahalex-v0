@@ -1,0 +1,1 @@
+Le Président du comité de gestion avise la commission de surveillance et le com- missaire aux comptes, s’il en existe un, des conventions visées à l’article 245 ci-dessus, dans le délai d’un mois à compter de la conclusion desdites conventions.

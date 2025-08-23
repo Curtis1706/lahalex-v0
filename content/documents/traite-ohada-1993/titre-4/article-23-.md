@@ -1,0 +1,1 @@
+Tout tribunal d’un Etat Partie saisi d’un litige que les parties étaient convenues de soumettre l’arbitrage se déclarera incompétent si l’une des parties le demande, et renverra le cas échéant la procédure d’arbitrage prévue au présent Traité.

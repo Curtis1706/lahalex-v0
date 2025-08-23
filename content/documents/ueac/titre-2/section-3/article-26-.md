@@ -1,0 +1,1 @@
+Le Conseil des Ministres arrête à l’unanimité, sur proposition du Président de la Commission, les règlements relatifs à la mise en œuvre des objectifs définis à l’article 13, paragraphe d de la présente Convention.

@@ -1,0 +1,2 @@
+Pour les questions ne portant pas principalement sur la politique économique et financière, et en conformité avec l'article 19 du Traité de la CEMAC, le Conseil des Ministres peut réunir en formation ad hoc les ministres compétents.
+Dans ce cas, les délibérations acquises deviennent définitives après que le Conseil des Ministres en ait constaté la compatibilité avec la politique économique et financière de l'Union Economique.

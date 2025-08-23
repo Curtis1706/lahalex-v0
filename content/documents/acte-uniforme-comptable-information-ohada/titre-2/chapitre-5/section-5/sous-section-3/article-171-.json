@@ -1,0 +1,17 @@
+{
+  "id": "article-171-",
+  "title": "Article 171 :",
+  "numero": "171 ",
+  "document": "acte-uniforme-comptable-information-ohada",
+  "path": [
+    "titre-2",
+    "chapitre-5",
+    "section-5",
+    "sous-section-3"
+  ],
+  "navigation": {
+    "parent": "sous-section-3",
+    "previous": "article-170-",
+    "next": "article-172-"
+  }
+}

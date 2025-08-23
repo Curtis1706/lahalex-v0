@@ -1,0 +1,15 @@
+{
+  "id": "article-19-",
+  "title": "Article 19 :",
+  "numero": "19 ",
+  "document": "ueac",
+  "path": [
+    "titre-2",
+    "section-3"
+  ],
+  "navigation": {
+    "parent": "section-3",
+    "previous": "article-18-",
+    "next": "article-20-"
+  }
+}

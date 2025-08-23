@@ -1,0 +1,12 @@
+{
+  "id": "article-1",
+  "title": "Article 17",
+  "numero": "1",
+  "document": "traite-ohada-revision-2009",
+  "path": [],
+  "navigation": {
+    "parent": "traite-ohada-revision-2009",
+    "previous": "article-1",
+    "next": "article-27-"
+  }
+}

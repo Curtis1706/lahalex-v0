@@ -1,0 +1,14 @@
+{
+  "id": "article-8-",
+  "title": "Article 8 :",
+  "numero": "8 ",
+  "document": "acte-uniforme-transport-marchandises-ohada",
+  "path": [
+    "chapitre-3"
+  ],
+  "navigation": {
+    "parent": "chapitre-3",
+    "previous": "article-7-",
+    "next": "article-9-"
+  }
+}

@@ -1,0 +1,1 @@
+Les Députés peuvent poser des questions écrites ou orales au Conseil des Ministres, au Comité Ministériel et à la Commission.

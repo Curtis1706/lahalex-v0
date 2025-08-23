@@ -1,0 +1,1 @@
+Le conseil d’administration peut conférer à un ou à plusieurs de ses membres, tous mandats spéciaux pour un ou plusieurs objets déterminés.

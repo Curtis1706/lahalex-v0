@@ -1,0 +1,14 @@
+{
+  "id": "article-5-",
+  "title": "Article 5 : Droit à la liberté et à la sûreté",
+  "numero": "5 ",
+  "document": "cedh",
+  "path": [
+    "titre-1"
+  ],
+  "navigation": {
+    "parent": "titre-1",
+    "previous": "article-4-",
+    "next": "article-6-"
+  }
+}

@@ -1,0 +1,1 @@
+A défaut des dispositions contraires des statuts, les copropriétaires d’une part socia- le sont représentés par un mandataire unique, choisi parmi les indivisaires. En cas de désac- cord, le mandataire est désigné par la juridiction compétente dans le ressort de laquelle est situé le siège social, à la demande de l’indivisaire le plus diligent.

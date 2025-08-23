@@ -1,0 +1,2 @@
+Les initiateurs, ainsi que les premiers membres des organes de gestion ou d’administration, sont solidairement responsables du préjudice causé, soit par le défaut d’une mention obligatoire dans les statuts, soit par l’omission ou l’accomplissement irrégulier d’une formalité prescrite pour la constitution de la société coopérative.
+De même, les membres des organes de gestion ou d’administration alors en fonction encou- rent les mêmes responsabilités prévues à l’alinéa ci-dessus en cas d’irrégularité dans la modi- fication des statuts.

@@ -1,0 +1,2 @@
+En cas de nullité des actes, décisions ou délibérations de la société coopérative fon- dée sur un vice du consentement ou l’incapacité d’un coopérateur et lorsque la régularisation peut intervenir, toute personne y ayant un intérêt peut mettre en demeure le coopérateur inca- pable ou dont le consentement a été vicié de régulariser ou d’agir en nullité dans un délai de six mois, à peine de forclusion.
+La mise en demeure est signifiée par acte extrajudiciaire ou par tout procédé laissant trace écrite. Elle est dénoncée à la société coopérative.

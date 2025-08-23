@@ -1,0 +1,1 @@
+Les dates et heures des séances de la Cour sont fixées par ordonnance du Président.

@@ -1,0 +1,1 @@
+Les procès-verbaux des délibérations du conseil d’administration font foi jusqu’à preuve contraire.

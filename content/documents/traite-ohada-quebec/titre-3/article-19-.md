@@ -1,0 +1,2 @@
+La  procédure  devant  la  Cour Commune  de  Justice  et  d’Arbitrage  est fixée  par  un  Règlement  adopté  par  le Conseil des Ministres dans les conditions prévues  à  l’article  8  ci-dessus  publié  au journal officiel de l’OHADA. Il est égale- ment publié au journal officiel des Etats- Parties ou par tout autre moyen approprié.
+Cette procédure est contradictoire. Le mi- nistère  d’un  avocat  est  obligatoire. L’audience est publique.

@@ -1,0 +1,2 @@
+Les modalités d'exécution de la présente Convention sont fixées en tant que de besoin, par des accords entre le Gouvernement de la République de Guinée Equatoriale et le Président du Conseil des Chefs d'Etat.
+Des conventions annexes pourront être conclues pour régir certaines situations particulières et pour apporter des solutions aux problèmes de la formation, du recyclage et du perfectionnement des cadres du Gouvernement de la République de Guinée Equatoriale.

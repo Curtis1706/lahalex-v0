@@ -1,0 +1,2 @@
+La Cour vérifie la gestion des concours financiers accordés par la Communauté aux Etats, aux Institutions, Organes ou Institutions Spécialisées ou à tout organisme communautaire.
+Elle peut également vérifier l’emploi des concours financiers versés à la Communauté par tout Etat tiers, tout Organe ou Institution communautaire, toute Organisation Nationale ou Internationale, ainsi que tous dons.

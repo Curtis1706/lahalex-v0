@@ -1,0 +1,16 @@
+{
+  "id": "article-17-",
+  "title": "Article 17 :",
+  "numero": "17 ",
+  "document": "traite-revise-cemac",
+  "path": [
+    "titre-2",
+    "chapitre-2",
+    "section-2"
+  ],
+  "navigation": {
+    "parent": "section-2",
+    "previous": "article-16-",
+    "next": "article-18-"
+  }
+}

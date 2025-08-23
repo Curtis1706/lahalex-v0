@@ -1,0 +1,11 @@
+{
+  "id": "article-0-",
+  "title": "Article 0 : Préambule",
+  "numero": "0 ",
+  "document": "traite-ohada-1993",
+  "path": [],
+  "navigation": {
+    "parent": "traite-ohada-1993",
+    "next": "article-1-"
+  }
+}

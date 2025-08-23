@@ -1,0 +1,4 @@
+En vue de la réalisation de l’objectif défini à l’article 13, paragraphe a, et tenant compte des acquis en la matière, les Etats membres s’abstiennent, dès l’entrée en vigueur de la présente Convention:
+a) d’introduire entre eux tout nouveau droit de douane à l’importation et à l’exportation, toute taxe d’effet équivalent, et d’augmenter ceux qu’ils appliquent dans leurs relations commerciales mutuelles;
+b) d’introduire entre eux de nouvelles restrictions quantitatives à l’exportation ou à l’importation ou mesure d’effet équivalent, non justifiées par une exception prévue à l’article 16, ainsi que de rendre plus restrictifs les contingentements et normes d’effet équivalent existants;
+c) d’introduire toute disposition en faveur d’une entreprise établie sur leur territoire visant à des dérogations ou des exonérations susceptibles d’affecter la concurrence entre les entreprises de l’Union Economique.

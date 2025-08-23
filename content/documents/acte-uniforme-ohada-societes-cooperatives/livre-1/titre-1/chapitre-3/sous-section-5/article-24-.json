@@ -1,0 +1,17 @@
+{
+  "id": "article-24-",
+  "title": "Article 24 :",
+  "numero": "24 ",
+  "document": "acte-uniforme-ohada-societes-cooperatives",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-3",
+    "sous-section-5"
+  ],
+  "navigation": {
+    "parent": "sous-section-5",
+    "previous": "article-23-",
+    "next": "article-25-"
+  }
+}

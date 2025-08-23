@@ -1,0 +1,1 @@
+Le présent Traité est rédigé en exemplaire unique en langues française, espagnole, arabe et anglaise ; le texte en français faisant foi en cas de divergence d'interprétation.

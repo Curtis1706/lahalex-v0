@@ -1,0 +1,16 @@
+{
+  "id": "article-85-",
+  "title": "Article 85 :",
+  "numero": "85 ",
+  "document": "acte-uniforme-comptable-information-ohada",
+  "path": [
+    "titre-2",
+    "chapitre-3",
+    "sous-section-1"
+  ],
+  "navigation": {
+    "parent": "sous-section-1",
+    "previous": "article-84-",
+    "next": "article-86-"
+  }
+}

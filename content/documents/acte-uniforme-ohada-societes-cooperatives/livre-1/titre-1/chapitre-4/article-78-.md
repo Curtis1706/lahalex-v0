@@ -1,0 +1,2 @@
+Toute société coopérative jouit de la personnalité juridique à compter de son imma- triculation au Registre des Sociétés Coopératives.
+Toutefois, l’exercice de son activité est soumis aux règles qui régissent cette activité.

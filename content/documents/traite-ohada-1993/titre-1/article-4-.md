@@ -1,0 +1,1 @@
+Des rŁglements pour l’application du présent Traité seront pris chaque fois que de besoin, par le Conseil des ministres, la majorité absolue.

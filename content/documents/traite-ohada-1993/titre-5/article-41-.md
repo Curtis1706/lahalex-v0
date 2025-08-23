@@ -1,0 +1,3 @@
+Il est institué une Ecole régionale supérieure de la Magistrature qui concourt la formation et au perfectionnement des magistrats et des auxiliaires de justice des Etats Parties.
+Le Directeur de l’Ecole est nommé par le Conseil des ministres.
+l'organisation, le fonctionnement, les ressources et les prestations de l’Ecole sont définis par un rŁglement du Conseil des ministres pris sur le rapport du directeur de l’Ecole.

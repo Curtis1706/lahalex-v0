@@ -1,0 +1,1 @@
+Les statuts organisent l’élection des membres du comité de gestion et déterminent la durée de leur mandat.

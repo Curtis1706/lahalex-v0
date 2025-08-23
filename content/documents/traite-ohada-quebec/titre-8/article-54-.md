@@ -1,0 +1,1 @@
+Aucune  réserve  n’est  admise  au présent Traité.

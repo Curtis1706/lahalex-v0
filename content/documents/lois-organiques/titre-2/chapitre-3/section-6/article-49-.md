@@ -1,0 +1,1 @@
+Chaque chambre dispose d'un greffier au moins.

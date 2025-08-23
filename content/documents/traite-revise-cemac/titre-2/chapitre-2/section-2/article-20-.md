@@ -1,0 +1,4 @@
+Le Conseil se réunit au moins deux fois par an et aussi souvent que les circonstances l’exigent.
+La présidence du Conseil est assurée, pour une année civile, par l’Etat membre exerçant la présidence de la Conférence des Chefs d’Etat.
+Le Conseil est convoqué par son Président, soit à son initiative, soit à la demande d’au moins deux Etats membres, soit enfin à la demande du Président de la Commission.
+Le Président de la Commission rapporte les affaires inscrites à l’ordre du jour. Le Gouverneur de la BEAC ainsi que les premiers responsables des Institutions, des autres Organes et des Institutions Spécialisées de la Communauté assistent aux réunions du Conseil.

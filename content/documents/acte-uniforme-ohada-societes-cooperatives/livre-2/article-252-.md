@@ -1,0 +1,1 @@
+Les décisions collectives extraordinaires ont pour objet de statuer sur la modifica- tion des statuts.

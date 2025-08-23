@@ -1,0 +1,1 @@
+Les statuts peuvent prévoir des réserves facultatives alimentées par affectation d’un pourcentage des excédents nets d’exploitation. Le montant total prélevé au titre des réserves facultatives ne peut dépasser vingt pour cent des excédents nets.

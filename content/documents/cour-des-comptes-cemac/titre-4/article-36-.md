@@ -1,0 +1,2 @@
+La Cour produit annuellement un rapport exposant le résultat général des travaux et les observations qu’elle estime devoir formuler en vue de la réforme et de l’amélioration de la gestion des deniers publics communautaires.
+Ce rapport accompagné des réponses des concernés est publié au Bulletin Officiel de la Communauté.

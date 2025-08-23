@@ -1,0 +1,2 @@
+Lors de chaque réunion du Conseil des Ministres, son Président s'efforce d'aboutir à un consensus sur les décisions que le Conseil des Ministres est appelé à prendre.
+Lorsque le Président constate qu'un consensus n'est pas réalisable, il décide de procéder à un vote selon les règles applicables pour le sujet sur lequel porte la délibération. Dans ce cas, chaque Etat membre peut demander que le vote soit reporté à la prochaine réunion du Conseil des Ministres. Lors de cette 2 réunion, le vote ne peut être reporté qu'à la majorité simple des Etats membres.

@@ -1,0 +1,1 @@
+Les dossiers de contrôle en instance devant la Chambre des Comptes de la Cour de Justice de la CEMAC sont transmis à la Cour des Comptes.

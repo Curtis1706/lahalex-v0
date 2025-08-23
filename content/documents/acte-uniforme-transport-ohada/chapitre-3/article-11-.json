@@ -1,0 +1,14 @@
+{
+  "id": "article-11-",
+  "title": "Article 11 :",
+  "numero": "11 ",
+  "document": "acte-uniforme-transport-ohada",
+  "path": [
+    "chapitre-3"
+  ],
+  "navigation": {
+    "parent": "chapitre-3",
+    "previous": "article-10-",
+    "next": "article-12-"
+  }
+}

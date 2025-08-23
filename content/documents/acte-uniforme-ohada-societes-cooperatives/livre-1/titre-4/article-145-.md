@@ -1,0 +1,1 @@
+La fédération peut exercer des activités économiques dans l’intérêt de ses affiliées. 50’exercice de ces activités est soumis au respect du principe de subsidiarité par rapport à cel- les des unions et sociétés coopératives affiliées.

@@ -1,0 +1,15 @@
+{
+  "id": "article-24",
+  "title": "Article 24:",
+  "numero": "24",
+  "document": "aupc-ohada",
+  "path": [
+    "titre-1",
+    "section-3"
+  ],
+  "navigation": {
+    "parent": "section-3",
+    "previous": "article-23",
+    "next": "article-25"
+  }
+}

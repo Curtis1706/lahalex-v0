@@ -1,0 +1,3 @@
+En vue de promouvoir le développement harmonieux de tous les Etats membres, dans le cadre des acquis de la CEMAC, et pour surmonter les défis de l'intégration économique et sociale régionale que constituent l'enclavement ou l'insularité, les Etats membres s'engagent à mettre en place un Fonds de Développement avec pour objectifs: le financement des projets intégrateurs et la compensation des pertes de recettes.
+Les ressources principales du Fonds de Développement sont constituées des produits de la Taxe Communautaire d’Intégration (TCI).
+L'utilisation et l'affectation des ressources du Fonds de Développement sont déterminées par le Conseil des Ministres, sur proposition du Président de la Commission.

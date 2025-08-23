@@ -1,0 +1,1 @@
+Hormis les cas de variation du capital initial par retraits ou adhésions de coopéra- teurs, le montant du capital initial peut être augmenté ou réduit par l’assemblée générale pour chaque forme de société coopérative dans les conditions prévues par le présent Acte uniforme pour la modification des statuts.

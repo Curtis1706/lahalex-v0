@@ -1,0 +1,281 @@
+{
+  "id": "assistante-cemac",
+  "title": "Convention régissant l’assistance administrative mutuelle de la CEMAC",
+  "type": "cemac",
+  "description": "Cette convention organise la coopération et l’assistance administrative mutuelle entre les États membres de la CEMAC, afin de faciliter l’échange d’informations et le soutien dans la gestion des affaires publiques.",
+  "structure": {
+    "sections": [
+      {
+        "id": "titre-1",
+        "title": "TITRE 1 Dispositions Générales",
+        "type": "titre",
+        "level": 1,
+        "order": 0,
+        "path": [
+          "titre-1"
+        ],
+        "children": [
+          "article-1-",
+          "article-2-"
+        ]
+      },
+      {
+        "id": "article-1-",
+        "title": "Article 1 :",
+        "type": "article",
+        "level": 3,
+        "order": 1,
+        "path": [
+          "titre-1",
+          "article-1-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-2-",
+        "title": "Article 2 :",
+        "type": "article",
+        "level": 3,
+        "order": 2,
+        "path": [
+          "titre-1",
+          "article-2-"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-2",
+        "title": "TITRE 2 : obligations réciproques des deux parties",
+        "type": "titre",
+        "level": 1,
+        "order": 3,
+        "path": [
+          "titre-2"
+        ],
+        "children": [
+          "article-3-",
+          "article-4-",
+          "article-5-",
+          "article-6-",
+          "article-7-",
+          "article-8-",
+          "article-9-"
+        ]
+      },
+      {
+        "id": "article-3-",
+        "title": "Article 3 :",
+        "type": "article",
+        "level": 3,
+        "order": 4,
+        "path": [
+          "titre-2",
+          "article-3-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-4-",
+        "title": "Article 4 :",
+        "type": "article",
+        "level": 3,
+        "order": 5,
+        "path": [
+          "titre-2",
+          "article-4-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-5-",
+        "title": "Article 5 :",
+        "type": "article",
+        "level": 3,
+        "order": 6,
+        "path": [
+          "titre-2",
+          "article-5-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-6-",
+        "title": "Article 6 :",
+        "type": "article",
+        "level": 3,
+        "order": 7,
+        "path": [
+          "titre-2",
+          "article-6-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-7-",
+        "title": "Article 7 :",
+        "type": "article",
+        "level": 3,
+        "order": 8,
+        "path": [
+          "titre-2",
+          "article-7-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-8-",
+        "title": "Article 8 :",
+        "type": "article",
+        "level": 3,
+        "order": 9,
+        "path": [
+          "titre-2",
+          "article-8-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-9-",
+        "title": "Article 9 :",
+        "type": "article",
+        "level": 3,
+        "order": 10,
+        "path": [
+          "titre-2",
+          "article-9-"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-3",
+        "title": "TITRE 3 :Répartition des charges financières",
+        "type": "titre",
+        "level": 1,
+        "order": 11,
+        "path": [
+          "titre-3"
+        ],
+        "children": [
+          "article-10-",
+          "article-11-"
+        ]
+      },
+      {
+        "id": "article-10-",
+        "title": "Article 10 :",
+        "type": "article",
+        "level": 3,
+        "order": 12,
+        "path": [
+          "titre-3",
+          "article-10-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-11-",
+        "title": "Article 11 :",
+        "type": "article",
+        "level": 3,
+        "order": 13,
+        "path": [
+          "titre-3",
+          "article-11-"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-4",
+        "title": "TITRE 4 : Dispositions diverses et finales",
+        "type": "titre",
+        "level": 1,
+        "order": 14,
+        "path": [
+          "titre-4"
+        ],
+        "children": [
+          "article-12-",
+          "article-13-",
+          "article-14-",
+          "article-15-",
+          "article-16-",
+          "article-17-"
+        ]
+      },
+      {
+        "id": "article-12-",
+        "title": "Article 12 :",
+        "type": "article",
+        "level": 3,
+        "order": 15,
+        "path": [
+          "titre-4",
+          "article-12-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-13-",
+        "title": "Article 13 :",
+        "type": "article",
+        "level": 3,
+        "order": 16,
+        "path": [
+          "titre-4",
+          "article-13-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-14-",
+        "title": "Article 14 :",
+        "type": "article",
+        "level": 3,
+        "order": 17,
+        "path": [
+          "titre-4",
+          "article-14-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-15-",
+        "title": "Article 15 :",
+        "type": "article",
+        "level": 3,
+        "order": 18,
+        "path": [
+          "titre-4",
+          "article-15-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-16-",
+        "title": "Article 16 :",
+        "type": "article",
+        "level": 3,
+        "order": 19,
+        "path": [
+          "titre-4",
+          "article-16-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-17-",
+        "title": "Article 17 :",
+        "type": "article",
+        "level": 3,
+        "order": 21,
+        "path": [
+          "titre-4",
+          "article-17-"
+        ],
+        "children": []
+      }
+    ],
+    "totalArticles": 17
+  },
+  "source": "internationale"
+}

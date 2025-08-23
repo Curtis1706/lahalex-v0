@@ -1,0 +1,2 @@
+Les statuts définissent les conditions de cession et de remboursement et la détermina- tion de la valeur de ces droits, dans tous les cas où est prévue la cession des droits sociaux d’un coopérateur ou le remboursement de ceux-ci par la société coopérative.
+En cas de contestation, la valeur de cession ou de remboursement est déterminée par l’organisation faîtière à laquelle est affiliée la société coopérative et à défaut, par expert dési- gné d’accord parties ou par la juridiction compétente statuant à bref délai.

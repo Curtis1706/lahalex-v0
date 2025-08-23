@@ -1,0 +1,1 @@
+Le gouvernement dépositaire enregistrera le Traité auprŁs du Secrétariat de l’OUA et auprŁs du Secrétariat des Nations-Unies conformément l’article 102 de la charte des Nations-Unies.

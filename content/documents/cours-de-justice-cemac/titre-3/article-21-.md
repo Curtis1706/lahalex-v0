@@ -1,0 +1,1 @@
+Le français est la langue officielle de travail de la Cour de Justice de la CEMAC. Toutefois, il est admis, au sein de la Cour, l’usage de l’anglais, de l’arabe et de l’espagnol.

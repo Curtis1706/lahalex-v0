@@ -1,0 +1,15 @@
+{
+  "id": "article-24-",
+  "title": "Article 24 :",
+  "numero": "24 ",
+  "document": "parlement-communautaire-cemac",
+  "path": [
+    "titre-2",
+    "chapitre-1"
+  ],
+  "navigation": {
+    "parent": "chapitre-1",
+    "previous": "article-23-",
+    "next": "article-25-"
+  }
+}

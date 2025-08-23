@@ -1,0 +1,1 @@
+Les décisions du Conseil des ministres autres que celles prévues l’article 8 ci-dessus sont prises la majorité absolue des Etats Parties présents et votants. Chacun des Etats dispose d’une voix.

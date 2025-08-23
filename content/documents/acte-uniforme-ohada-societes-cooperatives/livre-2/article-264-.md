@@ -1,0 +1,3 @@
+Lorsque la fusion est réalisée par apport à une société coopérative simplifiée nou- velle, celle-ci peut être constituée sans autre apport que celui des sociétés qui fusionnent.
+Lorsque la scission est réalisée par apport à des sociétés coopératives simplifiées nouvelles, celles-ci peuvent être constituées sans autre apport que celui de la société scindée.
+Dans les cas prévus aux deux alinéas précédents, les coopérateurs des sociétés coopératives qui disparaissent peuvent agir de plein droit en qualité d’initiateurs des sociétés nouvelles.

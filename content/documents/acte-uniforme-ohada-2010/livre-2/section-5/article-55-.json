@@ -1,0 +1,15 @@
+{
+  "id": "article-55-",
+  "title": "Article 55 :",
+  "numero": "55 ",
+  "document": "acte-uniforme-ohada-2010",
+  "path": [
+    "livre-2",
+    "section-5"
+  ],
+  "navigation": {
+    "parent": "section-5",
+    "previous": "article-54-",
+    "next": "article-56-"
+  }
+}

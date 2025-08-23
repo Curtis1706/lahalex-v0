@@ -1,0 +1,2 @@
+Le capital social initial représente le montant des apports en capital faits par les coo- pérateurs à la société coopérative lors de la constitution.
+Les apports en industrie concourent également à la formation du capital social initial et don- nent lieu à l’attribution de parts sociales conférant la qualité de coopérateur.

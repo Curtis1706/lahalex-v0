@@ -1,0 +1,14 @@
+{
+  "id": "article-108-",
+  "title": "Article 108-1",
+  "numero": "108-",
+  "document": "acte-uniforme-comptabilite-ohada",
+  "path": [
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-108-",
+    "next": "article-109-"
+  }
+}

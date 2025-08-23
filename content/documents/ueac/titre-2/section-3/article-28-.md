@@ -1,0 +1,1 @@
+La liberté de circulation des capitaux est régie par les dispositions de la Convention régissant l’Union Monétaire de l’Afrique Centrale et par les textes subséquents.

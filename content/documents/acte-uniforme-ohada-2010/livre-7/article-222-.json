@@ -1,0 +1,14 @@
+{
+  "id": "article-222-",
+  "title": "Article 222 :",
+  "numero": "222 ",
+  "document": "acte-uniforme-ohada-2010",
+  "path": [
+    "livre-7"
+  ],
+  "navigation": {
+    "parent": "livre-7",
+    "previous": "article-221-",
+    "next": "article-223-"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "article-28-",
+  "title": "Article 28 :",
+  "numero": "28 ",
+  "document": "traite-ohada-1993",
+  "path": [
+    "titre-5"
+  ],
+  "navigation": {
+    "parent": "titre-5",
+    "previous": "article-27-",
+    "next": "article-29-"
+  }
+}

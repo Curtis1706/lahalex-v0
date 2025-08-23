@@ -1,0 +1,1 @@
+L'UDEAC prend à sa charge les rémunérations et les frais médicaux des experts qu'elle a mis à la disposition du Gouvernement de la République de Guinée Equatoriale, dans les conditions prévues par la Règlementation de l'UDEAC en la matière.

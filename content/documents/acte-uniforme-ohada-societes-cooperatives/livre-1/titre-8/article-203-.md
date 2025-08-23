@@ -1,0 +1,1 @@
+Lorsque la nullité de la société coopérative est prononcée, elle met fin à la coopéra- tive, sans effets rétroactifs. Il est procédé à sa dissolution et sa liquidation.

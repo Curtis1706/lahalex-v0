@@ -1,0 +1,3 @@
+Sous réserve que les tiers concernés partagent le lien commun qui réunit les coopé- rateurs, la transmission ne sera possible qu’avec le consentement de la majorité des coopéra- teurs non cédants.
+Le projet de cession doit être notifié par le coopérateur cédant à la société coopérative.
+Si la société coopérative n’a pas fait connaître sa décision dans le délai de trois mois à comp- ter de la notification prévue à l’alinéa ci-dessus, le consentement à la cession est réputé ac- quis.

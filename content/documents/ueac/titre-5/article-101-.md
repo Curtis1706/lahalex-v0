@@ -1,0 +1,1 @@
+La présente Convention sera ratifiée à l'initiative des Hautes Parties Contractantes, en conformité avec leurs règles constitutionnelles respectives. Les instruments de ratification seront déposés auprès de la République du Tchad, qui en informera les autres Etats membres et leur en délivrera copies certifiées conformes.

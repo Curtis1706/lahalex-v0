@@ -1,0 +1,2 @@
+Le président et les autres membres du comité de gestion peuvent librement démis- sionner.
+Toutefois, si la démission est faite dans une intention malveillante, la société coopérative peut demander en justice réparation du préjudice qu’elle subit de ce fait.

@@ -1,0 +1,1 @@
+50’assemblée générale élit parmi les membres du conseil d’administration un prési- dent et, le cas échéant, un vice-président qui, dans tous les cas, doivent être des personnes physiques.

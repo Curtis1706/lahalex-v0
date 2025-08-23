@@ -1,0 +1,1 @@
+Les Ministres représentant chacun des Etats membres au Comité Ministériel de l’Union Monétaire sont membres de droit du Comité Monétaire et Financier National de leur Etat d’origine.

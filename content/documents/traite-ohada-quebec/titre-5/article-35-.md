@@ -1,0 +1,4 @@
+En cas de décès d’un membre de la Cour, le Président de la Cour en informe immédiatement  le  Secrétaire  permanent,
+qui déclare le siège vacant à partir de la date du décès.
+En cas de démission d’un membre de la Cour ou si, de l’avis unanime des autres membres de la Cour, un membre a cessé de remplir ses fonctions pour toute autre cause qu’une absence de caractère tempo- raire, ou n’est plus en mesure de les rem- plir, le Président de la Cour, après avoir invité l’intéressé à présenter à la Cour ses observations orales en informe le Secrétai- re  Permanent,  qui  déclare  alors  le  siège vacant.
+Dans chacun des cas prévus ci-dessus, le Conseil  des  Ministres  procède,  dans  les conditions prévues aux articles 32 et 33 ci- dessus, au remplacement du membre dont le siège est devenu vacant, pour la fraction du  mandat  restant  à  courir,  sauf  si  cette fraction est inférieure à six mois.

@@ -1,0 +1,1 @@
+Après dépôt auprès de l’autorité chargée de la tenue du Registre des sociétés coopé- ratives des actes ou procès-verbaux décidant ou constatant la dissolution et l’inscription de celle-ci au Registre des sociétés coopératives, la dissolution est publiée, à l’initiative de l’autorité précitée, dans un journal habilité à recevoir les annonces légales du lieu du siège social.

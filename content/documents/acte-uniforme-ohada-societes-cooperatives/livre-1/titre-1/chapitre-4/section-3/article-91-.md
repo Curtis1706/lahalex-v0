@@ -1,0 +1,2 @@
+La reprise des actes et engagements accomplis pour le compte de la société coopéra- tive en formation fait l’objet d’une résolution spéciale de l’assemblée générale constitutive prise dans les conditions prévues par le présent Acte uniforme.
+50’assemblée doit être complètement informée sur la nature et la portée de chacun des actes et engagements dont la reprise lui est proposée. Les personnes ayant accompli lesdits actes et engagements ne prennent pas part au vote et il n’est pas tenu compte de leurs voix pour le calcul du quorum et de la majorité.

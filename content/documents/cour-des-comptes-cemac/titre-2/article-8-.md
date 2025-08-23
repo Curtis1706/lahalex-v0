@@ -1,0 +1,3 @@
+Avant leur entrée en fonction, les nouveaux membres prêtent serment individuellement en audience publique devant la Cour des Comptes en ces termes :
+« Je jure de bien et fidèlement remplir mes fonctions de membre de la Cour des Comptes, dans l'intérêt de la Communauté Economique et Monétaire de l'Afrique Centrale, en toute impartialité, en toute indépendance et de garder le secret des délibérations ».
+Il en est dressé procès-verbal.

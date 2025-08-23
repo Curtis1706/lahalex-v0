@@ -1,0 +1,1 @@
+L’organisation, le fonctionnement et les compétences de la Cour de Justice et de la Cour des Comptes sont définis par les conventions qui les régissent, par leurs statuts propres et par d’autres textes communautaires spécifiques.

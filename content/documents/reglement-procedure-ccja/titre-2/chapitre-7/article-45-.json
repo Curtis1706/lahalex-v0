@@ -1,0 +1,15 @@
+{
+  "id": "article-45-",
+  "title": "Article 45 :",
+  "numero": "45 ",
+  "document": "reglement-procedure-ccja",
+  "path": [
+    "titre-2",
+    "chapitre-7"
+  ],
+  "navigation": {
+    "parent": "chapitre-7",
+    "previous": "article-44-",
+    "next": "article-46-"
+  }
+}

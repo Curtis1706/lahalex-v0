@@ -1,0 +1,1 @@
+(Québec  2008)  Des  règlements pour l’application du présent Traité et des décisions seront pris, chaque fois que de besoin, par le Conseil des Ministres, à la majorité absolue.

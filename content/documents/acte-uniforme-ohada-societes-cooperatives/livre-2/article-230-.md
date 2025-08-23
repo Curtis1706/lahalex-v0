@@ -1,0 +1,1 @@
+Le Président et les autres membres du comité de gestion sont responsables envers la société coopérative simplifiée ou envers les personnes autres que les coopérateurs, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés coopérati- ves simplifiées, soit des violations des statuts, soit des fautes commises dans leur gestion.

@@ -1,0 +1,5 @@
+dispositions transitoires !
+1 - à titre transitoire, et tant que l'ensemble des formations prévues a l'Article 13 du présent statut n'auront pas été mises en oeuvre, la mise en place de certains des organes mentionnés au titre deux (" organisation ") pourra être différée. Dans les mêmes conditions, la composition et la compétence de ces organes pourront être modifiées.
+2 - lors de l'ouverture de l'ERSUMA, et dans l'attente de la mise en place des organes définitifs, les fonctions de direction seront assurées par le directeur général et le directeur des études et des stages nommes par le conseil des ministres.
+3 - il appartiendra au conseil d'administration de l'ERSUMA de prévoir tout autre aménagement de l'organisation provisoire de l'ecole qui pourra - en tant que de besoin - être adoptée à titre transitoire et d'en préciser les modalités d'application.
+Statut adopté par le conseil des ministres à BAMAKO, le 3 octobre 1995

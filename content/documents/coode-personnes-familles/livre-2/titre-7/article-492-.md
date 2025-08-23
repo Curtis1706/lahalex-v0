@@ -1,1 +1,1 @@
-La tutelle, protection due à l’enfant, est une charge publique gratuite, sous la réserve exprimée à l'article 506 du présent code.
+La tutelle, protection due à l’enfant, est une charge publique gratuite, sous la réserve exprimée à l'article L6 du présent code.

@@ -1,0 +1,1 @@
+Lorsque l’ordre du jour de l’assemblée générale porte sur la présentation de candi- dats au poste d’administrateur, il doit être fait mention de leur identité, de leurs références professionnelles et de leurs activités professionnelles au cours des cinq dernières années.

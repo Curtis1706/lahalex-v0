@@ -1,0 +1,2 @@
+Le Président de la Commission rapporte les affaires inscrites à l’ordre du jour des réunions de la Conférence des Chefs d’Etat dont il assure le secrétariat.
+Les premiers responsables des Institutions, Organes et Institutions Spécialisées de la Communauté assistent à ces réunions.

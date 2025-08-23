@@ -1,0 +1,14 @@
+{
+  "id": "article-16-",
+  "title": "Article 16 :",
+  "numero": "16 ",
+  "document": "cour-des-comptes-cemac",
+  "path": [
+    "titre-3"
+  ],
+  "navigation": {
+    "parent": "titre-3",
+    "previous": "article-15-",
+    "next": "article-17-"
+  }
+}

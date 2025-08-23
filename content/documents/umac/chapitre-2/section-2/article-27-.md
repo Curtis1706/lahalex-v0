@@ -1,0 +1,1 @@
+Les Etats membres s’obligent à prendre toutes dispositions nécessaires d’ordre national ou international en vue d’assurer une position créditrice du fonds commun de réserves de change, selon des modalités précisées dans les Statuts de la BEAC.

@@ -1,0 +1,1 @@
+La feuille de présence est certifiée sincère et véritable, sous leur responsabilité, par les scrutateurs.

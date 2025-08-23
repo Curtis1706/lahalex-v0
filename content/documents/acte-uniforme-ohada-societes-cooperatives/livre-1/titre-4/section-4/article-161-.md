@@ -1,0 +1,1 @@
+Les réseaux coopératifs de moyens ou d’objectifs peuvent être constitués entre or- ganisations ne relevant pas du même ressort territorial, ou entre organisations non constituées dans le même Etat Partie.

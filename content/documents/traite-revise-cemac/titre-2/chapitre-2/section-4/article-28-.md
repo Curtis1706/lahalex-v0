@@ -1,0 +1,2 @@
+La Commission est régie par le principe de la collégialité. Les modalités d’application de la collégialité sont fixées par le Règlement intérieur de la Commission.
+Ses décisions sont prises à la majorité de ses membres. En cas d’égalité, la voix du Président est prépondérante.

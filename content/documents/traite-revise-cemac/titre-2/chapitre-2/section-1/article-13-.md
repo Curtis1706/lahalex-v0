@@ -1,0 +1,1 @@
+La Conférence des Chefs d’Etat se réunit en session ordinaire au moins une fois par an sur convocation de son Président. Toutefois, elle peut se réunir en session extraordinaire à l’initiative de son Président ou à la demande d’au moins deux de ses membres.

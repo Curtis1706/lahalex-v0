@@ -1,0 +1,3 @@
+(Québec  2008)  Le  Secrétariat Permanent  est  l’organe  exécutif  de l’OHADA. Il est dirigé par un Secrétaire Permanent nommé par le Conseil des Mi- nistres pour un mandat de quatre ans re- nouvelable une fois.
+Le  Secrétaire  Permanent  représente l’OHADA. Il assiste le Conseil des Minis- tres.
+La nomination et les attributions du Secré- taire Permanent ainsi que l’organisation et le  fonctionnement  du  Secrétariat  Perma- nent  sont  définis  par  un  règlement  du Conseil des Ministres.

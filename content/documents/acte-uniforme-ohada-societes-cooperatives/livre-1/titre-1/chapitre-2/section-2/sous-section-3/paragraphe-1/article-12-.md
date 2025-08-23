@@ -1,0 +1,1 @@
+Sous réserve des dispositions qui suivent, les statuts de la société coopérative peu- vent prévoir d’autres modes d’exclusion pourvu qu’ils ne portent pas atteinte aux droits que le présent Acte uniforme confère aux coopérateurs exclus.

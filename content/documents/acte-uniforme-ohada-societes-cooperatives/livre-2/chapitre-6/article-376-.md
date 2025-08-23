@@ -1,0 +1,1 @@
+Les parts sociales revêtent la forme de titres nominatifs qu’elles soient émises en contrepartie d’apports en nature ou d’apports en numéraire.

@@ -1,0 +1,15 @@
+{
+  "id": "article-36-",
+  "title": "Article 36 :",
+  "numero": "36 ",
+  "document": "ueac",
+  "path": [
+    "titre-2",
+    "section-4"
+  ],
+  "navigation": {
+    "parent": "section-4",
+    "previous": "article-35-",
+    "next": "article-37-"
+  }
+}

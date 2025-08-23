@@ -1,0 +1,1 @@
+Le Comité Ministériel examine les grandes orientations des politiques économiques respectives des Etats membres de la Communauté et en assure la cohérence avec la politique monétaire commune. Les attributions du Comité Ministériel sont précisées dans la Convention régissant l’UMAC.

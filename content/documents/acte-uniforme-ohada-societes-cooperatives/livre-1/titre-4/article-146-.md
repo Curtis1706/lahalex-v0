@@ -1,0 +1,1 @@
+Sous réserve du respect des dispositions légales, la fédération définit les règles ad- ministratives applicables aux unions et sociétés coopératives affiliées.

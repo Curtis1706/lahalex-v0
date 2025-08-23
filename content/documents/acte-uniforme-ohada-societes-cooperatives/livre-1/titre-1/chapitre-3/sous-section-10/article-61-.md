@@ -1,0 +1,1 @@
+Les statuts peuvent être modifiés. Cette modification ne peut être décidée que par l’assemblée générale extraordinaire et dans les conditions prévues par le présent Acte unifor- me pour chaque forme de société coopérative.

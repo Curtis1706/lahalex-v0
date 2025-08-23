@@ -1,0 +1,2 @@
+Le Conseil des Ministres adopte, à l’unanimité et sur proposition du Président de la Commission, après consultation de la Cour des Comptes, les règlements financiers spécifiant notamment les modalités d’élaboration et d’exécution du budget ainsi que les conditions de reddition et de vérification des comptes.
+Les règlements financiers respectent le principe de la séparation des ordonnateurs et des comptables et instituent un contrôle financier interne.

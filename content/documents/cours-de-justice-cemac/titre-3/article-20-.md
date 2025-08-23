@@ -1,0 +1,2 @@
+La Cour de Justice est une institution indépendante des Etats, des Institutions, des Organes et des Institutions Spécialisées. Ses décisions sont prises au nom de la Communauté.
+Les membres de la Cour de Justice exercent leurs fonctions en toute indépendance, dans l’intérêt général de la Communauté.

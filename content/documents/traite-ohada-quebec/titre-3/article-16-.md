@@ -1,0 +1,2 @@
+La saisine de la Cour Commune de  Justice  et  d’Arbitrage  suspend  toute procédure de cassation engagée devant une juridiction nationale contre la décision at- taquée. Toutefois cette règle n’affecte pas les procédures d’exécution.
+Une  telle  procédure  ne  peut  reprendre qu’après  arrêt  de  la  Cour  Commune  de Justice et d’Arbitrage se déclarant incom- pétente pour connaître de l’affaire.

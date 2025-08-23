@@ -1,0 +1,4 @@
+1. La période de fonctions des membres de la Cour commence
+courir le 1er janvier de l’année suivant leur élection.  Toutefois, la période de fonctions des juges élus lors de la première élection commence   courir 60 jours après cette élection.  La période de fonctions d’un juge élu en remplacement d’un autre juge, conformément   l’article 35 du traité, commence   compter de la déclaration solennelle prévue par l’article 34 du traité.
+2. Conformément   l’article 31 du traité, les juges sont élus pour sept ans,
+renouvelables une fois.  Le mandat des juges lors de la première élection inclut en outre la période allant de la date de cette élection au 31 décembre de l’année de l’élection.

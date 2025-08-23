@@ -1,0 +1,1 @@
+L'Agent Comptable et le Contrôleur Financier sont nommés auprès de la Cour par le Conseil des Ministres.

@@ -1,0 +1,1 @@
+Les Etats membres se consultent en vue de prendre en commun les dispositions nécessaires afin d'éviter que le fonctionnement de la Communauté ne soit affecté par les mesures que l'un d'eux pourrait être amené à prendre en cas de troubles à l'ordre public, de guerre ou de tension internationale constituant une menace de guerre.

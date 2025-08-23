@@ -1,0 +1,1 @@
+Toute personne physique ou morale peut être coopérateur d’une société coopérative lorsqu’elle ne fait l’objet d’aucune incapacité juridique conformément aux dispositions de la loi nationale de chaque Etat Partie.

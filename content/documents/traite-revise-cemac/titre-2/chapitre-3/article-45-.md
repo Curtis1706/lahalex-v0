@@ -1,0 +1,4 @@
+Les décisions qui comportent, à la charge des personnes autres que les Etats, une obligation pécuniaire, forment titre exécutoire.
+L’exécution forcée est régie par les règles de la procédure civile en vigueur dans l’Etat sur le territoire duquel elle a lieu. La formule exécutoire est apposée, sans autre contrôle que celui de la vérification de l’authenticité du titre, par l’autorité nationale que le gouvernement de chacun des Etats membres désigne à cet effet et dont il donne connaissance à la Commission et à la Cour de Justice Communautaire.
+Après l’accomplissement de ces formalités, le Président de la Commission peut poursuivre l’exécution forcée en saisissant directement l’organe compétent, suivant la législation nationale.
+L’exécution forcée ne peut être suspendue qu’en vertu d’une décision de la Cour de Justice Communautaire. Toutefois, le contrôle de la régularité des mesures d’exécution relève de la compétence des juridictions nationales.

@@ -1,0 +1,15 @@
+{
+  "id": "article-15-",
+  "title": "Article 15 :",
+  "numero": "15 ",
+  "document": "reglement-procedure-ccja",
+  "path": [
+    "titre-1",
+    "chapitre-4"
+  ],
+  "navigation": {
+    "parent": "chapitre-4",
+    "previous": "article-14-",
+    "next": "article-16-"
+  }
+}

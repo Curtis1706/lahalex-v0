@@ -1,0 +1,2 @@
+formation complémentaire des auditeurs de justice 1 - les auditeurs de justice des pays membres peuvent recevoir - a l'issue de leur formation initiale et avant leur entrée en fonction comme magistrats - un complément de formation au sein de l'ERSUMA.
+2 - l'inscription des auditeurs de justice est acceptée par le directeur général, sur avis du conseil d'établissement, en fonction du nombre total de places disponibles au sein de l'ERSUMA, des quotas nationaux définis par le conseil d'administration et des dossiers des candidats présentés par les etats membres.

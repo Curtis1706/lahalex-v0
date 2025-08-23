@@ -1,0 +1,3 @@
+1. Tout individu a droit à une nationalité.
+2. Nul ne peut être arbitrairement privé de sa nationalité, ni du droit de changer de
+nationalité.

@@ -1,0 +1,1 @@
+Le contrôle de la gestion et le contrôle des états financiers de synthèse sont exercés dans les conditions prévues par la convention désignée à l’article précédent.

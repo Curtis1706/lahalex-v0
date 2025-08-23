@@ -1,0 +1,3 @@
+Demandes nouvelles
+En cours de procédure les parties ont toute liberté pour évoquer de nouveaux moyens à l’appui des demandes qu’elles ont formulées.
+Elles peuvent aussi formuler de nouvelles demandes, reconventionnelles ou non, si ces demandes restent dans le cadre de la convention d’arbitrage, et à moins que l’arbitre considère qu’il ne doit pas autoriser une telle extension de sa mission, en raison, notamment, du retard avec lequel elle est sollicitée.

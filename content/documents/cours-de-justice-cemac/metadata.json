@@ -1,0 +1,657 @@
+{
+  "id": "cours-de-justice-cemac",
+  "title": "Convention régissant la Cour de justice de la CEMAC",
+  "type": "cemac",
+  "description": "Cette convention définit l’organisation, les compétences et le fonctionnement de la Cour de justice de la CEMAC, chargée d’assurer le respect du droit communautaire et de régler les différends entre les États membres.",
+  "structure": {
+    "sections": [
+      {
+        "id": "titre-1",
+        "title": "TITRE 1 : DISPOSITIONS GÉNÉRALES",
+        "type": "titre",
+        "level": 1,
+        "order": 0,
+        "path": [
+          "titre-1"
+        ],
+        "children": [
+          "article-1-",
+          "article-2-",
+          "article-3-"
+        ]
+      },
+      {
+        "id": "article-1-",
+        "title": "Article 1 :",
+        "type": "article",
+        "level": 3,
+        "order": 1,
+        "path": [
+          "titre-1",
+          "article-1-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-2-",
+        "title": "Article 2 :",
+        "type": "article",
+        "level": 3,
+        "order": 2,
+        "path": [
+          "titre-1",
+          "article-2-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-3-",
+        "title": "Article 3 :",
+        "type": "article",
+        "level": 3,
+        "order": 3,
+        "path": [
+          "titre-1",
+          "article-3-"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-2",
+        "title": "TITRE 2 : DU STATUT DES MEMBRES DE LA COUR",
+        "type": "titre",
+        "level": 1,
+        "order": 4,
+        "path": [
+          "titre-2"
+        ],
+        "children": [
+          "article-4-",
+          "article-5-",
+          "article-6-",
+          "article-7-",
+          "article-8-",
+          "article-9-",
+          "article-10-",
+          "article-11-",
+          "article-12-",
+          "article-13-"
+        ]
+      },
+      {
+        "id": "article-4-",
+        "title": "Article 4 :",
+        "type": "article",
+        "level": 3,
+        "order": 5,
+        "path": [
+          "titre-2",
+          "article-4-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-5-",
+        "title": "Article 5 :",
+        "type": "article",
+        "level": 3,
+        "order": 6,
+        "path": [
+          "titre-2",
+          "article-5-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-6-",
+        "title": "Article 6 :",
+        "type": "article",
+        "level": 3,
+        "order": 7,
+        "path": [
+          "titre-2",
+          "article-6-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-7-",
+        "title": "Article 7 :",
+        "type": "article",
+        "level": 3,
+        "order": 8,
+        "path": [
+          "titre-2",
+          "article-7-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-8-",
+        "title": "Article 8 :",
+        "type": "article",
+        "level": 3,
+        "order": 9,
+        "path": [
+          "titre-2",
+          "article-8-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-9-",
+        "title": "Article 9 :",
+        "type": "article",
+        "level": 3,
+        "order": 10,
+        "path": [
+          "titre-2",
+          "article-9-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-10-",
+        "title": "Article 10 :",
+        "type": "article",
+        "level": 3,
+        "order": 11,
+        "path": [
+          "titre-2",
+          "article-10-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-11-",
+        "title": "Article 11 :",
+        "type": "article",
+        "level": 3,
+        "order": 12,
+        "path": [
+          "titre-2",
+          "article-11-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-12-",
+        "title": "Article 12 :",
+        "type": "article",
+        "level": 3,
+        "order": 13,
+        "path": [
+          "titre-2",
+          "article-12-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-13-",
+        "title": "Article 13 :",
+        "type": "article",
+        "level": 3,
+        "order": 14,
+        "path": [
+          "titre-2",
+          "article-13-"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-3",
+        "title": "TITRE 3 : DE 50'ORGANISATION DE LA COUR DE JUSTICE COMMUNAUTAIRE",
+        "type": "titre",
+        "level": 1,
+        "order": 15,
+        "path": [
+          "titre-3"
+        ],
+        "children": [
+          "article-14-",
+          "article-15-",
+          "article-16-",
+          "article-17-",
+          "article-18-",
+          "article-19-",
+          "article-20-",
+          "article-21-"
+        ]
+      },
+      {
+        "id": "article-14-",
+        "title": "Article 14 :",
+        "type": "article",
+        "level": 3,
+        "order": 16,
+        "path": [
+          "titre-3",
+          "article-14-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-15-",
+        "title": "Article 15 :",
+        "type": "article",
+        "level": 3,
+        "order": 17,
+        "path": [
+          "titre-3",
+          "article-15-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-16-",
+        "title": "Article 16 :",
+        "type": "article",
+        "level": 3,
+        "order": 18,
+        "path": [
+          "titre-3",
+          "article-16-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-17-",
+        "title": "Article 17 :",
+        "type": "article",
+        "level": 3,
+        "order": 19,
+        "path": [
+          "titre-3",
+          "article-17-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-18-",
+        "title": "Article 18 :",
+        "type": "article",
+        "level": 3,
+        "order": 20,
+        "path": [
+          "titre-3",
+          "article-18-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-19-",
+        "title": "Article 19 :",
+        "type": "article",
+        "level": 3,
+        "order": 21,
+        "path": [
+          "titre-3",
+          "article-19-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-20-",
+        "title": "Article 20 :",
+        "type": "article",
+        "level": 3,
+        "order": 22,
+        "path": [
+          "titre-3",
+          "article-20-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-21-",
+        "title": "Article 21 :",
+        "type": "article",
+        "level": 3,
+        "order": 23,
+        "path": [
+          "titre-3",
+          "article-21-"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-4",
+        "title": "TITRE 4 : DES COMPÉTENCES DE LA COUR DE JUSTICE COMMUNAUTAIRE",
+        "type": "titre",
+        "level": 1,
+        "order": 24,
+        "path": [
+          "titre-4"
+        ],
+        "children": [
+          "article-22-",
+          "article-23-",
+          "article-24-",
+          "article-25-",
+          "article-26-",
+          "article-27-",
+          "article-28-",
+          "article-29-",
+          "article-30-",
+          "article-31-",
+          "article-32-",
+          "article-33-",
+          "article-34-",
+          "article-35-",
+          "article-36-",
+          "article-37-",
+          "article-38-"
+        ]
+      },
+      {
+        "id": "article-22-",
+        "title": "Article 22 :",
+        "type": "article",
+        "level": 3,
+        "order": 25,
+        "path": [
+          "titre-4",
+          "article-22-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-23-",
+        "title": "Article 23 :",
+        "type": "article",
+        "level": 3,
+        "order": 26,
+        "path": [
+          "titre-4",
+          "article-23-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-24-",
+        "title": "Article 24 :",
+        "type": "article",
+        "level": 3,
+        "order": 27,
+        "path": [
+          "titre-4",
+          "article-24-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-25-",
+        "title": "Article 25 :",
+        "type": "article",
+        "level": 3,
+        "order": 28,
+        "path": [
+          "titre-4",
+          "article-25-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-26-",
+        "title": "Article 26 :",
+        "type": "article",
+        "level": 3,
+        "order": 29,
+        "path": [
+          "titre-4",
+          "article-26-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-27-",
+        "title": "Article 27 :",
+        "type": "article",
+        "level": 3,
+        "order": 30,
+        "path": [
+          "titre-4",
+          "article-27-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-28-",
+        "title": "Article 28 :",
+        "type": "article",
+        "level": 3,
+        "order": 31,
+        "path": [
+          "titre-4",
+          "article-28-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-29-",
+        "title": "Article 29 :",
+        "type": "article",
+        "level": 3,
+        "order": 32,
+        "path": [
+          "titre-4",
+          "article-29-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-30-",
+        "title": "Article 30 :",
+        "type": "article",
+        "level": 3,
+        "order": 33,
+        "path": [
+          "titre-4",
+          "article-30-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-31-",
+        "title": "Article 31 :",
+        "type": "article",
+        "level": 3,
+        "order": 34,
+        "path": [
+          "titre-4",
+          "article-31-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-32-",
+        "title": "Article 32 :",
+        "type": "article",
+        "level": 3,
+        "order": 35,
+        "path": [
+          "titre-4",
+          "article-32-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-33-",
+        "title": "Article 33 :",
+        "type": "article",
+        "level": 3,
+        "order": 36,
+        "path": [
+          "titre-4",
+          "article-33-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-34-",
+        "title": "Article 34 :",
+        "type": "article",
+        "level": 3,
+        "order": 37,
+        "path": [
+          "titre-4",
+          "article-34-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-35-",
+        "title": "Article 35 :",
+        "type": "article",
+        "level": 3,
+        "order": 38,
+        "path": [
+          "titre-4",
+          "article-35-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-36-",
+        "title": "Article 36 :",
+        "type": "article",
+        "level": 3,
+        "order": 39,
+        "path": [
+          "titre-4",
+          "article-36-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-37-",
+        "title": "Article 37 :",
+        "type": "article",
+        "level": 3,
+        "order": 40,
+        "path": [
+          "titre-4",
+          "article-37-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-38-",
+        "title": "Article 38 :",
+        "type": "article",
+        "level": 3,
+        "order": 41,
+        "path": [
+          "titre-4",
+          "article-38-"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-5",
+        "title": "TITRE 5 : DISPOSITIONS FINANCIÈRES, DIVERSES ET FINALES",
+        "type": "titre",
+        "level": 1,
+        "order": 42,
+        "path": [
+          "titre-5"
+        ],
+        "children": [
+          "article-39-",
+          "article-40-",
+          "article-41-",
+          "article-42-",
+          "article-43-",
+          "article-44-",
+          "article-45-"
+        ]
+      },
+      {
+        "id": "article-39-",
+        "title": "Article 39 :",
+        "type": "article",
+        "level": 3,
+        "order": 43,
+        "path": [
+          "titre-5",
+          "article-39-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-40-",
+        "title": "Article 40 :",
+        "type": "article",
+        "level": 3,
+        "order": 44,
+        "path": [
+          "titre-5",
+          "article-40-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-41-",
+        "title": "Article 41 :",
+        "type": "article",
+        "level": 3,
+        "order": 45,
+        "path": [
+          "titre-5",
+          "article-41-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-42-",
+        "title": "Article 42 :",
+        "type": "article",
+        "level": 3,
+        "order": 46,
+        "path": [
+          "titre-5",
+          "article-42-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-43-",
+        "title": "Article 43 :",
+        "type": "article",
+        "level": 3,
+        "order": 47,
+        "path": [
+          "titre-5",
+          "article-43-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-44-",
+        "title": "Article 44 :",
+        "type": "article",
+        "level": 3,
+        "order": 48,
+        "path": [
+          "titre-5",
+          "article-44-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-45-",
+        "title": "Article 45 :",
+        "type": "article",
+        "level": 3,
+        "order": 50,
+        "path": [
+          "titre-5",
+          "article-45-"
+        ],
+        "children": []
+      }
+    ],
+    "totalArticles": 45
+  },
+  "source": "internationale"
+}

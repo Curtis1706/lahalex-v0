@@ -1,0 +1,1 @@
+Le  contentieux  relatif  à l’application des actes uniformes est réglé en  première  instance  et  en  appel  par  les juridictions des Etats-Parties.

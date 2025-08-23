@@ -1,0 +1,1 @@
+Le barème des tarifs de la procé- dure  d’arbitrage  instituée  par  le  présent Traité ainsi que la répartition des recettes correspondantes  sont  approuvés  par  le Conseil des Ministres.

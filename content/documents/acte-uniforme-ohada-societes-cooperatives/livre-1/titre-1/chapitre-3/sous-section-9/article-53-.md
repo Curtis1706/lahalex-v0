@@ -1,0 +1,1 @@
+Le capital social initial est indiqué dans les statuts qui déterminent son montant.

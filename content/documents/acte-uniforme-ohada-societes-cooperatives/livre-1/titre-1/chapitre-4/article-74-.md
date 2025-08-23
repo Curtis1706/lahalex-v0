@@ -1,0 +1,1 @@
+Toute société coopérative doit être immatriculée au Registre des Sociétés Coopérati- ves institué dans chaque Etat Partie.

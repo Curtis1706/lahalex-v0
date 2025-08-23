@@ -1,0 +1,2 @@
+Les membres de la Cour sont élus au scrutin secret par le Conseil des ministres sur une liste de personnes présentées cet effet par les Etats Parties.
+Chaque Etat Partie peut présenter deux candidats au plus.

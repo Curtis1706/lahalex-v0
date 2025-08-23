@@ -1,0 +1,2 @@
+(Québec 2008) Le budget annuel de l’OHADA est adopté par le Conseil des Ministres.
+Les comptes de l’exercice clos sont certi- fiés par des commissaires aux comptes dé- signés  par  le  Conseil  des  Ministres.  Ils sont approuvés par le Conseil des Minis- tres.

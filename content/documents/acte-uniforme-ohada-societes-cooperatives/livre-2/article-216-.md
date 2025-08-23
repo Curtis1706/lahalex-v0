@@ -1,0 +1,2 @@
+Les initiateurs et les premiers dirigeants auxquels la nullité de la société coopérative simplifiée est imputable sont solidairement responsables envers les autres coopérateurs et les personnes autres que ceux-ci du dommage résultant de l’annulation.
+50’action se prescrit par trois ans à compter du jour où la décision d’annulation est devenue définitive.

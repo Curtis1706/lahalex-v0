@@ -1,0 +1,2 @@
+Les Actes uniformes sont publiés au Journal officiel de l’OHADA par le Secrétariat Permanent dans les soixante jours suivant leur adoption.
+Ils sont applicables quatre-vingt dix jours aprŁs cette publication, sauf modalités particuliŁres d’entrée en vigueur prévues par les Actes uniformes. Ils sont également publiés dans les Etats parties, au Journal officiel ou par tout autre moyen approprié. Cette formalité n’a aucune incidence sur l’entrée en vigueur des Actes uniformes.

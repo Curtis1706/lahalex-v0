@@ -1,0 +1,8 @@
+Les membres de la Commission exercent leurs fonctions en toute
+indépendance, dans l’intérêt général de la Communauté. Ils ne sollicitent ni
+n’acceptent d’instructions d’aucun Gouvernement, ni d’aucune autre
+personne physique ou morale. Les Etats membres sont tenus de respecter
+leur indépendance.
+Pendant la durée de leur mandat, ils n’exercent aucune autre activité
+professionnelle rémunérée ou non. Toutefois, ils peuvent mener des
+activités littéraires, artistiques et scientifiques.

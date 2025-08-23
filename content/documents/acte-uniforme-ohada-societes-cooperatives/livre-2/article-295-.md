@@ -1,0 +1,1 @@
+Les statuts organisent l’élection des administrateurs et détermine la durée de leur mandat.

@@ -1,0 +1,3 @@
+A défaut de clauses statutaires relatives à la liquidation amiable de la société coopé- rative, sa liquidation sera effectuée conformément aux dispositions pertinentes et compatibles des articles 203 à 241 de l’Acte uniforme relatif au droit des sociétés commerciales et du groupement d’intérêt économique.
+Les formalités devant être accomplies au Registre des Sociétés Coopératives sont celles pré- vues au Registre du Commerce et du Crédit Mobilier et par les dispositions mentionnées à l’alinéa 1 ci-dessus.
+Le boni de liquidation est dévolu à d’autres sociétés coopératives régies par les dispositions du présent Acte uniforme ou à des institutions ou organismes œuvrant pour la promotion du mouvement coopératif.

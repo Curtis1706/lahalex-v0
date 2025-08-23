@@ -1,0 +1,3 @@
+Confidentialité de la procédure arbitrale
+La procédure arbitrale est confidentielle. Les travaux de la Cour relatifs au déroulement de la procédure arbitrale sont soumis à cette confidentialité, ainsi que les réunions de la Cour pour l’administration de l’arbitrage. Elle couvre les documents soumis à la Cour ou établis par elle à l’occasion des procédures qu’elle diligente.
+Sous réserve d’un accord contraire de toutes les parties, celles-ci et leurs conseils, les arbitres, les experts, et toutes les personnes associées à la procédure d’arbitrage, sont tenus au respect de la confidentialité des informations et documents qui sont produits au cours de cette procédure. La confidentialité s’étend, dans les mêmes conditions, aux sentences arbitrales.

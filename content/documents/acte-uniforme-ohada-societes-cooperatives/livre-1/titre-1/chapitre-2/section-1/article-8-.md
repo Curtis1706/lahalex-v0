@@ -1,0 +1,2 @@
+La société coopérative est composée de coopérateurs qui, unis par le lien commun sur la base duquel la société a été créée, participent effectivement et suivant les principes coopératifs, aux activités de ladite société et reçoivent en représentation de leurs apports des parts sociales.
+Au sens du présent Acte uniforme, le lien commun désigne l’élément ou le critère objectif que possèdent en commun les coopérateurs et sur la base duquel ils se regroupent. Il peut, notam- ment, être relatif à une profession, à une identité d’objectif, d’activité, ou de forme juridique.

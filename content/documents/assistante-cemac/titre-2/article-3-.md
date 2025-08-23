@@ -1,0 +1,6 @@
+Les Experts en poste en République de Guinée Equatoriale au titre de l'Assistance Technique de l'Union exercent leurs fonctions sous l'autorité du Gouvernement de cet Etat et sont tenus de se conformer à ses règlements et directives.
+Ils sont liés par l'obligation de discrétion professionnelle pour tout ce qui concerne les faits ou informations dont ils ont connaissance dans l'exercice de leurs fonctions.
+Union Douanière Et Economique de l'Afrique Centrale UDEAC
+CONSEIL DES CHEFS d'ETAT
+Ils doivent s'abstenir de tout acte susceptible de mettre en cause soit le Gouvernement de la République de Guinée Equatoriale, soit les Gouvernements des Etats membres de l'UDEAC, ou tout autre Gouvernement intéressé par la Coopération instituée par la 1 Convention.
+Le Gouvernement de la République de Guinée Equatoriale, les Gouvernements des Etats membres de l'UDEAC et tout autre Gouvernement intéressé, ainsi que les autorités de l'UDEAC s'interdisent d'imposer aux Agents visés par la présente Convention tout activité ou manifestation présentant un caractère au service.

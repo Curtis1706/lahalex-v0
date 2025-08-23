@@ -1,0 +1,1 @@
+La fédération des sociétés coopératives peut prévoir dans ses statuts et règlement intérieur la possibilité de vote plural pour certains de ses membres et en déterminer les critè- res.

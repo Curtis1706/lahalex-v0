@@ -1,0 +1,1 @@
+Le présent Traité a une durée il- limitée. Il ne peut, en tout état de cause, être dénoncé avant dix années à partir de la date de son entrée en vigueur. Toute dé- nonciation du présent Traité doit être noti- fiée  au  gouvernement  dépositaire  et  ne produira d’effet qu’une année après la date de cette notification.

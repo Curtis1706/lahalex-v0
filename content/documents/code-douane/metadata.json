@@ -9,7 +9,7 @@
         "id": "titre-1",
         "title": "TITRE 1 : DES GENERALITES",
         "type": "titre",
-        "level": 2,
+        "level": 1,
         "order": 0,
         "path": [
           "titre-1"
@@ -30,7 +30,7 @@
         "id": "chapitre-1",
         "title": "CHAPITRE 1: DE L'OBJET ET DU CHAMP D'APPLICATION",
         "type": "chapitre",
-        "level": 3,
+        "level": 2,
         "order": 1,
         "path": [
           "titre-1",
@@ -45,11 +45,11 @@
         "id": "article-1-",
         "title": "Article 1 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 2,
         "path": [
-          "titre-1",
-          "chapitre-1"
+          "chapitre-1",
+          "article-1-"
         ],
         "children": []
       },
@@ -57,11 +57,11 @@
         "id": "article-2-",
         "title": "Article 2 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 3,
         "path": [
-          "titre-1",
-          "chapitre-1"
+          "chapitre-1",
+          "article-2-"
         ],
         "children": []
       },
@@ -69,7 +69,7 @@
         "id": "chapitre-2",
         "title": "CHAPITRE 2 : DES TERMES ET EXPRESSIONS USUELS",
         "type": "chapitre",
-        "level": 3,
+        "level": 2,
         "order": 4,
         "path": [
           "titre-1",
@@ -83,11 +83,11 @@
         "id": "article-3-",
         "title": "Article 3 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 5,
         "path": [
-          "titre-1",
-          "chapitre-2"
+          "chapitre-2",
+          "article-3-"
         ],
         "children": []
       },
@@ -95,7 +95,7 @@
         "id": "chapitre-3",
         "title": "CHAPITRE 3 : DES PRINCIPES",
         "type": "chapitre",
-        "level": 3,
+        "level": 2,
         "order": 6,
         "path": [
           "titre-1",
@@ -110,11 +110,11 @@
         "id": "article-4-",
         "title": "Article 4 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 7,
         "path": [
-          "titre-1",
-          "chapitre-3"
+          "chapitre-3",
+          "article-4-"
         ],
         "children": []
       },
@@ -122,11 +122,11 @@
         "id": "article-5-",
         "title": "Article 5 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 8,
         "path": [
-          "titre-1",
-          "chapitre-3"
+          "chapitre-3",
+          "article-5-"
         ],
         "children": []
       },
@@ -134,7 +134,7 @@
         "id": "chapitre-4",
         "title": "CHAPITRE 4 : DU TARIF DES DOUANES",
         "type": "chapitre",
-        "level": 3,
+        "level": 2,
         "order": 9,
         "path": [
           "titre-1",
@@ -151,11 +151,11 @@
         "id": "article-6-",
         "title": "Article 6 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 10,
         "path": [
-          "titre-1",
-          "chapitre-4"
+          "chapitre-4",
+          "article-6-"
         ],
         "children": []
       },
@@ -163,11 +163,11 @@
         "id": "article-7-",
         "title": "Article 7 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 11,
         "path": [
-          "titre-1",
-          "chapitre-4"
+          "chapitre-4",
+          "article-7-"
         ],
         "children": []
       },
@@ -175,11 +175,11 @@
         "id": "article-8-",
         "title": "Article 8 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 12,
         "path": [
-          "titre-1",
-          "chapitre-4"
+          "chapitre-4",
+          "article-8-"
         ],
         "children": []
       },
@@ -187,11 +187,11 @@
         "id": "article-9-",
         "title": "Article 9 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 13,
         "path": [
-          "titre-1",
-          "chapitre-4"
+          "chapitre-4",
+          "article-9-"
         ],
         "children": []
       },
@@ -199,7 +199,7 @@
         "id": "chapitre-5",
         "title": "CHAPITRE 5 : DES CONDITIONS D'APPLICATION DU TARIF EXTERIEUR COMMUN (TEC)",
         "type": "chapitre",
-        "level": 3,
+        "level": 2,
         "order": 14,
         "path": [
           "titre-1",
@@ -217,11 +217,11 @@
         "id": "article-10-",
         "title": "Article 10 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 15,
         "path": [
-          "titre-1",
-          "chapitre-5"
+          "chapitre-5",
+          "article-10-"
         ],
         "children": []
       },
@@ -329,7 +329,7 @@
         "id": "article-13-",
         "title": "Article 13 :",
         "type": "article",
-        "level": 5,
+        "level": 4,
         "order": 22,
         "path": [
           "titre-1",
@@ -343,7 +343,7 @@
         "id": "article-14-",
         "title": "Article 14 :",
         "type": "article",
-        "level": 5,
+        "level": 4,
         "order": 23,
         "path": [
           "titre-1",
@@ -357,7 +357,7 @@
         "id": "article-15-",
         "title": "Article 15 : Si les marchandises importées, des marchandises",
         "type": "article",
-        "level": 5,
+        "level": 4,
         "order": 24,
         "path": [
           "titre-1",
@@ -371,7 +371,7 @@
         "id": "article-16-",
         "title": "Article 16 :",
         "type": "article",
-        "level": 5,
+        "level": 4,
         "order": 25,
         "path": [
           "titre-1",
@@ -385,7 +385,7 @@
         "id": "article-17-",
         "title": "Article 17 : Si la valeur en douane des marchandises importées ne",
         "type": "article",
-        "level": 5,
+        "level": 4,
         "order": 26,
         "path": [
           "titre-1",
@@ -399,7 +399,7 @@
         "id": "article-et-de-la-m-thode-utilis-e-pour-y-parvenir",
         "title": "article et de la méthode utilisée pour y parvenir.",
         "type": "article",
-        "level": 5,
+        "level": 4,
         "order": 27,
         "path": [
           "titre-1",
@@ -413,7 +413,7 @@
         "id": "article-18-",
         "title": "Article 18 :",
         "type": "article",
-        "level": 5,
+        "level": 4,
         "order": 28,
         "path": [
           "titre-1",
@@ -427,7 +427,7 @@
         "id": "article-19-",
         "title": "Article 19 :",
         "type": "article",
-        "level": 5,
+        "level": 4,
         "order": 29,
         "path": [
           "titre-1",
@@ -441,7 +441,7 @@
         "id": "article-20-",
         "title": "Article 20 :",
         "type": "article",
-        "level": 5,
+        "level": 4,
         "order": 30,
         "path": [
           "titre-1",
@@ -455,7 +455,7 @@
         "id": "article-21-",
         "title": "Article 21 :",
         "type": "article",
-        "level": 5,
+        "level": 4,
         "order": 31,
         "path": [
           "titre-1",
@@ -469,7 +469,7 @@
         "id": "article-22-",
         "title": "Article 22 :",
         "type": "article",
-        "level": 5,
+        "level": 4,
         "order": 32,
         "path": [
           "titre-1",
@@ -483,7 +483,7 @@
         "id": "article-23-",
         "title": "Article 23 :",
         "type": "article",
-        "level": 5,
+        "level": 4,
         "order": 33,
         "path": [
           "titre-1",
@@ -497,7 +497,7 @@
         "id": "article-24-",
         "title": "Article 24 :",
         "type": "article",
-        "level": 5,
+        "level": 4,
         "order": 34,
         "path": [
           "titre-1",
@@ -527,7 +527,7 @@
         "id": "article-25-",
         "title": "Article 25 :",
         "type": "article",
-        "level": 5,
+        "level": 4,
         "order": 36,
         "path": [
           "titre-1",
@@ -569,7 +569,7 @@
         "id": "chapitre-6",
         "title": "CHAPITRE 6 : DES PROHIBITIONS",
         "type": "chapitre",
-        "level": 3,
+        "level": 2,
         "order": 39,
         "path": [
           "titre-1",
@@ -594,11 +594,11 @@
         "id": "article-27-",
         "title": "Article 27 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 41,
         "path": [
-          "titre-1",
-          "chapitre-6"
+          "chapitre-6",
+          "article-27-"
         ],
         "children": []
       },
@@ -606,11 +606,11 @@
         "id": "article-28-",
         "title": "Article 28 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 42,
         "path": [
-          "titre-1",
-          "chapitre-6"
+          "chapitre-6",
+          "article-28-"
         ],
         "children": []
       },
@@ -618,11 +618,11 @@
         "id": "article-29-",
         "title": "Article 29 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 43,
         "path": [
-          "titre-1",
-          "chapitre-6"
+          "chapitre-6",
+          "article-29-"
         ],
         "children": []
       },
@@ -630,11 +630,11 @@
         "id": "article-30-",
         "title": "Article 30 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 44,
         "path": [
-          "titre-1",
-          "chapitre-6"
+          "chapitre-6",
+          "article-30-"
         ],
         "children": []
       },
@@ -642,11 +642,11 @@
         "id": "article-31-",
         "title": "Article 31 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 46,
         "path": [
-          "titre-1",
-          "chapitre-6"
+          "chapitre-6",
+          "article-31-"
         ],
         "children": []
       },
@@ -654,11 +654,11 @@
         "id": "article-32-",
         "title": "Article 32 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 47,
         "path": [
-          "titre-1",
-          "chapitre-6"
+          "chapitre-6",
+          "article-32-"
         ],
         "children": []
       },
@@ -666,11 +666,11 @@
         "id": "article-33-",
         "title": "Article 33 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 49,
         "path": [
-          "titre-1",
-          "chapitre-6"
+          "chapitre-6",
+          "article-33-"
         ],
         "children": []
       },
@@ -678,11 +678,11 @@
         "id": "article-34-",
         "title": "Article 34 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 50,
         "path": [
-          "titre-1",
-          "chapitre-6"
+          "chapitre-6",
+          "article-34-"
         ],
         "children": []
       },
@@ -690,11 +690,11 @@
         "id": "article-35-",
         "title": "Article 35 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 51,
         "path": [
-          "titre-1",
-          "chapitre-6"
+          "chapitre-6",
+          "article-35-"
         ],
         "children": []
       },
@@ -702,11 +702,11 @@
         "id": "article-36-",
         "title": "Article 36 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 52,
         "path": [
-          "titre-1",
-          "chapitre-6"
+          "chapitre-6",
+          "article-36-"
         ],
         "children": []
       },
@@ -714,11 +714,11 @@
         "id": "article-37-",
         "title": "Article 37 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 54,
         "path": [
-          "titre-1",
-          "chapitre-6"
+          "chapitre-6",
+          "article-37-"
         ],
         "children": []
       },
@@ -824,7 +824,7 @@
         "id": "chapitre-7",
         "title": "CHAPITRE 7 : DES RESTRICTIONS D'ENTREE, DE SORTIE DE TONNAGE ET DE CONDITIONNEMENT",
         "type": "chapitre",
-        "level": 3,
+        "level": 2,
         "order": 62,
         "path": [
           "titre-1",
@@ -838,11 +838,11 @@
         "id": "article-44-",
         "title": "Article 44 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 63,
         "path": [
-          "titre-1",
-          "chapitre-7"
+          "chapitre-7",
+          "article-44-"
         ],
         "children": []
       },
@@ -850,7 +850,7 @@
         "id": "chapitre-8",
         "title": "CHAPITRE 8 : DU CONTROLE DU COMMERCE EXTERIEUR ET DES CHANGES",
         "type": "chapitre",
-        "level": 3,
+        "level": 2,
         "order": 64,
         "path": [
           "titre-1",
@@ -864,11 +864,11 @@
         "id": "article-45-",
         "title": "Article 45 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 65,
         "path": [
-          "titre-1",
-          "chapitre-8"
+          "chapitre-8",
+          "article-45-"
         ],
         "children": []
       },
@@ -876,7 +876,7 @@
         "id": "chapitre-9",
         "title": "CHAPITRE 9 : DE LA CLAUSE TRANSITOIRE",
         "type": "chapitre",
-        "level": 3,
+        "level": 2,
         "order": 66,
         "path": [
           "titre-1",
@@ -890,11 +890,11 @@
         "id": "article-46-",
         "title": "Article 46 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 67,
         "path": [
-          "titre-1",
-          "chapitre-9"
+          "chapitre-9",
+          "article-46-"
         ],
         "children": []
       },
@@ -902,7 +902,7 @@
         "id": "titre-2",
         "title": "TITRE 2 : DE L'ORGANISATION ET DU FONCTIONNEMENT DES SERVICES DES DOUANES",
         "type": "titre",
-        "level": 2,
+        "level": 1,
         "order": 68,
         "path": [
           "titre-2"
@@ -951,7 +951,7 @@
         "id": "article-47-",
         "title": "Article 47 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 70,
         "path": [
           "titre-2"
@@ -962,7 +962,7 @@
         "id": "article-48-",
         "title": "Article 48 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 71,
         "path": [
           "titre-2"
@@ -973,7 +973,7 @@
         "id": "article-49-",
         "title": "Article 49 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 73,
         "path": [
           "titre-2"
@@ -984,7 +984,7 @@
         "id": "article-50-",
         "title": "Article 50 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 74,
         "path": [
           "titre-2"
@@ -995,7 +995,7 @@
         "id": "article-51-",
         "title": "Article 51 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 75,
         "path": [
           "titre-2"
@@ -1006,7 +1006,7 @@
         "id": "article-52-",
         "title": "Article 52 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 77,
         "path": [
           "titre-2"
@@ -1017,7 +1017,7 @@
         "id": "article-53-",
         "title": "Article 53 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 78,
         "path": [
           "titre-2"
@@ -1028,7 +1028,7 @@
         "id": "article-54-",
         "title": "Article 54 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 79,
         "path": [
           "titre-2"
@@ -1039,7 +1039,7 @@
         "id": "article-55-",
         "title": "Article 55 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 80,
         "path": [
           "titre-2"
@@ -1050,7 +1050,7 @@
         "id": "article-56-",
         "title": "Article 56 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 81,
         "path": [
           "titre-2"
@@ -1061,7 +1061,7 @@
         "id": "article-57-",
         "title": "Article 57 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 82,
         "path": [
           "titre-2"
@@ -1072,7 +1072,7 @@
         "id": "article-58-",
         "title": "Article 58 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 83,
         "path": [
           "titre-2"
@@ -1083,7 +1083,7 @@
         "id": "article-59-",
         "title": "Article 59 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 84,
         "path": [
           "titre-2"
@@ -1094,7 +1094,7 @@
         "id": "article-60-",
         "title": "Article 60 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 85,
         "path": [
           "titre-2"
@@ -1105,7 +1105,7 @@
         "id": "article-61-",
         "title": "Article 61 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 86,
         "path": [
           "titre-2"
@@ -1116,7 +1116,7 @@
         "id": "article-62-",
         "title": "Article 62 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 89,
         "path": [
           "titre-2"
@@ -1127,7 +1127,7 @@
         "id": "article-63-",
         "title": "Article 63 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 91,
         "path": [
           "titre-2"
@@ -1138,7 +1138,7 @@
         "id": "article-64-",
         "title": "Article 64 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 92,
         "path": [
           "titre-2"
@@ -1149,7 +1149,7 @@
         "id": "article-65-",
         "title": "Article 65 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 93,
         "path": [
           "titre-2"
@@ -1160,7 +1160,7 @@
         "id": "article-66-",
         "title": "Article 66 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 94,
         "path": [
           "titre-2"
@@ -1171,7 +1171,7 @@
         "id": "article-67-",
         "title": "Article 67 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 95,
         "path": [
           "titre-2"
@@ -1182,7 +1182,7 @@
         "id": "article-68-",
         "title": "Article 68 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 96,
         "path": [
           "titre-2"
@@ -1193,7 +1193,7 @@
         "id": "article-69-",
         "title": "Article 69 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 97,
         "path": [
           "titre-2"
@@ -1204,7 +1204,7 @@
         "id": "article-70-",
         "title": "Article 70 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 98,
         "path": [
           "titre-2"
@@ -1215,7 +1215,7 @@
         "id": "article-71-",
         "title": "Article 71 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 99,
         "path": [
           "titre-2"
@@ -1226,7 +1226,7 @@
         "id": "article-72-",
         "title": "Article 72 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 100,
         "path": [
           "titre-2"
@@ -1237,7 +1237,7 @@
         "id": "article-73-",
         "title": "Article 73 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 101,
         "path": [
           "titre-2"
@@ -1248,7 +1248,7 @@
         "id": "article-74-",
         "title": "Article 74 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 102,
         "path": [
           "titre-2"
@@ -1259,7 +1259,7 @@
         "id": "article-75-",
         "title": "Article 75 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 104,
         "path": [
           "titre-2"
@@ -1270,7 +1270,7 @@
         "id": "article-76-",
         "title": "Article 76 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 106,
         "path": [
           "titre-2"
@@ -1281,7 +1281,7 @@
         "id": "article-77-",
         "title": "Article 77 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 108,
         "path": [
           "titre-2"
@@ -1306,7 +1306,7 @@
         "id": "article-78-",
         "title": "Article 78 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 110,
         "path": [
           "titre-2",
@@ -1332,7 +1332,7 @@
         "id": "article-79-",
         "title": "Article 79 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 112,
         "path": [
           "titre-2",
@@ -1344,7 +1344,7 @@
         "id": "article-80-",
         "title": "Article 80 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 114,
         "path": [
           "titre-2"
@@ -1355,7 +1355,7 @@
         "id": "article-81-",
         "title": "Article 81 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 115,
         "path": [
           "titre-2"
@@ -1366,7 +1366,7 @@
         "id": "article-82-",
         "title": "Article 82 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 116,
         "path": [
           "titre-2"
@@ -1377,7 +1377,7 @@
         "id": "article-83-",
         "title": "Article 83 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 117,
         "path": [
           "titre-2"
@@ -1388,7 +1388,7 @@
         "id": "titre-3",
         "title": "TITRE 3 : DE LA CONDUITE ET DE LA MISE EN DOUANE DES MARCHANDISES",
         "type": "titre",
-        "level": 2,
+        "level": 1,
         "order": 118,
         "path": [
           "titre-3"
@@ -1455,7 +1455,7 @@
         "id": "article-84-",
         "title": "Article 84 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 122,
         "path": [
           "titre-3"
@@ -1466,7 +1466,7 @@
         "id": "article-85-",
         "title": "Article 85 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 123,
         "path": [
           "titre-3"
@@ -1477,7 +1477,7 @@
         "id": "article-86-",
         "title": "Article 86 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 124,
         "path": [
           "titre-3"
@@ -1488,7 +1488,7 @@
         "id": "article-87-",
         "title": "Article 87 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 125,
         "path": [
           "titre-3"
@@ -1499,7 +1499,7 @@
         "id": "article-88-",
         "title": "Article 88 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 126,
         "path": [
           "titre-3"
@@ -1510,7 +1510,7 @@
         "id": "article-89-",
         "title": "Article 89 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 127,
         "path": [
           "titre-3"
@@ -1521,7 +1521,7 @@
         "id": "article-ne-comprend-pas-les-dimanches-et-jours-f-ri-s",
         "title": "article ne comprend pas les dimanches et jours fériés.",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 128,
         "path": [
           "titre-3"
@@ -1532,7 +1532,7 @@
         "id": "article-90-",
         "title": "Article 90 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 129,
         "path": [
           "titre-3"
@@ -1543,7 +1543,7 @@
         "id": "article-91-",
         "title": "Article 91 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 130,
         "path": [
           "titre-3"
@@ -1554,7 +1554,7 @@
         "id": "article-92-",
         "title": "Article 92 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 131,
         "path": [
           "titre-3"
@@ -1565,7 +1565,7 @@
         "id": "article-93-",
         "title": "Article 93 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 133,
         "path": [
           "titre-3"
@@ -1576,7 +1576,7 @@
         "id": "article-94-",
         "title": "Article 94 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 134,
         "path": [
           "titre-3"
@@ -1603,7 +1603,7 @@
         "id": "article-95-",
         "title": "Article 95 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 136,
         "path": [
           "titre-3",
@@ -1615,7 +1615,7 @@
         "id": "article-96-",
         "title": "Article 96 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 137,
         "path": [
           "titre-3",
@@ -1627,7 +1627,7 @@
         "id": "article-97-",
         "title": "Article 97 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 138,
         "path": [
           "titre-3",
@@ -1639,7 +1639,7 @@
         "id": "article-98-",
         "title": "Article 98 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 140,
         "path": [
           "titre-3"
@@ -1650,7 +1650,7 @@
         "id": "article-99-",
         "title": "Article 99 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 141,
         "path": [
           "titre-3"
@@ -1661,7 +1661,7 @@
         "id": "article-100-",
         "title": "Article 100 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 142,
         "path": [
           "titre-3"
@@ -1672,7 +1672,7 @@
         "id": "article-101-",
         "title": "Article 101 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 143,
         "path": [
           "titre-3"
@@ -1683,7 +1683,7 @@
         "id": "article-102-",
         "title": "Article 102 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 144,
         "path": [
           "titre-3"
@@ -1694,7 +1694,7 @@
         "id": "article-103-",
         "title": "Article 103 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 145,
         "path": [
           "titre-3"
@@ -1705,7 +1705,7 @@
         "id": "article-104-",
         "title": "Article 104 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 146,
         "path": [
           "titre-3"
@@ -1716,7 +1716,7 @@
         "id": "article-105-",
         "title": "Article 105 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 147,
         "path": [
           "titre-3"
@@ -1727,7 +1727,7 @@
         "id": "article-106-",
         "title": "Article 106 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 148,
         "path": [
           "titre-3"
@@ -1738,7 +1738,7 @@
         "id": "article-107-",
         "title": "Article 107 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 149,
         "path": [
           "titre-3"
@@ -1749,7 +1749,7 @@
         "id": "article-108-",
         "title": "Article 108 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 151,
         "path": [
           "titre-3"
@@ -1760,7 +1760,7 @@
         "id": "article-109-",
         "title": "Article 109 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 152,
         "path": [
           "titre-3"
@@ -1771,7 +1771,7 @@
         "id": "article-110-",
         "title": "Article 110 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 153,
         "path": [
           "titre-3"
@@ -1782,7 +1782,7 @@
         "id": "article-111-",
         "title": "Article 111 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 155,
         "path": [
           "titre-3"
@@ -1793,7 +1793,7 @@
         "id": "article-112-",
         "title": "Article 112 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 156,
         "path": [
           "titre-3"
@@ -1804,7 +1804,7 @@
         "id": "article-113-",
         "title": "Article 113 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 157,
         "path": [
           "titre-3"
@@ -1815,7 +1815,7 @@
         "id": "article-114-",
         "title": "Article 114 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 158,
         "path": [
           "titre-3"
@@ -1826,7 +1826,7 @@
         "id": "article-115-",
         "title": "Article 115 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 159,
         "path": [
           "titre-3"
@@ -1837,7 +1837,7 @@
         "id": "article-116-",
         "title": "Article 116 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 160,
         "path": [
           "titre-3"
@@ -1848,7 +1848,7 @@
         "id": "article-117-",
         "title": "Article 117 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 162,
         "path": [
           "titre-3"
@@ -1859,7 +1859,7 @@
         "id": "article-118-",
         "title": "Article 118 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 163,
         "path": [
           "titre-3"
@@ -1870,7 +1870,7 @@
         "id": "article-119-",
         "title": "Article 119 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 164,
         "path": [
           "titre-3"
@@ -1881,7 +1881,7 @@
         "id": "article-120-",
         "title": "Article 120 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 166,
         "path": [
           "titre-3"
@@ -1892,7 +1892,7 @@
         "id": "article-121-",
         "title": "Article 121 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 168,
         "path": [
           "titre-3"
@@ -1903,7 +1903,7 @@
         "id": "article-122-",
         "title": "Article 122 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 169,
         "path": [
           "titre-3"
@@ -1914,7 +1914,7 @@
         "id": "article-123-",
         "title": "Article 123 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 170,
         "path": [
           "titre-3"
@@ -1925,7 +1925,7 @@
         "id": "article-124-",
         "title": "Article 124 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 171,
         "path": [
           "titre-3"
@@ -1936,7 +1936,7 @@
         "id": "article-125-",
         "title": "Article 125 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 173,
         "path": [
           "titre-3"
@@ -1947,7 +1947,7 @@
         "id": "article-126-",
         "title": "Article 126 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 174,
         "path": [
           "titre-3"
@@ -1958,7 +1958,7 @@
         "id": "article-127-",
         "title": "Article 127 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 175,
         "path": [
           "titre-3"
@@ -1969,7 +1969,7 @@
         "id": "article-128-",
         "title": "Article 128 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 176,
         "path": [
           "titre-3"
@@ -1980,7 +1980,7 @@
         "id": "article-129-",
         "title": "Article 129 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 179,
         "path": [
           "titre-3"
@@ -1991,7 +1991,7 @@
         "id": "article-130-",
         "title": "Article 130 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 180,
         "path": [
           "titre-3"
@@ -2002,7 +2002,7 @@
         "id": "article-131-",
         "title": "Article 131 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 181,
         "path": [
           "titre-3"
@@ -2013,7 +2013,7 @@
         "id": "article-132-",
         "title": "Article 132 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 183,
         "path": [
           "titre-3"
@@ -2024,7 +2024,7 @@
         "id": "article-133-",
         "title": "Article 133 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 184,
         "path": [
           "titre-3"
@@ -2035,7 +2035,7 @@
         "id": "article-134-",
         "title": "Article 134 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 186,
         "path": [
           "titre-3"
@@ -2046,7 +2046,7 @@
         "id": "article-135-",
         "title": "Article 135 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 187,
         "path": [
           "titre-3"
@@ -2057,7 +2057,7 @@
         "id": "article-136-",
         "title": "Article 136 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 188,
         "path": [
           "titre-3"
@@ -2068,7 +2068,7 @@
         "id": "article-137-",
         "title": "Article 137 : Les marchandises présentées en douane doivent recevoir",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 190,
         "path": [
           "titre-3"
@@ -2079,7 +2079,7 @@
         "id": "article-138-",
         "title": "Article 138 : Lorsque les marchandises ont fait l'objet d'une",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 191,
         "path": [
           "titre-3"
@@ -2090,7 +2090,7 @@
         "id": "article-139-",
         "title": "Article 139 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 193,
         "path": [
           "titre-3"
@@ -2101,7 +2101,7 @@
         "id": "titre-4",
         "title": "TITRE 4 : DE L'OPERATION DE DEDOUANEMENT",
         "type": "titre",
-        "level": 2,
+        "level": 1,
         "order": 194,
         "path": [
           "titre-4"
@@ -2165,7 +2165,7 @@
         "id": "article-140-",
         "title": "Article 140 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 197,
         "path": [
           "titre-4"
@@ -2176,7 +2176,7 @@
         "id": "article-141-",
         "title": "Article 141 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 198,
         "path": [
           "titre-4"
@@ -2187,7 +2187,7 @@
         "id": "article-142-",
         "title": "Article 142 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 199,
         "path": [
           "titre-4"
@@ -2198,7 +2198,7 @@
         "id": "article-143-",
         "title": "Article 143 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 201,
         "path": [
           "titre-4"
@@ -2209,7 +2209,7 @@
         "id": "article-144-",
         "title": "Article 144 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 202,
         "path": [
           "titre-4"
@@ -2220,7 +2220,7 @@
         "id": "article-145-",
         "title": "Article 145 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 203,
         "path": [
           "titre-4"
@@ -2231,7 +2231,7 @@
         "id": "article-146-",
         "title": "Article 146 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 204,
         "path": [
           "titre-4"
@@ -2242,7 +2242,7 @@
         "id": "article-147-",
         "title": "Article 147 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 205,
         "path": [
           "titre-4"
@@ -2253,7 +2253,7 @@
         "id": "article-148-",
         "title": "Article 148 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 206,
         "path": [
           "titre-4"
@@ -2264,7 +2264,7 @@
         "id": "article-149-",
         "title": "Article 149 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 207,
         "path": [
           "titre-4"
@@ -2275,7 +2275,7 @@
         "id": "article-150-",
         "title": "Article 150 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 208,
         "path": [
           "titre-4"
@@ -2286,7 +2286,7 @@
         "id": "article-151-",
         "title": "Article 151 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 209,
         "path": [
           "titre-4"
@@ -2297,7 +2297,7 @@
         "id": "article-152-",
         "title": "Article 152 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 211,
         "path": [
           "titre-4"
@@ -2308,7 +2308,7 @@
         "id": "article-153-",
         "title": "Article 153 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 212,
         "path": [
           "titre-4"
@@ -2319,7 +2319,7 @@
         "id": "article-154-",
         "title": "Article 154 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 213,
         "path": [
           "titre-4"
@@ -2330,7 +2330,7 @@
         "id": "article-155-",
         "title": "Article 155 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 214,
         "path": [
           "titre-4"
@@ -2341,7 +2341,7 @@
         "id": "article-156-",
         "title": "Article 156 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 215,
         "path": [
           "titre-4"
@@ -2352,7 +2352,7 @@
         "id": "article-157-",
         "title": "Article 157 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 216,
         "path": [
           "titre-4"
@@ -2363,7 +2363,7 @@
         "id": "article-158-",
         "title": "Article 158 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 217,
         "path": [
           "titre-4"
@@ -2374,7 +2374,7 @@
         "id": "article-159-",
         "title": "Article 159 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 218,
         "path": [
           "titre-4"
@@ -2385,7 +2385,7 @@
         "id": "article-160-",
         "title": "Article 160 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 219,
         "path": [
           "titre-4"
@@ -2396,7 +2396,7 @@
         "id": "article-161-",
         "title": "Article 161 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 220,
         "path": [
           "titre-4"
@@ -2407,7 +2407,7 @@
         "id": "article-162-",
         "title": "Article 162 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 221,
         "path": [
           "titre-4"
@@ -2418,7 +2418,7 @@
         "id": "article-163-",
         "title": "Article 163 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 222,
         "path": [
           "titre-4"
@@ -2429,7 +2429,7 @@
         "id": "article-164-",
         "title": "Article 164 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 223,
         "path": [
           "titre-4"
@@ -2440,7 +2440,7 @@
         "id": "article-165-",
         "title": "Article 165 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 225,
         "path": [
           "titre-4"
@@ -2451,7 +2451,7 @@
         "id": "article-166-",
         "title": "Article 166 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 227,
         "path": [
           "titre-4"
@@ -2462,7 +2462,7 @@
         "id": "article-167-",
         "title": "Article 167 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 230,
         "path": [
           "titre-4"
@@ -2473,7 +2473,7 @@
         "id": "article-168-",
         "title": "Article 168 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 231,
         "path": [
           "titre-4"
@@ -2484,7 +2484,7 @@
         "id": "article-169-",
         "title": "Article 169 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 232,
         "path": [
           "titre-4"
@@ -2495,7 +2495,7 @@
         "id": "article-170-",
         "title": "Article 170 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 233,
         "path": [
           "titre-4"
@@ -2506,7 +2506,7 @@
         "id": "article-171-",
         "title": "Article 171 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 235,
         "path": [
           "titre-4"
@@ -2517,7 +2517,7 @@
         "id": "article-172-",
         "title": "Article 172 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 236,
         "path": [
           "titre-4"
@@ -2528,7 +2528,7 @@
         "id": "article-173-",
         "title": "Article 173 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 237,
         "path": [
           "titre-4"
@@ -2539,7 +2539,7 @@
         "id": "article-174-",
         "title": "Article 174 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 238,
         "path": [
           "titre-4"
@@ -2550,7 +2550,7 @@
         "id": "article-175-",
         "title": "Article 175 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 239,
         "path": [
           "titre-4"
@@ -2561,7 +2561,7 @@
         "id": "article-176-",
         "title": "Article 176 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 240,
         "path": [
           "titre-4"
@@ -2572,7 +2572,7 @@
         "id": "article-177-",
         "title": "Article 177 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 242,
         "path": [
           "titre-4"
@@ -2583,7 +2583,7 @@
         "id": "article-178-",
         "title": "Article 178 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 244,
         "path": [
           "titre-4"
@@ -2594,7 +2594,7 @@
         "id": "article-179-",
         "title": "Article 179 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 247,
         "path": [
           "titre-4"
@@ -2605,7 +2605,7 @@
         "id": "article-180-",
         "title": "Article 180 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 248,
         "path": [
           "titre-4"
@@ -2616,7 +2616,7 @@
         "id": "article-181-",
         "title": "Article 181 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 251,
         "path": [
           "titre-4"
@@ -2627,7 +2627,7 @@
         "id": "article-182-",
         "title": "Article 182 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 252,
         "path": [
           "titre-4"
@@ -2638,7 +2638,7 @@
         "id": "article-183-",
         "title": "Article 183 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 253,
         "path": [
           "titre-4"
@@ -2649,7 +2649,7 @@
         "id": "article-184-",
         "title": "Article 184 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 255,
         "path": [
           "titre-4"
@@ -2660,7 +2660,7 @@
         "id": "article-185-",
         "title": "Article 185 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 256,
         "path": [
           "titre-4"
@@ -2671,7 +2671,7 @@
         "id": "article-186-",
         "title": "Article 186 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 257,
         "path": [
           "titre-4"
@@ -2682,7 +2682,7 @@
         "id": "article-187-",
         "title": "Article 187 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 258,
         "path": [
           "titre-4"
@@ -2693,7 +2693,7 @@
         "id": "article-188-",
         "title": "Article 188 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 260,
         "path": [
           "titre-4"
@@ -2704,7 +2704,7 @@
         "id": "article-189-",
         "title": "Article 189 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 263,
         "path": [
           "titre-4"
@@ -2715,7 +2715,7 @@
         "id": "article-190-",
         "title": "Article 190 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 265,
         "path": [
           "titre-4"
@@ -2726,7 +2726,7 @@
         "id": "article-191-",
         "title": "Article 191 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 266,
         "path": [
           "titre-4"
@@ -2737,7 +2737,7 @@
         "id": "titre-5",
         "title": "TITRE 5 : DES REGIMES DOUANIERS SUSPENSIFS, DE L'EXPORTATION PREALABLE, DE L'IMPORTATION ET DE L'EXPORTATION TEMPORAIRES, DU DRAWBACK",
         "type": "titre",
-        "level": 2,
+        "level": 1,
         "order": 267,
         "path": [
           "titre-5"
@@ -2821,7 +2821,7 @@
         "id": "article-192-",
         "title": "Article 192 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 270,
         "path": [
           "titre-5"
@@ -2832,7 +2832,7 @@
         "id": "article-193-",
         "title": "Article 193 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 271,
         "path": [
           "titre-5"
@@ -2843,7 +2843,7 @@
         "id": "article-194-",
         "title": "Article 194 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 272,
         "path": [
           "titre-5"
@@ -2854,7 +2854,7 @@
         "id": "article-195-",
         "title": "Article 195 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 273,
         "path": [
           "titre-5"
@@ -2865,7 +2865,7 @@
         "id": "article-196-",
         "title": "Article 196 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 274,
         "path": [
           "titre-5"
@@ -2876,7 +2876,7 @@
         "id": "article-197-",
         "title": "Article 197 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 276,
         "path": [
           "titre-5"
@@ -2887,7 +2887,7 @@
         "id": "article-198-",
         "title": "Article 198 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 277,
         "path": [
           "titre-5"
@@ -2898,7 +2898,7 @@
         "id": "article-199-",
         "title": "Article 199 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 278,
         "path": [
           "titre-5"
@@ -2909,7 +2909,7 @@
         "id": "article-200-",
         "title": "Article 200 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 280,
         "path": [
           "titre-5"
@@ -2920,7 +2920,7 @@
         "id": "article-201-",
         "title": "Article 201 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 282,
         "path": [
           "titre-5"
@@ -2931,7 +2931,7 @@
         "id": "article-202-",
         "title": "Article 202 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 283,
         "path": [
           "titre-5"
@@ -2942,7 +2942,7 @@
         "id": "article-203-",
         "title": "Article 203 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 284,
         "path": [
           "titre-5"
@@ -2953,7 +2953,7 @@
         "id": "article-204-",
         "title": "Article 204 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 285,
         "path": [
           "titre-5"
@@ -2964,7 +2964,7 @@
         "id": "article-205-",
         "title": "Article 205 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 286,
         "path": [
           "titre-5"
@@ -2975,7 +2975,7 @@
         "id": "article-206-",
         "title": "Article 206 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 287,
         "path": [
           "titre-5"
@@ -2986,7 +2986,7 @@
         "id": "article-207-",
         "title": "Article 207 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 289,
         "path": [
           "titre-5"
@@ -2997,7 +2997,7 @@
         "id": "article-208-",
         "title": "Article 208 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 290,
         "path": [
           "titre-5"
@@ -3008,7 +3008,7 @@
         "id": "article-209-",
         "title": "Article 209 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 291,
         "path": [
           "titre-5"
@@ -3019,7 +3019,7 @@
         "id": "article-210-",
         "title": "Article 210 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 292,
         "path": [
           "titre-5"
@@ -3030,7 +3030,7 @@
         "id": "article-211-",
         "title": "Article 211 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 293,
         "path": [
           "titre-5"
@@ -3041,7 +3041,7 @@
         "id": "article-212-",
         "title": "Article 212 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 294,
         "path": [
           "titre-5"
@@ -3052,7 +3052,7 @@
         "id": "article-213-",
         "title": "Article 213 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 295,
         "path": [
           "titre-5"
@@ -3063,7 +3063,7 @@
         "id": "article-214-",
         "title": "Article 214 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 297,
         "path": [
           "titre-5"
@@ -3074,7 +3074,7 @@
         "id": "article-215-",
         "title": "Article 215 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 301,
         "path": [
           "titre-5"
@@ -3085,7 +3085,7 @@
         "id": "article-216-",
         "title": "Article 216 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 303,
         "path": [
           "titre-5"
@@ -3096,7 +3096,7 @@
         "id": "article-217-",
         "title": "Article 217 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 304,
         "path": [
           "titre-5"
@@ -3107,7 +3107,7 @@
         "id": "article-218-",
         "title": "Article 218 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 306,
         "path": [
           "titre-5"
@@ -3118,7 +3118,7 @@
         "id": "article-219-",
         "title": "Article 219 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 307,
         "path": [
           "titre-5"
@@ -3129,7 +3129,7 @@
         "id": "article-220-",
         "title": "Article 220 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 308,
         "path": [
           "titre-5"
@@ -3140,7 +3140,7 @@
         "id": "article-221-",
         "title": "Article 221 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 309,
         "path": [
           "titre-5"
@@ -3151,7 +3151,7 @@
         "id": "article-222-",
         "title": "Article 222 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 310,
         "path": [
           "titre-5"
@@ -3162,7 +3162,7 @@
         "id": "article-223-",
         "title": "Article 223 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 311,
         "path": [
           "titre-5"
@@ -3173,7 +3173,7 @@
         "id": "article-224-",
         "title": "Article 224 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 312,
         "path": [
           "titre-5"
@@ -3203,7 +3203,7 @@
         "id": "article-225-",
         "title": "Article 225 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 314,
         "path": [
           "titre-5",
@@ -3215,7 +3215,7 @@
         "id": "article-226-",
         "title": "Article 226 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 315,
         "path": [
           "titre-5",
@@ -3227,7 +3227,7 @@
         "id": "article-227-",
         "title": "Article 227 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 316,
         "path": [
           "titre-5",
@@ -3239,7 +3239,7 @@
         "id": "article-228-",
         "title": "Article 228 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 317,
         "path": [
           "titre-5",
@@ -3251,7 +3251,7 @@
         "id": "article-229-",
         "title": "Article 229 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 318,
         "path": [
           "titre-5",
@@ -3263,7 +3263,7 @@
         "id": "article-230-",
         "title": "Article 230 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 319,
         "path": [
           "titre-5",
@@ -3290,7 +3290,7 @@
         "id": "article-231-",
         "title": "Article 231 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 321,
         "path": [
           "titre-5",
@@ -3302,7 +3302,7 @@
         "id": "article-232-",
         "title": "Article 232 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 322,
         "path": [
           "titre-5",
@@ -3338,7 +3338,7 @@
         "id": "article-233-",
         "title": "Article 233 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 324,
         "path": [
           "titre-5",
@@ -3350,7 +3350,7 @@
         "id": "article-234-",
         "title": "Article 234 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 325,
         "path": [
           "titre-5",
@@ -3362,7 +3362,7 @@
         "id": "article-235-",
         "title": "Article 235 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 326,
         "path": [
           "titre-5",
@@ -3374,7 +3374,7 @@
         "id": "article-236-",
         "title": "Article 236 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 327,
         "path": [
           "titre-5",
@@ -3386,7 +3386,7 @@
         "id": "article-237-",
         "title": "Article 237 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 328,
         "path": [
           "titre-5",
@@ -3398,7 +3398,7 @@
         "id": "article-238-",
         "title": "Article 238 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 329,
         "path": [
           "titre-5",
@@ -3410,7 +3410,7 @@
         "id": "article-239-",
         "title": "Article 239 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 330,
         "path": [
           "titre-5",
@@ -3422,7 +3422,7 @@
         "id": "article-240-",
         "title": "Article 240 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 331,
         "path": [
           "titre-5",
@@ -3434,7 +3434,7 @@
         "id": "article-241-",
         "title": "Article 241 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 332,
         "path": [
           "titre-5",
@@ -3446,7 +3446,7 @@
         "id": "article-242-",
         "title": "Article 242 :",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 333,
         "path": [
           "titre-5",
@@ -3458,7 +3458,7 @@
         "id": "article-243-",
         "title": "Article 243 : Lorsque les marchandises ayant subi des manipulations",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 334,
         "path": [
           "titre-5",
@@ -3470,7 +3470,7 @@
         "id": "article-244-",
         "title": "Article 244 : L'entrepôt industriel est le régime douanier",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 336,
         "path": [
           "titre-5"
@@ -3481,7 +3481,7 @@
         "id": "article-245-",
         "title": "Article 245 : L'entreprise bénéficiant du régime de l'entrepôt",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 337,
         "path": [
           "titre-5"
@@ -3492,7 +3492,7 @@
         "id": "article-246-",
         "title": "Article 246 : L'entrepôt industriel est accordé par arrêté du",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 338,
         "path": [
           "titre-5"
@@ -3503,7 +3503,7 @@
         "id": "article-247-",
         "title": "Article 247 : La durée de séjour des marchandises en entrepôt",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 339,
         "path": [
           "titre-5"
@@ -3514,7 +3514,7 @@
         "id": "article-248-",
         "title": "Article 248 : Les marchandises admises en entrepôt industriel ne",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 340,
         "path": [
           "titre-5"
@@ -3525,7 +3525,7 @@
         "id": "article-249-",
         "title": "Article 249 : Sauf autorisation du Directeur général des douanes,",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 341,
         "path": [
           "titre-5"
@@ -3536,7 +3536,7 @@
         "id": "article-250-",
         "title": "Article 250 : En cas de mise à la consommation des produits",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 342,
         "path": [
           "titre-5"
@@ -3547,7 +3547,7 @@
         "id": "article-251-",
         "title": "Article 251 : Les modalités de création, de fonctionnement,",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 343,
         "path": [
           "titre-5"
@@ -3558,7 +3558,7 @@
         "id": "article-252-",
         "title": "Article 252 : Le régime de l'admission temporaire permet de",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 346,
         "path": [
           "titre-5"
@@ -3569,7 +3569,7 @@
         "id": "article-253-",
         "title": "Article 253 : La durée du séjour en admission temporaire ne peut",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 347,
         "path": [
           "titre-5"
@@ -3580,7 +3580,7 @@
         "id": "article-254-",
         "title": "Article 254 : Pour bénéficier de l'admission temporaire,",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 348,
         "path": [
           "titre-5"
@@ -3591,7 +3591,7 @@
         "id": "article-255-",
         "title": "Article 255 : L'admission temporaire pour perfectionnement actif est",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 350,
         "path": [
           "titre-5"
@@ -3602,7 +3602,7 @@
         "id": "article-256-",
         "title": "Article 256 : Les modalités de fonctionnement de l'admission",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 351,
         "path": [
           "titre-5"
@@ -3613,7 +3613,7 @@
         "id": "article-257-",
         "title": "Article 257 : Le régime normal d'apurement des comptes d'admission",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 352,
         "path": [
           "titre-5"
@@ -3624,7 +3624,7 @@
         "id": "article-258-",
         "title": "Article 258 : La mise à la consommation des produits préalablement",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 353,
         "path": [
           "titre-5"
@@ -3635,7 +3635,7 @@
         "id": "article-259-",
         "title": "Article 259 : L'acte autorisant l'admission temporaire précise les",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 354,
         "path": [
           "titre-5"
@@ -3646,7 +3646,7 @@
         "id": "article-260-",
         "title": "Article 260 : Les produits expédiés de l'une des parties du",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 355,
         "path": [
           "titre-5"
@@ -3657,7 +3657,7 @@
         "id": "article-261-",
         "title": "Article 261 : L'admission temporaire en suspension partielle des",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 357,
         "path": [
           "titre-5"
@@ -3668,7 +3668,7 @@
         "id": "article-262-",
         "title": "Article 262 : Les expéditeurs doivent justifier, dans le délai fixé,",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 359,
         "path": [
           "titre-5"
@@ -3679,7 +3679,7 @@
         "id": "article-263-",
         "title": "Article 263 : Lorsque les produits admis temporairement n'ont pas",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 360,
         "path": [
           "titre-5"
@@ -3690,7 +3690,7 @@
         "id": "article-264-",
         "title": "Article 264 : L'usine exercée est un établissement placé sous la",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 362,
         "path": [
           "titre-5"
@@ -3701,7 +3701,7 @@
         "id": "article-265-",
         "title": "Article 265 : La liste des produits admis en usine exercée est fixée",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 363,
         "path": [
           "titre-5"
@@ -3712,7 +3712,7 @@
         "id": "article-266-",
         "title": "Article 266 : Les conditions d'agrément au régime des usines",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 364,
         "path": [
           "titre-5"
@@ -3723,7 +3723,7 @@
         "id": "article-267-",
         "title": "Article 267 : En cas de mise à la consommation des produits",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 365,
         "path": [
           "titre-5"
@@ -3734,7 +3734,7 @@
         "id": "article-268-",
         "title": "Article 268 : Le régime de réapprovisionnement en franchise ou",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 368,
         "path": [
           "titre-5"
@@ -3745,7 +3745,7 @@
         "id": "article-269-",
         "title": "Article 269 : Le bénéfice du régime de réapprovisionnement en",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 369,
         "path": [
           "titre-5"
@@ -3756,7 +3756,7 @@
         "id": "article-270-",
         "title": "Article 270 : Le drawback est le régime douanier qui permet, lors de",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 371,
         "path": [
           "titre-5"
@@ -3767,7 +3767,7 @@
         "id": "article-271-",
         "title": "Article 271 : Pour bénéficier du remboursement prévu à l'article 270",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 372,
         "path": [
           "titre-5"
@@ -3778,7 +3778,7 @@
         "id": "article-272-",
         "title": "Article 272 : L'acte accordant l'exportation préalable ou",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 374,
         "path": [
           "titre-5"
@@ -3789,7 +3789,7 @@
         "id": "article-273-",
         "title": "Article 273 : La liste des produits admissibles au bénéfice des deux",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 375,
         "path": [
           "titre-5"
@@ -3800,7 +3800,7 @@
         "id": "article-274-",
         "title": "Article 274 : Les constatations des laboratoires officiels",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 376,
         "path": [
           "titre-5"
@@ -3811,7 +3811,7 @@
         "id": "article-275-",
         "title": "Article 275 : Les voyageurs qui viennent séjourner temporairement",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 379,
         "path": [
           "titre-5"
@@ -3822,7 +3822,7 @@
         "id": "article-276-",
         "title": "Article 276 : Le titulaire d'un titre d'importation temporaire",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 380,
         "path": [
           "titre-5"
@@ -3833,7 +3833,7 @@
         "id": "article-277-",
         "title": "Article 277 : Les voyageurs qui ont leur principale résidence ou",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 382,
         "path": [
           "titre-5"
@@ -3844,7 +3844,7 @@
         "id": "article-278-",
         "title": "Article 278 : L'exportation temporaire pour perfectionnement passif",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 384,
         "path": [
           "titre-5"
@@ -3855,7 +3855,7 @@
         "id": "chapitre-10",
         "title": "CHAPITRE 10 : DE LA REPARATION DE NAVIRES BENINOIS HORS DU TERRITOIRE DOUANIER",
         "type": "chapitre",
-        "level": 3,
+        "level": 2,
         "order": 385,
         "path": [
           "titre-5",
@@ -3869,11 +3869,11 @@
         "id": "article-279-",
         "title": "Article 279 : S'il est procédé, hors du territoire douanier à la",
         "type": "article",
-        "level": 3,
+        "level": 4,
         "order": 387,
         "path": [
-          "titre-5",
-          "chapitre-10"
+          "chapitre-10",
+          "article-279-"
         ],
         "children": []
       },
@@ -3881,7 +3881,7 @@
         "id": "titre-6",
         "title": "TITRE 6 : DU DEPOT DE DOUANE",
         "type": "titre",
-        "level": 2,
+        "level": 1,
         "order": 388,
         "path": [
           "titre-6"
@@ -3902,7 +3902,7 @@
         "id": "article-280-",
         "title": "Article 280 : Sont constitués d'office en dépôt dans les magasins de",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 390,
         "path": [
           "titre-6"
@@ -3913,7 +3913,7 @@
         "id": "article-281-",
         "title": "Article 281 : Pour les marchandises non déclarées dans les délais",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 391,
         "path": [
           "titre-6"
@@ -3924,7 +3924,7 @@
         "id": "article-282-",
         "title": "Article 282 : A l'expiration du délai légal de séjour, le transfert",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 392,
         "path": [
           "titre-6"
@@ -3935,7 +3935,7 @@
         "id": "article-283-",
         "title": "Article 283 : Le droit de magasinage est perçu au profit du Trésor",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 393,
         "path": [
           "titre-6"
@@ -3946,7 +3946,7 @@
         "id": "article-284-",
         "title": "Article 284 : Les marchandises en dépôt de douane y demeurent aux",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 394,
         "path": [
           "titre-6"
@@ -3957,7 +3957,7 @@
         "id": "article-285-",
         "title": "Article 285 : Les agents des douanes ne peuvent procéder à",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 395,
         "path": [
           "titre-6"
@@ -3968,7 +3968,7 @@
         "id": "article-286-",
         "title": "Article 286 : S'agissant des cargaisons conteneurisées constituées",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 396,
         "path": [
           "titre-6"
@@ -3979,7 +3979,7 @@
         "id": "article-287-",
         "title": "Article 287 : Les marchandises qui n'ont pas été enlevées dans le",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 398,
         "path": [
           "titre-6"
@@ -3990,7 +3990,7 @@
         "id": "article-288-",
         "title": "Article 288 : La vente des marchandises est effectuée au plus",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 399,
         "path": [
           "titre-6"
@@ -4001,7 +4001,7 @@
         "id": "titre-7",
         "title": "TITRE 7 : DES OPERATIONS PRIVILEGIEES",
         "type": "titre",
-        "level": 2,
+        "level": 1,
         "order": 400,
         "path": [
           "titre-7"
@@ -4023,7 +4023,7 @@
         "id": "article-290-",
         "title": "Article 290 : Par dérogation aux articles 6 et 7 du présent",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 402,
         "path": [
           "titre-7"
@@ -4034,7 +4034,7 @@
         "id": "article-291-",
         "title": "Article 291 : Les marchandises décrites à l'article 290 ci-dessus,",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 403,
         "path": [
           "titre-7"
@@ -4045,7 +4045,7 @@
         "id": "article-292-",
         "title": "Article 292 : Sont exemptés de tous droits et taxes, les",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 406,
         "path": [
           "titre-7"
@@ -4056,7 +4056,7 @@
         "id": "article-293-",
         "title": "Article 293 : Les vivres et provisions de bord apportés par les",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 407,
         "path": [
           "titre-7"
@@ -4067,7 +4067,7 @@
         "id": "article-294-",
         "title": "Article 294 : Les vivres et provisions de bord à embarquer sur tout",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 408,
         "path": [
           "titre-7"
@@ -4078,7 +4078,7 @@
         "id": "article-295-",
         "title": "Article 295 : Les vivres et provisions de bord n'excédant pas le",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 409,
         "path": [
           "titre-7"
@@ -4089,7 +4089,7 @@
         "id": "article-296-",
         "title": "Article 296 : Les vivres qui sont embarqués dans un port autre que",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 410,
         "path": [
           "titre-7"
@@ -4100,7 +4100,7 @@
         "id": "article-297-",
         "title": "Article 297 : Sont exemptés de tous droits et taxes les",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 412,
         "path": [
           "titre-7"
@@ -4111,7 +4111,7 @@
         "id": "article-298-",
         "title": "Article 298 : Pour l'application de la législation douanière, les",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 414,
         "path": [
           "titre-7"
@@ -4122,7 +4122,7 @@
         "id": "article-299-",
         "title": "Article 299 : Sont exemptés des droits et taxes, les matériels",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 415,
         "path": [
           "titre-7"
@@ -4133,7 +4133,7 @@
         "id": "titre-8",
         "title": "TITRE 8 : DE LA CIRCULATION ET DE LA DETENTION DES MARCHANDISES A L'INTERIEUR DU TERRITOIRE DOUANIER",
         "type": "titre",
-        "level": 2,
+        "level": 1,
         "order": 416,
         "path": [
           "titre-8"
@@ -4157,7 +4157,7 @@
         "id": "article-300-",
         "title": "Article 300 : Les marchandises ne peuvent circuler dans la zone",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 419,
         "path": [
           "titre-8"
@@ -4168,7 +4168,7 @@
         "id": "article-301-",
         "title": "Article 301 : Les marchandises soumises à la formalité du passavant",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 420,
         "path": [
           "titre-8"
@@ -4179,7 +4179,7 @@
         "id": "article-302-",
         "title": "Article 302 : Les marchandises soumises à la formalité du passavant",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 421,
         "path": [
           "titre-8"
@@ -4190,7 +4190,7 @@
         "id": "article-303-",
         "title": "Article 303 : Les passavants nécessaires au transport des",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 422,
         "path": [
           "titre-8"
@@ -4201,7 +4201,7 @@
         "id": "article-304-",
         "title": "Article 304 : Les passavants nécessaires au transport des",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 423,
         "path": [
           "titre-8"
@@ -4212,7 +4212,7 @@
         "id": "article-305-",
         "title": "Article 305 : Les passavants et autres expéditions destinés à",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 424,
         "path": [
           "titre-8"
@@ -4223,7 +4223,7 @@
         "id": "article-306-",
         "title": "Article 306 : Les agents des douanes peuvent se transporter au lieu",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 425,
         "path": [
           "titre-8"
@@ -4234,7 +4234,7 @@
         "id": "article-307-",
         "title": "Article 307 : Les transporteurs sont tenus de ne pas s'écarter de",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 426,
         "path": [
           "titre-8"
@@ -4245,7 +4245,7 @@
         "id": "article-308-",
         "title": "Article 308 : Sont interdites dans le rayon des douanes, à",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 428,
         "path": [
           "titre-8"
@@ -4256,7 +4256,7 @@
         "id": "article-309-",
         "title": "Article 309 : Ceux qui détiennent ou transportent les marchandises",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 430,
         "path": [
           "titre-8"
@@ -4267,7 +4267,7 @@
         "id": "article-310-",
         "title": "Article 310 : Les détenteurs d'animaux des catégories désignées par",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 433,
         "path": [
           "titre-8"
@@ -4278,7 +4278,7 @@
         "id": "article-311-",
         "title": "Article 311 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 434,
         "path": [
           "titre-8"
@@ -4289,7 +4289,7 @@
         "id": "titre-9",
         "title": "TITRE 9 : DES DIVERSES TAXES PERÇUES PAR LA DOUANE",
         "type": "titre",
-        "level": 2,
+        "level": 1,
         "order": 435,
         "path": [
           "titre-9"
@@ -4303,7 +4303,7 @@
         "id": "article-312-",
         "title": "Article 312 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 436,
         "path": [
           "titre-9"
@@ -4314,7 +4314,7 @@
         "id": "article-313-",
         "title": "Article 313 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 437,
         "path": [
           "titre-9"
@@ -4325,7 +4325,7 @@
         "id": "titre-10",
         "title": "TITRE 10 : DU REGIME PRIVILEGIE APPLICABLE A CERTAINS ECHANGES COMMERCIAUX",
         "type": "titre",
-        "level": 2,
+        "level": 1,
         "order": 438,
         "path": [
           "titre-10"
@@ -4339,7 +4339,7 @@
         "id": "article-314-",
         "title": "Article 314 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 439,
         "path": [
           "titre-10"
@@ -4350,7 +4350,7 @@
         "id": "article-315-",
         "title": "Article 315 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 440,
         "path": [
           "titre-10"
@@ -4361,7 +4361,7 @@
         "id": "titre-11",
         "title": "TITRE 11 : DE LA ZONE FRANCHE",
         "type": "titre",
-        "level": 2,
+        "level": 1,
         "order": 441,
         "path": [
           "titre-11"
@@ -4384,7 +4384,7 @@
         "id": "article-316-",
         "title": "Article 316 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 442,
         "path": [
           "titre-11"
@@ -4395,7 +4395,7 @@
         "id": "article-317-",
         "title": "Article 317 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 443,
         "path": [
           "titre-11"
@@ -4406,7 +4406,7 @@
         "id": "article-318-",
         "title": "Article 318 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 444,
         "path": [
           "titre-11"
@@ -4417,7 +4417,7 @@
         "id": "article-319-",
         "title": "Article 319 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 445,
         "path": [
           "titre-11"
@@ -4428,7 +4428,7 @@
         "id": "article-320-",
         "title": "Article 320 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 446,
         "path": [
           "titre-11"
@@ -4439,7 +4439,7 @@
         "id": "article-321-",
         "title": "Article 321 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 447,
         "path": [
           "titre-11"
@@ -4450,7 +4450,7 @@
         "id": "article-322-",
         "title": "Article 322 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 448,
         "path": [
           "titre-11"
@@ -4461,7 +4461,7 @@
         "id": "article-323-",
         "title": "Article 323 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 449,
         "path": [
           "titre-11"
@@ -4472,7 +4472,7 @@
         "id": "article-324-",
         "title": "Article 324 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 450,
         "path": [
           "titre-11"
@@ -4483,7 +4483,7 @@
         "id": "article-325-",
         "title": "Article 325 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 451,
         "path": [
           "titre-11"
@@ -4494,7 +4494,7 @@
         "id": "article-326-",
         "title": "Article 326 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 452,
         "path": [
           "titre-11"
@@ -4505,7 +4505,7 @@
         "id": "titre-12",
         "title": "TITRE 12 : DU CONTENTIEUX ET DU RECOUVREMENT",
         "type": "titre",
-        "level": 2,
+        "level": 1,
         "order": 453,
         "path": [
           "titre-12"
@@ -4676,7 +4676,7 @@
         "id": "article-327-",
         "title": "Article 327 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 456,
         "path": [
           "titre-12"
@@ -4687,7 +4687,7 @@
         "id": "article-328-",
         "title": "Article 328 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 457,
         "path": [
           "titre-12"
@@ -4698,7 +4698,7 @@
         "id": "article-329-",
         "title": "Article 329 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 459,
         "path": [
           "titre-12"
@@ -4709,7 +4709,7 @@
         "id": "article-330-",
         "title": "Article 330 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 460,
         "path": [
           "titre-12"
@@ -4720,7 +4720,7 @@
         "id": "article-331-",
         "title": "Article 331 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 461,
         "path": [
           "titre-12"
@@ -4731,7 +4731,7 @@
         "id": "article-332-",
         "title": "Article 332 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 462,
         "path": [
           "titre-12"
@@ -4742,7 +4742,7 @@
         "id": "article-333-",
         "title": "Article 333 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 463,
         "path": [
           "titre-12"
@@ -4753,7 +4753,7 @@
         "id": "article-334-",
         "title": "Article 334 : Est obligatoirement ordonnée la confiscation des",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 464,
         "path": [
           "titre-12"
@@ -4764,7 +4764,7 @@
         "id": "article-335-",
         "title": "Article 335 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 465,
         "path": [
           "titre-12"
@@ -4775,7 +4775,7 @@
         "id": "article-336-",
         "title": "Article 336 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 466,
         "path": [
           "titre-12"
@@ -4786,7 +4786,7 @@
         "id": "article-337-",
         "title": "Article 337 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 467,
         "path": [
           "titre-12"
@@ -4797,7 +4797,7 @@
         "id": "article-338-",
         "title": "Article 338 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 468,
         "path": [
           "titre-12"
@@ -4808,7 +4808,7 @@
         "id": "article-339-",
         "title": "Article 339 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 469,
         "path": [
           "titre-12"
@@ -4819,7 +4819,7 @@
         "id": "article-340-",
         "title": "Article 340 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 470,
         "path": [
           "titre-12"
@@ -4830,7 +4830,7 @@
         "id": "article-341-",
         "title": "Article 341 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 471,
         "path": [
           "titre-12"
@@ -4841,7 +4841,7 @@
         "id": "article-342-",
         "title": "Article 342 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 472,
         "path": [
           "titre-12"
@@ -4852,7 +4852,7 @@
         "id": "article-343-",
         "title": "Article 343 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 474,
         "path": [
           "titre-12"
@@ -4863,7 +4863,7 @@
         "id": "article-344-",
         "title": "Article 344 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 475,
         "path": [
           "titre-12"
@@ -4874,7 +4874,7 @@
         "id": "article-345-",
         "title": "Article 345 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 476,
         "path": [
           "titre-12"
@@ -4885,7 +4885,7 @@
         "id": "article-346-",
         "title": "Article 346 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 477,
         "path": [
           "titre-12"
@@ -4896,7 +4896,7 @@
         "id": "article-347-",
         "title": "Article 347 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 478,
         "path": [
           "titre-12"
@@ -4907,7 +4907,7 @@
         "id": "article-348-",
         "title": "Article 348 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 479,
         "path": [
           "titre-12"
@@ -4918,7 +4918,7 @@
         "id": "article-349-",
         "title": "Article 349 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 480,
         "path": [
           "titre-12"
@@ -4929,7 +4929,7 @@
         "id": "article-350-",
         "title": "Article 350 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 481,
         "path": [
           "titre-12"
@@ -4940,7 +4940,7 @@
         "id": "article-351-",
         "title": "Article 351 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 483,
         "path": [
           "titre-12"
@@ -4951,7 +4951,7 @@
         "id": "article-352-",
         "title": "Article 352 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 484,
         "path": [
           "titre-12"
@@ -4962,7 +4962,7 @@
         "id": "article-353-",
         "title": "Article 353 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 486,
         "path": [
           "titre-12"
@@ -4973,7 +4973,7 @@
         "id": "article-354-",
         "title": "Article 354 : Les condamnations contre plusieurs personnes pour un",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 487,
         "path": [
           "titre-12"
@@ -4984,7 +4984,7 @@
         "id": "article-355-",
         "title": "Article 355 : Les propriétaires des marchandises de fraude, ceux qui",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 488,
         "path": [
           "titre-12"
@@ -4995,7 +4995,7 @@
         "id": "article-356-",
         "title": "Article 356 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 490,
         "path": [
           "titre-12"
@@ -5006,7 +5006,7 @@
         "id": "article-357-",
         "title": "Article 357 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 491,
         "path": [
           "titre-12"
@@ -5017,7 +5017,7 @@
         "id": "article-358-",
         "title": "Article 358 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 494,
         "path": [
           "titre-12"
@@ -5028,7 +5028,7 @@
         "id": "article-359-",
         "title": "Article 359 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 495,
         "path": [
           "titre-12"
@@ -5039,7 +5039,7 @@
         "id": "article-360-",
         "title": "Article 360 : Ceux qui constatent une infraction douanière ont le",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 496,
         "path": [
           "titre-12"
@@ -5050,7 +5050,7 @@
         "id": "article-361-",
         "title": "Article 361 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 497,
         "path": [
           "titre-12"
@@ -5061,7 +5061,7 @@
         "id": "article-362-",
         "title": "Article 362 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 498,
         "path": [
           "titre-12"
@@ -5072,7 +5072,7 @@
         "id": "article-363-",
         "title": "Article 363 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 499,
         "path": [
           "titre-12"
@@ -5083,7 +5083,7 @@
         "id": "article-364-",
         "title": "Article 364 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 500,
         "path": [
           "titre-12"
@@ -5094,7 +5094,7 @@
         "id": "article-365-",
         "title": "Article 365 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 503,
         "path": [
           "titre-12"
@@ -5105,7 +5105,7 @@
         "id": "article-366-",
         "title": "Article 366 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 505,
         "path": [
           "titre-12"
@@ -5116,7 +5116,7 @@
         "id": "article-367-",
         "title": "Article 367 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 506,
         "path": [
           "titre-12"
@@ -5127,7 +5127,7 @@
         "id": "article-368-",
         "title": "Article 368 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 508,
         "path": [
           "titre-12"
@@ -5138,7 +5138,7 @@
         "id": "article-369-",
         "title": "Article 369 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 509,
         "path": [
           "titre-12"
@@ -5149,7 +5149,7 @@
         "id": "article-370-",
         "title": "Article 370 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 510,
         "path": [
           "titre-12"
@@ -5160,7 +5160,7 @@
         "id": "article-371-",
         "title": "Article 371 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 511,
         "path": [
           "titre-12"
@@ -5171,7 +5171,7 @@
         "id": "article-372-",
         "title": "Article 372 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 513,
         "path": [
           "titre-12"
@@ -5182,7 +5182,7 @@
         "id": "article-373-",
         "title": "Article 373 : Les procès-verbaux de douane rédigés par au moins deux",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 514,
         "path": [
           "titre-12"
@@ -5193,7 +5193,7 @@
         "id": "article-374-",
         "title": "Article 374 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 515,
         "path": [
           "titre-12"
@@ -5204,7 +5204,7 @@
         "id": "article-375-",
         "title": "Article 375 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 516,
         "path": [
           "titre-12"
@@ -5215,7 +5215,7 @@
         "id": "article-376-",
         "title": "Article 376 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 517,
         "path": [
           "titre-12"
@@ -5226,7 +5226,7 @@
         "id": "article-377-",
         "title": "Article 377 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 518,
         "path": [
           "titre-12"
@@ -5237,7 +5237,7 @@
         "id": "article-378-",
         "title": "Article 378 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 519,
         "path": [
           "titre-12"
@@ -5248,7 +5248,7 @@
         "id": "article-379-",
         "title": "Article 379 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 520,
         "path": [
           "titre-12"
@@ -5259,7 +5259,7 @@
         "id": "article-380-",
         "title": "Article 380 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 521,
         "path": [
           "titre-12"
@@ -5270,7 +5270,7 @@
         "id": "article-381-",
         "title": "Article 381 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 522,
         "path": [
           "titre-12"
@@ -5281,7 +5281,7 @@
         "id": "article-382-",
         "title": "Article 382 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 523,
         "path": [
           "titre-12"
@@ -5292,7 +5292,7 @@
         "id": "article-383-",
         "title": "Article 383 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 524,
         "path": [
           "titre-12"
@@ -5303,7 +5303,7 @@
         "id": "article-384-",
         "title": "Article 384 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 527,
         "path": [
           "titre-12"
@@ -5314,7 +5314,7 @@
         "id": "article-385-",
         "title": "Article 385 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 528,
         "path": [
           "titre-12"
@@ -5325,7 +5325,7 @@
         "id": "article-386-",
         "title": "Article 386 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 530,
         "path": [
           "titre-12"
@@ -5336,7 +5336,7 @@
         "id": "article-387-",
         "title": "Article 387 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 531,
         "path": [
           "titre-12"
@@ -5347,7 +5347,7 @@
         "id": "article-388-",
         "title": "Article 388 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 532,
         "path": [
           "titre-12"
@@ -5358,7 +5358,7 @@
         "id": "article-389-",
         "title": "Article 389 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 533,
         "path": [
           "titre-12"
@@ -5369,7 +5369,7 @@
         "id": "article-390-",
         "title": "Article 390 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 534,
         "path": [
           "titre-12"
@@ -5380,7 +5380,7 @@
         "id": "article-391-",
         "title": "Article 391 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 536,
         "path": [
           "titre-12"
@@ -5391,7 +5391,7 @@
         "id": "article-392-",
         "title": "Article 392 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 537,
         "path": [
           "titre-12"
@@ -5402,7 +5402,7 @@
         "id": "article-393-",
         "title": "Article 393 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 538,
         "path": [
           "titre-12"
@@ -5413,7 +5413,7 @@
         "id": "article-394-",
         "title": "Article 394 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 539,
         "path": [
           "titre-12"
@@ -5424,7 +5424,7 @@
         "id": "article-395-",
         "title": "Article 395 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 540,
         "path": [
           "titre-12"
@@ -5435,7 +5435,7 @@
         "id": "article-396-",
         "title": "Article 396 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 541,
         "path": [
           "titre-12"
@@ -5446,7 +5446,7 @@
         "id": "article-397-",
         "title": "Article 397 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 542,
         "path": [
           "titre-12"
@@ -5457,7 +5457,7 @@
         "id": "article-398-",
         "title": "Article 398 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 543,
         "path": [
           "titre-12"
@@ -5468,7 +5468,7 @@
         "id": "article-399-",
         "title": "Article 399 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 544,
         "path": [
           "titre-12"
@@ -5479,7 +5479,7 @@
         "id": "article-400-",
         "title": "Article 400 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 545,
         "path": [
           "titre-12"
@@ -5490,7 +5490,7 @@
         "id": "article-401-",
         "title": "Article 401 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 546,
         "path": [
           "titre-12"
@@ -5501,7 +5501,7 @@
         "id": "article-402-",
         "title": "Article 402 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 547,
         "path": [
           "titre-12"
@@ -5512,7 +5512,7 @@
         "id": "article-403-",
         "title": "Article 403 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 550,
         "path": [
           "titre-12"
@@ -5523,7 +5523,7 @@
         "id": "article-404-",
         "title": "Article 404 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 551,
         "path": [
           "titre-12"
@@ -5534,7 +5534,7 @@
         "id": "article-405-",
         "title": "Article 405 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 552,
         "path": [
           "titre-12"
@@ -5545,7 +5545,7 @@
         "id": "article-406-",
         "title": "Article 406 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 553,
         "path": [
           "titre-12"
@@ -5556,7 +5556,7 @@
         "id": "article-407-",
         "title": "Article 407 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 555,
         "path": [
           "titre-12"
@@ -5567,7 +5567,7 @@
         "id": "article-408-",
         "title": "Article 408 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 556,
         "path": [
           "titre-12"
@@ -5578,7 +5578,7 @@
         "id": "article-409-",
         "title": "Article 409 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 557,
         "path": [
           "titre-12"
@@ -5589,7 +5589,7 @@
         "id": "article-410-",
         "title": "Article 410 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 558,
         "path": [
           "titre-12"
@@ -5600,7 +5600,7 @@
         "id": "article-411-",
         "title": "Article 411 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 560,
         "path": [
           "titre-12"
@@ -5611,7 +5611,7 @@
         "id": "article-412-",
         "title": "Article 412 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 561,
         "path": [
           "titre-12"
@@ -5622,7 +5622,7 @@
         "id": "article-413-",
         "title": "Article 413 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 562,
         "path": [
           "titre-12"
@@ -5633,7 +5633,7 @@
         "id": "article-414-",
         "title": "Article 414 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 563,
         "path": [
           "titre-12"
@@ -5644,7 +5644,7 @@
         "id": "article-415-",
         "title": "Article 415 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 564,
         "path": [
           "titre-12"
@@ -5655,7 +5655,7 @@
         "id": "article-416-",
         "title": "Article 416 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 566,
         "path": [
           "titre-12"
@@ -5666,7 +5666,7 @@
         "id": "article-417-",
         "title": "Article 417 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 567,
         "path": [
           "titre-12"
@@ -5677,7 +5677,7 @@
         "id": "article-418-",
         "title": "Article 418 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 568,
         "path": [
           "titre-12"
@@ -5688,7 +5688,7 @@
         "id": "article-419-",
         "title": "Article 419 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 569,
         "path": [
           "titre-12"
@@ -5699,7 +5699,7 @@
         "id": "article-420-",
         "title": "Article 420 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 570,
         "path": [
           "titre-12"
@@ -5710,7 +5710,7 @@
         "id": "article-421-",
         "title": "Article 421 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 571,
         "path": [
           "titre-12"
@@ -5721,7 +5721,7 @@
         "id": "article-422-",
         "title": "Article 422 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 572,
         "path": [
           "titre-12"
@@ -5732,7 +5732,7 @@
         "id": "article-423-",
         "title": "Article 423 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 573,
         "path": [
           "titre-12"
@@ -5743,7 +5743,7 @@
         "id": "article-424-",
         "title": "Article 424 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 574,
         "path": [
           "titre-12"
@@ -5754,7 +5754,7 @@
         "id": "article-425-",
         "title": "Article 425 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 575,
         "path": [
           "titre-12"
@@ -5765,7 +5765,7 @@
         "id": "article-426-",
         "title": "Article 426 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 576,
         "path": [
           "titre-12"
@@ -5776,7 +5776,7 @@
         "id": "article-427-",
         "title": "Article 427 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 577,
         "path": [
           "titre-12"
@@ -5787,7 +5787,7 @@
         "id": "article-428-",
         "title": "Article 428 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 580,
         "path": [
           "titre-12"
@@ -5798,7 +5798,7 @@
         "id": "article-429-",
         "title": "Article 429 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 581,
         "path": [
           "titre-12"
@@ -5809,7 +5809,7 @@
         "id": "article-430-",
         "title": "Article 430 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 582,
         "path": [
           "titre-12"
@@ -5820,7 +5820,7 @@
         "id": "article-431-",
         "title": "Article 431 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 583,
         "path": [
           "titre-12"
@@ -5831,7 +5831,7 @@
         "id": "article-432-",
         "title": "Article 432 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 585,
         "path": [
           "titre-12"
@@ -5842,7 +5842,7 @@
         "id": "article-433-",
         "title": "Article 433 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 586,
         "path": [
           "titre-12"
@@ -5853,7 +5853,7 @@
         "id": "article-434-",
         "title": "Article 434 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 587,
         "path": [
           "titre-12"
@@ -5864,7 +5864,7 @@
         "id": "article-435-",
         "title": "Article 435 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 588,
         "path": [
           "titre-12"
@@ -5875,7 +5875,7 @@
         "id": "article-436-",
         "title": "Article 436 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 589,
         "path": [
           "titre-12"
@@ -5886,7 +5886,7 @@
         "id": "article-437-",
         "title": "Article 437 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 590,
         "path": [
           "titre-12"
@@ -5897,7 +5897,7 @@
         "id": "article-438-",
         "title": "Article 438 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 591,
         "path": [
           "titre-12"
@@ -5908,7 +5908,7 @@
         "id": "article-439-",
         "title": "Article 439 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 592,
         "path": [
           "titre-12"
@@ -5919,7 +5919,7 @@
         "id": "article-440-",
         "title": "Article 440 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 593,
         "path": [
           "titre-12"
@@ -5930,7 +5930,7 @@
         "id": "article-441-",
         "title": "Article 441 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 594,
         "path": [
           "titre-12"
@@ -5941,7 +5941,7 @@
         "id": "article-442-",
         "title": "Article 442 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 595,
         "path": [
           "titre-12"
@@ -5952,7 +5952,7 @@
         "id": "article-443-",
         "title": "Article 443 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 596,
         "path": [
           "titre-12"
@@ -5963,7 +5963,7 @@
         "id": "article-444-",
         "title": "Article 444 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 597,
         "path": [
           "titre-12"
@@ -5974,7 +5974,7 @@
         "id": "article-445-",
         "title": "Article 445 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 598,
         "path": [
           "titre-12"
@@ -5985,7 +5985,7 @@
         "id": "article-446-",
         "title": "Article 446 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 599,
         "path": [
           "titre-12"
@@ -5996,7 +5996,7 @@
         "id": "article-447-",
         "title": "Article 447 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 600,
         "path": [
           "titre-12"
@@ -6007,7 +6007,7 @@
         "id": "article-448-",
         "title": "Article 448 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 601,
         "path": [
           "titre-12"
@@ -6018,7 +6018,7 @@
         "id": "article-sont-pr-alablement---leur-r-alisation--autoris-es-par-l",
         "title": "article sont préalablement à leur réalisation, autorisées par le",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 602,
         "path": [
           "titre-12"
@@ -6029,7 +6029,7 @@
         "id": "article-449-",
         "title": "Article 449 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 603,
         "path": [
           "titre-12"
@@ -6040,7 +6040,7 @@
         "id": "article-450-",
         "title": "Article 450 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 604,
         "path": [
           "titre-12"
@@ -6051,7 +6051,7 @@
         "id": "article-451-",
         "title": "Article 451 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 605,
         "path": [
           "titre-12"
@@ -6062,7 +6062,7 @@
         "id": "article-452-",
         "title": "Article 452 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 607,
         "path": [
           "titre-12"
@@ -6073,7 +6073,7 @@
         "id": "article-453-",
         "title": "Article 453 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 611,
         "path": [
           "titre-12"
@@ -6084,7 +6084,7 @@
         "id": "article-454-",
         "title": "Article 454 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 613,
         "path": [
           "titre-12"
@@ -6095,7 +6095,7 @@
         "id": "article-455-",
         "title": "Article 455 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 614,
         "path": [
           "titre-12"
@@ -6106,7 +6106,7 @@
         "id": "article-456-",
         "title": "Article 456 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 615,
         "path": [
           "titre-12"
@@ -6117,7 +6117,7 @@
         "id": "article-457-",
         "title": "Article 457 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 616,
         "path": [
           "titre-12"
@@ -6128,7 +6128,7 @@
         "id": "article-458-",
         "title": "Article 458 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 618,
         "path": [
           "titre-12"
@@ -6139,7 +6139,7 @@
         "id": "article-459-",
         "title": "Article 459 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 619,
         "path": [
           "titre-12"
@@ -6150,7 +6150,7 @@
         "id": "article-460-",
         "title": "Article 460 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 620,
         "path": [
           "titre-12"
@@ -6161,7 +6161,7 @@
         "id": "article-461-",
         "title": "Article 461 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 621,
         "path": [
           "titre-12"
@@ -6172,7 +6172,7 @@
         "id": "article-462-",
         "title": "Article 462 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 623,
         "path": [
           "titre-12"
@@ -6183,7 +6183,7 @@
         "id": "article-463-",
         "title": "Article 463 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 624,
         "path": [
           "titre-12"
@@ -6194,7 +6194,7 @@
         "id": "article-464-",
         "title": "Article 464 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 625,
         "path": [
           "titre-12"
@@ -6205,7 +6205,7 @@
         "id": "article-465-",
         "title": "Article 465 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 626,
         "path": [
           "titre-12"
@@ -6216,7 +6216,7 @@
         "id": "article-466-",
         "title": "Article 466 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 627,
         "path": [
           "titre-12"
@@ -6227,7 +6227,7 @@
         "id": "article-467-",
         "title": "Article 467 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 629,
         "path": [
           "titre-12"
@@ -6238,7 +6238,7 @@
         "id": "article-468-",
         "title": "Article 468 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 630,
         "path": [
           "titre-12"
@@ -6249,7 +6249,7 @@
         "id": "article-469-",
         "title": "Article 469 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 631,
         "path": [
           "titre-12"
@@ -6260,7 +6260,7 @@
         "id": "article-470-",
         "title": "Article 470 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 632,
         "path": [
           "titre-12"
@@ -6271,7 +6271,7 @@
         "id": "article-471-",
         "title": "Article 471 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 633,
         "path": [
           "titre-12"
@@ -6282,7 +6282,7 @@
         "id": "article-472-",
         "title": "Article 472 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 634,
         "path": [
           "titre-12"
@@ -6293,7 +6293,7 @@
         "id": "article-473-",
         "title": "Article 473 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 635,
         "path": [
           "titre-12"
@@ -6304,7 +6304,7 @@
         "id": "article-474-",
         "title": "Article 474 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 636,
         "path": [
           "titre-12"
@@ -6315,7 +6315,7 @@
         "id": "article-475-",
         "title": "Article 475 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 639,
         "path": [
           "titre-12"
@@ -6326,7 +6326,7 @@
         "id": "article-476-",
         "title": "Article 476 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 641,
         "path": [
           "titre-12"
@@ -6337,7 +6337,7 @@
         "id": "article-477-",
         "title": "Article 477 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 643,
         "path": [
           "titre-12"
@@ -6348,7 +6348,7 @@
         "id": "article-478-",
         "title": "Article 478 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 644,
         "path": [
           "titre-12"
@@ -6359,7 +6359,7 @@
         "id": "article-479-",
         "title": "Article 479 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 647,
         "path": [
           "titre-12"
@@ -6370,7 +6370,7 @@
         "id": "article-480-",
         "title": "Article 480 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 649,
         "path": [
           "titre-12"
@@ -6381,7 +6381,7 @@
         "id": "article-481-",
         "title": "Article 481 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 650,
         "path": [
           "titre-12"
@@ -6392,7 +6392,7 @@
         "id": "article-482-",
         "title": "Article 482 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 651,
         "path": [
           "titre-12"
@@ -6403,7 +6403,7 @@
         "id": "article-483-",
         "title": "Article 483 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 653,
         "path": [
           "titre-12"
@@ -6414,7 +6414,7 @@
         "id": "article-484-",
         "title": "Article 484 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 655,
         "path": [
           "titre-12"
@@ -6425,7 +6425,7 @@
         "id": "titre-13",
         "title": "TITRE 13 : DISPOSITIONS DIVERSES ET FINALES",
         "type": "titre",
-        "level": 2,
+        "level": 1,
         "order": 656,
         "path": [
           "titre-13"
@@ -6442,7 +6442,7 @@
         "id": "article-485-",
         "title": "Article 485 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 658,
         "path": [
           "titre-13"
@@ -6453,7 +6453,7 @@
         "id": "article-486-",
         "title": "Article 486 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 659,
         "path": [
           "titre-13"
@@ -6464,7 +6464,7 @@
         "id": "article-487-",
         "title": "Article 487 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 660,
         "path": [
           "titre-13"
@@ -6475,7 +6475,7 @@
         "id": "article-488-",
         "title": "Article 488 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 661,
         "path": [
           "titre-13"
@@ -6486,7 +6486,7 @@
         "id": "article-489-",
         "title": "Article 489 :",
         "type": "article",
-        "level": 2,
+        "level": 4,
         "order": 664,
         "path": [
           "titre-13"

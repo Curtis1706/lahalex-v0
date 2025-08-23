@@ -1,0 +1,2 @@
+Les Institutions, les Organes et les Institutions Spécialisées de la Communauté agissent dans la limite des attributions et selon les modalités prévues par le présent Traité, les Conventions de l'UEAC et de l'UMAC et par les statuts et autres textes respectifs de ceux-ci.
+Les statuts des Institutions, Organes et Institutions Spécialisées qui existent déjà feront l'objet, si nécessaire de modification par conventions séparées en vue de leur harmonisation avec les dispositions des textes communautaires.

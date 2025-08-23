@@ -1,0 +1,1 @@
+Pour l’application de la présente Convention, le régime des actes juridiques est celui prévu par le Traité de la CEMAC.

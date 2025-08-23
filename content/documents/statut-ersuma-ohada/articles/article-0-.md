@@ -1,0 +1,2 @@
+PREAMBULE
+Le traité relatif à l'harmonisation du droit des affaires en Afrique, signé à PORT LOUIS le 17 octobre 1993 (ci-après désigné le traité), institue en ses Articles 3 et 4l une ecole régionale supérieure de la magistrature régie par les dispositions ci-après.

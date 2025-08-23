@@ -1,0 +1,2 @@
+Tout Etat membre ou le Conseil des Ministres, sur proposition du Président de la Commission, ou encore la Cour de Justice, à la majorité simple des membres, peut soumettre à la Conférence des Chefs d’Etat des projets de révision de la présente Convention.
+La modification est adoptée à l’unanimité des Etats membres et entre en vigueur après dépôt du dernier instrument de ratification.

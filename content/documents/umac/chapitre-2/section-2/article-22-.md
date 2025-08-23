@@ -1,0 +1,1 @@
+L’objectif de la BEAC est de garantir la stabilité de la monnaie. Sans préjudice de cet objectif, la BEAC apporte son soutien aux politiques économiques générales élaborées par les Etats membres de l’Union Monétaire.

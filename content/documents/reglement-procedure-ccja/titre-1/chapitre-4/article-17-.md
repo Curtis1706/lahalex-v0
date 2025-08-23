@@ -1,0 +1,1 @@
+Si le Greffier en chef cesse ses fonctions avant l’expiration de son mandat, son successeur est nommé pour une période de sept années.

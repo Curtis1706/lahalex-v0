@@ -1,0 +1,15 @@
+{
+  "id": "article-8",
+  "title": "Article 8:",
+  "numero": "8",
+  "document": "aupc-ohada",
+  "path": [
+    "titre-0",
+    "chapitre-2"
+  ],
+  "navigation": {
+    "parent": "chapitre-2",
+    "previous": "article-7",
+    "next": "article-9"
+  }
+}

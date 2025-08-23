@@ -1,0 +1,1 @@
+Au moins deux sociétés coopératives ayant le ou les mêmes objets peuvent consti- tuer entre elles, pour la gestion de leurs intérêts communs, une union de sociétés coopératives.

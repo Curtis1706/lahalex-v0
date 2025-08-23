@@ -1,0 +1,12 @@
+{
+  "id": "article-2-",
+  "title": "Article 2 :",
+  "numero": "2 ",
+  "document": "additif-transformation-secretariat-cemac",
+  "path": [],
+  "navigation": {
+    "parent": "additif-transformation-secretariat-cemac",
+    "previous": "article-1-",
+    "next": "article-3-"
+  }
+}

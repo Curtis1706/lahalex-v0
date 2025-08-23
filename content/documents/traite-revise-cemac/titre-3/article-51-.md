@@ -1,0 +1,2 @@
+Les contributions financières des Etats membres font l’objet, en dernier recours, d’un prélèvement automatique sur le compte ordinaire ouvert par chaque Trésor National auprès de la B.E.A.C. Notification en est faite au Ministre des Finances de l’Etat concerné.
+Le prélèvement est effectué de plein droit par la B.E.A.C. à l’initiative du Président de la Commission dès lors qu’un Etat membre n’a pas effectué, dans le délai mentionné par les règlements financiers prévus à l’article 52 ci-après, les versements auxquels il est astreint.

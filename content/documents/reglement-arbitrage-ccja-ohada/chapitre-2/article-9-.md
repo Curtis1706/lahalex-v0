@@ -1,0 +1,3 @@
+Absence de convention d’arbitrage
+Lorsque, prima facie, il n’existe pas entre les parties de convention d’arbitrage visant l'application du présent règlement, si la défenderesse décline l’arbitrage de la Cour, ou ne répond pas dans le délai de quarante cinq (45) jours visé ci-dessus à l’article 6, la partie demanderesse est informée par le Secrétaire Général qu’il se propose de saisir la Cour en vue de la voir décider que l’arbitrage ne peut avoir lieu.
+La Cour statue, au vu des observations du demandeur produites dans les trente (30) jours suivants, si celui-ci estime devoir en présenter.

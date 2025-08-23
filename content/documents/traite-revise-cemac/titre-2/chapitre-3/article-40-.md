@@ -1,0 +1,4 @@
+Pour l’application du présent Traité et sauf dérogations prévues par celui-ci ou par des dispositions particulières contenues dans les Conventions de l’UEAC et de l’UMAC :
+- la Conférence des Chefs d’Etat adopte des actes additionnels au Traité et prend des décisions;
+- le Conseil des Ministres et le Comité Ministériel adoptent des règlements, règlements cadres, des directives, prennent des décisions et formulent des recommandations ou des avis ;
+- les premiers responsables des Institutions, Organes et Institutions Spécialisées de la Communauté arrêtent des règlements d’application, prennent des décisions et formulent des recommandations ou des avis.

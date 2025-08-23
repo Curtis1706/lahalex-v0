@@ -1,0 +1,1 @@
+En tant que de besoin, le Conseil des Ministres, sur proposition du Président de la Commission, adopte à la majorité qualifiée, par voie de règlements ou de directives, les dispositions d’application nécessaires.

@@ -1,0 +1,16 @@
+{
+  "id": "article-166",
+  "title": "Article 166:",
+  "numero": "166",
+  "document": "aupc-ohada",
+  "path": [
+    "titre-2",
+    "chapitre-5",
+    "section-5"
+  ],
+  "navigation": {
+    "parent": "section-5",
+    "previous": "article-165",
+    "next": "article-167"
+  }
+}

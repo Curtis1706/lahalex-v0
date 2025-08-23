@@ -1,0 +1,1 @@
+Les congés de maladie de plus de six mois, les absences pour maladie de plus de six mois, les congés de longue durée accordés hors de la République de Guinée Equatoriale aux agents considérés, ainsi que les congés accordés à l'occasion de leur évacuation sanitaire mettent fin à la mise à disposition.

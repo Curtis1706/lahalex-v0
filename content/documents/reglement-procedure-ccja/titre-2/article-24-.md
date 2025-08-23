@@ -1,0 +1,2 @@
+Les significations prévues au présent Règlement sont faites soit par envoi postal recommandé, avec accusé de réception, d’une copie de l’acte
+signifier, soit par remise de cette copie contre re u.  Les copies sont dressées et certifiées conformes par le Greffier en chef.

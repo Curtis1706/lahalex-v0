@@ -1,0 +1,2 @@
+Les actes uniformes entrent en vigueur quatre-vingt-dix jours aprŁs leur adoption sauf modalités particuliŁres d’entrée en vigueur prévues par l’acte uniforme lui-mŒme.
+Ils sont opposables trente jours francs aprŁs leur publication au journal officiel de l’OHADA. Ils sont également publiés au journal officiel des Etats Parties ou par tout autre moyen approprié.

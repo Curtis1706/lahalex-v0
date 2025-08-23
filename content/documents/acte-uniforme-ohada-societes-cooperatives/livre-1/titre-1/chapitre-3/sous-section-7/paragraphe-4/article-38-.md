@@ -1,0 +1,1 @@
+Lorsque l’apport est en propriété, l’apporteur est garant envers la société coopérative comme un vendeur envers son acheteur.

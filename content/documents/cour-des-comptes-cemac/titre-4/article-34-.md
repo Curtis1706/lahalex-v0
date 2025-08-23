@@ -1,0 +1,1 @@
+Dans son rôle consultatif, la Cour des Comptes émet des avis, à la demande des Etats membres, des Institutions, des Organes et des Institutions Spécialisées, sur toute question relevant de ses compétences.

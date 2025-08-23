@@ -1,0 +1,1 @@
+Tout Etat membre peut soumettre à la Conférence des Chefs d’Etat des projets tendant à la révision de la présente Convention. Toute modification est adoptée à l’unanimité des Etats membres.

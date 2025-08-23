@@ -1,0 +1,1 @@
+A défaut de mise en harmonie des statuts avec les dispositions du présent Acte uni- forme dans le délai de deux ans à compter de son entrée en vigueur, les clauses statutaires contraires à ces dispositions seront réputées non écrites.

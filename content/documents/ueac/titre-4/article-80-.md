@@ -1,0 +1,2 @@
+Lors de leur entrée en fonctions, les membres de la Commission s’engagent, devant la Cour de Justice Communautaire, à observe les devoirs d’indépendance, d’impartialité, de réserve, d’honnêteté et de délicatesse nécessaires à l’accomplissement de leur mission, par le serment qui suit :
+« Je jure de remplir fidèlement et loyalement les charges de ma fonction. Je m’engage, dans l’intérêt supérieur de la Communauté, à observer les devoirs d’indépendance, d’impartialité, de réserve et d’honnêteté nécessaires à l’accomplissement de ma mission ».

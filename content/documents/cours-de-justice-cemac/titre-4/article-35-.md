@@ -1,0 +1,3 @@
+Dans son rôle d’administration des arbitrages, la Cour connaît, en application de son Règlement d’Arbitrage, des différends qui lui sont soumis par les Etats membres, les Institutions, les Organes et les Institutions Spécialisées en vertu d’une clause compromissoire ou d’un compromis d’arbitrage.
+La Cour connaît également de tout litige qui lui est soumis en vertu d’une clause compromissoire ou d’un compromis.
+Dans son rôle d’administration des arbitrages, la Cour ne tranche pas elle-même les différends. Elle nomme ou confirme les arbitre, est informée du déroulement de l’instance et examine les projets de sentence conformément à son Règlement d’Arbitrage.

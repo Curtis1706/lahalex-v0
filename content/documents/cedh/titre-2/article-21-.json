@@ -1,0 +1,14 @@
+{
+  "id": "article-21-",
+  "title": "Article 21 :",
+  "numero": "21 ",
+  "document": "cedh",
+  "path": [
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-20-",
+    "next": "article-22-"
+  }
+}

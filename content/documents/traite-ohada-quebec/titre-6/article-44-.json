@@ -1,0 +1,14 @@
+{
+  "id": "article-44-",
+  "title": "Article 44 :",
+  "numero": "44 ",
+  "document": "traite-ohada-quebec",
+  "path": [
+    "titre-6"
+  ],
+  "navigation": {
+    "parent": "titre-6",
+    "previous": "article-43-",
+    "next": "article-45-"
+  }
+}

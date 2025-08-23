@@ -1,0 +1,15 @@
+{
+  "id": "article-1-",
+  "title": "Article 1 : Interdiction de l’emprisonnement pour dette",
+  "numero": "1 ",
+  "document": "cedh",
+  "path": [
+    "titre-3",
+    "paragraphe-1"
+  ],
+  "navigation": {
+    "parent": "paragraphe-1",
+    "previous": "article-6-",
+    "next": "article-2-"
+  }
+}

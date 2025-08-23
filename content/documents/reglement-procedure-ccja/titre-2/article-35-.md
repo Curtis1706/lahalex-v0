@@ -1,0 +1,1 @@
+L’audience est publique,   moins qu’il n’en soit décidé autrement par la Cour.  La décision de huis clos comporte défense de publication des débats.

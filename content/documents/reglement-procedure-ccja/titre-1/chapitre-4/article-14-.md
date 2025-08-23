@@ -1,0 +1,1 @@
+La Cour peut décider qu’un ou plusieurs Greffiers adjoints seront chargés d’assister le Greffier en chef et de le remplacer dans les limites fixées par les instructions prévues   l’article 15 du présent Règlement.  Les emplois correspondants seront pourvus par le Président sur proposition du Greffier en chef.

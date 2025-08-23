@@ -1,0 +1,1 @@
+Est commerçant celui qui fait de l’accomplissement d’actes de commerce par nature sa profession.

@@ -1,0 +1,3 @@
+Lorsque la Cour est saisie conformément aux articles 14 et 15 du traité par une juridiction nationale statuant en cassation qui lui renvoie le soin de juger une affaire soulevant des questions relatives   l’application des actes uniformes, cette juridiction est immédiatement dessaisie.  Elle transmet   la Cour l’ensemble du dossier de l’affaire, avec une copie de la décision de renvoi.  Dès réception de ce dossier, les Parties sont avisées de cette transmission par la Cour.
+Les dispositions des articles 23   50 du présent Règlement sont\
+applicables sous réserve des adaptations imposées par le mode de saisine.

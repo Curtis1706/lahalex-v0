@@ -1,0 +1,1 @@
+La transmission des parts sociales ne peut intervenir qu’entre personnes partageant le lien commun sur la base duquel les coopérateurs se sont réunis.

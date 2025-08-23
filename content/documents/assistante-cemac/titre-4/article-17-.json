@@ -1,0 +1,13 @@
+{
+  "id": "article-17-",
+  "title": "Article 17 :",
+  "numero": "17 ",
+  "document": "assistante-cemac",
+  "path": [
+    "titre-4"
+  ],
+  "navigation": {
+    "parent": "titre-4",
+    "previous": "article-16-"
+  }
+}

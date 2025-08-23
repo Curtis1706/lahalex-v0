@@ -1,0 +1,2 @@
+Les décisions du Comité Ministériel sont prises à l’unanimité ou, à défaut, à la majorité des cinq sixièmes.
+En ce qui concerne les décisions prises en application des dispositions des articles 13, 14 et 20 de la présente Convention, l’unanimité est impérative.

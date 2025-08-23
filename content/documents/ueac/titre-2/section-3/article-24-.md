@@ -1,0 +1,1 @@
+Les règlements mentionnés à l’article 23 cidessus instituent la procédure à suivre par le Président de la Commission et fixent le régime des amendes et astreintes destinées à sanctionner les violations et les interdictions contenues dans le même article.

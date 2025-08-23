@@ -1,0 +1,17 @@
+{
+  "id": "article-175",
+  "title": "Article 175:",
+  "numero": "175",
+  "document": "aupc-ohada",
+  "path": [
+    "titre-2",
+    "chapitre-5",
+    "section-5",
+    "sous-section-4"
+  ],
+  "navigation": {
+    "parent": "sous-section-4",
+    "previous": "article-174",
+    "next": "article-176"
+  }
+}

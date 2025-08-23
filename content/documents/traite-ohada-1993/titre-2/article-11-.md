@@ -1,0 +1,1 @@
+Le Conseil des Ministres approuve sur proposition du Secrétaire permanent le programme annuel d’harmonisation du droit des affaires.

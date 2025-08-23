@@ -1,0 +1,1 @@
+DŁs l’entrée en vigueur du Traité, les institutions communes prévues aux articles 27 41 ci-dessus seront mises en place. Les Etats signataires du Traité ne l’ayant pas encore ratifié pourront en outre siéger au Conseil des ministres en qualité d’observateurs sans droit de vote.

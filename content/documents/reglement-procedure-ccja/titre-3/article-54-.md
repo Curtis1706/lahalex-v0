@@ -1,0 +1,1 @@
+Toute demande d’avis consultatif émanant d’un Etat Partie ou du Conseil des Ministres est présentée par requŒte écrite.  Cette requŒte formule, en termes précis, la question sur laquelle l’avis de la Cour est sollicité.  Il y est joint tout document pouvant servir   élucider la question.

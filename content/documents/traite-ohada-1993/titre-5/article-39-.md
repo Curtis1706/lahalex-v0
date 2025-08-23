@@ -1,0 +1,2 @@
+Le Président de la Cour Commune de Justice et d’Arbitrage nomme le greffier en chef de la Cour aprŁs avis de celle-ci, parmi les greffiers en chefs ayant exercé leurs fonctions pendant au moins quinze ans et présentés par les Etats Parties.
+Il pourvoit, sur proposition du greffier en chef, aux autres emplois de la Cour. Le secrétariat de la Cour est assuré par le greffier en chef.

@@ -1,0 +1,1 @@
+Le Comité Ministériel adopte, à l’unanimité, les règlements et, à la majorité qualifiée de cinq sixièmes, les directives nécessaires à la mise en œuvre de l’article précédent, après avis conforme du Conseil d’Administration de la BEAC.

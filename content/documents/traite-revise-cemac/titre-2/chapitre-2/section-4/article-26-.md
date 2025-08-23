@@ -1,0 +1,1 @@
+La Commission est composée de Commissaires désignés à raison d’un Commissaire par Etat membre dont un Président et un Vice- Président.

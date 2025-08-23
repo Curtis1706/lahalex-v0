@@ -1,0 +1,12 @@
+Un membre de la Cour ne peut être relevé de ses fonctions que par la
+Conférence, après que l'Assemblée Générale de la Cour, sur requête de
+son Président, de la moitié des membres de la Cour ou du Président de
+la Commission, ait jugé qu'il ne répond plus aux conditions requises ou
+ne satisfait plus aux obligations découlant de sa charge. L'intéressé est
+entendu en ses explications, orales ou écrites. Il peut être assisté par un
+conseil.
+Les délibérations ont lieu hors la présence du membre mis en cause et
+du greffier. Le Secrétariat est assuré par un juge désigné par le
+Président de la Cour.
+La décision de relève est notifiée à l'intéressé et cette notification
+emporte vacance de siège et cessation immédiate des fonctions.

@@ -1,0 +1,14 @@
+{
+  "id": "article-39-",
+  "title": "Article 39 :",
+  "numero": "39 ",
+  "document": "umac",
+  "path": [
+    "chapitre-2",
+    "section-2"
+  ],
+  "navigation": {
+    "parent": "section-2",
+    "previous": "article-38-"
+  }
+}

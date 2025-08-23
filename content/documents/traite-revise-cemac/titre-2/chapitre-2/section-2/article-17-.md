@@ -1,0 +1,1 @@
+Le Conseil des Ministres assure la direction de l’Union Economique par l’exercice des pouvoirs que la Convention de l’UEAC lui accorde.

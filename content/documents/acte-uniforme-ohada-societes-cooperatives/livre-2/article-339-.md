@@ -1,0 +1,1 @@
+Les décisions du conseil de surveillance sont prises à la majorité simple de ses membres.

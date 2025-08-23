@@ -1,0 +1,1 @@
+A chaque assemblée, il est tenu une feuille de présence contenant les indications portant sur les noms, prénom et domicile de chaque coopérateur présent.

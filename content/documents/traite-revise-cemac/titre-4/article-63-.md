@@ -1,0 +1,1 @@
+Les dispositions du présent Traité abrogent et remplacent celles du Traité du 16 mars 1994 institutant la CEMAC et celles de l'Additif au Traité relatif au système institutionnel et juridique de la Communauté du 5 juillet 1996, ainsi que de tout autre texte contraire.

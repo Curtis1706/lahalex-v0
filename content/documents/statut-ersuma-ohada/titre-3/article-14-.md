@@ -1,0 +1,3 @@
+formation initiale des magistrats
+1 – à la demande des pays membres ou de certains d'entre eux, l'ERSUMA peut assurer la formation initiale des magistrats selon des modalités définies par le règlement intérieur et le régime des études de l'ecole.
+2 - l'ouverture du cycle de formation initiale de l'ERSUMA est décidée par le conseil d'administration de l'ERSUMA sur proposition du consei1 d'établissement.

@@ -1,0 +1,2 @@
+Les actions contre la Communauté en matière de responsabilité non contractuelle se prescrivent par cinq (05) ans à compter de la survenance du fait qui y donne lieu. La prescription est interrompue soit par la requête formée devant la Cour, soit par la demande préalable que la victime peut adresser à l’Institution. Organe ou l’Institution Spécialisée compétent de la
+CEMAC. Dans ce dernier cas, la requête doit être formée dans un délai de deux (02) mois, à peine d’irrecevabilité.

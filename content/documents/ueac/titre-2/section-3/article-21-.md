@@ -1,0 +1,2 @@
+Les Etats membres harmonisent leur position sur toutes les questions ayant une incidence sur le fonctionnement du marché commun traitées dans le cadre d’organisations internationales à caractère économique.
+Si les questions mentionnées à l’alinéa précèdent intéressent le fonctionnement de la politique commerciale commune, les Etats membres rendent conforme leur position avec les orientations définies par le Conseil des Ministres à la majorité qualifiée de ses membres, sur proposition du Président de la Commission.

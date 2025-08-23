@@ -1,0 +1,1 @@
+En cas de nonrespect des engagements prévus à l’article 5 de la présente Convention par un Etat membre, la Conférence des Chefs d’Etat peut constater, à l’unanimité des autres Chefs d’Etat de l’Union Monétaire, le retrait de celuici.

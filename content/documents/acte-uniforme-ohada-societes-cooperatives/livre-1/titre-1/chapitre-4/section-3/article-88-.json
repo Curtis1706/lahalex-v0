@@ -1,0 +1,17 @@
+{
+  "id": "article-88-",
+  "title": "Article 88 :",
+  "numero": "88 ",
+  "document": "acte-uniforme-ohada-societes-cooperatives",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-4",
+    "section-3"
+  ],
+  "navigation": {
+    "parent": "section-3",
+    "previous": "article-87-",
+    "next": "article-89-"
+  }
+}

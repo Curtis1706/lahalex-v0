@@ -1,0 +1,1 @@
+50’exercice de l’action sociale ne s’oppose pas à ce qu’un coopérateur exerce contre la société coopérative l’action en réparation du préjudice qu’il a personnellement subi.

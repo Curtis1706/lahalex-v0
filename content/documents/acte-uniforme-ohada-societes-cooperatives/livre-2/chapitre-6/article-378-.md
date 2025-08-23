@@ -1,0 +1,1 @@
+Chaque coopérateur a droit à une voix, quel que soit le nombre de parts sociales dont il dispose.

@@ -1,4 +1,4 @@
-LA STRATEGIE DE SURETE ET DE SECURITE MARITIMES DE 50’AFRIQUE CENTRALE
+LA STRATEGIE DE SURETE ET DE SECURITE MARITIMES DE L’AFRIQUE CENTRALE
 1. La stratégie de sûreté et de sécurité maritimes de l’Afrique centrale repose sur un ensemble de dispositifs et de moyens opérationnels déployés dans le Golfe de Guinée pour la sécurisation des intérêts vitaux en mer des Etats membres de la CEEAC en synergie avec la Communauté Economique des Etats de l’Afrique de l’Ouest et la Commission du Golfe de Guinée.
 1. Etablie par un protocole d’accord particulier, elle constitue un des piliers de la politique maritime intégrée de la Communauté définie dans le Traité de la CEEAC.
 1. La stratégie de sûreté et de sécurité maritimes est mise en œuvre sous la coordination du Centre régional pour la sécurité maritime de l’Afrique centrale (CRESMAC), ayant statut d’organisme spécialisé de la Communauté.

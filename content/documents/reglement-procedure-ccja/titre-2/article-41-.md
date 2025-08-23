@@ -1,0 +1,1 @@
+L’arrŒt a force obligatoire   compter du jour de son prononcé.

@@ -1,0 +1,2 @@
+Nul ne sera soumis à la torture, ni à des peines ou traitements cruels, inhumains ou
+dégradants.

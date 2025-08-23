@@ -1,0 +1,2 @@
+Les articles 3, 4, 7, 9, 12, 14, 17, 27, 31, 39, 40, 41, 42, 43, 45, 49, 57, 59, 61 et 63 du Traité relatif l’harmonisation du droit des affaires en Afrique, signé Port-Louis (Ile Maurice), le 17 Octobre 1993, sont modifiés et complétés ainsi qu’il suit :
+«

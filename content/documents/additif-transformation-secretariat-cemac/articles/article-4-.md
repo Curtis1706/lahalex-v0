@@ -1,0 +1,1 @@
+Le présent Additif au Traité entre en vigueur provisoirement dès sa signature par tous les Etats Membres et définitivement après sa ratification.

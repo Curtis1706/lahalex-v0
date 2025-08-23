@@ -1,0 +1,2 @@
+Le Conseil des Ministres, statuant à la majorité qualifiée, détermine, au vu du programme mentionné à l’article 7 de la présente Convention et sur proposition du Président de la Commission, les modalités d’élimination des droits de douane et arrête les règlements nécessaires à cet effet.
+Le Conseil des Ministres tient compte des effets que le démantèlement des protections douanières peut avoir sur l’économie des Etats membres, et prend en tant que de besoin les mesures appropriées.

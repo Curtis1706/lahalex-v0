@@ -1,0 +1,1 @@
+La personnalité morale de la société coopérative subsiste pour les besoins de la li- quidation et jusqu’à la publication de la clôture de celle-ci.

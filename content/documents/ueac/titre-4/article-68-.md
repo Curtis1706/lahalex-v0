@@ -1,0 +1,3 @@
+Lorsque la Convention prévoit que le Conseil des Ministres statue à la majorité simple, ses délibérations sont acquises à la majorité des membres qui le composent, dans le respect des dispositions de l'article 67 cidessus. Chaque Etat membre dispose d'une voix.
+Lorsque la Convention prévoit que le Conseil des Ministres statue à la majorité qualifiée, ses délibérations sont acquises à la majorité des cinq sixièmes de ses membres, dans le respect des dispositions de l'article 67 cidessus. Chaque Etat membre dispose d'une voix.
+Lorsque la Convention prévoit que le Conseil des Ministres statue à l'unanimité, les abstentions des membres du Conseil présents ne sont pas prises en compte.

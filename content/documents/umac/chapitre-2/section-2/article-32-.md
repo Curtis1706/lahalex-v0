@@ -1,0 +1,2 @@
+Les Organes et les Institutions Spécialisées de l’Union Monétaire établissent chacun un rapport annuel d’activité qui est adressé au Comité Ministériel, à la Conférence des Chefs d’Etat, au Parlement Communautaire et aux autres Institutions, Organes et Institutions Spécialisées de la Communauté. Ce rapport est rendu public.
+Les responsables des Organes et des Institutions Spécialisées de l’Union Monétaire présentent chacun une communication annuelle à la Conférence des Chefs d’Etat et au Parlement Communautaire sur l’activité de l’exercice précédent et les perspectives.

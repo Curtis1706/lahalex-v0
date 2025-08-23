@@ -1,0 +1,1 @@
+La société coopérative simplifiée est tenue de requérir son immatriculation au Re- gistre des Sociétés Coopératives dans les conditions définies aux articles 74 à 77 ci-dessus.

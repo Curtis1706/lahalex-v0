@@ -1,0 +1,1 @@
+Les actes et engagements pris par les initiateurs pour le compte de la société coopéra- tive avant sa constitution doivent être portés à la connaissance des associés coopérateurs lors de l’assemblée constitutive.

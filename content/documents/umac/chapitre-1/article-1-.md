@@ -1,0 +1,1 @@
+Par la présente Convention, les Hautes Parties Contractantes instituent entre elles l’Union Monétaire de l’Afrique Centrale (UMAC), ciaprès dénommée l’Union Monétaire, afin de créer en commun les conditions d’un développement économique et social harmonieux, dans le cadre d’un marché ouvert et d’un environnement juridique approprié.

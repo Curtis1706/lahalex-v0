@@ -1,0 +1,1 @@
+Le Comité Ministériel délibère valablement lorsque chaque Etat membre est représenté.

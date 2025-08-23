@@ -1,0 +1,2 @@
+Lorsque le nombre des coopérateurs est supérieur à cinq cent, les statuts de la socié- té coopérative peuvent prévoir que l’assemblée générale peut être précédée par des assem- blées de section délibérant séparément sur le même ordre du jour.
+Les assemblées de section élisent des délégués qui sont eux même convoqués en assemblée générale. Les statuts déterminent la répartition en section, le nombre des délégués par section et les modalités d’application.

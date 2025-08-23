@@ -1,0 +1,1 @@
+Le Secrétaire permanent invite les Etats-Parties à procéder, dans un délai d’au moins quatre mois, avant les élections, à la présentation  des  candidats  à  la  Cour.  Le Secrétaire permanent dresse la liste alpha- bétique des personnes ainsi présentées et la communique un mois au moins avant les élections aux Etats-Parties.

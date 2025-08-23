@@ -1,0 +1,2 @@
+Les états financiers annuels sont arrêtés au plus tard dans les quatre mois qui suivent la date de clôture de
+l'exercice. La date d'arrêté doit être mentionnée dans toute transmission des états financiers.

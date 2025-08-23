@@ -1,0 +1,1 @@
+Le Conseil des Ministres se réunit au moins une fois par an sur convocation de son Président, à l’initiative de celui-ci, ou du tiers des Etats-Parties. Il ne peut va- lablement délibérer que si les deux tiers au moins des Etats-Parties sont représentés.

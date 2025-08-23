@@ -1,0 +1,2 @@
+L’immunité d’un Député de la CEMAC peut être levée à la demande d’un Etat membre adressé au Président du Parlement.
+Le Président se conforme alors à la procédure prévue au Règlement intérieur du Parlement.

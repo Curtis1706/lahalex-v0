@@ -1,0 +1,3 @@
+Le statut du personnel de la Communauté est adopté par le Conseil des Ministres, statuant à la majorité qualifiée de ses membres, sur proposition du Président de la Commission.
+Les fonctionnaires de la Communauté sont recrutés parmi les ressortissants des Etats membres sur la base des critères de compétence et d’intégrité morale et en tenant compte d’une répartition juste et équitable.
+Le personnel au service de la Communauté est tenent au secret professionnel même après la cessation de ses fonctions sous peine de sanctions prévues dans le statut du personnel ou de poursuites judiciaires.

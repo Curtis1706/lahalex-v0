@@ -1,0 +1,4 @@
+Le présent Traité est soumis à la ratification  des  Etats  signataires  confor- mément à leurs procédures constitutionnel- les.
+Le  présent  Traité  entrera  en  vigueur soixante  jours  après  la  date  du  dépôt  du septième instrument de ratification. Toute- fois, si la date de dépôt du septième ins- trument  de  ratification  est  antérieure  au
+cent quatre-vingtième jour qui suit le jour de la signature du Traité, le Traité entrera en vigueur le deux cent quarantième jour suivant la date de sa signature.
+A l’égard de tout Etat signataire déposant ultérieurement son instrument de ratifica- tion, le Traité et les actes uniformes adop- tés  avant  la  ratification  entreront  en  vi- gueur  soixante  jours  après  la  date  dudit dépôt.

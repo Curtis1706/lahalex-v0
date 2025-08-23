@@ -1,0 +1,1 @@
+Ont notamment le caractère d’actes de commerce, par leur forme, la lettre de change,le billet à ordre et le warrant.

@@ -1,0 +1,14 @@
+{
+  "id": "article-203",
+  "title": "Article 203:",
+  "numero": "203",
+  "document": "aupc-ohada",
+  "path": [
+    "titre-3"
+  ],
+  "navigation": {
+    "parent": "titre-3",
+    "previous": "article-202",
+    "next": "article-204"
+  }
+}

@@ -1,0 +1,3 @@
+Les membres de la Cour des Comptes de la CEMAC élisent en leur sein, pour un mandat de trois (03) ans renouvelable une fois, le Président de la Cour, le Procureur Général, les Présidents de chambre et le Procureur Général Adjoint.
+Les postes de Président, de Procureur Général, de Présidents de chambre et de Procureur Général Adjoint sont rotatifs entre les Etats membres.
+Les membres de la Cour nouvellement nommés, le Président et le Procureur Général de la Cour élus sont installés en audience solennelle.

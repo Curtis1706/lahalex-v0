@@ -1,0 +1,1 @@
+Dans l'intervalle des réunions du Conseil des Ministres et en cas d'urgence, une procédure écrite de consultation à domicile peut être mise en œuvre par son Président.

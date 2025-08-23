@@ -1,0 +1,1 @@
+Il est créé, en remplacement du Secrétariat Exécutif institué par le Traité du 16 mars 1994 et les textes subséquents, une Commission de la Communauté Economique et Monétaire de l’Afrique Centrale dite « Commission de la CEMAC ».

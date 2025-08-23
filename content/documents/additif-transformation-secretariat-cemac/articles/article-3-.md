@@ -1,0 +1,1 @@
+La Commission de la CEMAC est dirigée par un Président, assisté d’un Vice-président désignés par la Conférence des Chefs d’Etat.

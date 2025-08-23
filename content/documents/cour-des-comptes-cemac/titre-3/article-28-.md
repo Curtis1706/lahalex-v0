@@ -1,0 +1,2 @@
+Le contrôle des actes budgétaires et de gestion de l’ordonnateur de la Cour des Comptes et de ses délégués est effectué une fois tous les deux (2) ans par un auditeur externe mandaté par le Conseil des Ministres.
+Le rapport de l’auditeur est adressé au Conseil des Ministres et au Parlement pour suite à donner, ainsi qu’à la Commission de la CEMAC pour information.

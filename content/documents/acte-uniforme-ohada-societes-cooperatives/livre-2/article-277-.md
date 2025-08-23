@@ -1,0 +1,1 @@
+Le règlement intérieur est établi conformément aux dispositions des articles 67 et 68 ci-dessus.

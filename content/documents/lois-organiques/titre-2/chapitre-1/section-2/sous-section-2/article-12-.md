@@ -1,0 +1,2 @@
+La Cour des comptes procède à des enquêtes et formule des avis à la demande du gouvernement ou de l'Assemblée nationale sur toutes questions relevant de sa compétence.
+Elle évalue et contribue à l'évaluation des politiques et programmes publics.

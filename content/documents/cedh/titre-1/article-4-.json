@@ -1,0 +1,14 @@
+{
+  "id": "article-4-",
+  "title": "Article 4 : Interdiction de l’esclavage et du travail forcé",
+  "numero": "4 ",
+  "document": "cedh",
+  "path": [
+    "titre-1"
+  ],
+  "navigation": {
+    "parent": "titre-1",
+    "previous": "article-3-",
+    "next": "article-5-"
+  }
+}

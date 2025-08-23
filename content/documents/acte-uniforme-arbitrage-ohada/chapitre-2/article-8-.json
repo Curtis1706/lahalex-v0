@@ -1,0 +1,14 @@
+{
+  "id": "article-8-",
+  "title": "Article 8 :",
+  "numero": "8 ",
+  "document": "acte-uniforme-arbitrage-ohada",
+  "path": [
+    "chapitre-2"
+  ],
+  "navigation": {
+    "parent": "chapitre-2",
+    "previous": "article-7-",
+    "next": "article-8-"
+  }
+}

@@ -1,0 +1,859 @@
+{
+  "id": "cedh",
+  "title": "Convention européenne des droits de l'homme",
+  "type": "conventions-internationales",
+  "description": "La Convention européenne des droits de l'homme, adoptée par le Conseil de l'Europe en 1950, garantit la protection des droits fondamentaux et des libertés individuelles pour tous les citoyens des États membres.",
+  "structure": {
+    "sections": [
+      {
+        "id": "article-1-",
+        "title": "Article 1 :",
+        "type": "article",
+        "level": 3,
+        "order": 111,
+        "path": [
+          "titre-3",
+          "article-1-"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-1",
+        "title": "TITRE 1 : DROITS ET LIBERTÉS",
+        "type": "titre",
+        "level": 1,
+        "order": 1,
+        "path": [
+          "titre-1"
+        ],
+        "children": [
+          "article-2-",
+          "article-3-",
+          "article-4-",
+          "article-5-",
+          "article-6-",
+          "article-7-",
+          "article-8-",
+          "article-9-",
+          "article-10-",
+          "article-11-",
+          "article-12-",
+          "article-13-",
+          "article-14-",
+          "article-15-",
+          "article-16-",
+          "article-17-",
+          "article-18-"
+        ]
+      },
+      {
+        "id": "article-2-",
+        "title": "Article 2 :",
+        "type": "article",
+        "level": 3,
+        "order": 112,
+        "path": [
+          "titre-1",
+          "article-2-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-3-",
+        "title": "Article 3 :",
+        "type": "article",
+        "level": 3,
+        "order": 113,
+        "path": [
+          "titre-1",
+          "article-3-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-4-",
+        "title": "Article 4 :",
+        "type": "article",
+        "level": 3,
+        "order": 115,
+        "path": [
+          "titre-1",
+          "article-4-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-5-",
+        "title": "Article 5 :",
+        "type": "article",
+        "level": 3,
+        "order": 116,
+        "path": [
+          "titre-1",
+          "article-5-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-6-",
+        "title": "Article 6 :",
+        "type": "article",
+        "level": 3,
+        "order": 117,
+        "path": [
+          "titre-1",
+          "article-6-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-7-",
+        "title": "Article 7 :",
+        "type": "article",
+        "level": 3,
+        "order": 114,
+        "path": [
+          "titre-1",
+          "article-7-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-8-",
+        "title": "Article 8 :",
+        "type": "article",
+        "level": 3,
+        "order": 118,
+        "path": [
+          "titre-1",
+          "article-8-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-9-",
+        "title": "Article 9 :",
+        "type": "article",
+        "level": 3,
+        "order": 119,
+        "path": [
+          "titre-1",
+          "article-9-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-10-",
+        "title": "Article 10 :",
+        "type": "article",
+        "level": 3,
+        "order": 120,
+        "path": [
+          "titre-1",
+          "article-10-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-11-",
+        "title": "Article 11 :",
+        "type": "article",
+        "level": 3,
+        "order": 122,
+        "path": [
+          "titre-1",
+          "article-11-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-12-",
+        "title": "Article 12 :Droit au mariage",
+        "type": "article",
+        "level": 3,
+        "order": 12,
+        "path": [
+          "titre-1",
+          "article-12-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-13-",
+        "title": "Article 13 : Droit à un recours effectif",
+        "type": "article",
+        "level": 3,
+        "order": 13,
+        "path": [
+          "titre-1",
+          "article-13-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-14-",
+        "title": "ARTICLE 14 : Liberté de réunion et d’association",
+        "type": "article",
+        "level": 3,
+        "order": 14,
+        "path": [
+          "titre-1",
+          "article-14-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-15-",
+        "title": "Article 15 :Dérogation en cas d’état d’urgence",
+        "type": "article",
+        "level": 3,
+        "order": 15,
+        "path": [
+          "titre-1",
+          "article-15-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-16-",
+        "title": "Article 16 :Restrictions à l’activité politique des étrangers",
+        "type": "article",
+        "level": 3,
+        "order": 16,
+        "path": [
+          "titre-1",
+          "article-16-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-17-",
+        "title": "Article 17 :Interdiction de l’abus de droit",
+        "type": "article",
+        "level": 3,
+        "order": 17,
+        "path": [
+          "titre-1",
+          "article-17-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-18-",
+        "title": "Article 18 : Limitation de l’usage des restrictions aux droits",
+        "type": "article",
+        "level": 3,
+        "order": 18,
+        "path": [
+          "titre-1",
+          "article-18-"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-2",
+        "title": "TITRE 2 : COUR EUROPÉENNE DES DROITS DE 50’HOMME",
+        "type": "titre",
+        "level": 1,
+        "order": 19,
+        "path": [
+          "titre-2"
+        ],
+        "children": [
+          "article-19-",
+          "article-20-",
+          "article-21-",
+          "article-22-",
+          "article-23-",
+          "article-24-",
+          "article-25-",
+          "article-26-",
+          "article-27-",
+          "article-28-",
+          "article-29-",
+          "article-30-",
+          "article-31-",
+          "paragraphe-4"
+        ]
+      },
+      {
+        "id": "article-19-",
+        "title": "Article 19 : Institution de la Cour",
+        "type": "article",
+        "level": 3,
+        "order": 20,
+        "path": [
+          "titre-2",
+          "article-19-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-20-",
+        "title": "Article 20 : Nombre de juges",
+        "type": "article",
+        "level": 3,
+        "order": 21,
+        "path": [
+          "titre-2",
+          "article-20-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-21-",
+        "title": "Article 21 :",
+        "type": "article",
+        "level": 3,
+        "order": 22,
+        "path": [
+          "titre-2",
+          "article-21-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-22-",
+        "title": "Article 22 : Election des juges",
+        "type": "article",
+        "level": 3,
+        "order": 23,
+        "path": [
+          "titre-2",
+          "article-22-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-23-",
+        "title": "Article 23 : Durée du mandat et révocation",
+        "type": "article",
+        "level": 3,
+        "order": 24,
+        "path": [
+          "titre-2",
+          "article-23-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-24-",
+        "title": "Article 24 : Greffe et rapporteurs",
+        "type": "article",
+        "level": 3,
+        "order": 25,
+        "path": [
+          "titre-2",
+          "article-24-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-25-",
+        "title": "Article 25 : Assemblée plénière",
+        "type": "article",
+        "level": 3,
+        "order": 26,
+        "path": [
+          "titre-2",
+          "article-25-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-26-",
+        "title": "Article 26 : Formations de juge unique, comités, chambres et Grande Chambre",
+        "type": "article",
+        "level": 3,
+        "order": 27,
+        "path": [
+          "titre-2",
+          "article-26-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-27-",
+        "title": "Article 27 : Compétence des juges uniques",
+        "type": "article",
+        "level": 3,
+        "order": 28,
+        "path": [
+          "titre-2",
+          "article-27-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-28-",
+        "title": "Article 28 : Compétence des comités",
+        "type": "article",
+        "level": 3,
+        "order": 29,
+        "path": [
+          "titre-2",
+          "article-28-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-29-",
+        "title": "Article 29 : Décisions des chambres sur la recevabilité et le fond",
+        "type": "article",
+        "level": 3,
+        "order": 30,
+        "path": [
+          "titre-2",
+          "article-29-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-30-",
+        "title": "Article 30 : Dessaisissement en faveur de la Grande Chambre",
+        "type": "article",
+        "level": 3,
+        "order": 31,
+        "path": [
+          "titre-2",
+          "article-30-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-31-",
+        "title": "Article 31 : Attributions de la Grande Chambre",
+        "type": "article",
+        "level": 3,
+        "order": 32,
+        "path": [
+          "titre-2",
+          "article-31-"
+        ],
+        "children": []
+      },
+      {
+        "id": "paragraphe-4",
+        "title": "paragraphe 4 : ; et",
+        "type": "paragraphe",
+        "level": 6,
+        "order": 33,
+        "path": [
+          "titre-2",
+          "paragraphe-4"
+        ],
+        "children": [
+          "article-32-",
+          "article-33-",
+          "article-34-",
+          "article-35-",
+          "article-36-",
+          "article-37-",
+          "article-38-",
+          "article-39-",
+          "article-40-",
+          "article-41-",
+          "article-42-",
+          "article-43-",
+          "article-44-",
+          "article-45-",
+          "article-46-",
+          "article-47-",
+          "article-48-",
+          "article-49-",
+          "article-50-",
+          "article-51-"
+        ]
+      },
+      {
+        "id": "article-32-",
+        "title": "Article 32 : Compétence de la Cour",
+        "type": "article",
+        "level": 3,
+        "order": 34,
+        "path": [
+          "titre-2",
+          "paragraphe-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-33-",
+        "title": "Article 33 : Affaires interétatiques",
+        "type": "article",
+        "level": 3,
+        "order": 35,
+        "path": [
+          "titre-2",
+          "paragraphe-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-34-",
+        "title": "Article 34 : Requêtes individuelles",
+        "type": "article",
+        "level": 3,
+        "order": 36,
+        "path": [
+          "titre-2",
+          "paragraphe-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-35-",
+        "title": "Article 35 : Conditions de recevabilité",
+        "type": "article",
+        "level": 3,
+        "order": 37,
+        "path": [
+          "titre-2",
+          "paragraphe-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-36-",
+        "title": "Article 36 : Tierce intervention",
+        "type": "article",
+        "level": 3,
+        "order": 38,
+        "path": [
+          "titre-2",
+          "paragraphe-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-37-",
+        "title": "Article 37 : Radiation",
+        "type": "article",
+        "level": 3,
+        "order": 39,
+        "path": [
+          "titre-2",
+          "paragraphe-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-38-",
+        "title": "Article 38 : Examen contradictoire de l’affaire",
+        "type": "article",
+        "level": 3,
+        "order": 40,
+        "path": [
+          "titre-2",
+          "paragraphe-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-39-",
+        "title": "Article 39 : Règlements amiables",
+        "type": "article",
+        "level": 3,
+        "order": 41,
+        "path": [
+          "titre-2",
+          "paragraphe-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-40-",
+        "title": "Article 40 :Audience publique et accès aux documents",
+        "type": "article",
+        "level": 3,
+        "order": 42,
+        "path": [
+          "titre-2",
+          "paragraphe-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-41-",
+        "title": "Article 41 : Satisfaction équitable",
+        "type": "article",
+        "level": 3,
+        "order": 43,
+        "path": [
+          "titre-2",
+          "paragraphe-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-42-",
+        "title": "Article 42 :Arrêts des chambres",
+        "type": "article",
+        "level": 3,
+        "order": 44,
+        "path": [
+          "titre-2",
+          "paragraphe-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-43-",
+        "title": "Article 43 : Renvoi devant la Grande Chambre",
+        "type": "article",
+        "level": 3,
+        "order": 45,
+        "path": [
+          "titre-2",
+          "paragraphe-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-44-",
+        "title": "Article 44 : Arrêts définitifs",
+        "type": "article",
+        "level": 3,
+        "order": 46,
+        "path": [
+          "titre-2",
+          "paragraphe-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-45-",
+        "title": "Article 45 : Motivation des arrêts et décisions",
+        "type": "article",
+        "level": 3,
+        "order": 47,
+        "path": [
+          "titre-2",
+          "paragraphe-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-46-",
+        "title": "Article 46 : Force obligatoire et exécution des arrêts",
+        "type": "article",
+        "level": 3,
+        "order": 48,
+        "path": [
+          "titre-2",
+          "paragraphe-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-47-",
+        "title": "Article 47 : Avis consultatifs",
+        "type": "article",
+        "level": 3,
+        "order": 49,
+        "path": [
+          "titre-2",
+          "paragraphe-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-48-",
+        "title": "Article 48 : Compétence consultative de la Cour",
+        "type": "article",
+        "level": 3,
+        "order": 50,
+        "path": [
+          "titre-2",
+          "paragraphe-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-49-",
+        "title": "Article 49 : Motivation des avis consultatifs",
+        "type": "article",
+        "level": 3,
+        "order": 51,
+        "path": [
+          "titre-2",
+          "paragraphe-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-50-",
+        "title": "Article 50 : Frais de fonctionnement de la Cour",
+        "type": "article",
+        "level": 3,
+        "order": 52,
+        "path": [
+          "titre-2",
+          "paragraphe-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-51-",
+        "title": "Article 51 : Privilèges et immunités des juges",
+        "type": "article",
+        "level": 3,
+        "order": 53,
+        "path": [
+          "titre-2",
+          "paragraphe-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-3",
+        "title": "TITRE 3 : DISPOSITIONS DIVERSES",
+        "type": "titre",
+        "level": 1,
+        "order": 54,
+        "path": [
+          "titre-3"
+        ],
+        "children": [
+          "article-52-",
+          "article-53-",
+          "article-54-",
+          "article-55-",
+          "article-56-",
+          "article-57-",
+          "article-58-",
+          "article-59-",
+          "article-1-",
+          "article-2-",
+          "paragraphe-1",
+          "article-6-",
+          "article-7-",
+          "article-3-",
+          "article-4-",
+          "article-5-",
+          "article-9-",
+          "article-8-",
+          "article-10-",
+          "article-11-"
+        ]
+      },
+      {
+        "id": "article-52-",
+        "title": "Article 52 : Enquêtes du Secrétaire général",
+        "type": "article",
+        "level": 3,
+        "order": 55,
+        "path": [
+          "titre-3",
+          "article-52-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-53-",
+        "title": "Article 53 : Sauvegarde des droits de l’homme reconnus",
+        "type": "article",
+        "level": 3,
+        "order": 56,
+        "path": [
+          "titre-3",
+          "article-53-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-54-",
+        "title": "Article 54 : Pouvoirs du Comité des Ministres",
+        "type": "article",
+        "level": 3,
+        "order": 57,
+        "path": [
+          "titre-3",
+          "article-54-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-55-",
+        "title": "Article 55 : Renonciation à d’autres modes de règlement des différends",
+        "type": "article",
+        "level": 3,
+        "order": 58,
+        "path": [
+          "titre-3",
+          "article-55-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-56-",
+        "title": "Article 56 : Application territoriale",
+        "type": "article",
+        "level": 3,
+        "order": 59,
+        "path": [
+          "titre-3",
+          "article-56-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-57-",
+        "title": "Article 57 :Réserves",
+        "type": "article",
+        "level": 3,
+        "order": 60,
+        "path": [
+          "titre-3",
+          "article-57-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-58-",
+        "title": "Article 58 : Dénonciation",
+        "type": "article",
+        "level": 3,
+        "order": 61,
+        "path": [
+          "titre-3",
+          "article-58-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-59-",
+        "title": "Article 59 : Signature et ratification",
+        "type": "article",
+        "level": 3,
+        "order": 62,
+        "path": [
+          "titre-3",
+          "article-59-"
+        ],
+        "children": []
+      },
+      {
+        "id": "paragraphe-1",
+        "title": "paragraphe 1 : de l’article 56 de la Convention.",
+        "type": "paragraphe",
+        "level": 6,
+        "order": 65,
+        "path": [
+          "titre-3",
+          "paragraphe-1"
+        ],
+        "children": [
+          "article-3-",
+          "article-4-",
+          "article-5-",
+          "article-6-",
+          "article-1-",
+          "article-2-"
+        ]
+      }
+    ],
+    "totalArticles": 114
+  },
+  "source": "internationale"
+}

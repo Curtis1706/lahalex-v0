@@ -1,0 +1,1 @@
+Nonobstant les dispositions de l’article 93 ci-dessus, les dispositions de l’article 92 du présent acte uniforme sont applicables aux actes et engagements repris par la société coo- pérative et à ceux qui ne sont pas repris.

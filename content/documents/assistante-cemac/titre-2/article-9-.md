@@ -1,0 +1,1 @@
+Les experts en poste en République de Guinée Equatoriale en vertu de la présente Convention bénéficient des privilèges et immunités accordés par l'Acte n° 15/66-UDEAC-19 du 14 Décembre 1965.

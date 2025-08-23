@@ -1,0 +1,1 @@
+La Communauté, afin de réaliser ses objectifs, dispose d’une Commission.

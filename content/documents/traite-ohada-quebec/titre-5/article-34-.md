@@ -1,0 +1,1 @@
+Après leur élection, les membres de la Cour font la déclaration solennelle de bien et fidèlement remplir leurs fonctions en toute impartialité.

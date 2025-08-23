@@ -1,0 +1,1 @@
+Le régime des droits, immunités et privilèges accordés à la Cour de Justice de la CEMAC et à ses membres et personnels est arrêté par Acte Additionnel de la Conférence des Chefs d’Etat.

@@ -1,0 +1,1 @@
+L’organisation, le fonctionnement et les attributions de la Commission, ainsi que le statut et les attributions du Président et des autres membres de la Commission sont précisés par le Règlement intérieur de la Commission et les autres textes communautaires spécifiques.

@@ -1,0 +1,3 @@
+Dans les réunions extraordinaires de l’assemblée générale, les décisions sont adop- tées à la majorité des deux tiers des voix exprimées par les coopérateurs représentant plus de la moitié du nombre des coopérateurs de la société coopérative simplifiée, sur 1 convocation.
+Si ce quorum n’est pas obtenu, et sauf stipulation contraire des statuts, les coopérateurs sont, selon le cas, convoqués une 2 fois et les décisions sont prises à la majorité des coopéra- teurs présents ou représentés.
+Toute clause contraire est réputée non écrite.

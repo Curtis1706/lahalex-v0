@@ -1,0 +1,1 @@
+Le Président du Conseil des Mi- nistres arrête l’ordre du jour du Conseil sur la proposition du Secrétaire permanent.

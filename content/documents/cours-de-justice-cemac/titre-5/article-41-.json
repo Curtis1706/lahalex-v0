@@ -1,0 +1,14 @@
+{
+  "id": "article-41-",
+  "title": "Article 41 :",
+  "numero": "41 ",
+  "document": "cours-de-justice-cemac",
+  "path": [
+    "titre-5"
+  ],
+  "navigation": {
+    "parent": "titre-5",
+    "previous": "article-40-",
+    "next": "article-42-"
+  }
+}

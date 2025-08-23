@@ -1,0 +1,1 @@
+La feuille de présence est émargée par les coopérateurs présents au moment de l’entrée en séance.

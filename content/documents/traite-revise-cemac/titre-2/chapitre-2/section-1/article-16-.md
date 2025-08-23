@@ -1,0 +1,1 @@
+La Conférence des Chefs d’Etat adopte ses décisions par consensus.

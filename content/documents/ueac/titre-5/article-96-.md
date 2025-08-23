@@ -1,0 +1,1 @@
+Le budget de l'Union Economique est intégré dans le budget de la Communauté ; il est élaboré, adopté et exécuté conformément aux dispositions du Traité de la CEMAC.

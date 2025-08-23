@@ -1,0 +1,15 @@
+{
+  "id": "article-38-",
+  "title": "Article 38-2",
+  "numero": "38-",
+  "document": "acte-uniforme-comptabilite-ohada",
+  "path": [
+    "titre-1",
+    "chapitre-4"
+  ],
+  "navigation": {
+    "parent": "chapitre-4",
+    "previous": "article-38-",
+    "next": "article-39-"
+  }
+}

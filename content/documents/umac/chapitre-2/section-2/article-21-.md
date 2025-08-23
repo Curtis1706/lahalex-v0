@@ -1,0 +1,1 @@
+Le privilège exclusif de l’émission monétaire sur le territoire de chaque Etat membre de l’Union Monétaire est confié à la Banque des Etats de l’Afrique Centrale (BEAC).

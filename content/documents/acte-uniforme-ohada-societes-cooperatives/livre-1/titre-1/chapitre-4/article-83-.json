@@ -1,0 +1,16 @@
+{
+  "id": "article-83-",
+  "title": "Article 83 :",
+  "numero": "83 ",
+  "document": "acte-uniforme-ohada-societes-cooperatives",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-4"
+  ],
+  "navigation": {
+    "parent": "chapitre-4",
+    "previous": "article-82-",
+    "next": "article-84-"
+  }
+}

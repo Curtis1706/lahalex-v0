@@ -1,0 +1,1 @@
+Le capital social est divisé en parts sociales égales dont la valeur nominale est fixée par les statuts.

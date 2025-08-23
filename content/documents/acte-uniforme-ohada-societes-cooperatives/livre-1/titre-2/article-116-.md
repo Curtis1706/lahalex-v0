@@ -1,0 +1,2 @@
+Les coopérateurs démissionnaires ou exclus ne peuvent prétendre à aucun droit sur les sommes affectées à la réserve générale et à la réserve de formation, d’éducation et de sen- sibilisation.
+De même, les réserves facultatives prévues à l’article 115 ci-dessus ne peuvent pas être repar- ties entre les coopérateurs.

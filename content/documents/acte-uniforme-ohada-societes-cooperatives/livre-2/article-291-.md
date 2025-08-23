@@ -1,0 +1,1 @@
+La société coopérative avec conseil d’administration est dirigée par un conseil d’administration.

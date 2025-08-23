@@ -1,0 +1,1 @@
+Le recours est signifié par la Cour   toutes les Parties   la procédure devant la juridiction nationale.  Dans le cas prévu au paragraphe 5 de l’article précédent, la signification est faite dès la régularisation ou dès que la Cour aura admis la recevabilité, eu égard aux conditions de forme énumérées audit article.

@@ -1,0 +1,1 @@
+l'OHADA, ses biens et ses avoirs ne peuvent faire l’objet d’aucune action judiciaire, sauf si elle renonce cette immunité.

@@ -1,0 +1,2 @@
+Chaque dirigeant social est responsable individuellement envers la société coopéra- tive des fautes qu’il commet dans l’exercice de ses fonctions.
+Si plusieurs dirigeants sociaux d’une société coopérative ont participé aux mêmes faits, la juridiction compétente détermine la part contributive de chacun dans la réparation du domma- ge, dans les conditions fixées par le présent Acte uniforme pour chaque forme de société coo- pérative.

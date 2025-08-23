@@ -1,0 +1,1 @@
+50’union est immatriculée au Registre des Sociétés Coopératives conformément aux dispositions du présent Acte uniforme relatives à l’immatriculation des sociétés coopératives et acquiert la personnalité juridique dans les mêmes conditions.

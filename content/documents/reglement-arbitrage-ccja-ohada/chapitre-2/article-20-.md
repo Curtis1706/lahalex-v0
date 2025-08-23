@@ -1,0 +1,2 @@
+Sentences d’accord parties
+Si les parties se mettent d’accord au cours de la procédure arbitrale, elles peuvent demander à l’arbitre que cet accord soit constaté en la forme d’une sentence rendue d’accord parties.

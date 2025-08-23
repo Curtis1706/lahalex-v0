@@ -1,0 +1,1 @@
+(Québec  2008)  Les  instruments de  ratification  et  les  instruments d’adhésion seront déposés auprès du Gou- vernement du Sénégal qui sera le Gouver- nement dépositaire. Copie en sera délivrée au Secrétariat Permanent par ce dernier.

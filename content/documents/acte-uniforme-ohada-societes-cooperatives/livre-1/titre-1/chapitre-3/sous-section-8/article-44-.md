@@ -1,0 +1,1 @@
+La société coopérative émet et remet aux coopérateurs des titres sociaux dénommés parts sociales, en représentation de leurs apports.

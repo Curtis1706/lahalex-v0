@@ -1,0 +1,1 @@
+La désignation, la révocation ou la démission des dirigeants sociaux doit être publiée au Registre des Sociétés Coopératives dans le délai d’un mois.

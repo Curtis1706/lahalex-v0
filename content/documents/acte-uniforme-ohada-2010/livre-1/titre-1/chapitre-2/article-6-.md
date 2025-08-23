@@ -1,0 +1,1 @@
+Nul ne peut accomplir des actes de commerce à titre de profession, s’il n’est juridquement capable d’exercer le commerce.

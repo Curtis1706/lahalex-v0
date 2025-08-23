@@ -1,0 +1,15 @@
+{
+  "id": "article-45-",
+  "title": "Article 45 :",
+  "numero": "45 ",
+  "document": "ueac",
+  "path": [
+    "titre-2",
+    "section-7"
+  ],
+  "navigation": {
+    "parent": "section-7",
+    "previous": "article-44-",
+    "next": "article-46-"
+  }
+}

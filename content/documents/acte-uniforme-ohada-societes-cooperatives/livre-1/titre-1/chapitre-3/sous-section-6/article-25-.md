@@ -1,0 +1,1 @@
+Toute société coopérative a une durée qui doit être mentionnée dans ses statuts.

@@ -1,0 +1,1 @@
+Le présent Traité peut Œtre amendé ou révisé si un Etat Partie envoie cet effet une demande écrite au Secrétariat permanent de l’OHADA. l'amendement ou la révision doit Œtre adopté dans les mŒmes formes que le Traité.

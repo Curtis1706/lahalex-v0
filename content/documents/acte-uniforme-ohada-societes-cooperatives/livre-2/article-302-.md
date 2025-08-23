@@ -1,0 +1,2 @@
+La désignation des administrateurs doit être publiée au Registre des Sociétés Coo- pératives.
+La désignation du représentant permanent d’une personne morale est soumise aux mêmes formalités de publicité que s’il était administrateur en son nom propre.

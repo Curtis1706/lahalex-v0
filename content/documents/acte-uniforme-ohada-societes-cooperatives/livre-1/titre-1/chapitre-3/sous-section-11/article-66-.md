@@ -1,0 +1,1 @@
+50’action en responsabilité prévue à l’article 65 ci-dessus se prescrit par cinq ans à compter, selon le cas, du jour de l’immatriculation de la société coopérative ou de la publica- tion de l’acte modifiant les statuts.

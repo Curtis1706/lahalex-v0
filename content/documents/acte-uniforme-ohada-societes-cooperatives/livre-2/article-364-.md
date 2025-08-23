@@ -1,0 +1,3 @@
+50’assemblée générale ordinaire se réunit au moins une fois par an, dans les six mois de la clôture de l’exercice, sous réserve de la prorogation de ce délai par décision de justice.
+50’assemblée générale ordinaire ne délibère valablement, sur 1 convocation, que si la moitié des coopérateurs de la société coopérative avec conseil d’administration sont présents ; sur 2 convocation, la présence d’un quart au moins de ces associés suffit.
+Par dérogation aux dispositions de l’alinéa précédent, les statuts des sociétés coopératives regroupant plus de mille associés peuvent prévoir un quorum moins important.

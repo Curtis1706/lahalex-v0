@@ -1,0 +1,1 @@
+Les coopérateurs évaluent les apports en nature et en garantissent la valeur.

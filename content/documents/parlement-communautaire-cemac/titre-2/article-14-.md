@@ -1,0 +1,1 @@
+Le Parlement est chargé du contrôle démocratique des organes et institutions spécialisées de la CEMAC. Il participe au processus décisionnel de la Communauté dans les conditions fixées par la présente Convention.

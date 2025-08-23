@@ -1,0 +1,15 @@
+{
+  "id": "article-70-",
+  "title": "Article 70 :",
+  "numero": "70 ",
+  "document": "acte-uniforme-ohada-2010",
+  "path": [
+    "livre-2",
+    "titre-5"
+  ],
+  "navigation": {
+    "parent": "titre-5",
+    "previous": "article-69-",
+    "next": "article-71-"
+  }
+}

@@ -1,0 +1,1 @@
+Le Conseil des Ministres peut déléguer une partie de ses pouvoirs à la Commission.

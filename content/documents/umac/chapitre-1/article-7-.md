@@ -1,0 +1,1 @@
+Les actes juridiques pris par les Organes et les Institutions Spécialisées de l’Union Monétaire, pour la réalisation des objectifs de la présente Convention et conformément aux procédures instituées par elle, sont applicables dans chaque Etat membre.

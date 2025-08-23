@@ -1,0 +1,1 @@
+50’administration, la gestion, le fonctionnement et la dissolution du réseau coopéra- tif de moyens ou d’objectifs, conformes aux principes coopératifs et aux dispositions régissant les sociétés coopératives simplifiées dans la mesure compatible, sont déterminés par une convention signée des membres.

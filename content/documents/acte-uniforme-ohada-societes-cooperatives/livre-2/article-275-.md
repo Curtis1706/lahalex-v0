@@ -1,0 +1,1 @@
+Les statuts sont établis conformément aux dispositions des articles 17 et 18 ci- dessus

@@ -1,0 +1,1 @@
+La Conférence des Chefs d’Etat, régie par les articles 12 et suivants du Traité de la CEMAC, adopte les actes dont la présente Convention lui confie la compétence.

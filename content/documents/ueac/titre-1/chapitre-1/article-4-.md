@@ -1,0 +1,6 @@
+Au cours de la 1 étape, d’une durée de trois (3) ans à compter de l’entrée en vigueur de la présente Convention et dans les conditions prévues par celuici, l’Union Economique :
+a) harmonise, dans la mesure nécessaire au fonctionnement du marché commun, les règles qui régissent les activités économiques et financières et élabore à cet effet des réglementations communes ;
+b) poursuit le processus de mise en place des instruments de libre circulation des biens, des services, des capitaux et des personnes, notamment par une harmonisation de la fiscalité des activités productives et de la fiscalité de l’épargne ;
+c) établit, entre ses Etats membres, la libre circulation des biens, des services, des capitaux et des personnes ;
+d) développe la coordination des politiques commerciales et des relations économiques avec les autres régions ;
+e) prépare des actions communes dans les domaines de l’enseignement, de la formation professionnelle, de la recherche, du dialogue social, des questions de genre, de la bonne gouvernance et des droits de l’Homme.

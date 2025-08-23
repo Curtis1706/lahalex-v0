@@ -1,0 +1,15 @@
+{
+  "id": "article-99-",
+  "title": "Article 99 :",
+  "numero": "99 ",
+  "document": "acte-uniforme-ohada-societes-cooperatives",
+  "path": [
+    "livre-1",
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-98-",
+    "next": "article-100-"
+  }
+}

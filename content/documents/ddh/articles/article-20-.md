@@ -1,0 +1,2 @@
+1. Toute personne a droit à la liberté de réunion et d'association pacifiques.
+2. Nul ne peut être obligé de faire partie d'une association.

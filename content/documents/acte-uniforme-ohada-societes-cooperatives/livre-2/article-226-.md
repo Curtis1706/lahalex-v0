@@ -1,0 +1,2 @@
+Le président et les autres membres du comité de gestion sont révocables par déci- sion des coopérateurs dans les conditions de vote et de quorum relatives à la modification des statuts. Toute clause contraire est réputée non écrite.
+En outre, le président et les autres membres du comité de gestion sont révocables par le tribu- nal compétent dans le ressort duquel est situé le siège social, pour cause légitime, à la deman- de de tout coopérateur.

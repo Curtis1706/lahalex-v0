@@ -1,0 +1,1 @@
+Chaque année, le Président de la Commission soumet au Parlement, pour examen, un rapport général sur le fonctionnement et l’évolution de la Communauté.

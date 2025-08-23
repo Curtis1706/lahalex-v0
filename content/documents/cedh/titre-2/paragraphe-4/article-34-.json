@@ -1,0 +1,15 @@
+{
+  "id": "article-34-",
+  "title": "Article 34 : Requêtes individuelles",
+  "numero": "34 ",
+  "document": "cedh",
+  "path": [
+    "titre-2",
+    "paragraphe-4"
+  ],
+  "navigation": {
+    "parent": "paragraphe-4",
+    "previous": "article-33-",
+    "next": "article-35-"
+  }
+}

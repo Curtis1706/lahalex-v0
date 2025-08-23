@@ -1,0 +1,2 @@
+La confédération peut adhérer à des organisations régionales ou internationales. Article 158 :
+Sauf dispositions contraires du présent Acte uniforme, la confédération regroupant plus de deux fédérations n’est pas dissoute par le retrait volontaire ou forcé, la liquidation des biens par l’effet d’une décision de justice ou la dissolution volontaire ou forcée d’une fédéra- tion, union ou société coopérative affiliée ou par le retrait de l’agrément de celle-ci. Elle continue de plein droit entre les autres membres.

@@ -1,0 +1,2 @@
+La Communauté participe aux efforts d’intégration dans le cadre de l’Union Africaine et, en particulier, à ceux relatifs à la création d’organisations communes dotées de compétences propres en vue d’actions coordonnées dans des domaines spécifiques.
+Elle établit des consultations périodiques, notamment avec les institutions régionales africaines.

@@ -1,0 +1,15 @@
+{
+  "id": "article-28-",
+  "title": "Article 28 :",
+  "numero": "28 ",
+  "document": "acte-uniforme-comptable-information-ohada",
+  "path": [
+    "titre-1",
+    "chapitre-3"
+  ],
+  "navigation": {
+    "parent": "chapitre-3",
+    "previous": "article-27-",
+    "next": "article-29-"
+  }
+}

@@ -1,0 +1,1 @@
+Le rapport du comité de gestion énumère les conventions soumises à l’approbation de l’assemblée générale et rend compte de leurs modalités.

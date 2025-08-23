@@ -1,0 +1,2 @@
+Le conseil d’administration détermine la durée des fonctions du responsable chargé de direction, conformément à la législation de travail de l’Etat Partie.
+Ses fonctions prennent fin dans les mêmes conditions.

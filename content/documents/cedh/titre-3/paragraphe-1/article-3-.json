@@ -1,0 +1,15 @@
+{
+  "id": "article-3-",
+  "title": "Article 3 : Droit à des élections libres",
+  "numero": "3 ",
+  "document": "cedh",
+  "path": [
+    "titre-3",
+    "paragraphe-1"
+  ],
+  "navigation": {
+    "parent": "paragraphe-1",
+    "previous": "article-2-",
+    "next": "article-4-"
+  }
+}

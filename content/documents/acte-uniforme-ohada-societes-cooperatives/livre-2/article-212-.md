@@ -1,0 +1,1 @@
+Les coopérateurs sont indéfiniment et solidairement responsables des suites de l’évaluation inexacte ou frauduleuse ou du défaut d’évaluation des apports en nature.

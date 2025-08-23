@@ -1,0 +1,1 @@
+La durée de la société coopérative peut être modifiée, pour chaque forme de société, dans les conditions prévues par le présent Acte uniforme, pour la modification des statuts.

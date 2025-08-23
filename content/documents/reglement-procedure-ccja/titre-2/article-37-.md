@@ -1,0 +1,1 @@
+Le Président peut, au cours des audiences, poser des questions aux Parties.  La mŒme faculté appartient   chaque juge avec l’autorisation du Président.

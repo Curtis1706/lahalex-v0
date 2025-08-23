@@ -1,0 +1,1 @@
+Le Parquet général exerce les fonctions du Ministère public par voie de réquisitions, de conclusions ou d'observations orales. Ces fonctions sont assurées par le Procureur Général secondé par le Procureur Général Adjoint.

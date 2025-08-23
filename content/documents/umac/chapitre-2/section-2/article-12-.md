@@ -1,0 +1,1 @@
+Le Comité Ministériel, institué par le Traité de la CEMAC, examine les grandes orientations des politiques économiques respectives des Etats membres de l'Union Monétaire et en assure la cohérence avec la politique monétaire commune, conformément aux dispositions du Titre 3 de la Convention de l'Union Economique de l'Afrique Centrale (UEAC).

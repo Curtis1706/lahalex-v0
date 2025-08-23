@@ -1,0 +1,57 @@
+{
+  "id": "additif-transformation-secretariat-cemac",
+  "title": "Additif au traité de transformation du Secrétariat exécutif en Commission de la CEMAC",
+  "type": "cemac",
+  "description": "Cet additif modifie le traité de la CEMAC pour transformer le Secrétariat exécutif en une Commission, renforçant ainsi la gouvernance et l’efficacité institutionnelle de la Communauté.",
+  "structure": {
+    "sections": [
+      {
+        "id": "article-1-",
+        "title": "Article 1 :",
+        "type": "article",
+        "level": 1,
+        "order": 0,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-2-",
+        "title": "Article 2 :",
+        "type": "article",
+        "level": 1,
+        "order": 1,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-3-",
+        "title": "Article 3 :",
+        "type": "article",
+        "level": 1,
+        "order": 2,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-4-",
+        "title": "Article 4 :",
+        "type": "article",
+        "level": 1,
+        "order": 3,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-5-",
+        "title": "Article 5 :",
+        "type": "article",
+        "level": 1,
+        "order": 5,
+        "path": [],
+        "children": []
+      }
+    ],
+    "totalArticles": 5
+  },
+  "source": "internationale"
+}

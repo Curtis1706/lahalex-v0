@@ -1,0 +1,1 @@
+L'Union Monétaire se caractérise par l’adoption d’une même unité monétaire dont l’émission est confiée à un Institut d’Emission commun, la Banque des Etats de l’Afrique Centrale (ciaprès dénommée la Banque ou la BEAC) régi par des statuts propres qui font partie intégrante de la présente Convention.

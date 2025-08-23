@@ -1,0 +1,2 @@
+A la session ordinaire qui suit sa nomination, le Président de la Commission présente au Parlement, réuni en séance plénière, le programme d’actions de la Commission.
+La présentation du programme d’actions est suivie de débats. A l’issue des débats, le Parlement peut émettre des recommandations par voie de résolution.

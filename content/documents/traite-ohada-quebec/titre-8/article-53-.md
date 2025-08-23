@@ -1,0 +1,2 @@
+Le présent Traité est, dès son en- trée en vigueur, ouvert à l’adhésion de tout Etat membre de l’OUA et non signataire du  Traité.  Il  est  également  ouvert  à l’adhésion de tout autre Etat non membre de l’OUA invité à y adhérer du commun accord de tous les Etats-Parties.
+A l’égard de tout Etat adhérent, le présent Traité et les actes uniformes adoptés avant l’adhésion  entreront  en  vigueur  soixante jours après la date du dépôt de l’instrument d’adhésion.

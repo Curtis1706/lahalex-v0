@@ -1,0 +1,1 @@
+Les actes uniformes sont directement applicables et obligatoires dans les Etats Parties, nonobstant toute disposition contraire de droit interne, antérieure ou postérieure.

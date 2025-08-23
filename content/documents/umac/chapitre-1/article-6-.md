@@ -1,0 +1,3 @@
+L’unité monétaire légale des Etats membres de l’Union est le Franc de la Coopération Financière en Afrique Centrale (F. CFA).
+La définition du Franc de la Coopération Financière en Afrique Centrale est celle en vigueur à la signature de la présente Convention.
+La dénomination et la définition de l’unité monétaire de l’Union pourront être modifiées après concertation entre les Etats membres et la France, qui garantit la convertibilité du Franc CFA, conformément à la Convention de Coopération Monétaire entre les Etats membres et la France annexée à la présente Convention.

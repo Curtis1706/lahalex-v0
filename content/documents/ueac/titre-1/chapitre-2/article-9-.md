@@ -1,0 +1,1 @@
+Les actes juridiques pris par les organes de l'Union Economique et les institutions spécialisées de celleci pour la réalisation des objectifs de la présente Convention, conformément aux règles et procédures instituées par cette même Convention, sont appliqués dans chaque Etat membre.

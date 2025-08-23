@@ -1,0 +1,1 @@
+Le conseil d’administration peut, après consultation du conseil de surveillance, re- cruter et nommer, en dehors de ses membres, un directeur ou un directeur général qui doit être une personne physique.

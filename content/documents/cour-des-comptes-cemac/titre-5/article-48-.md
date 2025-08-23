@@ -1,0 +1,1 @@
+La présente Convention sera enregistrée, après ratification, auprès de l’Organisation des Nations Unies et de l’Union Africaine.

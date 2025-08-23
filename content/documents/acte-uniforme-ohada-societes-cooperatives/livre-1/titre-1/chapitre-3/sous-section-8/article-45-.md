@@ -1,0 +1,2 @@
+Toutes les parts sociales émises par la société coopérative sont nominatives. Leur valeur nominale est la même pour toutes les parts sociales. Elle est fixée dans les statuts.
+Les parts sociales ne peuvent être émises pour un montant inférieur à leur valeur nominale.

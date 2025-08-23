@@ -1,0 +1,1 @@
+Le statut des fonctionnaires de l'Union Economique et le régime applicable à ses autres agents est adopté conformément aux dispositions de l'article 7 du Traité de la CEMAC.

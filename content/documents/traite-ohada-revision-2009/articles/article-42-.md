@@ -1,0 +1,2 @@
+Les langues de travail de l’OHADA sont : le fran ais, l’anglais, l’espagnol et le portugais.
+Avant traduction dans les autres langues, les documents déj publiés en fran ais produisent tous leurs effets. En cas de divergence entre les différentes traductions, la version fran aise fait foi.

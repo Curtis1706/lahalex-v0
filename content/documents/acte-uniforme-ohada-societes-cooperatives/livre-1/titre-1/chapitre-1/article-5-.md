@@ -1,0 +1,1 @@
+Les sociétés coopératives exercent leur action dans toutes les branches de l’activité humaine.

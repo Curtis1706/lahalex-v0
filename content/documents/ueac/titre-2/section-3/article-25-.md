@@ -1,0 +1,1 @@
+Le Président de la Commission est chargé de l’application des règles de concurrence définies sur le fondement des articles 23 et 24 de la présente Convention.

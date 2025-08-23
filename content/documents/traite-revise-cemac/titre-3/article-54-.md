@@ -1,0 +1,1 @@
+L’exercice budgétaire de la Communauté débute le 1[er] janvier et s’achève le 31 décembre de chaque année. Si le budget n’a pas été adopté au début d’un exercice budgétaire, les dépenses peuvent être effectuées mensuellement dans la limite du 12 des crédits ouverts au budget de l’exercice précédent.

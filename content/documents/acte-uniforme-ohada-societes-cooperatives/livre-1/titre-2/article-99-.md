@@ -1,0 +1,1 @@
+Sauf disposition contraire du présent Acte uniforme, tout coopérateur a le droit de participer aux décisions de l’assemblée générale. Toute clause statutaire contraire est réputée non écrite.

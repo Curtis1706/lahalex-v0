@@ -1,0 +1,4 @@
+1. Si un membre de la Cour a cessé de remplir ses fonctions pour
+toute autre cause qu’une absence de caractère temporaire, ou s’il n’est plus en mesure de remplir lesdites fonctions et si, par suite, l’application de l’article 35 du traité est envisagée, le membre de la Cour intéressé en est informé par le Président, dans une communication écrite qui expose les raisons pour lesquelles la procédure est engagée et indique tous les éléments de preuve s’y rapportant.  La possibilité lui est ensuite offerte  une séance privée de la Cour de présenter ses observations.  A une séance privée ultérieure tenue hors la présence du membre de la Cour intéressé, la question est discutée; chaque membre de la Cour donne son avis et, si la demande en est faite, il est procédé   un vote.
+2. Si le membre de la Cour concerné par le paragraphe 1er est le
+Président, celui-ci en est informé par le premier Vice-Président qui applique ensuite la procédure prévue audit paragraphe 1er.

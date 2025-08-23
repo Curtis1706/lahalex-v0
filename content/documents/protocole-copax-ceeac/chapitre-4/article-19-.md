@@ -1,4 +1,4 @@
-LA FORCE MULTINATIONALE DE 50’AFRIQUE CENTRALE
+LA FORCE MULTINATIONALE DE L’AFRIQUE CENTRALE
 1. La FOMAC est une force multidimensionnelle constituée de contingents et moyens nationaux interarmées, de police/gendarmerie et civils en attente dans les Etats membres et susceptibles d’être mis à disposition de la Communauté pour les missions de la CEEAC.
 1. Elle est également partie prenante de la Force Africaine en Attente (FAA) au titre du Protocole relatif au Conseil de paix et de sécurité de l’Union africaine et dispose d’une Capacité de déploiement rapide pré-positionnée en vue des interventions répondant aux situations d'urgence et cas graves, de génocide, crimes de guerre ou crimes contre l’humanité en Afrique centrale et dans tout Etat du continent.
 1. La FOMAC assure les missions suivantes :

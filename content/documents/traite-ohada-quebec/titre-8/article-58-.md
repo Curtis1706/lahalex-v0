@@ -1,0 +1,1 @@
+Tout Etat ratifiant le présent Trai- té ou y adhérant postérieurement à l’entrée en  vigueur  d’un  amendement  au  présent Traité devient par là-même partie au Traité tel  qu’amendé.  Le  Conseil  des  Ministres ajoute le nom de l’Etat adhérent sur la liste prévue avant le nom de l’Etat qui assure la présidence du Conseil des Ministres à la date de l’adhésion.

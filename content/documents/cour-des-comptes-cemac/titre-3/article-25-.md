@@ -1,0 +1,1 @@
+Le français est la langue officielle de travail de la Cour des Comptes. Toutefois, il y est admis l'usage de l'anglais, de l'arabe, de l'espagnol et de toute autre langue en application des dispositions de l'article 55, alinéa 4 du Traité de la CEMAC.

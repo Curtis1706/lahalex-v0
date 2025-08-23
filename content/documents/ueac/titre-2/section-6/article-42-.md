@@ -1,0 +1,4 @@
+Dans le cadre du programme de travail mentionné à l’article 7 de la présente Convention, le Conseil des Ministres définit, à la majorité de ses membres, par voie de règlements et sur proposition du Président de la Commission :
+a) les systèmes d’information mutuels auxquels participent les Etats membres en vue de la coordination de leurs politiques industrielles ;
+b) les conditions dans lesquelles il pourra être dérogé, dans certains secteurs de l’économie, au droit à la concurrence de l’Union Economique.
+Le Conseil des Ministres, sur proposition du Président de la Commission, fixe la durée des dispositions dérogatoires prises en application du paragraphe b du présent article. Les Etats membres sont tenus d’informer le Président de la Commission des mesures d’exécution prises sur le plan national, en vue de faciliter l’exercice de sa mission de veiller à l’application de la présente Convention.

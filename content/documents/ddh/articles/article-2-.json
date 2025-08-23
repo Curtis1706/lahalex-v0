@@ -1,0 +1,12 @@
+{
+  "id": "article-2-",
+  "title": "Article 2 :",
+  "numero": "2 ",
+  "document": "ddh",
+  "path": [],
+  "navigation": {
+    "parent": "ddh",
+    "previous": "article-1-",
+    "next": "article-3-"
+  }
+}

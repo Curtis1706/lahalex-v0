@@ -1,0 +1,17 @@
+{
+  "id": "article-29-",
+  "title": "Article 29 :",
+  "numero": "29 ",
+  "document": "acte-uniforme-ohada-societes-cooperatives",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-3",
+    "sous-section-6"
+  ],
+  "navigation": {
+    "parent": "sous-section-6",
+    "previous": "article-28-",
+    "next": "article-30-"
+  }
+}

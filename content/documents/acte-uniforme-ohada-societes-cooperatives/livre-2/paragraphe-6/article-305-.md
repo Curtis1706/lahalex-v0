@@ -1,0 +1,2 @@
+Les fonctions d’administrateur sont gratuites.
+Toutefois, les administrateurs ont droit au remboursement des frais de déplacement et des frais occasionnels de missions ou de mandats qui peuvent leur être confiés par le conseil d’administration dans l’intérêt de la société coopérative. Ces frais doivent être justifiés.

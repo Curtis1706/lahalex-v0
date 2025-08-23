@@ -1,0 +1,7 @@
+Rectification et interprétation de la sentence
+Toute demande en rectification d’erreurs matérielles d’une sentence, ou en interprétation de celle- ci, ou en complément de la sentence qui aurait omis de statuer sur une demande qui était soumise à l’arbitre, doit être adressée au Secrétaire Général de la Cour dans les 45 jours de la notification de la sentence.
+Le Secrétaire Général communique, dès réception, la requête à l’arbitre et à la partie adverse en accordant à celle-ci un délai de 30 jours pour adresser ses observations au demandeur et à l’arbitre.
+Au cas où le Secrétaire Général pour un motif quelconque, ne pourrait pas transmettre la demande à l’arbitre qui a statué, la Cour désignerait après observations des parties, un nouvel arbitre.
+Après examen contradictoire du point de vue des parties et des pièces qu’elles ont éventuellement soumises, le projet de sentence doit être adressé pour l’examen préalable prévu à l’article 23 dans
+les 60 jours de la saisine de l’arbitre.
+La procédure qui précède ne comporte pas d’honoraires sauf dans le cas prévu au 3ème alinéa. Quant aux frais, s’il en est, ils sont supportés par la partie qui a formé la requête si celle-ci est rejetée entièrement. Dans le cas contraire, ils sont partagés entre les parties dans la proportion fixée pour les frais d’arbitrage dans la sentence, objet de la requête.

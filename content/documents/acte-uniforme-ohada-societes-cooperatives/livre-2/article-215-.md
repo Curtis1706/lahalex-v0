@@ -1,0 +1,1 @@
+Le projet de statuts doit être soumis à l’assemblée générale constitutive pour adop- tion. Les coopérateurs participent en personne, à peine de nullité, à l’assemblée générale cons- titutive de la société coopérative simplifiée.

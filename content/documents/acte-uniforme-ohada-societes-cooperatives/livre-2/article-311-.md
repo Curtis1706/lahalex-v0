@@ -1,0 +1,1 @@
+Toute convention entre une société coopérative avec conseil d’administration et l’un de ses administrateurs ou employé est soumise au delà d’un seuil déterminé par les sta- tuts, à l’approbation de l’assemblée générale dans des conditions de quorum et de majorité déterminées par les statuts.

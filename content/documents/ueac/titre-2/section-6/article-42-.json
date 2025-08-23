@@ -1,0 +1,15 @@
+{
+  "id": "article-42-",
+  "title": "Article 42 :",
+  "numero": "42 ",
+  "document": "ueac",
+  "path": [
+    "titre-2",
+    "section-6"
+  ],
+  "navigation": {
+    "parent": "section-6",
+    "previous": "article-41-",
+    "next": "article-43-"
+  }
+}

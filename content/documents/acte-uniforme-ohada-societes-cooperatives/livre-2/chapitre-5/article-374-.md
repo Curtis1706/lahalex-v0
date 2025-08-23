@@ -1,0 +1,2 @@
+Les administrateurs sont responsables individuellement ou solidairement, selon le cas, envers la société ou envers les tiers, des infractions aux dispositions législatives ou ré- glementaires applicables aux sociétés coopératives avec conseil d’administration, des viola- tions des dispositions des statuts et des fautes commises dans leur gestion.
+Si plusieurs administrateurs ont coopéré aux mêmes faits, la juridiction compétente détermine la part contributive de chacun dans la réparation du dommage.

@@ -1,0 +1,1 @@
+La durée du mandat du président du conseil d’administration est fixée par les sta- tuts.

@@ -1,0 +1,1 @@
+Les décisions du Conseil des Mi- nistres autres que celles prévues à l’article 8 ci-dessus sont prises à la majorité abso- lue  des  Etats-Parties  présents  et  votants. Chacun des Etats dispose d’une voix.

@@ -1,0 +1,1 @@
+Le Gouvernement de la République de Guinée Equatoriale fait parvenir au Président du Conseil des Chefs d'Etat des appréciations sur la manière de servir du Personnel mis à sa disposition en vertu de la présent Convention suivant la périodicité fixée par les règles statutaires propres aux fonctionnaires concernés.

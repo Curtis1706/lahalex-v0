@@ -1,0 +1,1 @@
+Le présent Traité entre en vigueur après sa signature par les Etats membres et sa ratification.

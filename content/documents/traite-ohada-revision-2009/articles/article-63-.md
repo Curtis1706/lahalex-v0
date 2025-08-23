@@ -1,0 +1,2 @@
+Le Traité, rédigé en deux exemplaires en langues fran aise, anglaise, espagnole et portugaise, sera déposé dans les archives du Gouvernement de la République du Sénégal qui remettra une copie certifiée conforme chacun des Etats parties.
+` `»

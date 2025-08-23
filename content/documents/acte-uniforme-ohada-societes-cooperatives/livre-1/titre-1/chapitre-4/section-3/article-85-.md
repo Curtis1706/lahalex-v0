@@ -1,0 +1,1 @@
+La société coopérative est en formation lorsqu’elle n’est pas encore constituée.

@@ -1,0 +1,1 @@
+La Cour des Comptes se réunit soit en audience solennelle, soit en formations de jugement, soit en chambres réunies, soit en chambre du conseil, soit en Assemblée générale.

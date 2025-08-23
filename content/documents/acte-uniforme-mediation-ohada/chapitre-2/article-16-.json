@@ -1,0 +1,14 @@
+{
+  "id": "article-16-",
+  "title": "Article 16 :",
+  "numero": "16 ",
+  "document": "acte-uniforme-mediation-ohada",
+  "path": [
+    "chapitre-2"
+  ],
+  "navigation": {
+    "parent": "chapitre-2",
+    "previous": "article-15-",
+    "next": "article-17-"
+  }
+}

@@ -1,0 +1,3 @@
+Le Conseil des ministres est composé des ministres chargés de la Justice et des ministres chargés des Finances.
+La présidence est exercée tour de r le par chaque Etat Partie pour une durée d’un an, dans l’ordre suivant : Bénin, Burkina Faso, Cameroun, Centrafrique, Comores, Congo, C te-d’Ivoire, Gabon, Guinée Equatoriale, Mali, Niger, Sénégal, Tchad, Togo.
+Si un Etat Partie ne peut exercer la présidence du Conseil des ministres pendant l’année oé elle lui revient, le Conseil désigne, pour exercer cette présidence, l’Etat venant immédiatement aprŁs dans l’ordre prévu ci-dessus.

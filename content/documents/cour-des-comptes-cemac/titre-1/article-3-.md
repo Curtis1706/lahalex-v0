@@ -1,0 +1,2 @@
+La Cour des Comptes est chargée du contrôle juridictionnel des comptes des comptables de la Communauté et s’assure de la bonne gestion des ressources financières des Institutions, Organes et Institutions Spécialisées de la Communauté, à l’exception de ceux dont les Conventions ou statuts en disposent autrement.
+La bonne gestion des ressources financières implique l’examen de la régularité des actes de gestion des ordonnateurs, de l’économie des moyens mis en œuvre et de l’évaluation des résultats atteints par rapport aux objectifs fixés dans les programmes d’actions.

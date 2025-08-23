@@ -1,0 +1,1 @@
+Les rapports visés aux articles 35 et 36 ci-dessus sont adressés au Conseil des Ministres, à la Commission et au Parlement.

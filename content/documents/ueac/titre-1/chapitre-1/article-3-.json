@@ -1,0 +1,15 @@
+{
+  "id": "article-3-",
+  "title": "Article 3 :",
+  "numero": "3 ",
+  "document": "ueac",
+  "path": [
+    "titre-1",
+    "chapitre-1"
+  ],
+  "navigation": {
+    "parent": "chapitre-1",
+    "previous": "article-2-",
+    "next": "article-4-"
+  }
+}

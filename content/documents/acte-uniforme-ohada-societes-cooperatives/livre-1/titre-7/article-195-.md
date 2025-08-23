@@ -1,0 +1,1 @@
+Toute action contre les coopérateurs non liquidateurs ou leur conjoint survivant, héritiers ou ayants cause, se prescrit par cinq ans à compter de la publication de la dissolution de la société coopérative au Registre des Sociétés Coopératives.

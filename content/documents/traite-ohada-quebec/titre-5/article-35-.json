@@ -1,0 +1,14 @@
+{
+  "id": "article-35-",
+  "title": "Article 35 :",
+  "numero": "35 ",
+  "document": "traite-ohada-quebec",
+  "path": [
+    "titre-5"
+  ],
+  "navigation": {
+    "parent": "titre-5",
+    "previous": "article-34-",
+    "next": "article-36-"
+  }
+}

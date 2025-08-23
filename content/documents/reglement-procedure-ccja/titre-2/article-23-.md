@@ -1,0 +1,5 @@
+1. Le ministère d’avocat est obligatoire devant la Cour.  Est admis
+exercer ce ministère toute personne pouvant se présenter en qualité d’avocat devant une juridiction de l’un des Etats Parties au traité.  Il appartient   toute personne se prévalant de cette qualité d’en apporter la preuve   la Cour.  Elle devra en outre produire un mandat spécial de la Partie qu’elle représente.
+2. L’avocat dont le comportement devant la Cour est incompatible
+avec la dignité de celle-ci ou qui use des droits qu’il tient de ses fonctions  des fins autres que celles pour lesquelles ces droits lui ont été reconnus peut, après avoir été entendu, Œtre exclu   tout moment de la procédure par ordonnance de la Cour.  Cette ordonnance est immédiatement exécutoire.
+Lorsqu’un avocat se trouve exclu de la procédure, celle-ci est suspendue jusqu’  l’expiration d’un délai fixé par le Président pour permettre   la partie intéressée de désigner un autre avocat.

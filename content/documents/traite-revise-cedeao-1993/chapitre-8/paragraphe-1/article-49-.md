@@ -7,7 +7,7 @@ prendre des mesures de sauvegarde appropriées en attendant que le Conseil statu
 an. Elles ne peuvent être prorogées au-delà de ce délai que sur décision du Conseil.
 6. Tant que ces mesures sont en vigueur, le Conseil examine la façon dont elles sont
 appliquées.
-ARTICLES 50 : PROMOTION DES ECHANGES COMMERCIAUX
+ARTICLES L PROMOTION DES ECHANGES COMMERCIAUX
 1. Les Etats Membres s'engagent à entreprendre, à travers leurs secteurs publics et
 privés, la promotion des échanges commerciaux par des actions telles que:
 (a) Encourager l'utilisation des matières premières, des biens et des facteurs de

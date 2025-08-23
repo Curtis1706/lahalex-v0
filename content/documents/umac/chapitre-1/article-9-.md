@@ -1,0 +1,2 @@
+En vue de faciliter l’exécution des missions qui leur sont confiées, les immunités et privilèges généralement reconnus aux Organisations Internationales sont accordés aux Organes de l’UMAC sur le territoire des Etats membres de l’Union Monétaire dans les conditions précisées par leurs conventions ou textes spécifiques.
+Il ne peut être imposé aux Organes et aux Institutions Spécialisées de l’UMAC des obligations ou des contrôles autres que ceux définis par la présente Convention ou par leurs textes spécifiques.

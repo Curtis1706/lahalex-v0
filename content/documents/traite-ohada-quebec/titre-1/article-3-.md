@@ -1,0 +1,3 @@
+(Québec  2008)  La  réalisation  des tâches prévues au présent Traité est assu- rée par une organisation dénommée Orga- nisation pour l’Harmonisation en Afrique du Droit des Affaires (OHADA).
+L’OHADA  comprend  la  Conférence  des Chefs  d’Etat  et  de  Gouvernement,  le Conseil des Ministres, la Cour Commune de Justice et d’Arbitrage et le Secrétariat Permanent.
+Le siège de l’OHADA est fixé à Yaoundé en République du Cameroun. Il peut être transféré en tout autre lieu sur décision de la Conférence des Chefs d’Etat et de Gou- vernement.

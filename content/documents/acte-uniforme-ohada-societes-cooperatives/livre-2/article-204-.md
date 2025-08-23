@@ -1,0 +1,2 @@
+La société coopérative simplifiée est constituée entre cinq personnes physiques ou morales au minimum.
+La constitution de la société coopérative simplifiée est décidée par une assemblée générale constitutive.

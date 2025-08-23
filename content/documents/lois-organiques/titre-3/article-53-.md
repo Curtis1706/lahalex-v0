@@ -1,0 +1,1 @@
+Le Conseil supérieur des comptes est chargé de la discipline des magistrats des juridictions financières dans les conditions fixées par la loi.

@@ -1,0 +1,1 @@
+Les dispositions de la présente Convention abrogent et remplacent celles de la Convention du 16 juillet 1996 régissant l'Union Economique de l'Afrique Centrale ainsi que de tout autre texte contraire.

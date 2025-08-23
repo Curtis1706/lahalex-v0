@@ -1,0 +1,1 @@
+Afin de pouvoir remplir ses fonctions, l’OHADA jouit sur le territoire de chaque Etat Partie des immunités et privilŁges prévus au présent titre.

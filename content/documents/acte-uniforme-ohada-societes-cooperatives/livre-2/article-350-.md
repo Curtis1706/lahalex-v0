@@ -1,0 +1,1 @@
+50’ordre du jour de l’assemblée générale ne peut être modifié sur 2 convocation.

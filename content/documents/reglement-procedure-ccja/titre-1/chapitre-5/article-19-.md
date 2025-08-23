@@ -1,0 +1,1 @@
+Le siège de la Cour est fixé   Abidjan.  La Cour peut toutefois, si elle le juge utile, se réunir en d’autres lieux, sur le territoire d’un Etat Partie, avec l’accord préalable de cet Etat qui ne peut, en aucun cas, Œtre impliqué financièrement.

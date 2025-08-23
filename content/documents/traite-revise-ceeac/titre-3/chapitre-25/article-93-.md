@@ -7,4 +7,4 @@ Création et objectifs
 6. Le Fonds est doté de deux guichets :
 7. un guichet de compensation pour perte de recettes douanières ;
 8. un guichet de coopération et de développement.
-9. 50’organisation et le fonctionnement du Fonds font l’objet d’annexe au présent Traité. CHAPITRE 26 : DISPOSITIONS FINANCIERES
+9. L’organisation et le fonctionnement du Fonds font l’objet d’annexe au présent Traité. CHAPITRE 26 : DISPOSITIONS FINANCIERES

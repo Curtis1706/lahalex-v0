@@ -1,0 +1,1 @@
+Le Greffe de la Cour assiste les juges dans leurs fonctions juridictionnelles. Il est dirigé par le Greffier en Chef assisté de greffiers.

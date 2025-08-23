@@ -1,0 +1,1 @@
+Avant de signer une sentence par- tielle  ou  définitive,  l’arbitre  doit  en  soumettre  le  projet  à  la  Cour  Commune  de Justice  et  d’Arbitrage.  Celle-ci  ne  peut proposer  que  des  modifications  de  pure forme.

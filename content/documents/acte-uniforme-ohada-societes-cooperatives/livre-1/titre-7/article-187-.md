@@ -1,0 +1,1 @@
+Le liquidateur peut être choisi parmi les coopérateurs ou des personnes extérieures à la coopérative. Il peut être une personne morale.

@@ -1,0 +1,14 @@
+{
+  "id": "article-333-",
+  "title": "Article 333 :",
+  "numero": "333 ",
+  "document": "acte-uniforme-ohada-societes-cooperatives",
+  "path": [
+    "livre-2"
+  ],
+  "navigation": {
+    "parent": "livre-2",
+    "previous": "article-332-",
+    "next": "article-334-"
+  }
+}

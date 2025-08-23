@@ -1,0 +1,4 @@
+Formule exécutoire
+1. Le Secrétaire Général de la Cour délivre à la partie qui lui en fait la demande, une copie de la sentence certifiée conforme à l’original déposé conformément à l’article 28, sur laquelle figure une attestation d’exequatur.
+Cette attestation mentionne que l’exequatur a été accordé à la sentence, selon le cas, soit par une ordonnance du Président de la Cour régulièrement notifiée et devenue définitive en l’absence d’opposition formée dans le délai de quinze jours mentionné ci-dessus, soit par un arrêt de la Cour rejetant une telle opposition, soit par un arrêt de la Cour infirmant un refus d’exequatur.
+2. Au vu de la copie conforme de la sentence revêtue de l’attestation du Secrétaire Général de la Cour, l’autorité nationale désignée par l’Etat pour lequel l’exequatur a été demandé, appose la formule exécutoire telle qu’elle est en vigueur dans ledit Etat.

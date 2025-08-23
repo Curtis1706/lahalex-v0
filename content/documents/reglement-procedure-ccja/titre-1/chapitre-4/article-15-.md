@@ -1,0 +1,1 @@
+Des instructions pour le Greffe sont préparées par le Greffier en chef et approuvées par le Président, après avis de la Cour.

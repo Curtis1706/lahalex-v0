@@ -1,0 +1,5 @@
+En vue de la réalisation des objectifs définis à l’article 13, paragraphe c de la présente Convention, le Conseil des Ministres arrête, à la majorité qualifiée de ses membres et sur proposition du Président de la Commission, les règlements relatifs à :
+a) l’interdiction des accords, associations et pratiques concertées entre entreprises, ayant pour objet ou pour effet de restreindre ou de fausser le jeu de la concurrence à l’intérieur de l’Union Economique ;
+b) l’interdiction de toute pratique d’une ou de plusieurs entreprises constituant un abus de position dominante sur le marché commun ou dans une partie significative de celuici ;
+c) l’interdiction des aides publiques susceptibles de fausser la concurrence en favorisant certaines entreprises ou certaines productions.
+Ces règlements précisent les interdictions et peuvent prévoir des exceptions limitées afin de tenir compte des situations spécifiques.

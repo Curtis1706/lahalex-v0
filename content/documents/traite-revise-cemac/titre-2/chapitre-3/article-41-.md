@@ -1,0 +1,5 @@
+Les actes additionnels sont annexés au Traité de la CEMAC et complètent celui-ci sans le modifier. Leir respect s’impose aux Institutions, aux Organes et aux Institutions Spécialisées de la Communauté ainsi qu’aux autorités des Etats membres.
+Les règlements et les règlements cadres ont une portée générale. Les règlements sont obligatoires dans tous leurs éléments et directement applicables dans tout Etat membre. Les règlements cadres ne sont directement applicables que pour certains de leurs éléments.
+Les directives lient tout Etat membre destinataire quant au résultat à atteindre tout en laissant aux instances nationales leur compétence en ce qui concerne la forme et les moyens.
+Les décisions sont obligatoires dans tous leurs éléments pour les destinataires qu’elles désignent.
+Les recommandations et les avis ne lient pas.

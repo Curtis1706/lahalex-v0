@@ -1,0 +1,1 @@
+Sauf clause contraire des statuts et relative à la répartition des résultats, les droits et obligations de tous les coopérateurs, visés aux articles 46 et 47 ci-dessus sont égaux quel que soit le montant de leurs apports.

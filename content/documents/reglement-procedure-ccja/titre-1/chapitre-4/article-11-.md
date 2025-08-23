@@ -1,0 +1,2 @@
+Avant d’entrer en fonctions, le Greffier en chef fait devant la Cour la déclaration suivante :
+"Je déclare solennellement que j’exercerai en toute loyauté, discrétion et conscience les fonctions qui m’ont été confiées en ma qualité de Greffier en chef de la Cour Commune de Justice et d’Arbitrage et que j’observerai scrupuleusement le secret attaché  mes fonctions."

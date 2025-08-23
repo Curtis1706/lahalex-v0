@@ -1,0 +1,1 @@
+Les copies ou extraits des procès-verbaux des délibérations des coopérateurs sont valablement certifiés conformes par le président du comité de gestion.

@@ -1,0 +1,15 @@
+{
+  "id": "article-28-",
+  "title": "Article 28 :",
+  "numero": "28 ",
+  "document": "lois-organiques",
+  "path": [
+    "titre-2",
+    "chapitre-3"
+  ],
+  "navigation": {
+    "parent": "chapitre-3",
+    "previous": "article-27-",
+    "next": "article-29-"
+  }
+}

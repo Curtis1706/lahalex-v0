@@ -1,0 +1,1 @@
+Les personnes autres que les associés coopérateurs peuvent se prévaloir du siège sta- tutaire, mais celui-ci ne leur est pas opposable par la société coopérative si le siège réel est situé en un autre lieu.

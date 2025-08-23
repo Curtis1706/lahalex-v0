@@ -1,0 +1,2 @@
+Le présent Traité a une durée illimitée. Il ne peut, en tout état de cause, Œtre dénoncé avant dix années partir de la date de son entrée en vigueur.
+Toute dénonciation du présent Traité doit Œtre notifiée au gouvernement dépositaire et ne produira d’effet qu’une année aprŁs la date de cette notification.

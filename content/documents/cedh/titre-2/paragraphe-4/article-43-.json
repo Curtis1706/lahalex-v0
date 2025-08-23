@@ -1,0 +1,15 @@
+{
+  "id": "article-43-",
+  "title": "Article 43 : Renvoi devant la Grande Chambre",
+  "numero": "43 ",
+  "document": "cedh",
+  "path": [
+    "titre-2",
+    "paragraphe-4"
+  ],
+  "navigation": {
+    "parent": "paragraphe-4",
+    "previous": "article-42-",
+    "next": "article-44-"
+  }
+}

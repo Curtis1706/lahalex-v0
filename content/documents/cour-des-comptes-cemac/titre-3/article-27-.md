@@ -1,0 +1,1 @@
+Le Président de la Cour est ordonnateur du budget de la Cour avec pouvoir de délégation.

@@ -1,0 +1,1 @@
+La société coopérative est désignée par une dénomination sociale qui doit être im- médiatement précédée ou suivie en caractères lisibles, de l’expression « Société Coopérative Simplifiée » et du sigle « SCOOPS ».

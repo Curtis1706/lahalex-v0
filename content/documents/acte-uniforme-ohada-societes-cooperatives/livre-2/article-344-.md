@@ -1,0 +1,3 @@
+Sous réserve des dispositions du présent article, les statuts de la société coopérative avec conseil d’administration fixent les règles de convocation des assemblées de coopéra- teurs.
+La convocation des assemblées est faite par avis de convocation qui est inséré dans un journal habilité à recevoir les annonces légales et affiché au siège de la société coopérative.
+50’insertion prévue à l’alinéa précédent peut être remplacée par une convocation faite aux frais de la société coopérative par lettre au porteur contre récépissé ou par tout procédé laissant trace écrite, portant mention de l’ordre du jour.

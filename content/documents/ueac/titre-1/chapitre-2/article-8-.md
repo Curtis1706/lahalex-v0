@@ -1,0 +1,2 @@
+L'Union Economique agit dans la limite des objectifs que le Traité de la CEMAC et la présente Convention lui assignent. Elle respecte l'identité nationale de ses Etats membres.
+Les organes de l'Union Economique et les institutions spécialisées de celleci édictent, dans l'exercice des pouvoirs normatifs que la présente Convention leur attribue, des prescriptions minimales et des réglementations cadres, qu'il appartient aux Etats membres de compléter en tant que de besoin, conformément à leurs règles constitutionnelles respectives.

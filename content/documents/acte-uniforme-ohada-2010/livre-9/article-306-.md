@@ -1,0 +1,1 @@
+Le présent Acte uniforme abroge l’Acte uniforme du 17 avril 1997 portant sur le droit commercial général.

@@ -1,0 +1,2 @@
+50’assemblée générale décide de l’affectation du résultat dans le respect des disposi- tions légales et statutaires.
+Elle constitue les dotations nécessaires aux réserves légales et aux réserves statutaires.

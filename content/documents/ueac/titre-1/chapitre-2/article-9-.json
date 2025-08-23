@@ -1,0 +1,15 @@
+{
+  "id": "article-9-",
+  "title": "Article 9 :",
+  "numero": "9 ",
+  "document": "ueac",
+  "path": [
+    "titre-1",
+    "chapitre-2"
+  ],
+  "navigation": {
+    "parent": "chapitre-2",
+    "previous": "article-8-",
+    "next": "article-10-"
+  }
+}

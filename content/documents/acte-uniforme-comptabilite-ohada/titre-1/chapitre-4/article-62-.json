@@ -1,0 +1,15 @@
+{
+  "id": "article-62-",
+  "title": "Article 62 :",
+  "numero": "62 ",
+  "document": "acte-uniforme-comptabilite-ohada",
+  "path": [
+    "titre-1",
+    "chapitre-4"
+  ],
+  "navigation": {
+    "parent": "chapitre-4",
+    "previous": "article-61-",
+    "next": "article-63-"
+  }
+}

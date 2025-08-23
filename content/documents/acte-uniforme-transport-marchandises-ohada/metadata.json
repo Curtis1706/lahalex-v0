@@ -1,0 +1,396 @@
+{
+  "id": "acte-uniforme-transport-marchandises-ohada",
+  "title": "Acte uniforme relatif aux contrats de transport de marchandises par route OHADA",
+  "type": "ohada",
+  "description": "Cet acte uniforme fixe les règles applicables aux contrats de transport de marchandises par route dans l’espace OHADA, visant à harmoniser les pratiques et à faciliter les échanges commerciaux entre les États membres.",
+  "structure": {
+    "sections": [
+      {
+        "id": "chapitre-1",
+        "title": "Chapitre 1 : : : : Champ d’application et définitions",
+        "type": "chapitre",
+        "level": 3,
+        "order": 0,
+        "path": [
+          "chapitre-1"
+        ],
+        "children": [
+          "article-1-",
+          "article-2-"
+        ]
+      },
+      {
+        "id": "article-1-",
+        "title": "Article 1 :",
+        "type": "article",
+        "level": 2,
+        "order": 1,
+        "path": [
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-2-",
+        "title": "Article 2 :",
+        "type": "article",
+        "level": 2,
+        "order": 2,
+        "path": [
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-2",
+        "title": "Chapitre 2 : : : : Contrat et documents de transport",
+        "type": "chapitre",
+        "level": 3,
+        "order": 3,
+        "path": [
+          "chapitre-2"
+        ],
+        "children": [
+          "article-3-",
+          "article-4-",
+          "article-5-",
+          "article-6-"
+        ]
+      },
+      {
+        "id": "article-3-",
+        "title": "Article 3 :",
+        "type": "article",
+        "level": 2,
+        "order": 4,
+        "path": [
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-4-",
+        "title": "Article 4 :",
+        "type": "article",
+        "level": 2,
+        "order": 5,
+        "path": [
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-5-",
+        "title": "Article 5 :",
+        "type": "article",
+        "level": 2,
+        "order": 6,
+        "path": [
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-6-",
+        "title": "Article 6 :",
+        "type": "article",
+        "level": 2,
+        "order": 7,
+        "path": [
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-3",
+        "title": "Chapitre 3 : : : : Exécution du contrat de transport",
+        "type": "chapitre",
+        "level": 3,
+        "order": 8,
+        "path": [
+          "chapitre-3"
+        ],
+        "children": [
+          "article-7-",
+          "article-8-",
+          "article-9-",
+          "article-10-",
+          "article-11-",
+          "article-12-",
+          "article-13-",
+          "article-14-",
+          "article-15-"
+        ]
+      },
+      {
+        "id": "article-7-",
+        "title": "Article 7 :",
+        "type": "article",
+        "level": 2,
+        "order": 9,
+        "path": [
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-8-",
+        "title": "Article 8 :",
+        "type": "article",
+        "level": 2,
+        "order": 10,
+        "path": [
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-9-",
+        "title": "Article 9 :",
+        "type": "article",
+        "level": 2,
+        "order": 11,
+        "path": [
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-10-",
+        "title": "Article 10 :",
+        "type": "article",
+        "level": 2,
+        "order": 12,
+        "path": [
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-11-",
+        "title": "Article 11 :",
+        "type": "article",
+        "level": 2,
+        "order": 13,
+        "path": [
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-12-",
+        "title": "Article 12 :",
+        "type": "article",
+        "level": 2,
+        "order": 14,
+        "path": [
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-13-",
+        "title": "Article 13 :",
+        "type": "article",
+        "level": 2,
+        "order": 15,
+        "path": [
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-14-",
+        "title": "Article 14 :",
+        "type": "article",
+        "level": 2,
+        "order": 16,
+        "path": [
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-15-",
+        "title": "Article 15 :",
+        "type": "article",
+        "level": 2,
+        "order": 17,
+        "path": [
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-4",
+        "title": "Chapitre 4 : : : : Responsabilité du transporteur",
+        "type": "chapitre",
+        "level": 3,
+        "order": 18,
+        "path": [
+          "chapitre-4"
+        ],
+        "children": [
+          "article-16-",
+          "article-17-",
+          "article-18-",
+          "article-19-",
+          "article-20-",
+          "article-21-"
+        ]
+      },
+      {
+        "id": "article-16-",
+        "title": "Article 16 :",
+        "type": "article",
+        "level": 2,
+        "order": 19,
+        "path": [
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-17-",
+        "title": "Article 17 :",
+        "type": "article",
+        "level": 2,
+        "order": 20,
+        "path": [
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-18-",
+        "title": "Article 18 :",
+        "type": "article",
+        "level": 2,
+        "order": 21,
+        "path": [
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-19-",
+        "title": "Article 19 :",
+        "type": "article",
+        "level": 2,
+        "order": 22,
+        "path": [
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-20-",
+        "title": "Article 20 :",
+        "type": "article",
+        "level": 2,
+        "order": 23,
+        "path": [
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-21-",
+        "title": "Article 21 :",
+        "type": "article",
+        "level": 2,
+        "order": 24,
+        "path": [
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-5",
+        "title": "Chapitre 5 : : : : Actions en responsabilité",
+        "type": "chapitre",
+        "level": 3,
+        "order": 25,
+        "path": [
+          "chapitre-5"
+        ],
+        "children": [
+          "article-22-"
+        ]
+      },
+      {
+        "id": "article-22-",
+        "title": "Article 22 :",
+        "type": "article",
+        "level": 2,
+        "order": 26,
+        "path": [
+          "chapitre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-6",
+        "title": "Chapitre 6 : : : : Transporteurs successifs",
+        "type": "chapitre",
+        "level": 3,
+        "order": 27,
+        "path": [
+          "chapitre-6"
+        ],
+        "children": [
+          "article-23-"
+        ]
+      },
+      {
+        "id": "article-23-",
+        "title": "Article 23 :",
+        "type": "article",
+        "level": 2,
+        "order": 28,
+        "path": [
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-7",
+        "title": "Chapitre 7 : : : : Dispositions finales",
+        "type": "chapitre",
+        "level": 3,
+        "order": 29,
+        "path": [
+          "chapitre-7"
+        ],
+        "children": [
+          "article-24-",
+          "article-25-"
+        ]
+      },
+      {
+        "id": "article-24-",
+        "title": "Article 24 :",
+        "type": "article",
+        "level": 2,
+        "order": 30,
+        "path": [
+          "chapitre-7"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-25-",
+        "title": "Article 25 :",
+        "type": "article",
+        "level": 2,
+        "order": 32,
+        "path": [
+          "chapitre-7"
+        ],
+        "children": []
+      }
+    ],
+    "totalArticles": 25
+  },
+  "source": "internationale"
+}

@@ -1,0 +1,1 @@
+À la demande de la Cour des Comptes, les banques et établissements financiers établis dans l'espace communautaire sont tenus de mettre à sa disposition, toutes informations dont elle a besoin dans l'exercice de ses contrôles.

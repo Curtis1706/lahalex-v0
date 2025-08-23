@@ -1,0 +1,1 @@
+La Cour demeure en fonction d'une manière permanente. La durée des vacances judiciaires est fixée par son Président, compte tenu des nécessités du service.

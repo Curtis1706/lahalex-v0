@@ -1,0 +1,1 @@
+Le Vice-Président 2 le Président de la Commission. Il le supplée en cas d’absence ou d’empêchement.

@@ -1,0 +1,1 @@
+Le point de départ de la durée de la société coopérative est la date de son immatricu- lation au Registre des Sociétés Coopératives.

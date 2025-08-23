@@ -1,0 +1,4 @@
+Le membre dont la fonction prend fin avant l’expiration de son mandat
+est remplacé pour la durée du mandat restant à courir. La désignation du
+remplaçant est effectuée selon la procédure décrite à l’article 7 de la
+présente Convention.

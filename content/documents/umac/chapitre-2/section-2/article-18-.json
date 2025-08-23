@@ -1,0 +1,15 @@
+{
+  "id": "article-18-",
+  "title": "Article 18 :",
+  "numero": "18 ",
+  "document": "umac",
+  "path": [
+    "chapitre-2",
+    "section-2"
+  ],
+  "navigation": {
+    "parent": "section-2",
+    "previous": "article-17-",
+    "next": "article-19-"
+  }
+}

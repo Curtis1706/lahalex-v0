@@ -1,0 +1,14 @@
+{
+  "id": "article-234-",
+  "title": "Article 234 :",
+  "numero": "234 ",
+  "document": "acte-uniforme-ohada-2010",
+  "path": [
+    "livre-8"
+  ],
+  "navigation": {
+    "parent": "livre-8",
+    "previous": "article-233-",
+    "next": "article-235-"
+  }
+}

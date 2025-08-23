@@ -1,0 +1,16 @@
+{
+  "id": "article-27-",
+  "title": "Article 27 :",
+  "numero": "27 ",
+  "document": "acte-uniforme-ohada-2010",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-4"
+  ],
+  "navigation": {
+    "parent": "chapitre-4",
+    "previous": "article-26-",
+    "next": "article-28-"
+  }
+}

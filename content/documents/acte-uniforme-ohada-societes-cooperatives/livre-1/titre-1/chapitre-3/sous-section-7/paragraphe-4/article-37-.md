@@ -1,0 +1,2 @@
+Les apports en nature sont réalisés par le transfert des droits réels ou personnels cor- respondant aux biens apportés et par la mise à la disposition effective de la société des biens sur lesquels portent ces droits.
+Les apports en nature doivent être libérés intégralement lors de la constitution de la société coopérative ou en cours de vie sociale, par tout coopérateur qui s’y engage.

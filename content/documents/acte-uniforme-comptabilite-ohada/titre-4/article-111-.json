@@ -1,0 +1,14 @@
+{
+  "id": "article-111-",
+  "title": "Article 111-1",
+  "numero": "111-",
+  "document": "acte-uniforme-comptabilite-ohada",
+  "path": [
+    "titre-4"
+  ],
+  "navigation": {
+    "parent": "titre-4",
+    "previous": "article-111-",
+    "next": "article-112-"
+  }
+}

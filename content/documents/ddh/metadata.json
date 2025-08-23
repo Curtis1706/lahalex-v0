@@ -1,0 +1,273 @@
+{
+  "id": "ddh",
+  "title": "Déclaration universelle des droits de l'homme",
+  "type": "conventions-internationales",
+  "description": "La Déclaration universelle des droits de l'homme, adoptée par l'Assemblée générale des Nations Unies en 1948, énonce les droits fondamentaux et les libertés auxquels tous les êtres humains doivent pouvoir prétendre.",
+  "structure": {
+    "sections": [
+      {
+        "id": "article-1-",
+        "title": "Article 1 :",
+        "type": "article",
+        "level": 1,
+        "order": 0,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-2-",
+        "title": "Article 2 :",
+        "type": "article",
+        "level": 1,
+        "order": 1,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-3-",
+        "title": "Article 3 :",
+        "type": "article",
+        "level": 1,
+        "order": 2,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-4-",
+        "title": "Article 4 :",
+        "type": "article",
+        "level": 1,
+        "order": 3,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-5-",
+        "title": "Article 5 :",
+        "type": "article",
+        "level": 1,
+        "order": 4,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-6-",
+        "title": "Article 6 :",
+        "type": "article",
+        "level": 1,
+        "order": 5,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-7-",
+        "title": "Article 7 :",
+        "type": "article",
+        "level": 1,
+        "order": 6,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-8-",
+        "title": "Article 8 :",
+        "type": "article",
+        "level": 1,
+        "order": 7,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-9-",
+        "title": "Article 9 :",
+        "type": "article",
+        "level": 1,
+        "order": 8,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-10-",
+        "title": "Article 10 :",
+        "type": "article",
+        "level": 1,
+        "order": 9,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-11-",
+        "title": "Article 11 :",
+        "type": "article",
+        "level": 1,
+        "order": 10,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-13-",
+        "title": "Article 13 :",
+        "type": "article",
+        "level": 1,
+        "order": 11,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-14-",
+        "title": "Article 14 :",
+        "type": "article",
+        "level": 1,
+        "order": 12,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-15-",
+        "title": "Article 15 :",
+        "type": "article",
+        "level": 1,
+        "order": 13,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-16-",
+        "title": "Article 16 :",
+        "type": "article",
+        "level": 1,
+        "order": 14,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-17-",
+        "title": "Article 17 :",
+        "type": "article",
+        "level": 1,
+        "order": 15,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-18-",
+        "title": "Article 18 :",
+        "type": "article",
+        "level": 1,
+        "order": 16,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-19-",
+        "title": "Article 19 :",
+        "type": "article",
+        "level": 1,
+        "order": 17,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-20-",
+        "title": "Article 20 :",
+        "type": "article",
+        "level": 1,
+        "order": 18,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-21-",
+        "title": "Article 21 :",
+        "type": "article",
+        "level": 1,
+        "order": 19,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-22-",
+        "title": "Article 22 :",
+        "type": "article",
+        "level": 1,
+        "order": 20,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-23-",
+        "title": "Article 23 :",
+        "type": "article",
+        "level": 1,
+        "order": 21,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-24-",
+        "title": "Article 24 :",
+        "type": "article",
+        "level": 1,
+        "order": 22,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-25-",
+        "title": "Article 25 :",
+        "type": "article",
+        "level": 1,
+        "order": 23,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-26-",
+        "title": "Article 26 :",
+        "type": "article",
+        "level": 1,
+        "order": 24,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-27-",
+        "title": "Article 27 :",
+        "type": "article",
+        "level": 1,
+        "order": 25,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-28-",
+        "title": "Article 28 :",
+        "type": "article",
+        "level": 1,
+        "order": 26,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-29-",
+        "title": "Article 29 :",
+        "type": "article",
+        "level": 1,
+        "order": 27,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-30-",
+        "title": "Article 30 :",
+        "type": "article",
+        "level": 1,
+        "order": 29,
+        "path": [],
+        "children": []
+      }
+    ],
+    "totalArticles": 29
+  },
+  "source": "internationale"
+}

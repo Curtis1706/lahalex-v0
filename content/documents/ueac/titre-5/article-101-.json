@@ -1,0 +1,14 @@
+{
+  "id": "article-101-",
+  "title": "Article 101 :",
+  "numero": "101 ",
+  "document": "ueac",
+  "path": [
+    "titre-5"
+  ],
+  "navigation": {
+    "parent": "titre-5",
+    "previous": "article-100-",
+    "next": "article-102-"
+  }
+}

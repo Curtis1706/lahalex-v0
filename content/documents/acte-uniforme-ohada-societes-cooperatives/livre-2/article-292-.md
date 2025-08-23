@@ -1,0 +1,1 @@
+La société coopérative avec conseil d’administration est administrée par un conseil d’administration composé de trois membres au moins et de douze membres au plus.

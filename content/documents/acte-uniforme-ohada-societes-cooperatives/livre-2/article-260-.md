@@ -1,0 +1,1 @@
+Les statuts organisent l’élection des membres de la commission de surveillance et déterminent la durée de leur mandant.

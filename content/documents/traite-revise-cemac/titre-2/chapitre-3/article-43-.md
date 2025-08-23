@@ -1,0 +1,2 @@
+Les actes additionnels, les règlements et les règlements cadres sont publiés au Bulletin Officiel de la Communauté. Ils entrent en vigueur à la date qu’ils fixent ou, à défaut, le 20 jour suivant leur publication. Ils sont également publiés aux Journaux Officiels des Etats membres.
+Les directives et les décisions sont notifiées à leurs destinataires et prennent effet le lendemain de cette notification.

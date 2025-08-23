@@ -1,0 +1,2 @@
+En vue de la réalisation des objectifs définis à l’article 4 b) de la présente Convention, l’Union Economique harmonise les législations fiscales qui régissent les activités économiques et financières.
+Les réglementations nécessaires à l’élaboration de la législation fiscale commune sont adoptées, sur proposition du Président de la Commission, par le Conseil des Ministres statuant à l’unanimité.

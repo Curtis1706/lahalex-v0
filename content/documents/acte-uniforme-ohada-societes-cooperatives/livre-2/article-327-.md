@@ -1,0 +1,3 @@
+Le président du conseil d’administration préside les réunions du conseil d’administration et les assemblées générales.
+Il veille à ce que le conseil d’administration assume pleinement ses obligations et ses respon- sabilités.
+A toute époque de l’année, le président du conseil d’administration opère les vérifications qu’il juge opportunes et peut se faire communiquer tous les documents qu’il estime utiles à l’accomplissement de sa mission.

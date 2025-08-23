@@ -1,0 +1,1 @@
+Le Gouverneur de la B.E.A.C. et les premiers responsables des Institutions Spécialisées de l’UMAC rapportent, chacun en ce qui le concerne, les affaires inscrites à l’ordre du jour des réunions du Comité Ministériel. Le Président de la Commission assiste à ces réunions.

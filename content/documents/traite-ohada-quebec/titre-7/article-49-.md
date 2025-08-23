@@ -1,0 +1,3 @@
+(Québec  2008)  Dans  les  condi- tions  déterminées  par  un  Règlement,  les fonctionnaires et employés de l’OHADA, les juges de la Cour commune de justice et d’arbitrage ainsi que les arbitres nommés ou  confirmés  par  cette  dernière  jouissent dans l’exercice de leurs fonctions des pri- vilèges et immunités diplomatiques.
+Les immunités et privilèges mentionnés ci- dessus peuvent être, selon les circonstan- ces, levés par le Conseil des Ministres.
+En outre, les juges ne peuvent être pour- suivis pour des actes accomplis en dehors de  l’exercice  de  leurs  fonctions  qu’avec l’autorisation de la Cour.

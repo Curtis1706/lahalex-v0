@@ -1,0 +1,1 @@
+Le Secrétariat Général de l'UDEAC est chargé du suivi de la présente Convention. Toute correspondance adressée au Président du Conseil des Chefs d'Etat sera transmise par son intermédiaire.

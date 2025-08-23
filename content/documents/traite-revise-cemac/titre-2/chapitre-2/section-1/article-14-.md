@@ -1,0 +1,1 @@
+La présidence de la Conférence est assurée par chaque Etat membre, successivement et selon l’ordre alphabétique des Etats, pour une année civile.

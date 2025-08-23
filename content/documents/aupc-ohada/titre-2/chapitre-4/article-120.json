@@ -1,0 +1,15 @@
+{
+  "id": "article-120",
+  "title": "Article 120:",
+  "numero": "120",
+  "document": "aupc-ohada",
+  "path": [
+    "titre-2",
+    "chapitre-4"
+  ],
+  "navigation": {
+    "parent": "chapitre-4",
+    "previous": "article-119",
+    "next": "article-121"
+  }
+}

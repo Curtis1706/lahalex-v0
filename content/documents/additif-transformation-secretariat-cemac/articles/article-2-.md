@@ -1,0 +1,1 @@
+La Commission de la CEMAC est composée des Commissaires désignés à raison d’un commissaire par Etat membre.

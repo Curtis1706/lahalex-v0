@@ -1,0 +1,1 @@
+Le Conseil des Ministres arrête, à la majorité simple et sur proposition du Président de la Commission, les règlements et les recommandations mentionnés à l’article précédent. Il délègue à la Commission, dans les mêmes conditions de majorité, tout pouvoir d'exécution nécessaire à la coordination des politiques des Etats membres en matière de tourisme.

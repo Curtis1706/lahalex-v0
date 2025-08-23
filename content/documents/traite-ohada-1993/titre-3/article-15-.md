@@ -1,0 +1,1 @@
+Les pourvois en cassation prévus l’article 14 ci-dessus sont portés devant la Cour Commune de Justice et d’Arbitrage, soit directement par l’une des parties l’instance, soit sur renvoi d’une juridiction nationale statuant en cassation saisie d’une affaire soulevant des questions relatives l’application des actes uniformes.

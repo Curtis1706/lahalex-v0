@@ -1,0 +1,15 @@
+{
+  "id": "article-44-",
+  "title": "Article 44 :",
+  "numero": "44 ",
+  "document": "acte-uniforme-ohada-2010",
+  "path": [
+    "livre-2",
+    "section-1"
+  ],
+  "navigation": {
+    "parent": "section-1",
+    "previous": "article-43-",
+    "next": "article-45-"
+  }
+}

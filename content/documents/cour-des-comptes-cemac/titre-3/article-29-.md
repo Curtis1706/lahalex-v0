@@ -1,0 +1,1 @@
+La Cour des Comptes est organisée en chambres dont les compétences et les règles de fonctionnement sont fixées par ses règles de procédure.

@@ -1,0 +1,15 @@
+{
+  "id": "article-31-",
+  "title": "Article 31 :",
+  "numero": "31 ",
+  "document": "umac",
+  "path": [
+    "chapitre-2",
+    "section-2"
+  ],
+  "navigation": {
+    "parent": "section-2",
+    "previous": "article-30-",
+    "next": "article-32-"
+  }
+}

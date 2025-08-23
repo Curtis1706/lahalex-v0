@@ -1,0 +1,17 @@
+{
+  "id": "article-26-",
+  "title": "Article 26 :",
+  "numero": "26 ",
+  "document": "acte-uniforme-ohada-societes-cooperatives",
+  "path": [
+    "livre-1",
+    "titre-1",
+    "chapitre-3",
+    "sous-section-6"
+  ],
+  "navigation": {
+    "parent": "sous-section-6",
+    "previous": "article-25-",
+    "next": "article-27-"
+  }
+}

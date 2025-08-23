@@ -1,0 +1,2 @@
+Sans préjudice de la responsabilité éventuelle de la société coopérative, chaque di- rigeant social est responsable individuellement envers les tiers des fautes qu’il commet dans l’exercice de ses fonctions.
+Si plusieurs dirigeants sociaux ont participé aux mêmes faits, leur responsabilité est solidaire à l’égard des tiers ou des coopérateurs. Toutefois, dans les rapports entre eux, la juridiction compétente détermine la part contributive de chacun dans la réparation du dommage.

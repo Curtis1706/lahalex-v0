@@ -9,7 +9,7 @@
         "id": "chapitre-1",
         "title": "CHAPITRE 1 :  Dispositions Générales",
         "type": "chapitre",
-        "level": 3,
+        "level": 2,
         "order": 0,
         "path": [
           "chapitre-1"
@@ -32,106 +32,139 @@
         "id": "article-1-",
         "title": "Article 1 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 544,
-        "path": [],
+        "path": [
+          "titre-1",
+          "article-1-"
+        ],
         "children": []
       },
       {
         "id": "article-2-",
         "title": "Article 2 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 545,
-        "path": [],
+        "path": [
+          "titre-1",
+          "article-2-"
+        ],
         "children": []
       },
       {
         "id": "article-3-",
         "title": "Article 3 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 546,
-        "path": [],
+        "path": [
+          "titre-1",
+          "article-3-"
+        ],
         "children": []
       },
       {
         "id": "article-4-",
         "title": "Article 4 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 547,
-        "path": [],
+        "path": [
+          "titre-1",
+          "article-4-"
+        ],
         "children": []
       },
       {
         "id": "article-5-",
         "title": "Article 5 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 548,
-        "path": [],
+        "path": [
+          "titre-1",
+          "article-5-"
+        ],
         "children": []
       },
       {
         "id": "article-6-",
         "title": "Article 6 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 549,
-        "path": [],
+        "path": [
+          "titre-1",
+          "article-6-"
+        ],
         "children": []
       },
       {
         "id": "article-7-",
         "title": "Article 7 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 550,
-        "path": [],
+        "path": [
+          "titre-1",
+          "article-7-"
+        ],
         "children": []
       },
       {
         "id": "article-8-",
         "title": "Article 8 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 552,
-        "path": [],
+        "path": [
+          "titre-1",
+          "article-8-"
+        ],
         "children": []
       },
       {
         "id": "article-9-",
         "title": "Article 9 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 539,
-        "path": [],
+        "path": [
+          "titre-1",
+          "article-9-"
+        ],
         "children": []
       },
       {
         "id": "article-10-",
         "title": "Article 10 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 540,
-        "path": [],
+        "path": [
+          "titre-1",
+          "article-10-"
+        ],
         "children": []
       },
       {
         "id": "article-11-",
         "title": "Article 11 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 541,
-        "path": [],
+        "path": [
+          "titre-1",
+          "article-11-"
+        ],
         "children": []
       },
       {
         "id": "chapitre-2",
         "title": "CHAPITRE 2 : Des BLessés et Des malades",
         "type": "chapitre",
-        "level": 3,
+        "level": 2,
         "order": 12,
         "path": [
           "chapitre-2"
@@ -150,70 +183,91 @@
         "id": "article-12-",
         "title": "Article 12 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 542,
-        "path": [],
+        "path": [
+          "titre-2",
+          "article-12-"
+        ],
         "children": []
       },
       {
         "id": "article-13-",
         "title": "Article 13 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 543,
-        "path": [],
+        "path": [
+          "titre-2",
+          "article-13-"
+        ],
         "children": []
       },
       {
         "id": "article-14-",
         "title": "Article 14 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 365,
-        "path": [],
+        "path": [
+          "titre-2",
+          "article-14-"
+        ],
         "children": []
       },
       {
         "id": "article-15-",
         "title": "Article 15 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 366,
-        "path": [],
+        "path": [
+          "titre-2",
+          "article-15-"
+        ],
         "children": []
       },
       {
         "id": "article-16-",
         "title": "Article 16 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 367,
-        "path": [],
+        "path": [
+          "titre-2",
+          "article-16-"
+        ],
         "children": []
       },
       {
         "id": "article-17-",
         "title": "Article 17 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 368,
-        "path": [],
+        "path": [
+          "chapitre-2",
+          "article-17-"
+        ],
         "children": []
       },
       {
         "id": "article-18-",
         "title": "Article 18 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 369,
-        "path": [],
+        "path": [
+          "chapitre-2",
+          "article-18-"
+        ],
         "children": []
       },
       {
         "id": "chapitre-3",
         "title": "CHAPITRE 3 : Des formatiosn et des établissements sanitaires",
         "type": "chapitre",
-        "level": 3,
+        "level": 2,
         "order": 20,
         "path": [
           "chapitre-3"
@@ -230,52 +284,67 @@
         "id": "article-19-",
         "title": "Article 19 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 370,
-        "path": [],
+        "path": [
+          "chapitre-3",
+          "article-19-"
+        ],
         "children": []
       },
       {
         "id": "article-20-",
         "title": "Article 20 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 371,
-        "path": [],
+        "path": [
+          "chapitre-3",
+          "article-20-"
+        ],
         "children": []
       },
       {
         "id": "article-21-",
         "title": "Article 21 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 372,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-21-"
+        ],
         "children": []
       },
       {
         "id": "article-22-",
         "title": "Article 22 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 373,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-22-"
+        ],
         "children": []
       },
       {
         "id": "article-23-",
         "title": "Article 23 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 374,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-23-"
+        ],
         "children": []
       },
       {
         "id": "chapitre-4",
         "title": "CHAPITRE 4  : Du personnel",
         "type": "chapitre",
-        "level": 3,
+        "level": 2,
         "order": 26,
         "path": [
           "chapitre-4"
@@ -296,88 +365,115 @@
         "id": "article-24-",
         "title": "Article 24 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 375,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-24-"
+        ],
         "children": []
       },
       {
         "id": "article-25-",
         "title": "Article 25 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 376,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-25-"
+        ],
         "children": []
       },
       {
         "id": "article-26-",
         "title": "Article 26 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 377,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-26-"
+        ],
         "children": []
       },
       {
         "id": "article-27-",
         "title": "Article 27 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 380,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-27-"
+        ],
         "children": []
       },
       {
         "id": "article-28-",
         "title": "Article 28 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 381,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-28-"
+        ],
         "children": []
       },
       {
         "id": "article-29-",
         "title": "Article 29 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 382,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-29-"
+        ],
         "children": []
       },
       {
         "id": "article-30-",
         "title": "Article 30 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 383,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-30-"
+        ],
         "children": []
       },
       {
         "id": "article-31-",
         "title": "Article 31 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 384,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-31-"
+        ],
         "children": []
       },
       {
         "id": "article-32-",
         "title": "Article 32 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 385,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-32-"
+        ],
         "children": []
       },
       {
         "id": "chapitre-5",
         "title": "CHAPITRE 5 : Des Bâtiments et du matériel",
         "type": "chapitre",
-        "level": 3,
+        "level": 2,
         "order": 36,
         "path": [
           "chapitre-5"
@@ -391,25 +487,31 @@
         "id": "article-33-",
         "title": "Article 33 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 386,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-33-"
+        ],
         "children": []
       },
       {
         "id": "article-34-",
         "title": "Article 34 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 387,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-34-"
+        ],
         "children": []
       },
       {
         "id": "chapitre-6",
         "title": "CHAPITRE 6 : Des transports sanitaires",
         "type": "chapitre",
-        "level": 3,
+        "level": 2,
         "order": 39,
         "path": [
           "chapitre-6"
@@ -424,34 +526,43 @@
         "id": "article-35-",
         "title": "Article 35 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 389,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-35-"
+        ],
         "children": []
       },
       {
         "id": "article-36-",
         "title": "Article 36 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 390,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-36-"
+        ],
         "children": []
       },
       {
         "id": "article-37-",
         "title": "Article 37 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 391,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-37-"
+        ],
         "children": []
       },
       {
         "id": "chapitre-7",
         "title": "CHAPITRE 7 : Du signe Distinctif",
         "type": "chapitre",
-        "level": 3,
+        "level": 2,
         "order": 43,
         "path": [
           "chapitre-7"
@@ -470,28 +581,35 @@
         "id": "article-38-",
         "title": "Article 38 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 392,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-38-"
+        ],
         "children": []
       },
       {
         "id": "article-39-",
         "title": "Article 39 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 393,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-39-"
+        ],
         "children": []
       },
       {
         "id": "article-40-",
         "title": "Article 40 :",
         "type": "article",
-        "level": 2,
+        "level": 3,
         "order": 206,
         "path": [
-          "titre-3"
+          "titre-3",
+          "article-40-"
         ],
         "children": []
       },
@@ -499,43 +617,55 @@
         "id": "article-41-",
         "title": "Article 41 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 394,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-41-"
+        ],
         "children": []
       },
       {
         "id": "article-42-",
         "title": "Article 42 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 395,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-42-"
+        ],
         "children": []
       },
       {
         "id": "article-43-",
         "title": "Article 43 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 396,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-43-"
+        ],
         "children": []
       },
       {
         "id": "article-44-",
         "title": "Article 44 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 397,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-44-"
+        ],
         "children": []
       },
       {
         "id": "chapitre-8",
         "title": "CHAPITRE 8 : De L’exécution De La conVention",
         "type": "chapitre",
-        "level": 3,
+        "level": 2,
         "order": 51,
         "path": [
           "chapitre-8"
@@ -551,43 +681,55 @@
         "id": "article-45-",
         "title": "Article 45 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 398,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-45-"
+        ],
         "children": []
       },
       {
         "id": "article-46-",
         "title": "Article 46 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 399,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-46-"
+        ],
         "children": []
       },
       {
         "id": "article-47-",
         "title": "Article 47 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 401,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-47-"
+        ],
         "children": []
       },
       {
         "id": "article-48-",
         "title": "Article 48 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 402,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-48-"
+        ],
         "children": []
       },
       {
         "id": "chapitre-9",
         "title": "CHAPITRE 9 :  De La répression des.abus et des infractions",
         "type": "chapitre",
-        "level": 3,
+        "level": 2,
         "order": 56,
         "path": [
           "chapitre-9"
@@ -628,151 +770,199 @@
         "id": "article-49-",
         "title": "Article 49 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 403,
-        "path": [],
+        "path": [
+          "chapitre-9",
+          "article-49-"
+        ],
         "children": []
       },
       {
         "id": "article-50-",
         "title": "Article 50 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 404,
-        "path": [],
+        "path": [
+          "chapitre-9",
+          "article-50-"
+        ],
         "children": []
       },
       {
         "id": "article-51-",
         "title": "Article 51 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 405,
-        "path": [],
+        "path": [
+          "chapitre-9",
+          "article-51-"
+        ],
         "children": []
       },
       {
         "id": "article-52-",
         "title": "Article 52 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 406,
-        "path": [],
+        "path": [
+          "chapitre-9",
+          "article-52-"
+        ],
         "children": []
       },
       {
         "id": "article-53-",
         "title": "Article 53 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 407,
-        "path": [],
+        "path": [
+          "chapitre-9",
+          "article-53-"
+        ],
         "children": []
       },
       {
         "id": "article-54-",
         "title": "Article 54 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 408,
-        "path": [],
+        "path": [
+          "chapitre-9",
+          "article-54-"
+        ],
         "children": []
       },
       {
         "id": "article-55-",
         "title": "Article 55 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 409,
-        "path": [],
+        "path": [
+          "chapitre-9",
+          "article-55-"
+        ],
         "children": []
       },
       {
         "id": "article-56-",
         "title": "Article 56 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 410,
-        "path": [],
+        "path": [
+          "chapitre-9",
+          "article-56-"
+        ],
         "children": []
       },
       {
         "id": "article-57-",
         "title": "Article 57 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 411,
-        "path": [],
+        "path": [
+          "chapitre-9",
+          "article-57-"
+        ],
         "children": []
       },
       {
         "id": "article-58-",
         "title": "Article 58 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 412,
-        "path": [],
+        "path": [
+          "chapitre-9",
+          "article-58-"
+        ],
         "children": []
       },
       {
         "id": "article-59-",
         "title": "Article 59 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 413,
-        "path": [],
+        "path": [
+          "chapitre-9",
+          "article-59-"
+        ],
         "children": []
       },
       {
         "id": "article-60-",
         "title": "Article 60 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 414,
-        "path": [],
+        "path": [
+          "chapitre-9",
+          "article-60-"
+        ],
         "children": []
       },
       {
         "id": "article-61-",
         "title": "Article 61 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 415,
-        "path": [],
+        "path": [
+          "chapitre-9",
+          "article-61-"
+        ],
         "children": []
       },
       {
         "id": "article-62-",
         "title": "Article 62 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 416,
-        "path": [],
+        "path": [
+          "chapitre-9",
+          "article-62-"
+        ],
         "children": []
       },
       {
         "id": "article-63-",
         "title": "Article 63 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 417,
-        "path": [],
+        "path": [
+          "chapitre-9",
+          "article-63-"
+        ],
         "children": []
       },
       {
         "id": "article-64-",
         "title": "Article 64 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 418,
-        "path": [],
+        "path": [
+          "chapitre-9",
+          "article-64-"
+        ],
         "children": []
       },
       {
         "id": "titre-1",
         "title": "TITRE 1 DiSpoSitionS.GénéraLeS",
         "type": "titre",
-        "level": 2,
+        "level": 1,
         "order": 156,
         "path": [
           "titre-1"
@@ -795,7 +985,7 @@
         "id": "titre-2",
         "title": "TITRE 2 protection.GénéraLe.DeS.priSonnierS.De.Guerre",
         "type": "titre",
-        "level": 2,
+        "level": 1,
         "order": 168,
         "path": [
           "titre-2"
@@ -812,7 +1002,7 @@
         "id": "titre-3",
         "title": "TITRE 3 : CAPTIVITE",
         "type": "titre",
-        "level": 2,
+        "level": 1,
         "order": 174,
         "path": [
           "titre-3"
@@ -964,7 +1154,7 @@
         "id": "article-65-",
         "title": "Article 65 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 419,
         "path": [],
         "children": []
@@ -973,7 +1163,7 @@
         "id": "article-66-",
         "title": "Article 66 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 420,
         "path": [],
         "children": []
@@ -982,7 +1172,7 @@
         "id": "article-67-",
         "title": "Article 67 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 421,
         "path": [],
         "children": []
@@ -991,7 +1181,7 @@
         "id": "article-68-",
         "title": "Article 68 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 422,
         "path": [],
         "children": []
@@ -1022,7 +1212,7 @@
         "id": "article-69-",
         "title": "Article 69 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 423,
         "path": [],
         "children": []
@@ -1031,7 +1221,7 @@
         "id": "article-70-",
         "title": "Article 70 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 424,
         "path": [],
         "children": []
@@ -1040,7 +1230,7 @@
         "id": "article-71-",
         "title": "Article 71 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 425,
         "path": [],
         "children": []
@@ -1049,7 +1239,7 @@
         "id": "article-72-",
         "title": "Article 72 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 426,
         "path": [],
         "children": []
@@ -1058,7 +1248,7 @@
         "id": "article-73-",
         "title": "Article 73 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 427,
         "path": [],
         "children": []
@@ -1067,7 +1257,7 @@
         "id": "article-74-",
         "title": "Article 74 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 428,
         "path": [],
         "children": []
@@ -1076,7 +1266,7 @@
         "id": "article-75-",
         "title": "Article 75 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 429,
         "path": [],
         "children": []
@@ -1085,7 +1275,7 @@
         "id": "article-76-",
         "title": "Article 76 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 430,
         "path": [],
         "children": []
@@ -1094,7 +1284,7 @@
         "id": "article-77-",
         "title": "Article 77 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 431,
         "path": [],
         "children": []
@@ -1115,286 +1305,379 @@
         "id": "article-78-",
         "title": "Article 78 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 432,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-78-"
+        ],
         "children": []
       },
       {
         "id": "article-79-",
         "title": "Article 79 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 435,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-79-"
+        ],
         "children": []
       },
       {
         "id": "article-80-",
         "title": "Article 80 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 436,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-80-"
+        ],
         "children": []
       },
       {
         "id": "article-81-",
         "title": "Article 81 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 437,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-81-"
+        ],
         "children": []
       },
       {
         "id": "article-82-",
         "title": "Article 82 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 438,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-82-"
+        ],
         "children": []
       },
       {
         "id": "article-83-",
         "title": "Article 83 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 440,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-83-"
+        ],
         "children": []
       },
       {
         "id": "article-84-",
         "title": "Article 84 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 441,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-84-"
+        ],
         "children": []
       },
       {
         "id": "article-85-",
         "title": "Article 85 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 442,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-85-"
+        ],
         "children": []
       },
       {
         "id": "article-86-",
         "title": "Article 86 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 443,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-86-"
+        ],
         "children": []
       },
       {
         "id": "article-87-",
         "title": "Article 87 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 444,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-87-"
+        ],
         "children": []
       },
       {
         "id": "article-88-",
         "title": "Article 88 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 445,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-88-"
+        ],
         "children": []
       },
       {
         "id": "article-89-",
         "title": "Article 89 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 447,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-89-"
+        ],
         "children": []
       },
       {
         "id": "article-90-",
         "title": "Article 90 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 448,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-90-"
+        ],
         "children": []
       },
       {
         "id": "article-91-",
         "title": "Article 91 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 450,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-91-"
+        ],
         "children": []
       },
       {
         "id": "article-92-",
         "title": "Article 92 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 451,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-92-"
+        ],
         "children": []
       },
       {
         "id": "article-93-",
         "title": "Article 93 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 453,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-93-"
+        ],
         "children": []
       },
       {
         "id": "article-94-",
         "title": "Article 94 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 454,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-94-"
+        ],
         "children": []
       },
       {
         "id": "article-95-",
         "title": "Article 95 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 455,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-95-"
+        ],
         "children": []
       },
       {
         "id": "article-96-",
         "title": "Article 96 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 456,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-96-"
+        ],
         "children": []
       },
       {
         "id": "article-97-",
         "title": "Article 97 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 458,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-97-"
+        ],
         "children": []
       },
       {
         "id": "article-98-",
         "title": "Article 98 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 459,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-98-"
+        ],
         "children": []
       },
       {
         "id": "article-99-",
         "title": "Article 99 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 461,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-99-"
+        ],
         "children": []
       },
       {
         "id": "article-100-",
         "title": "Article 100 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 462,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-100-"
+        ],
         "children": []
       },
       {
         "id": "article-101-",
         "title": "Article 101 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 463,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-101-"
+        ],
         "children": []
       },
       {
         "id": "article-102-",
         "title": "Article 102 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 464,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-102-"
+        ],
         "children": []
       },
       {
         "id": "article-103-",
         "title": "Article 103 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 465,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-103-"
+        ],
         "children": []
       },
       {
         "id": "article-104-",
         "title": "Article 104 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 466,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-104-"
+        ],
         "children": []
       },
       {
         "id": "article-105-",
         "title": "Article 105 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 468,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-105-"
+        ],
         "children": []
       },
       {
         "id": "article-106-",
         "title": "Article 106 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 469,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-106-"
+        ],
         "children": []
       },
       {
         "id": "article-107-",
         "title": "Article 107 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 470,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-107-"
+        ],
         "children": []
       },
       {
         "id": "article-108-",
         "title": "Article 108 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 471,
-        "path": [],
+        "path": [
+          "titre-3",
+          "article-108-"
+        ],
         "children": []
       },
       {
         "id": "titre-4",
         "title": "TITRE 4 : Fin De La captiVité",
         "type": "titre",
-        "level": 2,
+        "level": 1,
         "order": 284,
         "path": [
           "titre-4"
@@ -1419,124 +1702,163 @@
         "id": "article-109-",
         "title": "Article 109 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 472,
-        "path": [],
+        "path": [
+          "titre-4",
+          "article-109-"
+        ],
         "children": []
       },
       {
         "id": "article-110-",
         "title": "Article 110 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 473,
-        "path": [],
+        "path": [
+          "titre-4",
+          "article-110-"
+        ],
         "children": []
       },
       {
         "id": "article-111-",
         "title": "Article 111 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 474,
-        "path": [],
+        "path": [
+          "titre-4",
+          "article-111-"
+        ],
         "children": []
       },
       {
         "id": "article-112-",
         "title": "Article 112 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 475,
-        "path": [],
+        "path": [
+          "titre-4",
+          "article-112-"
+        ],
         "children": []
       },
       {
         "id": "article-113-",
         "title": "Article 113 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 476,
-        "path": [],
+        "path": [
+          "titre-4",
+          "article-113-"
+        ],
         "children": []
       },
       {
         "id": "article-114-",
         "title": "Article 114 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 477,
-        "path": [],
+        "path": [
+          "titre-4",
+          "article-114-"
+        ],
         "children": []
       },
       {
         "id": "article-115-",
         "title": "Article 115 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 478,
-        "path": [],
+        "path": [
+          "titre-4",
+          "article-115-"
+        ],
         "children": []
       },
       {
         "id": "article-116-",
         "title": "Article 116 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 479,
-        "path": [],
+        "path": [
+          "titre-4",
+          "article-116-"
+        ],
         "children": []
       },
       {
         "id": "article-117-",
         "title": "Article 117 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 481,
-        "path": [],
+        "path": [
+          "titre-4",
+          "article-117-"
+        ],
         "children": []
       },
       {
         "id": "article-118-",
         "title": "Article 118 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 482,
-        "path": [],
+        "path": [
+          "titre-4",
+          "article-118-"
+        ],
         "children": []
       },
       {
         "id": "article-119-",
         "title": "Article 119 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 483,
-        "path": [],
+        "path": [
+          "titre-4",
+          "article-119-"
+        ],
         "children": []
       },
       {
         "id": "article-120-",
         "title": "Article 120 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 484,
-        "path": [],
+        "path": [
+          "titre-4",
+          "article-120-"
+        ],
         "children": []
       },
       {
         "id": "article-121-",
         "title": "Article 121 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 485,
-        "path": [],
+        "path": [
+          "titre-4",
+          "article-121-"
+        ],
         "children": []
       },
       {
         "id": "titre-5",
         "title": "TITRE 5 Bureau.De.renSeiGnementS.et.SociétéS.De.SecourS. concernant.LeS.priSonnierS.De.Guerre",
         "type": "titre",
-        "level": 2,
+        "level": 1,
         "order": 301,
         "path": [
           "titre-5"
@@ -1552,43 +1874,55 @@
         "id": "article-122-",
         "title": "Article 122 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 486,
-        "path": [],
+        "path": [
+          "titre-5",
+          "article-122-"
+        ],
         "children": []
       },
       {
         "id": "article-123-",
         "title": "Article 123 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 487,
-        "path": [],
+        "path": [
+          "titre-5",
+          "article-123-"
+        ],
         "children": []
       },
       {
         "id": "article-124-",
         "title": "Article 124 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 488,
-        "path": [],
+        "path": [
+          "titre-5",
+          "article-124-"
+        ],
         "children": []
       },
       {
         "id": "article-125-",
         "title": "Article 125 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 489,
-        "path": [],
+        "path": [
+          "titre-5",
+          "article-125-"
+        ],
         "children": []
       },
       {
         "id": "titre-6",
         "title": "TITRE 6 : Exécution De La conVention",
         "type": "titre",
-        "level": 2,
+        "level": 1,
         "order": 306,
         "path": [
           "titre-6"
@@ -1632,19 +1966,23 @@
         "id": "article-126-",
         "title": "Article 126 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 490,
-        "path": [],
+        "path": [
+          "titre-6",
+          "article-126-"
+        ],
         "children": []
       },
       {
         "id": "article-127-",
         "title": "Article 127 :",
         "type": "article",
-        "level": 2,
+        "level": 3,
         "order": 492,
         "path": [
-          "chapitre-10"
+          "titre-6",
+          "article-127-"
         ],
         "children": []
       },
@@ -1652,10 +1990,11 @@
         "id": "article-128-",
         "title": "Article 128 :",
         "type": "article",
-        "level": 2,
+        "level": 3,
         "order": 493,
         "path": [
-          "chapitre-10"
+          "titre-6",
+          "article-128-"
         ],
         "children": []
       },
@@ -1663,10 +2002,11 @@
         "id": "article-129-",
         "title": "Article 129 :",
         "type": "article",
-        "level": 2,
+        "level": 3,
         "order": 495,
         "path": [
-          "chapitre-11"
+          "titre-6",
+          "article-129-"
         ],
         "children": []
       },
@@ -1674,10 +2014,11 @@
         "id": "article-130-",
         "title": "Article 130 :",
         "type": "article",
-        "level": 2,
+        "level": 3,
         "order": 496,
         "path": [
-          "chapitre-11"
+          "titre-6",
+          "article-130-"
         ],
         "children": []
       },
@@ -1685,10 +2026,11 @@
         "id": "article-131-",
         "title": "Article 131 :",
         "type": "article",
-        "level": 2,
+        "level": 3,
         "order": 497,
         "path": [
-          "chapitre-11"
+          "titre-6",
+          "article-131-"
         ],
         "children": []
       },
@@ -1696,10 +2038,11 @@
         "id": "article-132-",
         "title": "Article 132 :",
         "type": "article",
-        "level": 2,
+        "level": 3,
         "order": 499,
         "path": [
-          "chapitre-12"
+          "titre-6",
+          "article-132-"
         ],
         "children": []
       },
@@ -1707,10 +2050,11 @@
         "id": "article-133-",
         "title": "Article 133 :",
         "type": "article",
-        "level": 2,
+        "level": 3,
         "order": 500,
         "path": [
-          "chapitre-12"
+          "titre-6",
+          "article-133-"
         ],
         "children": []
       },
@@ -1718,10 +2062,11 @@
         "id": "article-134-",
         "title": "Article 134 :",
         "type": "article",
-        "level": 2,
+        "level": 3,
         "order": 501,
         "path": [
-          "chapitre-12"
+          "titre-6",
+          "article-134-"
         ],
         "children": []
       },
@@ -1729,10 +2074,11 @@
         "id": "article-135-",
         "title": "Article 135 :",
         "type": "article",
-        "level": 2,
+        "level": 3,
         "order": 502,
         "path": [
-          "chapitre-12"
+          "titre-6",
+          "article-135-"
         ],
         "children": []
       },
@@ -1740,10 +2086,11 @@
         "id": "article-136-",
         "title": "Article 136 :",
         "type": "article",
-        "level": 2,
+        "level": 3,
         "order": 504,
         "path": [
-          "chapitre-12"
+          "titre-6",
+          "article-136-"
         ],
         "children": []
       },
@@ -1751,10 +2098,11 @@
         "id": "article-137-",
         "title": "Article 137 :",
         "type": "article",
-        "level": 2,
+        "level": 3,
         "order": 505,
         "path": [
-          "chapitre-12"
+          "titre-6",
+          "article-137-"
         ],
         "children": []
       },
@@ -1762,10 +2110,11 @@
         "id": "article-138-",
         "title": "Article 138 :",
         "type": "article",
-        "level": 2,
+        "level": 3,
         "order": 506,
         "path": [
-          "chapitre-12"
+          "titre-6",
+          "article-138-"
         ],
         "children": []
       },
@@ -1773,10 +2122,11 @@
         "id": "article-139-",
         "title": "Article 139 :",
         "type": "article",
-        "level": 2,
+        "level": 3,
         "order": 507,
         "path": [
-          "chapitre-12"
+          "titre-6",
+          "article-139-"
         ],
         "children": []
       },
@@ -1784,10 +2134,11 @@
         "id": "article-140-",
         "title": "Article 140 :",
         "type": "article",
-        "level": 2,
+        "level": 3,
         "order": 508,
         "path": [
-          "chapitre-12"
+          "titre-6",
+          "article-140-"
         ],
         "children": []
       },
@@ -1795,10 +2146,11 @@
         "id": "article-141-",
         "title": "Article 141 :",
         "type": "article",
-        "level": 2,
+        "level": 3,
         "order": 509,
         "path": [
-          "chapitre-12"
+          "titre-6",
+          "article-141-"
         ],
         "children": []
       },
@@ -1806,25 +2158,31 @@
         "id": "article-142-",
         "title": "Article 142 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 512,
-        "path": [],
+        "path": [
+          "titre-6",
+          "article-142-"
+        ],
         "children": []
       },
       {
         "id": "article-143-",
         "title": "Article 143 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 513,
-        "path": [],
+        "path": [
+          "titre-6",
+          "article-143-"
+        ],
         "children": []
       },
       {
         "id": "chapitre-10",
         "title": "CHAPITRE 10 : transfert.des.internés",
         "type": "chapitre",
-        "level": 3,
+        "level": 2,
         "order": 491,
         "path": [
           "chapitre-10"
@@ -1838,7 +2196,7 @@
         "id": "chapitre-11",
         "title": "CHAPITRE 11 : Décès",
         "type": "chapitre",
-        "level": 3,
+        "level": 2,
         "order": 494,
         "path": [
           "chapitre-11"
@@ -1853,7 +2211,7 @@
         "id": "chapitre-12",
         "title": "CHAPITRE 12 : Libération, rapatriement et hospitalisation en pays neutre",
         "type": "chapitre",
-        "level": 3,
+        "level": 2,
         "order": 498,
         "path": [
           "chapitre-12"
@@ -1875,7 +2233,7 @@
         "id": "article-144-",
         "title": "Article 144 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 514,
         "path": [],
         "children": []
@@ -1884,7 +2242,7 @@
         "id": "article-145-",
         "title": "Article 145 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 515,
         "path": [],
         "children": []
@@ -1893,7 +2251,7 @@
         "id": "article-146-",
         "title": "Article 146 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 516,
         "path": [],
         "children": []
@@ -1902,7 +2260,7 @@
         "id": "article-147-",
         "title": "Article 147 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 517,
         "path": [],
         "children": []
@@ -1911,7 +2269,7 @@
         "id": "article-148-",
         "title": "Article 148 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 518,
         "path": [],
         "children": []
@@ -1920,7 +2278,7 @@
         "id": "article-149-",
         "title": "Article 149 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 519,
         "path": [],
         "children": []
@@ -1929,7 +2287,7 @@
         "id": "article-150-",
         "title": "Article 150 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 521,
         "path": [],
         "children": []
@@ -1938,7 +2296,7 @@
         "id": "article-151-",
         "title": "Article 151 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 522,
         "path": [],
         "children": []
@@ -1947,7 +2305,7 @@
         "id": "article-152-",
         "title": "Article 152 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 523,
         "path": [],
         "children": []
@@ -1956,7 +2314,7 @@
         "id": "article-153-",
         "title": "Article 153 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 524,
         "path": [],
         "children": []
@@ -1965,7 +2323,7 @@
         "id": "article-154-",
         "title": "Article 154 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 525,
         "path": [],
         "children": []
@@ -1974,7 +2332,7 @@
         "id": "article-155-",
         "title": "Article 155 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 526,
         "path": [],
         "children": []
@@ -1983,7 +2341,7 @@
         "id": "article-156-",
         "title": "Article 156 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 527,
         "path": [],
         "children": []
@@ -1992,7 +2350,7 @@
         "id": "article-157-",
         "title": "Article 157 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 528,
         "path": [],
         "children": []
@@ -2001,7 +2359,7 @@
         "id": "article-158-",
         "title": "Article 158 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 529,
         "path": [],
         "children": []
@@ -2010,7 +2368,7 @@
         "id": "article-159-",
         "title": "Article 159 :",
         "type": "article",
-        "level": 1,
+        "level": 3,
         "order": 530,
         "path": [],
         "children": []

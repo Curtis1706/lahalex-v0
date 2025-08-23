@@ -1,0 +1,2 @@
+La réalisation des t ches prévues au présent traité est assurée par une organisation dénommée Organisation pour l’Harmonisation en Afrique du Droit des Affaires (OHADA) comprenant un Conseil des Ministres et une Cour Commune de Justice et d’Arbitrage.
+Le Conseil des Ministres est assisté d’un Secrétariat Permanent auquel est rattachée une Ecole régionale supérieure de la Magistrature.

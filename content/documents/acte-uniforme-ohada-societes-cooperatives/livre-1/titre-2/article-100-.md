@@ -1,0 +1,2 @@
+La participation aux réunions de l’assemblée générale est personnelle.
+Toutefois, les coopérateurs empêchés peuvent voter par procuration sauf clauses contraires des statuts. Dans ce cas, les statuts de la société coopérative déterminent les modalités du vote par procuration dont notamment, le nombre de coopérateurs et/ou de voix qu’un mandataire peut représenter.

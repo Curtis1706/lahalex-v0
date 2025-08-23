@@ -1,0 +1,1 @@
+Le Président du Conseil des ministres arrŒte l’ordre du jour du Conseil sur la proposition du Secrétaire permanent.

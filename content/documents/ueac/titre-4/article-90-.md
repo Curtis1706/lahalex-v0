@@ -1,0 +1,2 @@
+Le Parlement Communautaire est chargé du contrôle démocratique des Organes et Institutions Spécialisées de la Communauté.
+Une Convention spécifique régit les attributions et le fonctionnement du Parlement Communautaire.

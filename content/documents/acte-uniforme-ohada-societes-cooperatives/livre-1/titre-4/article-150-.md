@@ -1,0 +1,1 @@
+Pour tous les cas non expressément prévus par la présente section, les dispositions du présent Acte uniforme et les principes qui régissent l’immatriculation de la société coopé- rative avec conseil d’administration s’appliquent à la fédération des sociétés coopératives.

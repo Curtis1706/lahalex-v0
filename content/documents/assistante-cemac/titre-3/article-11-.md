@@ -1,0 +1,3 @@
+Le Gouvernement de la République de Guinée Equatoriale assure au personnel mis à sa disposition en vertu de la présente Convention, les avantages en nature attachés à l'emploi définis dans la décision d'affectation ou de nomination.
+Le véhicule, le logement l'ameublement son, dans tous les cas, assurés au personnel en considération de l'emploi occupé, et de la situation de famille de l'intéressé.
+Le Gouvernement de la République de Guinée Equatoriale prend en charge les frais de déplacement du personnel lorsque ces déplacements sont effectués à l'intérieur de la République de Guinée Equatoriale ou à l'extérieur de cet Etat pour son compte.

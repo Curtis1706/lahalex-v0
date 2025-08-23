@@ -1,0 +1,1 @@
+Cette assistance porte sur les domaines d'activités actuellement couvertes par l'Union à savoir : la Douane , la fiscalité, l'Elevage et l'agriculture.

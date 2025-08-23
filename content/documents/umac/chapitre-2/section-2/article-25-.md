@@ -1,0 +1,1 @@
+La BEAC établit pour chaque Etat membre une situation distincte de l’émission monétaire et de ses contreparties.

@@ -1,0 +1,1 @@
+La société coopérative avec conseil d’administration est désignée par une dénomi- nation sociale qui doit être immédiatement précédée ou suivie, en caractères lisibles, de l’expression « Société Coopérative avec Conseil d’Administration » et du sigle « COOP- CA ».

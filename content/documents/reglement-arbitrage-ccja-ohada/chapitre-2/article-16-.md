@@ -1,0 +1,2 @@
+Règles applicables à la procédure
+Les règles applicables à la procédure devant l’arbitre sont celles qui résultent du présent règlement et, dans le silence de ce dernier, celles que les parties ou à défaut l’arbitre, déterminent, en se référant ou non à une loi interne de procédure applicable à l’arbitrage.

@@ -1,0 +1,2 @@
+Le Parlement Communautaire est institué par une convention séparée. Il légifère par voie de directives.
+Il est chargé du contrôle démocratique des Institutions, Organes et Institutions Spécialisées participant au processus décisionnel de la Communauté. Ses prérogatives et son fonctionnement sont définis par la Convention qui la régit et par son Règlement intérieur.

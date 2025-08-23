@@ -1,0 +1,1 @@
+L’Union Monétaire agit dans les limites des objectifs que le Traité de la CEMAC et la présente Convention lui assignent. Elle respecte l’identité nationale de ses Etats membres.

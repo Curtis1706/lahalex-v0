@@ -1,0 +1,14 @@
+{
+  "id": "article-2-",
+  "title": "Article 2 : Droit à la vie",
+  "numero": "2 ",
+  "document": "cedh",
+  "path": [
+    "titre-1"
+  ],
+  "navigation": {
+    "parent": "titre-1",
+    "previous": "article-1-",
+    "next": "article-3-"
+  }
+}

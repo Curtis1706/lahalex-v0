@@ -1,0 +1,1 @@
+Toutes personnes, quelle que soit leur nationalité, désirant exercer en société coopéra- tive une activité sur le territoire de l’un des Etats Parties, doivent, sauf dérogation expressé- ment prévue par le présent Acte uniforme, choisir l’une des formes de société coopérative qui convient à l’activité envisagée parmi celles prévues par le présent Acte uniforme.

@@ -1,4 +1,4 @@
 Mesures d’assistance humanitaire et de réponse aux catastrophes majeures
 1. Les Etats parties s’engagent à coopérer en cas de catastrophes majeures qui dépassent les capacités de gestion d’un des Etats membres afin de faciliter l’entrée dans les pays touchés du matériel humanitaire, voire militaire, et des produits destinés aux interventions et au relèvement rapide des personnes et des communautés affectées.
-1. 50’application du présent article sera conforme aux dispositions en vigueur au niveau régional, continental et international.
+1. Lcation du présent article sera conforme aux dispositions en vigueur au niveau régional, continental et international.
 1. La Communauté définit une politique d’assistance humanitaire et des réponses aux catastrophes naturelles et d’origine industrielle.

@@ -1,0 +1,2 @@
+Les fonctionnaires et autres agents de la Cour sont recrutés conformément aux dispositions du statut du personnel de la Communauté.
+Toutefois, pour le bon fonctionnement de la Cour, des fonctionnaires et agents contractuels de la Communauté peuvent être détachés auprès de la Cour et placés sous l'autorité du Président.
