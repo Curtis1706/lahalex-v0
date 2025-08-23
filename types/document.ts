@@ -1,7 +1,7 @@
 export interface DocumentMetadata {
   id: string
   title: string
-  type: 'constitution' | 'code' | 'loi' | 'decret' | 'other'
+  type: 'constitution' | 'code' | 'loi' | 'decret' | 'fiche-synthese' | 'other'
   description: string
   publishedDate?: string
   source?: string
@@ -16,7 +16,7 @@ export interface DocumentStructure {
 export interface DocumentSection {
   id: string
   title: string
-  type: 'livre' | 'partie' | 'titre' | 'chapitre' | 'section' | 'article'
+  type: 'livre' | 'partie' | 'titre' | 'chapitre' | 'section' | 'article' | 'section-synthese'
   level: number
   order: number
   parent?: string

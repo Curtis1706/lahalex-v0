@@ -35,9 +35,10 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   const { documentId, articlePath } = await params
   const articleId = articlePath[articlePath.length - 1]
   
-  const [document, article] = await Promise.all([
+  const [document, article, allArticles] = await Promise.all([
     DocumentManager.loadDocument(documentId),
-    DocumentManager.loadArticle(documentId, articleId)
+    DocumentManager.loadArticle(documentId, articleId),
+    DocumentManager.loadAllArticles(documentId)
   ])
 
   if (!document || !article) {
@@ -51,6 +52,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       document={document}
       article={article}
       processedContent={processedContent}
+      allArticles={allArticles}
     />
   )
 }

@@ -1,0 +1,2 @@
+**Que peut faire le tribunal ?**
+Même si les parties n’en font pas la demande, le juge peut accorder **un délai de deux mois** pour permettre la régularisation (article 247). Durant ce délai, la société peut corriger le vice.

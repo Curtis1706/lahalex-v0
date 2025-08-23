@@ -13,6 +13,14 @@ export default function DroitPrivePage() {
   const [searchKeywords, setSearchKeywords] = useState("")
   const [expandedSections, setExpandedSections] = useState<Set<string>>(new Set(["droit-prive", "droit-public"]))
 
+  // Fonction pour la recherche globale depuis le header
+  const handleSearchSubmit = async (query: string) => {
+    if (!query.trim()) return
+    
+    // Rediriger vers la page principale avec la recherche
+    window.location.href = `/?search=${encodeURIComponent(query)}`
+  }
+
   const toggleSection = (sectionId: string) => {
     const newExpanded = new Set(expandedSections)
     if (newExpanded.has(sectionId)) {
@@ -90,7 +98,11 @@ export default function DroitPrivePage() {
 
   return (
     <div className="min-h-screen bg-white">
-      <LahalexHeaderResponsive searchValue={searchValue} onSearchChange={setSearchValue} />
+      <LahalexHeaderResponsive 
+        searchValue={searchValue} 
+        onSearchChange={setSearchValue} 
+        onSearchSubmit={handleSearchSubmit}
+      />
       <LahalexBreadcrumbResponsive items={breadcrumbItems} />
 
       <div className="max-w-7xl mx-auto px-4 py-6">

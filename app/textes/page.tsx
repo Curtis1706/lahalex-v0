@@ -11,6 +11,14 @@ export default function TextesPage() {
   const [searchValue, setSearchValue] = useState("")
   const [expandedSections, setExpandedSections] = useState<Set<string>>(new Set(["titre-premier"]))
 
+  // Fonction pour la recherche globale depuis le header
+  const handleSearchSubmit = async (query: string) => {
+    if (!query.trim()) return
+    
+    // Rediriger vers la page principale avec la recherche
+    window.location.href = `/?search=${encodeURIComponent(query)}`
+  }
+
   const toggleSection = (sectionId: string) => {
     const newExpanded = new Set(expandedSections)
     if (newExpanded.has(sectionId)) {
@@ -107,7 +115,11 @@ export default function TextesPage() {
 
   return (
     <div className="min-h-screen bg-white">
-      <LahalexHeaderResponsive searchValue={searchValue} onSearchChange={setSearchValue} />
+      <LahalexHeaderResponsive 
+        searchValue={searchValue} 
+        onSearchChange={setSearchValue} 
+        onSearchSubmit={handleSearchSubmit}
+      />
       <LahalexBreadcrumbResponsive items={breadcrumbItems} />
 
       <div className="container-responsive py-4 sm:py-6">

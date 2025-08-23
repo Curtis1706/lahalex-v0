@@ -2,7 +2,7 @@
 
 import { useState, useEffect, useRef, useCallback } from "react";
 import Link from "next/link";
-import { usePathname } from "next/navigation";
+import { usePathname, useRouter } from "next/navigation";
 import {
   ChevronDown,
   ChevronRight,
@@ -29,6 +29,26 @@ interface DocumentReaderProps {
   document: any;
   article: any;
   processedContent: string;
+  allArticles?: Array<{ metadata: any; content: string }>;
+}
+
+interface SearchResult {
+  articleId: string;
+  articleTitle: string;
+  content: string;
+  matches: Array<{
+    text: string;
+    index: number;
+  }>;
+}
+
+interface UnifiedSearchMatch {
+  type: 'current' | 'other';
+  articleId: string;
+  articleTitle: string;
+  matchIndex: number;
+  totalMatches: number;
+  element?: HTMLElement; // Pour les correspondances dans l'article actuel
 }
 
 const getDocumentTypeLabel = (type: string) => {
@@ -38,6 +58,7 @@ const getDocumentTypeLabel = (type: string) => {
     code: "Codes",
     loi: "Lois",
     decret: "Décrets",
+    "fiche-synthese": "Fiches de synthèse",
     other: "Autres documents",
   };
   return typeLabels[type as keyof typeof typeLabels] || "Documents";
@@ -116,6 +137,7 @@ export function DocumentReader({
   document,
   article,
   processedContent,
+  allArticles,
 }: DocumentReaderProps) {
   const [sidebarOpen, setSidebarOpen] = useState(false);
   const [searchValue, setSearchValue] = useState("");
@@ -123,15 +145,27 @@ export function DocumentReader({
   const [expandedSections, setExpandedSections] = useState<Set<string>>(
     new Set()
   );
-  const [highlightedContent, setHighlightedContent] = useState<string>("");
+  const [searchResults, setSearchResults] = useState<SearchResult[]>([]);
   const [searchMatches, setSearchMatches] = useState<HTMLElement[]>([]);
   const [currentMatchIndex, setCurrentMatchIndex] = useState<number>(-1);
+  const [isSearching, setIsSearching] = useState(false);
+  const [unifiedMatches, setUnifiedMatches] = useState<UnifiedSearchMatch[]>([]);
+  const [currentUnifiedIndex, setCurrentUnifiedIndex] = useState<number>(-1);
 
   const sidebarRef = useRef<HTMLDivElement>(null);
   const sidebarMobileRef = useRef<HTMLDivElement>(null);
   const articleContentRef = useRef<HTMLDivElement>(null);
   const isMobile = useIsMobile();
   const pathname = usePathname();
+  const router = useRouter();
+
+  // Fonction pour la recherche globale depuis le header
+  const handleSearchSubmit = async (query: string) => {
+    if (!query.trim()) return
+    
+    // Rediriger vers la page principale avec la recherche
+    window.location.href = `/?search=${encodeURIComponent(query)}`
+  }
 
   // Auto-expand sections contenant l'article actuel
   useEffect(() => {
@@ -168,95 +202,243 @@ export function DocumentReader({
     }
   }, [article.id, isMobile]);
 
+
+
   // Fonction pour échapper les caractères spéciaux dans les regex
   const escapeRegex = (string: string) => {
     return string.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
   };
 
-  // Logique de recherche dans le document
-  const performDocumentSearch = useCallback(() => {
-    if (!articleContentRef.current || !documentSearch || !processedContent) {
-      setHighlightedContent(processedContent || "");
+  // Logique de recherche dans tout le document
+  const performDocumentSearch = useCallback(async () => {
+    if (!documentSearch || documentSearch.trim() === '') {
+      setSearchResults([]);
       setSearchMatches([]);
       setCurrentMatchIndex(-1);
+      setUnifiedMatches([]);
+      setCurrentUnifiedIndex(-1);
+      // Restaurer le contenu original
+      if (articleContentRef.current) {
+        articleContentRef.current.innerHTML = processedContent;
+      }
       return;
     }
 
-    const searchTerm = escapeRegex(documentSearch);
-    let newHighlightedHtml = processedContent;
-    let matchCounter = 0;
-
-    const regex = new RegExp(`(?<!<mark[^>]*>)((${searchTerm}))`, "gi");
-
-    newHighlightedHtml = processedContent.replace(regex, (match, p1) => {
-      const id = `search-match-${matchCounter++}`;
-      return `<mark id="${id}" class="bg-yellow-300">${p1}</mark>`;
-    });
-
-    setHighlightedContent(newHighlightedHtml);
-  }, [documentSearch, processedContent]);
-
-  // Effet pour trouver et faire défiler les correspondances
-  useEffect(() => {
-    if (articleContentRef.current && documentSearch) {
-      const marks = Array.from(
-        articleContentRef.current.querySelectorAll("mark.bg-yellow-300")
-      ) as HTMLElement[];
-      setSearchMatches(marks);
-      if (marks.length > 0) {
-        setCurrentMatchIndex(0);
-        requestAnimationFrame(() => {
-          marks[0].scrollIntoView({ behavior: "smooth", block: "center" });
-        });
-      } else {
-        setCurrentMatchIndex(-1);
+    setIsSearching(true);
+    
+    try {
+      const searchTerm = escapeRegex(documentSearch);
+      const regex = new RegExp(`(${searchTerm})`, "gi");
+      
+      // Rechercher dans l'article actuel
+      const currentArticleMatches = [...processedContent.matchAll(regex)];
+      
+      // Rechercher dans tous les autres articles si disponibles
+      let allSearchResults: SearchResult[] = [];
+      
+      if (allArticles && allArticles.length > 0) {
+        for (const articleData of allArticles) {
+          if (articleData.metadata.id === article.metadata.id) continue; // Ignorer l'article actuel
+          
+          const articleMatches = [...articleData.content.matchAll(regex)];
+          if (articleMatches.length > 0) {
+            allSearchResults.push({
+              articleId: articleData.metadata.id,
+              articleTitle: articleData.metadata.title,
+              content: articleData.content,
+              matches: articleMatches.map((match, index) => ({
+                text: match[0],
+                index: match.index || 0
+              }))
+            });
+          }
+        }
       }
-    } else {
-      setHighlightedContent(processedContent || "");
-      setSearchMatches([]);
-      setCurrentMatchIndex(-1);
+      
+      // Mettre à jour les résultats de recherche
+      setSearchResults(allSearchResults);
+      
+      // Créer la liste unifiée de toutes les correspondances
+      let unifiedMatchesList: UnifiedSearchMatch[] = [];
+      
+      // Ajouter les correspondances de l'article actuel
+      if (currentArticleMatches.length > 0) {
+        // Créer une copie du contenu HTML pour le surlignage
+        let newHighlightedHtml = processedContent;
+        let matchCounter = 0;
+        
+        // Remplacer chaque correspondance par un élément span avec une classe spéciale
+        newHighlightedHtml = processedContent.replace(regex, (match) => {
+          const id = `search-match-${matchCounter++}`;
+          return `<span id="${id}" class="search-highlight">${match}</span>`;
+        });
+        
+        // Mettre à jour le DOM
+        if (articleContentRef.current) {
+          articleContentRef.current.innerHTML = newHighlightedHtml;
+          
+          // Attendre que le DOM soit mis à jour
+          setTimeout(() => {
+            const marks = Array.from(
+              articleContentRef.current?.querySelectorAll("span.search-highlight") || []
+            ) as HTMLElement[];
+            
+            setSearchMatches(marks);
+            
+            // Créer les correspondances unifiées pour l'article actuel
+            const currentUnifiedMatches: UnifiedSearchMatch[] = marks.map((mark, index) => ({
+              type: 'current' as const,
+              articleId: article.metadata.id,
+              articleTitle: article.metadata.title,
+              matchIndex: index,
+              totalMatches: marks.length,
+              element: mark
+            }));
+            
+            // Ajouter les correspondances des autres articles
+            const otherUnifiedMatches: UnifiedSearchMatch[] = allSearchResults.flatMap(result => 
+              result.matches.map((match, index) => ({
+                type: 'other' as const,
+                articleId: result.articleId,
+                articleTitle: result.articleTitle,
+                matchIndex: index,
+                totalMatches: result.matches.length
+              }))
+            );
+            
+            const allUnifiedMatches = [...currentUnifiedMatches, ...otherUnifiedMatches];
+            setUnifiedMatches(allUnifiedMatches);
+            
+            if (allUnifiedMatches.length > 0) {
+              setCurrentUnifiedIndex(0);
+              // Surligner la première correspondance de l'article actuel
+              if (currentUnifiedMatches.length > 0) {
+                currentUnifiedMatches[0].element?.classList.add('current-match');
+                currentUnifiedMatches[0].element?.scrollIntoView({ behavior: "smooth", block: "center" });
+              }
+            }
+          }, 100); // Augmenter le délai pour s'assurer que le DOM est mis à jour
+        }
+      } else {
+        setSearchMatches([]);
+        setCurrentMatchIndex(-1);
+        
+        // Créer les correspondances unifiées seulement pour les autres articles
+        const otherUnifiedMatches: UnifiedSearchMatch[] = allSearchResults.flatMap(result => 
+          result.matches.map((match, index) => ({
+            type: 'other' as const,
+            articleId: result.articleId,
+            articleTitle: result.articleTitle,
+            matchIndex: index,
+            totalMatches: result.matches.length
+          }))
+        );
+        
+        setUnifiedMatches(otherUnifiedMatches);
+        if (otherUnifiedMatches.length > 0) {
+          setCurrentUnifiedIndex(0);
+        }
+        
+        // Restaurer le contenu original
+        if (articleContentRef.current) {
+          articleContentRef.current.innerHTML = processedContent;
+        }
+      }
+      
+    } catch (error) {
+      console.error('Erreur lors de la recherche:', error);
+    } finally {
+      setIsSearching(false);
     }
-  }, [highlightedContent, documentSearch, processedContent]);
+  }, [documentSearch, processedContent, allArticles, article.metadata.id]);
+
+
 
   const handleNextResult = () => {
-    if (searchMatches.length === 0) return;
-    const nextIndex = (currentMatchIndex + 1) % searchMatches.length;
-    setCurrentMatchIndex(nextIndex);
-    requestAnimationFrame(() => {
-      searchMatches[nextIndex].scrollIntoView({
+    if (unifiedMatches.length === 0) return;
+    
+    // Retirer la classe current-match de l'élément actuel s'il est dans l'article actuel
+    if (currentUnifiedIndex >= 0 && unifiedMatches[currentUnifiedIndex]) {
+      const currentMatch = unifiedMatches[currentUnifiedIndex];
+      if (currentMatch.type === 'current' && currentMatch.element) {
+        currentMatch.element.classList.remove('current-match');
+      }
+    }
+    
+    const nextIndex = (currentUnifiedIndex + 1) % unifiedMatches.length;
+    setCurrentUnifiedIndex(nextIndex);
+    
+    const nextMatch = unifiedMatches[nextIndex];
+    
+    if (nextMatch.type === 'current' && nextMatch.element) {
+      // C'est une correspondance dans l'article actuel
+      nextMatch.element.classList.add('current-match');
+      nextMatch.element.scrollIntoView({
         behavior: "smooth",
         block: "center",
       });
-    });
+    } else {
+      // C'est une correspondance dans un autre article
+      // Rediriger vers cet article sans actualisation
+      router.push(`/documents/${document.id}/${nextMatch.articleId}`);
+    }
   };
 
   const handlePrevResult = () => {
-    if (searchMatches.length === 0) return;
-    const prevIndex =
-      (currentMatchIndex - 1 + searchMatches.length) % searchMatches.length;
-    setCurrentMatchIndex(prevIndex);
-    requestAnimationFrame(() => {
-      searchMatches[prevIndex].scrollIntoView({
+    if (unifiedMatches.length === 0) return;
+    
+    // Retirer la classe current-match de l'élément actuel s'il est dans l'article actuel
+    if (currentUnifiedIndex >= 0 && unifiedMatches[currentUnifiedIndex]) {
+      const currentMatch = unifiedMatches[currentUnifiedIndex];
+      if (currentMatch.type === 'current' && currentMatch.element) {
+        currentMatch.element.classList.remove('current-match');
+      }
+    }
+    
+    const prevIndex = (currentUnifiedIndex - 1 + unifiedMatches.length) % unifiedMatches.length;
+    setCurrentUnifiedIndex(prevIndex);
+    
+    const prevMatch = unifiedMatches[prevIndex];
+    
+    if (prevMatch.type === 'current' && prevMatch.element) {
+      // C'est une correspondance dans l'article actuel
+      prevMatch.element.classList.add('current-match');
+      prevMatch.element.scrollIntoView({
         behavior: "smooth",
         block: "center",
       });
-    });
+    } else {
+      // C'est une correspondance dans un autre article
+      // Rediriger vers cet article sans actualisation
+      router.push(`/documents/${document.id}/${prevMatch.articleId}`);
+    }
   };
 
   const handleDocumentSearchChange = (
     e: React.ChangeEvent<HTMLInputElement>
   ) => {
     setDocumentSearch(e.target.value);
-    if (e.target.value === "") {
-      setHighlightedContent(processedContent || "");
+    if (e.target.value === "" || e.target.value.trim() === "") {
+      setSearchResults([]);
       setSearchMatches([]);
       setCurrentMatchIndex(-1);
+      // Restaurer le contenu original
+      if (articleContentRef.current) {
+        articleContentRef.current.innerHTML = processedContent;
+      }
+    } else {
+      // Déclencher la recherche automatiquement quand l'utilisateur tape
+      setTimeout(() => {
+        performDocumentSearch();
+      }, 300);
     }
   };
 
   const handleDocumentSearchSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    performDocumentSearch();
+    if (documentSearch.trim()) {
+      performDocumentSearch();
+    }
   };
 
   const toggleSection = (sectionId: string) => {
@@ -303,16 +485,19 @@ export function DocumentReader({
       isCurrentArticle
     );
 
+    // Déterminer si cette section doit être cliquable (article ou section-synthese)
+    const isClickable = section.type === "article" || section.type === "section-synthese";
+
     return (
       <div key={section.id} className="w-full">
         <div
-          data-article-id={section.type === "article" ? section.id : undefined}
+          data-article-id={isClickable ? section.id : undefined}
           className={`flex items-start w-full px-3 py-2 text-sm transition-all duration-200 group ${
             isCurrentArticle ? "" : "hover:bg-gray-50"
           }`}
           style={{ paddingLeft: `${12 + level * 16}px` }}
         >
-          {hasChildren && section.type !== "article" && (
+          {hasChildren && section.type !== "article" && section.type !== "section-synthese" && (
             <button
               onClick={() => toggleSection(section.id)}
               className="flex-shrink-0 mr-2 p-0.5 hover:bg-gray-200 rounded transition-colors mt-0.5"
@@ -325,11 +510,11 @@ export function DocumentReader({
             </button>
           )}
 
-          {(!hasChildren || section.type === "article") && (
+          {(!hasChildren || isClickable) && (
             <div className="w-4 mr-2 flex-shrink-0" />
           )}
 
-          {section.type === "article" ? (
+          {isClickable ? (
             <Link
               href={`/documents/${document.id}/${section.id}`}
               className={`flex-1 text-left leading-relaxed ${
@@ -393,6 +578,7 @@ export function DocumentReader({
       <LahalexHeaderResponsive
         searchValue={searchValue}
         onSearchChange={setSearchValue}
+        onSearchSubmit={handleSearchSubmit}
       />
       <LahalexBreadcrumbResponsive items={breadcrumbItems} />
 
@@ -452,6 +638,7 @@ export function DocumentReader({
               }}
             >
               <div
+                ref={articleContentRef}
                 className="overflow-auto"
                 dangerouslySetInnerHTML={{ __html: processedContent }}
               />
@@ -473,6 +660,20 @@ export function DocumentReader({
       }
       .prose tr:nth-child(even) td {
         background: #f9fafb;
+      }
+      .search-highlight {
+        background-color: #770d28 !important;
+        color: white !important;
+        padding: 2px 4px;
+        border-radius: 3px;
+        font-weight: 500;
+        display: inline;
+        border-radius: 2px;
+      }
+      .search-highlight.current-match {
+        background-color: #9a1a3a !important;
+        box-shadow: 0 0 0 2px rgba(119, 13, 40, 0.5);
+        font-weight: 600;
       }
     `}
               </style>
@@ -504,33 +705,63 @@ export function DocumentReader({
                     borderColor: "#BCBCBC",
                   }}
                 />
-                {documentSearch && searchMatches.length > 0 && (
-                  <div className="absolute right-1 top-1/2 transform -translate-y-1/2 flex items-center space-x-1">
-                    <span className="text-xs text-gray-500">
-                      {currentMatchIndex + 1}/{searchMatches.length}
+                {documentSearch && documentSearch.trim() !== '' && (
+                  <div className="absolute right-1 top-1/2 transform -translate-y-1/2 flex items-center space-x-1 bg-white px-2 py-1 rounded border">
+                    <span className="text-xs font-medium text-gray-700">
+                      {isSearching ? 'Recherche...' : (unifiedMatches.length > 0 ? `${currentUnifiedIndex + 1}/${unifiedMatches.length}` : '0 résultat')}
                     </span>
                     <Button
                       type="button"
                       variant="ghost"
                       size="sm"
                       onClick={handlePrevResult}
-                      className="p-1 h-6 w-6"
+                      disabled={unifiedMatches.length === 0 || isSearching}
+                      className="p-1 h-6 w-6 hover:bg-gray-100 disabled:opacity-50"
                     >
-                      <ChevronUp className="w-3 h-3" />
+                      <ChevronUp className="w-4 h-4 text-black" />
                     </Button>
                     <Button
                       type="button"
                       variant="ghost"
                       size="sm"
                       onClick={handleNextResult}
-                      className="p-1 h-6 w-6"
+                      disabled={unifiedMatches.length === 0 || isSearching}
+                      className="p-1 h-6 w-6 hover:bg-gray-100 disabled:opacity-50"
                     >
-                      <ChevronDown className="w-3 h-3" />
+                      <ChevronDown className="w-4 h-4 text-black" />
                     </Button>
                   </div>
                 )}
               </form>
             </div>
+
+            {/* Résultats de recherche dans d'autres articles */}
+            {searchResults.length > 0 && (
+              <div className="mb-6">
+                <div className="text-sm font-medium text-gray-700 mb-3">
+                  Autres articles trouvés ({searchResults.length})
+                </div>
+                <div className="space-y-2 max-h-64 overflow-y-auto">
+                  {searchResults.map((result, index) => (
+                    <div
+                      key={result.articleId}
+                      className="p-3 bg-gray-50 rounded-lg border border-gray-200 hover:bg-gray-100 transition-colors cursor-pointer"
+                      onClick={() => {
+                        // Rediriger vers l'article trouvé
+                        router.push(`/documents/${document.id}/${result.articleId}`);
+                      }}
+                    >
+                      <div className="text-sm font-medium text-gray-900 mb-1">
+                        {result.articleTitle}
+                      </div>
+                      <div className="text-xs text-gray-600">
+                        {result.matches.length} correspondance{result.matches.length > 1 ? 's' : ''}
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
 
             {/* Outils d'annotation */}
             <div
@@ -640,7 +871,63 @@ export function DocumentReader({
                           borderColor: "#BCBCBC",
                         }}
                       />
+                      {documentSearch && documentSearch.trim() !== '' && (
+                        <div className="absolute right-1 top-1/2 transform -translate-y-1/2 flex items-center space-x-1 bg-white px-2 py-1 rounded border">
+                          <span className="text-xs font-medium text-gray-700">
+                            {isSearching ? 'Recherche...' : (unifiedMatches.length > 0 ? `${currentUnifiedIndex + 1}/${unifiedMatches.length}` : '0 résultat')}
+                          </span>
+                          <Button
+                            type="button"
+                            variant="ghost"
+                            size="sm"
+                            onClick={handlePrevResult}
+                            disabled={unifiedMatches.length === 0 || isSearching}
+                            className="p-1 h-6 w-6 hover:bg-gray-100 disabled:opacity-50"
+                          >
+                            <ChevronUp className="w-4 h-4 text-black" />
+                          </Button>
+                          <Button
+                            type="button"
+                            variant="ghost"
+                            size="sm"
+                            onClick={handleNextResult}
+                            disabled={unifiedMatches.length === 0 || isSearching}
+                            className="p-1 h-6 w-6 hover:bg-gray-100 disabled:opacity-50"
+                          >
+                            <ChevronDown className="w-4 h-4 text-black" />
+                          </Button>
+                        </div>
+                      )}
                     </form>
+
+                    {/* Résultats de recherche dans d'autres articles - Mobile */}
+                    {searchResults.length > 0 && (
+                      <div className="mb-4">
+                        <div className="text-sm font-medium text-gray-700 mb-3">
+                          Autres articles trouvés ({searchResults.length})
+                        </div>
+                        <div className="space-y-2 max-h-32 overflow-y-auto">
+                          {searchResults.map((result, index) => (
+                            <div
+                              key={result.articleId}
+                              className="p-3 bg-gray-50 rounded-lg border border-gray-200 hover:bg-gray-100 transition-colors cursor-pointer"
+                              onClick={() => {
+                                setSidebarOpen(false);
+                                // Rediriger vers l'article trouvé
+                                router.push(`/documents/${document.id}/${result.articleId}`);
+                              }}
+                            >
+                              <div className="text-sm font-medium text-gray-900 mb-1">
+                                {result.articleTitle}
+                              </div>
+                              <div className="text-xs text-gray-600">
+                                {result.matches.length} correspondance{result.matches.length > 1 ? 's' : ''}
+                              </div>
+                            </div>
+                          ))}
+                        </div>
+                      </div>
+                    )}
 
                     <div
                       className="space-y-2 rounded-[5px] p-2"

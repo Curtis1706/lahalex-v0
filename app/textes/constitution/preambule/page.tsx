@@ -9,9 +9,16 @@ import { Search, PrinterIcon as Print, Download, Share2 } from "lucide-react"
 import { ConstitutionSidebar } from "@/components/constitution-sidebar"
 import { Footer } from "@/components/footer"
 
-export default function PreambulePage() {
+export default function ConstitutionPreambulePage() {
   const [searchValue, setSearchValue] = useState("")
-  const [documentSearch, setDocumentSearch] = useState("")
+
+  // Fonction pour la recherche globale depuis le header
+  const handleSearchSubmit = async (query: string) => {
+    if (!query.trim()) return
+    
+    // Rediriger vers la page principale avec la recherche
+    window.location.href = `/?search=${encodeURIComponent(query)}`
+  }
 
   const breadcrumbItems = [
     { label: "Textes", href: "/textes" },
@@ -23,7 +30,11 @@ export default function PreambulePage() {
 
   return (
     <div className="min-h-screen bg-white">
-      <LahalexHeaderResponsive searchValue={searchValue} onSearchChange={setSearchValue} />
+      <LahalexHeaderResponsive 
+        searchValue={searchValue} 
+        onSearchChange={setSearchValue} 
+        onSearchSubmit={handleSearchSubmit}
+      />
       <LahalexBreadcrumbResponsive items={breadcrumbItems} />
 
       <div className="container-responsive py-4 sm:py-6">

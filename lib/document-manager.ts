@@ -81,6 +81,55 @@ export class DocumentManager {
     }
   }
 
+  static async loadAllArticles(documentId: string): Promise<Array<{ metadata: ArticleMetadata; content: string }>> {
+    try {
+      const documentDir = join(DOCUMENTS_DIR, documentId)
+      const articles: Array<{ metadata: ArticleMetadata; content: string }> = []
+      
+      // Fonction récursive pour parcourir tous les dossiers
+      const scanDirectory = async (dir: string) => {
+        try {
+          const entries = await fs.readdir(dir, { withFileTypes: true })
+          
+          for (const entry of entries) {
+            const fullPath = join(dir, entry.name)
+            
+            if (entry.isDirectory()) {
+              // Récursivement scanner les sous-dossiers
+              await scanDirectory(fullPath)
+            } else if (entry.name.endsWith('.json') && !entry.name.includes('metadata')) {
+              // C'est un fichier d'article (pas metadata.json)
+              const articleId = entry.name.replace('.json', '')
+              const markdownPath = fullPath.replace('.json', '.md')
+              
+              try {
+                const [metadataContent, markdownContent] = await Promise.all([
+                  fs.readFile(fullPath, 'utf-8'),
+                  fs.readFile(markdownPath, 'utf-8')
+                ])
+                
+                articles.push({
+                  metadata: JSON.parse(metadataContent),
+                  content: markdownContent
+                })
+              } catch (error) {
+                console.warn(`Impossible de charger l'article ${articleId}:`, error)
+              }
+            }
+          }
+        } catch (error) {
+          console.warn(`Impossible de scanner le dossier ${dir}:`, error)
+        }
+      }
+      
+      await scanDirectory(documentDir)
+      return articles
+    } catch (error) {
+      console.error('Erreur lors du chargement des articles:', error)
+      return []
+    }
+  }
+
   static async listDocuments(): Promise<DocumentMetadata[]> {
     try {
       await this.ensureDirectories()

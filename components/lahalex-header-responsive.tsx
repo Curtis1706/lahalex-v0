@@ -10,11 +10,25 @@ import Image from "next/image"
 interface LahalexHeaderProps {
   searchValue?: string
   onSearchChange?: (value: string) => void
+  onSearchSubmit?: (query: string) => void
 }
 
-export function LahalexHeaderResponsive({ searchValue = "", onSearchChange }: LahalexHeaderProps) {
+export function LahalexHeaderResponsive({ searchValue = "", onSearchChange, onSearchSubmit }: LahalexHeaderProps) {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
   const [mobileSearchOpen, setMobileSearchOpen] = useState(false)
+
+  const handleSearchSubmit = (e: React.FormEvent) => {
+    e.preventDefault()
+    if (searchValue.trim() && onSearchSubmit) {
+      onSearchSubmit(searchValue.trim())
+    }
+  }
+
+  const handleSearchButtonClick = () => {
+    if (searchValue.trim() && onSearchSubmit) {
+      onSearchSubmit(searchValue.trim())
+    }
+  }
 
   return (
     <>
@@ -58,7 +72,7 @@ export function LahalexHeaderResponsive({ searchValue = "", onSearchChange }: La
 
             {/* Barre de recherche centrale - Desktop */}
             <div className="flex-1 max-w-2xl mx-4 sm:mx-8 hidden md:block">
-              <div className="relative">
+              <form onSubmit={handleSearchSubmit} className="relative">
                 <Input
                   type="text"
                   placeholder="Tapez votre mot clé"
@@ -66,10 +80,13 @@ export function LahalexHeaderResponsive({ searchValue = "", onSearchChange }: La
                   onChange={(e) => onSearchChange?.(e.target.value)}
                   className="w-full bg-white text-gray-900 border-0 rounded-md pr-12 placeholder:text-gray-500 focus:ring-2 focus:ring-accent-lahalex text-sm sm:text-base"
                 />
-                <Button className="absolute right-1 top-1/2 transform -translate-y-1/2 bg-primary-lahalex hover:bg-primary-lahalex/90 px-2 sm:px-3 h-7 sm:h-8">
+                <Button
+                  type="submit"
+                  className="absolute right-1 top-1/2 transform -translate-y-1/2 bg-primary-lahalex hover:bg-primary-lahalex/90 px-2 sm:px-3 h-7 sm:h-8"
+                >
                   <Search className="w-3 h-3 sm:w-4 sm:h-4" />
                 </Button>
-              </div>
+              </form>
             </div>
 
             {/* Actions droite */}
@@ -115,7 +132,7 @@ export function LahalexHeaderResponsive({ searchValue = "", onSearchChange }: La
           {/* Barre de recherche mobile */}
           {mobileSearchOpen && (
             <div className="mt-3 md:hidden">
-              <div className="relative">
+              <form onSubmit={handleSearchSubmit} className="relative">
                 <Input
                   type="text"
                   placeholder="Tapez votre mot clé"
@@ -123,10 +140,13 @@ export function LahalexHeaderResponsive({ searchValue = "", onSearchChange }: La
                   onChange={(e) => onSearchChange?.(e.target.value)}
                   className="w-full bg-white text-gray-900 border-0 rounded-md pr-12 placeholder:text-gray-500 text-sm"
                 />
-                <Button className="absolute right-1 top-1/2 transform -translate-y-1/2 bg-primary-lahalex hover:bg-primary-lahalex/90 px-2 h-7">
+                <Button
+                  type="submit"
+                  className="absolute right-1 top-1/2 transform -translate-y-1/2 bg-primary-lahalex hover:bg-primary-lahalex/90 px-2 h-7"
+                >
                   <Search className="w-3 h-3" />
                 </Button>
-              </div>
+              </form>
             </div>
           )}
         </div>
