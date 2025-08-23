@@ -1,0 +1,13 @@
+{
+  "id": "fiche-12-conclusion",
+  "title": "Conclusion",
+  "numero": "section-12",
+  "document": "fiche-nullite-societe",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-11-cas-particulier-incapacit-ou-vice-de-consentement-"
+  }
+}

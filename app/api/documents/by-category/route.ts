@@ -27,9 +27,14 @@ export async function GET(request: NextRequest) {
           matches: matchesCategory
         })
         
-        if (source) {
+        if (source && matchesCategory) {
+          // Pour les fiches de synthèse, pas de filtrage par source spécifique
+          if (category === 'fiche-synthese') {
+            return true
+          }
+          
           const docSource = doc.source?.toLowerCase()
-          return matchesCategory && docSource === source
+          return docSource === source
         }
         
         return matchesCategory

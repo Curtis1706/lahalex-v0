@@ -1,0 +1,14 @@
+{
+  "id": "fiche-6-peuton-viter-lannulation-dune-socit-",
+  "title": "Peut-on éviter l’annulation d’une société ?",
+  "numero": "section-6",
+  "document": "fiche-nullite-societe",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-5-quel-est-le-dlai-pour-demander-lannulation-",
+    "next": "fiche-7-exceptions-"
+  }
+}

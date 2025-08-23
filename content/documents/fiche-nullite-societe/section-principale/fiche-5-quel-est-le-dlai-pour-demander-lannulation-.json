@@ -1,0 +1,14 @@
+{
+  "id": "fiche-5-quel-est-le-dlai-pour-demander-lannulation-",
+  "title": "Quel est le délai pour demander l’annulation ?",
+  "numero": "section-5",
+  "document": "fiche-nullite-societe",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-4-tout-dpend-de-la-nature-de-lirrgularit-",
+    "next": "fiche-6-peuton-viter-lannulation-dune-socit-"
+  }
+}

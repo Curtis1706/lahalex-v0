@@ -1,0 +1,3 @@
+**Quel est le délai pour demander l’annulation ?**
+Le délai est **de trois ans**, à compter du jour où la cause de nullité est intervenue (article 251 du droit OHADA sur les sociétés commerciales). Ce délai est plus court que dans d’autres matières juridiques, car il faut protéger la stabilité des entreprises.
+**Cas particulier** : Si la nullité repose sur un **vice de consentement** (erreur, dol, violence), le délai commence **le jour où la personne découvre le vice**.

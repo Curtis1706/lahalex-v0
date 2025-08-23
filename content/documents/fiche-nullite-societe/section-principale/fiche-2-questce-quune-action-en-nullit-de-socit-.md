@@ -1,0 +1,2 @@
+**Qu’est-ce qu’une action en nullité de société ?**
+Lorsqu'une société a été créée en violation de certaines règles juridiques, elle peut être annulée par un tribunal. Cette annulation met fin à son existence juridique et déclenche sa dissolution. Cependant, ce processus n’est pas automatique : il obéit à des conditions strictes, tant sur **qui peut agir**, **quand agir**, et **comment éviter la nullité**.
