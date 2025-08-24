@@ -1,0 +1,14 @@
+{
+  "id": "fiche-24-choses-retenir",
+  "title": "CHOSES À RETENIR",
+  "numero": "section-24",
+  "document": "fiche-etablissement-stable",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-23-rgles-de-tva",
+    "next": "fiche-25-approche-factuelle"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fiche-12-avantages-certitude-expertise-connue-rapidit-incon",
+  "title": "Avantages : Certitude, expertise connue, rapidité Inconvénients : Rigidité, risque de défaillance, évolution des compétences",
+  "numero": "section-12",
+  "document": "fiche-tribunal-arbitral-ohada",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-11-modalits-classiques-de-dsignation-",
+    "next": "fiche-13-mcanismes-suppltifs-subsidiarit-"
+  }
+}

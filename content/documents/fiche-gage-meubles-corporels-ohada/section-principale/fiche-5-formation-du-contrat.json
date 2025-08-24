@@ -1,0 +1,14 @@
+{
+  "id": "fiche-5-formation-du-contrat",
+  "title": "Formation du contrat",
+  "numero": "section-5",
+  "document": "fiche-gage-meubles-corporels-ohada",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-4-constitution-du-gage",
+    "next": "fiche-6-opposabilit-aux-tiers"
+  }
+}

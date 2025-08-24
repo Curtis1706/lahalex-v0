@@ -1,0 +1,14 @@
+{
+  "id": "fiche-9-obligations-de-conservation",
+  "title": "Obligations de conservation",
+  "numero": "section-9",
+  "document": "fiche-gage-meubles-corporels-ohada",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-8-effets-avant-chance",
+    "next": "fiche-10-perception-des-fruits"
+  }
+}

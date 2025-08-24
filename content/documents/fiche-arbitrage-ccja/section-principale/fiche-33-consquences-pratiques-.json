@@ -1,0 +1,14 @@
+{
+  "id": "fiche-33-consquences-pratiques-",
+  "title": "Conséquences pratiques :",
+  "numero": "section-33",
+  "document": "fiche-arbitrage-ccja",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-32-autonomie-juridique-non-consacre-",
+    "next": "fiche-34-procdure-spcifique-darbitrage-ccja"
+  }
+}

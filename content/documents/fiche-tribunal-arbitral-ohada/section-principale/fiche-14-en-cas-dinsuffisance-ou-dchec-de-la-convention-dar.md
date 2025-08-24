@@ -1,0 +1,1 @@
+En cas d'insuffisance ou d'échec de la convention d'arbitrage, des mécanismes supplétifs interviennent :

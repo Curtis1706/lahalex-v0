@@ -1,0 +1,14 @@
+{
+  "id": "fiche-7-excution-et-modalits-de-paiement",
+  "title": "Exécution et modalités de paiement",
+  "numero": "section-7",
+  "document": "fiche-garantie-contre-garantie-ohada",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-6-conditions-dmission",
+    "next": "fiche-8-recours-postpaiement"
+  }
+}

@@ -1,0 +1,3 @@
+Règle de correction automatique :
+Si les parties prévoient un nombre d'arbitres pair, le juge d'appui (ou la CCJA) corrige automatiquement en ajoutant un arbitre.
+Exemple de correction : "Mining International SA" et "Equipment Global Ltd" prévoient deux arbitres dans leur clause. Le juge d'appui désigne automatiquement un troisième arbitre président pour éviter l'impasse décisionnelle. Cette correction respecte la volonté d'arbitrage pluriel tout en assurant l'efficacité.

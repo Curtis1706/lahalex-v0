@@ -1,0 +1,3 @@
+Conséquences de cette dualité :
+Cette originalité crée une situation paradoxale : la CCJA contrôle les sentences rendues dans le cadre des arbitrages qu'elle a elle-même organisés, soulevant des questions théoriques d'impartialité institutionnelle.
+Comparaison internationale : Aucune autre institution d'arbitrage au monde ne cumule ces deux fonctions. La CCI Paris administre des arbitrages mais ne contrôle pas les sentences ; la Cour de cassation française contrôle les sentences mais n'administre pas d'arbitrages.

@@ -1,0 +1,13 @@
+{
+  "id": "fiche-10-enjeux-pratiques-et-stratgiques",
+  "title": "Enjeux pratiques et stratégiques",
+  "numero": "section-10",
+  "document": "fiche-garantie-contre-garantie-ohada",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-9-comparaison-avec-le-cautionnement"
+  }
+}

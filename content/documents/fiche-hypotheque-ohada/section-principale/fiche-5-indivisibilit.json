@@ -1,0 +1,14 @@
+{
+  "id": "fiche-5-indivisibilit",
+  "title": "Indivisibilité",
+  "numero": "section-5",
+  "document": "fiche-hypotheque-ohada",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-4-caractres-de-lhypothque",
+    "next": "fiche-6-exception-pour-immeubles-futurs-article-203-"
+  }
+}

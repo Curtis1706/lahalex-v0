@@ -1,0 +1,13 @@
+{
+  "id": "fiche-1-composition-du-tribunal-arbitral-en-droit-ohada",
+  "title": "COMPOSITION DU TRIBUNAL ARBITRAL EN DROIT OHADA",
+  "numero": "section-1",
+  "document": "fiche-tribunal-arbitral-ohada",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "next": "fiche-2-nombre-darbitres-quilibre-entre-efficacit-et-lgiti"
+  }
+}

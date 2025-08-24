@@ -1,0 +1,14 @@
+{
+  "id": "fiche-5-rgle-de-correction-automatique-",
+  "title": "Règle de correction automatique :",
+  "numero": "section-5",
+  "document": "fiche-tribunal-arbitral-ohada",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-4-justifications-de-cette-limitation-",
+    "next": "fiche-6-critres-de-choix-entre-arbitre-unique-et-tribunal-"
+  }
+}

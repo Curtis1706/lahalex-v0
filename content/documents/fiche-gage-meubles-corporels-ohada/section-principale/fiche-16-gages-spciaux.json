@@ -1,0 +1,14 @@
+{
+  "id": "fiche-16-gages-spciaux",
+  "title": "Gages spéciaux",
+  "numero": "section-16",
+  "document": "fiche-gage-meubles-corporels-ohada",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-15-conditions-du-pacte-commissoire-",
+    "next": "fiche-17-matriel-professionnel"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fiche-11-une-socit-franaise-de-btp",
+  "title": "Une société française de BTP",
+  "numero": "section-11",
+  "document": "fiche-etablissement-stable",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-10-exemples-dtablissements-stables",
+    "next": "fiche-12-socit-de-conseil-internationale"
+  }
+}

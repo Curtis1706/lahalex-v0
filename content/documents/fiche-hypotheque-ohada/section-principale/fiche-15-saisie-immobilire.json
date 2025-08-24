@@ -1,0 +1,14 @@
+{
+  "id": "fiche-15-saisie-immobilire",
+  "title": "Saisie immobilière",
+  "numero": "section-15",
+  "document": "fiche-hypotheque-ohada",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-14-laus-offre-trois-modes-de-ralisation-au-crancier-i",
+    "next": "fiche-16-attribution-judiciaire"
+  }
+}

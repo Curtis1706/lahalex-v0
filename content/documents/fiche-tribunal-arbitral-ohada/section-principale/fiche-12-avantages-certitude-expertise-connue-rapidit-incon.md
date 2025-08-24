@@ -1,0 +1,4 @@
+Avantages : Certitude, expertise connue, rapidité Inconvénients : Rigidité, risque de défaillance, évolution des compétences
+2\. Désignation par caractéristiques : "Arbitre unique : juriste spécialisé en droit minier avec au moins 15 ans d'expérience."
+3\. Désignation mixte pour trois arbitres : Formule classique : "Chaque partie désigne un arbitre, le troisième (président) étant choisi d'un commun accord ou, à défaut, par l'institution d'arbitrage."
+Exemple de clause complète : "Tous différends seront tranchés par trois arbitres : le demandeur et le défendeur nomment chacun un arbitre dans les 30 jours de la saisine, ces deux arbitres choisissent le président dans les 15 jours de leur désignation. À défaut, la CCJA procède aux désignations manquantes."

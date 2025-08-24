@@ -1,0 +1,14 @@
+{
+  "id": "fiche-6-3-appliquer-ce-taux-aux-seuls-revenus-nationaux-ba",
+  "title": "3. Appliquer ce taux aux seuls revenus nationaux (base imposable réelle)",
+  "numero": "section-6",
+  "document": "fiche-double-imposition",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-5-2-dterminer-le-taux-effectif-impt-thorique-base-im",
+    "next": "fiche-7-exemple-pratique-"
+  }
+}

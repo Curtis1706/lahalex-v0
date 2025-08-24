@@ -1,0 +1,14 @@
+{
+  "id": "fiche-3-double-qualit-institutionnelle-unique-",
+  "title": "Double qualité institutionnelle unique :",
+  "numero": "section-3",
+  "document": "fiche-arbitrage-ccja",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-2-nature-juridique-exceptionnelle-de-la-ccja",
+    "next": "fiche-4-premire-fonction-institution-darbitrage-classique"
+  }
+}

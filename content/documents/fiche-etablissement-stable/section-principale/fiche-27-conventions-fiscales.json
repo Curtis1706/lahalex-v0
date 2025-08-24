@@ -1,0 +1,14 @@
+{
+  "id": "fiche-27-conventions-fiscales",
+  "title": "Conventions fiscales",
+  "numero": "section-27",
+  "document": "fiche-etablissement-stable",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-26-cumul-possible-des-critres",
+    "next": "fiche-28-piges-viter"
+  }
+}

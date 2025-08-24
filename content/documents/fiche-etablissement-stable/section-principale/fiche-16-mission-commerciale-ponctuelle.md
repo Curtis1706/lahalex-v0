@@ -1,0 +1,2 @@
+Mission commerciale ponctuelle
+Un représentant commercial visite le Bénin 2 semaines par trimestre pour prospecter sans bureau fixe. Pas d'établissement stable : activité occasionnelle sans installation fixe.

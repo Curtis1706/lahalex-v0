@@ -1,0 +1,14 @@
+{
+  "id": "fiche-20-erreurs-de-calcul-",
+  "title": "Erreurs de calcul :",
+  "numero": "section-20",
+  "document": "fiche-double-imposition",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-19-erreurs-procdurales-",
+    "next": "fiche-21-piges-conventionnels-"
+  }
+}

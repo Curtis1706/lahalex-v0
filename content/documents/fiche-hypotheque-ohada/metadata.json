@@ -1,0 +1,336 @@
+{
+  "id": "fiche-hypotheque-ohada",
+  "title": "L’hypothèque en droit OHADA",
+  "type": "fiche-synthese",
+  "description": "Fiche de synthèse sur l’hypothèque en droit OHADA : définition, conditions de validité, effets juridiques et procédures liées.",
+  "structure": {
+    "sections": [
+      {
+        "id": "section-principale",
+        "title": "L’hypothèque en droit OHADA",
+        "type": "section-synthese",
+        "level": 1,
+        "order": 0,
+        "path": [
+          "section-principale"
+        ],
+        "children": [
+          "fiche-1-lhypothque-en-droit-ohada",
+          "fiche-2-dfinition-et-avantages",
+          "fiche-3-cette-sret-relle-immobilire-prsente-des-avantages-",
+          "fiche-4-caractres-de-lhypothque",
+          "fiche-5-indivisibilit",
+          "fiche-6-exception-pour-immeubles-futurs-article-203-",
+          "fiche-7-constitution-de-lhypothque",
+          "fiche-8-les-parties-au-contrat",
+          "fiche-9-conditions-de-capacit-et-pouvoir",
+          "fiche-10-procdures-collectives-",
+          "fiche-11-formation-du-contrat",
+          "fiche-12-exigence-dcrit-lhypothque-doit-tre-tablie-par-acte",
+          "fiche-13-ralisation-de-lhypothque",
+          "fiche-14-laus-offre-trois-modes-de-ralisation-au-crancier-i",
+          "fiche-15-saisie-immobilire",
+          "fiche-16-attribution-judiciaire",
+          "fiche-17-pacte-commissoire-attribution-conventionnelle",
+          "fiche-18-conditions-restrictives-",
+          "fiche-19-hypothques-spciales",
+          "fiche-20-hypothque-en-garantie-de-crances-futures",
+          "fiche-21-hypothque-rechargeable",
+          "fiche-22-diffrence-avec-lhypothque-future-",
+          "fiche-23-rang-et-concours-des-hypothques",
+          "fiche-24-exemple-de-concours-"
+        ]
+      },
+      {
+        "id": "fiche-1-lhypothque-en-droit-ohada",
+        "title": "L'HYPOTHÈQUE EN DROIT OHADA",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 1,
+        "path": [
+          "section-principale",
+          "fiche-1-lhypothque-en-droit-ohada"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-2-dfinition-et-avantages",
+        "title": "Définition et avantages",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 2,
+        "path": [
+          "section-principale",
+          "fiche-2-dfinition-et-avantages"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-3-cette-sret-relle-immobilire-prsente-des-avantages-",
+        "title": "Cette sûreté réelle immobilière présente des avantages considérables expliquant sa popularité :",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 3,
+        "path": [
+          "section-principale",
+          "fiche-3-cette-sret-relle-immobilire-prsente-des-avantages-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-4-caractres-de-lhypothque",
+        "title": "Caractères de l'hypothèque",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 4,
+        "path": [
+          "section-principale",
+          "fiche-4-caractres-de-lhypothque"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-5-indivisibilit",
+        "title": "Indivisibilité",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 5,
+        "path": [
+          "section-principale",
+          "fiche-5-indivisibilit"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-6-exception-pour-immeubles-futurs-article-203-",
+        "title": "Exception pour immeubles futurs (article 203) :",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 6,
+        "path": [
+          "section-principale",
+          "fiche-6-exception-pour-immeubles-futurs-article-203-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-7-constitution-de-lhypothque",
+        "title": "Constitution de l'hypothèque",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 7,
+        "path": [
+          "section-principale",
+          "fiche-7-constitution-de-lhypothque"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-8-les-parties-au-contrat",
+        "title": "Les parties au contrat",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 8,
+        "path": [
+          "section-principale",
+          "fiche-8-les-parties-au-contrat"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-9-conditions-de-capacit-et-pouvoir",
+        "title": "Conditions de capacité et pouvoir",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 9,
+        "path": [
+          "section-principale",
+          "fiche-9-conditions-de-capacit-et-pouvoir"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-10-procdures-collectives-",
+        "title": "Procédures collectives :",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 10,
+        "path": [
+          "section-principale",
+          "fiche-10-procdures-collectives-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-11-formation-du-contrat",
+        "title": "Formation du contrat",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 11,
+        "path": [
+          "section-principale",
+          "fiche-11-formation-du-contrat"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-12-exigence-dcrit-lhypothque-doit-tre-tablie-par-acte",
+        "title": "Exigence d'écrit : L'hypothèque doit être établie par acte écrit sous trois formes possibles :",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 12,
+        "path": [
+          "section-principale",
+          "fiche-12-exigence-dcrit-lhypothque-doit-tre-tablie-par-acte"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-13-ralisation-de-lhypothque",
+        "title": "Réalisation de l'hypothèque",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 13,
+        "path": [
+          "section-principale",
+          "fiche-13-ralisation-de-lhypothque"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-14-laus-offre-trois-modes-de-ralisation-au-crancier-i",
+        "title": "L'AUS offre trois modes de réalisation au créancier impayé :",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 14,
+        "path": [
+          "section-principale",
+          "fiche-14-laus-offre-trois-modes-de-ralisation-au-crancier-i"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-15-saisie-immobilire",
+        "title": "Saisie immobilière",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 15,
+        "path": [
+          "section-principale",
+          "fiche-15-saisie-immobilire"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-16-attribution-judiciaire",
+        "title": "Attribution judiciaire",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 16,
+        "path": [
+          "section-principale",
+          "fiche-16-attribution-judiciaire"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-17-pacte-commissoire-attribution-conventionnelle",
+        "title": "Pacte commissoire (attribution conventionnelle)",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 17,
+        "path": [
+          "section-principale",
+          "fiche-17-pacte-commissoire-attribution-conventionnelle"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-18-conditions-restrictives-",
+        "title": "Conditions restrictives :",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 18,
+        "path": [
+          "section-principale",
+          "fiche-18-conditions-restrictives-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-19-hypothques-spciales",
+        "title": "Hypothèques spéciales",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 19,
+        "path": [
+          "section-principale",
+          "fiche-19-hypothques-spciales"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-20-hypothque-en-garantie-de-crances-futures",
+        "title": "Hypothèque en garantie de créances futures",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 20,
+        "path": [
+          "section-principale",
+          "fiche-20-hypothque-en-garantie-de-crances-futures"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-21-hypothque-rechargeable",
+        "title": "Hypothèque rechargeable",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 21,
+        "path": [
+          "section-principale",
+          "fiche-21-hypothque-rechargeable"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-22-diffrence-avec-lhypothque-future-",
+        "title": "Différence avec l'hypothèque future :",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 22,
+        "path": [
+          "section-principale",
+          "fiche-22-diffrence-avec-lhypothque-future-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-23-rang-et-concours-des-hypothques",
+        "title": "Rang et concours des hypothèques",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 23,
+        "path": [
+          "section-principale",
+          "fiche-23-rang-et-concours-des-hypothques"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-24-exemple-de-concours-",
+        "title": "Exemple de concours :",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 24,
+        "path": [
+          "section-principale",
+          "fiche-24-exemple-de-concours-"
+        ],
+        "children": []
+      }
+    ],
+    "totalArticles": 24
+  },
+  "source": "autre"
+}

@@ -1,0 +1,271 @@
+{
+  "id": "fiche-gage-meubles-corporels-ohada",
+  "title": "Le gage de meubles corporels en droit OHADA",
+  "type": "fiche-synthese",
+  "description": "Fiche de synthèse sur le régime du gage de meubles corporels en droit OHADA : conditions de constitution, effets juridiques et modalités de réalisation.",
+  "structure": {
+    "sections": [
+      {
+        "id": "section-principale",
+        "title": "Le gage de meubles corporels en droit OHADA",
+        "type": "section-synthese",
+        "level": 1,
+        "order": 0,
+        "path": [
+          "section-principale"
+        ],
+        "children": [
+          "fiche-1-le-gage-de-meubles-corporels-en-droit-ohada",
+          "fiche-2-dfinition-et-volution",
+          "fiche-3-avant-2011-gage-sret-avec-dpossession-ncessaire-de",
+          "fiche-4-constitution-du-gage",
+          "fiche-5-formation-du-contrat",
+          "fiche-6-opposabilit-aux-tiers",
+          "fiche-7-larticle-97-offre-une-alternative-",
+          "fiche-8-effets-avant-chance",
+          "fiche-9-obligations-de-conservation",
+          "fiche-10-perception-des-fruits",
+          "fiche-11-gage-de-choses-fongibles",
+          "fiche-12-ralisation-du-gage",
+          "fiche-13-extinction-normale",
+          "fiche-14-modes-de-ralisation",
+          "fiche-15-conditions-du-pacte-commissoire-",
+          "fiche-16-gages-spciaux",
+          "fiche-17-matriel-professionnel",
+          "fiche-18-vhicules-automobiles",
+          "fiche-19-gage-de-stocks"
+        ]
+      },
+      {
+        "id": "fiche-1-le-gage-de-meubles-corporels-en-droit-ohada",
+        "title": "LE GAGE DE MEUBLES CORPORELS EN DROIT OHADA",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 1,
+        "path": [
+          "section-principale",
+          "fiche-1-le-gage-de-meubles-corporels-en-droit-ohada"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-2-dfinition-et-volution",
+        "title": "Définition et évolution",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 2,
+        "path": [
+          "section-principale",
+          "fiche-2-dfinition-et-volution"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-3-avant-2011-gage-sret-avec-dpossession-ncessaire-de",
+        "title": "Avant 2011 : Gage = sûreté avec dépossession nécessaire Depuis 2011 : Gage = sûreté sur meubles corporels, avec ou sans dépossession",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 3,
+        "path": [
+          "section-principale",
+          "fiche-3-avant-2011-gage-sret-avec-dpossession-ncessaire-de"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-4-constitution-du-gage",
+        "title": "Constitution du gage",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 4,
+        "path": [
+          "section-principale",
+          "fiche-4-constitution-du-gage"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-5-formation-du-contrat",
+        "title": "Formation du contrat",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 5,
+        "path": [
+          "section-principale",
+          "fiche-5-formation-du-contrat"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-6-opposabilit-aux-tiers",
+        "title": "Opposabilité aux tiers",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 6,
+        "path": [
+          "section-principale",
+          "fiche-6-opposabilit-aux-tiers"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-7-larticle-97-offre-une-alternative-",
+        "title": "L'article 97 offre une alternative :",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 7,
+        "path": [
+          "section-principale",
+          "fiche-7-larticle-97-offre-une-alternative-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-8-effets-avant-chance",
+        "title": "Effets avant échéance",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 8,
+        "path": [
+          "section-principale",
+          "fiche-8-effets-avant-chance"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-9-obligations-de-conservation",
+        "title": "Obligations de conservation",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 9,
+        "path": [
+          "section-principale",
+          "fiche-9-obligations-de-conservation"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-10-perception-des-fruits",
+        "title": "Perception des fruits",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 10,
+        "path": [
+          "section-principale",
+          "fiche-10-perception-des-fruits"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-11-gage-de-choses-fongibles",
+        "title": "Gage de choses fongibles",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 11,
+        "path": [
+          "section-principale",
+          "fiche-11-gage-de-choses-fongibles"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-12-ralisation-du-gage",
+        "title": "Réalisation du gage",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 12,
+        "path": [
+          "section-principale",
+          "fiche-12-ralisation-du-gage"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-13-extinction-normale",
+        "title": "Extinction normale",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 13,
+        "path": [
+          "section-principale",
+          "fiche-13-extinction-normale"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-14-modes-de-ralisation",
+        "title": "Modes de réalisation",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 14,
+        "path": [
+          "section-principale",
+          "fiche-14-modes-de-ralisation"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-15-conditions-du-pacte-commissoire-",
+        "title": "Conditions du pacte commissoire :",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 15,
+        "path": [
+          "section-principale",
+          "fiche-15-conditions-du-pacte-commissoire-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-16-gages-spciaux",
+        "title": "Gages spéciaux",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 16,
+        "path": [
+          "section-principale",
+          "fiche-16-gages-spciaux"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-17-matriel-professionnel",
+        "title": "Matériel professionnel",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 17,
+        "path": [
+          "section-principale",
+          "fiche-17-matriel-professionnel"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-18-vhicules-automobiles",
+        "title": "Véhicules automobiles",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 18,
+        "path": [
+          "section-principale",
+          "fiche-18-vhicules-automobiles"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-19-gage-de-stocks",
+        "title": "Gage de stocks",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 19,
+        "path": [
+          "section-principale",
+          "fiche-19-gage-de-stocks"
+        ],
+        "children": []
+      }
+    ],
+    "totalArticles": 19
+  },
+  "source": "autre"
+}

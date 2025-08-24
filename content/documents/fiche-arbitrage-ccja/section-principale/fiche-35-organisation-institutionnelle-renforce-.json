@@ -1,0 +1,14 @@
+{
+  "id": "fiche-35-organisation-institutionnelle-renforce-",
+  "title": "Organisation institutionnelle renforcée :",
+  "numero": "section-35",
+  "document": "fiche-arbitrage-ccja",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-34-procdure-spcifique-darbitrage-ccja",
+    "next": "fiche-36-secrtariat-gnral-administration-permanente-abidjan"
+  }
+}

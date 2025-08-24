@@ -1,0 +1,14 @@
+{
+  "id": "fiche-4-critre-dactivit-conomique",
+  "title": "Critère d'activité économique",
+  "numero": "section-4",
+  "document": "fiche-etablissement-stable",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-3-critre-de-permanence",
+    "next": "fiche-5-critre-de-rattachement-territorial"
+  }
+}

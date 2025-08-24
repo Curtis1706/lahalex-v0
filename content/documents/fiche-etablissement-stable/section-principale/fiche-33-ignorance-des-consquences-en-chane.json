@@ -1,0 +1,14 @@
+{
+  "id": "fiche-33-ignorance-des-consquences-en-chane",
+  "title": "Ignorance des conséquences en chaîne",
+  "numero": "section-33",
+  "document": "fiche-etablissement-stable",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-32-mconnaissance-des-volutions-jurisprudentielles",
+    "next": "fiche-34-mauvaise-apprciation-du-caractre-temporaire"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fiche-14-multinationale-avec-succursale",
+  "title": "Multinationale avec succursale",
+  "numero": "section-14",
+  "document": "fiche-etablissement-stable",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-13-entreprise-minire-canadienne",
+    "next": "fiche-15-contreexemples-pas-dtablissement-stable"
+  }
+}

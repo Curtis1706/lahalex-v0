@@ -1,0 +1,1 @@
+Opposabilité aux tiers

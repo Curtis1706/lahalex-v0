@@ -1,0 +1,14 @@
+{
+  "id": "fiche-9-conditions-de-capacit-et-pouvoir",
+  "title": "Conditions de capacité et pouvoir",
+  "numero": "section-9",
+  "document": "fiche-hypotheque-ohada",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-8-les-parties-au-contrat",
+    "next": "fiche-10-procdures-collectives-"
+  }
+}

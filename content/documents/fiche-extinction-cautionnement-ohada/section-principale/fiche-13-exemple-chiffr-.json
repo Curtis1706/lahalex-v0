@@ -1,0 +1,13 @@
+{
+  "id": "fiche-13-exemple-chiffr-",
+  "title": "Exemple chiffré :",
+  "numero": "section-13",
+  "document": "fiche-extinction-cautionnement-ohada",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-12-situations-dimpossibilit-objective-"
+  }
+}

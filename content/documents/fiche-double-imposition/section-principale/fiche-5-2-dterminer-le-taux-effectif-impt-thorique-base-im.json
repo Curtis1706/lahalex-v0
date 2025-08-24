@@ -1,0 +1,14 @@
+{
+  "id": "fiche-5-2-dterminer-le-taux-effectif-impt-thorique-base-im",
+  "title": "2. Déterminer le taux effectif = impôt théorique / base imposable théorique",
+  "numero": "section-5",
+  "document": "fiche-double-imposition",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-4-1-calculer-limpt-thorique-sur-la-base-imposable-to",
+    "next": "fiche-6-3-appliquer-ce-taux-aux-seuls-revenus-nationaux-ba"
+  }
+}

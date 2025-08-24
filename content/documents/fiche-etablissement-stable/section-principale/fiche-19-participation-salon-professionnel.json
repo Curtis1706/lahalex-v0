@@ -1,0 +1,14 @@
+{
+  "id": "fiche-19-participation-salon-professionnel",
+  "title": "Participation à salon professionnel",
+  "numero": "section-19",
+  "document": "fiche-etablissement-stable",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-18-simple-stockage-pour-tiers",
+    "next": "fiche-20-consquences-fiscales"
+  }
+}

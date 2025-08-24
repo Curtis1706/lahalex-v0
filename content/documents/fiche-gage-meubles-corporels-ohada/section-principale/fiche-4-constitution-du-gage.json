@@ -1,0 +1,14 @@
+{
+  "id": "fiche-4-constitution-du-gage",
+  "title": "Constitution du gage",
+  "numero": "section-4",
+  "document": "fiche-gage-meubles-corporels-ohada",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-3-avant-2011-gage-sret-avec-dpossession-ncessaire-de",
+    "next": "fiche-5-formation-du-contrat"
+  }
+}

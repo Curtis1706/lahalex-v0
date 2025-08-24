@@ -1,0 +1,2 @@
+Liberté contractuelle des parties (principe) :
+L'article 8 AU consacre la primauté de la volonté des parties dans la désignation des arbitres. Cette liberté constitue l'essence même de l'arbitrage consensuel.

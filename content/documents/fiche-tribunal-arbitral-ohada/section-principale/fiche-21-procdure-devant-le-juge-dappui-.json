@@ -1,0 +1,14 @@
+{
+  "id": "fiche-21-procdure-devant-le-juge-dappui-",
+  "title": "Procédure devant le juge d'appui :",
+  "numero": "section-21",
+  "document": "fiche-tribunal-arbitral-ohada",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-20-missions-du-juge-dappui-",
+    "next": "fiche-22-statut-juridique-de-larbitre"
+  }
+}

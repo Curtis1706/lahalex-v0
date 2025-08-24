@@ -1,0 +1,2 @@
+Chantiers de construction et projets de montage
+Constituent un établissement stable lorsque leur durée excède trois mois. Cette règle vise les activités de construction, montage, installation et surveillance s'y rapportant.

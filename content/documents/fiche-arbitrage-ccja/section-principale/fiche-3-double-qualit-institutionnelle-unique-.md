@@ -1,0 +1,2 @@
+Double qualité institutionnelle unique :
+La Cour commune de justice et d'arbitrage présente une nature juridique exceptionnelle dans le paysage arbitral mondial : elle cumule les fonctions d'institution d'arbitrage ET de juridiction supranationale de contrôle.

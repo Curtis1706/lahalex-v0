@@ -1,0 +1,2 @@
+Autonomie matérielle reconnue mais limitée :
+L'article 10.4 du Règlement CCJA reprend le principe d'autonomie matérielle : possibilité que la convention d'arbitrage soit valable alors même que le contrat principal est nul.

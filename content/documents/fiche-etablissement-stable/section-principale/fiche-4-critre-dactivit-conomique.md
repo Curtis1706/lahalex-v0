@@ -1,0 +1,2 @@
+Critère d'activité économique
+L'entreprise doit exercer effectivement son activité par l'intermédiaire de cette installation. Une simple présence passive ne suffit pas à constituer un établissement stable.

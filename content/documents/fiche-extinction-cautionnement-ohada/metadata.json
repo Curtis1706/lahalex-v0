@@ -1,0 +1,193 @@
+{
+  "id": "fiche-extinction-cautionnement-ohada",
+  "title": "L’extinction du cautionnement en droit OHADA",
+  "type": "fiche-synthese",
+  "description": "Fiche de synthèse sur les causes d’extinction du cautionnement en droit OHADA : paiement, remise de dette, novation, confusion, prescription et autres mécanismes.",
+  "structure": {
+    "sections": [
+      {
+        "id": "section-principale",
+        "title": "L’extinction du cautionnement en droit OHADA",
+        "type": "section-synthese",
+        "level": 1,
+        "order": 0,
+        "path": [
+          "section-principale"
+        ],
+        "children": [
+          "fiche-1-lextinction-du-cautionnement-en-droit-ohada",
+          "fiche-2-le-droit-ohada-organise-lextinction-du-cautionneme",
+          "fiche-3-le-droit-ohada-opre-une-distinction-essentielle-en",
+          "fiche-4-lobligation-de-rglement-obligation-de-payer-les-de",
+          "fiche-5-conditions-cumulatives-du-paiement-libratoire-",
+          "fiche-6-causes-principales-de-nullit-",
+          "fiche-7-conditions-du-paiement-libratoire-",
+          "fiche-8-modes-conventionnels-",
+          "fiche-9-modes-lgaux-",
+          "fiche-10-modes-judiciaires-",
+          "fiche-11-comportements-sanctionns-",
+          "fiche-12-situations-dimpossibilit-objective-",
+          "fiche-13-exemple-chiffr-"
+        ]
+      },
+      {
+        "id": "fiche-1-lextinction-du-cautionnement-en-droit-ohada",
+        "title": "L'EXTINCTION DU CAUTIONNEMENT EN DROIT OHADA",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 1,
+        "path": [
+          "section-principale",
+          "fiche-1-lextinction-du-cautionnement-en-droit-ohada"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-2-le-droit-ohada-organise-lextinction-du-cautionneme",
+        "title": "Le droit OHADA organise l'extinction du cautionnement selon une classification tripartite reflétant la complexité des rapports juridiques en présence :",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 2,
+        "path": [
+          "section-principale",
+          "fiche-2-le-droit-ohada-organise-lextinction-du-cautionneme"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-3-le-droit-ohada-opre-une-distinction-essentielle-en",
+        "title": "Le droit OHADA opère une distinction essentielle entre deux dimensions de l'engagement de caution :",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 3,
+        "path": [
+          "section-principale",
+          "fiche-3-le-droit-ohada-opre-une-distinction-essentielle-en"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-4-lobligation-de-rglement-obligation-de-payer-les-de",
+        "title": "L'obligation de règlement : Obligation de payer les dettes effectivement nées entre débiteur et créancier L'obligation de couverture : Obligation de garantir les dettes futures du débiteur",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 4,
+        "path": [
+          "section-principale",
+          "fiche-4-lobligation-de-rglement-obligation-de-payer-les-de"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-5-conditions-cumulatives-du-paiement-libratoire-",
+        "title": "Conditions cumulatives du paiement libératoire :",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 5,
+        "path": [
+          "section-principale",
+          "fiche-5-conditions-cumulatives-du-paiement-libratoire-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-6-causes-principales-de-nullit-",
+        "title": "Causes principales de nullité :",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 6,
+        "path": [
+          "section-principale",
+          "fiche-6-causes-principales-de-nullit-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-7-conditions-du-paiement-libratoire-",
+        "title": "Conditions du paiement libératoire :",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 7,
+        "path": [
+          "section-principale",
+          "fiche-7-conditions-du-paiement-libratoire-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-8-modes-conventionnels-",
+        "title": "Modes conventionnels :",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 8,
+        "path": [
+          "section-principale",
+          "fiche-8-modes-conventionnels-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-9-modes-lgaux-",
+        "title": "Modes légaux :",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 9,
+        "path": [
+          "section-principale",
+          "fiche-9-modes-lgaux-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-10-modes-judiciaires-",
+        "title": "Modes judiciaires :",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 10,
+        "path": [
+          "section-principale",
+          "fiche-10-modes-judiciaires-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-11-comportements-sanctionns-",
+        "title": "Comportements sanctionnés :",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 11,
+        "path": [
+          "section-principale",
+          "fiche-11-comportements-sanctionns-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-12-situations-dimpossibilit-objective-",
+        "title": "Situations d'impossibilité objective :",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 12,
+        "path": [
+          "section-principale",
+          "fiche-12-situations-dimpossibilit-objective-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-13-exemple-chiffr-",
+        "title": "Exemple chiffré :",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 13,
+        "path": [
+          "section-principale",
+          "fiche-13-exemple-chiffr-"
+        ],
+        "children": []
+      }
+    ],
+    "totalArticles": 13
+  },
+  "source": "autre"
+}

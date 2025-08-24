@@ -1,0 +1,14 @@
+{
+  "id": "fiche-38-procdure-de-rcusation",
+  "title": "PROCÉDURE DE RÉCUSATION",
+  "numero": "section-38",
+  "document": "fiche-tribunal-arbitral-ohada",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-37-sanctions-du-manquement-",
+    "next": "fiche-39-conditions-de-la-rcusation-"
+  }
+}

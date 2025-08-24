@@ -1,0 +1,154 @@
+{
+  "id": "fiche-garantie-contre-garantie-ohada",
+  "title": "La garantie et contre-garantie autonomes en droit OHADA",
+  "type": "fiche-synthese",
+  "description": "Fiche de synthèse sur le régime juridique des garanties et contre-garanties autonomes en droit OHADA, leurs caractéristiques, conditions de mise en œuvre et effets.",
+  "structure": {
+    "sections": [
+      {
+        "id": "section-principale",
+        "title": "La garantie et contre-garantie autonomes en droit OHADA",
+        "type": "section-synthese",
+        "level": 1,
+        "order": 0,
+        "path": [
+          "section-principale"
+        ],
+        "children": [
+          "fiche-1-la-garantie-et-contregarantie-autonomes-en-droit-o",
+          "fiche-2-dfinition-et-nature-juridique",
+          "fiche-3-le-caractre-autonome-et-ses-consquences",
+          "fiche-4-origines-et-dveloppement",
+          "fiche-5-le-mcanisme-de-contregarantie",
+          "fiche-6-conditions-dmission",
+          "fiche-7-excution-et-modalits-de-paiement",
+          "fiche-8-recours-postpaiement",
+          "fiche-9-comparaison-avec-le-cautionnement",
+          "fiche-10-enjeux-pratiques-et-stratgiques"
+        ]
+      },
+      {
+        "id": "fiche-1-la-garantie-et-contregarantie-autonomes-en-droit-o",
+        "title": "LA GARANTIE ET CONTRE-GARANTIE AUTONOMES EN DROIT OHADA",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 1,
+        "path": [
+          "section-principale",
+          "fiche-1-la-garantie-et-contregarantie-autonomes-en-droit-o"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-2-dfinition-et-nature-juridique",
+        "title": "Définition et nature juridique",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 2,
+        "path": [
+          "section-principale",
+          "fiche-2-dfinition-et-nature-juridique"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-3-le-caractre-autonome-et-ses-consquences",
+        "title": "Le caractère autonome et ses conséquences",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 3,
+        "path": [
+          "section-principale",
+          "fiche-3-le-caractre-autonome-et-ses-consquences"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-4-origines-et-dveloppement",
+        "title": "Origines et développement",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 4,
+        "path": [
+          "section-principale",
+          "fiche-4-origines-et-dveloppement"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-5-le-mcanisme-de-contregarantie",
+        "title": "Le mécanisme de contre-garantie",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 5,
+        "path": [
+          "section-principale",
+          "fiche-5-le-mcanisme-de-contregarantie"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-6-conditions-dmission",
+        "title": "Conditions d'émission",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 6,
+        "path": [
+          "section-principale",
+          "fiche-6-conditions-dmission"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-7-excution-et-modalits-de-paiement",
+        "title": "Exécution et modalités de paiement",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 7,
+        "path": [
+          "section-principale",
+          "fiche-7-excution-et-modalits-de-paiement"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-8-recours-postpaiement",
+        "title": "Recours post-paiement",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 8,
+        "path": [
+          "section-principale",
+          "fiche-8-recours-postpaiement"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-9-comparaison-avec-le-cautionnement",
+        "title": "Comparaison avec le cautionnement",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 9,
+        "path": [
+          "section-principale",
+          "fiche-9-comparaison-avec-le-cautionnement"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-10-enjeux-pratiques-et-stratgiques",
+        "title": "Enjeux pratiques et stratégiques",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 10,
+        "path": [
+          "section-principale",
+          "fiche-10-enjeux-pratiques-et-stratgiques"
+        ],
+        "children": []
+      }
+    ],
+    "totalArticles": 10
+  },
+  "source": "autre"
+}

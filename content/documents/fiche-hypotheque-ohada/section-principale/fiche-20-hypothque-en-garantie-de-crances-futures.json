@@ -1,0 +1,14 @@
+{
+  "id": "fiche-20-hypothque-en-garantie-de-crances-futures",
+  "title": "Hypothèque en garantie de créances futures",
+  "numero": "section-20",
+  "document": "fiche-hypotheque-ohada",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-19-hypothques-spciales",
+    "next": "fiche-21-hypothque-rechargeable"
+  }
+}

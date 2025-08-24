@@ -1,0 +1,1 @@
+Applications pratiques du critère personnel :

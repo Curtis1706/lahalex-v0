@@ -1,0 +1,14 @@
+{
+  "id": "fiche-5-deuxime-fonction-juridiction-de-contrle",
+  "title": "Deuxième fonction : Juridiction de contrôle",
+  "numero": "section-5",
+  "document": "fiche-arbitrage-ccja",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-4-premire-fonction-institution-darbitrage-classique",
+    "next": "fiche-6-consquences-de-cette-dualit-"
+  }
+}
