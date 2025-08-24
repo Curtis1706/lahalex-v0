@@ -198,11 +198,6 @@ export default function SourceRegionalPage() {
                     <span className="truncate text-left">{category.label}</span>
                   </div>
                   <div className="flex items-center space-x-2 flex-shrink-0">
-                    {count > 0 && (
-                      <Badge variant="secondary" className="text-xs px-2 py-0.5">
-                        {count}
-                      </Badge>
-                    )}
                     <ChevronRight className="w-4 h-4" />
                   </div>
                 </button>
@@ -255,11 +250,6 @@ export default function SourceRegionalPage() {
                 <span className="truncate text-left font-bold">Fiches de synthèse</span>
               </div>
               <div className="flex items-center space-x-2 flex-shrink-0">
-                {categoryCounts["fiche-synthese"] > 0 && (
-                  <Badge variant="secondary" className="text-xs px-2 py-0.5">
-                    {categoryCounts["fiche-synthese"]}
-                  </Badge>
-                )}
                 <ChevronRight className="w-4 h-4" />
               </div>
             </button>
