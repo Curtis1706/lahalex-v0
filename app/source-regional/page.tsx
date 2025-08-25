@@ -6,9 +6,10 @@ import { useIsMobile } from "@/hooks/use-mobile"
 import Link from "next/link"
 import { format } from "date-fns"
 import { fr } from "date-fns/locale"
-import { Menu, X, ChevronRight, FileText, Clock, BookOpen, ChevronLeft } from "lucide-react"
+import { Menu, X, ChevronRight, FileText, Clock, BookOpen, ChevronLeft, Search } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"
+import { Input } from "@/components/ui/input"
 import { Footer } from "@/components/footer"
 
 interface Document {
@@ -379,6 +380,31 @@ export default function SourceRegionalPage() {
 
         {/* Main Content */}
         <div className="flex-1 min-w-0">
+          {/* Barre de recherche principale */}
+          <div className="bg-white border-b border-gray-200 px-4 lg:px-6 py-4 lg:py-6">
+            <div className="max-w-2xl mx-auto">
+              <form onSubmit={(e) => {
+                e.preventDefault();
+                if (searchValue.trim()) {
+                  handleSearchSubmit(searchValue.trim());
+                }
+              }} className="relative">
+                <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 w-4 h-4" />
+                <Input
+                  type="text"
+                  placeholder="Rechercher dans tous les documents..."
+                  value={searchValue}
+                  onChange={(e) => setSearchValue(e.target.value)}
+                  className="pl-10 text-sm rounded-[6px] placeholder-[#89898A] border"
+                  style={{
+                    backgroundColor: "rgba(255, 255, 255, 0.06)",
+                    borderColor: "#BCBCBC",
+                  }}
+                />
+              </form>
+            </div>
+          </div>
+
           {selectedCategory ? (
             <div className="h-full flex flex-col">
               {/* Header avec titre et breadcrumb */}
