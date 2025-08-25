@@ -1,1 +1,0 @@
-L'AUS offre trois modes de réalisation au créancier impayé :

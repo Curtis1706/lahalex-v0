@@ -1,1 +1,0 @@
-Les conventions classent les revenus en catégories distinctes, chacune bénéficiant de règles spécifiques :

@@ -1,6 +1,0 @@
-Lorsque le motif du licenciement envisagé par l’employeur consiste en
-une faute lourde commise par le salarié et rendant immédiatement
-impossible son maintien dans l’entreprise, l’employeur peut, sur le
-champ, prononcer une mise à pied conservatoire. Dans ce cas, la demande
-d’autorisation du licenciement doit être adressée sans délai à
-l’inspecteur du travail et faire état de la mise à pied prononcée.

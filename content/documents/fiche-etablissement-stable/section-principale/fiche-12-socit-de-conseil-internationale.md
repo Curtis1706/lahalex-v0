@@ -1,2 +1,0 @@
-Société de conseil internationale
-Un cabinet de conseil américain envoie une équipe au Bénin pour une mission de restructuration d'entreprise pendant 7 mois avec bureau dédié. Établissement stable constitué car la durée dépasse 183 jours.

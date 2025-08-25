@@ -1,2 +1,0 @@
-Définition et évolution
-Le gage constitue, selon l'article 92 de l'AUS, "le contrat par lequel le constituant accorde à un créancier le droit de se faire payer par préférence sur un bien meuble corporel." Cette définition traduit une révolution conceptuelle : depuis 2011, le gage s'identifie par son objet (meubles corporels) et non plus par son mode de constitution (dépossession obligatoire).

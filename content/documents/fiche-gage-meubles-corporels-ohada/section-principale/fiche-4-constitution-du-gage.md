@@ -1,1 +1,0 @@
-Constitution du gage

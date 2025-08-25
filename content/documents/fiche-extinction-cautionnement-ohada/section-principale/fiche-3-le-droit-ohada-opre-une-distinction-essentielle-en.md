@@ -1,1 +1,0 @@
-Le droit OHADA opère une distinction essentielle entre deux dimensions de l'engagement de caution :

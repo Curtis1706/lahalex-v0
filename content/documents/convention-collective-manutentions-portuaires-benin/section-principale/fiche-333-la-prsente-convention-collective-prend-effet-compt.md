@@ -1,3 +1,0 @@
-La présente Convention Collective prend effet à compter du
-……………………………………………………
-Fait à Cotonou, le …………………..

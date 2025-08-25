@@ -1,1 +1,0 @@
-Critères de choix entre arbitre unique et tribunal de trois :

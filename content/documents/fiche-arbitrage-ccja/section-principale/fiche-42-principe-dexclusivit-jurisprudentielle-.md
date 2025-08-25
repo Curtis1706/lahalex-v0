@@ -1,2 +1,0 @@
-Principe d'exclusivité jurisprudentielle :
-La CCJA a consacré l'autonomie complète de l'arbitrage CCJA : "Les arbitrages CCJA sont soumis aux seules règles énumérées par l'art. 10.1 du Règlement, à l'exclusion de l'AU" (CCJA, ass. plén., 17 juillet 2008, n° 045/2008).

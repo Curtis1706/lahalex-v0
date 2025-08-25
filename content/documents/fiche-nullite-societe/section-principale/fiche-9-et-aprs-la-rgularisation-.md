@@ -1,1 +1,0 @@
-**Et après la régularisation ?**

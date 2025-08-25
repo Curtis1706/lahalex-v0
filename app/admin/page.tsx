@@ -229,6 +229,13 @@ export default function AdminPage() {
           <div className="flex items-center space-x-4">
             <Button
               variant="outline"
+              onClick={() => router.push("/admin/fiches-synthese")}
+              className="flex items-center space-x-2"
+            >
+                             <span>📋 Fiches de méthode</span>
+            </Button>
+            <Button
+              variant="outline"
               onClick={() => window.open("/", "_blank")}
               className="flex items-center space-x-2"
             >

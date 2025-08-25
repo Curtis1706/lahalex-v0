@@ -60,6 +60,7 @@ const getDocumentTypeLabel = (type: string) => {
     loi: "Lois",
     decret: "Décrets",
     "fiche-synthese": "Fiches de synthèse",
+    "fiche-methode": "Fiches de méthode",
     other: "Autres documents",
   };
   return typeLabels[type as keyof typeof typeLabels] || "Documents";
@@ -163,7 +164,7 @@ export function DocumentReader({
 
   // Fonction pour charger tout le contenu d'une fiche de synthèse
   const loadFullFicheContent = useCallback(async () => {
-    if (document.type === 'fiche-synthese' && allArticles && allArticles.length > 0) {
+    if ((document.type === 'fiche-synthese' || document.type === 'fiche-methode') && allArticles && allArticles.length > 0) {
       try {
         // Trier les articles par ordre pour maintenir la structure logique
         const sortedArticles = allArticles.sort((a, b) => {
@@ -203,7 +204,7 @@ export function DocumentReader({
 
   // Charger le contenu complet au montage du composant pour les fiches de synthèse
   useEffect(() => {
-    if (document.type === 'fiche-synthese') {
+    if (document.type === 'fiche-synthese' || document.type === 'fiche-methode') {
       loadFullFicheContent();
     }
   }, [document.type, loadFullFicheContent]);
@@ -213,7 +214,7 @@ export function DocumentReader({
 
   // Traiter le contenu complet quand il change
   useEffect(() => {
-    if (document.type === 'fiche-synthese' && fullFicheContent) {
+    if ((document.type === 'fiche-synthese' || document.type === 'fiche-methode') && fullFicheContent) {
       processMarkdownContent(fullFicheContent).then(setProcessedFullContent);
     }
   }, [document.type, fullFicheContent]);
@@ -278,7 +279,7 @@ export function DocumentReader({
       setCurrentUnifiedIndex(-1);
       // Restaurer le contenu original
       if (articleContentRef.current) {
-        const contentToRestore = document.type === 'fiche-synthese' && processedFullContent 
+        const contentToRestore = (document.type === 'fiche-synthese' || document.type === 'fiche-methode') && processedFullContent 
           ? processedFullContent 
           : processedContent;
         articleContentRef.current.innerHTML = contentToRestore;
@@ -293,7 +294,7 @@ export function DocumentReader({
       const regex = new RegExp(`(${searchTerm})`, "gi");
       
       // Déterminer le contenu à rechercher
-      const contentToSearch = document.type === 'fiche-synthese' && processedFullContent 
+      const contentToSearch = (document.type === 'fiche-synthese' || document.type === 'fiche-methode') && processedFullContent 
         ? processedFullContent 
         : processedContent;
       
@@ -408,7 +409,7 @@ export function DocumentReader({
         
         // Restaurer le contenu original
         if (articleContentRef.current) {
-          const contentToRestore = document.type === 'fiche-synthese' && processedFullContent 
+          const contentToRestore = (document.type === 'fiche-synthese' || document.type === 'fiche-methode') && processedFullContent 
             ? processedFullContent 
             : processedContent;
           articleContentRef.current.innerHTML = contentToRestore;
@@ -494,7 +495,7 @@ export function DocumentReader({
       setCurrentMatchIndex(-1);
       // Restaurer le contenu original
       if (articleContentRef.current) {
-        const contentToRestore = document.type === 'fiche-synthese' && processedFullContent 
+        const contentToRestore = (document.type === 'fiche-synthese' || document.type === 'fiche-methode') && processedFullContent 
           ? processedFullContent 
           : processedContent;
         articleContentRef.current.innerHTML = contentToRestore;
@@ -656,8 +657,8 @@ export function DocumentReader({
       <LahalexBreadcrumbResponsive items={breadcrumbItems} />
 
       <div className="flex min-h-[calc(100vh-200px)]">
-        {/* Sidebar Gauche - Masquée pour les fiches de synthèse */}
-        {document.type !== 'fiche-synthese' && (
+        {/* Sidebar Gauche - Masquée pour les fiches de méthode */}
+        {document.type !== 'fiche-synthese' && document.type !== 'fiche-methode' && (
           <div
             className="hidden lg:block w-80 border-r border-gray-200 flex flex-col h-[calc(100vh-200px)] overflow-y-auto"
             style={{ backgroundColor: "#F8F3F4" }}
@@ -681,14 +682,14 @@ export function DocumentReader({
           </div>
         )}
 
-        {/* Contenu Principal - Milieu - Ajusté pour les fiches de synthèse */}
-        <div className={`flex-1 min-w-0 overflow-y-auto h-[calc(100vh-200px)] ${document.type === 'fiche-synthese' ? 'mx-auto' : ''}`}>
+        {/* Contenu Principal - Milieu - Ajusté pour les fiches de méthode */}
+        <div className={`flex-1 min-w-0 overflow-y-auto h-[calc(100vh-200px)] ${document.type === 'fiche-synthese' || document.type === 'fiche-methode' ? 'mx-auto' : ''}`}>
           <div
-            className={`max-w-4xl mx-auto p-4 lg:p-8 bg-white ${document.type === 'fiche-synthese' ? 'max-w-6xl' : ''}`}
+            className={`max-w-4xl mx-auto p-4 lg:p-8 bg-white ${document.type === 'fiche-synthese' || document.type === 'fiche-methode' ? 'max-w-6xl' : ''}`}
             style={{ backgroundColor: "#FFFFFF" }}
           >
             {/* En-tête simplifié pour les fiches de synthèse */}
-            {document.type === 'fiche-synthese' ? (
+            {(document.type === 'fiche-synthese' || document.type === 'fiche-methode') ? (
               <div className="mb-8">
                 <h1 className="text-3xl font-bold text-gray-900 mb-6 text-center">
                   {document.title}
@@ -730,7 +731,7 @@ export function DocumentReader({
                 ref={articleContentRef}
                 className="overflow-auto"
                 dangerouslySetInnerHTML={{ 
-                  __html: document.type === 'fiche-synthese' && processedFullContent 
+                  __html: (document.type === 'fiche-synthese' || document.type === 'fiche-methode') && processedFullContent 
                     ? processedFullContent 
                     : processedContent 
                 }}
@@ -899,7 +900,7 @@ export function DocumentReader({
         </div>
 
         {/* Mobile: Boutons flottants - Masqués pour les fiches de synthèse */}
-        {isMobile && document.type !== 'fiche-synthese' && (
+        {isMobile && document.type !== 'fiche-synthese' && document.type !== 'fiche-methode' && (
           <>
             <Button
               variant="outline"

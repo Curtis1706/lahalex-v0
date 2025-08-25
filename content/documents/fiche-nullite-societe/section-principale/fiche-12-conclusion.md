@@ -1,2 +1,0 @@
-**Conclusion**
-Le droit OHADA protège les entreprises contre les annulations abusives. Il impose des délais courts, limite les personnes pouvant agir, et permet la régularisation de la plupart des vices. L’objectif est de **protéger les tiers et l’économie**, tout en garantissant la légalité des structures juridiques.

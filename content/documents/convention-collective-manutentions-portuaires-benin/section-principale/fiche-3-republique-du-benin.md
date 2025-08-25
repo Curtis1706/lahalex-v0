@@ -1,2 +1,0 @@
-REPUBLIQUE DU BENIN
------ ¤ --

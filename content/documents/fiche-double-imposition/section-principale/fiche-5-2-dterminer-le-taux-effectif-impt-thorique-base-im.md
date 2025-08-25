@@ -1,1 +1,0 @@
-2. Déterminer le taux effectif = impôt théorique / base imposable théorique

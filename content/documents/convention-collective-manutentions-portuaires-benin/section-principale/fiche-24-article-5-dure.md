@@ -1,1 +1,0 @@
-ARTICLE 5 : DURÉE

@@ -1,1 +1,0 @@
-CHOSES À RETENIR

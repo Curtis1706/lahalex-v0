@@ -120,7 +120,8 @@ export default function SourceInternationalPage() {
       "lois-ordinaires": "Lois ordinaires",
       decrets: "Décrets",
       arretes: "Arrêtés",
-      "fiche-synthese": "Fiches de synthèse",
+      "fiche-synthese": "Fiches méthode",
+      "fiche-methode": "Fiches méthode",
       ohada: "OHADA",
       "union-africaine": "Union Africaine",
       cemac: "CEMAC",
@@ -238,16 +239,16 @@ export default function SourceInternationalPage() {
         {/* Autres */}
         <div>
           <div className="space-y-1 lg:space-y-2">
-            <button
-              onClick={() => handleCategoryClick("fiche-synthese", "")}
-              className={`w-full flex items-center justify-between px-3 py-2.5 lg:py-2 rounded-md text-sm transition-all duration-200 ${
-                selectedCategory === "fiche-synthese"
-                  ? "bg-blue-100 text-blue-700 shadow-sm"
-                  : "text-gray-700 hover:bg-gray-100 hover:text-gray-900"
-              }`}
-            >
+                         <button
+               onClick={() => handleCategoryClick("fiche-methode", "")}
+               className={`w-full flex items-center justify-between px-3 py-2.5 lg:py-2 rounded-md text-sm transition-all duration-200 ${
+                 selectedCategory === "fiche-methode"
+                   ? "bg-blue-100 text-blue-700 shadow-sm"
+                   : "text-gray-700 hover:bg-gray-100 hover:text-gray-900"
+               }`}
+             >
               <div className="flex items-center space-x-2 lg:space-x-3 min-w-0">
-                <span className="truncate text-left font-bold">Fiches de synthèse</span>
+                <span className="truncate text-left font-bold">Fiches méthode</span>
               </div>
               <div className="flex items-center space-x-2 flex-shrink-0">
                 <ChevronRight className="w-4 h-4" />

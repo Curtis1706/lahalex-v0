@@ -1,2 +1,0 @@
-Définition et avantages
-L'hypothèque constitue, selon l'article 190 de l'AUS, "l'affectation d'un immeuble déterminé ou déterminable appartenant au constituant en garantie d'une ou plusieurs créances, présentes ou futures à condition qu'elles soient déterminées ou déterminables." Elle peut être légale, conventionnelle ou judiciaire.

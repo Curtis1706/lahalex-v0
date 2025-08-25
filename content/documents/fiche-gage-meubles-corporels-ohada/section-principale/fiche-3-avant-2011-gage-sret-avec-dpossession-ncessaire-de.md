@@ -1,3 +1,0 @@
-Avant 2011 : Gage = sûreté avec dépossession nécessaire Depuis 2011 : Gage = sûreté sur meubles corporels, avec ou sans dépossession
-Cette évolution libère le débiteur de la contrainte de remise tout en conservant l'usage de ses biens gagés. Un commerçant peut désormais gager son stock de marchandises en continuant à les vendre.
-La distinction avec le nantissement repose sur la nature du bien : gage pour les meubles corporels (véhicules, machines, stocks), nantissement pour les incorporels (créances, fonds de commerce).

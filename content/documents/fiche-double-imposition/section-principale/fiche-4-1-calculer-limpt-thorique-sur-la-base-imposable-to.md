@@ -1,1 +1,0 @@
-1. Calculer l'impôt théorique sur la base imposable totale (revenus nationaux + étrangers)

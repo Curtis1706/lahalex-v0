@@ -1,1 +1,0 @@
-Constitution de l'hypothèque
