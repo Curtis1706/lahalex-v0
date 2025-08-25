@@ -1,1 +1,0 @@
-Conséquences de cette limitation :

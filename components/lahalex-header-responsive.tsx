@@ -76,8 +76,6 @@ export function LahalexHeaderResponsive({ searchValue = "", onSearchChange, onSe
                 <Input
                   type="text"
                   placeholder="Tapez votre mot clé"
-                  value={searchValue}
-                  onChange={(e) => onSearchChange?.(e.target.value)}
                   className="w-full bg-white text-gray-900 border-0 rounded-md pr-12 placeholder:text-gray-500 focus:ring-2 focus:ring-accent-lahalex text-sm sm:text-base"
                 />
                 <Button

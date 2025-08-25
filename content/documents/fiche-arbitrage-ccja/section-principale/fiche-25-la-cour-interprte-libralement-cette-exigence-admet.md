@@ -1,1 +1,0 @@
-La Cour interprète libéralement cette exigence, admettant diverses formulations :

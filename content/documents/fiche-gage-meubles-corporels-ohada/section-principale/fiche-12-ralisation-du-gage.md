@@ -1,1 +1,0 @@
-Réalisation du gage

@@ -1,0 +1,23 @@
+{
+  "id": "rdaction-et-prsentation-des-recherches",
+  "title": "Rédaction et présentation des recherches",
+  "type": "fiche-methode",
+  "description": "Guide méthodologique exhaustif pour la rédaction académique, couvrant la conception et la structuration de la recherche, la formulation de la problématique, l’analyse documentaire, les techniques de citation et de présentation, le processus de rédaction et de révision, ainsi que les normes formelles et pratiques indispensables pour atteindre l’excellence scientifique et argumentative",
+  "publishedDate": "2025-08-25T19:46:15.483Z",
+  "structure": {
+    "sections": [
+      {
+        "id": "section-principale",
+        "title": "Rédaction et présentation des recherches",
+        "type": "section-synthese",
+        "level": 1,
+        "order": 0,
+        "path": [
+          "section-principale"
+        ],
+        "children": []
+      }
+    ],
+    "totalArticles": 1
+  }
+}

@@ -1,2 +1,0 @@
-**Exceptions :**
-- On **ne peut pas régulariser** un défaut lié à un objet social **illégal**. Par exemple, une société créée pour organiser des jeux de hasard interdits ne pourra jamais être sauvée par une régularisation.

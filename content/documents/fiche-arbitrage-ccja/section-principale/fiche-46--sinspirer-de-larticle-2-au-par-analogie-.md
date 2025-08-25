@@ -1,1 +1,0 @@
-- S'inspirer de l'article 2 AU par analogie ?

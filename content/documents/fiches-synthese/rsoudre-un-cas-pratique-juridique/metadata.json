@@ -1,0 +1,23 @@
+{
+  "id": "rsoudre-un-cas-pratique-juridique",
+  "title": "Résoudre un cas pratique juridique",
+  "type": "fiche-methode",
+  "description": "Guide méthodologique complet sur le cas pratique juridique, présentant sa nature et ses objectifs pédagogiques, les étapes d’analyse et de qualification des faits, l’identification et la résolution des problématiques, les méthodes de rédaction et de consultation, les techniques d’excellence, ainsi que les erreurs fréquentes à éviter pour former un juriste rigoureux et opérationnel",
+  "publishedDate": "2025-08-25T19:47:35.461Z",
+  "structure": {
+    "sections": [
+      {
+        "id": "section-principale",
+        "title": "Résoudre un cas pratique juridique",
+        "type": "section-synthese",
+        "level": 1,
+        "order": 0,
+        "path": [
+          "section-principale"
+        ],
+        "children": []
+      }
+    ],
+    "totalArticles": 1
+  }
+}

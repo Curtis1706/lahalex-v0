@@ -50,11 +50,20 @@ export class DocumentManager {
 
   static async loadDocument(documentId: string): Promise<DocumentMetadata | null> {
     try {
+      // Essayer d'abord dans le dossier principal
       const metadataPath = join(DOCUMENTS_DIR, documentId, 'metadata.json')
       const content = await fs.readFile(metadataPath, 'utf-8')
       return JSON.parse(content)
     } catch {
-      return null
+      // Si pas trouvé, essayer dans le dossier fiches-synthese
+      try {
+        const fichesDir = join(process.cwd(), 'content', 'documents', 'fiches-synthese')
+        const metadataPath = join(fichesDir, documentId, 'metadata.json')
+        const content = await fs.readFile(metadataPath, 'utf-8')
+        return JSON.parse(content)
+      } catch {
+        return null
+      }
     }
   }
 
@@ -63,7 +72,35 @@ export class DocumentManager {
       const document = await this.loadDocument(documentId)
       if (!document) return null
 
-      // Chercher l'article dans la structure
+      // Pour les fiches de méthode créées via l'admin, utiliser un seul fichier JSON
+      if (document.type === 'fiche-methode') {
+        try {
+          // Essayer d'abord dans le dossier principal
+          let articlePath = join(DOCUMENTS_DIR, documentId, `${articleId}.json`)
+          let articleContent: string
+          
+          try {
+            articleContent = await fs.readFile(articlePath, 'utf-8')
+          } catch {
+            // Si pas trouvé, essayer dans le dossier fiches-synthese
+            const fichesDir = join(process.cwd(), 'content', 'documents', 'fiches-synthese')
+            articlePath = join(fichesDir, documentId, `${articleId}.json`)
+            articleContent = await fs.readFile(articlePath, 'utf-8')
+          }
+          
+          const article = JSON.parse(articleContent)
+          
+          return {
+            metadata: article.metadata,
+            content: article.content
+          }
+        } catch (error) {
+                     console.warn(`Impossible de charger la fiche de méthode ${articleId}:`, error)
+          return null
+        }
+      }
+
+      // Pour les autres documents, utiliser le système existant
       const articlePath = await this.findArticlePath(documentId, articleId)
       if (!articlePath) return null
 
@@ -83,11 +120,43 @@ export class DocumentManager {
 
   static async loadAllArticles(documentId: string): Promise<Array<{ metadata: ArticleMetadata; content: string }>> {
     try {
-      const documentDir = join(DOCUMENTS_DIR, documentId)
-      const articles: Array<{ metadata: ArticleMetadata; content: string }> = []
-      
-      // Fonction récursive pour parcourir tous les dossiers
-      const scanDirectory = async (dir: string) => {
+      const document = await this.loadDocument(documentId)
+      if (!document) return []
+
+             // Pour les fiches de méthode, charger directement l'article principal
+       if (document.type === 'fiche-methode') {
+        try {
+          const article = await this.loadArticle(documentId, 'section-principale')
+          if (article) {
+            return [article]
+          }
+                 } catch (error) {
+           console.warn(`Impossible de charger la fiche de méthode ${documentId}:`, error)
+         }
+        return []
+      }
+
+             // Pour les autres documents, utiliser le système existant
+       let documentDir = join(DOCUMENTS_DIR, documentId)
+       
+       // Vérifier si le dossier existe dans le répertoire principal
+       try {
+         await fs.access(documentDir)
+       } catch {
+         // Si pas trouvé dans le répertoire principal, essayer dans fiches-synthese
+         documentDir = join(process.cwd(), 'content', 'documents', 'fiches-synthese', documentId)
+         try {
+           await fs.access(documentDir)
+         } catch {
+           // Le document n'existe nulle part
+           return []
+         }
+       }
+       
+       const articles: Array<{ metadata: ArticleMetadata; content: string }> = []
+       
+       // Fonction récursive pour parcourir tous les dossiers
+       const scanDirectory = async (dir: string) => {
         try {
           const entries = await fs.readdir(dir, { withFileTypes: true })
           
@@ -176,11 +245,26 @@ export class DocumentManager {
     return { dir, pathParts }
   }
 
-  private static async findArticlePath(documentId: string, articleId: string): Promise<string | null> {
-    const documentDir = join(DOCUMENTS_DIR, documentId)
-    
-    // Recherche récursive de l'article
-    const searchInDir = async (dir: string): Promise<string | null> => {
+     private static async findArticlePath(documentId: string, articleId: string): Promise<string | null> {
+     // Essayer d'abord dans le dossier principal
+     let documentDir = join(DOCUMENTS_DIR, documentId)
+     
+     // Vérifier si le dossier existe dans le répertoire principal
+     try {
+       await fs.access(documentDir)
+     } catch {
+       // Si pas trouvé dans le répertoire principal, essayer dans fiches-synthese
+       documentDir = join(process.cwd(), 'content', 'documents', 'fiches-synthese', documentId)
+       try {
+         await fs.access(documentDir)
+       } catch {
+         // Le document n'existe nulle part
+         return null
+       }
+     }
+     
+     // Recherche récursive de l'article
+     const searchInDir = async (dir: string): Promise<string | null> => {
       try {
         const entries = await fs.readdir(dir, { withFileTypes: true })
         
@@ -203,7 +287,8 @@ export class DocumentManager {
       return null
     }
 
-    return await searchInDir(documentDir)
+         let result = await searchInDir(documentDir)
+     return result
   }
 
   static async listAllDocuments(): Promise<DocumentMetadata[]> {
@@ -225,6 +310,28 @@ export class DocumentManager {
             console.warn(`Impossible de charger ${entry.name}:`, error)
           }
         }
+      }
+      
+             // Inclure aussi les fiches de méthode créées via l'admin
+      try {
+        const fichesDir = join(process.cwd(), 'content', 'documents', 'fiches-synthese')
+        const fichesEntries = await fs.readdir(fichesDir, { withFileTypes: true })
+        
+        for (const entry of fichesEntries) {
+          if (entry.isDirectory()) {
+            try {
+              const metadataPath = join(fichesDir, entry.name, 'metadata.json')
+              const metadataContent = await fs.readFile(metadataPath, 'utf-8')
+              const metadata = JSON.parse(metadataContent) as DocumentMetadata
+              documents.push(metadata)
+            } catch (error) {
+              console.warn(`Impossible de charger fiche de méthode ${entry.name}:`, error)
+            }
+          }
+        }
+      } catch (error) {
+        // Le dossier fiches-synthese n'existe pas encore, c'est normal
+                 console.log('Dossier fiches-methode non trouvé, ignoré')
       }
       
       return documents.sort((a, b) => 

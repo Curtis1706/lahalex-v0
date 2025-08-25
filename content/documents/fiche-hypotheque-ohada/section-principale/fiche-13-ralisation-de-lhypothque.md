@@ -1,1 +1,0 @@
-Réalisation de l'hypothèque

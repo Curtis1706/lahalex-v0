@@ -1,2 +1,0 @@
-Fourniture de services
-Les services, y compris de consultants, fournis par l'intermédiaire de salariés ou personnel engagé constituent un établissement stable si les activités se poursuivent pendant plus de 183 jours sur une période de 12 mois, pour le même projet ou un projet connexe.

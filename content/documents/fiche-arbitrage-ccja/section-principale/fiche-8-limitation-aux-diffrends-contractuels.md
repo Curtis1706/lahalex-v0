@@ -1,2 +1,0 @@
-Limitation aux différends contractuels
-Contrairement au droit commun (article 2 AU) qui permet l'arbitrage de tous litiges sur droits disponibles, l'article 2.1 du Règlement CCJA limite la compétence aux "différends d'ordre contractuel".

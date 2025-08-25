@@ -1,1 +1,0 @@
-**Le régime particulier de l’action en nullité d’une société**

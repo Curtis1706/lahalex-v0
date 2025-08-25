@@ -1,2 +1,0 @@
-Régime CCJA renforcé :
-L'article 4.1 du Règlement CCJA étend cette obligation : l'arbitre doit révéler "les faits ou circonstances qui pourraient être de nature à mettre en cause son indépendance dans l'esprit des parties."

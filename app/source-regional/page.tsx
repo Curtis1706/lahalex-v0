@@ -6,9 +6,10 @@ import { useIsMobile } from "@/hooks/use-mobile"
 import Link from "next/link"
 import { format } from "date-fns"
 import { fr } from "date-fns/locale"
-import { Menu, X, ChevronRight, FileText, Clock, BookOpen, ChevronLeft } from "lucide-react"
+import { Menu, X, ChevronRight, FileText, Clock, BookOpen, ChevronLeft, Search } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"
+import { Input } from "@/components/ui/input"
 import { Footer } from "@/components/footer"
 
 interface Document {
@@ -119,7 +120,8 @@ export default function SourceRegionalPage() {
       "lois-ordinaires": "Lois ordinaires",
       decrets: "Décrets",
       arretes: "Arrêtés",
-      "fiche-synthese": "Fiches de synthèse",
+      "fiche-synthese": "Fiches méthode",
+      "fiche-methode": "Fiches méthode",
       ohada: "OHADA",
       "union-africaine": "Union Africaine",
       cemac: "CEMAC",
@@ -238,16 +240,16 @@ export default function SourceRegionalPage() {
         {/* Autres */}
         <div>
           <div className="space-y-1 lg:space-y-2">
-            <button
-              onClick={() => handleCategoryClick("fiche-synthese", "")}
-              className={`w-full flex items-center justify-between px-3 py-2.5 lg:py-2 rounded-md text-sm transition-all duration-200 ${
-                selectedCategory === "fiche-synthese"
-                  ? "bg-blue-100 text-blue-700 shadow-sm"
-                  : "text-gray-700 hover:bg-gray-100 hover:text-gray-900"
-              }`}
-            >
+                         <button
+               onClick={() => handleCategoryClick("fiche-methode", "")}
+               className={`w-full flex items-center justify-between px-3 py-2.5 lg:py-2 rounded-md text-sm transition-all duration-200 ${
+                 selectedCategory === "fiche-methode"
+                   ? "bg-blue-100 text-blue-700 shadow-sm"
+                   : "text-gray-700 hover:bg-gray-100 hover:text-gray-900"
+               }`}
+             >
               <div className="flex items-center space-x-2 lg:space-x-3 min-w-0">
-                <span className="truncate text-left font-bold">Fiches de synthèse</span>
+                <span className="truncate text-left font-bold">Fiches méthode</span>
               </div>
               <div className="flex items-center space-x-2 flex-shrink-0">
                 <ChevronRight className="w-4 h-4" />
@@ -379,6 +381,31 @@ export default function SourceRegionalPage() {
 
         {/* Main Content */}
         <div className="flex-1 min-w-0">
+          {/* Barre de recherche principale */}
+          <div className="bg-white border-b border-gray-200 px-4 lg:px-6 py-4 lg:py-6">
+            <div className="max-w-2xl mx-auto">
+              <form onSubmit={(e) => {
+                e.preventDefault();
+                if (searchValue.trim()) {
+                  handleSearchSubmit(searchValue.trim());
+                }
+              }} className="relative">
+                <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 w-4 h-4" />
+                <Input
+                  type="text"
+                  placeholder="Rechercher dans tous les documents..."
+                  value={searchValue}
+                  onChange={(e) => setSearchValue(e.target.value)}
+                  className="pl-10 text-sm rounded-[6px] placeholder-[#89898A] border"
+                  style={{
+                    backgroundColor: "rgba(255, 255, 255, 0.06)",
+                    borderColor: "#BCBCBC",
+                  }}
+                />
+              </form>
+            </div>
+          </div>
+
           {selectedCategory ? (
             <div className="h-full flex flex-col">
               {/* Header avec titre et breadcrumb */}

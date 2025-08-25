@@ -28,8 +28,8 @@ export async function GET(request: NextRequest) {
         })
         
         if (source && matchesCategory) {
-          // Pour les fiches de synthèse, pas de filtrage par source spécifique
-          if (category === 'fiche-synthese') {
+          // Pour les fiches de méthode, pas de filtrage par source spécifique
+          if (category === 'fiche-synthese' || category === 'fiche-methode') {
             return true
           }
           

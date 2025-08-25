@@ -1,3 +1,0 @@
-DÉFINITION ET PRINCIPE GÉNÉRAL
-L'établissement stable constitue un critère fondamental de rattachement territorial pour l'imposition des sociétés non-résidentes au Bénin. Selon l'article 6 du Code Général des Impôts béninois, l'établissement stable désigne une installation fixe d'affaires par l'intermédiaire de laquelle l'entreprise exerce tout ou partie de son activité.
-Cette notion permet d'imposer au Bénin les bénéfices des entreprises étrangères dès lors qu'elles disposent d'une présence économique suffisante sur le territoire béninois, matérialisée par un établissement stable.

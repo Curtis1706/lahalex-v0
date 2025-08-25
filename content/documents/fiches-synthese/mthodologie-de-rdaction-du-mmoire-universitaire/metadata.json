@@ -1,0 +1,23 @@
+{
+  "id": "mthodologie-de-rdaction-du-mmoire-universitaire",
+  "title": "Méthodologie de rédaction du mémoire universitaire",
+  "type": "fiche-methode",
+  "description": "Guide méthodologique pour la rédaction du mémoire universitaire : valorisation des sources africaines, sélection qualitative des références, construction cohérente de l’introduction et de la conclusion, rigueur académique, anticipation des soutenances et recommandations pratiques pour atteindre l’excellence formelle et argumentative.",
+  "publishedDate": "2025-08-25T19:39:40.424Z",
+  "structure": {
+    "sections": [
+      {
+        "id": "section-principale",
+        "title": "Méthodologie de rédaction du mémoire universitaire",
+        "type": "section-synthese",
+        "level": 1,
+        "order": 0,
+        "path": [
+          "section-principale"
+        ],
+        "children": []
+      }
+    ],
+    "totalArticles": 1
+  }
+}
