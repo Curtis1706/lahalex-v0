@@ -1,0 +1,23 @@
+{
+  "id": "stratgies-dexcellence-pour-la-russite-aux-examens",
+  "title": "Stratégies d'excellence pour la réussite aux examens",
+  "type": "fiche-methode",
+  "description": "Un guide stratégique de préparation aux examens, présentant l’organisation des supports de révision, la création d’outils personnalisés, la planification méthodique, les techniques de mémorisation et de gestion du stress, le travail collaboratif et l’usage raisonné de l’intelligence artificielle pour optimiser la performance académique et préserver l’équilibre personnel",
+  "publishedDate": "2025-08-25T19:49:15.355Z",
+  "structure": {
+    "sections": [
+      {
+        "id": "section-principale",
+        "title": "Stratégies d'excellence pour la réussite aux examens",
+        "type": "section-synthese",
+        "level": 1,
+        "order": 0,
+        "path": [
+          "section-principale"
+        ],
+        "children": []
+      }
+    ],
+    "totalArticles": 1
+  }
+}

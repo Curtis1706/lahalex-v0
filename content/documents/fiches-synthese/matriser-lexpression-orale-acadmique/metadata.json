@@ -1,0 +1,23 @@
+{
+  "id": "matriser-lexpression-orale-acadmique",
+  "title": "Maîtriser l'expression orale académique",
+  "type": "fiche-methode",
+  "description": "Fiche pratique pour exceller dans les épreuves orales académiques et juridiques : interrogations, soutenances, plaidoiries. Focus sur préparation méthodologique, communication orale, gestion du stress et stratégies d’entraînement.",
+  "publishedDate": "2025-08-25T19:36:58.390Z",
+  "structure": {
+    "sections": [
+      {
+        "id": "section-principale",
+        "title": "Maîtriser l'expression orale académique",
+        "type": "section-synthese",
+        "level": 1,
+        "order": 0,
+        "path": [
+          "section-principale"
+        ],
+        "children": []
+      }
+    ],
+    "totalArticles": 1
+  }
+}

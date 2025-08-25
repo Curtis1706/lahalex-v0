@@ -1,0 +1,23 @@
+{
+  "id": "matriser-la-dissertation-universitaire",
+  "title": "Maîtriser la dissertation universitaire",
+  "type": "fiche-methode",
+  "description": "Fiche pratique pour réussir la dissertation universitaire : méthode de préparation, construction de la problématique, organisation du plan, qualité rédactionnelle et techniques d’argumentation.",
+  "publishedDate": "2025-08-25T19:38:46.947Z",
+  "structure": {
+    "sections": [
+      {
+        "id": "section-principale",
+        "title": "Maîtriser la dissertation universitaire",
+        "type": "section-synthese",
+        "level": 1,
+        "order": 0,
+        "path": [
+          "section-principale"
+        ],
+        "children": []
+      }
+    ],
+    "totalArticles": 1
+  }
+}
