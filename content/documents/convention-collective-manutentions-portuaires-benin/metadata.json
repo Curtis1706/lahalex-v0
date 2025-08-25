@@ -1,0 +1,4431 @@
+{
+  "id": "convention-collective-manutentions-portuaires-benin",
+  "title": "Convention collective du travail applicable aux entreprises du secteur des manutentions portuaires",
+  "type": "conventions-collectives",
+  "description": "Convention collective définissant le régime de travail, la rémunération et les droits sociaux applicables aux travailleurs du secteur des manutentions portuaires au Bénin.",
+  "structure": {
+    "sections": [
+      {
+        "id": "section-principale",
+        "title": "Convention collective du travail applicable aux entreprises du secteur des manutentions portuaires",
+        "type": "section-synthese",
+        "level": 1,
+        "order": 0,
+        "path": [
+          "section-principale"
+        ],
+        "children": [
+          "fiche-1-convention-collective-du-travail-applicable-aux",
+          "fiche-2-entreprises-du-secteur-des-manutentions",
+          "fiche-3-republique-du-benin",
+          "fiche-4-ministre-dlgu-charg-des-transports-des-travaux-pub",
+          "fiche-5-socit-bninoise-des-manutentions-portuaires",
+          "fiche-6-convention-collective-nationale-de-la-manutention-",
+          "fiche-7-entre-les-soussigns-",
+          "fiche-8-t-i-t-r-e-i-des-dispositions",
+          "fiche-9-generales-article-1er-objet-et-champ",
+          "fiche-10-dapplication",
+          "fiche-11-la-prsente-convention-collective-dnomme-convention",
+          "fiche-12-on-entend-par-travaux-de-manutention-portuaire-tou",
+          "fiche-13-les-travailleurs-objet-de-la-prsente-convention-so",
+          "fiche-14-article-2-conditions-dintgration-des",
+          "fiche-15-dockers-occasionnels-dans-leffectif-des-dockers",
+          "fiche-16-les-parties-contractantes-conviennent-que-lemploye",
+          "fiche-17-pour-lapplication-des-dispositions-du-paragraphe-i",
+          "fiche-18-article-3-dialogue",
+          "fiche-19-les-parties-signataires-tmoignent-de-leur-volont-d",
+          "fiche-20-dans-ce-but-elles-estiment-que-les-parties-en-caus",
+          "fiche-21-article-4-avantages-acquis",
+          "fiche-22-la-prsente-convention-collective-ne-peut-entraner-",
+          "fiche-23-toutefois-les-avantages-prvus-par-la-prsente-conve",
+          "fiche-24-article-5-dure",
+          "fiche-25-la-prsente-convention-collective-est-conclue-pour-",
+          "fiche-26-article-6-dnonciation-et-rvision",
+          "fiche-27-la-prsente-convention-collective-ne-peut-tre-dnonc",
+          "fiche-28-la-partie-qui-prend-linitiative-de-la-rvision-part",
+          "fiche-29-de-toute-faon-la-prsente-convention-restera-en-vig",
+          "fiche-30-les-parties-signataires-sengagent-formellement-ne-",
+          "fiche-31-en-dehors-de-toute-dnonciation-de-la-prsente-conve",
+          "fiche-32-article-7-adhsion-ultrieure",
+          "fiche-33-toute-organisation-syndicale-de-travailleurs-ou-de",
+          "fiche-34-cette-adhsion-prend-effet-compter-du-jour-qui-suit",
+          "fiche-35-la-partie-adhrente-ne-peut-toutefois-ni-la-dnoncer",
+          "fiche-36-t-i-t-r-e-ii-des-rapports",
+          "fiche-37-individuels-de-travail",
+          "fiche-38-chapitre-i-de-la-formation-du-conrat-de-travail",
+          "fiche-39-embauchearticle-8-embauche",
+          "fiche-40-article-9-priode-dessai",
+          "fiche-41-tout-employ-recrut-est-soumis-une-priode-dessai-do",
+          "fiche-42-la-dure-de-cette-priode-dessai-est-fixe-",
+          "fiche-43-pendant-la-priode-dessai-les-parties-ont-la-facult",
+          "fiche-44-la-priode-dessai-est-prise-en-compte-dans-le-calcu",
+          "fiche-45-article-10-contrat-dfinitif",
+          "fiche-46-ds-la-fin-de-la-priode-dessai-lorsque-lengagement-",
+          "fiche-47-chapitre-ii-de-la-discipline",
+          "fiche-48-article-11-obligation-de-lemploy-et",
+          "fiche-49-clause-de-non-concurrence",
+          "fiche-50-il-est-formellement-interdit-aux-employs-de-recevo",
+          "fiche-51-il-est-interdit-aux-employs-de-se-livrer-ou-de-fav",
+          "fiche-52-il-est-interdit-aux-employs-dexercer-une-activit-l",
+          "fiche-53-il-est-interdit-tout-employ-quelle-que-soit-sa-pos",
+          "fiche-54-il-est-interdit-aux-employs-de-divulguer-ou-dutili",
+          "fiche-55-article-12-sanctions",
+          "fiche-56-les-sanctions-disciplinaires-applicables-au-person",
+          "fiche-57-sont-considres-comme-fautes-lourdes-dordre-profess",
+          "fiche-58-les-sanctions-sont-prononces-par-crit-par-lemploye",
+          "fiche-59-signification-de-la-sanction-lui-est-faite-par-cri",
+          "fiche-60-toute-absence-non-autorise-entrane-la-suppression-",
+          "fiche-61-article-13-leve-des-sanctions",
+          "fiche-62-disciplinaires",
+          "fiche-63-tout-employ-ayant-fait-lobjet-dune-sanction-discip",
+          "fiche-64-chapitre-iii-de-la-suspension-du-contrat-de-travai",
+          "fiche-65-section-i-suspension-en-cas-de-maladie-ordinaire",
+          "fiche-66-congdemaladiearticle-14-cong-de-maladie",
+          "fiche-67-en-cas-de-maladie-dment-constate-par-un-mdecin-agr",
+          "fiche-68-pour-obtenir-un-cong-de-maladie-ou-un-renouvelleme",
+          "fiche-69-la-dure-maximum-dune-priode-de-cong-de-maladie-est",
+          "fiche-70-article-15-indemnit-de-lemploy-malade",
+          "fiche-71-lemploy-mis-en-cong-de-maladie-conserve-son-salair",
+          "fiche-72-a-lexpiration-du-cong-de-maladie-la-situation-de-l",
+          "fiche-73-a-lexpiration-de-la-dure-conventionnelle-du-cong-d",
+          "fiche-74-section-ii-suspension-en-cas-daccident-de-travail",
+          "fiche-75-et-de-maladie-professionnelle",
+          "fiche-76-maladieprofessionnellearticle-16-accident-de",
+          "fiche-77-travail-et-maladie-professionnelle",
+          "fiche-78-en-cas-daccident-de-travail-ou-de-maladie-professi",
+          "fiche-79-b-indemnisation",
+          "fiche-80-les-avantages-prvus-larticle-13-ciavant-en-matire-",
+          "fiche-81-dans-ce-cas-lemployeur-alloue-lemploy-concern-la-d",
+          "fiche-82-section-iii-suspension-consensuelle-du-contrat-de-",
+          "fiche-83-disponibilite",
+          "fiche-84-article-17-dfinition-et-modalits",
+          "fiche-85-la-suspension-consensuelle-du-contrat-de-travail-e",
+          "fiche-86-cette-suspension-ne-peut-tre-sollicite-quaprs-troi",
+          "fiche-87-lemploy-concern-adresse-une-demande-lemployeur-au-",
+          "fiche-88-la-dure-maximum-ne-peut-excder-un-an-renouvelable-",
+          "fiche-89-pendant-la-priode-de-suspension-lemploy-cesse-de-b",
+          "fiche-90-la-reprise-de-service-est-sollicite-trois-03-mois-",
+          "fiche-91-toute-modification-sur-la-date-de-retour-doit-rece",
+          "fiche-92-la-reprise-est-de-droit-si-la-dure-de-la-suspensio",
+          "fiche-93-audel-de-cette-dure-la-reprise-de-service-est-lie-",
+          "fiche-94-section-iv-position-sous-les-drapeaux",
+          "fiche-95-article-18-dfinition-et-modalits",
+          "fiche-96-la-position-sous-les-drapeaux-est-celle-dun-employ",
+          "fiche-97-lemploy-parvenu-au-terme-du-service-militaire-susv",
+          "fiche-98-toutefois-il-devra-prvenir-lemployeur-au-moins-un-",
+          "fiche-99-section-v-les-autres-cas-de-suspension-du-contrat-",
+          "fiche-100-contratdetravailarticle-19-autres-cas-de",
+          "fiche-101-suspension-du-contrat-de-travail",
+          "fiche-102-tous-les-autres-cas-de-suspension-du-contrat-sont-",
+          "fiche-103-chapitre-iv-de-la-rupture-du-contrat-de-travail",
+          "fiche-104-article-20-modalits-de-la-rupture",
+          "fiche-105-la-partie-qui-prend-linitiative-de-la-rupture-du-c",
+          "fiche-106-cette-notification-doit-tre-faite-soit-par-envoi-d",
+          "fiche-107-article-21-dure-et-droulement-du",
+          "fiche-108-la-dure-du-pravis-est-gale-celle-de-la-priode-dess",
+          "fiche-109-pendant-la-dure-du-pravis-lemployeur-et-lemploy-so",
+          "fiche-110-en-vue-de-la-recherche-dun-nouvel-emploi-lemploy-b",
+          "fiche-111-en-cas-de-licenciement-lemploy-qui-a-trouv-un-nouv",
+          "fiche-112-si-la-demande-de-lemployeur-lemploy-nutilise-pas-t",
+          "fiche-113-article-22-indemnit-compensatrice-de",
+          "fiche-114-chacune-des-deux-parties-peut-se-dgager-de-lobliga",
+          "fiche-115-article-23-licenciement-collectif",
+          "fiche-116-lemployeur-qui-envisage-de-licencier-pour-motif-co",
+          "fiche-117-les-mmes-informations-sont-donnes-aux-dlgus-du-per",
+          "fiche-118-article-24-rembauchage-aprs-licenciement",
+          "fiche-119-les-employs-conservent-pendant-un-dlai-de-deux-02-",
+          "fiche-120-indemnitdelicenciementarticle-25-indemnit",
+          "fiche-121-de-licenciement",
+          "fiche-122-en-cas-de-licenciement-lemploy-ayant-accompli-une-",
+          "fiche-123-cette-indemnit-est-calcule-en-fonction-du-salaire-",
+          "fiche-124-en-cas-de-licenciement-collectif-ces-pourcentages-",
+          "fiche-125-dans-le-dcompte-effectu-sur-les-bases-cidessus-ind",
+          "fiche-126-le-salaire-global-mensuel-moyen-sentend-de-toutes-",
+          "fiche-127-article-26-rupture-du-contrat-de",
+          "fiche-128-lemploy-malade",
+          "fiche-129-si-lexpiration-des-dlais-pour-cong-de-maladie-prvu",
+          "fiche-130-dans-tous-les-cas-la-rupture-du-contrat-de-travail",
+          "fiche-131-lemploy-qui-na-pas-eu-un-01-an-danciennet-percevra",
+          "fiche-132-cette-indemnit-ne-saurait-se-cumuler-avec-les-inde",
+          "fiche-133-lemploy-remplac-dans-les-conditions-indiques-cides",
+          "fiche-134-article-27-dcs-de-lemploy",
+          "fiche-135-en-cas-de-dcs-de-lemploy-le-salaire-de-prsence-lal",
+          "fiche-136-si-lemploy-compte-au-jour-du-dcs-une-anne-au-moins",
+          "fiche-137-le-montant-de-cet-abondement-est-toutefois-limit-s",
+          "fiche-138-ne-peuvent-prtendre-au-paiement-de-ces-sommes-que-",
+          "fiche-139-la-direction-gnrale-participe-aux-dpenses-dobsques",
+          "fiche-140-au-cas-o-la-caisse-nationale-de-scurit-sociale-acc",
+          "fiche-141-si-lemploy-avait-t-dplac-par-le-fait-de-lemployeur",
+          "fiche-142-t-i-t-r-e-iii-des-rapports",
+          "fiche-143-collectifs-de-travail",
+          "fiche-144-chapitre-i-de-lexercice-du-droit-syndical",
+          "fiche-145-article-28-respect-rciproque-des-liberts",
+          "fiche-146-les-parties-contractantes-reconnaissent-le-droit-p",
+          "fiche-147-lentreprise-tant-un-lieu-de-travail-lemployeur-sen",
+          "fiche-148-en-outre-lemployeur-sengage-ne-faire-aucune-pressi",
+          "fiche-149-les-employs-en-ce-qui-les-concerne-sengagent-",
+          "fiche-150-les-parties-contractantes-sengagent-la-stricte-obs",
+          "fiche-151-si-lune-des-parties-contractantes-estime-que-le-li",
+          "fiche-152-article-29-absences-pour-activits",
+          "fiche-153-les-responsables-syndicaux-ainsi-que-les-employs-s",
+          "fiche-154-article-30-droit-de-grve",
+          "fiche-155-le-droit-de-grve-est-reconnu-aux-employs-pour-la-d",
+          "fiche-156-la-grve-ne-peut-tre-dclenche-quen-cas-dchec-des-ng",
+          "fiche-157-lchec-des-ngociations-doit-tre-constat-sance-tenan",
+          "fiche-158-la-grve-ne-rompt-pas-le-contrat-de-travail-lemploy",
+          "fiche-159-article-31-panneaux-daffichage",
+          "fiche-160-des-panneaux-daffichage-grillags-ou-vitrs-en-nombr",
+          "fiche-161-pour-une-utilisation-judicieuse-desdits-panneaux-l",
+          "fiche-162-chapitre-ii-des-delegues-du-personnel",
+          "fiche-163-article-32-election-des-dlgus-du",
+          "fiche-164-les-dlgus-du-personnel-sont-lus-dans-les-condition",
+          "fiche-165-les-attributions-des-dlgus-du-personnel-sont-celle",
+          "fiche-166-article-33-mission-des-dlgus-du",
+          "fiche-167-les-dlgus-du-personnel-ont-pour-missions-",
+          "fiche-168-article-34-protection-des-dlgus-du",
+          "fiche-169-la-fonction-de-dlgu-du-personnel-ne-doit-pas-tre-p",
+          "fiche-170-tout-licenciement-dun-dlgu-du-personnel-titulaire-",
+          "fiche-171-il-en-est-de-mme-du-licenciement-dun-ancien-dlgu-d",
+          "fiche-172-lorsque-le-motif-du-licenciement-envisag-par-lempl",
+          "fiche-173-t-i-t-r-e-iv-des-conditions-de",
+          "fiche-174-chapitre-i-de-la-duree-du-travail",
+          "fiche-175-horairedutravailarticle-35-dure-et",
+          "fiche-176-horaire-du-travail",
+          "fiche-177-les-horaires-de-travail-que-le-personnel-est-appel",
+          "fiche-178-joursfrisarticle-36-jours-fris",
+          "fiche-179-les-jours-fris-sont-ceux-prvus-par-les-textes-en-v",
+          "fiche-180-toutefois-les-heures-de-travail-effectues-les-jour",
+          "fiche-181-article-37-travail-des-femmes-et-des",
+          "fiche-182-lemployeur-sengage-offrir-aux-jeunes-de-moins-de-d",
+          "fiche-183-lemployeur-tiendra-compte-de-ltat-des-femmes-encei",
+          "fiche-184-en-cas-de-changement-demploi-demand-par-le-mdecin-",
+          "fiche-185-chapitre-ii-conges-et-autorisations-dabsence",
+          "fiche-186-congsannuelsarticle-38-congs-annuels",
+          "fiche-187-le-droit-aux-congs-annuels-est-acquis-sur-la-base-",
+          "fiche-188-toutefois-les-congs-peuvent-se-cumuler-aprs-accord",
+          "fiche-189-lordre-de-dpart-en-cong-est-fix-daccord-parties-en",
+          "fiche-190-la-date-de-dpart-en-congs-sauf-cas-de-force-majeur",
+          "fiche-191-congssupplmentairesarticle-39-congs",
+          "fiche-192-supplmentaires",
+          "fiche-193-il-est-accord-aux-employs-une-bonification-de-la-d",
+          "fiche-194-cette-bonification-est-tablie-de-la-faon-suivante-",
+          "fiche-195-congsarticle-40-allocations-de-congs",
+          "fiche-196-une-allocation-de-congs-doit-tre-verse-lemploy-loc",
+          "fiche-197-en-cas-de-fractionnement-de-congs-lallocation-reve",
+          "fiche-198-pour-la-dtermination-de-congs-pays-sont-considrs-c",
+          "fiche-199-article-41-permissions-dabsence",
+          "fiche-200-il-est-accord-aux-employs-des-permissions-exceptio",
+          "fiche-201-beaupre-dune-belle-mre-deux-02-jours",
+          "fiche-202-ces-permissions-ainsi-que-les-dlais-de-route-ventu",
+          "fiche-203-toute-permission-de-cette-nature-doit-faire-lobjet",
+          "fiche-204-pour-bnficier-dune-permission-dabsence-telle-que-d",
+          "fiche-205-en-ce-qui-concerne-la-naissance-au-foyer-lemploy-c",
+          "fiche-206-en-cas-de-maladie-grave-du-conjoint-une-permission",
+          "fiche-207-article-42-autorisations-spciales-dabsence",
+          "fiche-208-il-est-accord-aux-employs-des-autorisations-spcial",
+          "fiche-209-lemploy-pour-bnficier-dautorisation-spciale-dabsen",
+          "fiche-210-la-dure-de-cette-permission-et-les-dlais-de-route-",
+          "fiche-211-audel-de-la-limite-de-quatre-04-jours-fixs-en-a-",
+          "fiche-212-chapitre-iii-de-la-formation-professionnelle-et-de",
+          "fiche-213-de-la-sante-et-de-la-securite-au-travail",
+          "fiche-214-section-i-formation-professionnelle-et-stage-de-pe",
+          "fiche-215-formationprofessionnellearticle-43-formation",
+          "fiche-216-professionnelle",
+          "fiche-217-une-politique-dynamique-de-formation-professionnel",
+          "fiche-218-les-formations-pourront-revtir-les-formes-dfinies-",
+          "fiche-219-formationetdeperfectionnementarticle-44-stages-de",
+          "fiche-220-formation-et-de-perfectionnement",
+          "fiche-221-par-souci-damlioration-des-comptences-les-employs-",
+          "fiche-222-tout-employ-envoy-en-stage-peroit-durant-toute-la-",
+          "fiche-223-si-le-stage-est-effectu-dans-un-pays-tranger-et-qu",
+          "fiche-224-au-cas-o-une-bourse-extrieure-accorde-au-stagiaire",
+          "fiche-225-si-le-stage-se-droule-au-bnin-mais-hors-du-lieu-de",
+          "fiche-226-il-est-allou-tout-employ-partant-en-stage-ltranger",
+          "fiche-227-tout-stagiaire-sengage-avant-son-dpart-signer-un-e",
+          "fiche-228-en-cas-de-non-respect-de-cet-engagement-lintress-s",
+          "fiche-229-les-stages-de-formation-ou-de-perfectionnement-dun",
+          "fiche-230-toutefois-lorsque-le-stage-a-t-organis-dans-le-but",
+          "fiche-231-section-ii-uvres-sociales",
+          "fiche-232-article-45-objet-des-uvres-sociales",
+          "fiche-233-les-uvres-sociales-sont-ralises-par-lemployeur-en-",
+          "fiche-234-elles-peuvent-revtir-diverses-formes-dont-notammen",
+          "fiche-235-section-iii-sante-et-securite-au-travail",
+          "fiche-236-article-46-scurit-sociale",
+          "fiche-237-tout-le-personnel-doit-tre-obligatoirement-immatri",
+          "fiche-238-nationale-de-scurit-sociale-ds-lembauche-afin-de-l",
+          "fiche-239-lemployeur-est-tenu-dtre-jour-de-ses-engagements-v",
+          "fiche-240-article-47-hygine-et-scurit-sur-les",
+          "fiche-241-lieux-de-travail",
+          "fiche-242-lemployeur-sengage-tout-mettre-en-uvre-pour-assure",
+          "fiche-243-les-employs-doivent-respecter-les-consignes-prises",
+          "fiche-244-en-outre-lemployeur-devra-veiller-au-bon-fonctionn",
+          "fiche-245-article-48-visite-mdicale-annuelle",
+          "fiche-246-la-visite-mdicale-systmatique-annuelle-est-obligat",
+          "fiche-247-les-rsultats-de-la-visite-mdicale-ainsi-que-les-me",
+          "fiche-248-le-cot-de-cette-visite-mdicale-est-entirement-la-c",
+          "fiche-249-article-49-soins-mdicaux-et",
+          "fiche-250-hospitalisation",
+          "fiche-251-lemploy-et-sa-famille-bnficient-des-consultations-",
+          "fiche-252-toutefois-les-consultations-et-soins-durgence-les-",
+          "fiche-253-lemploy-participe-au-cot-de-cette-assurance-par-un",
+          "fiche-254-la-famille-de-lemploy-sentend-du-conjoint-et-des-e",
+          "fiche-255-chapitre-ii-de-la-remuneration",
+          "fiche-256-section-i-determination-du-salaire",
+          "fiche-257-article-50-enonc-du-principe-de",
+          "fiche-258-rmunration",
+          "fiche-259-a-travail-de-valeur-gale-le-salaire-est-gal-pour-t",
+          "fiche-260-article-51-paiement-du-salaire",
+          "fiche-261-le-paiement-du-salaire-se-fait-terme-chu-en-princi",
+          "fiche-262-chaque-travailleur-doit-obligatoirement-recevoir-u",
+          "fiche-263-caisse-nationale-de-scurit-sociale-les-diffrents-l",
+          "fiche-264-article-52-grille-salariale",
+          "fiche-265-la-grille-salariale-applicable-au-personnel-est-ce",
+          "fiche-266-article-53-promotion",
+          "fiche-267-les-parties-contractantes-tant-animes-du-dsir-de-v",
+          "fiche-268-en-cas-de-promotion-lemployeur-pourra-soumettre-le",
+          "fiche-269-article-54-intrim",
+          "fiche-270-lorsque-lemploy-doit-assumer-temporairement-la-dem",
+          "fiche-271-lorsque-lemployeur-demande-pour-ncessit-de-service",
+          "fiche-272-si-lemploy-refuse-le-contrat-est-considr-comme-rom",
+          "fiche-273-si-lemploy-accepte-il-est-rmunr-dans-les-condition",
+          "fiche-274-le-fait-pour-un-employ-dassurer-provisoirement-ou-",
+          "fiche-275-toutefois-la-dure-de-ces-fonctions-temporaires-ne-",
+          "fiche-276-exception-faite-pour-les-cas-particuliers-viss-cid",
+          "fiche-277-une-indemnit-pour-remplacement-ou-intrim-sera-acco",
+          "fiche-278-le-taux-de-cette-indemnit-reprsente-10-du-salaire-",
+          "fiche-279-cette-indemnit-nest-due-quau-cas-o-lintrim-na-t-co",
+          "fiche-280-section-ii-accessoires-de-salaire-enonce-du-princi",
+          "fiche-281-article-55-enonc-du-principe",
+          "fiche-282-dattribution",
+          "fiche-283-les-accessoires-de-salaire-et-autres-avantages-soc",
+          "fiche-284-article-56-primes",
+          "fiche-285-ces-primes-sont-",
+          "fiche-286-t-i-t-r-e-vi-du-reglement-des",
+          "fiche-287-conflits-article-57-commission",
+          "fiche-288-dinterprtation",
+          "fiche-289-il-sera-institu-au-sein-de-lentreprise-une-commiss",
+          "fiche-290-toutefois-cette-commission-na-pas-traiter-des-liti",
+          "fiche-291-article-58-organisation-et-fonctionnement",
+          "fiche-292-de-la-commission-dinterprtation",
+          "fiche-293-la-commission-mixte-paritaire-dinterprtation-susvi",
+          "fiche-294-les-noms-des-membres-titulaires-et-supplants-sont-",
+          "fiche-295-les-membres-supplants-ne-sigent-quen-cas-dempcheme",
+          "fiche-296-la-partie-signataire-qui-dsire-soumettre-un-diffre",
+          "fiche-297-tout-avis-donn-lunanimit-de-ses-membres-par-la-com",
+          "fiche-298-ce-procsverbal-est-ensuite-dpos-au-greffe-du-tribu",
+          "fiche-299-article-59-prconciliation",
+          "fiche-300-tout-conflit-collectif-qui-surgit-au-sein-de-lentr",
+          "fiche-301-en-cas-de-dsaccord-le-conflit-est-port-devant-une-",
+          "fiche-302-elle-est-prside-par-lemployeur-ou-son-reprsentant-",
+          "fiche-303-en-cas-de-dsaccord-le-conflit-est-port-devant-lins",
+          "fiche-304-t-i-t-r-e-vii-de-la-retraite",
+          "fiche-305-article-60-scurit-sociale-retraite",
+          "fiche-306-le-personnel-est-affili-la-caisse-nationale-de-scu",
+          "fiche-307-article-61-indemnit-de-dpart-la",
+          "fiche-308-lindemnit-de-licenciement-nest-pas-due-lorsque-lem",
+          "fiche-309-toutefois-il-lui-sera-vers-dans-ce-cas-une-allocat",
+          "fiche-310-cette-indemnit-est-dcompte-sur-les-mmes-bases-et-s",
+          "fiche-311-le-montant-de-cette-indemnit-est-fix-en-pourcentag",
+          "fiche-312-article-62-cadeau-spcial-de-dpart-",
+          "fiche-313-la-retraite",
+          "fiche-314-un-cadeau-spcial-est-remis-lemploy-lors-de-son-dpa",
+          "fiche-315-la-forme-et-la-valeur-de-ce-cadeau-sont-laisses-la",
+          "fiche-316-article-63-promotion-spciale-de-dpart",
+          "fiche-317-trente-six-36-mois-au-moins-avant-la-date-dadmissi",
+          "fiche-318-t-i-t-r-e-viii-des-dispositions",
+          "fiche-319-transitoires-et-diverses",
+          "fiche-320-heuressupplmentairesarticle-64-dispositions",
+          "fiche-321-transitoires-pour-le-traitement-du-forfait",
+          "fiche-322-dheures-supplmentaires",
+          "fiche-323-le-forfait-dheures-supplmentaires-tel-quil-existe-",
+          "fiche-324-les-anciens-forfaits-dheures-supplmentaires-sont-r",
+          "fiche-325-les-employs-pour-qui-laccomplissement-dheures-supp",
+          "fiche-326-le-total-cumul-du-salaire-brut-et-de-lex-forfait-d",
+          "fiche-327-dans-le-cas-de-lattribution-dune-prime-de-sujtion-",
+          "fiche-328-article-65-dispositions-diverses",
+          "fiche-329-pour-tout-ce-qui-nest-pas-prvu-dans-la-prsente-con",
+          "fiche-330-article-66-annexes",
+          "fiche-331-le-tableau-de-classification-des-emplois-et-la-gri",
+          "fiche-332-article-67-prise-deffet",
+          "fiche-333-la-prsente-convention-collective-prend-effet-compt",
+          "fiche-334-ont-signe-",
+          "fiche-335-pour-les-employeurspour-les-travailleurs",
+          "fiche-336-le-directeur-gnral-du-travail",
+          "fiche-337-le-ministre-de-la-fonction-publique-du-travail",
+          "fiche-338-classificationprofessionnelleclassification-profes",
+          "fiche-339-grille-des-salaires"
+        ]
+      },
+      {
+        "id": "fiche-1-convention-collective-du-travail-applicable-aux",
+        "title": "CONVENTION COLLECTIVE DU TRAVAIL APPLICABLE AUX",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 1,
+        "path": [
+          "section-principale",
+          "fiche-1-convention-collective-du-travail-applicable-aux"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-2-entreprises-du-secteur-des-manutentions",
+        "title": "ENTREPRISES DU SECTEUR DES MANUTENTIONS",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 2,
+        "path": [
+          "section-principale",
+          "fiche-2-entreprises-du-secteur-des-manutentions"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-3-republique-du-benin",
+        "title": "REPUBLIQUE DU BENIN",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 3,
+        "path": [
+          "section-principale",
+          "fiche-3-republique-du-benin"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-4-ministre-dlgu-charg-des-transports-des-travaux-pub",
+        "title": "Ministère Délégué Chargé des Transports, des Travaux Publics et de",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 4,
+        "path": [
+          "section-principale",
+          "fiche-4-ministre-dlgu-charg-des-transports-des-travaux-pub"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-5-socit-bninoise-des-manutentions-portuaires",
+        "title": "Société Béninoise des Manutentions Portuaires",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 5,
+        "path": [
+          "section-principale",
+          "fiche-5-socit-bninoise-des-manutentions-portuaires"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-6-convention-collective-nationale-de-la-manutention-",
+        "title": "CONVENTION COLLECTIVE NATIONALE DE LA MANUTENTION PORTUAIRE",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 6,
+        "path": [
+          "section-principale",
+          "fiche-6-convention-collective-nationale-de-la-manutention-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-7-entre-les-soussigns-",
+        "title": "Entre les soussignés :",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 7,
+        "path": [
+          "section-principale",
+          "fiche-7-entre-les-soussigns-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-8-t-i-t-r-e-i-des-dispositions",
+        "title": "T I T R E I: DES DISPOSITIONS",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 8,
+        "path": [
+          "section-principale",
+          "fiche-8-t-i-t-r-e-i-des-dispositions"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-9-generales-article-1er-objet-et-champ",
+        "title": "GENERALES ARTICLE 1ER : OBJET ET CHAMP",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 9,
+        "path": [
+          "section-principale",
+          "fiche-9-generales-article-1er-objet-et-champ"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-10-dapplication",
+        "title": "D’APPLICATION",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 10,
+        "path": [
+          "section-principale",
+          "fiche-10-dapplication"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-11-la-prsente-convention-collective-dnomme-convention",
+        "title": "La présente convention collective, dénommée \"convention collective",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 11,
+        "path": [
+          "section-principale",
+          "fiche-11-la-prsente-convention-collective-dnomme-convention"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-12-on-entend-par-travaux-de-manutention-portuaire-tou",
+        "title": "On entend par travaux de manutention portuaire toutes les opérations de",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 12,
+        "path": [
+          "section-principale",
+          "fiche-12-on-entend-par-travaux-de-manutention-portuaire-tou"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-13-les-travailleurs-objet-de-la-prsente-convention-so",
+        "title": "Les travailleurs objet de la présente convention sont répartis d’une",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 13,
+        "path": [
+          "section-principale",
+          "fiche-13-les-travailleurs-objet-de-la-prsente-convention-so"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-14-article-2-conditions-dintgration-des",
+        "title": "ARTICLE 2 : CONDITIONS D’INTÉGRATION DES",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 14,
+        "path": [
+          "section-principale",
+          "fiche-14-article-2-conditions-dintgration-des"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-15-dockers-occasionnels-dans-leffectif-des-dockers",
+        "title": "DOCKERS OCCASIONNELS DANS L’EFFECTIF DES DOCKERS",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 15,
+        "path": [
+          "section-principale",
+          "fiche-15-dockers-occasionnels-dans-leffectif-des-dockers"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-16-les-parties-contractantes-conviennent-que-lemploye",
+        "title": "Les parties contractantes conviennent que l’employeur doit s’efforcer,",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 16,
+        "path": [
+          "section-principale",
+          "fiche-16-les-parties-contractantes-conviennent-que-lemploye"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-17-pour-lapplication-des-dispositions-du-paragraphe-i",
+        "title": "Pour l’application des dispositions du paragraphe I ci-dessus,",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 17,
+        "path": [
+          "section-principale",
+          "fiche-17-pour-lapplication-des-dispositions-du-paragraphe-i"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-18-article-3-dialogue",
+        "title": "ARTICLE 3 : DIALOGUE",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 18,
+        "path": [
+          "section-principale",
+          "fiche-18-article-3-dialogue"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-19-les-parties-signataires-tmoignent-de-leur-volont-d",
+        "title": "Les parties signataires témoignent de leur volonté de rechercher toute",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 19,
+        "path": [
+          "section-principale",
+          "fiche-19-les-parties-signataires-tmoignent-de-leur-volont-d"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-20-dans-ce-but-elles-estiment-que-les-parties-en-caus",
+        "title": "Dans ce but, elles estiment que les parties en cause doivent user de",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 20,
+        "path": [
+          "section-principale",
+          "fiche-20-dans-ce-but-elles-estiment-que-les-parties-en-caus"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-21-article-4-avantages-acquis",
+        "title": "ARTICLE 4 : AVANTAGES ACQUIS",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 21,
+        "path": [
+          "section-principale",
+          "fiche-21-article-4-avantages-acquis"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-22-la-prsente-convention-collective-ne-peut-entraner-",
+        "title": "La présente convention collective ne peut entraîner la réduction des",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 22,
+        "path": [
+          "section-principale",
+          "fiche-22-la-prsente-convention-collective-ne-peut-entraner-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-23-toutefois-les-avantages-prvus-par-la-prsente-conve",
+        "title": "Toutefois, les avantages prévus par la présente convention collective ne",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 23,
+        "path": [
+          "section-principale",
+          "fiche-23-toutefois-les-avantages-prvus-par-la-prsente-conve"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-24-article-5-dure",
+        "title": "ARTICLE 5 : DURÉE",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 24,
+        "path": [
+          "section-principale",
+          "fiche-24-article-5-dure"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-25-la-prsente-convention-collective-est-conclue-pour-",
+        "title": "La présente convention collective est conclue pour une durée",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 25,
+        "path": [
+          "section-principale",
+          "fiche-25-la-prsente-convention-collective-est-conclue-pour-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-26-article-6-dnonciation-et-rvision",
+        "title": "ARTICLE 6 : DÉNONCIATION ET RÉVISION",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 26,
+        "path": [
+          "section-principale",
+          "fiche-26-article-6-dnonciation-et-rvision"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-27-la-prsente-convention-collective-ne-peut-tre-dnonc",
+        "title": "La présente convention collective ne peut être dénoncée en tout ou",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 27,
+        "path": [
+          "section-principale",
+          "fiche-27-la-prsente-convention-collective-ne-peut-tre-dnonc"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-28-la-partie-qui-prend-linitiative-de-la-rvision-part",
+        "title": "La partie qui prend l’initiative de la révision partielle ou totale doit",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 28,
+        "path": [
+          "section-principale",
+          "fiche-28-la-partie-qui-prend-linitiative-de-la-rvision-part"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-29-de-toute-faon-la-prsente-convention-restera-en-vig",
+        "title": "De toute façon, la présente convention restera en vigueur jusqu’à",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 29,
+        "path": [
+          "section-principale",
+          "fiche-29-de-toute-faon-la-prsente-convention-restera-en-vig"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-30-les-parties-signataires-sengagent-formellement-ne-",
+        "title": "Les parties signataires s’engagent formellement à ne recourir ni à la",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 30,
+        "path": [
+          "section-principale",
+          "fiche-30-les-parties-signataires-sengagent-formellement-ne-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-31-en-dehors-de-toute-dnonciation-de-la-prsente-conve",
+        "title": "En dehors de toute dénonciation de la présente convention, la grille des",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 31,
+        "path": [
+          "section-principale",
+          "fiche-31-en-dehors-de-toute-dnonciation-de-la-prsente-conve"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-32-article-7-adhsion-ultrieure",
+        "title": "ARTICLE 7 : ADHÉSION ULTÉRIEURE",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 32,
+        "path": [
+          "section-principale",
+          "fiche-32-article-7-adhsion-ultrieure"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-33-toute-organisation-syndicale-de-travailleurs-ou-de",
+        "title": "Toute organisation syndicale de travailleurs ou d’employeurs, ou tout",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 33,
+        "path": [
+          "section-principale",
+          "fiche-33-toute-organisation-syndicale-de-travailleurs-ou-de"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-34-cette-adhsion-prend-effet-compter-du-jour-qui-suit",
+        "title": "Cette adhésion prend effet à compter du jour qui suit celui de la",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 34,
+        "path": [
+          "section-principale",
+          "fiche-34-cette-adhsion-prend-effet-compter-du-jour-qui-suit"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-35-la-partie-adhrente-ne-peut-toutefois-ni-la-dnoncer",
+        "title": "La partie adhérente ne peut toutefois ni la dénoncer, ni en demander la",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 35,
+        "path": [
+          "section-principale",
+          "fiche-35-la-partie-adhrente-ne-peut-toutefois-ni-la-dnoncer"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-36-t-i-t-r-e-ii-des-rapports",
+        "title": "T I T R E II: DES RAPPORTS",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 36,
+        "path": [
+          "section-principale",
+          "fiche-36-t-i-t-r-e-ii-des-rapports"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-37-individuels-de-travail",
+        "title": "INDIVIDUELS DE TRAVAIL",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 37,
+        "path": [
+          "section-principale",
+          "fiche-37-individuels-de-travail"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-38-chapitre-i-de-la-formation-du-conrat-de-travail",
+        "title": "CHAPITRE I : DE LA FORMATION DU CONRAT DE TRAVAIL",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 38,
+        "path": [
+          "section-principale",
+          "fiche-38-chapitre-i-de-la-formation-du-conrat-de-travail"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-39-embauchearticle-8-embauche",
+        "title": "EMBAUCHE\"\\>ARTICLE 8 : EMBAUCHE",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 39,
+        "path": [
+          "section-principale",
+          "fiche-39-embauchearticle-8-embauche"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-40-article-9-priode-dessai",
+        "title": "ARTICLE 9 : PÉRIODE D’ESSAI",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 40,
+        "path": [
+          "section-principale",
+          "fiche-40-article-9-priode-dessai"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-41-tout-employ-recrut-est-soumis-une-priode-dessai-do",
+        "title": "Tout employé recruté est soumis à une période d’essai dont le but est de",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 41,
+        "path": [
+          "section-principale",
+          "fiche-41-tout-employ-recrut-est-soumis-une-priode-dessai-do"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-42-la-dure-de-cette-priode-dessai-est-fixe-",
+        "title": "La durée de cette période d’essai est fixée à :",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 42,
+        "path": [
+          "section-principale",
+          "fiche-42-la-dure-de-cette-priode-dessai-est-fixe-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-43-pendant-la-priode-dessai-les-parties-ont-la-facult",
+        "title": "Pendant la période d’essai, les parties ont la faculté réciproque de",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 43,
+        "path": [
+          "section-principale",
+          "fiche-43-pendant-la-priode-dessai-les-parties-ont-la-facult"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-44-la-priode-dessai-est-prise-en-compte-dans-le-calcu",
+        "title": "La période d’essai est prise en compte dans le calcul de l’ancienneté de",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 44,
+        "path": [
+          "section-principale",
+          "fiche-44-la-priode-dessai-est-prise-en-compte-dans-le-calcu"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-45-article-10-contrat-dfinitif",
+        "title": "ARTICLE 10 : CONTRAT DÉFINITIF",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 45,
+        "path": [
+          "section-principale",
+          "fiche-45-article-10-contrat-dfinitif"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-46-ds-la-fin-de-la-priode-dessai-lorsque-lengagement-",
+        "title": "Dès la fin de la période d’essai, lorsque l’engagement est confirmé, il",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 46,
+        "path": [
+          "section-principale",
+          "fiche-46-ds-la-fin-de-la-priode-dessai-lorsque-lengagement-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-47-chapitre-ii-de-la-discipline",
+        "title": "CHAPITRE II : DE LA DISCIPLINE",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 47,
+        "path": [
+          "section-principale",
+          "fiche-47-chapitre-ii-de-la-discipline"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-48-article-11-obligation-de-lemploy-et",
+        "title": "ARTICLE 11 : OBLIGATION DE L’EMPLOYÉ ET",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 48,
+        "path": [
+          "section-principale",
+          "fiche-48-article-11-obligation-de-lemploy-et"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-49-clause-de-non-concurrence",
+        "title": "CLAUSE DE NON CONCURRENCE",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 49,
+        "path": [
+          "section-principale",
+          "fiche-49-clause-de-non-concurrence"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-50-il-est-formellement-interdit-aux-employs-de-recevo",
+        "title": "Il est formellement interdit aux employés de recevoir, pour des tâches",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 50,
+        "path": [
+          "section-principale",
+          "fiche-50-il-est-formellement-interdit-aux-employs-de-recevo"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-51-il-est-interdit-aux-employs-de-se-livrer-ou-de-fav",
+        "title": "Il est interdit aux employés de se livrer ou de favoriser l’exercice",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 51,
+        "path": [
+          "section-principale",
+          "fiche-51-il-est-interdit-aux-employs-de-se-livrer-ou-de-fav"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-52-il-est-interdit-aux-employs-dexercer-une-activit-l",
+        "title": "Il est interdit aux employés d’exercer une activité lucrative",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 52,
+        "path": [
+          "section-principale",
+          "fiche-52-il-est-interdit-aux-employs-dexercer-une-activit-l"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-53-il-est-interdit-tout-employ-quelle-que-soit-sa-pos",
+        "title": "Il est interdit à tout employé, quelle que soit sa position, de mener",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 53,
+        "path": [
+          "section-principale",
+          "fiche-53-il-est-interdit-tout-employ-quelle-que-soit-sa-pos"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-54-il-est-interdit-aux-employs-de-divulguer-ou-dutili",
+        "title": "Il est interdit aux employés de divulguer ou d’utiliser à des fins",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 54,
+        "path": [
+          "section-principale",
+          "fiche-54-il-est-interdit-aux-employs-de-divulguer-ou-dutili"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-55-article-12-sanctions",
+        "title": "ARTICLE 12 : SANCTIONS",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 55,
+        "path": [
+          "section-principale",
+          "fiche-55-article-12-sanctions"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-56-les-sanctions-disciplinaires-applicables-au-person",
+        "title": "Les sanctions disciplinaires applicables au personnel de l’entreprise ou",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 56,
+        "path": [
+          "section-principale",
+          "fiche-56-les-sanctions-disciplinaires-applicables-au-person"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-57-sont-considres-comme-fautes-lourdes-dordre-profess",
+        "title": "Sont considérées comme fautes lourdes d’ordre professionnel sous réserve",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 57,
+        "path": [
+          "section-principale",
+          "fiche-57-sont-considres-comme-fautes-lourdes-dordre-profess"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-58-les-sanctions-sont-prononces-par-crit-par-lemploye",
+        "title": "Les sanctions sont prononcées par écrit par l’employeur après que",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 58,
+        "path": [
+          "section-principale",
+          "fiche-58-les-sanctions-sont-prononces-par-crit-par-lemploye"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-59-signification-de-la-sanction-lui-est-faite-par-cri",
+        "title": "Signification de la sanction lui est faite par écrit et ampliation de la",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 59,
+        "path": [
+          "section-principale",
+          "fiche-59-signification-de-la-sanction-lui-est-faite-par-cri"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-60-toute-absence-non-autorise-entrane-la-suppression-",
+        "title": "Toute absence non autorisée entraîne la suppression du salaire pour les",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 60,
+        "path": [
+          "section-principale",
+          "fiche-60-toute-absence-non-autorise-entrane-la-suppression-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-61-article-13-leve-des-sanctions",
+        "title": "ARTICLE 13 : LEVÉE DES SANCTIONS",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 61,
+        "path": [
+          "section-principale",
+          "fiche-61-article-13-leve-des-sanctions"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-62-disciplinaires",
+        "title": "DISCIPLINAIRES",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 62,
+        "path": [
+          "section-principale",
+          "fiche-62-disciplinaires"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-63-tout-employ-ayant-fait-lobjet-dune-sanction-discip",
+        "title": "Tout employé ayant fait l’objet d’une sanction disciplinaire peut",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 63,
+        "path": [
+          "section-principale",
+          "fiche-63-tout-employ-ayant-fait-lobjet-dune-sanction-discip"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-64-chapitre-iii-de-la-suspension-du-contrat-de-travai",
+        "title": "CHAPITRE III : DE LA SUSPENSION DU CONTRAT DE TRAVAIL",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 64,
+        "path": [
+          "section-principale",
+          "fiche-64-chapitre-iii-de-la-suspension-du-contrat-de-travai"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-65-section-i-suspension-en-cas-de-maladie-ordinaire",
+        "title": "SECTION I : Suspension en cas de maladie ordinaire",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 65,
+        "path": [
+          "section-principale",
+          "fiche-65-section-i-suspension-en-cas-de-maladie-ordinaire"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-66-congdemaladiearticle-14-cong-de-maladie",
+        "title": "CONGÉ_DE_MALADIE\"\\>ARTICLE 14 : CONGÉ DE MALADIE",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 66,
+        "path": [
+          "section-principale",
+          "fiche-66-congdemaladiearticle-14-cong-de-maladie"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-67-en-cas-de-maladie-dment-constate-par-un-mdecin-agr",
+        "title": "En cas de maladie dûment constatée par un médecin agréé entraînant pour",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 67,
+        "path": [
+          "section-principale",
+          "fiche-67-en-cas-de-maladie-dment-constate-par-un-mdecin-agr"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-68-pour-obtenir-un-cong-de-maladie-ou-un-renouvelleme",
+        "title": "Pour obtenir un congé de maladie ou un renouvellement de congé",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 68,
+        "path": [
+          "section-principale",
+          "fiche-68-pour-obtenir-un-cong-de-maladie-ou-un-renouvelleme"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-69-la-dure-maximum-dune-priode-de-cong-de-maladie-est",
+        "title": "La durée maximum d’une période de congé de maladie est de :",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 69,
+        "path": [
+          "section-principale",
+          "fiche-69-la-dure-maximum-dune-priode-de-cong-de-maladie-est"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-70-article-15-indemnit-de-lemploy-malade",
+        "title": "ARTICLE 15 : INDEMNITÉ DE L’EMPLOYÉ MALADE",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 70,
+        "path": [
+          "section-principale",
+          "fiche-70-article-15-indemnit-de-lemploy-malade"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-71-lemploy-mis-en-cong-de-maladie-conserve-son-salair",
+        "title": "L’employé mis en congé de maladie conserve son salaire pendant les",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 71,
+        "path": [
+          "section-principale",
+          "fiche-71-lemploy-mis-en-cong-de-maladie-conserve-son-salair"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-72-a-lexpiration-du-cong-de-maladie-la-situation-de-l",
+        "title": "A l’expiration du congé de maladie, la situation de l’employé est",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 72,
+        "path": [
+          "section-principale",
+          "fiche-72-a-lexpiration-du-cong-de-maladie-la-situation-de-l"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-73-a-lexpiration-de-la-dure-conventionnelle-du-cong-d",
+        "title": "A l’expiration de la durée conventionnelle du congé de maladie, il peut",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 73,
+        "path": [
+          "section-principale",
+          "fiche-73-a-lexpiration-de-la-dure-conventionnelle-du-cong-d"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-74-section-ii-suspension-en-cas-daccident-de-travail",
+        "title": "SECTION II : SUSPENSION EN CAS D’ACCIDENT DE TRAVAIL",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 74,
+        "path": [
+          "section-principale",
+          "fiche-74-section-ii-suspension-en-cas-daccident-de-travail"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-75-et-de-maladie-professionnelle",
+        "title": "ET DE MALADIE PROFESSIONNELLE",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 75,
+        "path": [
+          "section-principale",
+          "fiche-75-et-de-maladie-professionnelle"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-76-maladieprofessionnellearticle-16-accident-de",
+        "title": "MALADIE_PROFESSIONNELLE\"\\>ARTICLE 16 : ACCIDENT DE",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 76,
+        "path": [
+          "section-principale",
+          "fiche-76-maladieprofessionnellearticle-16-accident-de"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-77-travail-et-maladie-professionnelle",
+        "title": "TRAVAIL ET MALADIE PROFESSIONNELLE",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 77,
+        "path": [
+          "section-principale",
+          "fiche-77-travail-et-maladie-professionnelle"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-78-en-cas-daccident-de-travail-ou-de-maladie-professi",
+        "title": "En cas d’accident de travail ou de maladie professionnelle dûment",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 78,
+        "path": [
+          "section-principale",
+          "fiche-78-en-cas-daccident-de-travail-ou-de-maladie-professi"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-79-b-indemnisation",
+        "title": "B\\) Indemnisation",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 79,
+        "path": [
+          "section-principale",
+          "fiche-79-b-indemnisation"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-80-les-avantages-prvus-larticle-13-ciavant-en-matire-",
+        "title": "Les avantages prévus à l’article 13 ci-avant en matière d’indemnisation",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 80,
+        "path": [
+          "section-principale",
+          "fiche-80-les-avantages-prvus-larticle-13-ciavant-en-matire-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-81-dans-ce-cas-lemployeur-alloue-lemploy-concern-la-d",
+        "title": "Dans ce cas, l’employeur alloue à l’employé concerné la différence entre",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 81,
+        "path": [
+          "section-principale",
+          "fiche-81-dans-ce-cas-lemployeur-alloue-lemploy-concern-la-d"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-82-section-iii-suspension-consensuelle-du-contrat-de-",
+        "title": "SECTION III : SUSPENSION CONSENSUELLE DU CONTRAT DE TRAVAIL (OU MISSE EN",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 82,
+        "path": [
+          "section-principale",
+          "fiche-82-section-iii-suspension-consensuelle-du-contrat-de-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-83-disponibilite",
+        "title": "DISPONIBILITE)",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 83,
+        "path": [
+          "section-principale",
+          "fiche-83-disponibilite"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-84-article-17-dfinition-et-modalits",
+        "title": "ARTICLE 17 : DÉFINITION ET MODALITÉS",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 84,
+        "path": [
+          "section-principale",
+          "fiche-84-article-17-dfinition-et-modalits"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-85-la-suspension-consensuelle-du-contrat-de-travail-e",
+        "title": "La suspension consensuelle du contrat de travail est la situation de",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 85,
+        "path": [
+          "section-principale",
+          "fiche-85-la-suspension-consensuelle-du-contrat-de-travail-e"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-86-cette-suspension-ne-peut-tre-sollicite-quaprs-troi",
+        "title": "Cette suspension ne peut être sollicitée qu’après trois années",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 86,
+        "path": [
+          "section-principale",
+          "fiche-86-cette-suspension-ne-peut-tre-sollicite-quaprs-troi"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-87-lemploy-concern-adresse-une-demande-lemployeur-au-",
+        "title": "L’employé concerné adresse une demande à l’employeur au moins trois mois",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 87,
+        "path": [
+          "section-principale",
+          "fiche-87-lemploy-concern-adresse-une-demande-lemployeur-au-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-88-la-dure-maximum-ne-peut-excder-un-an-renouvelable-",
+        "title": "La durée maximum ne peut excéder un an renouvelable une fois pour une",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 88,
+        "path": [
+          "section-principale",
+          "fiche-88-la-dure-maximum-ne-peut-excder-un-an-renouvelable-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-89-pendant-la-priode-de-suspension-lemploy-cesse-de-b",
+        "title": "Pendant la période de suspension, l’employé cesse de bénéficier de ses",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 89,
+        "path": [
+          "section-principale",
+          "fiche-89-pendant-la-priode-de-suspension-lemploy-cesse-de-b"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-90-la-reprise-de-service-est-sollicite-trois-03-mois-",
+        "title": "La reprise de service est sollicitée trois (03) mois avant l’expiration",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 90,
+        "path": [
+          "section-principale",
+          "fiche-90-la-reprise-de-service-est-sollicite-trois-03-mois-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-91-toute-modification-sur-la-date-de-retour-doit-rece",
+        "title": "Toute modification sur la date de retour doit recevoir l’accord de",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 91,
+        "path": [
+          "section-principale",
+          "fiche-91-toute-modification-sur-la-date-de-retour-doit-rece"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-92-la-reprise-est-de-droit-si-la-dure-de-la-suspensio",
+        "title": "La reprise est de droit si la durée de la suspension est inférieure ou",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 92,
+        "path": [
+          "section-principale",
+          "fiche-92-la-reprise-est-de-droit-si-la-dure-de-la-suspensio"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-93-audel-de-cette-dure-la-reprise-de-service-est-lie-",
+        "title": "Au-delà de cette durée, la reprise de service est liée à une vacance de",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 93,
+        "path": [
+          "section-principale",
+          "fiche-93-audel-de-cette-dure-la-reprise-de-service-est-lie-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-94-section-iv-position-sous-les-drapeaux",
+        "title": "SECTION IV : POSITION SOUS LES DRAPEAUX",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 94,
+        "path": [
+          "section-principale",
+          "fiche-94-section-iv-position-sous-les-drapeaux"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-95-article-18-dfinition-et-modalits",
+        "title": "ARTICLE 18 : DÉFINITION ET MODALITÉS",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 95,
+        "path": [
+          "section-principale",
+          "fiche-95-article-18-dfinition-et-modalits"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-96-la-position-sous-les-drapeaux-est-celle-dun-employ",
+        "title": "La position sous les drapeaux est celle d’un employé incorporé",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 96,
+        "path": [
+          "section-principale",
+          "fiche-96-la-position-sous-les-drapeaux-est-celle-dun-employ"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-97-lemploy-parvenu-au-terme-du-service-militaire-susv",
+        "title": "L’employé parvenu au terme du service militaire susvisé doit réintégrer",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 97,
+        "path": [
+          "section-principale",
+          "fiche-97-lemploy-parvenu-au-terme-du-service-militaire-susv"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-98-toutefois-il-devra-prvenir-lemployeur-au-moins-un-",
+        "title": "Toutefois, il devra prévenir l’employeur au moins un (01) mois à",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 98,
+        "path": [
+          "section-principale",
+          "fiche-98-toutefois-il-devra-prvenir-lemployeur-au-moins-un-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-99-section-v-les-autres-cas-de-suspension-du-contrat-",
+        "title": "SECTION V : LES AUTRES CAS DE SUSPENSION DU CONTRAT DE TRAVAIL",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 99,
+        "path": [
+          "section-principale",
+          "fiche-99-section-v-les-autres-cas-de-suspension-du-contrat-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-100-contratdetravailarticle-19-autres-cas-de",
+        "title": "CONTRAT_DE_TRAVAIL\"\\>ARTICLE 19 : AUTRES CAS DE",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 100,
+        "path": [
+          "section-principale",
+          "fiche-100-contratdetravailarticle-19-autres-cas-de"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-101-suspension-du-contrat-de-travail",
+        "title": "SUSPENSION DU CONTRAT DE TRAVAIL",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 101,
+        "path": [
+          "section-principale",
+          "fiche-101-suspension-du-contrat-de-travail"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-102-tous-les-autres-cas-de-suspension-du-contrat-sont-",
+        "title": "Tous les autres cas de suspension du contrat sont énumérés à l’article",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 102,
+        "path": [
+          "section-principale",
+          "fiche-102-tous-les-autres-cas-de-suspension-du-contrat-sont-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-103-chapitre-iv-de-la-rupture-du-contrat-de-travail",
+        "title": "CHAPITRE IV : DE LA RUPTURE DU CONTRAT DE TRAVAIL",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 103,
+        "path": [
+          "section-principale",
+          "fiche-103-chapitre-iv-de-la-rupture-du-contrat-de-travail"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-104-article-20-modalits-de-la-rupture",
+        "title": "ARTICLE 20 : MODALITÉS DE LA RUPTURE",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 104,
+        "path": [
+          "section-principale",
+          "fiche-104-article-20-modalits-de-la-rupture"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-105-la-partie-qui-prend-linitiative-de-la-rupture-du-c",
+        "title": "La partie qui prend l’initiative de la rupture du contrat de travail",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 105,
+        "path": [
+          "section-principale",
+          "fiche-105-la-partie-qui-prend-linitiative-de-la-rupture-du-c"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-106-cette-notification-doit-tre-faite-soit-par-envoi-d",
+        "title": "Cette notification doit être faite soit par envoi d’une lettre",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 106,
+        "path": [
+          "section-principale",
+          "fiche-106-cette-notification-doit-tre-faite-soit-par-envoi-d"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-107-article-21-dure-et-droulement-du",
+        "title": "ARTICLE 21 : DURÉE ET DÉROULEMENT DU",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 107,
+        "path": [
+          "section-principale",
+          "fiche-107-article-21-dure-et-droulement-du"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-108-la-dure-du-pravis-est-gale-celle-de-la-priode-dess",
+        "title": "La durée du préavis est égale à celle de la période d’essai à savoir :",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 108,
+        "path": [
+          "section-principale",
+          "fiche-108-la-dure-du-pravis-est-gale-celle-de-la-priode-dess"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-109-pendant-la-dure-du-pravis-lemployeur-et-lemploy-so",
+        "title": "Pendant la durée du préavis, l’employeur et l’employé sont tenus au",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 109,
+        "path": [
+          "section-principale",
+          "fiche-109-pendant-la-dure-du-pravis-lemployeur-et-lemploy-so"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-110-en-vue-de-la-recherche-dun-nouvel-emploi-lemploy-b",
+        "title": "En vue de la recherche d’un nouvel emploi, l’employé bénéficiera,",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 110,
+        "path": [
+          "section-principale",
+          "fiche-110-en-vue-de-la-recherche-dun-nouvel-emploi-lemploy-b"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-111-en-cas-de-licenciement-lemploy-qui-a-trouv-un-nouv",
+        "title": "En cas de licenciement, l’employé qui a trouvé un nouvel emploi, peut,",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 111,
+        "path": [
+          "section-principale",
+          "fiche-111-en-cas-de-licenciement-lemploy-qui-a-trouv-un-nouv"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-112-si-la-demande-de-lemployeur-lemploy-nutilise-pas-t",
+        "title": "Si à la demande de l’employeur, l’employé n’utilise pas tout ou partie",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 112,
+        "path": [
+          "section-principale",
+          "fiche-112-si-la-demande-de-lemployeur-lemploy-nutilise-pas-t"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-113-article-22-indemnit-compensatrice-de",
+        "title": "ARTICLE 22 : INDEMNITÉ COMPENSATRICE DE",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 113,
+        "path": [
+          "section-principale",
+          "fiche-113-article-22-indemnit-compensatrice-de"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-114-chacune-des-deux-parties-peut-se-dgager-de-lobliga",
+        "title": "Chacune des deux parties peut se dégager de l’obligation de préavis en",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 114,
+        "path": [
+          "section-principale",
+          "fiche-114-chacune-des-deux-parties-peut-se-dgager-de-lobliga"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-115-article-23-licenciement-collectif",
+        "title": "ARTICLE 23 : LICENCIEMENT COLLECTIF",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 115,
+        "path": [
+          "section-principale",
+          "fiche-115-article-23-licenciement-collectif"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-116-lemployeur-qui-envisage-de-licencier-pour-motif-co",
+        "title": "L’employeur qui envisage de licencier pour motif économique doit, avant",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 116,
+        "path": [
+          "section-principale",
+          "fiche-116-lemployeur-qui-envisage-de-licencier-pour-motif-co"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-117-les-mmes-informations-sont-donnes-aux-dlgus-du-per",
+        "title": "Les mêmes informations sont données aux délégués du personnel et aux",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 117,
+        "path": [
+          "section-principale",
+          "fiche-117-les-mmes-informations-sont-donnes-aux-dlgus-du-per"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-118-article-24-rembauchage-aprs-licenciement",
+        "title": "ARTICLE 24 : RÉEMBAUCHAGE APRÈS LICENCIEMENT",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 118,
+        "path": [
+          "section-principale",
+          "fiche-118-article-24-rembauchage-aprs-licenciement"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-119-les-employs-conservent-pendant-un-dlai-de-deux-02-",
+        "title": "Les employés conservent pendant un délai de deux (02) ans un droit de",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 119,
+        "path": [
+          "section-principale",
+          "fiche-119-les-employs-conservent-pendant-un-dlai-de-deux-02-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-120-indemnitdelicenciementarticle-25-indemnit",
+        "title": "INDEMNITÉ_DE_LICENCIEMENT\"\\>ARTICLE 25 : INDEMNITÉ",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 120,
+        "path": [
+          "section-principale",
+          "fiche-120-indemnitdelicenciementarticle-25-indemnit"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-121-de-licenciement",
+        "title": "DE LICENCIEMENT",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 121,
+        "path": [
+          "section-principale",
+          "fiche-121-de-licenciement"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-122-en-cas-de-licenciement-lemploy-ayant-accompli-une-",
+        "title": "En cas de licenciement, l’employé ayant accompli une durée de service au",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 122,
+        "path": [
+          "section-principale",
+          "fiche-122-en-cas-de-licenciement-lemploy-ayant-accompli-une-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-123-cette-indemnit-est-calcule-en-fonction-du-salaire-",
+        "title": "Cette indemnité est calculée en fonction du salaire global mensuel moyen",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 123,
+        "path": [
+          "section-principale",
+          "fiche-123-cette-indemnit-est-calcule-en-fonction-du-salaire-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-124-en-cas-de-licenciement-collectif-ces-pourcentages-",
+        "title": "En cas de licenciement collectif ces pourcentages susvisés seront portés",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 124,
+        "path": [
+          "section-principale",
+          "fiche-124-en-cas-de-licenciement-collectif-ces-pourcentages-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-125-dans-le-dcompte-effectu-sur-les-bases-cidessus-ind",
+        "title": "Dans le décompte effectué sur les bases ci-dessus indiquées, il doit",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 125,
+        "path": [
+          "section-principale",
+          "fiche-125-dans-le-dcompte-effectu-sur-les-bases-cidessus-ind"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-126-le-salaire-global-mensuel-moyen-sentend-de-toutes-",
+        "title": "Le salaire global mensuel moyen s’entend de toutes les prestations",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 126,
+        "path": [
+          "section-principale",
+          "fiche-126-le-salaire-global-mensuel-moyen-sentend-de-toutes-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-127-article-26-rupture-du-contrat-de",
+        "title": "ARTICLE 26 : RUPTURE DU CONTRAT DE",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 127,
+        "path": [
+          "section-principale",
+          "fiche-127-article-26-rupture-du-contrat-de"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-128-lemploy-malade",
+        "title": "L’EMPLOYÉ MALADE",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 128,
+        "path": [
+          "section-principale",
+          "fiche-128-lemploy-malade"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-129-si-lexpiration-des-dlais-pour-cong-de-maladie-prvu",
+        "title": "Si à l’expiration des délais pour congé de maladie prévus à l’article 12",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 129,
+        "path": [
+          "section-principale",
+          "fiche-129-si-lexpiration-des-dlais-pour-cong-de-maladie-prvu"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-130-dans-tous-les-cas-la-rupture-du-contrat-de-travail",
+        "title": "Dans tous les cas, la rupture du contrat de travail pour cause de",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 130,
+        "path": [
+          "section-principale",
+          "fiche-130-dans-tous-les-cas-la-rupture-du-contrat-de-travail"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-131-lemploy-qui-na-pas-eu-un-01-an-danciennet-percevra",
+        "title": "L’employé qui n’a pas eu un (01) an d’ancienneté percevra une indemnité",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 131,
+        "path": [
+          "section-principale",
+          "fiche-131-lemploy-qui-na-pas-eu-un-01-an-danciennet-percevra"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-132-cette-indemnit-ne-saurait-se-cumuler-avec-les-inde",
+        "title": "Cette indemnité ne saurait se cumuler avec les indemnités qui seraient",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 132,
+        "path": [
+          "section-principale",
+          "fiche-132-cette-indemnit-ne-saurait-se-cumuler-avec-les-inde"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-133-lemploy-remplac-dans-les-conditions-indiques-cides",
+        "title": "L’employé remplacé dans les conditions indiquées ci-dessus conserve",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 133,
+        "path": [
+          "section-principale",
+          "fiche-133-lemploy-remplac-dans-les-conditions-indiques-cides"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-134-article-27-dcs-de-lemploy",
+        "title": "ARTICLE 27 : DÉCÈS DE L’EMPLOYÉ",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 134,
+        "path": [
+          "section-principale",
+          "fiche-134-article-27-dcs-de-lemploy"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-135-en-cas-de-dcs-de-lemploy-le-salaire-de-prsence-lal",
+        "title": "En cas de décès de l’employé, le salaire de présence, l’allocation de",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 135,
+        "path": [
+          "section-principale",
+          "fiche-135-en-cas-de-dcs-de-lemploy-le-salaire-de-prsence-lal"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-136-si-lemploy-compte-au-jour-du-dcs-une-anne-au-moins",
+        "title": "Si l’employé compte au jour du décès une année au moins d’ancienneté en",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 136,
+        "path": [
+          "section-principale",
+          "fiche-136-si-lemploy-compte-au-jour-du-dcs-une-anne-au-moins"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-137-le-montant-de-cet-abondement-est-toutefois-limit-s",
+        "title": "Le montant de cet abondement est toutefois limité à six (06) mois de",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 137,
+        "path": [
+          "section-principale",
+          "fiche-137-le-montant-de-cet-abondement-est-toutefois-limit-s"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-138-ne-peuvent-prtendre-au-paiement-de-ces-sommes-que-",
+        "title": "Ne peuvent prétendre au paiement de ces sommes que les héritiers de",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 138,
+        "path": [
+          "section-principale",
+          "fiche-138-ne-peuvent-prtendre-au-paiement-de-ces-sommes-que-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-139-la-direction-gnrale-participe-aux-dpenses-dobsques",
+        "title": "La Direction Générale participe aux dépenses d’obsèques en octroyant à",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 139,
+        "path": [
+          "section-principale",
+          "fiche-139-la-direction-gnrale-participe-aux-dpenses-dobsques"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-140-au-cas-o-la-caisse-nationale-de-scurit-sociale-acc",
+        "title": "AU cas où la Caisse Nationale de Sécurité Sociale accorderait certains",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 140,
+        "path": [
+          "section-principale",
+          "fiche-140-au-cas-o-la-caisse-nationale-de-scurit-sociale-acc"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-141-si-lemploy-avait-t-dplac-par-le-fait-de-lemployeur",
+        "title": "Si l’employé avait été déplacé par le fait de l’employeur, ce dernier",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 141,
+        "path": [
+          "section-principale",
+          "fiche-141-si-lemploy-avait-t-dplac-par-le-fait-de-lemployeur"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-142-t-i-t-r-e-iii-des-rapports",
+        "title": "T I T R E III: DES RAPPORTS",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 142,
+        "path": [
+          "section-principale",
+          "fiche-142-t-i-t-r-e-iii-des-rapports"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-143-collectifs-de-travail",
+        "title": "COLLECTIFS DE TRAVAIL",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 143,
+        "path": [
+          "section-principale",
+          "fiche-143-collectifs-de-travail"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-144-chapitre-i-de-lexercice-du-droit-syndical",
+        "title": "CHAPITRE I : DE L’EXERCICE DU DROIT SYNDICAL",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 144,
+        "path": [
+          "section-principale",
+          "fiche-144-chapitre-i-de-lexercice-du-droit-syndical"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-145-article-28-respect-rciproque-des-liberts",
+        "title": "ARTICLE 28 : RESPECT RÉCIPROQUE DES LIBERTÉS",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 145,
+        "path": [
+          "section-principale",
+          "fiche-145-article-28-respect-rciproque-des-liberts"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-146-les-parties-contractantes-reconnaissent-le-droit-p",
+        "title": "Les parties contractantes reconnaissent le droit pour tous de s’associer",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 146,
+        "path": [
+          "section-principale",
+          "fiche-146-les-parties-contractantes-reconnaissent-le-droit-p"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-147-lentreprise-tant-un-lieu-de-travail-lemployeur-sen",
+        "title": "L’entreprise étant un lieu de travail, l’employeur s’engage :",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 147,
+        "path": [
+          "section-principale",
+          "fiche-147-lentreprise-tant-un-lieu-de-travail-lemployeur-sen"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-148-en-outre-lemployeur-sengage-ne-faire-aucune-pressi",
+        "title": "En outre, l’employeur s’engage à ne faire aucune pression sur les",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 148,
+        "path": [
+          "section-principale",
+          "fiche-148-en-outre-lemployeur-sengage-ne-faire-aucune-pressi"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-149-les-employs-en-ce-qui-les-concerne-sengagent-",
+        "title": "Les employés, en ce qui les concerne, s’engagent :",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 149,
+        "path": [
+          "section-principale",
+          "fiche-149-les-employs-en-ce-qui-les-concerne-sengagent-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-150-les-parties-contractantes-sengagent-la-stricte-obs",
+        "title": "Les parties contractantes s’engagent à la stricte observation des",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 150,
+        "path": [
+          "section-principale",
+          "fiche-150-les-parties-contractantes-sengagent-la-stricte-obs"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-151-si-lune-des-parties-contractantes-estime-que-le-li",
+        "title": "Si l’une des parties contractantes estime que le licenciement ou la",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 151,
+        "path": [
+          "section-principale",
+          "fiche-151-si-lune-des-parties-contractantes-estime-que-le-li"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-152-article-29-absences-pour-activits",
+        "title": "ARTICLE 29 : ABSENCES POUR ACTIVITÉS",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 152,
+        "path": [
+          "section-principale",
+          "fiche-152-article-29-absences-pour-activits"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-153-les-responsables-syndicaux-ainsi-que-les-employs-s",
+        "title": "Les responsables syndicaux ainsi que les employés syndiqués ont droit à",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 153,
+        "path": [
+          "section-principale",
+          "fiche-153-les-responsables-syndicaux-ainsi-que-les-employs-s"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-154-article-30-droit-de-grve",
+        "title": "ARTICLE 30 : DROIT DE GRÈVE",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 154,
+        "path": [
+          "section-principale",
+          "fiche-154-article-30-droit-de-grve"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-155-le-droit-de-grve-est-reconnu-aux-employs-pour-la-d",
+        "title": "Le droit de grève est reconnu aux employés pour la défense de leurs",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 155,
+        "path": [
+          "section-principale",
+          "fiche-155-le-droit-de-grve-est-reconnu-aux-employs-pour-la-d"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-156-la-grve-ne-peut-tre-dclenche-quen-cas-dchec-des-ng",
+        "title": "La grève ne peut être déclenchée qu’en cas d’échec des négociations",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 156,
+        "path": [
+          "section-principale",
+          "fiche-156-la-grve-ne-peut-tre-dclenche-quen-cas-dchec-des-ng"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-157-lchec-des-ngociations-doit-tre-constat-sance-tenan",
+        "title": "L’échec des négociations doit être constaté séance tenante par",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 157,
+        "path": [
+          "section-principale",
+          "fiche-157-lchec-des-ngociations-doit-tre-constat-sance-tenan"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-158-la-grve-ne-rompt-pas-le-contrat-de-travail-lemploy",
+        "title": "La grève ne rompt pas le contrat de travail ; l’employeur ne peut pas",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 158,
+        "path": [
+          "section-principale",
+          "fiche-158-la-grve-ne-rompt-pas-le-contrat-de-travail-lemploy"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-159-article-31-panneaux-daffichage",
+        "title": "ARTICLE 31 : PANNEAUX D’AFFICHAGE",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 159,
+        "path": [
+          "section-principale",
+          "fiche-159-article-31-panneaux-daffichage"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-160-des-panneaux-daffichage-grillags-ou-vitrs-en-nombr",
+        "title": "Des panneaux d’affichage grillagés ou vitrés en nombre suffisant fermant",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 160,
+        "path": [
+          "section-principale",
+          "fiche-160-des-panneaux-daffichage-grillags-ou-vitrs-en-nombr"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-161-pour-une-utilisation-judicieuse-desdits-panneaux-l",
+        "title": "Pour une utilisation judicieuse desdits panneaux les règles suivantes",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 161,
+        "path": [
+          "section-principale",
+          "fiche-161-pour-une-utilisation-judicieuse-desdits-panneaux-l"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-162-chapitre-ii-des-delegues-du-personnel",
+        "title": "CHAPITRE II : DES DELEGUES DU PERSONNEL",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 162,
+        "path": [
+          "section-principale",
+          "fiche-162-chapitre-ii-des-delegues-du-personnel"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-163-article-32-election-des-dlgus-du",
+        "title": "ARTICLE 32 : ELECTION DES DÉLÉGUÉS DU",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 163,
+        "path": [
+          "section-principale",
+          "fiche-163-article-32-election-des-dlgus-du"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-164-les-dlgus-du-personnel-sont-lus-dans-les-condition",
+        "title": "Les délégués du personnel sont élus dans les conditions fixées par les",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 164,
+        "path": [
+          "section-principale",
+          "fiche-164-les-dlgus-du-personnel-sont-lus-dans-les-condition"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-165-les-attributions-des-dlgus-du-personnel-sont-celle",
+        "title": "Les attributions des délégués du personnel sont celles prévues par",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 165,
+        "path": [
+          "section-principale",
+          "fiche-165-les-attributions-des-dlgus-du-personnel-sont-celle"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-166-article-33-mission-des-dlgus-du",
+        "title": "ARTICLE 33 : MISSION DES DÉLÉGUÉS DU",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 166,
+        "path": [
+          "section-principale",
+          "fiche-166-article-33-mission-des-dlgus-du"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-167-les-dlgus-du-personnel-ont-pour-missions-",
+        "title": "Les délégués du personnel ont pour missions :",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 167,
+        "path": [
+          "section-principale",
+          "fiche-167-les-dlgus-du-personnel-ont-pour-missions-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-168-article-34-protection-des-dlgus-du",
+        "title": "ARTICLE 34 : PROTECTION DES DÉLÉGUÉS DU",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 168,
+        "path": [
+          "section-principale",
+          "fiche-168-article-34-protection-des-dlgus-du"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-169-la-fonction-de-dlgu-du-personnel-ne-doit-pas-tre-p",
+        "title": "La fonction de délégué du personnel ne doit pas être pour l’employé élu",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 169,
+        "path": [
+          "section-principale",
+          "fiche-169-la-fonction-de-dlgu-du-personnel-ne-doit-pas-tre-p"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-170-tout-licenciement-dun-dlgu-du-personnel-titulaire-",
+        "title": "Tout licenciement d’un délégué du personnel, titulaire ou suppléant,",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 170,
+        "path": [
+          "section-principale",
+          "fiche-170-tout-licenciement-dun-dlgu-du-personnel-titulaire-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-171-il-en-est-de-mme-du-licenciement-dun-ancien-dlgu-d",
+        "title": "Il en est de même du licenciement d’un ancien délégué du personnel",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 171,
+        "path": [
+          "section-principale",
+          "fiche-171-il-en-est-de-mme-du-licenciement-dun-ancien-dlgu-d"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-172-lorsque-le-motif-du-licenciement-envisag-par-lempl",
+        "title": "Lorsque le motif du licenciement envisagé par l’employeur consiste en",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 172,
+        "path": [
+          "section-principale",
+          "fiche-172-lorsque-le-motif-du-licenciement-envisag-par-lempl"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-173-t-i-t-r-e-iv-des-conditions-de",
+        "title": "T I T R E IV: DES CONDITIONS DE",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 173,
+        "path": [
+          "section-principale",
+          "fiche-173-t-i-t-r-e-iv-des-conditions-de"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-174-chapitre-i-de-la-duree-du-travail",
+        "title": "CHAPITRE I : DE LA DUREE DU TRAVAIL",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 174,
+        "path": [
+          "section-principale",
+          "fiche-174-chapitre-i-de-la-duree-du-travail"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-175-horairedutravailarticle-35-dure-et",
+        "title": "HORAIRE_DU_TRAVAIL\"\\>ARTICLE 35 : DURÉE ET",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 175,
+        "path": [
+          "section-principale",
+          "fiche-175-horairedutravailarticle-35-dure-et"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-176-horaire-du-travail",
+        "title": "HORAIRE DU TRAVAIL",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 176,
+        "path": [
+          "section-principale",
+          "fiche-176-horaire-du-travail"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-177-les-horaires-de-travail-que-le-personnel-est-appel",
+        "title": "Les horaires de travail que le personnel est appelé à suivre sont ceux",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 177,
+        "path": [
+          "section-principale",
+          "fiche-177-les-horaires-de-travail-que-le-personnel-est-appel"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-178-joursfrisarticle-36-jours-fris",
+        "title": "JOURS_FÉRIÉS\"\\>ARTICLE 36 : JOURS FÉRIÉS",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 178,
+        "path": [
+          "section-principale",
+          "fiche-178-joursfrisarticle-36-jours-fris"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-179-les-jours-fris-sont-ceux-prvus-par-les-textes-en-v",
+        "title": "Les jours fériés sont ceux prévus par les textes en vigueur en la",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 179,
+        "path": [
+          "section-principale",
+          "fiche-179-les-jours-fris-sont-ceux-prvus-par-les-textes-en-v"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-180-toutefois-les-heures-de-travail-effectues-les-jour",
+        "title": "Toutefois, les heures de travail effectuées les jours fériés sont",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 180,
+        "path": [
+          "section-principale",
+          "fiche-180-toutefois-les-heures-de-travail-effectues-les-jour"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-181-article-37-travail-des-femmes-et-des",
+        "title": "ARTICLE 37 : TRAVAIL DES FEMMES ET DES",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 181,
+        "path": [
+          "section-principale",
+          "fiche-181-article-37-travail-des-femmes-et-des"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-182-lemployeur-sengage-offrir-aux-jeunes-de-moins-de-d",
+        "title": "L’employeur s’engage à offrir aux jeunes de moins de dix huit (18) ans",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 182,
+        "path": [
+          "section-principale",
+          "fiche-182-lemployeur-sengage-offrir-aux-jeunes-de-moins-de-d"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-183-lemployeur-tiendra-compte-de-ltat-des-femmes-encei",
+        "title": "L’employeur tiendra compte de l’état des femmes enceintes en ce qui",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 183,
+        "path": [
+          "section-principale",
+          "fiche-183-lemployeur-tiendra-compte-de-ltat-des-femmes-encei"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-184-en-cas-de-changement-demploi-demand-par-le-mdecin-",
+        "title": "En cas de changement d’emploi demandé par le médecin agréé du fait de",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 184,
+        "path": [
+          "section-principale",
+          "fiche-184-en-cas-de-changement-demploi-demand-par-le-mdecin-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-185-chapitre-ii-conges-et-autorisations-dabsence",
+        "title": "CHAPITRE II : CONGES ET AUTORISATIONS D’ABSENCE",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 185,
+        "path": [
+          "section-principale",
+          "fiche-185-chapitre-ii-conges-et-autorisations-dabsence"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-186-congsannuelsarticle-38-congs-annuels",
+        "title": "CONGÉS_ANNUELS\"\\>ARTICLE 38 : CONGÉS ANNUELS",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 186,
+        "path": [
+          "section-principale",
+          "fiche-186-congsannuelsarticle-38-congs-annuels"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-187-le-droit-aux-congs-annuels-est-acquis-sur-la-base-",
+        "title": "Le droit aux congés annuels est acquis sur la base de deux (02) jours",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 187,
+        "path": [
+          "section-principale",
+          "fiche-187-le-droit-aux-congs-annuels-est-acquis-sur-la-base-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-188-toutefois-les-congs-peuvent-se-cumuler-aprs-accord",
+        "title": "Toutefois, les congés peuvent se cumuler après accord de l’employeur",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 188,
+        "path": [
+          "section-principale",
+          "fiche-188-toutefois-les-congs-peuvent-se-cumuler-aprs-accord"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-189-lordre-de-dpart-en-cong-est-fix-daccord-parties-en",
+        "title": "L’ordre de départ en congé est fixé d’accord parties entre l’employeur",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 189,
+        "path": [
+          "section-principale",
+          "fiche-189-lordre-de-dpart-en-cong-est-fix-daccord-parties-en"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-190-la-date-de-dpart-en-congs-sauf-cas-de-force-majeur",
+        "title": "La date de départ en congés, sauf cas de force majeure, ne peut être",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 190,
+        "path": [
+          "section-principale",
+          "fiche-190-la-date-de-dpart-en-congs-sauf-cas-de-force-majeur"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-191-congssupplmentairesarticle-39-congs",
+        "title": "CONGÉS_SUPPLÉMENTAIRES\"\\>ARTICLE 39 : CONGÉS",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 191,
+        "path": [
+          "section-principale",
+          "fiche-191-congssupplmentairesarticle-39-congs"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-192-supplmentaires",
+        "title": "SUPPLÉMENTAIRES",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 192,
+        "path": [
+          "section-principale",
+          "fiche-192-supplmentaires"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-193-il-est-accord-aux-employs-une-bonification-de-la-d",
+        "title": "Il est accordé aux employés une bonification de la durée de congé annuel",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 193,
+        "path": [
+          "section-principale",
+          "fiche-193-il-est-accord-aux-employs-une-bonification-de-la-d"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-194-cette-bonification-est-tablie-de-la-faon-suivante-",
+        "title": "Cette bonification est établie de la façon suivante :",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 194,
+        "path": [
+          "section-principale",
+          "fiche-194-cette-bonification-est-tablie-de-la-faon-suivante-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-195-congsarticle-40-allocations-de-congs",
+        "title": "CONGÉS\"\\>ARTICLE 40 : ALLOCATIONS DE CONGÉS",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 195,
+        "path": [
+          "section-principale",
+          "fiche-195-congsarticle-40-allocations-de-congs"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-196-une-allocation-de-congs-doit-tre-verse-lemploy-loc",
+        "title": "Une allocation de congés doit être versée à l’employé à l’occasion de",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 196,
+        "path": [
+          "section-principale",
+          "fiche-196-une-allocation-de-congs-doit-tre-verse-lemploy-loc"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-197-en-cas-de-fractionnement-de-congs-lallocation-reve",
+        "title": "En cas de fractionnement de congés, l’allocation revenant à l’employé",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 197,
+        "path": [
+          "section-principale",
+          "fiche-197-en-cas-de-fractionnement-de-congs-lallocation-reve"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-198-pour-la-dtermination-de-congs-pays-sont-considrs-c",
+        "title": "Pour la détermination de congés payés, sont considérés comme temps de",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 198,
+        "path": [
+          "section-principale",
+          "fiche-198-pour-la-dtermination-de-congs-pays-sont-considrs-c"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-199-article-41-permissions-dabsence",
+        "title": "ARTICLE 41 : PERMISSIONS D’ABSENCE",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 199,
+        "path": [
+          "section-principale",
+          "fiche-199-article-41-permissions-dabsence"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-200-il-est-accord-aux-employs-des-permissions-exceptio",
+        "title": "Il est accordé aux employés des permissions exceptionnelles d’absence",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 200,
+        "path": [
+          "section-principale",
+          "fiche-200-il-est-accord-aux-employs-des-permissions-exceptio"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-201-beaupre-dune-belle-mre-deux-02-jours",
+        "title": "Beau-père, d’une belle mère …………………… deux (02) jours",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 201,
+        "path": [
+          "section-principale",
+          "fiche-201-beaupre-dune-belle-mre-deux-02-jours"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-202-ces-permissions-ainsi-que-les-dlais-de-route-ventu",
+        "title": "Ces permissions, ainsi que les délais de route éventuellement accordés,",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 202,
+        "path": [
+          "section-principale",
+          "fiche-202-ces-permissions-ainsi-que-les-dlais-de-route-ventu"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-203-toute-permission-de-cette-nature-doit-faire-lobjet",
+        "title": "Toute permission de cette nature doit faire l’objet d’une autorisation",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 203,
+        "path": [
+          "section-principale",
+          "fiche-203-toute-permission-de-cette-nature-doit-faire-lobjet"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-204-pour-bnficier-dune-permission-dabsence-telle-que-d",
+        "title": "Pour bénéficier d’une permission d’absence telle que définie ci-dessus,",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 204,
+        "path": [
+          "section-principale",
+          "fiche-204-pour-bnficier-dune-permission-dabsence-telle-que-d"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-205-en-ce-qui-concerne-la-naissance-au-foyer-lemploy-c",
+        "title": "En ce qui concerne la naissance au foyer, l’employé conserve le droit",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 205,
+        "path": [
+          "section-principale",
+          "fiche-205-en-ce-qui-concerne-la-naissance-au-foyer-lemploy-c"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-206-en-cas-de-maladie-grave-du-conjoint-une-permission",
+        "title": "En cas de maladie grave du conjoint, une permission exceptionnelle peut",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 206,
+        "path": [
+          "section-principale",
+          "fiche-206-en-cas-de-maladie-grave-du-conjoint-une-permission"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-207-article-42-autorisations-spciales-dabsence",
+        "title": "ARTICLE 42 : AUTORISATIONS SPÉCIALES D’ABSENCE",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 207,
+        "path": [
+          "section-principale",
+          "fiche-207-article-42-autorisations-spciales-dabsence"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-208-il-est-accord-aux-employs-des-autorisations-spcial",
+        "title": "Il est accordé aux employés des autorisations spéciales d’absence dans",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 208,
+        "path": [
+          "section-principale",
+          "fiche-208-il-est-accord-aux-employs-des-autorisations-spcial"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-209-lemploy-pour-bnficier-dautorisation-spciale-dabsen",
+        "title": "L’employé, pour bénéficier d’autorisation spéciale d’absence est tenu",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 209,
+        "path": [
+          "section-principale",
+          "fiche-209-lemploy-pour-bnficier-dautorisation-spciale-dabsen"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-210-la-dure-de-cette-permission-et-les-dlais-de-route-",
+        "title": "La durée de cette permission et les délais de route sont fixés d’accord",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 210,
+        "path": [
+          "section-principale",
+          "fiche-210-la-dure-de-cette-permission-et-les-dlais-de-route-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-211-audel-de-la-limite-de-quatre-04-jours-fixs-en-a-",
+        "title": "Au-delà de la limite de quatre (04) jours fixés en (a) :",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 211,
+        "path": [
+          "section-principale",
+          "fiche-211-audel-de-la-limite-de-quatre-04-jours-fixs-en-a-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-212-chapitre-iii-de-la-formation-professionnelle-et-de",
+        "title": "CHAPITRE III : DE LA FORMATION PROFESSIONNELLE ET DES ŒUVRES SOCIALES,",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 212,
+        "path": [
+          "section-principale",
+          "fiche-212-chapitre-iii-de-la-formation-professionnelle-et-de"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-213-de-la-sante-et-de-la-securite-au-travail",
+        "title": "DE LA SANTE ET DE LA SECURITE AU TRAVAIL",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 213,
+        "path": [
+          "section-principale",
+          "fiche-213-de-la-sante-et-de-la-securite-au-travail"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-214-section-i-formation-professionnelle-et-stage-de-pe",
+        "title": "SECTION I : FORMATION PROFESSIONNELLE ET STAGE DE PERFECTIONNEMENT",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 214,
+        "path": [
+          "section-principale",
+          "fiche-214-section-i-formation-professionnelle-et-stage-de-pe"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-215-formationprofessionnellearticle-43-formation",
+        "title": "FORMATION_PROFESSIONNELLE\"\\>ARTICLE 43 : FORMATION",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 215,
+        "path": [
+          "section-principale",
+          "fiche-215-formationprofessionnellearticle-43-formation"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-216-professionnelle",
+        "title": "PROFESSIONNELLE",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 216,
+        "path": [
+          "section-principale",
+          "fiche-216-professionnelle"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-217-une-politique-dynamique-de-formation-professionnel",
+        "title": "Une politique dynamique de formation professionnelle de l’employeur",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 217,
+        "path": [
+          "section-principale",
+          "fiche-217-une-politique-dynamique-de-formation-professionnel"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-218-les-formations-pourront-revtir-les-formes-dfinies-",
+        "title": "Les formations pourront revêtir les formes définies ci-dessous :",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 218,
+        "path": [
+          "section-principale",
+          "fiche-218-les-formations-pourront-revtir-les-formes-dfinies-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-219-formationetdeperfectionnementarticle-44-stages-de",
+        "title": "FORMATION_ET_DE_PERFECTIONNEMENT\"\\>ARTICLE 44: STAGES DE",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 219,
+        "path": [
+          "section-principale",
+          "fiche-219-formationetdeperfectionnementarticle-44-stages-de"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-220-formation-et-de-perfectionnement",
+        "title": "FORMATION ET DE PERFECTIONNEMENT",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 220,
+        "path": [
+          "section-principale",
+          "fiche-220-formation-et-de-perfectionnement"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-221-par-souci-damlioration-des-comptences-les-employs-",
+        "title": "Par souci d’amélioration des compétences, les employés nécessitant une",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 221,
+        "path": [
+          "section-principale",
+          "fiche-221-par-souci-damlioration-des-comptences-les-employs-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-222-tout-employ-envoy-en-stage-peroit-durant-toute-la-",
+        "title": "Tout employé envoyé en stage perçoit durant toute la période du stage",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 222,
+        "path": [
+          "section-principale",
+          "fiche-222-tout-employ-envoy-en-stage-peroit-durant-toute-la-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-223-si-le-stage-est-effectu-dans-un-pays-tranger-et-qu",
+        "title": "Si le stage est effectué dans un pays étranger et que le stagiaire n’est",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 223,
+        "path": [
+          "section-principale",
+          "fiche-223-si-le-stage-est-effectu-dans-un-pays-tranger-et-qu"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-224-au-cas-o-une-bourse-extrieure-accorde-au-stagiaire",
+        "title": "Au cas où une bourse extérieure accordée au stagiaire serait",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 224,
+        "path": [
+          "section-principale",
+          "fiche-224-au-cas-o-une-bourse-extrieure-accorde-au-stagiaire"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-225-si-le-stage-se-droule-au-bnin-mais-hors-du-lieu-de",
+        "title": "Si le stage se déroule au Bénin mais hors du lieu d’emploi, le stagiaire",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 225,
+        "path": [
+          "section-principale",
+          "fiche-225-si-le-stage-se-droule-au-bnin-mais-hors-du-lieu-de"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-226-il-est-allou-tout-employ-partant-en-stage-ltranger",
+        "title": "Il est alloué à tout employé partant en stage à l’étranger une indemnité",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 226,
+        "path": [
+          "section-principale",
+          "fiche-226-il-est-allou-tout-employ-partant-en-stage-ltranger"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-227-tout-stagiaire-sengage-avant-son-dpart-signer-un-e",
+        "title": "Tout stagiaire s’engage avant son départ à signer un engagement de",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 227,
+        "path": [
+          "section-principale",
+          "fiche-227-tout-stagiaire-sengage-avant-son-dpart-signer-un-e"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-228-en-cas-de-non-respect-de-cet-engagement-lintress-s",
+        "title": "En cas de non respect de cet engagement, l’intéressé sera tenu de",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 228,
+        "path": [
+          "section-principale",
+          "fiche-228-en-cas-de-non-respect-de-cet-engagement-lintress-s"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-229-les-stages-de-formation-ou-de-perfectionnement-dun",
+        "title": "Les stages de formation ou de perfectionnement d’une durée supérieure ou",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 229,
+        "path": [
+          "section-principale",
+          "fiche-229-les-stages-de-formation-ou-de-perfectionnement-dun"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-230-toutefois-lorsque-le-stage-a-t-organis-dans-le-but",
+        "title": "Toutefois, lorsque le stage a été organisé dans le but de pourvoir à un",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 230,
+        "path": [
+          "section-principale",
+          "fiche-230-toutefois-lorsque-le-stage-a-t-organis-dans-le-but"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-231-section-ii-uvres-sociales",
+        "title": "SECTION II : ŒUVRES SOCIALES",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 231,
+        "path": [
+          "section-principale",
+          "fiche-231-section-ii-uvres-sociales"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-232-article-45-objet-des-uvres-sociales",
+        "title": "ARTICLE 45 : OBJET DES ŒUVRES SOCIALES",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 232,
+        "path": [
+          "section-principale",
+          "fiche-232-article-45-objet-des-uvres-sociales"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-233-les-uvres-sociales-sont-ralises-par-lemployeur-en-",
+        "title": "Les œuvres sociales sont réalisées par l’employeur en faveur des",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 233,
+        "path": [
+          "section-principale",
+          "fiche-233-les-uvres-sociales-sont-ralises-par-lemployeur-en-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-234-elles-peuvent-revtir-diverses-formes-dont-notammen",
+        "title": "Elles peuvent revêtir diverses formes dont notamment :",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 234,
+        "path": [
+          "section-principale",
+          "fiche-234-elles-peuvent-revtir-diverses-formes-dont-notammen"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-235-section-iii-sante-et-securite-au-travail",
+        "title": "SECTION III : SANTE ET SECURITE AU TRAVAIL",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 235,
+        "path": [
+          "section-principale",
+          "fiche-235-section-iii-sante-et-securite-au-travail"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-236-article-46-scurit-sociale",
+        "title": "ARTICLE 46 : SÉCURITÉ SOCIALE",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 236,
+        "path": [
+          "section-principale",
+          "fiche-236-article-46-scurit-sociale"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-237-tout-le-personnel-doit-tre-obligatoirement-immatri",
+        "title": "Tout le personnel doit être obligatoirement immatriculé à la Caisse",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 237,
+        "path": [
+          "section-principale",
+          "fiche-237-tout-le-personnel-doit-tre-obligatoirement-immatri"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-238-nationale-de-scurit-sociale-ds-lembauche-afin-de-l",
+        "title": "Nationale de Sécurité Sociale dès l’embauche afin de lui permettre de",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 238,
+        "path": [
+          "section-principale",
+          "fiche-238-nationale-de-scurit-sociale-ds-lembauche-afin-de-l"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-239-lemployeur-est-tenu-dtre-jour-de-ses-engagements-v",
+        "title": "L’employeur est tenu d’être à jour de ses engagements vis-à-vis de",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 239,
+        "path": [
+          "section-principale",
+          "fiche-239-lemployeur-est-tenu-dtre-jour-de-ses-engagements-v"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-240-article-47-hygine-et-scurit-sur-les",
+        "title": "ARTICLE 47 : HYGIÈNE ET SÉCURITÉ SUR LES",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 240,
+        "path": [
+          "section-principale",
+          "fiche-240-article-47-hygine-et-scurit-sur-les"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-241-lieux-de-travail",
+        "title": "LIEUX DE TRAVAIL",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 241,
+        "path": [
+          "section-principale",
+          "fiche-241-lieux-de-travail"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-242-lemployeur-sengage-tout-mettre-en-uvre-pour-assure",
+        "title": "L’employeur s’engage à tout mettre en œuvre pour assurer les meilleures",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 242,
+        "path": [
+          "section-principale",
+          "fiche-242-lemployeur-sengage-tout-mettre-en-uvre-pour-assure"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-243-les-employs-doivent-respecter-les-consignes-prises",
+        "title": "Les employés doivent respecter les consignes prises pour la prévention",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 243,
+        "path": [
+          "section-principale",
+          "fiche-243-les-employs-doivent-respecter-les-consignes-prises"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-244-en-outre-lemployeur-devra-veiller-au-bon-fonctionn",
+        "title": "En outre, l’employeur devra veiller au bon fonctionnement des comités",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 244,
+        "path": [
+          "section-principale",
+          "fiche-244-en-outre-lemployeur-devra-veiller-au-bon-fonctionn"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-245-article-48-visite-mdicale-annuelle",
+        "title": "ARTICLE 48 : VISITE MÉDICALE ANNUELLE",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 245,
+        "path": [
+          "section-principale",
+          "fiche-245-article-48-visite-mdicale-annuelle"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-246-la-visite-mdicale-systmatique-annuelle-est-obligat",
+        "title": "La visite médicale systématique annuelle est obligatoire pour l’ensemble",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 246,
+        "path": [
+          "section-principale",
+          "fiche-246-la-visite-mdicale-systmatique-annuelle-est-obligat"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-247-les-rsultats-de-la-visite-mdicale-ainsi-que-les-me",
+        "title": "Les résultats de la visite médicale ainsi que les mesures qui en",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 247,
+        "path": [
+          "section-principale",
+          "fiche-247-les-rsultats-de-la-visite-mdicale-ainsi-que-les-me"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-248-le-cot-de-cette-visite-mdicale-est-entirement-la-c",
+        "title": "Le coût de cette visite médicale est entièrement à la charge de",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 248,
+        "path": [
+          "section-principale",
+          "fiche-248-le-cot-de-cette-visite-mdicale-est-entirement-la-c"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-249-article-49-soins-mdicaux-et",
+        "title": "ARTICLE 49 : SOINS MÉDICAUX ET",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 249,
+        "path": [
+          "section-principale",
+          "fiche-249-article-49-soins-mdicaux-et"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-250-hospitalisation",
+        "title": "HOSPITALISATION",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 250,
+        "path": [
+          "section-principale",
+          "fiche-250-hospitalisation"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-251-lemploy-et-sa-famille-bnficient-des-consultations-",
+        "title": "L’employé et sa famille bénéficient des consultations et soins d’urgence",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 251,
+        "path": [
+          "section-principale",
+          "fiche-251-lemploy-et-sa-famille-bnficient-des-consultations-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-252-toutefois-les-consultations-et-soins-durgence-les-",
+        "title": "Toutefois, les consultations et soins d’urgence, les produits",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 252,
+        "path": [
+          "section-principale",
+          "fiche-252-toutefois-les-consultations-et-soins-durgence-les-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-253-lemploy-participe-au-cot-de-cette-assurance-par-un",
+        "title": "L’employé participe au coût de cette assurance par une cotisation",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 253,
+        "path": [
+          "section-principale",
+          "fiche-253-lemploy-participe-au-cot-de-cette-assurance-par-un"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-254-la-famille-de-lemploy-sentend-du-conjoint-et-des-e",
+        "title": "La famille de l’employé s’entend du conjoint et des enfants dans la",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 254,
+        "path": [
+          "section-principale",
+          "fiche-254-la-famille-de-lemploy-sentend-du-conjoint-et-des-e"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-255-chapitre-ii-de-la-remuneration",
+        "title": "CHAPITRE II : DE LA REMUNERATION",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 255,
+        "path": [
+          "section-principale",
+          "fiche-255-chapitre-ii-de-la-remuneration"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-256-section-i-determination-du-salaire",
+        "title": "SECTION I : DETERMINATION DU SALAIRE",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 256,
+        "path": [
+          "section-principale",
+          "fiche-256-section-i-determination-du-salaire"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-257-article-50-enonc-du-principe-de",
+        "title": "ARTICLE 50 : ENONCÉ DU PRINCIPE DE",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 257,
+        "path": [
+          "section-principale",
+          "fiche-257-article-50-enonc-du-principe-de"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-258-rmunration",
+        "title": "RÉMUNÉRATION",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 258,
+        "path": [
+          "section-principale",
+          "fiche-258-rmunration"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-259-a-travail-de-valeur-gale-le-salaire-est-gal-pour-t",
+        "title": "A travail de valeur égale, le salaire est égal pour tous les employés",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 259,
+        "path": [
+          "section-principale",
+          "fiche-259-a-travail-de-valeur-gale-le-salaire-est-gal-pour-t"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-260-article-51-paiement-du-salaire",
+        "title": "ARTICLE 51 : PAIEMENT DU SALAIRE",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 260,
+        "path": [
+          "section-principale",
+          "fiche-260-article-51-paiement-du-salaire"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-261-le-paiement-du-salaire-se-fait-terme-chu-en-princi",
+        "title": "Le paiement du salaire se fait à terme échu, en principe à la fin de",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 261,
+        "path": [
+          "section-principale",
+          "fiche-261-le-paiement-du-salaire-se-fait-terme-chu-en-princi"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-262-chaque-travailleur-doit-obligatoirement-recevoir-u",
+        "title": "Chaque travailleur doit obligatoirement recevoir un bulletin de paie à",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 262,
+        "path": [
+          "section-principale",
+          "fiche-262-chaque-travailleur-doit-obligatoirement-recevoir-u"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-263-caisse-nationale-de-scurit-sociale-les-diffrents-l",
+        "title": "Caisse Nationale de Sécurité Sociale, les différents éléments de la",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 263,
+        "path": [
+          "section-principale",
+          "fiche-263-caisse-nationale-de-scurit-sociale-les-diffrents-l"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-264-article-52-grille-salariale",
+        "title": "ARTICLE 52 : GRILLE SALARIALE",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 264,
+        "path": [
+          "section-principale",
+          "fiche-264-article-52-grille-salariale"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-265-la-grille-salariale-applicable-au-personnel-est-ce",
+        "title": "La grille salariale applicable au personnel est celle figurant à",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 265,
+        "path": [
+          "section-principale",
+          "fiche-265-la-grille-salariale-applicable-au-personnel-est-ce"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-266-article-53-promotion",
+        "title": "ARTICLE 53 : PROMOTION",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 266,
+        "path": [
+          "section-principale",
+          "fiche-266-article-53-promotion"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-267-les-parties-contractantes-tant-animes-du-dsir-de-v",
+        "title": "Les parties contractantes étant animées du désir de voir favoriser le",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 267,
+        "path": [
+          "section-principale",
+          "fiche-267-les-parties-contractantes-tant-animes-du-dsir-de-v"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-268-en-cas-de-promotion-lemployeur-pourra-soumettre-le",
+        "title": "En cas de promotion, l’employeur pourra soumettre l’employé à la période",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 268,
+        "path": [
+          "section-principale",
+          "fiche-268-en-cas-de-promotion-lemployeur-pourra-soumettre-le"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-269-article-54-intrim",
+        "title": "ARTICLE 54 : INTÉRIM",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 269,
+        "path": [
+          "section-principale",
+          "fiche-269-article-54-intrim"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-270-lorsque-lemploy-doit-assumer-temporairement-la-dem",
+        "title": "Lorsque l’employé doit assumer, temporairement, à la demande de",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 270,
+        "path": [
+          "section-principale",
+          "fiche-270-lorsque-lemploy-doit-assumer-temporairement-la-dem"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-271-lorsque-lemployeur-demande-pour-ncessit-de-service",
+        "title": "Lorsque l’employeur demande, pour nécessité de service à un employé",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 271,
+        "path": [
+          "section-principale",
+          "fiche-271-lorsque-lemployeur-demande-pour-ncessit-de-service"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-272-si-lemploy-refuse-le-contrat-est-considr-comme-rom",
+        "title": "Si l’employé refuse, le contrat est considéré comme rompu du fait de",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 272,
+        "path": [
+          "section-principale",
+          "fiche-272-si-lemploy-refuse-le-contrat-est-considr-comme-rom"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-273-si-lemploy-accepte-il-est-rmunr-dans-les-condition",
+        "title": "Si l’employé accepte, il est rémunéré dans les conditions correspondant",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 273,
+        "path": [
+          "section-principale",
+          "fiche-273-si-lemploy-accepte-il-est-rmunr-dans-les-condition"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-274-le-fait-pour-un-employ-dassurer-provisoirement-ou-",
+        "title": "Le fait pour un employé d’assurer provisoirement ou par intérim, un",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 274,
+        "path": [
+          "section-principale",
+          "fiche-274-le-fait-pour-un-employ-dassurer-provisoirement-ou-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-275-toutefois-la-dure-de-ces-fonctions-temporaires-ne-",
+        "title": "Toutefois, la durée de ces fonctions temporaires ne peut excéder quatre",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 275,
+        "path": [
+          "section-principale",
+          "fiche-275-toutefois-la-dure-de-ces-fonctions-temporaires-ne-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-276-exception-faite-pour-les-cas-particuliers-viss-cid",
+        "title": "Exception faite pour les cas particuliers visés ci-dessus, l’employeur",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 276,
+        "path": [
+          "section-principale",
+          "fiche-276-exception-faite-pour-les-cas-particuliers-viss-cid"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-277-une-indemnit-pour-remplacement-ou-intrim-sera-acco",
+        "title": "Une indemnité pour remplacement ou intérim sera accordée à l’employé qui",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 277,
+        "path": [
+          "section-principale",
+          "fiche-277-une-indemnit-pour-remplacement-ou-intrim-sera-acco"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-278-le-taux-de-cette-indemnit-reprsente-10-du-salaire-",
+        "title": "Le taux de cette indemnité représente 10 % du salaire catégoriel de",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 278,
+        "path": [
+          "section-principale",
+          "fiche-278-le-taux-de-cette-indemnit-reprsente-10-du-salaire-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-279-cette-indemnit-nest-due-quau-cas-o-lintrim-na-t-co",
+        "title": "Cette indemnité n’est due qu’au cas où l’intérim n’a été confié qu’à une",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 279,
+        "path": [
+          "section-principale",
+          "fiche-279-cette-indemnit-nest-due-quau-cas-o-lintrim-na-t-co"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-280-section-ii-accessoires-de-salaire-enonce-du-princi",
+        "title": "SECTION II : ACCESSOIRES DE SALAIRE ENONCE DU PRINCIPE D’ATTRIBUTION",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 280,
+        "path": [
+          "section-principale",
+          "fiche-280-section-ii-accessoires-de-salaire-enonce-du-princi"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-281-article-55-enonc-du-principe",
+        "title": "ARTICLE 55 : ENONCÉ DU PRINCIPE",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 281,
+        "path": [
+          "section-principale",
+          "fiche-281-article-55-enonc-du-principe"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-282-dattribution",
+        "title": "D’ATTRIBUTION",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 282,
+        "path": [
+          "section-principale",
+          "fiche-282-dattribution"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-283-les-accessoires-de-salaire-et-autres-avantages-soc",
+        "title": "Les accessoires de salaire et autres avantages sociaux peuvent être",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 283,
+        "path": [
+          "section-principale",
+          "fiche-283-les-accessoires-de-salaire-et-autres-avantages-soc"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-284-article-56-primes",
+        "title": "ARTICLE 56 : PRIMES",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 284,
+        "path": [
+          "section-principale",
+          "fiche-284-article-56-primes"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-285-ces-primes-sont-",
+        "title": "Ces primes sont :",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 285,
+        "path": [
+          "section-principale",
+          "fiche-285-ces-primes-sont-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-286-t-i-t-r-e-vi-du-reglement-des",
+        "title": "T I T R E VI: DU REGLEMENT DES",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 286,
+        "path": [
+          "section-principale",
+          "fiche-286-t-i-t-r-e-vi-du-reglement-des"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-287-conflits-article-57-commission",
+        "title": "CONFLITS ARTICLE 57 : COMMISSION",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 287,
+        "path": [
+          "section-principale",
+          "fiche-287-conflits-article-57-commission"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-288-dinterprtation",
+        "title": "D’INTERPRÉTATION",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 288,
+        "path": [
+          "section-principale",
+          "fiche-288-dinterprtation"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-289-il-sera-institu-au-sein-de-lentreprise-une-commiss",
+        "title": "Il sera institué au sein de l’entreprise une commission mixte paritaire",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 289,
+        "path": [
+          "section-principale",
+          "fiche-289-il-sera-institu-au-sein-de-lentreprise-une-commiss"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-290-toutefois-cette-commission-na-pas-traiter-des-liti",
+        "title": "Toutefois, cette commission n’a pas à traiter des litiges individuels",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 290,
+        "path": [
+          "section-principale",
+          "fiche-290-toutefois-cette-commission-na-pas-traiter-des-liti"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-291-article-58-organisation-et-fonctionnement",
+        "title": "ARTICLE 58 : ORGANISATION ET FONCTIONNEMENT",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 291,
+        "path": [
+          "section-principale",
+          "fiche-291-article-58-organisation-et-fonctionnement"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-292-de-la-commission-dinterprtation",
+        "title": "DE LA COMMISSION D’INTERPRÉTATION",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 292,
+        "path": [
+          "section-principale",
+          "fiche-292-de-la-commission-dinterprtation"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-293-la-commission-mixte-paritaire-dinterprtation-susvi",
+        "title": "La commission mixte paritaire d’interprétation susvisée est présidée par",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 293,
+        "path": [
+          "section-principale",
+          "fiche-293-la-commission-mixte-paritaire-dinterprtation-susvi"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-294-les-noms-des-membres-titulaires-et-supplants-sont-",
+        "title": "Les noms des membres titulaires et suppléants sont communiqués à la",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 294,
+        "path": [
+          "section-principale",
+          "fiche-294-les-noms-des-membres-titulaires-et-supplants-sont-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-295-les-membres-supplants-ne-sigent-quen-cas-dempcheme",
+        "title": "Les membres suppléants ne siègent qu’en cas d’empêchement des",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 295,
+        "path": [
+          "section-principale",
+          "fiche-295-les-membres-supplants-ne-sigent-quen-cas-dempcheme"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-296-la-partie-signataire-qui-dsire-soumettre-un-diffre",
+        "title": "La partie signataire qui désire soumettre un différend à la commission",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 296,
+        "path": [
+          "section-principale",
+          "fiche-296-la-partie-signataire-qui-dsire-soumettre-un-diffre"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-297-tout-avis-donn-lunanimit-de-ses-membres-par-la-com",
+        "title": "Tout avis donné à l’unanimité de ses membres par la commission susvisée",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 297,
+        "path": [
+          "section-principale",
+          "fiche-297-tout-avis-donn-lunanimit-de-ses-membres-par-la-com"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-298-ce-procsverbal-est-ensuite-dpos-au-greffe-du-tribu",
+        "title": "Ce procès-verbal est ensuite déposé au greffe du tribunal du travail du",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 298,
+        "path": [
+          "section-principale",
+          "fiche-298-ce-procsverbal-est-ensuite-dpos-au-greffe-du-tribu"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-299-article-59-prconciliation",
+        "title": "ARTICLE 59 : PRÉ-CONCILIATION",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 299,
+        "path": [
+          "section-principale",
+          "fiche-299-article-59-prconciliation"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-300-tout-conflit-collectif-qui-surgit-au-sein-de-lentr",
+        "title": "Tout conflit collectif qui surgit au sein de l’entreprise fait l’objet",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 300,
+        "path": [
+          "section-principale",
+          "fiche-300-tout-conflit-collectif-qui-surgit-au-sein-de-lentr"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-301-en-cas-de-dsaccord-le-conflit-est-port-devant-une-",
+        "title": "En cas de désaccord, le conflit est porté devant une commission",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 301,
+        "path": [
+          "section-principale",
+          "fiche-301-en-cas-de-dsaccord-le-conflit-est-port-devant-une-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-302-elle-est-prside-par-lemployeur-ou-son-reprsentant-",
+        "title": "Elle est présidée par l’employeur ou son représentant et comporte",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 302,
+        "path": [
+          "section-principale",
+          "fiche-302-elle-est-prside-par-lemployeur-ou-son-reprsentant-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-303-en-cas-de-dsaccord-le-conflit-est-port-devant-lins",
+        "title": "En cas de désaccord, le conflit est porté devant l’inspection du travail",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 303,
+        "path": [
+          "section-principale",
+          "fiche-303-en-cas-de-dsaccord-le-conflit-est-port-devant-lins"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-304-t-i-t-r-e-vii-de-la-retraite",
+        "title": "T I T R E VII : DE LA RETRAITE",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 304,
+        "path": [
+          "section-principale",
+          "fiche-304-t-i-t-r-e-vii-de-la-retraite"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-305-article-60-scurit-sociale-retraite",
+        "title": "ARTICLE 60 : SÉCURITÉ SOCIALE – RETRAITE",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 305,
+        "path": [
+          "section-principale",
+          "fiche-305-article-60-scurit-sociale-retraite"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-306-le-personnel-est-affili-la-caisse-nationale-de-scu",
+        "title": "Le personnel est affilié à la Caisse Nationale de Sécurité Sociale",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 306,
+        "path": [
+          "section-principale",
+          "fiche-306-le-personnel-est-affili-la-caisse-nationale-de-scu"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-307-article-61-indemnit-de-dpart-la",
+        "title": "ARTICLE 61 : INDEMNITÉ DE DÉPART À LA",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 307,
+        "path": [
+          "section-principale",
+          "fiche-307-article-61-indemnit-de-dpart-la"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-308-lindemnit-de-licenciement-nest-pas-due-lorsque-lem",
+        "title": "L’indemnité de licenciement n’est pas due lorsque l’employé cesse",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 308,
+        "path": [
+          "section-principale",
+          "fiche-308-lindemnit-de-licenciement-nest-pas-due-lorsque-lem"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-309-toutefois-il-lui-sera-vers-dans-ce-cas-une-allocat",
+        "title": "Toutefois, il lui sera versé, dans ce cas, une allocation spéciale dite",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 309,
+        "path": [
+          "section-principale",
+          "fiche-309-toutefois-il-lui-sera-vers-dans-ce-cas-une-allocat"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-310-cette-indemnit-est-dcompte-sur-les-mmes-bases-et-s",
+        "title": "Cette indemnité est décomptée sur les mêmes bases et suivant les mêmes",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 310,
+        "path": [
+          "section-principale",
+          "fiche-310-cette-indemnit-est-dcompte-sur-les-mmes-bases-et-s"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-311-le-montant-de-cette-indemnit-est-fix-en-pourcentag",
+        "title": "Le montant de cette indemnité est fixé en pourcentage de l’indemnité de",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 311,
+        "path": [
+          "section-principale",
+          "fiche-311-le-montant-de-cette-indemnit-est-fix-en-pourcentag"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-312-article-62-cadeau-spcial-de-dpart-",
+        "title": "ARTICLE 62 : CADEAU SPÉCIAL DE DÉPART À",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 312,
+        "path": [
+          "section-principale",
+          "fiche-312-article-62-cadeau-spcial-de-dpart-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-313-la-retraite",
+        "title": "LA RETRAITE",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 313,
+        "path": [
+          "section-principale",
+          "fiche-313-la-retraite"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-314-un-cadeau-spcial-est-remis-lemploy-lors-de-son-dpa",
+        "title": "Un cadeau spécial est remis à l’employé lors de son départ définitif de",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 314,
+        "path": [
+          "section-principale",
+          "fiche-314-un-cadeau-spcial-est-remis-lemploy-lors-de-son-dpa"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-315-la-forme-et-la-valeur-de-ce-cadeau-sont-laisses-la",
+        "title": "La forme et la valeur de ce cadeau sont laissées à la discrétion de",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 315,
+        "path": [
+          "section-principale",
+          "fiche-315-la-forme-et-la-valeur-de-ce-cadeau-sont-laisses-la"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-316-article-63-promotion-spciale-de-dpart",
+        "title": "ARTICLE 63 : PROMOTION SPÉCIALE DE DÉPART",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 316,
+        "path": [
+          "section-principale",
+          "fiche-316-article-63-promotion-spciale-de-dpart"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-317-trente-six-36-mois-au-moins-avant-la-date-dadmissi",
+        "title": "Trente six (36) mois au moins avant la date d’admission à la retraite,",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 317,
+        "path": [
+          "section-principale",
+          "fiche-317-trente-six-36-mois-au-moins-avant-la-date-dadmissi"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-318-t-i-t-r-e-viii-des-dispositions",
+        "title": "T I T R E VIII : DES DISPOSITIONS",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 318,
+        "path": [
+          "section-principale",
+          "fiche-318-t-i-t-r-e-viii-des-dispositions"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-319-transitoires-et-diverses",
+        "title": "TRANSITOIRES ET DIVERSES",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 319,
+        "path": [
+          "section-principale",
+          "fiche-319-transitoires-et-diverses"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-320-heuressupplmentairesarticle-64-dispositions",
+        "title": "HEURES_SUPPLÉMENTAIRES\"\\>ARTICLE 64 : DISPOSITIONS",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 320,
+        "path": [
+          "section-principale",
+          "fiche-320-heuressupplmentairesarticle-64-dispositions"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-321-transitoires-pour-le-traitement-du-forfait",
+        "title": "TRANSITOIRES POUR LE TRAITEMENT DU FORFAIT",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 321,
+        "path": [
+          "section-principale",
+          "fiche-321-transitoires-pour-le-traitement-du-forfait"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-322-dheures-supplmentaires",
+        "title": "D’HEURES SUPPLÉMENTAIRES",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 322,
+        "path": [
+          "section-principale",
+          "fiche-322-dheures-supplmentaires"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-323-le-forfait-dheures-supplmentaires-tel-quil-existe-",
+        "title": "Le forfait d’heures supplémentaires tel qu’il existe avant la date de",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 323,
+        "path": [
+          "section-principale",
+          "fiche-323-le-forfait-dheures-supplmentaires-tel-quil-existe-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-324-les-anciens-forfaits-dheures-supplmentaires-sont-r",
+        "title": "Les anciens forfaits d’heures supplémentaires sont retraités dans le",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 324,
+        "path": [
+          "section-principale",
+          "fiche-324-les-anciens-forfaits-dheures-supplmentaires-sont-r"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-325-les-employs-pour-qui-laccomplissement-dheures-supp",
+        "title": "Les employés pour qui l’accomplissement d’heures supplémentaires s’avère",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 325,
+        "path": [
+          "section-principale",
+          "fiche-325-les-employs-pour-qui-laccomplissement-dheures-supp"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-326-le-total-cumul-du-salaire-brut-et-de-lex-forfait-d",
+        "title": "Le total cumulé du salaire brut et de l’ex forfait d’heures",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 326,
+        "path": [
+          "section-principale",
+          "fiche-326-le-total-cumul-du-salaire-brut-et-de-lex-forfait-d"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-327-dans-le-cas-de-lattribution-dune-prime-de-sujtion-",
+        "title": "Dans le cas de l’attribution d’une prime de sujétion ou de",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 327,
+        "path": [
+          "section-principale",
+          "fiche-327-dans-le-cas-de-lattribution-dune-prime-de-sujtion-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-328-article-65-dispositions-diverses",
+        "title": "ARTICLE 65 : DISPOSITIONS DIVERSES",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 328,
+        "path": [
+          "section-principale",
+          "fiche-328-article-65-dispositions-diverses"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-329-pour-tout-ce-qui-nest-pas-prvu-dans-la-prsente-con",
+        "title": "Pour tout ce qui n’est pas prévu dans la présente Convention Collective,",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 329,
+        "path": [
+          "section-principale",
+          "fiche-329-pour-tout-ce-qui-nest-pas-prvu-dans-la-prsente-con"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-330-article-66-annexes",
+        "title": "ARTICLE 66 : ANNEXES",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 330,
+        "path": [
+          "section-principale",
+          "fiche-330-article-66-annexes"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-331-le-tableau-de-classification-des-emplois-et-la-gri",
+        "title": "Le tableau de classification des emplois et la grille salariale sont",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 331,
+        "path": [
+          "section-principale",
+          "fiche-331-le-tableau-de-classification-des-emplois-et-la-gri"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-332-article-67-prise-deffet",
+        "title": "ARTICLE 67 : PRISE D’EFFET",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 332,
+        "path": [
+          "section-principale",
+          "fiche-332-article-67-prise-deffet"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-333-la-prsente-convention-collective-prend-effet-compt",
+        "title": "La présente Convention Collective prend effet à compter du",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 333,
+        "path": [
+          "section-principale",
+          "fiche-333-la-prsente-convention-collective-prend-effet-compt"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-334-ont-signe-",
+        "title": "Ont signée :",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 334,
+        "path": [
+          "section-principale",
+          "fiche-334-ont-signe-"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-335-pour-les-employeurspour-les-travailleurs",
+        "title": "Pour les employeursPour les travailleurs",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 335,
+        "path": [
+          "section-principale",
+          "fiche-335-pour-les-employeurspour-les-travailleurs"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-336-le-directeur-gnral-du-travail",
+        "title": "Le Directeur Général du Travail",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 336,
+        "path": [
+          "section-principale",
+          "fiche-336-le-directeur-gnral-du-travail"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-337-le-ministre-de-la-fonction-publique-du-travail",
+        "title": "Le Ministre de la Fonction Publique, du Travail",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 337,
+        "path": [
+          "section-principale",
+          "fiche-337-le-ministre-de-la-fonction-publique-du-travail"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-338-classificationprofessionnelleclassification-profes",
+        "title": "CLASSIFICATION_PROFESSIONNELLE\"\\>CLASSIFICATION PROFESSIONNELLE",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 338,
+        "path": [
+          "section-principale",
+          "fiche-338-classificationprofessionnelleclassification-profes"
+        ],
+        "children": []
+      },
+      {
+        "id": "fiche-339-grille-des-salaires",
+        "title": "GRILLE DES SALAIRES",
+        "type": "section-synthese",
+        "level": 2,
+        "order": 339,
+        "path": [
+          "section-principale",
+          "fiche-339-grille-des-salaires"
+        ],
+        "children": []
+      }
+    ],
+    "totalArticles": 339
+  },
+  "source": "nationale"
+}

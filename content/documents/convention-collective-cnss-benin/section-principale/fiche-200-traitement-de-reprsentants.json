@@ -1,0 +1,14 @@
+{
+  "id": "fiche-200-traitement-de-reprsentants",
+  "title": "TRAITEMENT DE REPRÉSENTANTS",
+  "numero": "section-200",
+  "document": "convention-collective-cnss-benin",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-199-article-34-",
+    "next": "fiche-201-le-secrtaire-gnral-et-le-1-secrtaire-gnral-adjoint"
+  }
+}

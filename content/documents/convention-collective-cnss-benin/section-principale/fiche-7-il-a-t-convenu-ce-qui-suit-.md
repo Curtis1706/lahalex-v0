@@ -1,0 +1,1 @@
+Il a été convenu ce qui suit :

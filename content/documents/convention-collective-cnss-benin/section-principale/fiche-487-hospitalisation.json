@@ -1,0 +1,14 @@
+{
+  "id": "fiche-487-hospitalisation",
+  "title": "HOSPITALISATION",
+  "numero": "section-487",
+  "document": "convention-collective-cnss-benin",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-486-soins-mdicaux-et",
+    "next": "fiche-488-en-cas-dhospitalisation-de-lagent-de-son-ou-ses-co"
+  }
+}

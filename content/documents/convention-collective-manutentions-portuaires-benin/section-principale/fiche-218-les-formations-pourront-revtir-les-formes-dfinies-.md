@@ -1,0 +1,1 @@
+Les formations pourront revêtir les formes définies ci-dessous :

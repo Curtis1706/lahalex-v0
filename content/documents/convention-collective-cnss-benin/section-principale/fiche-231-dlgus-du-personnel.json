@@ -1,0 +1,14 @@
+{
+  "id": "fiche-231-dlgus-du-personnel",
+  "title": "DÉLÉGUÉS DU PERSONNEL",
+  "numero": "section-231",
+  "document": "convention-collective-cnss-benin",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-230-conditions-de-travail-des",
+    "next": "fiche-232-les-attributions-de-dlgu-du-personnel-sont-celles-"
+  }
+}

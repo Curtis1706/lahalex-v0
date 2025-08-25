@@ -1,0 +1,14 @@
+{
+  "id": "fiche-459-ou-retrait",
+  "title": "OU RETRAITÉ",
+  "numero": "section-459",
+  "document": "convention-collective-cnss-benin",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-458-transport-de-50agent-licenci",
+    "next": "fiche-460-conformment-aux-dispositions-du-code-du-travail-la"
+  }
+}

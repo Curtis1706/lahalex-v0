@@ -1,0 +1,14 @@
+{
+  "id": "fiche-250-hospitalisation",
+  "title": "HOSPITALISATION",
+  "numero": "section-250",
+  "document": "convention-collective-manutentions-portuaires-benin",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-249-article-49-soins-mdicaux-et",
+    "next": "fiche-251-lemploy-et-sa-famille-bnficient-des-consultations-"
+  }
+}

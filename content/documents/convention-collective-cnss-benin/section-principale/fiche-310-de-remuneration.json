@@ -1,0 +1,14 @@
+{
+  "id": "fiche-310-de-remuneration",
+  "title": "DE REMUNERATION",
+  "numero": "section-310",
+  "document": "convention-collective-cnss-benin",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-309-titre-5-de-la-carriere-et-du-principe",
+    "next": "fiche-311-chapitre-1-la-classification-gnrale"
+  }
+}

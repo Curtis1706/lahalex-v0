@@ -1,0 +1,13 @@
+{
+  "id": "fiche-1-convention-collective-du-travail-applicable-aux",
+  "title": "CONVENTION COLLECTIVE DU TRAVAIL APPLICABLE AUX",
+  "numero": "section-1",
+  "document": "convention-collective-manutentions-portuaires-benin",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "next": "fiche-2-entreprises-du-secteur-des-manutentions"
+  }
+}

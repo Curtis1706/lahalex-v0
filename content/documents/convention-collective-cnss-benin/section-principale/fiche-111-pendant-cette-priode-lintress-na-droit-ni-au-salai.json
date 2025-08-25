@@ -1,0 +1,14 @@
+{
+  "id": "fiche-111-pendant-cette-priode-lintress-na-droit-ni-au-salai",
+  "title": "Pendant cette période, l’intéressé n’a droit ni au salaire ni aux",
+  "numero": "section-111",
+  "document": "convention-collective-cnss-benin",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-110-pendant-la-priode-de-lexercice-par-lagent-dun-mand",
+    "next": "fiche-112-a-lexpiration-du-mandat-il-est-repris-dans-son-emp"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fiche-154-licenciement-collectif",
+  "title": "LICENCIEMENT COLLECTIF",
+  "numero": "section-154",
+  "document": "convention-collective-cnss-benin",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-153-article-28-",
+    "next": "fiche-155-si-en-raison-dune-diminution-dactivit-ou-dune-orga"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fiche-212-pralablement-laffichage-le-texte-doit-tre-prsent-l",
+  "title": "Préalablement à l’affichage, le texte doit être présenté à l’employeur",
+  "numero": "section-212",
+  "document": "convention-collective-cnss-benin",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-211-les-communications-ne-peuvent-en-aucun-cas-prendre",
+    "next": "fiche-213-article-37-"
+  }
+}

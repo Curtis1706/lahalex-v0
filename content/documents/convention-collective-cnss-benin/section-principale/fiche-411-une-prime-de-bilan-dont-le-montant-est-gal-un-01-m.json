@@ -1,0 +1,14 @@
+{
+  "id": "fiche-411-une-prime-de-bilan-dont-le-montant-est-gal-un-01-m",
+  "title": "Une prime de bilan dont le montant est égal à un (01) mois de salaire",
+  "numero": "section-411",
+  "document": "convention-collective-cnss-benin",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-410-prime-de-bilan",
+    "next": "fiche-412-les-agents-ayant-accompli-moins-de-douze-12-mois-d"
+  }
+}

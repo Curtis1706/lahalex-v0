@@ -1,0 +1,14 @@
+{
+  "id": "fiche-400-indemnit-de-mission",
+  "title": "INDEMNITÉ DE MISSION",
+  "numero": "section-400",
+  "document": "convention-collective-cnss-benin",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-399-article-70-",
+    "next": "fiche-401-toute-mission-donne-droit-une-indemnit-calcule-au-"
+  }
+}

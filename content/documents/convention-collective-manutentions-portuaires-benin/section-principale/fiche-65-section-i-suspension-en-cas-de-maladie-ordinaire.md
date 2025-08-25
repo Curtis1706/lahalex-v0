@@ -1,0 +1,1 @@
+SECTION I : Suspension en cas de maladie ordinaire

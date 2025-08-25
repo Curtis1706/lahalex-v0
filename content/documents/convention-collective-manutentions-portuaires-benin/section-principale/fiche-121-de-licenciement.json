@@ -1,0 +1,14 @@
+{
+  "id": "fiche-121-de-licenciement",
+  "title": "DE LICENCIEMENT",
+  "numero": "section-121",
+  "document": "convention-collective-manutentions-portuaires-benin",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-120-indemnitdelicenciementarticle-25-indemnit",
+    "next": "fiche-122-en-cas-de-licenciement-lemploy-ayant-accompli-une-"
+  }
+}

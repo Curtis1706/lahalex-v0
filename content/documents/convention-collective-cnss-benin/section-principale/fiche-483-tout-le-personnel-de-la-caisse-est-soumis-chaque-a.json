@@ -1,0 +1,14 @@
+{
+  "id": "fiche-483-tout-le-personnel-de-la-caisse-est-soumis-chaque-a",
+  "title": "Tout le personnel de la Caisse est soumis chaque année à une visite",
+  "numero": "section-483",
+  "document": "convention-collective-cnss-benin",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-482-visite-mdicale-et-vaccination",
+    "next": "fiche-484-les-frais-de-la-visite-annuelle-sont-entirement-su"
+  }
+}

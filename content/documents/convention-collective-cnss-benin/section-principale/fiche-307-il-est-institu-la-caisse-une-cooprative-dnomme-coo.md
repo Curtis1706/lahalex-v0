@@ -1,0 +1,1 @@
+Il est institué à la Caisse une coopérative, dénommée Coopérative de

@@ -1,0 +1,14 @@
+{
+  "id": "fiche-326-dune-catgorie-une-autre",
+  "title": "D’UNE CATÉGORIE À UNE AUTRE",
+  "numero": "section-326",
+  "document": "convention-collective-cnss-benin",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-325-catgorieuneautre-article-58-progression",
+    "next": "fiche-327-le-principe-essentiel-pour-progresser-dune-catgori"
+  }
+}

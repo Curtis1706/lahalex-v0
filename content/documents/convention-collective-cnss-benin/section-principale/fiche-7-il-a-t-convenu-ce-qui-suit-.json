@@ -1,0 +1,14 @@
+{
+  "id": "fiche-7-il-a-t-convenu-ce-qui-suit-",
+  "title": "Il a été convenu ce qui suit :",
+  "numero": "section-7",
+  "document": "convention-collective-cnss-benin",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-6-scurit-sociale-synass-dautre-part",
+    "next": "fiche-8-titre-1-des-dispositions-generales"
+  }
+}
