@@ -1,1 +1,0 @@
-Section 2 : : Accessoires du salaire

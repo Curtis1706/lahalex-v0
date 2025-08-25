@@ -1,2 +1,0 @@
-Article 52 :
-ŒUVRES SOCIALES

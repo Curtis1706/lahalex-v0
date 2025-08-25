@@ -1,1 +1,0 @@
-Article 4 :ADHÉSIONS ULTÉRIEURES

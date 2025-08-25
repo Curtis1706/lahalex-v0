@@ -1,1 +1,0 @@
-Tout le personnel doit être obligatoirement immatriculé à la Caisse

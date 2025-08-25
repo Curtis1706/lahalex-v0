@@ -1,0 +1,14 @@
+{
+  "id": "article-3-",
+  "title": "Article 3 :DÉNONCIATION ET RÉVISION",
+  "numero": "3 ",
+  "document": "convention-collective-cnss-benin",
+  "path": [
+    "titre-1"
+  ],
+  "navigation": {
+    "parent": "titre-1",
+    "previous": "article-2-",
+    "next": "article-4-"
+  }
+}

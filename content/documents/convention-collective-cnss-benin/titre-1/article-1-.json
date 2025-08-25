@@ -1,0 +1,13 @@
+{
+  "id": "article-1-",
+  "title": "ARTICLE 1 : OBJET ET CHAMP D’APPLICATION",
+  "numero": "1 ",
+  "document": "convention-collective-cnss-benin",
+  "path": [
+    "titre-1"
+  ],
+  "navigation": {
+    "parent": "titre-1",
+    "next": "article-2-"
+  }
+}

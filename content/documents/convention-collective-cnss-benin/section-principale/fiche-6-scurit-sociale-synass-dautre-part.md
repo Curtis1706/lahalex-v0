@@ -1,1 +1,0 @@
-Sécurité Sociale (SYNASS) d’autre part,

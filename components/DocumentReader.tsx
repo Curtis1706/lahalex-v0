@@ -226,16 +226,26 @@ export function DocumentReader({
     window.location.href = `/?search=${encodeURIComponent(query)}`
   }
 
-  // Auto-expand sections contenant l'article actuel
+  // Auto-expand sections contenant l'article actuel et toutes les sections avec des articles
   useEffect(() => {
+    const newExpanded = new Set(expandedSections);
+    
+    // Étendre les sections contenant l'article actuel
     if (article?.metadata?.path) {
-      const newExpanded = new Set(expandedSections);
       article.metadata.path.forEach((parentId: string) => {
         newExpanded.add(parentId);
       });
-      setExpandedSections(newExpanded);
     }
-  }, [article?.metadata?.id]);
+    
+    // Étendre automatiquement toutes les sections de niveau 1 qui ont des articles
+    document.structure.sections.forEach((section: any) => {
+      if (section.level === 1 && section.children && section.children.length > 0) {
+        newExpanded.add(section.id);
+      }
+    });
+    
+    setExpandedSections(newExpanded);
+  }, [article?.metadata?.id, document.structure.sections]);
 
   // Scroll vers l'article actuel dans la sidebar (desktop + mobile)
   useEffect(() => {

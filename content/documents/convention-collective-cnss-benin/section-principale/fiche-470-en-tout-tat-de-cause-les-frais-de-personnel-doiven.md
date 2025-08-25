@@ -1,3 +1,0 @@
-En tout état de cause, les frais de personnel doivent être conformes aux
-ratios prudentiels de la Conférence Interafricaine de la Prévoyance
-Sociale (C. 1. PRE. S) à savoir : - frais de personnel sur total des charges inférieur à 15% ; - frais de personnel sur charges de fonctionnement inférieur à 85% ; - frais de personnel sur charges techniques inférieur à 25% ; - frais de personnel sur cotisations inférieur à 15%.

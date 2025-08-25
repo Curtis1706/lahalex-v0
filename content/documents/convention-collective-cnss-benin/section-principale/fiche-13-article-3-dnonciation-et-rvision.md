@@ -1,1 +1,0 @@
-Article 3 :DÉNONCIATION ET RÉVISION

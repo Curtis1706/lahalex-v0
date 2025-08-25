@@ -1,1 +1,0 @@
-DÉCÈS DU CONJOINT, DES

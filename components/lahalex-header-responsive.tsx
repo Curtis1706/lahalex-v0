@@ -211,6 +211,13 @@ export function LahalexHeaderResponsive({ searchValue = "", onSearchChange, onSe
                 >
                   Droit public
                 </Link>
+                <Link
+                  href="/dictionnaire"
+                  className="block py-2 px-3 text-gray-700 hover:bg-gray-100 rounded-md"
+                  onClick={() => setMobileMenuOpen(false)}
+                >
+                  Dictionnaire
+                </Link>
               </div>
             </nav>
           </div>

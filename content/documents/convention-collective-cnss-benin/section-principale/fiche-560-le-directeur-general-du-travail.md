@@ -1,1 +1,0 @@
-Le Directeur general du travail

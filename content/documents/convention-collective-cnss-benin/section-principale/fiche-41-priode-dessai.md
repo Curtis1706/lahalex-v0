@@ -1,1 +1,0 @@
-PÉRIODE D’ESSAI

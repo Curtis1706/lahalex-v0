@@ -1,0 +1,96 @@
+{
+  "A": [
+    {
+      "id": "a1",
+      "term": "Abandon",
+      "definition": "Très anc. comp.; issu de la locution a bandon, dans laisser, mettre a bandon: à la discrétion, à la merci. Bandon: anc. terme jurid. signifiant pouvoir, dér. du germ. banda: étendard, d'où signe d'autorité auquel se rattache aussi bande: troupe.",
+      "category": "droit-civil",
+      "source": "Code civil, article 227"
+    },
+    {
+      "id": "a2",
+      "term": "Abandonnataire",
+      "definition": "Subst. – De *abandon; dér., fait au XIXe siècle, d'après donataire. Celui au profit duquel est fait l'*abandonnement ou l'*abandon du navire.",
+      "category": "droit-commercial",
+      "source": "Code de commerce maritime"
+    },
+    {
+      "id": "a3",
+      "term": "Acte authentique",
+      "definition": "Document rédigé par un officier public (notaire, huissier, officier d'état civil) qui confère une force probante particulière et une exécutoire.",
+      "category": "droit-civil",
+      "source": "Code civil, article 1317"
+    },
+    {
+      "id": "a4",
+      "term": "Action en justice",
+      "definition": "Droit reconnu à une personne de s'adresser aux tribunaux pour faire valoir ses prétentions.",
+      "category": "droit-procedural",
+      "source": "Code de procédure civile"
+    }
+  ],
+  "B": [
+    {
+      "id": "b1",
+      "term": "Bail",
+      "definition": "Contrat par lequel une personne (le bailleur) met à la disposition d'une autre personne (le preneur) un bien immobilier ou mobilier pour une durée déterminée, moyennant un prix (loyer ou fermage).",
+      "category": "droit-civil",
+      "source": "Code civil, articles 1708 et suivants"
+    },
+    {
+      "id": "b2",
+      "term": "Bande organisée",
+      "definition": "Groupement formé ou association établie en vue de la préparation, caractérisée par une ou plusieurs tentatives d'escroquerie, d'extorsion, de chantage, d'organisation de jeux clandestins.",
+      "category": "droit-penal",
+      "source": "Code pénal, article 132-71"
+    },
+    {
+      "id": "b3",
+      "term": "Banqueroute",
+      "definition": "Délit commis par un commerçant qui, dans l'impossibilité de faire face à ses engagements, dissimule une partie de son actif ou reconnaît des dettes fictives.",
+      "category": "droit-commercial",
+      "source": "Code de commerce"
+    }
+  ],
+  "C": [
+    {
+      "id": "c1",
+      "term": "Contrat",
+      "definition": "Accord de volontés entre deux ou plusieurs personnes destiné à créer, modifier, transmettre ou éteindre des obligations.",
+      "category": "droit-civil",
+      "source": "Code civil, article 1101"
+    },
+    {
+      "id": "c2",
+      "term": "Contrat synallagmatique",
+      "definition": "Un contrat synallagmatique est un contrat qui crée des obligations réciproques entre les parties. Chacune d'elles s'engage envers l'autre, de sorte que l'obligation de l'une est la cause de l'obligation de l'autre.",
+      "category": "droit-civil",
+      "synonyms": ["Contrat bilatéral", "convention réciproque"],
+      "source": "Code civil, article 1106"
+    },
+    {
+      "id": "c3",
+      "term": "Code civil",
+      "definition": "Ensemble des règles juridiques qui régissent les rapports entre particuliers.",
+      "category": "droit-civil",
+      "source": "Code civil"
+    }
+  ],
+  "D": [
+    {
+      "id": "d1",
+      "term": "Décret",
+      "definition": "Acte réglementaire ou individuel pris par le Président de la République ou le Premier ministre dans l'exercice de leurs pouvoirs.",
+      "category": "droit-administratif",
+      "source": "Constitution de 1958"
+    },
+    {
+      "id": "d2",
+      "term": "Délit",
+      "definition": "Infraction pénale de gravité moyenne, punie d'une peine d'emprisonnement ou d'une amende.",
+      "category": "droit-penal",
+      "source": "Code pénal, article 111-1"
+    }
+  ]
+}
+
