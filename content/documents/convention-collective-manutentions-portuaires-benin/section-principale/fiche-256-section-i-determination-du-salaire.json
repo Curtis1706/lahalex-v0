@@ -1,0 +1,14 @@
+{
+  "id": "fiche-256-section-i-determination-du-salaire",
+  "title": "SECTION I : DETERMINATION DU SALAIRE",
+  "numero": "section-256",
+  "document": "convention-collective-manutentions-portuaires-benin",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-255-chapitre-ii-de-la-remuneration",
+    "next": "fiche-257-article-50-enonc-du-principe-de"
+  }
+}

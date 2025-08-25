@@ -1,0 +1,14 @@
+{
+  "id": "fiche-12-article-2-dure",
+  "title": "Article 2 :DURÉE",
+  "numero": "section-12",
+  "document": "convention-collective-cnss-benin",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-11-les-dispositions-de-la-prsente-convention-applicab",
+    "next": "fiche-13-article-3-dnonciation-et-rvision"
+  }
+}

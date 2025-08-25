@@ -1,0 +1,14 @@
+{
+  "id": "fiche-75-et-de-maladie-professionnelle",
+  "title": "ET DE MALADIE PROFESSIONNELLE",
+  "numero": "section-75",
+  "document": "convention-collective-manutentions-portuaires-benin",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-74-section-ii-suspension-en-cas-daccident-de-travail",
+    "next": "fiche-76-maladieprofessionnellearticle-16-accident-de"
+  }
+}

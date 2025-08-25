@@ -1,0 +1,14 @@
+{
+  "id": "fiche-298-bibliothque",
+  "title": "BIBLIOTHÈQUE",
+  "numero": "section-298",
+  "document": "convention-collective-cnss-benin",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-297-article-51-",
+    "next": "fiche-299-en-vue-daider-la-formation-professionnelle-du-pers"
+  }
+}

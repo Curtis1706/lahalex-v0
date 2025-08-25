@@ -1,0 +1,14 @@
+{
+  "id": "fiche-224-au-cas-o-une-bourse-extrieure-accorde-au-stagiaire",
+  "title": "Au cas où une bourse extérieure accordée au stagiaire serait",
+  "numero": "section-224",
+  "document": "convention-collective-manutentions-portuaires-benin",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-223-si-le-stage-est-effectu-dans-un-pays-tranger-et-qu",
+    "next": "fiche-225-si-le-stage-se-droule-au-bnin-mais-hors-du-lieu-de"
+  }
+}

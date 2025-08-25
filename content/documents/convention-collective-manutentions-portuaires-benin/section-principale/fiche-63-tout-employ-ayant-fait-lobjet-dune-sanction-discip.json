@@ -1,0 +1,14 @@
+{
+  "id": "fiche-63-tout-employ-ayant-fait-lobjet-dune-sanction-discip",
+  "title": "Tout employé ayant fait l’objet d’une sanction disciplinaire peut",
+  "numero": "section-63",
+  "document": "convention-collective-manutentions-portuaires-benin",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-62-disciplinaires",
+    "next": "fiche-64-chapitre-iii-de-la-suspension-du-contrat-de-travai"
+  }
+}

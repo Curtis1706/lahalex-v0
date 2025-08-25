@@ -1,0 +1,3 @@
+Des permissions d’absence, à l’occasion d’un événement touchant
+directement son propre foyer, sont accordées à l’agent sans retenue sur
+salaire dans les conditions suivantes : - mariage de l’agent - mariage d’un enfant - mariage d’un frère, d’une sœur - naissance au foyer de l’agent - baptême d’un enfant - décès d’un conjoint - décès du père ou de la mère - décès d’un enfant - décès du beau-père ou de la belle-mère en ligne directe de 1er degré - décès d’un frère ou d’une sœurtrois (3) jours - déménagement pour changement de domiciletrois (3) jours

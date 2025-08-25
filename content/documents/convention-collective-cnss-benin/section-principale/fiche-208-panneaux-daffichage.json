@@ -1,0 +1,14 @@
+{
+  "id": "fiche-208-panneaux-daffichage",
+  "title": "PANNEAUX D’AFFICHAGE",
+  "numero": "section-208",
+  "document": "convention-collective-cnss-benin",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-207-article-36-",
+    "next": "fiche-209-des-panneaux-en-nombre-suffisant-et-fermables-cl-s"
+  }
+}

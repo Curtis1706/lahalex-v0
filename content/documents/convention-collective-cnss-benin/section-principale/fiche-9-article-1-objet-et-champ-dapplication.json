@@ -1,0 +1,14 @@
+{
+  "id": "fiche-9-article-1-objet-et-champ-dapplication",
+  "title": "ARTICLE 1 : OBJET ET CHAMP D’APPLICATION",
+  "numero": "section-9",
+  "document": "convention-collective-cnss-benin",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-8-titre-1-des-dispositions-generales",
+    "next": "fiche-10-la-prsente-convention-rgle-les-rapports-de-travail"
+  }
+}

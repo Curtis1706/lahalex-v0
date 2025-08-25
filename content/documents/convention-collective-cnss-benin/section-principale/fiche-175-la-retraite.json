@@ -1,0 +1,14 @@
+{
+  "id": "fiche-175-la-retraite",
+  "title": "LA RETRAITE",
+  "numero": "section-175",
+  "document": "convention-collective-cnss-benin",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-174-beauxparents-de-50agent-en-activit-ou-",
+    "next": "fiche-176-en-cas-de-dcs-dun-conjoint-lgal-dun-descendant-ou-"
+  }
+}

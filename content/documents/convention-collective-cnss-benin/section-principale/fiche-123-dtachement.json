@@ -1,0 +1,14 @@
+{
+  "id": "fiche-123-dtachement",
+  "title": "DÉTACHEMENT",
+  "numero": "section-123",
+  "document": "convention-collective-cnss-benin",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-122-article-22-",
+    "next": "fiche-124-dans-ce-cas-le-nombre-dagents-mis-la-disposition-d"
+  }
+}

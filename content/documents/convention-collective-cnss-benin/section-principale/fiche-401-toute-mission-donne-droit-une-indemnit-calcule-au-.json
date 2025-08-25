@@ -1,0 +1,14 @@
+{
+  "id": "fiche-401-toute-mission-donne-droit-une-indemnit-calcule-au-",
+  "title": "Toute mission donne droit à une indemnité calculée au prorata du nombre",
+  "numero": "section-401",
+  "document": "convention-collective-cnss-benin",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-400-indemnit-de-mission",
+    "next": "fiche-402-le-nombre-de-jours-de-mission-tient-compte-des-jou"
+  }
+}

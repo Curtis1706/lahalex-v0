@@ -1,0 +1,14 @@
+{
+  "id": "fiche-147-de-licenciement",
+  "title": "DE LICENCIEMENT",
+  "numero": "section-147",
+  "document": "convention-collective-cnss-benin",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-146-indemnitdelicenciement-article-27-indemnit",
+    "next": "fiche-148-en-cas-de-licenciement-par-la-caisse-lagent-ayant-"
+  }
+}

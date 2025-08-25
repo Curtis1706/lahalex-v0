@@ -1,0 +1,14 @@
+{
+  "id": "fiche-204-organisations-syndicales",
+  "title": "ORGANISATIONS SYNDICALES",
+  "numero": "section-204",
+  "document": "convention-collective-cnss-benin",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-203-allocation-financire-aux",
+    "next": "fiche-205-il-est-accord-aux-organisations-syndicales-reprsen"
+  }
+}

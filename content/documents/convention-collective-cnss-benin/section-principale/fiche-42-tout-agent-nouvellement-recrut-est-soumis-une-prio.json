@@ -1,0 +1,14 @@
+{
+  "id": "fiche-42-tout-agent-nouvellement-recrut-est-soumis-une-prio",
+  "title": "Tout agent nouvellement recruté est soumis à une période d’essai d’un",
+  "numero": "section-42",
+  "document": "convention-collective-cnss-benin",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-41-priode-dessai",
+    "next": "fiche-43-au-cours-de-ladite-priode-les-intresss-sont-soumis"
+  }
+}

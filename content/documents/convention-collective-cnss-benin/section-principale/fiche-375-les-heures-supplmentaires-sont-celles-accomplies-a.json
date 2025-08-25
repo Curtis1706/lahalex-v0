@@ -1,0 +1,14 @@
+{
+  "id": "fiche-375-les-heures-supplmentaires-sont-celles-accomplies-a",
+  "title": "Les heures supplémentaires sont celles accomplies au-delà de la durée",
+  "numero": "section-375",
+  "document": "convention-collective-cnss-benin",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-374-heures-supplmentaires",
+    "next": "fiche-376-les-heures-supplmentaires-sont-dcomptes-par-semain"
+  }
+}

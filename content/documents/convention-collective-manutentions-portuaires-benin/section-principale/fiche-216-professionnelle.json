@@ -1,0 +1,14 @@
+{
+  "id": "fiche-216-professionnelle",
+  "title": "PROFESSIONNELLE",
+  "numero": "section-216",
+  "document": "convention-collective-manutentions-portuaires-benin",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-215-formationprofessionnellearticle-43-formation",
+    "next": "fiche-217-une-politique-dynamique-de-formation-professionnel"
+  }
+}

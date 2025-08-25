@@ -1,0 +1,14 @@
+{
+  "id": "fiche-192-supplmentaires",
+  "title": "SUPPLÉMENTAIRES",
+  "numero": "section-192",
+  "document": "convention-collective-manutentions-portuaires-benin",
+  "path": [
+    "section-principale"
+  ],
+  "navigation": {
+    "parent": "section-principale",
+    "previous": "fiche-191-congssupplmentairesarticle-39-congs",
+    "next": "fiche-193-il-est-accord-aux-employs-une-bonification-de-la-d"
+  }
+}

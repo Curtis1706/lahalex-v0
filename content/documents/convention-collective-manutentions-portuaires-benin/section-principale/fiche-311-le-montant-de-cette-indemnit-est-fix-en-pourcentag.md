@@ -1,0 +1,15 @@
+Le montant de cette indemnité est fixé en pourcentage de l’indemnité de
+licenciement et varie en fonction de l’âge de départ à la retraite et de
+la l’ancienneté dans l’entreprise, suivant le barème ci-après, sans que
+toutefois cette indemnité puisse être inférieure à trois mois de salaire
+de l’employé.
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
