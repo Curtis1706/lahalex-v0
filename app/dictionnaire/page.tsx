@@ -7,7 +7,7 @@ import { LahalexBreadcrumbResponsive } from "@/components/lahalex-breadcrumb-res
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Search } from "lucide-react"
-import { Footer } from "@/components/footer"
+
 import { DictionaryTerm } from "@/types/dictionary"
 
 export default function DictionaryPage() {
@@ -82,7 +82,7 @@ export default function DictionaryPage() {
   const breadcrumbItems = [
     { label: "Accueil", href: "/" },
     { label: "Autres outils", href: "/" },
-    { label: "Dictionnaire", isActive: true }
+    { label: "Dictionnaire juridique", isActive: true }
   ]
 
   // Générer l'alphabet
@@ -103,7 +103,7 @@ export default function DictionaryPage() {
           <p className="text-gray-600">Chargement du dictionnaire...</p>
         </div>
         
-        <Footer />
+
       </div>
     )
   }
@@ -227,7 +227,7 @@ export default function DictionaryPage() {
         </div>
       </div>
 
-      <Footer />
+      
     </div>
   )
 }

@@ -3,7 +3,7 @@ import Link from 'next/link'
 import { FileText, Calendar, Tag } from 'lucide-react'
 import { DocumentManager } from '@/lib/document-manager'
 import { LahalexHeaderResponsive } from '@/components/lahalex-header-responsive'
-import { Footer } from '@/components/footer'
+
 
 export const metadata: Metadata = {
   title: 'Documents juridiques - LAHALEX',
@@ -119,7 +119,7 @@ export default async function DocumentsPage() {
         )}
       </div>
 
-      <Footer />
+      
     </div>
   )
 }

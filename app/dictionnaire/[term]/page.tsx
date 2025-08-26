@@ -7,7 +7,7 @@ import { LahalexBreadcrumbResponsive } from "@/components/lahalex-breadcrumb-res
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Search } from "lucide-react"
-import { Footer } from "@/components/footer"
+
 import { DictionaryTerm } from "@/types/dictionary"
 
 export default function TermDefinitionPage() {
@@ -64,7 +64,7 @@ export default function TermDefinitionPage() {
   const breadcrumbItems = [
     { label: "Accueil", href: "/" },
     { label: "Autres outils", href: "/" },
-    { label: "Dictionnaire", href: "/dictionnaire" },
+    { label: "Dictionnaire juridique", href: "/dictionnaire" },
     { label: decodeURIComponent(term), isActive: true }
   ]
 
@@ -83,7 +83,6 @@ export default function TermDefinitionPage() {
           <p className="text-gray-600">Chargement du terme...</p>
         </div>
         
-        <Footer />
       </div>
     )
   }
@@ -110,7 +109,6 @@ export default function TermDefinitionPage() {
           </Button>
         </div>
         
-        <Footer />
       </div>
     )
   }
@@ -204,7 +202,6 @@ export default function TermDefinitionPage() {
         </div>
       </div>
 
-      <Footer />
     </div>
   )
 }

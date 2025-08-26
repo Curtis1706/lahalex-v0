@@ -4,7 +4,7 @@ import { DictionaryAdmin } from "@/components/dictionary-admin"
 import { DictionaryImportExport } from "@/components/dictionary-import-export"
 import { LahalexHeaderResponsive } from "@/components/lahalex-header-responsive"
 import { LahalexBreadcrumbResponsive } from "@/components/lahalex-breadcrumb-responsive"
-import { Footer } from "@/components/footer"
+
 import { useState } from "react"
 
 export default function AdminDictionnairePage() {
@@ -12,7 +12,7 @@ export default function AdminDictionnairePage() {
   const breadcrumbItems = [
     { label: "Accueil", href: "/" },
     { label: "Administration", href: "/admin" },
-    { label: "Dictionnaire", isActive: true }
+    { label: "Dictionnaire juridique", isActive: true }
   ]
 
   return (
@@ -61,7 +61,7 @@ export default function AdminDictionnairePage() {
         )}
       </div>
 
-      <Footer />
+
     </div>
   )
 }
