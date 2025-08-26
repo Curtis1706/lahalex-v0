@@ -183,7 +183,7 @@ export default function SourceRegionalPage() {
           </h2>
           <div className="space-y-1 lg:space-y-2">
             {/* Organisations régionales */}
-            {internationalCategories.filter(cat => ['ohada','cemac', 'ceeac', 'cedeao', 'uemoa'].includes(cat.key)).map((category) => {
+            {internationalCategories.filter(cat => ['union-africaine','ohada','cemac', 'ceeac', 'cedeao', 'uemoa'].includes(cat.key)).map((category) => {
               const IconComponent = category.icon
               const count = categoryCounts[category.key] || 0
               return (
