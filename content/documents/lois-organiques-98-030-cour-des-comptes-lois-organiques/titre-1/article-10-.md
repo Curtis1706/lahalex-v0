@@ -1,0 +1,2 @@
+La Cour constitutionnelle constate, le cas échéant, à la majorité de cinq (05) conseillers au moins, la démission d'office de celui de ses membres qui exerce une activité ou accepte une fonction ou un mandat électif incompatible avec la qualité de membre de la Cour ou qui a perdu la jouissance de ses droits civils et politiques.
+Il est pourvu à son remplacement pour le reste du mandat, par l'organe de désignation, dans un délai qui n'excède pas deux (02) mois dès la notification de la décision.

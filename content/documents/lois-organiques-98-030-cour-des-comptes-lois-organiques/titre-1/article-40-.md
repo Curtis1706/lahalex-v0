@@ -1,0 +1,1 @@
+L’appréciation de la conformité à la Constitution est faite sur le rapport d’un membre de la Cour dans les délais fixés par les articles 120, 121 et 122 de la Constitution. La décision est prise by la Cour siégeant en audience plénière.

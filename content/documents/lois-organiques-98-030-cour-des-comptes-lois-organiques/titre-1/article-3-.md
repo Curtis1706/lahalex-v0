@@ -1,0 +1,2 @@
+Le président de la Cour constitutionnelle est élu par ses pairs pour une durée de cinq (05) ans parmi les magistrats et les juristes membres de la Cour.
+L'élection a lieu au scrutin secret et à la majorité absolue des membres présents et votants.

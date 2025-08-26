@@ -1,0 +1,1 @@
+Toute partie intéressée peut saisir la Cour constitutionnelle d’une demande en rectification d’erreur matérielle d’une décision. Cette demande doit être introduite dans les mêmes formes que la requête introductive d’instance, dans un délai de trente (30) jours à compter de la notification de la décision dont la rectification est demandée.

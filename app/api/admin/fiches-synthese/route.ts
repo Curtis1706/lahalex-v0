@@ -24,13 +24,20 @@ async function ensureFichesDirectory() {
 
 // Générer un ID unique basé sur le titre
 function generateId(title: string): string {
-  return title
+  // Créer un slug de base à partir du titre
+  let baseId = title
     .toLowerCase()
     .replace(/[^a-z0-9\s-]/g, '')
     .replace(/\s+/g, '-')
     .replace(/-+/g, '-')
     .trim()
     .replace(/^-|-$/g, '')
+  
+  // Ajouter un timestamp pour garantir l'unicité
+  const timestamp = Date.now().toString(36)
+  baseId = `${baseId}-${timestamp}`
+  
+  return baseId
 }
 
 export async function GET(request: NextRequest) {

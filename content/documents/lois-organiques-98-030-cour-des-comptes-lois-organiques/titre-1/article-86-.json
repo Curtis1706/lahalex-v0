@@ -1,0 +1,14 @@
+{
+  "id": "article-86-",
+  "title": "Article 86 :",
+  "numero": "86 ",
+  "document": "lois-organiques",
+  "path": [
+    "titre-1"
+  ],
+  "navigation": {
+    "parent": "titre-1",
+    "previous": "article-85-",
+    "next": "article-87-"
+  }
+}

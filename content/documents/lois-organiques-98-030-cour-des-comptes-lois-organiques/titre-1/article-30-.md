@@ -1,0 +1,1 @@
+Les parties peuvent se faire assister d’un ou de plusieurs avocats de leur choix.

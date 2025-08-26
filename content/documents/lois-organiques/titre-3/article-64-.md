@@ -1,3 +1,0 @@
-Le Conseil supérieur des comptes se réunit sur convocation de son président ou, en cas d'empêchement de celui-ci, de son vice-président.
-L'ordre du jour des séances est annexé à la convocation.
-La réunion du Conseil supérieur des comptes est présidée par son président ou, en cas d'empêchement de celui-ci, par son vice-président, sauf en matière disciplinaire où il est suppléé par un membre désigné par le président de la Cour des comptes.

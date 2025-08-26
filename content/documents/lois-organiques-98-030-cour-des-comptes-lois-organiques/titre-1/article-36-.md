@@ -1,0 +1,1 @@
+En cas de conflit d'attributions entre les institutions de l'Etat, le président de la République, le président de l'Assemblée nationale ou l'un des présidents des institutions concernées, saisit la Cour constitutionnelle.

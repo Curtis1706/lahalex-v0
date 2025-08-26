@@ -1,0 +1,2 @@
+La Cour constitutionnelle se réunit sur convocation de son président ou, en cas d'empêchement de celui-ci, sur convocation du vice-président de la Cour ou par le plus âgé de ses membres.
+En cas d'empêchement, le président et le vice-président sont suppléés par le plus âgé des conseillers.

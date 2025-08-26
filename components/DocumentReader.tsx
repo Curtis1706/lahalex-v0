@@ -229,7 +229,7 @@ export function DocumentReader({
 
   // Auto-expand sections contenant l'article actuel et toutes les sections avec des articles
   useEffect(() => {
-    const newExpanded = new Set(expandedSections);
+      const newExpanded = new Set(expandedSections);
     
     // Étendre les sections contenant l'article actuel
     if (article?.metadata?.path) {
@@ -300,7 +300,7 @@ export function DocumentReader({
     setIsSearching(true);
     
     try {
-      const searchTerm = escapeRegex(documentSearch);
+    const searchTerm = escapeRegex(documentSearch);
       const regex = new RegExp(`(${searchTerm})`, "gi");
       
       // Déterminer le contenu à rechercher
@@ -347,21 +347,21 @@ export function DocumentReader({
         
         // Remplacer chaque correspondance par un élément span avec une classe spéciale
         newHighlightedHtml = contentToSearch.replace(regex, (match) => {
-          const id = `search-match-${matchCounter++}`;
+      const id = `search-match-${matchCounter++}`;
           return `<span id="${id}" class="search-highlight">${match}</span>`;
-        });
-        
+    });
+
         // Mettre à jour le DOM
         if (articleContentRef.current) {
           articleContentRef.current.innerHTML = newHighlightedHtml;
-          
+
           // Attendre que le DOM soit mis à jour
           setTimeout(() => {
-            const marks = Array.from(
+      const marks = Array.from(
               articleContentRef.current?.querySelectorAll("span.search-highlight") || []
-            ) as HTMLElement[];
+      ) as HTMLElement[];
             
-            setSearchMatches(marks);
+      setSearchMatches(marks);
             
             // Créer les correspondances unifiées pour l'article actuel
             const currentUnifiedMatches: UnifiedSearchMatch[] = marks.map((mark, index) => ({
@@ -396,10 +396,10 @@ export function DocumentReader({
               }
             }
           }, 100); // Augmenter le délai pour s'assurer que le DOM est mis à jour
-        }
-      } else {
-        setSearchMatches([]);
-        setCurrentMatchIndex(-1);
+      }
+    } else {
+      setSearchMatches([]);
+      setCurrentMatchIndex(-1);
         
         // Créer les correspondances unifiées seulement pour les autres articles
         const otherUnifiedMatches: UnifiedSearchMatch[] = allSearchResults.flatMap(result => 
@@ -521,7 +521,7 @@ export function DocumentReader({
   const handleDocumentSearchSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     if (documentSearch.trim()) {
-      performDocumentSearch();
+    performDocumentSearch();
     }
   };
 
@@ -669,27 +669,39 @@ export function DocumentReader({
       <div className="flex min-h-[calc(100vh-200px)]">
         {/* Sidebar Gauche - Masquée pour les fiches de méthode */}
         {document.type !== 'fiche-synthese' && document.type !== 'fiche-methode' && (
+        <div
+          className="hidden lg:block w-80 border-r border-gray-200 flex flex-col h-[calc(100vh-200px)] overflow-y-auto"
+          style={{ backgroundColor: "#F8F3F4" }}
+        >
           <div
-            className="hidden lg:block w-80 border-r border-gray-200 flex flex-col h-[calc(100vh-200px)] overflow-y-auto"
+            className="p-4 border-b border-gray-200 flex-shrink-0"
             style={{ backgroundColor: "#F8F3F4" }}
           >
-            <div
-              className="p-4 border-b border-gray-200 flex-shrink-0"
-              style={{ backgroundColor: "#F8F3F4" }}
-            >
-              <h2 className="text-lg font-bold text-gray-900">
-                {getDocumentTypeLabel(document.type)}
-              </h2>
-            </div>
-
-            <ScrollArea className="flex-1 h-full" ref={sidebarRef}>
-              <div className="p-2 space-y-1">
-                {document.structure.sections
-                  .filter((section: any) => section.level === 1)
-                  .map((section: any) => renderSection(section))}
-              </div>
-            </ScrollArea>
+            <h2 className="text-lg font-bold text-gray-900">
+              {getDocumentTypeLabel(document.type)}
+            </h2>
           </div>
+
+          <ScrollArea className="flex-1 h-full" ref={sidebarRef}>
+            <div className="p-2 space-y-1">
+              {document.structure.sections
+                .filter((section: any) => {
+                  // Afficher les sections de niveau 1 et 2, ou les titres et articles principaux
+                  const isLevel1Or2 = section.level === 1 || section.level === 2;
+                  const isTitreOrArticle = section.type === 'titre' || section.type === 'article';
+                  
+                  // Vérifier si cette section est un enfant d'une autre section
+                  const isChildOfAnotherSection = document.structure.sections.some((parentSection: any) => 
+                    parentSection.children && parentSection.children.includes(section.id)
+                  );
+                  
+                  // Afficher si c'est un niveau 1/2 OU un titre/article, MAIS pas si c'est un enfant
+                  return (isLevel1Or2 || isTitreOrArticle) && !isChildOfAnotherSection;
+                })
+                .map((section: any) => renderSection(section))}
+            </div>
+          </ScrollArea>
+        </div>
         )}
 
         {/* Contenu Principal - Milieu - Ajusté pour les fiches de méthode */}
@@ -711,14 +723,14 @@ export function DocumentReader({
                 )}
               </div>
             ) : (
-              <div className="mb-8">
-                <div className="text-sm text-gray-600 font-bold mb-6">
-                  {document.description}
-                </div>
-                <h1 className="text-2xl font-bold text-gray-900 mb-6">
-                  {article.metadata.title}
-                </h1>
+            <div className="mb-8">
+              <div className="text-sm text-gray-600 font-bold mb-6">
+                {document.description}
               </div>
+              <h1 className="text-2xl font-bold text-gray-900 mb-6">
+                {article.metadata.title}
+              </h1>
+            </div>
             )}
 
             <article
@@ -952,7 +964,19 @@ export function DocumentReader({
                   <ScrollArea className="flex-1" ref={sidebarMobileRef}>
                     <div className="p-2 space-y-1">
                       {document.structure.sections
-                        .filter((section: any) => section.level === 1)
+                        .filter((section: any) => {
+                          // Afficher les sections de niveau 1 et 2, ou les titres et articles principaux
+                          const isLevel1Or2 = section.level === 1 || section.level === 2;
+                          const isTitreOrArticle = section.type === 'titre' || section.type === 'article';
+                          
+                          // Vérifier si cette section est un enfant d'une autre section
+                          const isChildOfAnotherSection = document.structure.sections.some((parentSection: any) => 
+                            parentSection.children && parentSection.children.includes(section.id)
+                          );
+                          
+                          // Afficher si c'est un niveau 1/2 OU un titre/article, MAIS pas si c'est un enfant
+                          return (isLevel1Or2 || isTitreOrArticle) && !isChildOfAnotherSection;
+                        })
                         .map((section: any) => renderSection(section))}
                     </div>
                   </ScrollArea>
