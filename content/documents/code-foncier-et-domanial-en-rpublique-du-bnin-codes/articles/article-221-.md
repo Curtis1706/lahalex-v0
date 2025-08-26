@@ -1,0 +1,3 @@
+‐ Dans le délai de deux mois à compter des notifications visée s à l’article précédent, les propriétaires des immeubles faisant l’objet de l a procédure d’expropriationdoiventtransme ttreàl’autoritéadministrative compétentelesnomsdes locatairesainsiquelesnomsdetouslesdétenteursdedroits réelssurlesimmeublesen question.
+Adéfautdecommunicationdecesinformations,lepropriétaire estseulresponsabledu paiementdeséventuellesindemnit ésd’expropriationduesàces derniers.
+Sous peine de déchéance de leurs droits, tous les intéressés so nt tenus de se faire connaîtredansledélaici‐dessusfixé.

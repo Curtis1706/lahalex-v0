@@ -1,0 +1,2 @@
+‐ Les actions personnelles nées de l’application des présentes prescriptions entrelescopropriétairesouentreuncopropriétaireetlesynd icatseprescriventdans undélaidedeuxans.
+Les actions qui ont pour objet de contester les décisions des a ssemblées générales doivent, à peine de déchéance, être introduites par les copropr iétaires opposants ou défaillantsdansundélaidedeu xmoisàcompterdelanotifica tiondesditesdécisionsqui leurestfaiteàladiligencedusyndic.

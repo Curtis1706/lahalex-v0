@@ -1,0 +1,1 @@
+‐ l'Etat et les collectivités territoriales peuvent utiliser l ’Agence dans leurs actions par voie d’expropriation et dans leur exercice de droit s de préemption conformémentauxdispositionsduprésentCode.

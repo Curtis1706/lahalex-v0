@@ -1,0 +1,3 @@
+‐Ilestinstituépourchaquev illageunplanfoncierrural.
+Les autorités administratives locales sont chargées de promouvo ir l’adhésion des populationsàcetteinstitutiondontlefinancementetlamise enœuvreseferontsurune baseparticipative,notammentdes communautésàlabase,desco llectivitésterritoriales etdel’Etat.
+Leplanfoncierruralcommunalestl’assemblagedesplansfonci ersrurauxdesvillages relevantduressortterritorialdelamêmecommune.

@@ -1,0 +1,2 @@
+‐ Le refus de déférer aux sommations du régisseur est puni d’u n emprisonnementdequinzejoursàsixmoisetd’uneamendedece ntmille(100.000)à cinqcentmille(500.000)FCFAoudel’unedecesdeuxpeiness eulement,sanspréjudice desdommagesetintérêts.
+Le délit de refus de déférer est constitué au terme de deux som mations successives signifiéesaurequis,àpersonneouàdomicile.

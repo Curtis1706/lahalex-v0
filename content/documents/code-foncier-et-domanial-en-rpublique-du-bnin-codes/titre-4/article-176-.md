@@ -1,0 +1,1 @@
+‐ (Loi n°2017‐15) Les copies de titres fonciers et certificat d’inscription sont seulesrestituéesauxparties;lespiècesproduitesrestentdé poséesauxarchivesdela conservation, et le régisseur peut, à toute époque, en délivrer aux intéressés ou à l’administrationpubliquequienfaitlademande,descopiesce rtifiéesconformesfaisant foideleurcontenu.

@@ -1,0 +1,1 @@
+‐Lebailemphytéotiquenepeutêtreconsentivalablementque parlespersonnes quiontledroitdedisposeretd’aliéner,souslesmêmescondi tionsetdanslesmêmes formes.

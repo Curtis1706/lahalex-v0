@@ -1,0 +1,1 @@
+‐ Investie d’une mission de sécurisation et de coordination de la gestion foncièreetdomanialeauplannational,l’Agenceestaussichar géedelamiseenœuvre despolitiques,stratégiesetprogrammesdel’Etatenmatièref oncièreetdomaniale.

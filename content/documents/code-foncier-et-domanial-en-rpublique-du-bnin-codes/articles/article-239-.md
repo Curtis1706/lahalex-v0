@@ -1,0 +1,1 @@
+‐Lesmoyenstirésdesdisposit ionsdel’article235doiventê tresoulevésd’office par le juge dès lors que les faits portés à sa connaissance fon t apparaître que les conditionsrequisespourl’applicationdecesdispositionsset rouventréunies.

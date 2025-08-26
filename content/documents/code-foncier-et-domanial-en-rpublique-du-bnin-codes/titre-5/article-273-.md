@@ -1,0 +1,1 @@
+‐ Les biens immeubles du domaine public naturel et artificiel de l’Etat sont inaliénables,imprescriptiblesetinsaisissables.

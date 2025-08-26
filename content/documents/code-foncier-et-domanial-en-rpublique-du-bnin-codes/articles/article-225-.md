@@ -1,0 +1,2 @@
+‐ l'arrêté de cessibilité doit être pris dans un délai maximum de six mois à compterdelapublicationdel’actedéclaratifd’utilitépubliq ue.Adéfautdepublication dansledélaici‐dessus,l’admin istrationseraconsidéréecomme yavoirrenoncé.
+Uneampliationdel’arrêtédece ssibilitéetduplanyannexée sttransmiseaupréfetetau maireintéresséspouraffichageenleursbureaux.

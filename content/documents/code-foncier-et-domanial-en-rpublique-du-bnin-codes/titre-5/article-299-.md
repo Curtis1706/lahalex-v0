@@ -1,0 +1,5 @@
+‐Lesterresetbiensimmeubles dudomaineprivédel’Etatpeu ventêtre:
+· cédésàtitreonéreuxougratuit oulouésselonlesrèglesdedroitcommun;
+· affectésàunepersonnemoralededroitpublic;
+· attribuésenconcessionàdesper sonnesphysiquesoumoralesde droitprivé. Lesformesetlesconditionsdecession,delocation,d’affecta tionoudeconcessionsont
+déterminéespardécretprisenConseildesMinistres.

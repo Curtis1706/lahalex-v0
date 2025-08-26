@@ -1,0 +1,6 @@
+‐ Le régisseur de la propriété foncière après contrôle formel et acceptation, transmetdansundélaimaximumdequinzejoursouvrablesuneco piedelafichede demandedeconfirmationdedroitsfonciersauxstructuresetpe rsonnesci‐aprèspour notificationetaffichage:
+· auprésidentdutribunaldepremièreinstancedulieudesituationdel’immeuble;
+· aumairedelacommunedansleressortduquelsetrouvel’immeu blepouraffichage
+dansleslieuxd’usagevisiblesetfréquentésparlepublicet surl’immeubleobjetde confirmationdedroits;
+· àchacundestitulairesdedroit sréelsmentionnésenlaréquis ition;
+· àladirectionduJournalOffic ieloud’annonceslégalespouri nsertion.

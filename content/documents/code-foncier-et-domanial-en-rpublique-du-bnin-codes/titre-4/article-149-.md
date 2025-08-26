@@ -1,0 +1,3 @@
+‐ Les Bureaux communaux du domaine et du foncier sont dotés de registres fonciersdanslesquelslesdroitssujetsàinscriptionconformé mentauprésentCodesont enregistrés.
+Les registres fonciers contiennent les informations prescrites par le présent Code et toutesautresinformationsrelativesàlaconfirmationdesdroi tsfonciers.
+Chaquebureaugardelenombrederegistresnécessairespouryi nscrirelespropriétés relevantdesacompétence.

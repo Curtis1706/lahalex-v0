@@ -1,0 +1,2 @@
+‐Lesprocéduresrelativesauxlitigesfoncierspendantsdevan tlesformations juridictionnellesstatuantenmatièrecivilededroittradition nelsonttransféréesenl’état oùilssetrouventauxjuridictionsdedroitmoderneàl’except iondecellesquisonten étatd’êtrejugées.
+Lesrèglesapplicablesàcesprocéduressontcellesprévuespar laloin°2008‐07du28 février2011portantCodedeprocédurecivile,commerciale,soc iale,administrativeet des comptes sauf s’il s’agit de terres n’ayant fait encore l’ob jet de lotissement ou de recensementauregistrefoncierr uralouprisenchargeparun planfoncierrural.

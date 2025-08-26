@@ -1,0 +1,2 @@
+‐ Après règlement des litiges soulevés par les interventions a u moyen d’un jugementouarrêtdevenudéfinitif,ledossierdel’affaireest retournéaurégisseuravec uneexpéditiondeladécisionjudiciaireet,s’ilyalieu,d’u ncertificatdenonopposition niappel.
+Dès réception de ces pièces, le régisseur de la propriété fonci ère procède à la confirmation de droits fonciers, à l’enregistrement de l’immeub le sur les registres fonciersaprèsrectificationdub ornageetduplan,s’ilyali eu.

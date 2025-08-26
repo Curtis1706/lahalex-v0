@@ -1,0 +1,2 @@
+‐Leplancadastralestleseul documentofficielquiapourm issionderenseigner etderepérerlesparcellesentantqu’unitésdelapropriétéf oncièreenlesdélimitant graphiquement par rapport aux parcelles voisines, en renseignan t la présence éventuelle de bâtiments et en identifiant son propriétaire à l’ aide d’un identifiant dénomménumérouniqueparcellaire.
+Leplancadastralestsubdiviséenplusieursplansparcellaires dontlacommuneestla plusimportantecirconscriptionfoncière.

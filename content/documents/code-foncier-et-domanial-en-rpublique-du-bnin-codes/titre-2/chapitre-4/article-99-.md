@@ -1,0 +1,3 @@
+‐Unconseilsyndicalpeut,àtoutmoment,êtreinstituéenvu ed’assisterlesyndic etdecontrôlersagestion.
+Enl’absencededispositionparticulièredurèglementdecoprop riété,ilestdésignépar l’assembléegénéraleàlamajori tédesvoixdetouslescopropr iétaires.
+A défaut de désignation dans les conditions prévues à l’alinéa précédent, le conseil syndicalpeutêtredésignéparleprésidentdutribunalsurreq uêted’unouplusieurs copropriétaires.

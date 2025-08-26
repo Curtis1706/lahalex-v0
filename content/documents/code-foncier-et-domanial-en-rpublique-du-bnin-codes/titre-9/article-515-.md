@@ -1,0 +1,1 @@
+‐ (Loi n°2017‐15) Est passible d’une peine de deux ans à cinq ans et d’une amendedecinqcentmille(500.000)FCFAàtroismillions(3.00 0.000)FCFAoudel’une de ces peines seulement, toute personne qui, par contrainte, me nace ou toute autre pressionauraobligéunfonctionnairedel’administrationdudo maineàluidélivrerun titrefoncierouàagirenviolat iondesdispositionsdelapré senteloi.

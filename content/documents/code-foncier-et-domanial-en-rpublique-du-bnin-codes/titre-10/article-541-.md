@@ -1,0 +1,1 @@
+‐ Les modalités d’organisation et de fonctionnement du fonds d e dédommagementfonciersontfixéespardécretprisenConseilde sMinistres.

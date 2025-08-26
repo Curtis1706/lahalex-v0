@@ -1,0 +1,1 @@
+‐ (Loi n°2017‐15) La composition, l’organisation, les attributions et le fonctionnementdelacommissiondegestionfoncièredelacommu neetdessections villageoisesdegestionfoncièresontfixéspardécretprisen ConseildesMinistres.

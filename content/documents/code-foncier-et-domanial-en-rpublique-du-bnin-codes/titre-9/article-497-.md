@@ -1,0 +1,1 @@
+‐Toutepersonnequiprocèdeàladestructiontotaleoupartiell edeslivres,des registresfonciersouàleuraltérationphysiqueestpunied’un epeined’emprisonnement de cinq ans à dix ans et d’une amende d’un million (1.000.000) à cinq millions (5.000.000) FCFA ou de l’une de ces deux peines seulement, sans préjudice des dommagesetintérêts.

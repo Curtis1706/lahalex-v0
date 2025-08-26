@@ -1,0 +1,2 @@
+‐ Tous actes d’acquisition ou d ’aliénation des parties commune s ou de constitutiondesdroitsréelsi mmobiliersauprofitouàlacha rgedecesdernièresàla conditionqu’ilsaientétédécidésconformémentauxdisposition sdesarticles80,100et 101duprésentCode,sontvalabl ementpassésparlesyndicat.
+Le syndicat peut acquérir lui‐même des parties privatives sans que celles‐ci perdent pour autant leur caractère privatif. Il peut les aliéner dans l es conditions prévues à l’alinéaprécédent.Ilnedisposepasdevoix,enassembléegén éraleautitredesparties privativesacquisesparlui.

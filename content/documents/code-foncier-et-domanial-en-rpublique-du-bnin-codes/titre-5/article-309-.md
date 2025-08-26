@@ -1,0 +1,1 @@
+‐Laconcessionestaccordéeàtitreprovisoire.Ellenepeut devenirdéfinitive qu’aprèsleconstatdelamiseenvaleurparunecommissionad hoc,selondesmodalités fixéespardécretprisenConseildesMinistres.

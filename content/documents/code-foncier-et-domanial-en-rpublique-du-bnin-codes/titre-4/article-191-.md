@@ -1,0 +1,2 @@
+‐l'Agencenationaledudomaineetdufoncieretsesbureauxc ommunauxdu domaine et du foncier sont tenus de fournir toutes les données à toute institution étatiquequienferaitlademande.
+Dans le cas des droits fonciers constatés et enregistrés au pla n foncier rural, le demandeurproduitunepièced’identitéouunextraitd’actede naissanceetunefichede demandedeconfirmationdedro itsfoncierssurl’immeuble.

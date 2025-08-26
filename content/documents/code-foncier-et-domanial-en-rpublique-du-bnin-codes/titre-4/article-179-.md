@@ -1,0 +1,1 @@
+‐ Les frais de toutes inscriptions sont acquittés par le requé rant, sauf dispositionslégalesouconventionscontraires.

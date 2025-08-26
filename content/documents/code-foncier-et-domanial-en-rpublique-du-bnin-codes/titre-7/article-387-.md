@@ -1,0 +1,1 @@
+‐ Lorsque les parties en conflit optent pour le règlement amia ble, elles choisissentdecommunaccord,l’instancelocaleoulapersonne chargéedurèglement amiabledudifférend.

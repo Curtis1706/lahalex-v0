@@ -1,0 +1,1 @@
+‐Lecadastreetleregistrefoncierconstituentensembleles archivespubliques dufoncierquirenseignentsurlespropriétairesfonciers,les droitsfonciersetautres caractéristiquesdesparcelles.

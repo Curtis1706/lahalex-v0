@@ -1,0 +1,1 @@
+‐Lesélusmunicipauxoucommunauxetleséluslocauxouleurs représentants dontlechefd’arrondissement,lechefdevillageoudequartie rdevillesontmembresde droitdesinstanceslocalesdegestionfoncière.

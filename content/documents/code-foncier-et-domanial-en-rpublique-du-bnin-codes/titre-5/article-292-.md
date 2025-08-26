@@ -1,0 +1,1 @@
+‐Lesbaux,lesaccordsamiables etconventionsquelconquesay antpourobjetla prise en location ainsi que les acquisitions d’immeubles ou de droits immobiliers conclusparlacommunelesontd anslesformesprescritesparl esloisetrèglements.

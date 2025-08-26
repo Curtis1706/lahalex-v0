@@ -1,0 +1,4 @@
+‐Toutepersonnephysiqueoumoraledenationalitébéninoisep eutacquérirun immeubleoudesterresen RépubliqueduBénin.
+Lesnonnationauxpeuventacquérirunimmeubleenmilieuurbain enRépubliquedu Béninsousréserved’accordsderéciprocitéoudetraitésouac cordsinternationaux.
+Les baux commerciaux, industriel s ou d’habitation peuvent être conclus par les non nationauxinstallésenRépubliqueduBénin.
+Les représentations diplomatique s et consulaires et les organis mes internationaux installés ou intervenant en Répu blique du Bénin peuvent égaleme nt y acquérir un immeublesousréserved’accords deréciprocitéoudetraitésou accordsinternationaux.

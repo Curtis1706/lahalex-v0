@@ -1,0 +1,1 @@
+‐Lagestiondudomaineprivéruraldelacommunerelèvedela compétencedu maire qui prend l’avis de la commission de gestion foncière ter ritorialement compétente.

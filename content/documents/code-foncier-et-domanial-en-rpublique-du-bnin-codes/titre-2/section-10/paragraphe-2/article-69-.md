@@ -1,0 +1,2 @@
+‐Lebailàconstructionsousréservededispositionsspéciale s,confèreaupreneur un droit réel immobilier susceptible d’hypothèque de même que l es constructions édifiéessurleterrainloué;ilpeutêtresaisidanslesform esprescritespourlasaisie immobilière.
+Ilestcessibleetpeutêtreappo rtéensociété,entoutouen partie.

@@ -1,0 +1,1 @@
+‐Lesautoritésdescollectivités territorialesprennentpararr êtélesdispositions réglementairesnécessairesàl’exploitationetàlagestiondes ressourcesnaturellesde leur ressort territorial, conformément à la Constitution, aux l ois et règlements en vigueur.

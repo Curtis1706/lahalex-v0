@@ -1,0 +1,1 @@
+‐Legreffierdelachambrenotifie,parsimplelettre,dansu ndélaidecinqjours, copiedeladécisionauxparties.Ilenadressedanslemêmedé laicopiepouraffichageau maire,auchefdelabrigadedu lieudesituationdel’immeuble ainsiqu’aurégisseurdela propriétéfoncière.

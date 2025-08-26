@@ -1,0 +1,1 @@
+‐Lapropriétépeutsetransmettrepardonationconformémenta uxdispositions duCodecivil,duCodedespersonnesetdelafamilleetd’autr estextesenvigueur.

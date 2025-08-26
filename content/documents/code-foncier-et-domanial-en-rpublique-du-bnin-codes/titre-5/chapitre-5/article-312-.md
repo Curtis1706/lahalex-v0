@@ -1,0 +1,3 @@
+‐ La cession des biens immeubles privés des collectivités terr itoriales est constatée par arrêté du maire délivré au bénéficiaire sur délib ération du conseil municipaloucommunal.
+Lacompositiondudossierdedema ndedecessionestpréciséepa rdécretprisenConseil desMinistres.
+l'arrêté de cession est obligatoirement publié au niveau du Bur eau communal du domaine et du foncier après établissement d’un titre de proprié té ou Certificat de propriétéfoncièredontlacopie estdélivréeaucessionnaire.

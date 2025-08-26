@@ -1,0 +1,10 @@
+‐Lebornageesteffectuéàtermeéchududélaidesoixantejo ursassignépourla révélationdesdroitsdetiers.
+Ladatefixéepourcetteopérationdoitêtreportéeàlaconnai ssancedupublicquinze joursaumoinsàl’avance,aumoyen:
+· d’unavistransmisauxfinsd’affichageaumairedelacommune oùsetrouvesitué
+l’immeuble;
+· d’uneinvitationadresséeauxautoritéslocales;
+· d’uneinvitationadressée,parl’intermédiairedel’administrat ion,auchefdevillage
+oudequartierdevilledansleressortduquelsetrouvel’imme uble,d’avoir,d’une part,àl’annoncerparlavoixd ucrieurpublicet,d’autrepar t,àassisteraubornage;
+· d’uneconvocationpersonnelletransmiseparlavoieadministrat iveaurequérant,au
+propriétairenonrequérantetàchacundespropriétaireslimitr ophesnommésenla réquisitionàl’effetdes’ytrouverégalementprésentsoudes ’yfairereprésenterpar unmandatairerégulier.
+Les pièces justificatives de l’a ccomplissement de ces diverses formalités restent annexéesaudossierdelaprocédure.

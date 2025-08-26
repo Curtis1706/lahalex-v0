@@ -1,0 +1,2 @@
+‐l'Agencenationaledudomaine etdufoncier,crééeàl’artic le416duprésent Code,peutdonnerunaccèsenligne,ouunaccèsenlectureaux basesdedonnéesdes registresfonciersàdesutilisateursprivéssurlabasedesco nditionsetàdesfraisqu’elle déterminera.
+En tout état de cause, aucun desdits utilisateurs ne sera autor isé à modifier quelque donnéequecesoitdansleregistre.

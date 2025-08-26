@@ -1,0 +1,1 @@
+‐Leprivilègeestundroitquelaqualitédelacréancedonne àuncréancierd’être préféréauxautrescréanciersmêmehypothécaires.

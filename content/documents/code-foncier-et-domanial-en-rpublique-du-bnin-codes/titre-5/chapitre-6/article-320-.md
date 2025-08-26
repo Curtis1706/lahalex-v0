@@ -1,0 +1,1 @@
+‐Lesterrainsreboisésouportantdesboisementsnaturels,re connuspropriétés des personnes physiques, des organisations communautaires ou de s coopératives, relèvent du domaine forestier privé de ces personnes physiques, organisations communautairesetcoopératives.

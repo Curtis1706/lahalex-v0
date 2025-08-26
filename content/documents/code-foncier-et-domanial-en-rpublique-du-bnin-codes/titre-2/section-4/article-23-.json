@@ -1,0 +1,15 @@
+{
+  "id": "article-23-",
+  "title": "Article 23 :",
+  "numero": "23 ",
+  "document": "code-foncier-domanial-benin",
+  "path": [
+    "titre-2",
+    "section-4"
+  ],
+  "navigation": {
+    "parent": "section-4",
+    "previous": "article-22-",
+    "next": "article-24-"
+  }
+}

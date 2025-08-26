@@ -1,0 +1,3 @@
+‐l'arrêtédecessibilitéouunautrearrêtéultérieurpublié auJournalOfficiel peut frapper, en outre, soit en totalité, soit en partie, la po rtion restante de ces immeubles, ainsi que les immeuble s avoisinant, lorsque l’exprop riation en est jugée nécessairedansl’intérêtdel’hygièneoudel’esthétiqueoupo urmieuxatteindrelebut d’utilitépubliqueenvisagée.
+Ilfixelenouveaudélaiquinepeutdépasserunandujourde soninsertionauJournal Officielàladiligencedel’expropriantetpendantlequelles propriétésdésignéesrestent souslecoupdel’expropriation,etsontassujettiesauxservit udesimposées.
+Ildésigneégalementlespropriétésconcernées.

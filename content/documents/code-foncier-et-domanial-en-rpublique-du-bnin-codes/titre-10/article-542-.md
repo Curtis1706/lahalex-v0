@@ -1,0 +1,1 @@
+‐ l'administration dispose d’un délai maximum de six mois à co mpter de la promulgationdelaprésenteloi pourl’adoptiondesdécretsd’a pplication.

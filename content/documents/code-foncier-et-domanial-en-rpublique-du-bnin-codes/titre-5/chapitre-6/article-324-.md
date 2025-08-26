@@ -1,0 +1,2 @@
+‐ Les propriétaires de forêts privées ou de terrains portant d es boisements naturelsoudesreboisementsautresqueceuxdel’Etatetdesc ollectivitésterritorialesy exercenttouslesdroitsrésultantdeleurqualitédepropriéta ire,danslestrictrespect desnormesdesécuritétechnique setécologiquesfixéesparles textesenvigueur.
+Le cas échéant, les administrations compétentes prennent des me sures appropriées conformémentauxtextesenvigue urpoursupprimerouatténuerl esrisques.

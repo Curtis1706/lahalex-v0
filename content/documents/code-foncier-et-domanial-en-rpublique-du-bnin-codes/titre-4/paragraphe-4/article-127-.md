@@ -1,0 +1,2 @@
+‐Aucuneoppositionoudemande d’inscriptionn’estrecevablea prèsl’expiration dudélaidesoixantejoursàpartirdelapublicationsousrése rvedesdispositionsde l’article120duprésentCode.
+Toutefois, les personnes intéressées et qui auront été régulièr ement convoquées à l’opérationdubornagecontradictoireconserverontledroitde formeroppositionàla confirmationdedroitsfonciers jusqu’àlaclôturedesopératio nsdebornage.

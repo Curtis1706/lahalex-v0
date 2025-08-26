@@ -1,0 +1,1 @@
+‐ Lorsqu’il est nécessaire de procéder d’urgence à la réalisat ion d’un projet dûmentdéclaréd’intérêtgénéraldanstousdomaines,notamment enmatièremilitaire, d’assainissement urbain, d’hygiène ou de salubrité publique, l’ expropriation s’opère suivantlesdispositionsexceptionnellesdéfiniesci‐aprèspar lesprésentesdispositions etleurstextesd’application.

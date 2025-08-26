@@ -1,0 +1,10 @@
+‐Constitueundéfautdemiseenvaleur,l’absencedetoutent retienoudetoute production d’une terre rurale durant une période continue de ci nq ans décomptés à partirdeladateduconstatde l’absenced’entretienoudepro duction.
+l'insuffisance de mise en valeur résulte d’un mauvais état d’en tretien ou d’abandon d’uneinstallationindustriellesurlesterresconcernéespenda ntlemêmedélaifixéà l’alinéaprécédent.
+l'insuffisancedemiseenvaleur estassimilableaudéfautdem iseenvaleuroudemise enculture.
+Sontréputéesnonmisesenvaleur:
+· lesconcessionsdevenuesdéfinitives,lorsquelesconditionsim poséesparlecahier
+deschargesannexéàl’arrêtéd’octroinesontpasremplies;
+· les parcelles isolées demeurées en friches pendant cinq années consécutives sans
+introductiondeplantesfertilisantesoudetoutautremoyende fertilisation;
+· lesparcellesmisesenjachère pendantplusdecinqans.
+Sontréputéesenmauvaisétatdeproduction,lesentreprisesag ricolesoulesparcelles isoléesportantdesculturespérennesdontlesrendementssont largementinférieursà ceuxhabituellementobtenusdanslalocalité.

@@ -1,0 +1,2 @@
+‐Lesinformationssontcollectéesetenregistréesdanslecad astreauniveaudes Bureaux déconcentrés de l’autorité en charge de la tutelle du c adastre qui ont été officiellementdésignéspourco llecterlesinformationsàenreg istrerdanslecadastre.
+Suivant un programme à définir par l’organe en charge du cadast re, les données enregistréesdanslesbasesdedonnéeslocalesseronttransmise sauBureauprincipalde l’organe en charge du cadastre, où les données seront enregistr ées dans la base nationalededonnéesducadastre.

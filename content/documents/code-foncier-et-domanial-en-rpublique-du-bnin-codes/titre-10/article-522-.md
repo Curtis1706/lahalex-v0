@@ -1,0 +1,2 @@
+9.‐ (Loi n°2017‐15) Aucunplanfoncierruralnepeut êtreréalisédanslazonede sécuritéfrontalière.
+Les certificats fonciers ruraux délivrés avant l’entrée en vigu eur de la présente loi devrontfairel’objetdemutatio naunomdelacollectivitéter ritorialedulieudesituation del’immeubleaprèsdédommagement destitulairesconsécutifàl ’expropriation.

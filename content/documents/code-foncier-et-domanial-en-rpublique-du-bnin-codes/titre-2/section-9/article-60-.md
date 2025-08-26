@@ -1,0 +1,1 @@
+‐Lesprivilègesgénérauxs’appliquentàtouslesbiensdudéb iteur,meubleset immeubles.

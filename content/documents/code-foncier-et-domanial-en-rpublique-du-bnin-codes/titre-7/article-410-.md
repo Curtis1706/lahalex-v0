@@ -1,0 +1,1 @@
+‐ Les procès‐verbaux, avis ou r apports établis à l’occasion ou à la suite de l’exécution d’une mesure d’instruction sont remis par le juge à l’audience en copie à chacune des parties pour ses observations. Mention de cette rem ise est faite sur les feuillesdenotesd’audience.

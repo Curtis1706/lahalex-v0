@@ -1,0 +1,1 @@
+‐ Toute vente d’un immeuble du domaine privé de l’Etat ou des collectivités territoriales sans l’actualisatio n du référentiel des prix est passible de la réclusion criminelledecinqansàdixans.

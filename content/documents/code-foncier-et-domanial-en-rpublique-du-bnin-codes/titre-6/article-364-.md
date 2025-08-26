@@ -1,0 +1,1 @@
+‐Lacessiondirecteducontratdelocationparlelocatairee tlasous‐location sontinterdites,saufaccordpré alableécritdupropriétaireou dudétenteurduterrain. Section 3 : De la mise en valeur et de la gestion des terres rurales

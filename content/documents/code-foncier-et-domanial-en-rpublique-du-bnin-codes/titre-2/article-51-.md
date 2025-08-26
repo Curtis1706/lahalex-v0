@@ -1,0 +1,1 @@
+‐Ledroitd’habitationestledroitàl’usaged’unemaisonre connuàunepersonne déterminée, dans la mesure de ses besoins et de ceux de sa fami lle. Il s’établit par convention.

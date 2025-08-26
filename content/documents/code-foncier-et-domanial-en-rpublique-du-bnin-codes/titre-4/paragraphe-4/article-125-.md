@@ -1,0 +1,7 @@
+‐ (Loi n°2017‐15) Pendantledélaidesoixantejoursprévupourl’affichagedela demandeenl’auditoiredutribunal,toutespersonnesintéressée speuventinterveniren laprocédurepar:
+· opposition,encasdecontestationsurl’existenceoul’étendue dudroitdepropriété
+durequérantousurles limitesdel’immeuble;
+· demande d’inscription, en cas de prétentions élevées à l’exerci ce d’un droit réel
+susceptibledefigurerautitrefoncieràétablir.
+Cesoppositionsoudemandesd’inscriptionsontfaitesparécrit adresséesaurégisseur delapropriétéfoncièrequilestranscritdansleregistredes oppositionsoud’inscription desdroits.
+Lesdéclarationsetleslettress ouscritesauxeffetsci‐dessus doiventcontenirl’indication desnoms,prénoms,domicilesdesintervenants,uneélectionde domicileenRépublique duBénin,s’ilyalieu,lescausesdel’interventionetl’énon cédesactes,titresoupièces surlesquelsellessontappuyées.

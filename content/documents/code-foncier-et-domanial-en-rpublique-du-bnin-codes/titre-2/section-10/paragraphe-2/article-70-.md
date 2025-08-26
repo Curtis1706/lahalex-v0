@@ -1,0 +1,1 @@
+‐ Le preneur peut consentir des servitudes passives indispensa bles à l’achèvementdesconstructions.

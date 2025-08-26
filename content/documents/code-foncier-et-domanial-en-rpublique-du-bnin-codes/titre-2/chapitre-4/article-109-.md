@@ -1,0 +1,1 @@
+‐Lasurélévationoulaconstructiondebâtimentsauxfinsde créerdenouveaux locauxàusageprivatifnepeutêtreréaliséeparlessoinsdu syndicatquesiladécision estpriseàl’unanimitédesesmembres.

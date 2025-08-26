@@ -1,0 +1,1 @@
+‐Lecopermutantquiestévincédelachosequ’ilareçueené change,alechoixde demanderàlajuridictioncompétentelarestitutiondelachose ouleremboursementde sacontre‐valeur,sanspréjudice desdommagesetintérêtsévent uels.

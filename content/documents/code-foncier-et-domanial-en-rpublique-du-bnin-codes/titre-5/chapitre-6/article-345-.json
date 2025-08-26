@@ -1,0 +1,15 @@
+{
+  "id": "article-345-",
+  "title": "Article 345 :",
+  "numero": "345 ",
+  "document": "code-foncier-domanial-benin",
+  "path": [
+    "titre-5",
+    "chapitre-6"
+  ],
+  "navigation": {
+    "parent": "chapitre-6",
+    "previous": "article-344-",
+    "next": "article-346-"
+  }
+}

@@ -1,0 +1,1 @@
+‐Lafaunesauvagevivantsurlesterresprivéesainsiquecel levivantsurles terres domaniales bénéficient de la même protection prévue par la législation en vigueur,notammentcellerelativ eàlachasseetlaconservatio ndelafaune.

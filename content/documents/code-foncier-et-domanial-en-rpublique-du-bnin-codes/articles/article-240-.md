@@ -1,0 +1,2 @@
+‐ (Loi n°2017‐15) l'expertisedoitêtreordonnéesielleestdemandéeparl’une desparties.
+Elledoitêtreconduiteparunexpertagréé,désignéparletri bunal.Entoutétatdecause, celui‐ci doit rendre son rapport dans un délai fixé par le juge , faute de quoi, le juge apprécieetprendaubesoindesmesurescoercitivesenimpartis santunnouveaudélai ouenfixantdesastreintess’ilyalieu.

@@ -1,0 +1,1 @@
+‐Leprixdubailpeutconsisterenlaremiseaubailleur,àd esdatesetconditions convenues,detoutoupartied’i mmeublesetdefractionsd’imme ubles.

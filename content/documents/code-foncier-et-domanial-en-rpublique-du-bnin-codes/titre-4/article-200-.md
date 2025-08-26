@@ -1,0 +1,2 @@
+‐ (Loi n°2017‐15) Les modalités d’application des dispositions relatives à la confirmation de droits fonciers des terres enregistrées au plan foncier rural sont préciséesparlestextesd’a pplicationduprésentCode.
+Toutefois,àl’issuedel’établissementdesdocumentsfinauxdu planfoncierrural,ilest délivréuntitrefoncieràchaqu etitulaireenregistréaulisti ngdesayantsdroit.

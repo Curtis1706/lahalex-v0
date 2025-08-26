@@ -1,0 +1,2 @@
+‐Lamiseenétatdelaprocédureparunjugeautrequecelui saisidufondde l’affaireestinterdite.
+Sans préjudice de poursuites pénales pour déni de justice, les renvois faits ou les délibérésprorogéssurlefondementd’unmotifpurementfantais iste,sontsusceptibles depoursuitesdisciplinaires.

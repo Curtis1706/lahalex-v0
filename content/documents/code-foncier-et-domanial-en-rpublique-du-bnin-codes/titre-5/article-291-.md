@@ -1,0 +1,1 @@
+‐ Le conseil communal délibère sur la gestion des biens et opé rations immobilièresàeffectuerparlacommune.

@@ -1,0 +1,2 @@
+‐ Les personnes dont les droits ont été lésés par une inscript ion peuvent demanderaurégisseurderectifierladiteinscriptions’ils’av èrequ’ilyauneerreurdans l’inscription,àconditionquec etterectificationnepréjudici epasauxtiersdebonnefoi.
+l'héritier d’un défunt dispose d’un délai de six mois à compter de l’ouverture de la succession du défunt pour exprimer son opposition à des inscrip tions faites par des héritiersapparentsdudéfunt.

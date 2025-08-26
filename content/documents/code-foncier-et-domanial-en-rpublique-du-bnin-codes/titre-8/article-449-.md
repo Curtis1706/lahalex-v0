@@ -1,0 +1,3 @@
+‐ (Loi n°2017‐15) Lorsque des omissions ou des erreurs matérielles ont été commisesdanslarédactiondutitrefoncieroudesinscriptions ,lespartiesintéressées peuventendemanderlarectification.
+Lerégisseurpeutégalementeffectuerd’officeetsoussarespo nsabilité,larectification desirrégularitésprovenantdesonchef.
+Dans tous les cas, les premières inscriptions doivent être lais sées intactes et les correctionssontinscritesàladatecourante.

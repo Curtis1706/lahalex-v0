@@ -1,0 +1,2 @@
+‐l'arrêtédecessibilitéestnotifiésansdélaiparl’autorit éadministrativeaux propriétairesintéressés,occupantsetusagersnotoires.
+Ilappartientauxpropriétairesdontlesdroitsneseraientpas désignésexactementpar l’arrêté de cessibilité de se faire connaître à l’autorité comp étente ayant initié les opérationsenapportantpartout moyenlajustificationdeleur sdroits.

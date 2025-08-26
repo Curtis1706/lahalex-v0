@@ -1,0 +1,1 @@
+‐ l'action en indemnité des propriétaires ou autre ayant droit pour toute occupation temporaire de terrains autorisée dans les formes pré vues par le présent Code est prescrite dans un délai de deux ans à compter du momen t où cesse l’occupation.

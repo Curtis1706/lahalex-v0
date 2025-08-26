@@ -1,0 +1,1 @@
+‐ l'expulsion forcée affecte ou implique d’importants groupes de population, l’Etatal’obligationdeconsulterlespersonnesconcernées,d’ étudieretdeprendreles mesuresalternativespossiblesa uxfinsd’éviteroudeminimise rlerecoursàlaforce.

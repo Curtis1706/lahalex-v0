@@ -1,0 +1,1 @@
+‐Lerèglementdecopropriétéet lesmodificationsquipeuvent luiêtreapportées nesontopposablesauxayantscauseàtitreparticulierdescop ropriétairesqu’àdaterde leurpublicationauxlivresfonciers.

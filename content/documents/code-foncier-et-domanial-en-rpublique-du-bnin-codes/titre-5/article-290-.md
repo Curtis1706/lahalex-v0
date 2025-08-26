@@ -1,0 +1,2 @@
+‐l'affectation,lechangementd’affectationetladésaffectat ionsontprononcés pardécretprissurproposition duMinistrechargédufonciere tdesdomaines.
+l'acted’affectationoudechangementd’affectationprécisele serviceoul’établissement public à l’usage duquel l’immeuble est destiné à l’utilisation qui sera faite de cet immeuble. l'immeuble désaffecté est remis à l’Agence en charge du domaine et du foncier.

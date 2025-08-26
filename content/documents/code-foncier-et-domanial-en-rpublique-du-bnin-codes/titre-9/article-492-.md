@@ -1,0 +1,2 @@
+‐Ledélitdestellionatestpunid’unemprisonnementdecinq àansàdixanset d’uneamendedecinqmillions(5.000.000)àdixmillions(10.00 0.000)FCFAoudel’une decesdeuxpeinesseulement,sanspréjudicedesdommagesetin térêts.
+Lesofficiersministérielsayantparticipéàlarédactiondesa ctesentachésdestellionat sontpoursuiviscommecomplices.

@@ -1,0 +1,2 @@
+‐ Dans tous les cas, l’immeuble préempté ou exproprié en appli cation des articles précédents devra faire l’objet d’une location‐vente, p rioritairement en faveur despartiesperdantes.
+Les modalités de mise en œuvre des dispositions du présent arti cle sont fixées par décretprisenConseildesMinistres.

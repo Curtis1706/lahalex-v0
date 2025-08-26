@@ -1,0 +1,2 @@
+‐Lecréanciernepeutfairevendrelesimmeublesappartenant àsondébiteur qu’en respectant les formalités prescrites par les dispositions de l’acte uniforme de l’Organisationpourl’harmonisationenAfriquedudroitdesaff aires(OHADA)portant organisationdesprocéduressimplifiéesderecouvrementetdes voiesd’exécutionetdu présentCode.
+Touteconventioncontraireestnulle.

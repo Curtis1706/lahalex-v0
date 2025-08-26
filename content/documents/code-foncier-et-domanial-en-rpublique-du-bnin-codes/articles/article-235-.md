@@ -1,0 +1,4 @@
+‐ Nonobstant les dispositions de l’article précédent, les tran sactions, modifications ou améliorations de toute nature, telles que cons tructions, plantations, installationsdiverses,acquisit ionsdemarchandises,quiaurai entétéfaitesàl’immeuble,
+à l’industrie ou au fonds de commerce, même antérieurement à l’ ordonnance d’expropriation,nedonnentlieuàaucuneindemnitési,enrais ondel’époqueàlaquelle ces transactions, modifications ou améliorations ont eu lieu, o u de toutes autres circonstances,ilapparaitqu’ellesontétéfaitesdanslebut d’obteniruneindemnitéplus élevée.
+Sontprésuméesfaitesdanscebut,saufpreuvecontraire,lest ransactions,modifications ouaméliorationspostérieuresà ladéclarationd’utilitépubliq ueprévueàl’article237du présentCode.
+Encasd’expropriationsurvenantaucoursdel’occupationd’un immeubleréquisitionné, iln’estpasnonplustenucomptedesmodificationsapportéesauxbiensparl’Etat.

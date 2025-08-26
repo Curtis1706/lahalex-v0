@@ -1,0 +1,1 @@
+‐Lebailàconstructionnepeu têtreconsentivalablementque parlespersonnes quiontledroitdedisposeretd’aliéner,souslesmêmescondi tionsetdanslesmêmes formes.

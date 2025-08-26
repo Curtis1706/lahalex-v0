@@ -1,0 +1,1 @@
+‐Lesrèglesgénéralesrelative sàlaconclusiondescontrats restentapplicablesen matièredevente.

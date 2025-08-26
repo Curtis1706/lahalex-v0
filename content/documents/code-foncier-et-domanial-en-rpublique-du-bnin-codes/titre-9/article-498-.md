@@ -1,0 +1,2 @@
+‐Toutepersonnequienlèveouquiprovoquel’enlèvementoule déplacement d’uneoudeplusieursbornesposéesparl’autoritécompétentee tfixantleslimitesdes propriétés d’autrui, est passible d’un emprisonnement de six mo is à un an et d’une amendedesixcentmille(600.000)àunmillion(1.000.000)FCF Asanspréjudicedes dommagesetintérêts.
+Lorsquel’enlèvementouledépla cementdelaborneoudesborne sréglementairesfixées demanièrecontradictoireparunagentassermentéaétéfaitav eclacomplicitéd’un géomètre,celui‐ciestpunides peinesprévuesàl’alinéaprécé dent.

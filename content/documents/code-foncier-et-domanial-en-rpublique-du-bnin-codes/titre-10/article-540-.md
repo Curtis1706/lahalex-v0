@@ -1,0 +1,1 @@
+‐l'assiette,letauxetlesmodalitésderecouvrementdesimp ositions,etautres recettesduFondssontfixésparlaloidefinances.

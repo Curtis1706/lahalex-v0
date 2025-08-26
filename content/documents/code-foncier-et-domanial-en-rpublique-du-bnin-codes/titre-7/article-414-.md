@@ -1,0 +1,3 @@
+‐ Le jugement rendu comporte, s ous peine de nullité, outre les mentions classiques,l’identitédeslimit rophesainsiquetoutesautres précisionspermettantde faciliterl’identification(numé roparcellaire)del’immeublel itigieux.
+Il fait défense à la partie perdante d’avoir à troubler la part ie gagnante dans la jouissance paisible de son droit de propriété. Il avise les par ties du délai dont elles disposentpourexercerlesrecou rsindiquésàl’articleprécéde nt.
+Lapartieperdanteestcondamnéeauxentiersdépens.

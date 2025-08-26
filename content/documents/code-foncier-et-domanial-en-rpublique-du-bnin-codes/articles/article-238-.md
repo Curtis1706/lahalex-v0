@@ -1,0 +1,1 @@
+‐ (Loi n°2017‐15) Lejugecompétentsaisi,enprocédured’urgence,aprèsavoir vérifiélarégularitédelaprocédurefixe,dansundélaidetr entejoursaprèsledépôtdu dossier,l’indemnitéd’expropriationconformémentauxdispositi onsduprésentCodeet ordonnelaprisedepossessiondel’expropriant.

@@ -1,0 +1,6 @@
+‐Ilestpréparéparleresponsableenchargeducadastre,un lapremièreimmatriculationd’un immeublesituédansunecircon
+Toutplancadastraldoitmentionnerlenomducadastreetdela oùsontsituéslesparcelles,ainsiquelenomdelacommuneou leterritoireduquelilssontcompris.
+plancadastralpour scriptionfoncière.
+circonscriptionfoncière delamunicipalitédans
+Code foncier et domanial
+Bénin!

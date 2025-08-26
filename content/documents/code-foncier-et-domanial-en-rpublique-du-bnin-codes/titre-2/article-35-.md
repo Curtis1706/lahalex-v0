@@ -1,0 +1,1 @@
+‐l'occupantdontledroitaétéconfortéparunedécisiond’i rrecevabilitédevenue définitiveparsuited’uneactioninitiéecontreluipeutsolli citerlaconfirmationdeses droitsfoncierssurl’immeubleconcerné.

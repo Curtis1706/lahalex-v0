@@ -1,0 +1,1 @@
+‐Lebailàplantationestceluiparlequellepreneurs’engag e,àtitreprincipalà procéderàdesplantationsd’arbressurleterraindubailleur etàentretenirleterrainet lesarbrespendanttouteladuréedubail.

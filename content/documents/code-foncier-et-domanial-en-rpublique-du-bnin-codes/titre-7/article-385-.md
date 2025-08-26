@@ -1,0 +1,1 @@
+‐l'Etat et les collectivités territoriales prennent toutes mesu resappropriées pour assurer l’implication des au torités coutumières et traditi onnelles, de la société civileetdespersonnesressource sdanslapréventiondesconfl itsfonciersruraux.

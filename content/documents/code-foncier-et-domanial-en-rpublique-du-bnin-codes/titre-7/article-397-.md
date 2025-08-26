@@ -1,0 +1,1 @@
+‐ Les dispositions du Code de p rocédures civile, commerciale, sociale, administrativeetdescomptes,encequ’ellesnesontpascontr airesauxdispositionsdes articlesci‐dessous,sontapplicab lesauxcontentieuxrelatifs àlaprotectiondesdroits réelsimmobiliers.

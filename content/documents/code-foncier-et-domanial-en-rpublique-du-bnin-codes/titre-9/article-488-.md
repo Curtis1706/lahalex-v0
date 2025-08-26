@@ -1,0 +1,1 @@
+‐ La recherche, la constatation et la répression des infractio ns prévues au présentCodeetdesestextesd’applicationetlesrèglesdepr océduresobéissentaux dispositionsduCodepénaletdu Codedeprocédurepénaleexcep tionfaitedessanctions particulièresprévuesdansleprésentCode.

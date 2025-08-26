@@ -1,0 +1,4 @@
+‐l'identitédespartiesestgarantiepar:
+· l’interventiondel’officiermin istériel,rédacteur,pourlesa ctespublics;
+· laformuledelégalisationàinscrireàlasuitedesditsactes enexécutiondel’article
+161duprésentCode,pourlesactessousseingprivé.

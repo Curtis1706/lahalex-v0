@@ -1,0 +1,1 @@
+‐ Lorsque l’expropriation urgente nécessite le déménagement im médiat des populations,l’autoritéexpropri anteesttenuedeleurfournir hébergementet/ouune provisionsurl’indemnitéd’éviction.

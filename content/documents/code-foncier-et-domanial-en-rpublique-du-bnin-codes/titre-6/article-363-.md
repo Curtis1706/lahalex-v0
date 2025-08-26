@@ -1,0 +1,9 @@
+‐Lesterresruralesencoresousl’emprisedelacoutumepeuve ntfairel’objetde droitsd’usagedéléguéscourammentadmisparlacoutumeetles usages.
+Code foncier et domanial 76
+Bénin!
+Toutefois,ladélégationdoitêtreconstatéeparunécritrédig précisel’accorddespartiessur lesconditionsd’octroietde déléguéstelsquedéfinisàl’ article4duprésentCode.
+Danstouslescas,laconsultationdelasectionvillageoisede dansleslocalitésoùilenexistedéjà,àpeinedenullitéde d’usage
+édevanttémoins.Cetécrit jouissancedesdroitsd’usage
+gestionfoncièreestrequise l’actedetransfertdedroit
+Code foncier et domanial
+Bénin!

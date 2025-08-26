@@ -1,0 +1,1 @@
+‐l'autoritéenchargedelatutelleducadastreélabore,actu aliseetvulgarise avec l’appui de l’institut géographique national et autres stru ctures compétentes, les normestechniquesetjuridiquesrelativesaucadastre.

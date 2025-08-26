@@ -1,0 +1,3 @@
+‐Dèslapublicationdel’acte déclaratifd’utilitépubliquee tjusqu’àcequesoit intervenu l’arrêté de cessibilité , aucune construction ne peut être élevée, aucune plantationpérenneouaméliorationnepeutêtrefaitesurlest errainssituésdanslazone fixée par ledit acte, sans l’autorisation du maire de la commun e expropriante ou du Ministredontdépendleservicedesdomaines.
+La durée des servitudes qui décou lent du décret ou de l’arrêté déclaratif d’utilité publique peut être, par arrêté d e l’autorité compétente, prorog ée pour une période nouvelled’unan,lorsqu’iln’estpasintervenud’actedecessi bilitédansundélaiprimitif d’unan.
+Si le décret ou l’arrêté déclaratif d’utilité publique porte dé signation immédiate des propriétésàexproprier,laduréedesservitudesnepeutdépass erunan.

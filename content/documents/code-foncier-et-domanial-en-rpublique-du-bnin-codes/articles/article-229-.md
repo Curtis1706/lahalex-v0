@@ -1,0 +1,1 @@
+‐ Les convocations se font par un avis donné au maire lorsqu’i l s’agit des travauxcommunauxd’avoiràinformerleshabitantsparvoied’a ffiche,parvoiederadio localeetparvoiedecrieurpublicoudetoutautremoyendep ublicitéjugéopportun,de ladatedepassagedelacommissionprévueàl’articleprécéden t.

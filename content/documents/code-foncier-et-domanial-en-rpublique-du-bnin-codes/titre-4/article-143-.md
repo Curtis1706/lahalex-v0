@@ -1,0 +1,2 @@
+‐ Laprocéduredeconfirmationcollectivededroitsfoncierse stengagée,par une demande adressée au régisseur de la propriété foncière du l ieu de situation des immeubles.
+La personne moralededroitprivéàl’exceptiondescollectivit ésfamiliales,peutêtre organiséeenassociationd’intérê tfoncier,aunomdelaquelle lesprésuméspropriétaires de parcelles situées dans un périmètre donné décident de mettre en commun leurs immeublesauxfinsdelaconfirm ationdeleursdroitsfonciers.

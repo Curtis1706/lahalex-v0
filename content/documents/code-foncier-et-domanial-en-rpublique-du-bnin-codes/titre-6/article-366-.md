@@ -1,0 +1,2 @@
+‐ l'autorité administrative, pour faciliter la réalisation des programmes de développement ou d’intérêt général, peut nonobstant le droit de propriété des collectivitésfamilialesetdespersonnesphysiquesoumorales dedroitprivé,interdire certainesactivitésconstituantdesnuisancesauxditsprogramme souàl’environnement, conformémentàlalégislationenvigueur.
+Toutefois, l’autorité administrative doit au préalable envisage r la mise en œuvre des mesuressusceptiblesd’enrayero udelimiterlesrisquesdenui sancesoudedommagesà l’environnement.

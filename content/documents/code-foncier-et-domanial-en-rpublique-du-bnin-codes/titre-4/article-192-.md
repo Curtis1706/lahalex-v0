@@ -1,0 +1,1 @@
+‐Laconfirmationdesdroitsfoncierssefaitprincipalemente nmilieururalà partirduplanfoncierrural.

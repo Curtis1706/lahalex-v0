@@ -1,0 +1,1 @@
+‐ l'emphytéote est tenu de toutes les contributions et charges des biens immeubles,notammentlesc ontributionsfoncières.

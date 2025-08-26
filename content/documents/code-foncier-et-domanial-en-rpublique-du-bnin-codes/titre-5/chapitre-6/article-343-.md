@@ -1,0 +1,2 @@
+‐ Sont considérés comme mines, les gîtes de toutes substances minérales ou fossilesquinesontpasclassésdanslescarrièresetquines ontpasdeshydrocarbures liquidesougazeux.
+Cessubstancessontditessubstancesdemine.

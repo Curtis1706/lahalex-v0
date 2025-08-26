@@ -1,0 +1,3 @@
+‐ l'ordonnance d’expropriation envoie l’expropriant en possess ion, sous réservedupaiementoudelac onsignationdel’indemnité.
+Cettedécisionéteintparelle‐mêmeetàsadatetousdroitsré elsoupersonnelsexistants sur les immeubles expropriés à l ’exception de ceux contenus dan s l’ordonnance d’expropriation.
+Ilenestdemêmedescessionsamiablesconsentiesaprèsdéclar ationd’utilitépublique etlorsqu’unedécisiondejustic edonneactedescessionsamiab lesantérieures.

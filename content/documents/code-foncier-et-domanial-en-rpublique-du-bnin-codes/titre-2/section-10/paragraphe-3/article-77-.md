@@ -1,0 +1,1 @@
+‐ Les règles qui régissent le droit du bail à construction éno ncées ci‐dessus s’appliquentaubailàplantationdanslamesureoùellesneso ntpasincompatiblesavec lanaturedecebail.

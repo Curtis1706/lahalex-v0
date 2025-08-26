@@ -1,0 +1,1 @@
+‐Touteexploitationouinstalla tionrelativeàl’utilisation desressourceseneau dansunbutd’intérêtgénéralgrèvelesfondsdeterreinterméd iairesd’uneservitudede passage,notammentpourleslignes électriques,lescheminsde fers,lescheminsd’accès, lesconduitessouterraines,les canauxd’amenéed’eauauxusine s,lescanauxd’irrigation etdedrainage.

@@ -1,0 +1,1 @@
+‐ Les pièces établies spécialement en vue de la demande d’insc ription, à l’exclusion des minutes et brevets d’actes publics et des origi naux d’exploits, sont dispenséesdetimbreetdet outimpôtdemêmenature. Lamêmeexemptions’appliqueauxpiècesquiseraientspécialeme ntétabliespourêtre produitesàl’appuid’unedemandedeconfirmationdedroitsfon ciers.

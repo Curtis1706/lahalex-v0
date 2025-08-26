@@ -1,0 +1,2 @@
+‐Touteslespropriétésprivéesurbainesetruralessontenou tresusceptibles d’être assujetties aux servitudes d’hygiène, d’esthétique, d’al ignement, de sécurité publique, et aux servitudes qui peuvent être imposées par les s chémas et plans d’aménagementetd’extension.
+LeGouvernementstatuedanslesmêmesformesetsaufrecoursà lacoursuprêmesur lescontestationsrela tivesàl’étenduedesservitudesrésultan tdesplansd’aménagement etd’extension.

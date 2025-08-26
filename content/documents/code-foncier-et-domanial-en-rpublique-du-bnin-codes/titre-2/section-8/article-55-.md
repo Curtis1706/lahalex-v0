@@ -1,0 +1,1 @@
+‐l'hypothèqueestunesûretéréelleimmobilièreconventionnel leouforcée.Elle estconstituéeauprofitd’uncréancierengarantiedel’exécut iond’uneobligation.Elle confèreàsontitulaireundroit desuiteetundroitdepréfér ence.

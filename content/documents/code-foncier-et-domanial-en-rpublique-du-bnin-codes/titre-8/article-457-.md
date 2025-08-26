@@ -1,0 +1,3 @@
+‐Ilestattribuéàchaqueparcelleunidentifiantuniqueappe lénumérounique parcellaireenabrégéN.U.P.
+Le numéro unique parcellaire, base de l’enregistrement des droi ts dans le registre foncier, est obtenu au terme de la procédure de confirmation ca dastrale de droits fonciers.
+En tant qu’infrastructure de base du registre foncier, le cadas tre doit avoir comme principalecléd’accès,lenu mérouniqueparcellaire.

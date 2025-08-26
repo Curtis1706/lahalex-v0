@@ -1,0 +1,1 @@
+‐ Toute occupation illégale ou mi se en valeur d’un immeuble sa ns l’accord préalabledupropriétaireoudutitulairedudroitfoncierpar unepersonnephysiqueou moraleestpunied’uneamendeallantdecinqcentmille(500.00 0)FCFAàtroismillions (3.000.000)FCFA.

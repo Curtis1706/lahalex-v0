@@ -1,0 +1,8 @@
+‐ (Loi n°2017‐15) Tous faits, conventions ou sentence à soumettre pour l’inscription conformément au présent Code doivent contenir, ou tre les éléments essentielsdescontrats,lesmentionssuivantes:
+· nom,prénoms,professionetdo micilepourlesindividus;
+· dénominationouraisonsociale,natureetsiègedel’institutio npourlessociétéset
+autresinstitutionsjouissantdelapersonnalitécivile;
+· capacitédescontractantsetqualitéenlaquelleilsagissent, appuyéededéclarations
+précisesencequiconcernel’étatcivil;
+· numérodutitrefoncierdel’imme ublequel’inscriptiondoitaf fecter.
+Silesactessontpasséssousseingprivé,lessignaturesdoive ntêtrelégaliséesdansla formehabituelleet,enoutre,sil’unedespartiesestdenati onalitébéninoise,elledoit déposerdespiècesd’identitéa ppropriéesaurégisseurdelapr opriétéfoncière.

@@ -1,0 +1,2 @@
+‐Leparcoursetlepacagedubétaildoivents’effectuerdema nièreàrespecter lesressourcesvégétalesetàévi terlesempiétementsagricoles .
+Lesagriculteurssonttenusderespecterlesitinérairesdepar coursetlesairesdepacage établis.

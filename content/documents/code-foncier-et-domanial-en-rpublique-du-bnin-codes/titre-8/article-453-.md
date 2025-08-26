@@ -1,0 +1,4 @@
+‐Lecadastreassuretroisfon ctionsessentielles:technique, fiscaleetjuridique.
+Lafonctiontechniqueducadastreestassuréeparl’identificat iondelapropriétéetles attributs techniques notamment, la surface, les coordonnées et les constructions existantes.
+La fonction fiscale du cadastre est réalisée par l’identificati on des attributs qui sont utiliséspouruneévaluationdelapropriététellequelacatég oried’usage,ladestination, lanature,lescaractéristiques physiquesetl’établissementco rrectdel’assiettefiscale.
+Lafonctionjuridiqueducadastr eestassuréeparl’identificat iondupropriétaireetparla confirmationdedroitsfonciersauregistrefoncier.

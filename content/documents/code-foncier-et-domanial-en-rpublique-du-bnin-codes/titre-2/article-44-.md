@@ -1,0 +1,1 @@
+‐l'usufruitestundroitréelprincipal,démembrementdudroi tdepropriété,qui confèreàsontitulaireledroitd’utiliserunbienimmobilier, etd’enpercevoirlesfruits, maisnonceluid’endisposer,lequelappartientaunupropriéta ire.Ilpeutrésulteraussi biend’uncontratquedelaloi.

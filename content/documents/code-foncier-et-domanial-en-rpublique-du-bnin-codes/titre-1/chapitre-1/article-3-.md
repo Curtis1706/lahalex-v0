@@ -1,0 +1,1 @@
+‐LesdispositionsduprésentCodes’appliquentauxdomainesp ublicetprivéde l’Etatetdescollectivitésterritoriales,auxbiensimmobilier sdespersonnesprivées,à l’organisation et aufonctionnement durégime foncier etdomani alenRépubliquedu Bénin.

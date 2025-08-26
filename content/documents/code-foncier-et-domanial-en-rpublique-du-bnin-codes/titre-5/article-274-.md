@@ -1,0 +1,1 @@
+‐ Les portions du domaine public reconnues sans intérêt pour l es services publics ou l’intérêt général peu vent être déclassées par décret pris en Conseil des Ministresetincorporéesaudomaineprivédel’Etat.

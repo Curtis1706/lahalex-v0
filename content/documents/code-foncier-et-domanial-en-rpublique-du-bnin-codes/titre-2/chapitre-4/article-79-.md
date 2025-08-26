@@ -1,0 +1,1 @@
+‐ Sont privatives, les parties des bâtiments et des terrains r éservées à l’usage exclusifd’uncopropriétairedéterminé.Lespartiesprivatives sontpropriétéexclusive dechaquecopropriétaire.

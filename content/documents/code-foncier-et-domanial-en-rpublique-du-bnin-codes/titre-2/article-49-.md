@@ -1,0 +1,1 @@
+‐Ledroitd’usageconfèreàsontitulaire,l’usager,ledroit immeubleetd’enpercevoirlesfruitsdansleslimitesdesesb famille.Ils’établitparconvention.

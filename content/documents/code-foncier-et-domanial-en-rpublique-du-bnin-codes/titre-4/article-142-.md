@@ -1,0 +1,1 @@
+‐Laprocéduredeconfirmationcollectiveestouverteauxpers onnesmoralesde droitpublic(Etatetcollectivitésterritoriales)ouauxperso nnesmoralesdedroitprivé (société,associationetcollectivitésfamiliales).

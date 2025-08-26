@@ -1,0 +1,2 @@
+‐ (Loi n°2017‐15) La décision de justice passée en force de chose jugée a la mêmeforceprobantequeletitrefoncier.
+Toutefois, elle ne produit effet qu’entre les parties au procès . Les ayants droit et les ayantscausedespartiessontassimilésauxpartiesauprocès.

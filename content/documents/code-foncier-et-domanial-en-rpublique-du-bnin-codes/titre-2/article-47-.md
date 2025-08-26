@@ -1,0 +1,1 @@
+‐ l'usufruitier est tenu, durant sa jouissance, de toutes les charges ordinaires imposéesaufondsobjetdel’usufruit,ainsiquetouteslesimp ensesquenécessitentles travauxd’entretien.

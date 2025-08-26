@@ -1,0 +1,2 @@
+‐ (Loi n°2017‐15) Toutepersonne,dontlesdroitsontétélésésparladélivrance
+de titre foncier à la suite d’une confirmation de droits foncie rs ou d’une inscription frauduleusepeutsefaireindemniserparlefondsdedédommagem entfoncier.Lecas échéant,l’Etatdisposed’uneactionrécursoirecontretoutepe rsonneayantoccasionné lafraudeaprèsindemnisationdelavictime.

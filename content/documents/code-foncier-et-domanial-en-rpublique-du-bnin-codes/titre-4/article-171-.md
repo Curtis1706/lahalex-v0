@@ -1,0 +1,7 @@
+‐ (Loi n°2017‐15) l'inscriptionauregistrefoncier desfaitsouconventionsayan t pourobjetlaconstitution,lat ransmission,lamodificationou l’extinctiondesdroitsréels s’effectuesuivantlesétapesci‐après:
+1‐Laconstatationauregistrea dhocdudépôteffectuéparle requérantd’inscription;
+2‐ La rédaction de bordereaux analytiques rappelant les disposi tions inhérentes aux documentsdéposéspourl’inscrip tionainsiquetoutesautresdi spositionssoumisesàla publicité;
+3‐a)l'inscriptiondansleregistredesmentionssommaires,àl asuitedutitrefoncier,de lachargeoududroitconstituéoudesmutationsopéréess’ils ’agitd’unacteconstitutif d’unechargeoud’undroitréel outransmissifdepropriété;
+b)S’ils’agitd’unacteextinctifd’unechargeoud’undroitr éelpublié,laradiationdela mentionprécédemmentinscritesurletitrefoncier;
+4‐Lareproductiondesmentionsfaitesauregistretelquedécr itci‐dessussurletitre foncier;
+5‐l'établissementd’uncertificatd’inscriptionaunomdutitu lairedunouveaudroitou l’annulationducertificatd’inscriptionprécédemmentétabli,a unomdutitulairedudroit éteint.

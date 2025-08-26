@@ -1,0 +1,3 @@
+‐Aujourfixé,lesdeuxexpertsdressentunprocès‐verbalde l’opérationquidoit fournirlesélémentsnécessairespourévaluerledommage.
+Silepropriétairenes’estpasfaitreprésenter,l’expertdel ’entrepreneurprocèdeseulà laconstatationdel’étatdeslieux.Danscederniercas,ousi lespartiessontd’accord,les travaux peuvent être commencés aussitôt. En cas d’accord sur le montant de l’indemnité,celle‐ciestimmédiatementversée.
+En casde désaccordsur l’état deslieux et le montant dudomma ge, la partie laplus diligentesaisitletribunal.

@@ -1,0 +1,2 @@
+‐ Les concessions ne sont accordées qu’aux personnes physiques et morales justifiantderessourcesfinancièr essuffisantespourgarantir leurmiseenvaleur.
+Les modalités et conditions d’attribution et de mise en valeur des concessions sont fixéespardécretprisenConseildesMinistres.

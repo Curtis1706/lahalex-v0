@@ -1,0 +1,1 @@
+‐ (Loi n°2017‐15) Le régisseur ne peut rejeter la demande, ni retarder l’exécutiond’uneformalitérégu lièrementrequise,nirefuserl adélivrancedescopiesde titresfonciersetcertificatsd’inscription.

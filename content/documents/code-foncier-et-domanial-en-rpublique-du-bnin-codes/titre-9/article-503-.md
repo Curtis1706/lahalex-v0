@@ -1,0 +1,2 @@
+‐ Constituent l’infraction de faux et usage de faux en écritur e publique, les altérationsfrauduleusesduplanfoncierrural,desregistresd esayantsdroitainsique l’utilisationintentionnelledesditsdocuments.
+Cesinfractionssontpuniesc onformémentauCodepénal.

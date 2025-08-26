@@ -1,0 +1,1 @@
+‐Lapropriétés’acquiertégalem entparl’accession,l’incorpo ration,laprescription etparautreseffetsdesobligations.

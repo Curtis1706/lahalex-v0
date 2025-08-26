@@ -1,0 +1,1 @@
+‐Entoutétatdecause,enprocédureordinaireoud’urgenced ’expropriation,les voiesderecoursappropriéessontouvertesauxpropriétairesou présuméspropriétaires contrelesdécisionsdesphasesadministrativesoujudiciaires, pourladéfensedeleurs intérêts.

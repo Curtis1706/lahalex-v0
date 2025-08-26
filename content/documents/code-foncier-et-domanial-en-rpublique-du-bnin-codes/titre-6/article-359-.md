@@ -1,0 +1,2 @@
+‐ Les personnes jouissant d’un droit d’usage sur des terres ru rales acquises selonlescoutumesquin’ontpasfaitl’objetdelapleineprop riétéausensdurégimede la propriété foncière en vigueur exercent sur leurs terres tout es les prérogatives attachéesàleurdroitconforméme ntauxrèglesetpratiquesde lalocalité.
+Ellesyexercenttouteslesprérogativestantqueleurdroitn’ estpascontestéetdansle strictrespectdesdroitsdestiers.

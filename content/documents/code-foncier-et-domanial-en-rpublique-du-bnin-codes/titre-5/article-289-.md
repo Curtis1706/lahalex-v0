@@ -1,0 +1,1 @@
+‐l'immeubledevenuinutileaus erviceouàl’établissementpu blicquiledétient, estaffectéàunautreserviceo uétablissementpublicoudésaf fecté.

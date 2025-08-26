@@ -1,0 +1,1 @@
+‐Lespartiescommunessontl’objetd’unepropriétéindivisee ntrel’ensembledes copropriétaires ou certains d’en tre eux seulement; leur admini stration et leur jouissancesontorganiséesconformémentauxdispositionsdupré sentCodeetdeses textesd’application.

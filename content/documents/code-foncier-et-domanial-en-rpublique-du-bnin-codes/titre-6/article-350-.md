@@ -1,0 +1,1 @@
+‐ Les droits fonciers issus de la coutume et des pratiques et normes locales, reconnus,constatésetenregistré sselonlaréglementationenv igueuroulesdispositions duprésentCode,peuventservirdegarantieàl’octroidecrédi tsfonciers.

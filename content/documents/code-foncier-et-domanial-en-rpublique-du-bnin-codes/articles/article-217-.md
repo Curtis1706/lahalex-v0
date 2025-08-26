@@ -1,0 +1,4 @@
+‐l'actedéclaratifd’utilitép ubliqueestsoituneloi,undé cretouunarrêté.
+Cet acte indique la zone géograp hique concernée par les travaux d’intérêt général projetés.
+Ilyestpréciséledélaipendan tlequell’expropriationdevra êtreréalisée.
+Ledélaidanslequell’expropria tiondoitintervenirnepeutêt resupérieuràdouzemoisà compterdeladéclarationd’utilitépublique.

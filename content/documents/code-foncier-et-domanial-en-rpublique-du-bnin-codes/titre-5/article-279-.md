@@ -1,0 +1,1 @@
+‐l'EtatpeuttransférerpardécretprisenConseildesMinistre s,lagestiond’une partiedesondomainepublicimmobilieràunecollectivitéterr itorialequienassurela conservation.

@@ -1,0 +1,1 @@
+‐ Aucune indemnité n’est due aux propriétaires en raison des s ervitudes établiesenvertudesarticlesci‐dessus.

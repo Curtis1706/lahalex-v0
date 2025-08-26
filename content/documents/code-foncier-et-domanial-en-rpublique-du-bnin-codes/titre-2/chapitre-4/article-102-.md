@@ -1,0 +1,2 @@
+‐Lesdécisionsdel’assembléegénéralesontprisesàlamajor itésimpledesvoix descopropriétairesprésentsou représentés,s’iln’enestautr ementprescritparlaloi.
+Le règlement de copropriété peut mettre à la charge de certains copropriétaires seulement,desdépensesd’entretiend’unepartiedel’immeuble oucellesd’entretienet defonctionnementd’unélémentd’équipement.

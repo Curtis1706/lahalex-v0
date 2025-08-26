@@ -1,0 +1,1 @@
+‐ Tout régisseur, titulaire ou intérimaire, avant d’entrer en fonctions, prête sermentdevantleprésidentdutribunaldepremièreinstancedu lieudesontravail.Il estdressédecetteprestationde serment,unprocès‐verbaldon tlaminuteestconservée augreffedelajuridiction.

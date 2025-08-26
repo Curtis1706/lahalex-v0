@@ -1,0 +1,3 @@
+‐ La collectivité des copropriétaires est constituée en un syn dicat doté de la personnalitémorale.
+Lesyndicatpeutrevêtirlaformed’unsyndicatcoopératifrégi parleprésentcode. Ilétablitetmodifie,s’ilya lieu,lerèglementdecoproprié té.
+Ilestresponsabledesdommagescausésauxcopropriétairesoua uxtiersparledéfaut d’entretiendespartiescommunes sanspréjudicedetoutesactio nsrécursoires.

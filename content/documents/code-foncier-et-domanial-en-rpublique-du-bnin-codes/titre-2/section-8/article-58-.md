@@ -1,0 +1,1 @@
+‐ Dans le cas où l’immeuble hyp othéqué devient insuffisant pou r garantir sa créance, par suite de destruction ou de dégradation, le créanci er peut poursuivre le paiementdesacréanceavantletermeouobteniruneautrehypothèque.

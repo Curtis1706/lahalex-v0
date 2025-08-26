@@ -1,0 +1,1 @@
+‐ Les registres et le répertoire énumérés dans cette section s ont dotés d’un numérodesérie,cotésetparaph ésparlemairedelacommunec oncernée.

@@ -1,0 +1,2 @@
+‐ Le juge auditionne séparément chaque témoin après lui avoir fait prêter serment«dedirelavéritéetrienquelavérité;qu’encasd eparjure,ilsoitsoumisaux poursuitespénales».
+Lesparentsetlesalliésdespartiessontdispensésduserment .

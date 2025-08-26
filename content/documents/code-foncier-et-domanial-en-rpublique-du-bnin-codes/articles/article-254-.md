@@ -1,0 +1,1 @@
+‐ A défaut d’arrangement entre l’administration ou son commis et le propriétaire intéressé, l’administration fait connaître à ce de rnier le jour où l’entrepreneurcommiscompteserendresurleslieuxous’yfai rereprésenter,etl’invite enmêmetempsàdésignerunexpertpourprocédercontradictoire mentavecceluiqui auraétéchoisiparl’entreprene uràlaconstatationdel’état deslieux.

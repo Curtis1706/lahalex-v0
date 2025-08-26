@@ -1,0 +1,1 @@
+‐Touteoccupationillégaledudomainepublicoudezonenona edificandiou impropreàl’habitationparune personnephysiqueoumoraleest punied’uneamende allantdecinqcentmille(500.000) FCFAàtroismillions(3.00 0.000)FCFA.

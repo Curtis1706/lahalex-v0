@@ -1,0 +1,2 @@
+‐ La protection et la conservation de la faune sauvage, partic ulièrement les espècesmenacéesouenvoiededisparition,constituentundevo irnational.Ellessont soumisesauxdispositionsdestextesspécifiquesenvigueur.
+Toutcitoyenettoutepersonneétrangèreontledevoird’œuvrer àlapréservationdela faunesauvage.

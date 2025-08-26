@@ -1,0 +1,2 @@
+‐Constituentdesinfractionsdefauxetusagedefauxenécri turepublique;les contrefaçons,leblanc‐seing,lesaltérationsfrauduleusesde documentsfonciersainsi quel’utilisationintentionnelledesditsdocuments.
+Cesinfractionssontpuniesconfo rmémentauCodepénal,excepti onfaitedessanctions particulièresci‐dessous.

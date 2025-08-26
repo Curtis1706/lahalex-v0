@@ -1,0 +1,2 @@
+‐l'organeenchargedelaconfirmationdedroitsfoncierspeu tdonnerunaccès en ligne ou un accès en lecture aux bases de données cadastrale s à des utilisateurs privéssurlabasedesconditionsetàdesfraisfixésparlal oidefinances.
+Aucundesditsutilisateursneser aautoriséàmodifierquelque donnéequecesoitdansle cadastresouspeinedessanction sprévuesparleprésentCode.

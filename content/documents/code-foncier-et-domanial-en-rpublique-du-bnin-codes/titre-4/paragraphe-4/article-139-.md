@@ -1,0 +1,14 @@
+‐ (Loi n°2017‐15) Le régisseur constate, auregistredesdépôts,leversement qu’ileffectueaudossier,àl’ex pirationdudélaisoitd’oppos itionàlademande,soitde recourscontreladécisionjudiciaireterminantlelitige,des piècesdelaprocédurede formalisation des droits fonciers. Il rédige, au vu des déclara tions insérées dans la demandedeconfirmationdesréquisitions,desdemandesd’inscri ptionacceptéesparle requérant et des décisions de justice intervenues sur les oppos itions de demandes d’inscription non acceptées, un bordereau analytique des actes et pièces établissant l’origine et le mode d’exercice de chacun des droits réels et c harges qui grèvent l’immeuble.Ildresse,surleregistrefoncierdelacirconscri ptionadministrativedans laquellel’immeubleestsitué,le titrefoncierquicomporte,r épartisdanslesdivisionsdu cadreimprimé,lesrenseignementssuivants:
+· description de l’immeuble, avec indication de ses consistances, superficie,
+contenance,situationetabornementsparnumérodetitresdepr opriétéfoncièredes immeublesvoisins,sipossible;
+· mention sommaire des droits réels existant sur l’immeuble et de s charges qui le
+grèvent;
+· désignationdupropriétaire.
+Il annexe à ses archives, les titres de propriété produits à l’ appui de la demande de confirmationdesdroitsfonciers.
+Toutefois,sicestitresconcernentoutrelapropriétéenregist rée,unimmeubledistinct decettepropriété,lerégisseurremetauxpartiesletitrecom mun,dontilconserveune copiequ’ilcertifieconforme,aprèsavoirapposésurledittit recommununemention d’annulation relative à l’immeub le sur lequel les droits foncie rs ont été confirmés. Il établit,surdesformulesspéciales:
+· pour le propriétaire requérant ou, s’il y a lieu, mais sur dema nde expresse, pour
+chacundescopropriétairesindivisd’unimmeuble,unecopieexa cteetcomplètedu
+titrefoncier,unesériededuplicatadesbordereauxanalytique setunecopieduplan; · pourchacundestitulairesdechargesoudedroitsréels,susce ptiblesdecessionet
+mentionnés,uncertificatd’inscription.
+Les copies de titres et certificats d’inscription emportent exé cution parée, indépendammentdetouteadditiondeformuleexécutoire.
+Dans tous les cas, en l’absence de contestations et sous réserv e du respect des dispositionsdel’article124delaloin°2013‐01du14août20 13portantCodefoncieret domanial en République du Bénin, le régisseur de la propriété f oncière dispose d’un délaimaximumdecentvingtjoursàcompterdel’instructiondu dossierderéquisition pour accomplir l’ensemble des formalités et créer le titre fonc ier sous peine des sanctions prévues à l’article 391 de la loi n°2013‐01 du 14 aoû t 2013 portant Code foncieretdomanialenRépubliqueduBénin.

@@ -1,0 +1,1 @@
+‐Silerégisseurrefusedeprocéderauxrectificationsrequis esousilesparties n’acceptent pas les rectifications opérées, l’affaire est porté e devant le président du tribunaldepremièreinstance,qu iordonnelesrectificationsa ppropriées.

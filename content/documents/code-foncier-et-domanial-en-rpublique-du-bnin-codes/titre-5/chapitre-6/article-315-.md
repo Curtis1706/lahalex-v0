@@ -1,0 +1,1 @@
+‐Lesol,lesous‐soletlesrichessesquiysontcontenuesre lèvent,entantque ressourcesnonrenouvelableset/o ulimitées,dudomaineprotégé del’Etat.Ilssontgérés demanièrerationnelleetdurableconformémentauxdispositions duprésentCodeet destextesspécifiquesenvigueur.

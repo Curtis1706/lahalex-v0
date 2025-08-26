@@ -1,0 +1,2 @@
+‐l'Etatreconnaîtauxpopulationsriverainesdesplansetdes coursd’eau,les droits d’usage établis ou acquis selon la coutume. Ces droits s ont exclusivement transmissiblesparsuccessionet nesontsusceptiblesd’aucune transaction.
+l'exercicededroitdepêchetraditionnellesefaitdanslestr ictrespectdesdispositions destextesenvigueur,notammentcellesdelalégislationsurl apêcheainsiquecellesdu présent Code et dans le cadre des normes techniques établies pa r le ministère compétentenmatièredepêche.

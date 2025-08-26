@@ -1,0 +1,4 @@
+‐Lanonappropriationpremièreénoncéeàl’article385ci‐des susestconstatée pararrêtédumairedelacommunedulieudesituationdel’imm euble.
+La procédure de cette constatation est définie par le décret d’ application du présent Code.
+Pourétablirdemanièrecertainelanonappropriationpremière, cetteprocéduredoit respecter les conditions de publicité et de délai semblables à celles prévues par les dispositions du Titre 3 du présent Code en ce qui concerne la procédure de confirmationdedroitsfonciersdeterrain.
+Lerégisseurdelapropriétéfoncièrenepeutouvriruneprocéd uredeconfirmationde droitsfonciersaunomdel’Etatqu’àlaréceptiondel’arrêté dumaireétablissantlanon appropriationpremière.

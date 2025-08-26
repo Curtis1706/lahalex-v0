@@ -1,0 +1,1 @@
+‐ Le droit de propriété confère à son titulaire l’usage, la jo uissance et la libre dispositiondesbiensquiensontl’objet,delamanièrelaplu sabsoluepourvuqu’iln’en fassepasunusageprohibéparlesloisetlesrèglements.

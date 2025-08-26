@@ -1,0 +1,1 @@
+‐l'accessioncouvrenonseulem entlebienimmobilierlui‐même ,maisaussiun certain nombre d’éléments confor mément au principe selon lequel la propriété du principalentraînecelledel’accessoire.

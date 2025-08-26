@@ -1,0 +1,2 @@
+‐ Une hypothèque forcée judiciaire, provisoire ou conservatoir e, peut être inscrite conformément aux dispos itions de l’acte uniforme de l’ Organisation pour l’harmonisationenAfriquedudroitdesaffairesportantorgani sationdessûretés.
+Lorsquelejugementdevalidationdel’inscriptionprovisoired evenudéfinitifmaintient toutoupartiedel’inscription, cequiaétémaintenuprendra ngàladatedel’inscription.

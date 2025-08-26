@@ -1,0 +1,3 @@
+‐ (Loi n°2017‐15) Letransfertàtitredéfinitifd’uneterreruralerégieparles coutumes peut s’opérer par achat, succession ab intestat ou tes tamentaire, donation entrevifsoupartoutautreeffetdel’obligation.
+l'acte de transfert doit être enregistré au bureau local de l’o rgane en charge de la confirmationdedroitsfonciersconformémentautitreIIIdupr ésentCodeets’ilyalieu, fairel’objetdemorcellementd utitrefoncieràpeinedenulli té.
+Letransfertdoitfairel’objetd’uncontratécritconcludevan tlasectionvillageoisede gestionfoncièreprévueàl’article305duprésentCode.Cecon tratdoits’appuyersurle certificatfoncierruralcorrespondantàlaparcelleconcernée dèslorsquelevillageoù celle‐ciestsituéeafaitl’obj etdel’établissementd’unplan foncierruraltelqueprévupar leprésentCode.

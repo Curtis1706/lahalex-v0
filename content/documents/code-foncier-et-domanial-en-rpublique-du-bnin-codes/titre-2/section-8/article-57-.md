@@ -1,0 +1,1 @@
+‐l'hypothèqueconventionnellenepeutêtreconsentiequepar acteauthentique ouparactesousseingprivédéposéaurangdesminutesd’unno taire.

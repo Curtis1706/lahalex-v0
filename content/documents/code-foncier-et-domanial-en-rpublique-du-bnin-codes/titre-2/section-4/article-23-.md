@@ -1,0 +1,1 @@
+‐Sil’undescopermutantsadéjàreçulachoseàluidonnéee néchange,etqu’il prouveensuitequel’autrecontractantn’estpaspropriétaired ecettechose,ilnepeut pasêtreforcéàlivrercellequ’ilapromiseenéchange,mais seulementàrendrecelle qu’ilareçue.

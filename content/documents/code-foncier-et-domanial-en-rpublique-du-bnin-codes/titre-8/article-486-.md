@@ -1,0 +1,2 @@
+‐ Les livres fonciers et les divers registres servant à la con servation de la propriétéetdesdroitsfoncierssonttenussansgrattage,surc harge,niinterligne.
+Touterature,s’ilyalieu,estfaiteaumoyend’untraitfin àl’encre,avecapprobationen margeouàlafindutexte.

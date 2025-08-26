@@ -1,0 +1,6 @@
+‐Entoutétatdecause,ledélaid’expulsionouladated’exé depaiementcourtàpartirdeladatedesurvenanceoudesigna consolidation.
+pulsion doit intervenir duditaccord.
+cutiondesmodalités turedeladécisionde
+Code foncier et domanial
+Bénin!
+Danstouslescas,l’exécutiond’unedécisiond’expulsiondoit intervenirdansundélaide troismoisauminimumetdesix moisaumaximumselonlecas.

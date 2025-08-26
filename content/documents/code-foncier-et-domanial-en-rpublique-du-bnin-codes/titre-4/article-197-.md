@@ -1,0 +1,1 @@
+‐ Le contrôle et la certification du plan foncier rural sont e xécutés conformément aux textes fixant les normes et spécificationstec hniques relatives aux travauxcartographiquesettopographiques.

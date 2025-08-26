@@ -1,0 +1,2 @@
+‐Ledomaineaffectécomprendlesimmeublesmisgratuitementà ladisposition desservicesdel’Etatoudescollectivitésterritorialespour leurpermettred’assurerleur fonctionnement.
+Peuvent aussi bénéficier d’une affectation, les établissements publics à caractère administratifdel’Etatoudescollectivitésterritoriales.

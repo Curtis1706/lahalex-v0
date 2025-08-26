@@ -1,0 +1,4 @@
+‐ La commission peut être saisie directement par les intéressé s de toute revendication.
+Lesréclamationsreçuessonttransmisespouravis,demêmeque lesprécisionssurle planparcellairequeceservicea uraitpuréunirpostérieuremen tàl’arrêtédecessibilité.
+Elledoitdonnersonavissurlebien‐fondédudroitdeproprié téinvoquéet,entoutétat de cause, sur la valeur de l’immeuble. Elle évalue de même glob alement toutes les propriétéscomprisesdansleslimitesduplanannexéàl’arrêté decessibilité,mêmesi ellesnefontl’objetd’ aucunerevendication.
+Les avis au maire, s’il s’agit de travaux communaux, doivent êt re envoyés au moins quinzejoursavantl’arrivéedelacommission.

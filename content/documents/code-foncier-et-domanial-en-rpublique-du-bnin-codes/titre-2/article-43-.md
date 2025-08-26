@@ -1,0 +1,1 @@
+‐ Nul ne peut être privé de sa propriété que pour cause d’util ité publique et contrejusteetpréalabledédommagement.

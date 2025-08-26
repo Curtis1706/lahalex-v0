@@ -1,0 +1,1 @@
+‐Lepropriétaired’immeublefrappéenpartied’expropriation peutexigerde l’autorité publique, l’acquisition totale par une demande adres sée au président du tribunalayantprononcél’ordonna nced’expropriationetnotifié eàlapersonnepublique concernée.Lecaséchéant,letribunalseprononcedanslestre ntejoursdesasaisine.

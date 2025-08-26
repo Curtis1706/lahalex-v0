@@ -1,0 +1,1 @@
+‐ Les titulaires d’hypothèque forcée tels que définis dans l’a cte uniforme de l’Organisationpourl’harmonisat ionenAfriquedudroitdesaff airesportantorganisation des sûretés, feront inscrire l’hypothèque au registre foncier a u numéro du droit réel auquell’hypothèques’applique.

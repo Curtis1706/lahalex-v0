@@ -1,0 +1,1 @@
+‐ Peuvent faire l’objet de confirmation de droits fonciers dan s les registres fonciers,créésàceteffet,les fondsdeterrebâtisounonbâ tis.

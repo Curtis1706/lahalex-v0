@@ -1,0 +1,2 @@
+‐Lorsqueplusieurslotssontattribuésàdespersonnesquion tconstituéune société propriétaire de ces lots, chaque associé participe néan moins à l’assemblée générale du syndicat et y dispose d’un nombre de voix égal à la quote‐part dans les partiescommunescorrespondantau lotdontilalajouissance.
+Encasd’indivisionoud’usufruitd’unlot,lesintéressésdoiv entsaufstipulationcontraire durèglementdecopropriété,êtrereprésentésparunmandataire communquisera,à défautd’accord,désignéparleprésidentdutribunaldepremiè reinstancecompétentà larequêtedel’und’entreeuxoudusyndic.

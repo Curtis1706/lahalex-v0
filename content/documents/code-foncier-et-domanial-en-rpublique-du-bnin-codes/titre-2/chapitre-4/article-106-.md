@@ -1,0 +1,1 @@
+‐Aucuncopropriétairenisesayantsdroitnepeutfaireobsta cleàl’exécution mêmeàl’intérieurdesespartiesprivativesdestravauxréguli èrementetexpressément décidésparl’assembléegénérale envertudel’article102ci‐d essus.

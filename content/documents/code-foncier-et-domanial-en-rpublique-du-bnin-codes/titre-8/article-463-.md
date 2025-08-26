@@ -1,0 +1,2 @@
+‐Leresponsabledel’organeenchargeducadastredoitprendr etoutmoyen qu’ilcroitpropreàenassurerl’exactitude.
+l'originaldesplansdecadastreetdeslivresderenvoi,daté etsignéparleresponsable ducadastreestconservédanssesarchives.

@@ -1,0 +1,1 @@
+‐ A l’audience, le juge après avoir écouté les parties, ordonn e s’il y a lieu l’indisponibilité de l’immeuble c ontesté qu’il identifie par se s limitrophes ou autres élémentspertinents.

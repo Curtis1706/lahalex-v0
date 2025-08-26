@@ -1,0 +1,18 @@
+‐l'exécutiond’unedécisiondejustice,dejugementsoud’arr êtsetordonnant une expulsion forcée est précédée d’une étape de négociation à l’amiable en vue du rachat,parlapartieperdantea uprocèsdel’immeublehabité.
+Code foncier et domanial 105
+Bénin!
+Cettenégociationdevraêtremenéesousl’égideduConseilcons
+l'Etatdevragarantirlepayementdumontantdurachatàhauteu vénaledel’immeublenonbâti.
+Encasd’échecdesnégociations,lapartiegagnanteal’obligat résidenceàlapartieperdante.
+ultatiffoncier.
+rdutiersdelavaleur
+iond’accorderundélaide
+Code foncier et domanial
+Bénin!
+Ledélaiviséàl’alinéaprécédentest:
+· desixmoisàcompterdeladatedepromulgationdelaprésente loi,siladatede
+prisedeladécisiondejustice,dejugementsoud’arrêtsordon nantuneexpulsion forcéeestpostérieureàladated epromulgationdelaprésente loi;
+· detroismoisàcompterdeladatedepromulgationdelaprésen teloi,siladatede
+prisedeladécisiondejustice,dejugementsoud’arrêtsordon nantuneexpulsion
+forcéeestantérieureàladated epromulgationdelaprésente loi. Danscecas,l’Etatpréemptesurtoutetransactiondevantêtre opéréesurleditimmeuble
+enfaveurdel’occupantdebonnefoi.

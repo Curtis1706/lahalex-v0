@@ -1,0 +1,1 @@
+‐ Dès la mise en place du cadastre dans une zone, tout requéra nt de confirmationdedroitsfonciersdontl’immeubles’ytrouvesitu é,esttenudeproduirele plan et la description de l’imme uble conformément aux normes te chniques et méthodologiquesducadastreenl ieuetplacedeladescription etduplandel’immeuble prévusàl’article116duprésentCode.

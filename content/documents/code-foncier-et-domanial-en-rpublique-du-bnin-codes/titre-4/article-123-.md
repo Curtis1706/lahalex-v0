@@ -1,0 +1,2 @@
+‐Lorsquelebornaged’unimmeub len’apuêtreeffectuéparle faitdurequérant, dansundélaimaximumd’unan,laréquisitionestannuléeparl erégisseur,aprèsune sommationsansfraisparluiadresséeauditrequérant,àdomici leréelouaudomicile élu,etrestéesanseffetdanslestrentejoursquisuiventsa notification.Cetteannulation est prononcée sans recours possible. Elle est notifiée par le r égisseur à tous les intéressés,etnotammentauxoppo sants,s’ilenexiste.Dansce cas,laprocéduredoitêtre reprise.
+Ilenestdemêmelorsquelerequérantrenonce,encoursdepro cédure,àpoursuivrela formalisationdesdroitsfonciers.

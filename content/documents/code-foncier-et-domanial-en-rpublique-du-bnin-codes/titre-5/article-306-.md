@@ -1,0 +1,1 @@
+‐Lesterresetbiensimmeublesvisésàl’article279ci‐dessu snepeuventêtre cédésoulouésquesurdélibérationduconseilcommunaloumuni cipalenapplicationde laloiportantorganisationdes communesenRépubliqueduBénin.

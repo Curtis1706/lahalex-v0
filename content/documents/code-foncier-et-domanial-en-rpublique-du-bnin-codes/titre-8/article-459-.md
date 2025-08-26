@@ -1,0 +1,4 @@
+‐ Le cadastre est établi suivant deux procédures: la confirma tion de droits fonciersgénéraleetlaconfirmat iondedroitsfonciersindivid uelle.
+La confirmation de droits fonciers générale s’applique à l’Etat et aux collectivités territoriales.
+Laconfirmationdedroitsfonciersindividuelleserapporteàl aconfirmationdedroits fonciersd’unepropriétéprivée.
+Lesmodalitésdemiseenœuvredunumérouniqueparcellaireet delaprocédurede confirmationcadastralesontdét erminéesparvoieréglementaire .

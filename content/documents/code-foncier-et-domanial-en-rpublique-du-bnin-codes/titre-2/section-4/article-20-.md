@@ -1,0 +1,1 @@
+‐ La propriété peut s’acquérir par échange conformément aux di spositions du présentCodeetdesautrestextesenvigueur.

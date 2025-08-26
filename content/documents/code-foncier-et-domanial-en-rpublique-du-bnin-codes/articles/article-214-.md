@@ -1,0 +1,1 @@
+‐ La décision et les opérations d’expropriation sont prononcée s et exécutées danslesformesprescritesci‐aprèset,plusspécialementenco nformitéaveclestextes spécifiquesenlamatière.

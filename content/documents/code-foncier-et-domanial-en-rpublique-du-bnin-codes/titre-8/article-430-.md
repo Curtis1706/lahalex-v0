@@ -1,0 +1,1 @@
+‐ La composition, les attributions, l’organisation et le fonct ionnement des CommissionsdegestionfoncièreetdesSectionsvillageoisesde gestionfoncièresont fixéspardécretprisenConseildesMinistres.

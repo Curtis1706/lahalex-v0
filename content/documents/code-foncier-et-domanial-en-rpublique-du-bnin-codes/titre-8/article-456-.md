@@ -1,0 +1,1 @@
+‐ Les documents officiels du cad astre comprennent, entre autre s, le plan cadastral,lelivrederenvoietleplanparcellaire.

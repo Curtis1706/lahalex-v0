@@ -1,0 +1,2 @@
+‐Danstouslescasoùunedemandedeconfirmationdesdroits fonciersnepeut êtreaccueillie,quellequesoitlacausedel’empêchementetà quelquemomentdela procédurequ’ilseproduise,lerégisseurdoitinviterlespart iesàretirer,contreremise du récépissé, les titres par elles déposés; il y joint, en opé rant la restitution, une déclarationécritefaisantco nnaîtrelesmotifsdurejet.
+Lerégisseurprendsoind’encon servercopiepoursesarchives. Section 3 : De la formalité de la confirmation de droits fonciers

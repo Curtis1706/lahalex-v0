@@ -1,0 +1,4 @@
+‐Encasd’acceptationparlepropriétaireouletitulairede droitsimmobiliers intéressédanslestroisjours,ilestimmédiatementpasséuna ctedecessionàsoumettre au plustardsoushuitaineà l’homologationduprésidentdutri bunalcompétent.Dès lors,l’autoritéexpropriantepe utprendrepossessiondeslieux .
+Code foncier et domanial 52
+Bénin!
+l'homologationestprononcéedanslaquinzainedelasaisinedu d’homologationestsansrecourssuspensif.

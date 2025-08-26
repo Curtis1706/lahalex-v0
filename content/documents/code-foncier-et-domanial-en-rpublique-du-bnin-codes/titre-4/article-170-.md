@@ -1,0 +1,1 @@
+‐l'ordredesinscriptions,en matièred’hypothèque,règlele rangdeprioritédes créanciers.

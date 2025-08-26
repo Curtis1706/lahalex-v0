@@ -1,0 +1,2 @@
+‐ (Loi n°2017‐15) Ilestcrééunétablissementpublicàcaractèretechniqueet scientifique de type spécifique doté de la personnalité morale et de l’autonomie financièredénommé:Agencenation aledudomaineetdufoncier.
+Ilestplacésouslatutelleduministèreenchargedesfinances.

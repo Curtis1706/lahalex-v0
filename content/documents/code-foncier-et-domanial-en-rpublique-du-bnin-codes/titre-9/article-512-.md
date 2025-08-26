@@ -1,0 +1,2 @@
+‐Quiconquevenduneparcelleluiappartenantàplusieurspers onnesestpunie d’une amende de cinq millions (5.000000) FCFA à dix millions (1 0.000.000) FCFA et d’unepeined’emprisonnementdecinqansàdixansoudel’une oul’autredesdeux peinesseulement,sanspréjudicedesdommagesetintérêts.
+Lorsquelaparcellevenduen’appartientpasauvendeur,ilest punidudoubledelapeine sanspréjudicedesdommagesetintérêts.

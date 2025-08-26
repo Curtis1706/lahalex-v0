@@ -1,0 +1,1 @@
+‐Lesrégisseursdelapropriétéfoncièresontrépartisendeu xcatégories:le régisseur principal à compétence nationale et les régisseurs co mmunaux ayant compétenceauniveaucommunalourégional.

@@ -1,0 +1,1 @@
+‐Leresponsableducadastredoit,sansdélai,notertoutemod ificationdansles limitesoulenomd’unecirconscriptionfoncièresurlesplans descadastresvisésainsi quesurlacopiedetelsplansdé poséeàsonbureau.Iltransme tunecopiedecesplansau bureaudurégisseurfoncier.

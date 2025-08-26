@@ -1,0 +1,3 @@
+‐Leplancadastralaaussipourfonctiondereprésenterl’ass iettesurlaquelle s’exercentlesdroitsréelsimmo biliersetsertdebaseàlapu blicitédecesdroits.
+Code foncier et domanial 94
+Bénin!

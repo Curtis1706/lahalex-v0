@@ -1,0 +1,1 @@
+‐ l'Etat peut accorder sur le territoire de la République du B énin à une ou plusieurspersonnesphysiquesou àuneouplusieurspersonnesm oralessansdistinction denationalité,ledroitdeselivreràl’uneouplusieursdes activitésviséesàl’articleci‐ dessus, si elles sont titulaires de l’un des titres miniers pré vus aux articles 340 et suivants.

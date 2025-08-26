@@ -1,0 +1,1 @@
+‐Lesmodalitésd’applicationdesdispositionsrelativesàlami seenvaleurdes terresruralessontpréciséespar lestextesd’applicationdup résentCode.

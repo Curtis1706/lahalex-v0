@@ -1,0 +1,2 @@
+‐ (Loi n°2017‐15) l'échangeestsoumispoursavaliditéauxmêmesrèglesquela vented’immeubleencequiconce rnelacapacitédesparties,le urconsentement,lacause etl’objet.
+Cependant, lorsque les choses échangées sont d’inégales valeurs , la stipulation d’une soulteestnécessairesaufrenon ciationexpressedesparties.

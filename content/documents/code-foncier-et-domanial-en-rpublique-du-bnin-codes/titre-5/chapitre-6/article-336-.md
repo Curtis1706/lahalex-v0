@@ -1,0 +1,2 @@
+‐Toutepersonnephysiquequien treprendd’éleverdesanimaux sauvagesdans unparcprivéacquiertlapropriétéexclusivedecettefaune.
+Toutefois,lepropriétaireestastreintaurespectdesrèglesd eprotectionnationaleset internationalesenvigueur.

@@ -1,0 +1,3 @@
+‐l'Agencenationaledudomaine etdufoncierexerceundroit depréemption surtouteslestransactionsopéréessurlesterresrurales.
+Touteventeeffectuéesuruneterreruralequin’auraitobtenu levisadel’Agenceou l’avisdepréemptionestnulleetdenuleffet.
+UndécretprisenConseildesMinistrespréciseralesmodalités d’exercicedudroitde préemption.

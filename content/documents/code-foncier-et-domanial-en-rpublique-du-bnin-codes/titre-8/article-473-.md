@@ -1,0 +1,1 @@
+‐Lesservicescréantlesdifférentesbasesdedonnéesconstit uantlecadastre sontchargésdeleurmaintenanceconformémentauxnormesélabor ées,actualisées,et vulgarisées par application des dispositions de l’article 463 d u présent Code. Les donnéesducadastreserontmisesàjouraufuretàmesure.

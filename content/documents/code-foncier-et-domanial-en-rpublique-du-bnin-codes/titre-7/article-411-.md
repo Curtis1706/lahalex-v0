@@ -1,0 +1,5 @@
+‐Lorsquelejugeestimel’inst ructionterminée,ilenjointau xpartiesdeluifaire tenir par écrit leurs observations dans un délai de trente jour s sur l’ensemble des mesuresd’instruction.
+Avant de verser lesdites observations au dossier, le juge procè de à l’audience à leur communicationauxparties.
+Ilimpartitundélaidequinzejoursauxpartiespourrépliquer auxobservationsdeleur adversaire.Encasderéplique,celles‐cisontégalementversée saudossier.Mentiondes diligencesprévuesparleprésen tarticleestfaitesurlesfeu illesdenotesd’audience.
+Passéledélaiviséàl’alinéa3, lejugemetledossierendél ibéré.
+Ladécisiondujuge,souspeined’uneamendeciviledecentmil le(100.000)FCFA,doit intervenirdansundélaimaximumdequinzemoisàcompterdela premièreaudience. Ellepeutêtrecontradictoire,réputéecontradictoireourendue pardéfaut.

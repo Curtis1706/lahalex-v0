@@ -1,0 +1,1 @@
+‐AusensduprésentCode,laprescriptionextinctiveconsiste àéteindreparune possession paisible, notoire, non interrompue et sans équivoque de dix ans un droit présomptifdepropriétépréexistant.

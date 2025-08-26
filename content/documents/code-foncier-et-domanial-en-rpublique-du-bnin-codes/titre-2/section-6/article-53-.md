@@ -1,0 +1,2 @@
+‐ Le droit de superficie consiste dans le fait de posséder des constructions, ouvrages ou plantations sur un fonds appartenant à autrui ou d’ être autorisé à en établir.
+Letitulairedudroitdesuperficiepeutgreverdeservitudesl esbiensquifontl’objetde sondroit,maisseulementdansl alimitequiluiestimposéepo url’exercicedecedroit.

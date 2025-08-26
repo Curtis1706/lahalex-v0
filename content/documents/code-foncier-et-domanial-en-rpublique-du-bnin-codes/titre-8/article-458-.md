@@ -1,0 +1,2 @@
+‐ Le numéro unique parcellaire attribué à chaque propriété est utilisé parle régisseurlorsdel’établissement dufeuilletindiquéàl’artic le454duprésentCode.
+Surcefeuilletestinscrittoutactepouvantaffectercetimme uble.Unefoisinscrits,les droitsdespropriétairesdoiventêtreprotégésparl’organeen chargeducadastre.

@@ -1,0 +1,2 @@
+‐ (Loi n°2017‐15) Le titre foncier est la preuve officielle de la propriété en matière immobilière. Il confère à son titulaire de façon incont estable le droit de propriétédel’immeublequienestnanti. Lorsquedeuxtitresfoncierssontrégulièrementdélivréssurun mêmeimmeuble,lejuge faitfoiautitreleplusancien.
+Letitrefoncierrésultantd’une inscriptionn’estpasopposabl eauxtiers.

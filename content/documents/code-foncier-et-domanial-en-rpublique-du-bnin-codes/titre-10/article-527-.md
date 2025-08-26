@@ -1,0 +1,1 @@
+‐ l'exécution des jugements ou arrêts ordonnant une expulsion forcée doit, danslerespectdesdroitséconomiques,sociauxetculturelsga rantisparlaConstitution, suivredesprocédureslégalesquicherchentàobtenirl’indemni sationàlasuited’une expulsionillégaleouarbitraire,oufavorisentlerachatparl apartieperdantedansun procèsportantsuruni mmeublequ’elleoccupe.

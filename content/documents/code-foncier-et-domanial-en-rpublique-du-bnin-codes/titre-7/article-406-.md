@@ -1,0 +1,2 @@
+‐ l'ordonnance d’indisponibilit é interdit, sous peine de nulli té absolue, toute aliénation de l’immeuble concerné. Elle précise les peines auxq uelles s’expose tout contrevenant.
+Toutesnouvellesinstallations,c onstructionsoutoutnouvelin vestissementsuruntel immeuble peut, sans préjudice de dommages‐intérêts et de poursu ites pénales, faire l’objetdedéguerpissement.

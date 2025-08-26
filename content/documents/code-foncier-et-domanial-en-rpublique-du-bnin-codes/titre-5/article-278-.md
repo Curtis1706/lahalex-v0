@@ -1,0 +1,2 @@
+‐Lagestiondesportionsdudomainepublicimmobilierdel’Et atetdeleurs dépendances,relèveduMinistreenchargedufoncier,desMinis tressectorielsoudes maires.
+Le Ministre peut également déléguer ses pouvoirs de gestion à u n concessionnaire dûmentagréé.

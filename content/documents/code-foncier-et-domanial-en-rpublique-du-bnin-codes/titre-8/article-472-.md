@@ -1,0 +1,1 @@
+‐Chaquefoisquelaprocéduredeconfirmationdedroitsfonci erscollectiveau cadastreestinitiée,l’administrationlocaleesttenued’yapp orterunappuienmatière d’annonces,d’adjudicationetdepublicité.

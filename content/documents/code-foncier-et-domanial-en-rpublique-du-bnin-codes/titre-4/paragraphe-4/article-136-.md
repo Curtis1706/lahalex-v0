@@ -1,0 +1,3 @@
+‐Enmatièredeconfirmationdedroitsfonciers,lesnotificat ionssontfaitesaux parties par voie administrative, par l’intermédiaire des maires et des chefs d’arrondissement,chefsdevilla geouchefsdequartier.Elles peuventl’êtreégalement parvoied’huissier.
+Lapreuvedelanotification,delasignificationetl’accuséd eréceptionsontjointsau dossierdelaprocédure.
+Silapartieviséeparlanotific ationnepeutsigner,elleapp osesonempreintedigitale.

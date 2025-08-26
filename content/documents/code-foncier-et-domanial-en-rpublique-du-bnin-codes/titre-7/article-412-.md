@@ -1,0 +1,2 @@
+‐ (Loi n°2017‐15) La décision rendue est susceptible, conformément au droit commun, selon le cas, d’opposition, d’appel, de tierce oppositi on, de pourvoi ou de révision.
+Lepourvoiencassation,commetouteslesvoiesderecoursextr aordinaires,n’estpas suspensifd’exécution.

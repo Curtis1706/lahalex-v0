@@ -1,0 +1,2 @@
+‐ La vente forcée d’immeuble ne peut être poursuivie qu’en ver tu d’un titre exécutoireconstatantunecréanceliquideetexigible.
+Lapoursuitepeutégalementavoirlieuenvertud’untitreexéc utoireparprovision,ou pourunecréanceenespècenonliquidée;maisl’adjudicationn epeutêtreeffectuéeque suruntitredéfinitivementexéc utoireetaprèslaliquidation.

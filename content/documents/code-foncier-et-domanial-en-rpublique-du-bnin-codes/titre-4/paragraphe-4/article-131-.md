@@ -1,0 +1,1 @@
+‐Leprésidentdutribunalfaitenrôlerledossierdansundél aidequinzejourset convoquelespartiesparvoieadministrativeàl’audienceprévu eàceteffet.

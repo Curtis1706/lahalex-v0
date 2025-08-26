@@ -1,0 +1,2 @@
+‐ Dans les six mois de la publication du règlement de copropri été aux livres fonciers,chaquepropriétairepeu tpoursuivreenjusticelarév isiondelarépartitiondes chargessilapartcorrespondantàsonlotestsupérieuredepl usd’unquartousilapart correspondantàcelled’unautrecopropriétaireestinférieure deplusd’unquartdans l’une ou l’autre des catégories de charges à celle qui résulter ait d’une répartition conformeauxdispositionsdel ’article87duprésentCode.
+Sil’actionestreconnuefondée,l etribunalprocèdeàlanouve llerépartitiondescharges.

@@ -1,0 +1,4 @@
+‐ La part du coût des travaux, des charges financières y affér entes et des indemnitésincombantauxcopropr iétairespeutn’êtrepayéeque parannuitéségales.
+Lorsquelesyndicatn’apascontractéd’empruntenvuedelaré alisationdestravaux,les chargesfinancièresduesparlescopropriétairespayantparann uitéssontégalesautaux d’intérêtlégal.
+Toutefois,lessommesviséesauprécédentalinéadeviennentimm édiatementexigibles lorsdelapremièremutationentrevifsdulotdel’intéressém êmesicettemutationest réaliséeparvoied’apportensociété.
+Les dispositions qui précèdent ne sont pas applicables lorsqu’i l s’agit de travaux imposésparlerespectd’obligat ionslégalesouréglementaires.

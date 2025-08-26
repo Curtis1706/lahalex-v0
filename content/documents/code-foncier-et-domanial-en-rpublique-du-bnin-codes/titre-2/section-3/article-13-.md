@@ -1,0 +1,8 @@
+‐Lapropriétépeutsetransme ttreégalementparvented’immeu bleàconstruire.
+Lavented’immeubleàconstruire estuncontratparlequellev endeurs’obligeàédifier unimmeubledansuncertaindélai.Elleseréalisesuivantl’un edesdeuxmodalitésci‐ après:
+· laventecléenmain,ou;
+· laventeàl’étatfuturd’achèvement;
+· laventecléenmainestuneconstructionentièrementréalisée parunpromoteurà
+sesfraisetcédéeensuiteàunacquéreur;
+· laventeàl’étatfuturd’achèvementestuneventedanslaquell eleprixestpayéaufur
+etàmesuredel’exécutiondestravaux.

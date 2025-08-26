@@ -1,0 +1,1 @@
+‐Autermedesopérationsdel’établissementduplanfoncierr ural,copiesdu planparcellaireetduregistredesayantsdroitsonttransmise sàlasectionvillageoisede gestion foncière, à la commission de gestion foncière de la mai rie et au bureau communaldeconfirmationdesdroitsfonciers.

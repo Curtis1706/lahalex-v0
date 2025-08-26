@@ -1,0 +1,2 @@
+‐Lemoyentirédelapresc riptionestd’ordrepublic.
+Ilpeutêtreinvoquéentoutétatdecauseetmêmed’officeparlejuge.

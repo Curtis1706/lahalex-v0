@@ -1,0 +1,1 @@
+‐Letitulairededroitsenregistrésauplanfoncierruraladr esseunerequêtede confirmation de droits fonciers au bureau communal de confirmat ion des droits fonciers,copieenestdonnée aumairedelalocalité.

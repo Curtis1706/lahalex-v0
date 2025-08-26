@@ -1,0 +1,1 @@
+‐ La non confirmation des droits fonciersdufaitd’unrégisseurautermedu délairequisestpunidesmêmes peinesetcondamnationsqu’àl’ articleprécédent.

@@ -1,0 +1,1 @@
+‐Lessubstancesminièresetdecarrièresappartiennentàl’Et atetfontpartiedu domainepublicdontlagestionestsoumiseauprésentCodeeta uxtextesspécifiquesen vigueur.

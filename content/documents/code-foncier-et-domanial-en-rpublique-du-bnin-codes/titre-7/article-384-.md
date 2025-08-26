@@ -1,0 +1,2 @@
+‐ l'Etat prend et met en œuvre toutes les mesures nécessaires en vue de préveniretderéduireefficacementlesconflitsfonciersenmi lieurural.
+Danslecadredelapréventiondesconflitsruraux,l’Etatélab oreetmetenœuvre,en concertation avec l’ensemble des acteurs concernés, les mesures appropriées d’aménagementetdegestionrationnelledel’espacerural.

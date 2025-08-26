@@ -1,0 +1,1 @@
+‐Toutnotaireougreffierquiometsciemmentderequérir,dan sledélaiimparti àceteffet,l’exécutiond’uneformalitédontilalacharge,e stpassibled’uneamendede cinqmillions(5.000.000)FCFAsanspréjudicedesdommageseti ntérêts.

@@ -1,0 +1,1 @@
+‐ Les constructions réalisées sur un terrain appartenant à aut rui, ne peuvent conféreraucundroitdepropriétésurlesol,àl’auteurdestr avaux.

@@ -1,0 +1,1 @@
+‐ Les règles relatives aux servitudes d’utilité publique néces saires à la conservation du patrimoine national, à l’utilisation de certain es ressources et équipements,àlasauvegardede l’environnement,àladéfensen ationale,àlasalubritéet àlasécuritépublique,sontsoumisesauxdispositionsdesarti cles260à264duprésent Code.

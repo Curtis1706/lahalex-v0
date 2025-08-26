@@ -1,0 +1,1 @@
+‐Lesservitudessontdeschargesimposéesàunimmeubleappel éfondsservant au profit d’un autre immeuble appartenant à un propriétaire dis tinct appelé fonds dominant.

@@ -1,0 +1,7 @@
+‐Lesterresruraless’entendentcommecellesdéfiniesàl’art Code.
+Lesterresruralescomprennent:
+· ledomaineprivéruraldel’Etat etdescollectivitésterritori ales; · lesterresruralesappartenantauxpersonnesphysiques,auxcol
+etauxpersonnesmoralesdedroitprivé.
+icle7duprésent lectivitésfamiliales
+Code foncier et domanial
+Bénin!

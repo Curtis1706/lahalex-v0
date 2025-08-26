@@ -1,0 +1,1 @@
+‐Unidentifiantuniquededocumentestassignéàchaquedocum entinscritau registre. Une référence du registre à un document enregistré ou inscrit par son identifiantintègreleditdocumentdansleregistre.

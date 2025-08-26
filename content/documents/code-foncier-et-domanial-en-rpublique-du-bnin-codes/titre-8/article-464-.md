@@ -1,0 +1,3 @@
+‐ Le responsable du cadastre peut corriger un plan ou un livre de renvoi lorsqu’ilestd’avisqueladénominationcadastraleycomprisl anumérotationinscriteau plan,aulivrederenvoiouauregistrefoncieresterronéeou estsourced’erreuroude confusion.
+Ilcertifiecettecorrectionsur leplanoulelivrederenvoi quienfaitl’objet.
+Leresponsableducadastrepeutrégulariserunplanouunlivre derenvoidéposéqui, selonlui,auraitétépréparéi rrégulièrement.Ilrégularisece planoucelivrederenvoiau moyend’uncertificatqu’ilyappose.

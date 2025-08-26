@@ -1,0 +1,2 @@
+‐ (Loi n°2017‐15) Ilestcréédanschaquecommune,unecommissiondegestion foncière. Elle a un rôle consultatif et assiste le maire dans l a gestion des questions foncières.
+Lacommissiondegestionfoncièrecomportedessectionsvillage oises.

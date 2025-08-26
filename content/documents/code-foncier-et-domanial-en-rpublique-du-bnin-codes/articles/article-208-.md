@@ -1,0 +1,1 @@
+‐Lajuridictiondevantlaquellelaventeestpoursuivieestc elleayantplénitude de juridiction dans le ressort territorial où se trouvent les i mmeubles. Cependant, la venteforcéedesimmeublesdépendantd’unemêmeexploitationet situésdansleressort deplusieursjuridictionssepou rsuitdevantl’unequelconqued ecelles‐ci.

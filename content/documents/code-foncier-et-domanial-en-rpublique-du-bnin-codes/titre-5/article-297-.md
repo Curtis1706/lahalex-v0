@@ -1,0 +1,1 @@
+‐l'Agencenationaledudomaineetdufoncierassurelerecens ementetlesuivi despropriétésbâtiesetnonbâtiesdel’Etatettientlesommi erdesbiensimmeublesde l’Etatsituésàl’étranger.

@@ -1,0 +1,1 @@
+‐ Tous les autres faits ou requêtes de constitution, de transm ission, de modificationoud’extinctiondedroitsréels,ainsiquetoutes lessentencesouactions ayant mêmes effets, et aussi toute ordonnance afférent à des dr oits réels doivent indiquer,surlafacedudocumen t,lenuméroduregistrefoncie rrelatifàladiteparcelle.

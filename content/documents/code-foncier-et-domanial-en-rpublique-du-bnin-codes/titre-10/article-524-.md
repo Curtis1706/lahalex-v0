@@ -1,0 +1,2 @@
+‐ l'expulsion forcée est l’éviction permanente ou temporaire d e personnes physiques, de familles ou de communautés de leurs foyers ou des terres qu’elles occupent,contreleurvolontéet sansqu’uneprotectionjuridiq ueouautreappropriée n’aitétéassurée.
+l'expulsionforcée,mêmejustifiée,doitsefairedanslestric trespectdesdispositions pertinentesdelalégislationinternationalerelativeauxdroit sdelapersonnehumaineet enconformitéavecleprincipedeproportionnalité.

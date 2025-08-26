@@ -1,0 +1,1 @@
+‐ l'organe en charge du cadastreetsesBureauxdéconcentréss onttenusde fournirtouteslesinformationsàtouteinstitutionétatiquequ ienfaitlademande.

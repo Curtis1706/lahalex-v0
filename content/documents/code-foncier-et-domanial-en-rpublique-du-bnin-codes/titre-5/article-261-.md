@@ -1,0 +1,1 @@
+‐Lesrèglesapplicablesàlac onsistance,auxmodesdeconsti tutionetdegestion dudomaineimmobilierdel’Etatetdescollectivitésterritoria lesainsiqueletribunal compétent dépendent de la nature juridique des terres et biens immeubles qui les composent.

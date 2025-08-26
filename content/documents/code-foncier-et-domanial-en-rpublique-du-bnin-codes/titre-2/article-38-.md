@@ -1,0 +1,2 @@
+‐Laprescriptionnes’appliquepasauxdomainespublicoupri védel’Etatetdes collectivitésterritoriales.
+Ellenes’appliquepasnonplus auximmeublesmunisdeCertific atdepropriétéfoncière ouauximmeublesirrégulièrementoccupés.

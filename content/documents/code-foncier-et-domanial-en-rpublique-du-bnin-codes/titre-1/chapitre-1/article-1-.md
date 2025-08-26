@@ -1,0 +1,1 @@
+‐ Le présent Code a pour objet de déterminer les règles et les principes fondament aux applicables enmatièr esfoncièreetdomanialeetd erégirl’organisationet lefonctionnementdurégimefonc ieretdomanialenRépubliqued uBénin.

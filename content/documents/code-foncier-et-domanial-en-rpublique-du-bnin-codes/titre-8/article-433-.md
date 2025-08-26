@@ -1,0 +1,1 @@
+‐ Le régisseur principal exerce les fonctions de suivi, de con trôle, d’audit et d’évaluationdesrégisseurscommunaux.IlsiègeàCotonou.

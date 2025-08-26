@@ -1,0 +1,1 @@
+‐Lesacquisitionsimmobilièresetl’aliénationdesbienspar lacommunesont soumises aux conditions prévues par la réglementation applicabl e aux opérations analogueseffectuéesparl’Etat.

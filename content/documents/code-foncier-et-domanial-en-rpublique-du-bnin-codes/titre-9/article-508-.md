@@ -1,0 +1,1 @@
+‐ La signature par le maire, le chef quartier ou de village d’ une convention quelconqueportantsurunimmeub len’ayantfaitl’objetdeconf irmationdedroitfoncier estpassibledelaréclusioncriminelledecinqansàdixanss anspréjudiced’amende.

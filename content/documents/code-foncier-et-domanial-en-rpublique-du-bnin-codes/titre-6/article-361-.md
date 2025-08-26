@@ -1,0 +1,11 @@
+‐l'acquisitiond’uneterreruraledontlasuperficieestcomp riseentredeuxet vingt hectares est conditionnée par l’approbation préalable du conseil communal ou municipal,d’unprojetdemiseenvaleuràdesfinsagricoles, halieutiques,pastorales, forestières, sociales, industrielles, artisanales ou de préserv ation de l’environnement conformémentauxdispositionsdesarticles368etsuivantsdup résentCodeoud’une manièregénéraleliéeàunprojetd’intérêtgénéral.
+Au‐delàdevingtetjusqu’àcenthectares,leprojetdemiseen valeurdéfiniàl’alinéa précédentestapprouvéparl’Agencenationaledudomaineetdu foncieraprèsavisdu conseilcommunaloumunicipal.
+Pourunesuperficiesupérieureàcentetinférieureouégaleà cinqcentshectares,la demanded’acquisitiondeterren ’estrecevablequedanslescon ditionssuivantes:
+· leprojetestapprouvéparleco nseilcommunaloumunicipal;
+· leprojetareçul’avisfavorabl edel’Agencenationaledudoma ineetdufoncier;
+· leprojetareçul’approbationdu Ministreenchargedufoncier .
+Au‐delàdecinqcentshectares,leprojetdemiseenvaleurest approuvépardécretpris enConseildesMinistres.
+Danstouslescas,selonletype,lanatureetl’importancedu projet,l’avisdesMinistres concernésestrequissanspréjud icedel’étuded’impactenviron nemental.
+Toute acquisition de terre devra faire l’objet d’une approbatio n préalable du conseil communal ou municipal du lieu de situation de l’immeuble après avis motivé de la CommissiondeGestionFoncière.
+En tout état de cause, aucune acquisition de terre nepeutexcé derunesuperficiede millehectares.
+Toutprojetdemiseenvaleurdoitassureruneagriculturedura ble,respecterl’équilibre écologique, la préservation de l’environnement et contribuer à garantir la sécurité alimentairedansl’intérêtdesg énérationsprésentesetfutures .

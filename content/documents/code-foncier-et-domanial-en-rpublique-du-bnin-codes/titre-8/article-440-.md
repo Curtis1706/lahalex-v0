@@ -1,0 +1,1 @@
+‐ Les régisseurs de la propriété foncière sont civilement et p énalement responsablesdesfautescommise sdansl’accomplissementdeleur smissions.

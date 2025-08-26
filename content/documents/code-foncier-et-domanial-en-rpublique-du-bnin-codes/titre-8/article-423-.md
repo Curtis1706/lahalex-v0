@@ -1,0 +1,1 @@
+‐Lesattributions,l’organisationetlefonctionnementdel’A gencenationaledu domaineetdufoncieretdesesdémembrementsàsavoirlesBure auxcommunauxdu domaineetdufonciersontfixéspardécretprisenConseildes Ministres.

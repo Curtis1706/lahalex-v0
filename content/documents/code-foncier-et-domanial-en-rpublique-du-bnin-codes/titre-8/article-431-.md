@@ -1,0 +1,3 @@
+‐Lesrégisseursdelapropriétéfoncièresontdesofficiersp ublicschargésdela
+confirmationdesdroitsfonciersetdeshypothèques. Ilsassurentauxtitulairesd’immeubles,lagarantiedesdroits qu’ilspossèdentsurles
+immeublessoumisaurégimeenvigueur.

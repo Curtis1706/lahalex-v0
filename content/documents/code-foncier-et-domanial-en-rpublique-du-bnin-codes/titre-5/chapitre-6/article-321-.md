@@ -1,0 +1,3 @@
+‐Lesforêtsnonappropriées,nondétenuesenvertudedroits établisouacquis selonlacoutume,appartiennentà l’Etatouauxcollectivitést erritoriales.
+Les droits devant s’y exercer sont confirmés au nom de l’Etat o u de la collectivité territorialeconcernéeselonles procédureslégalesenvigueur.
+Lesforêtsdomanialessontcelle sdudomainepublicetdudomai neprivédel’Etatetdes collectivitésterritoriales.

@@ -1,0 +1,2 @@
+‐Lerégisseurdelapropriétéfoncièreesttenudeseconform er,dansl’exercice desesfonctions,àtouteslesdispositionsduprésentCode,so uspeinedecondamnation à une amende de un million (1.000.000) à deux millions (2.000.0 00) FCFA sans préjudicedesdommagesetintérêtsenverslesparties.
+Encasderécidive,lasanctionseraladestitution.

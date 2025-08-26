@@ -1,0 +1,4 @@
+‐Toutplandoitêtrefait sursupportinformatique.
+Leplancadastralestmisàjourrégulièrementaumoyendelac ompilationdetoutesles données relatives à tout plan de rénovation, tout plan révisé, ainsi que toute modificationsubséquentedecesplans.Cettecompilationestré putéeêtreundoublede l’ensembledesplansvisés.
+Leresponsableducadastrepeutremplaceroureconstituerento talitéouenpartietout planoulivrederenvoifaisantpartiedesesarchivesafind’e nassurerlaconservationet d’enfavoriserlaconsultation.
+Un décret pris en Conseil des Ministres détermine le moyen à ut iliser pour le remplacement ou la reconstitutio n du plan ou du livre de renvoi et la manière de procéderàceremplacementouàcettereconstitutionafind’ass urerl’authenticitédu nouveaudocument.

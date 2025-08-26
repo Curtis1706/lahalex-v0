@@ -1,0 +1,4 @@
+‐Envuedelamanifestationdelavérité,lejugepeut,d’off iceouàlademande de l’une des parties, en tout état de cause, ordonner toutes me sures d’instruction légalementadmissibles.
+Ilpeutexécuterenpersonnelesditesmesuresoumandaterunex pertàcettefin.Les fraisnécessitésparlesmesures d’instructionsont,àraisond emoitié,misàlachargedes parties.
+En milieu rural, le juge doit privilégier la descente sur l’imm euble litigieux à toutes autresmesuresd’instruction.Lejugementavantdiredroitqui ordonnecetransporten fixeladate,l’heureetlelieuderendez‐vousquidoitêtre, danslamesuredupossible,un lieupublic.
+Siàladateprévue,ilsurvientunempêchement,legreffierde chambreenavise,sans délai,lesparties.Lejugerequiert,àtoutesfinsutiles,l’a ssistancedelaforcepublique.

@@ -1,0 +1,1 @@
+‐Ladélivrancedetoutepièce administrativenonprévueparl eprésentCodeest puniedesmêmespeinesprévuesàl’articleprécédent.

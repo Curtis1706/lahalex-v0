@@ -1,0 +1,1 @@
+‐ (Loi n°2017‐15) Lesmentionsdutitrefonciersontappuyéesetcomplétéespar l’adjonctiondebordereauxanalytiques,établisparlerégisseu rdelapropriétéfoncière, depiècesetd’actesproduitscommejustificatifsdesdroitsré elspubliés.

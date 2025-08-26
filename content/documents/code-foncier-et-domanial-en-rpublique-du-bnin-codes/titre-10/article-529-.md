@@ -1,0 +1,2 @@
+‐Sil’exécutiond’uneordonnance,d’unjugementoud’unarrêt doitentraîner des démolitions massives d’habita tions construites sur des parc elles d’une superficie cumuléedeplusdecinqmillemèt rescarré,l’Etatprocèdeàl’ expropriationpourcause d’utilitépubliquedesparcellesconcernéesaprèsunjusteetp réalabledédommagement despropriétairesdesditesparcelles.
+Acettefin,lefondsdedédommagementprévuàl’article538de laprésenteloipeutêtre utilisé.

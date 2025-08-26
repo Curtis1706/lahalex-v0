@@ -1,0 +1,8 @@
+‐Toutrequérantdeconfirmatio ndedroitsautresqueceuxenr egistrésauPlan FoncierRural,adresseaurégisseurdelapropriétéfoncière,q uiluiendonnerécépissé, undossierdeconfirmationdedroitsfoncierscomprenant:
+· unefichededemandedeconfirmationdedroitsfoncierssurl’i mmeuble,portantles
+mentionssuivantes:nom,prénoms,qualitéetréférencesdela parcelleoùilréside s’il en existe ou à défaut la situation géographique de son dom icile où seront effectuésparlasuitetoutesno tifications,significationset actesdeprocéduredivers nécessitésparl’applicationdesdispositionsduprésentCode;
+· un simple plan ou un levé topographique ainsi que la descriptio n de l’immeuble
+précisant sa situation géographique, sa superficie, ses limites , les constructions, ouvragesetplantationss’ilenexiste;
+· lesactesjustificatifsdeprésomptiondedroitdepropriété.50 afichedelademande
+estsignéeparlerequérantouunmandataire.Sicelui‐cioule mandatairenepeutou nesaitsigner,ilapposesonempreintedigitaleaubasdelad éclaration.
+Dans le cas des droits fonciers constatés et enregistrés au Pla n Foncier Rural, le requérantproduitunepièced’identitéouunextraitd’actede naissanceetunefichede demandedeconfirmationdedro itsfoncierssurl’immeuble.

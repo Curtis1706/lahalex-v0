@@ -1,0 +1,2 @@
+‐ Les gîtes naturels de substances minières et de carrière con tenues dans le sous‐sol ou existant en surface sont, sur le territoire de la R épublique du Bénin, la propriété de l’Etat et ne peuvent être, sous réserve du présent Code et des textes spécifiquesenvigueur,suscepti blesd’aucuneformed’appropria tionprivée.
+Toutefois,letitulairedetitreminierd’exploitationacquiert lapropriétédessubstances minéralesqu’ilextrait.

@@ -1,0 +1,1 @@
+‐ La commune est tenue de réserver, d’acquérir et d’entretenir les terrains consacrésauxinhumations.Lesmodalitésdeleurétablissement, deleurtranslationet deleurchangementd’affectation sontfixéesparlesloisetrè glementsenvigueur. Section 4 : De la gestion du domaine privé immobilier de l’Etat et des collectivités territoriales

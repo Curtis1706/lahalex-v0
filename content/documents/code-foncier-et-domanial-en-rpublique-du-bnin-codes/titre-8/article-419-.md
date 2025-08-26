@@ -1,0 +1,2 @@
+‐ l'Agence nationale du domaine et du foncier se dote d’un pro gramme pluriannuelquidéfinitsesactions,lesmodalitésetlesmoyen sdeleurmiseenœuvre.
+Leprogrammepluriannuelindiquéàl’alinéaprécédentdoitteni rcomptedelapolitique de l’Etat en matière domaniale et foncière, des orientations st ratégiques définiespar l’autoritéadministrativedetut elleetdesprioritésenlamat ière.

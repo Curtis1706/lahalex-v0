@@ -1,0 +1,3 @@
+‐Lescréancesdetoutenaturedusyndicatàl’encontredecha quecopropriétaire sont,qu’ils’agissedeprovisionoudepaiementdéfinitif,gar antiesparunehypothèque sursonlot.
+l'hypothèquepeutêtreinscriteaprèsmiseendemeurerestéein fructueuse.Lesyndica qualitépourfaireinscrirecettehypothèqueauprofitdusyndi cat,ilpeutvalablement consentir la mainlevée et requérir la radiation en cas d’extinc tion de la dette sans l’interventiondel’assembléegénérale.
+Lecopropriétairedéfaillantpeut,sousconditiond’uneoffred epaiementsuffisanteou d’une garantie équivalente, demander mainlevée totale ou partie lle au président du tribunalstatuantcommeenmatièrederéféré.

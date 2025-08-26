@@ -1,0 +1,2 @@
+‐ Le plan foncier rural a pour but d’assurer la sécurité des d roits réels immobiliers, plus spécialement ceux établis ou acquis selon la coutume ou selon la législation en vigueur, afin d’encourager des investissements à long terme et une meilleureutilisationdesterres.
+Leplanfoncierruralpeutêtreutilisécommedocumentcartogra phiquedebaselorsdes interventionspubliquesvisant àstructurerl’espacerural.

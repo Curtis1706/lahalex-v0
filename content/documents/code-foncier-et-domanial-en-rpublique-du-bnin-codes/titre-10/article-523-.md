@@ -1,0 +1,2 @@
+‐l'expulsionillégaleouarbitr aireestprohibéeenRépubliqu eduBénin.
+l'Etatdoit,conformémentauxco nventionsinternationales,pren drelesmesurestendant à prévenir les expulsionsforcéesetlesdémolitionsplanifiées àlasuited’injonctions faitesparlescoursettribunaux.

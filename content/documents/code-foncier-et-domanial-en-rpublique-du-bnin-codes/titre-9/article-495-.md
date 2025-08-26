@@ -1,0 +1,1 @@
+‐ Tout régisseur, sous l’autorité duquel survient l’altération ou l’endommagementdeslivresfonciersoudetoutautredocumento uregistredontilala garde,estpunidelaréclusioncriminelleàtempsdedixansà vingtans,sanspréjudice despoursuitespénalescontrese scommettantséventuellementfa utifs.

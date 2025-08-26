@@ -1,0 +1,1 @@
+‐Toutlotissementeffectuésurundomainenedisposantpasde Certificatde propriétéfoncièreestpunid’uneamendedecinqmillions(5.00 0.000)FCFAetd’une peined’emprisonnementallantdedeuxansàcinqansoudel’un eoul’autredesdeux peinesseulement.

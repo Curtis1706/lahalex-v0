@@ -1,0 +1,2 @@
+‐Unrèglementconventionneldecopropriétéincluantounonl’ étatdescriptifde division,détermineladestinationdespartiestantprivatives quecommunesainsique les conditions de leur jouissance; il fixe également sous rése rve des dispositions du présentCodelesrèglesrelativesàl’administrationdecespar tiescommunes.
+Le règlement de copropriété ne peut imposer aucune restriction aux droits des copropriétaires en dehors de celles qui seraient justifiées par la destination de l’immeuble,tellequ’elleestdéfinieauxactescréantlacopropriété,parsescaractèresou sasituation.

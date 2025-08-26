@@ -1,0 +1,1 @@
+‐Lesterresruralesacquisesenpleinepropriétéoudétenues danslesformes admisesparlacoutumedontlamiseenvaleurn’apasétéassur éedanslesconditions fixées aux articles suivants peuvent faire l’objet d’une mise e n valeur agricole ou pastoralepartoutepersonnephysiqueoumoralequienfaitla demande,commeilest prescritàl’article372duprésentCode.

@@ -1,0 +1,2 @@
+‐Constituentunedestructiontotaleoupartiellederegistres fonciersruraux,les altérationsphysiquescauséesintentionnellementdanslebutde rendreimpossibleleur utilisationouexploitation.
+Ces faits sont punis d’une peine d’emprisonnement de deux ans à cinq ans et d’une amendededeuxmillions(2. 000.000)àcinqmillions(5.000.000) FCFAoudel’unedeces deuxpeinesseulement,sanspréju dicedesdommagesetintérêts.

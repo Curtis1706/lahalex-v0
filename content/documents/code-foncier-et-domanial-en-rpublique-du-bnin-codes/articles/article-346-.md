@@ -1,0 +1,1 @@
+11.‐ (Loi n°2017‐15) Aucune autorisation d’occupation des terres et biens immobiliers de la bande de sécurité frontalière ne peut être ac cordée à des non nationauxenzonerurale.

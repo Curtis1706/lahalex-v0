@@ -1,0 +1,1 @@
+‐Pourdécompterledélaideprescription,ilesttenucompte delapériodedesa proprepossessionetdecelledesonauteur.

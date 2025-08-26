@@ -1,0 +1,1 @@
+‐l'affirmationduprocès‐verbal doitintervenirauplustard, dansledélaid’un mois à compter de la transmission au maire par les intéressés d u procès‐verbal de règlementamiable.

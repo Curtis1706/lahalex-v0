@@ -1,0 +1,2 @@
+‐Danslecasoù,parsuitedel’irrégularitédelademande,o udel’insuffisance des titres, le régisseur refuse la confirmation de droits fonci ers d’un immeuble ou l’inscriptiond’undroitréel,sa décisionestsusceptibleder ecoursdevantleprésidentdu tribunal de 1 instance du lieu de situation de l’immeubl e qui statue par voie d’ordonnancemotivéedansundélaimaximumdequinzejoursàco mpterdeladatede lasaisine.Cetteordonnancen’estsusceptiblequed’unrecours encassation.
+Larequêteadresséeauprésidentdutribunalestappuyéedesac tesrestituésetdela déclarationsouscriteparlerégisseur.

@@ -1,0 +1,3 @@
+‐ Le juge peut exceptionnellement recourir au témoignage. Il e n apprécie souverainementlaforceprobante.
+Il peut également établir le droit de propriété à partir de pré somptions résultant de l’occupationpaisibledelongue durée,lapremièreoccupation, lepartagedesproduits agricoles ou de chasse, la culture d’essences pérennes ou tous indices matérialisant l’emprisedel’unedespart iessurl’immeublequerellé.
+Toutefois, lorsque les essences pérennes ou indices ci‐dessus v isés résultent d’une convention,delasimpletoléranceoudel’hospitalité;ilsne peuventpasconstituerun modedepreuvedudroitdepropriété.

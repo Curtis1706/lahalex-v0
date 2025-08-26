@@ -1,0 +1,1 @@
+‐ La délivrance de plusieurs conventions de vente ou d’attesta tions de recasement à différentes personnes sur une même parcelle est sa nctionnée d’une amendedecinqcentmille(500.000)FCFAàunmillion(1.000.00 0)FCFAetd’unepeine d’emprisonnementallantdeunanàcinqans.

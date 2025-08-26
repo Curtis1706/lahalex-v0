@@ -1,0 +1,5 @@
+‐ l'ordonnance d’expropriation et toute décision rendue en mat ière d’expropriationsontexécutoires nonobstanttoutevoiederecou rs.Ellesnepeuventêtre attaquéesqueparvoiedecassation.
+Le recours en cassation a lieu dans les trente jours à partir d e la notification de l’ordonnanceycomprisledélaidedistance,pardéclarationau greffedutribunalquia statué.
+Ilestnotifiéparcedernierdanscemêmedélaidetrentejour sàlapartieadverse,soità domicileréelouàdomicileélu, ouaumaires’ils’agitdetra vauxcommunaux.
+Lesdécisionsrenduesenpremièreinstancenesontpassuscepti blesd’opposition.Le recoursencassationn’estpassuspensif.
+Danslaquinzainequisuitlanotificationdurecours,lespièc essontadresséesàlacour suprêmequistatuedansledélaid’unmoisàdaterdeleurréce ption.

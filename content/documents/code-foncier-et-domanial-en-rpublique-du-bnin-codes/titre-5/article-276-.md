@@ -1,0 +1,3 @@
+‐Ledéclassementdudomainepublicdel’Etatestprononcéapr èsenquêtede commodo et incommodo, par arrêté du Ministre en charge des doma ines sur autorisationduConseildesMinistres.
+Le déclassement du domaine public de la collectivité territoria le est prononcé après enquêtedecommodoetincommodo,pararrêtédumairesuravisf avorableduconseil communaloumunicipal.
+Lesportionsdudomainepublicdéclasséessontincorporéesaud omaineprivédel’Etat oudescollectivitésterritorialesetsoumisesauxconditionso rdinairesdegestion.

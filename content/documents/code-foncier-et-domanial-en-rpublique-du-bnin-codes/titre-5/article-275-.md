@@ -1,0 +1,1 @@
+‐Lasortied’unbienimmeubledudomainepublicdel’Etatet descollectivités territorialesintervientdanslesmêmesformesetprocéduresqu eleurdélimitationou leurclassement.

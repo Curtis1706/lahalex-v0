@@ -1,0 +1,2 @@
+‐ Dès la prise de l’acte déclaratif d’utilité publique, l’auto rité compétente la notifiesansdélaiauxpropriétairesetauxtitulairesdedroit savecoffred’indemnité.
+Lesindemnitéspeuventêtrepréalablementconsignéesautrésor public.

@@ -1,0 +1,1 @@
+‐l'atteinteaudroitdepropriétéalieuparlasaisieimmobi lière,partouteautre voielégaleetlorsquel’intérêtgénérall’exige.

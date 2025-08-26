@@ -1,0 +1,1 @@
+‐Lespartiescommunesetlesdroitsquileursontaccessoires nepeuventfaire l’objet séparément des parties privatives, d’une action en part age ni d’une licitation forcée.

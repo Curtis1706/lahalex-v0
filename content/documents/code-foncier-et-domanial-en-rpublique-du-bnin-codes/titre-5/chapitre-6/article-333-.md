@@ -1,0 +1,1 @@
+‐Lafaunesauvageestconstitu éedetouslesanimauxenliber téabsoluevivant sur les terres domaniales de l’Etat et des collectivités territ oriales et les terres des personnesphysiquesoumoraleso udescollectivitésfamiliales.

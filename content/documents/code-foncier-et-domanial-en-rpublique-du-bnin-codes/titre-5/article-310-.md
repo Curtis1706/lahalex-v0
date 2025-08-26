@@ -1,0 +1,2 @@
+‐l'administrationseréserveledroitdereprendrelesterrai nsconcédésàtitre provisoire qui seraient nécessaires aux services publics de l’E tat et à l’exécution des travauxd’intérêtpublic.
+Lesmodalitésetlesconditionsdecettereprisesontfixéespa rdécretprisenConseildes Ministres.

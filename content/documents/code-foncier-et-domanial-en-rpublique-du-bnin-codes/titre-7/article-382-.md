@@ -1,0 +1,2 @@
+‐l'aveujudiciairefaitpleinefoi.
+Parcontre,l’aveuextra‐judiciai reestlaisséàlasouveraine appréciationdujuge.Ilenest demêmeduserment.

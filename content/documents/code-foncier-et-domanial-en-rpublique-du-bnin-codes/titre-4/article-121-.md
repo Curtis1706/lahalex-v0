@@ -1,0 +1,15 @@
+‐Lebornageesteffectué,àladatefixée,parl’ingénieur‐gé omètreagréédésigné àceteffet,enprésencedeto uteslespersonnesconvoquées.
+Code foncier et domanial 26
+Bénin!
+Encasd’absenced’unpropriétairelimitrophe,l’ingénieur‐géom endresseprocès‐verbalsignésipossibledetouteslespersonn estreportéeàunedatenedevantexcéderquinzejours.Toutes l’articleprécédentsontàn ouveaudûmentconvoquées.
+Aladatefixée,l’ingénieur‐géomètreagrééprocèdeaubornage l’absenced’uneoudeplusieurspersonnesinvitées.
+ètreagrééleconstateet esprésentes.l'opération lespersonnesviséesà
+contradictoire,mêmeen
+Code foncier et domanial
+Bénin!
+Cebornagedevrasefaire,aucasoùàlapremièreinvitationt ouslesvoisinsn’ontpas répondu,enprésencededeuxaumoinsdesvoisinsoumitoyensdel’immeubleetdu chef du service en charge des affaires foncières ou domaniales de la mairie dans le ressortduquelsetrouvel’immeuble.
+Le point de départ du délai d’exécution des formalités est le p remier jour ouvrable suivantladatededépôtdudossierparlerequérantàlaconse rvationfoncière.
+Cetteopérationdebornagecomporteexpressémentlareconnaissa ncedeslimites,par bornes ou clôtures, indiquées au plan joint à la réquisition et à la constatation de l’acquiescementdonnéparlesintéressésàlaconsécrationdéfi nitivedesditeslimites.
+Siaucunecontestationn’estsoulevéeentrelerequérantetles propriétaireslimitrophes, l’ingénieur‐géomètre agréé procède au bornage définitif et en d resse procès‐verbal signépartouteslespartiescon voquées,ycomprislerequérant ousonreprésentant.
+Les limitrophes qui ne peuvent signer apposent leurs empreintes digitales sur les procès‐verbaux.
+Encasderefusdesignatureduprocès‐verbalparunlimitrophe quin’aélevéaucune contestation,leprocès‐verbalsignédesautresparticipantsde meurevalable.

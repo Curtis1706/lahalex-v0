@@ -1,0 +1,2 @@
+‐ Lorsqu’une borne ou un signal est établi à demeure sur une p ropriété particulière,silacessionoulocationamiableduterrainnéce ssaireàsonemplacement ousaconservationnepeuventêtreobtenues,ilseraprocédéà sonexpropriationpour caused’utilitépublique.
+La destruction, la détérioration ou le déplacement des bornes o u des signaux seront punisconformémentauxtextesenvigueur.

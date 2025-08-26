@@ -1,0 +1,1 @@
+‐l'accessionestl’extensionlégaledudroitdepropriétésur unechose,àtoutce qu’elleproduitetàtoutcequis’unitous’incorporeàelle.

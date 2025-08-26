@@ -1,0 +1,1 @@
+3.‐ (Loi n°2017‐15) Sontréputésvalables,touslestitresfonciersdélivrésaprès l’entrée en vigueur de la loi n°2013‐01 du 14 août 2013 portant Code foncier et domanialenRépubliqueduBénin etavantl’entréeenvigueurde laprésenteloi.

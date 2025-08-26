@@ -1,0 +1,15 @@
+{
+  "id": "article-11-",
+  "title": "Article 11 :",
+  "numero": "11 ",
+  "document": "code-foncier-domanial-benin",
+  "path": [
+    "titre-2",
+    "section-2"
+  ],
+  "navigation": {
+    "parent": "section-2",
+    "previous": "article-10-",
+    "next": "article-12-"
+  }
+}

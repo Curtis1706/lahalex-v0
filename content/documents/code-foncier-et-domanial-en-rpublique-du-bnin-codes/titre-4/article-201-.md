@@ -1,0 +1,1 @@
+‐ (Loi n°2017‐15) Lacopiedutitrefoncierestdélivréeàlafindesopérations d’établissementduplanfoncierruralàlademandedurequérant dontlenomfigureau registredesayantsdroit.

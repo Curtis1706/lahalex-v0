@@ -1,0 +1,1 @@
+‐Larescisionpourcausedelé sionn’estpasapplicableauxé changes.

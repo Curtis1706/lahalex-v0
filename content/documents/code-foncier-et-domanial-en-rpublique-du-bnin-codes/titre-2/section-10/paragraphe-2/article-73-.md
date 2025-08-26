@@ -1,0 +1,1 @@
+‐Lepreneuresttenudemaintenirlesconstructionsenbonét atd’entretienetde réparationdetoutenature.Ilréponddel’incendiedesbâtimen tsexistantsetdeceux qu’ilaédifiés.Ilpeutlesdémolirenvuedelesreconstruire .

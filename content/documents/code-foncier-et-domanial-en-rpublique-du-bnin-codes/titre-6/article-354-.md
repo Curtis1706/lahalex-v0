@@ -1,0 +1,10 @@
+‐Ilpeutêtreconcédédesdroitsd’usageàdesfinsd’exploit ationenfaire‐valoir indirect,pardesdétenteursdedroitscoutumiersauprofitde personnesquienfontla demande.
+Ces droits, constatés ou formalisés par écrit, sont enregistrés auprès de la section villageoisedegestionfoncière.
+Copiedesactesdeformalisationestadresséeàlacommissiond egestionfoncièredela communeetauBureaulocaldel’o rganeenchargedelaconfirma tiondesdroitsfonciers.
+Toutlocataired’unfondsdeterredemanièrecontinueetpaisi blependantaumoinsdix ansnepeutsevoirretirerlat errequ’ilexploite,sansmotif valable.
+Lemotifvalables’entend:
+· dunon‐respectdesclausescontr actuellesparlelocataire;
+· lareprisedufondsdeterreenvuedel’exploitationparlepr opriétaireouundeses
+ayants‐droit.
+Toutbénéficiaired’uncontratdelocationoud’unbailsurun fondsdeterrenepeutse voirretirersansmotifvalable, laterrequ’ilexploiteavant échéance.
+Encasd’évictionnonfondée,l’utilisateurrecevrauneindemni téd’évictionfixéeparle jugecompétent.

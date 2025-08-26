@@ -1,0 +1,2 @@
+‐ l'emphytéote doit acquitter la redevance dans les conditions prévues par le bail. Il ne peut en demander la réduction pour cause de perte p artielle du bien immeuble,nipourcausedestérilitéoudeprivationdetouten atureàlasuitedecas fortuit.
+Ilnepeutselibérerdelaredevancenisesoustraireàl’exéc utiondubailendélaissantle fonds.

@@ -1,0 +1,1 @@
+‐Chaquecopropriétairedisposedespartiesprivativescompris esdanssonlot;il useetjouitlibrementdespartiesprivativesetdespartiesco mmunessouslacondition de ne porter atteinte ni aux droits des autres copropriétaires ni à la destination de l’immeuble.

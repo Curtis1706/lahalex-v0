@@ -1,0 +1,2 @@
+‐ Les régisseurs communaux exerc ent leurs responsabilités de m anière autonome.
+Toutefois, ils dépendent hiérarchiquement du régisseur principa l dans l’exercice de leurscompétencesrespectives,c onformémentàl’articleprécéde nt.

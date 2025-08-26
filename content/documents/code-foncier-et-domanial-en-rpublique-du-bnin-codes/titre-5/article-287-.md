@@ -1,0 +1,2 @@
+‐Ledomaineprivéimmobilierd el’Etatetdescollectivitést erritorialessedivise
+endomaineaffectéetdomainenonaffecté.

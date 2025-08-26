@@ -1,0 +1,1 @@
+‐Toutimmeubleouuneportiond’immeubledudomainepublicde l’Etatoudes collectivitésterritorialesdéclassénepeutfairel’objetdec oncessionoudecessionàune personneprivéequedansu nbutd’intérêtgénéral.

@@ -1,0 +1,2 @@
+‐l'usufruitierdoituserd’un bienimmobilierdansl’étatoù ill’areçuetsuivantsa destination;ildoitobserverl esrèglesdebonneadministrati on.
+Ildoitveilleràlaconservationdelachoseenbonpèredefa mille.Ilréponddelaperte delachosesurvenuemêmeparsuited’unecauseétrangère,s’il atardéàlarestituerà sonpropriétaireaprèsextinctiondel’usufruit.

@@ -1,0 +1,4 @@
+‐Lorsdelamutationàtitreonéreuxd’unlotetsilevendeu rn’apasprésentéau notaireuncertificatdusyndicatayantmoinsd’unmoisdedate ,attestantqu’ilestlibre detouteobligationàl’égarddusyndicat,avisdelamutation doitêtredonnéausyndic de l’immeuble par lettre recommandée avec avis de réception à l a diligence de l’acquéreur.
+Avantl’expirationd’undélaidequinzejoursàcompterdelar éceptiondecetavis,le syndicpeutformeraudomicileélu,parexploitd’huissier,opp ositionauversementdes fondspourobtenirlepaiement dessommesduesparl’ancienpro priétaire.
+Cette opposition à peine de nullité contient l’élection de domi cile dans le ressort du tribunaldepremièreinstancedelasituationdel’immeuble,la mentiondumontantet descausesdelacréance.Lese ffetsdel’oppositionsontlimit ésaumontantainsiénoncé.
+Aucun paiement ou transfert amiable ou judiciaire de tout ou pa rtie du prix ne sera opposableausyndicayantfait oppositiondansleditdélai.

@@ -1,0 +1,1 @@
+‐Entantqu’établissementpublicàcaractèrespécifique,tout eslesdispositions delaloin°94‐009du28juillet1994portantorganisationetf onctionnementdesoffices à caractère social, culturel et scientifique, non contraires au présent Code lui sont appliquées.

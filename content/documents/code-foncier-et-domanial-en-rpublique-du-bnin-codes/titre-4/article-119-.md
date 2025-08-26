@@ -1,0 +1,1 @@
+‐ Le régisseur de la propriété foncière fait procéder contradi ctoirement au bornage de l’immeuble objet de confirmation de droits fonciers par un ingénieur‐ géomètre agréé suivant les normes et spécifications techniques en vigueur après expirationdudélaidepublicité.

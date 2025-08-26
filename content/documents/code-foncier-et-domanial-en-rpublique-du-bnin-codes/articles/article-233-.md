@@ -1,0 +1,2 @@
+‐Lesdroitsdescréanciersrégulièrementinscritssurlesimm eublesexpropriés sontreportéssurlesindemnités,entenantcomptedurangdep référencequileurest reconnuparlestextesquilesrégissent.
+Si les immeubles expropriés n’ont pas reçu la destination prévu e, ou ont cessé de recevoir cette destination, les anciens propriétaires ou leurs ayantsdroit peuvent en demander la rétrocession dans un délai de dix ans à compter de l’ordonnance d’expropriation,àmoinsquene soitrequiseunenouvelledécla rationd’utilitépublique.

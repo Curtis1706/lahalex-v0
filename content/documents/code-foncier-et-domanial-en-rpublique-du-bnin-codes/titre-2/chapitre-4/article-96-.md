@@ -1,0 +1,1 @@
+‐Lesyndicétantseulresponsabledesagestion,seulel’asse mbléegénéralepeut autoriseràlamajoritéprévueà l’article102duprésentCode, unedélégationdepouvoir, àunefindéterminée.

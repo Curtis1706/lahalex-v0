@@ -1,0 +1,1 @@
+‐Lemaireconvoquesansdélailespartiesetleurstémoins.A ssistéduchefdu serviceenchargedesaffairesdomanialesetfoncières,ilproc èdeàlalectureet,s’ilya lieu,àlatraductionduprocès‐ verbalsurlequellespartiesd onnentleurconsentement.

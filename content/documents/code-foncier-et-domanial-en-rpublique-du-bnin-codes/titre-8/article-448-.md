@@ -1,0 +1,2 @@
+‐Lorsquelerégisseurestrespo nsable,encequiconcerneun ouplusieursdroits inscrits, d’une omission ou d’une inexactitude dans les copies des titres ou dans les certificatsd’inscription,l’immeubleimmatriculédoitenêtre affranchioulibéré.Dansce cas, le régisseur est responsable des dommages causés par ladit e omission ou inexactitude.
+Néanmoins,cettedispositionnepréjudiciepasaudroitdescré anciershypothécairesde sefairecolloquer,suivant l’ordrequileurappartient.

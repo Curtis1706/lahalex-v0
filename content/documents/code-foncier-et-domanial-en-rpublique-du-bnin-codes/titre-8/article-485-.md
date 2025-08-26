@@ -1,0 +1,2 @@
+‐Tousleséquipementsdetraitementdesdonnéesnumériques,l esréseaux,les programmes ainsi que les divers appareillages, doivent être mai ntenus dans un environnementcontrôléconforméme ntauxnormesindustriellesex igées.
+Touscessystèmesdoiventêtreprotégéscontrelesvirus,lesm essagesnonsollicités,les piratesdeligneettoutesautresintrusionsnonautorisées.

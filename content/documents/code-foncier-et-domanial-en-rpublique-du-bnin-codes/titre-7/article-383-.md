@@ -1,0 +1,2 @@
+‐Lesactesadministratifsdéli vréslorsouàl’issuedesopér ationsdelotissement ouderemembrement,neconstituentdesmodesdepreuveques’il ssontsoutenuspar desconventions,titresoufaitsantérieursauxditesopérations .
+Lorsque deux ou plusieurs actes administratifs délivrés à diffé rentes personnes se contredisent,seulfaitfoi,l’a cteportéparlaconvention,ti treoufaitsleplusancien.

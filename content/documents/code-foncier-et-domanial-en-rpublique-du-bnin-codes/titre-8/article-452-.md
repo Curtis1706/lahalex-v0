@@ -1,0 +1,2 @@
+‐ Il est institué le cadastre pour la gestion de l’ensemble de s documents administratifsettechniquesdéc rivantlapropriétéfoncière.
+Lecadastreconstitueungarantessentieldelapropriétéfonci ère.Deparsanature,ilne peutenleverniconférerundroitdepropriété.

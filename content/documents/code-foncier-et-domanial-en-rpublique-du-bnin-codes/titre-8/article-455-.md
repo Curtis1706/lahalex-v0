@@ -1,0 +1,2 @@
+‐Lecadastreestinstalléauseindel’organeenchargedela confirmationde
+droitsfonciers.Ilestorganisé àl’échellenationaleetcommu nale.

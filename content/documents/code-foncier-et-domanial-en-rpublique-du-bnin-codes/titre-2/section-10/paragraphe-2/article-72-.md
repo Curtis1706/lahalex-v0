@@ -1,0 +1,1 @@
+‐Lebailleurdevientpropriétaire,enfindebail,desconstr uctionsédifiéesparle preneuretprofitedesaméliorat ions,s’iln’enestautrementc onvenu.

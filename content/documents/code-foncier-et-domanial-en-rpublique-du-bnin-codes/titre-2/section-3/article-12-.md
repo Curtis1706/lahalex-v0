@@ -1,0 +1,3 @@
+‐Lapropriétépeutsetransme ttreparventeous’acquérirpar achat.
+Lavented’immeubleestuneconventionparlaquellelevendeur transfèreous’engageà transférerunbienimmeubleàl’a cheteurmoyennantpaiementd’u nprixconvenu.
+l'achatd’immeubleestuneconve ntionparlaquellel’acheteura cquiertous’engageà acquérirunbienimmeubleauvend eurmoyennantpaiementd’unpr ixconvenu.

@@ -1,0 +1,3 @@
+‐ (Loi n°2017‐15) Aucasoùunimmeublemunid’untitrefoncierestlapropriété deplusieurscopropriétaires,chacunpeutobteniruntitrefonc ierdistinctpoursonlot.A ceteffet,uncahierdeschargesouunrèglementdecopropriété estétabliconformément auxdispositionsdesarticles75etsuivantsduprésentCode.
+Cecahierdeschargesestsoumisaurégisseuravecleplandel otissementetleplande chaquelot.
+Celui‐ciétablitdestitresfonciersdistinctsàchaquecopropr iétaireavecdesnuméros ayant comme base commune le titre mère, mais qui se différencie par des lettres alphabétiques.Letitremèreres teaffectéauxpartiescommunes .

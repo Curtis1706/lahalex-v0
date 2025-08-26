@@ -1,0 +1,3 @@
+‐LesMinistresetlesmairesaccordentpararrêté,lesautori sationsd’occuper temporairementledomainepublic etlesdérogationsauxservitu desdepassage.
+Pourunmotifd’utilitépublique,cesautorisationsetdérogati onssontrévocablessans indemnitéàtoutmoment.
+Lesmodalitésd’occupationdudomainepublicsontfixéespardé cretprisenConseildes Ministres.

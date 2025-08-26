@@ -1,0 +1,1 @@
+‐ Toute aliénation, exploitation, occupation ou investissement fait sur un immeublefrappéd’indisponibilité estpassibled’unepeined’em prisonnementd’unanà cinqans.

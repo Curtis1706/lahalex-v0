@@ -1,0 +1,1 @@
+‐Lespersonnesphysiq uesetlespersonnesmoralesdedroitpr ivépeuventjouir dudomainepublicsuivantlesconditionsspécifiquesàchaquen aturedebien,l’usage auquelilssontdestinésetce, dansleslimitesdéterminéespa rvoieréglementaire.

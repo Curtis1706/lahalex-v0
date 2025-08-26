@@ -1,0 +1,3 @@
+‐ La convention revêtue de la formule d’affirmation, comme cel le qui en est dépourvue,constituentdesimple présomptiondepropriétéquip eutêtrecombattuepar tousmoyens.
+Néanmoins, lorsque le conflit porte sur la date, la formule de l’affirmation confère primautéàlaconventionaffirmée.
+Lorsquedeuxconventionssontré gulièrementaffirméesparunem êmeadministration surunmêmeimmeuble,laconvent ionlaplusanciennefaitfoi.

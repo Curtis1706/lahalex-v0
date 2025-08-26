@@ -1,0 +1,3 @@
+‐ l'inscription de l’hypothèque conférée sur un droit réel pré existant notammentl’usufruit,l’emphytéoseouledroitdesuperficiees tfaiteégalement,dansla formeprévueàl’article171dup résentCode,surletitredub ien‐fondsgrevé.
+Un duplicata supplémentaire du bordereau analytique est annexé au certificat d’inscriptiondétenuparleti tulairedudroitréelgrevé.
+Lamentionsommaireaufeuilletfoncierestaccompagnéed’uner éférenceàlamention antérieurequiconstatelachargegrevantlapropriété.Lamême mentionsommaireest reproduiteenformed’annotationmarginale,tantsurlecertifi catd’inscriptiondéjàvisé quesurlesduplicatadubordereauanalytiquedel’actequiopèrelegrèvement.

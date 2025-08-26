@@ -1,0 +1,1 @@
+‐Leslitigesportantsurlesactesdélivrésparl’administrat ionpubliqueouses démembrementssontdelacompé tencedujugeadministratif.

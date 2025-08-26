@@ -1,0 +1,2 @@
+‐ Le juge en charge du dossier met les opposants en demeure de lui faire parvenirleursobservationsdansundélaidequinzejours.Sid anscedélai,lesintéressés neproduisentpasleursobservat ions,letribunalstatueauvu despiècesproduites.
+Danstouslescas,lejugedisposed’undélaidetroismoispou rrendresonjugement.

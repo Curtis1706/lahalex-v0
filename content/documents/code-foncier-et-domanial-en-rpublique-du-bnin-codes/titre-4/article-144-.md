@@ -1,0 +1,1 @@
+‐ (Loi n°2017‐15) Autermedelaprocéduredeconfirmationdesdroitsfonciers faitedemanièrecollective,ilestdélivréuntitreindividuel parmorcellementdutitre foncierglobalàchaquemembrede l’associationd’intérêtfonci er.

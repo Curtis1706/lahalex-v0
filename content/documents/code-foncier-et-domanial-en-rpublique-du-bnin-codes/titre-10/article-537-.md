@@ -1,0 +1,1 @@
+‐Sontabrogées,laloin°60‐20du13juillet1960fixantler égimedespermis d’habiterauDahomey,laloin °65‐25du14août 1965portantor ganisationdurégimede lapropriétéfoncièreauDahomey ,laloin°2007‐03du16octobr e2007portantrégime foncier rural en République du Bénin, ainsi que toutes disposit ions antérieures contrairesauprésentCode.

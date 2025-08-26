@@ -1,0 +1,2 @@
+‐ (Loi n°2017‐15) En cas d’erreur matérielle sur un titre foncier ou de non‐ respect de la procédure légale de délivrance des titres foncier s, ou de tout autre contrefait survenu dans la procédure d’enregistrement et de con firmation des droits fonciers, la partie lésée bénéficie d’une indemnité sans préjud ice d’action en revendicationdudroitdepropriété.
+Danstouslescas,l’indemnitécompensatricetientcomptedela plus‐valueacquisepar l’immeuble.

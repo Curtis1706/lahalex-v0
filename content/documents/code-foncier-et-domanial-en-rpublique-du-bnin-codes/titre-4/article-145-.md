@@ -1,0 +1,1 @@
+‐ (Loi n°2017‐15) Le titre foncier délivré au terme de la procédure de confirmation des droits fonciers confère à son titulaire, la pl eine propriété de l’immeuble.

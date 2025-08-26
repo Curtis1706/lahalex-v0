@@ -1,0 +1,3 @@
+‐Dèslorsquelespartiess’entendentsurlemontantdel’ind emnitéàallouer,il estdresséprocès‐verbaldecet accordsignépartouteslespar ties.
+Le dossier d’expropriation comprenant le procès‐verbal est soum is au président du tribunaldelasituationdeslieuxpourlaphasejudiciaire.
+Encasdedésaccord,ilestdresséégalementprocès‐verbaletl etribunalestsaisipar simplelettreouparassignation parlapartielaplusdiligent e.

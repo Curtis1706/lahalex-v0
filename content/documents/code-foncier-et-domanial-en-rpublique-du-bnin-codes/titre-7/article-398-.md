@@ -1,0 +1,4 @@
+‐ (Loi n°2017‐15) Le droit de propriété peut faire l’objet d’une action en revendicationouenconfirmation.
+l'actionenrevendicationestuneprérogativereconnueaupropr iétaired’unimmeuble nantid’untitrepourfairereconnaîtreenjusticesondroit.E llepeutêtreexercéecontre le détenteur d’un titre foncier en cas de fraude, conformément aux dispositions de l’article14700etsuivantsduprésentCode.
+Laconfirmationdedroitdepropriétépermetauprésuméproprié taired’unimmeuble nonmunidetitredes’adresseràlajuridictioncompétentepou renassurerlaprotection.
+Sanspréjudicedepoursuitespénalesetdedommages‐intérêts,l ’abusdudroitd’exercer l’unedesactionsci‐dessusdéfinies,estpassibled’uneamende civiledontlemontantne peutêtreinférieurau1/10èmedelavaleurvénaledel’immeubl eaujourduprononcé deladécision.

@@ -1,0 +1,1 @@
+‐Aucasoùleslimitesdel’immeubletellesqueprésentéespa rleplanjointàla réquisition ne seraient pas conformes à celles constatées sur l e terrain, l’ingénieur‐ géomètreagréédresseunnouveaulevéet,poursuitlaprocédure debornage.Leprocès‐ verbalfera,danscesconditions,étatdesdiscordancesconstat ées.

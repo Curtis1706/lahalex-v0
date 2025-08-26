@@ -1,0 +1,1 @@
+‐Aucuneprocédureparticulièren’estexigéequantauchoixde l’instanceoude lapersonnechargéedurèglementamiable.

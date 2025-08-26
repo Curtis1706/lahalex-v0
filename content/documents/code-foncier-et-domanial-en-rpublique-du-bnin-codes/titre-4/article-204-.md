@@ -1,0 +1,1 @@
+‐ (Loi n°2017‐15) Dèsréceptiondelarequête,lerégisseurdubureaucommunal délivredansundélaid’unmoisletitrefoncier.

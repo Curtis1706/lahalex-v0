@@ -1,0 +1,1 @@
+‐ Il est créé dans chaque commune, une instance consultative d énommée: Commission de gestion foncière (CoGeF). Elle assiste le maire d ans la gestion des questionsfoncières.

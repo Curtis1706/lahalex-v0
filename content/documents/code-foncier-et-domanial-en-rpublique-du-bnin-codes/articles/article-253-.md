@@ -1,0 +1,7 @@
+‐Sousréservedel’accomplisseme ntdesformalitésprescrites àlafinduprésent article,lesagentsdel’administrationoulespersonnesauxque lleselledélèguesesdroits peuventpénétrerdanslespropriétésprivéesàl’occasiondeso pérationsci‐après:
+· étude des projets de travaux publics ou des travaux d’intérêt p ublic, général ou
+collectif, susceptibles ou non de donner lieu à expropriation, travaux de triangulation,d’arpentageoudenivellementfaitspourlecomp tedel’Etatoudes collectivitésterritoriales;
+· étudeenvuedel’installationdesbornesousignauxdestinésà marquerlespoints
+trigonométriquesettousautresrepèresnécessaires.
+Les opérations ci‐dessus doivent être ordonnées soit par une dé cision conjointe du Ministre concerné et de celui chargé de l’Intérieur soit par le maire précisant leur nature,lalocalitéoùellesdoiventêtrefaitesainsiquelad ateàlaquelleellesdoivent commencer.
+Cettedécisiondoitêtreaffichéeaumoinsdixjoursàl’avance àlaportedesbureaux administratifsetnotifiéeouco mmuniquéeauxpersonnesconcern éespartousmoyens.

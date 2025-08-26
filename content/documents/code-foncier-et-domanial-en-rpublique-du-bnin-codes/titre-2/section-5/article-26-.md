@@ -1,0 +1,1 @@
+‐Lapropriétépeuts’acquérir paraccessionouparincorporat ionconformément auxdispositionsduprésentCodeetdesautrestextesenvigueu r.

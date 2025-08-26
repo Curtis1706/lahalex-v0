@@ -1,0 +1,1 @@
+‐Encasd’absenceoud’empêchementd’unrégisseur,lagestion duBureauest confiée à un intérimaire désigné par le Ministre de tutelle apr ès avis favorable du titulaire,cedernierdemeuregarantdesopérationseffectuées ensonabsence,saufson recourscontrel’intérimaire.

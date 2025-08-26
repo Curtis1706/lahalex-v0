@@ -1,0 +1,1 @@
+‐Lesparcellesissuesdeladivisiond’uneparcellesonttouj ourssoumisesaux hypothèques, privilèges, servitudes et autres charges dont étai t grevée la parcelle initiale.

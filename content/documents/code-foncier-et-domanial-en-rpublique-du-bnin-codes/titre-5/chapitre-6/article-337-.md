@@ -1,0 +1,1 @@
+‐ l'exploitation de la faune sauvage vivant dans les réserves naturelles intégralestellesquedéfiniesparlalégislationenvigueures tinterdite.

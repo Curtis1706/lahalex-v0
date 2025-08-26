@@ -1,0 +1,2 @@
+‐Lesrégisseurscommunauxsontrecrutésdemanièreprogressiv eetpeuvent avoircompétencerégionale.
+Lemoded’organisationetdefonctionnementdelarégiefoncièr eestfixépardécretpris enConseildesMinistres.

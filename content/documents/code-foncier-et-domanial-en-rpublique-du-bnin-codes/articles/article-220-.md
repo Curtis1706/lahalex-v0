@@ -1,0 +1,2 @@
+‐ Le rapport constatant l’enquête parcellaire est publié par t out moyen de diffusionconvenable,affichage, vulgarisation,radiocommunaut aire,crieurpublic,outre lespublicationsounotifications.
+Ilestnotifiés’iléchetsansdélaiauxpropriétairesconcerné s,auxoccupantsetusagers notoiresainsiqu’auxprésuméspropriétaires.

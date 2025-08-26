@@ -1,0 +1,3 @@
+‐ (Loi n°2017‐15) Lecertificatfoncierruraletlecertificatadministratiffont foi jusqu’àpreuvecontrairedesm entionsqu’ilscomportent.
+Lorsquelecertificatfoncierrur alet/oulecertificatadminis tratifsontenconflitavecle titrefoncier,lejugeaccordeprovisionautitrefoncier.
+Encasdeconflitentrelecertificatfoncierruraletlecerti ficatadministratif,l’acteleplus ancienl’emporte.

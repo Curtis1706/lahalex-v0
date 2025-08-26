@@ -1,0 +1,8 @@
+‐ Indépendamment des pouvoirs qui lui sont conférés par les di spositions du présent Code ou par une délibération spéciale de l’assemblée gé nérale des copropriétaires,lesyndicestchargé:
+· d’assurer l’exécution des dispositions du règlement de copropri été et des
+délibérationsdel’assembléegénérale;
+· d’administrerl’immeuble,depourvoiràsaconservation,sagar deetàsonentretien
+et,encasd’urgence,defaireprocéder,desapropreinitiativ e,àl’exécutiondetous travauxnécessairesàlasauvegardedecelui‐ci;
+· dereprésenterlesyndicatdanstouslesactescivilsetenjus ticedanslescasvisés
+auxarticles89et90duprésent Codeainsiquepourlapublica tiondel’étatdescriptif dedivisiondurèglementdecopropriétéoudesmodificationsap portéesàcesactes sans que soit nécessaire l’intervention de chaque copropriétair e à l’acte ou à la réquisitiondepublication.
+Encasd’empêchementdusyndicpourquelquecausequecesoito uencasdecarencede sapartàexercerlesdroitsetactionsdusyndicatetàdéfaut destipulationdurèglement decopropriété,unadministrateurprovisoirepeutêtredésigné pardécisiondejustice, surpropositiondel’assembléegénérale.

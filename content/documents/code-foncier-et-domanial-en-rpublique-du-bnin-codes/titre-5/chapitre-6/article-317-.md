@@ -1,0 +1,1 @@
+‐Lesactivitéséconomiques,lesprojetsdedéveloppementliés auxressources naturelles doivent être conçus et exécutés de façon à garantir l’équilibre entre ces activitésetlesditesressources, etunpartageéquitabledesb énéfices.

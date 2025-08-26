@@ -1,0 +1,1 @@
+‐ Le droit d’habitation ne peut être cédé à des tiers à moins d’ une clause expresse.

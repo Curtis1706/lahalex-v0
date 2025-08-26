@@ -1,0 +1,2 @@
+‐Lesterresruralesquin’ontjamaisfaitl’objetd’unepremi èreappropriation appartiennentàl’Etat,lequeldo itlesfaireconfirmerenson nom.
+l'Etatpeutlesattribuerauxcollectivitésterritoriales,dire ctementousurlademandede celles‐cidanslamesureoùellessontsituéessurleurterrito ireadministratif.

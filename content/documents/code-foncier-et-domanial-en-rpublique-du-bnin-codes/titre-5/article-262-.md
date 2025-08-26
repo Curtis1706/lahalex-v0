@@ -1,0 +1,1 @@
+‐ Le domaine public immobilier de l’Etat et des collectivités territoriales est composédetouslesbiensfonciersetimmobiliersdéterminésco mmetelsparlaloiou ayantfaitl’objetd’uneprocé durespécialedeclassement.

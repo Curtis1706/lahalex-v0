@@ -1,0 +1,6 @@
+‐ Le cadastre est le système unitaire informatisé des archives techniques, fiscalesetjuridiquesdetoutes lesterresduterritoirenatio nal.
+Lefeuillet,correspondantàunepropriétéfoncièreestsoumis àunepublicitésurplace etparextrait,déposéauprèsdel’administrationcentraledel ’Agenceetdanschaque mairie,secomposedestroisdocumentsci‐après:
+· lamatricequiénumèrelesparcellesappartenantàchaquepropr iétaireougroupede
+propriétairesdanslacommune;
+· lesétatsdesection,sorteder épertoirepermettantlaconsult ationduplan;
+· leplancadastralproprementdit quiestunecarteàgrandeéch elle.

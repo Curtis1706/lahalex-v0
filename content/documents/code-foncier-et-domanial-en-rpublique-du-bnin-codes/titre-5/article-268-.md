@@ -1,0 +1,1 @@
+‐Lesriverainsdescoursd’eaunonnavigablesniflottabless ontsoumisàune servitudedepassagesurunezon elargededixmètressurchaqu erive.

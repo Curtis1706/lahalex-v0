@@ -1,0 +1,2 @@
+‐Lachargedelapreuveincomb eàceluiquiaprisl’initiati veduprocès.
+Néanmoins,lorsqueledéfendeurallègueuneprétention,ilest tenu,souspeinederejet, del’établir.

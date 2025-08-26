@@ -1,0 +1,2 @@
+‐ Les indemnités allouées doivent couvrir l’intégralité du pré judice direct, matérieletcertaincauséparl’expropriation.
+Ellessontfixéesd’aprèslaconsistancedesbiens,entenantc omptedeleurvaleuret, éventuellement, de la plus‐value ou de la moins‐value qui résul te, pour la partie de l’immeublenonexpropriée,del’ex écutiondel’ouvrageprojeté.

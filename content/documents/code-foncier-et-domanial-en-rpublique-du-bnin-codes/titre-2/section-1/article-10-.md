@@ -1,0 +1,1 @@
+‐ La propriété peut se transmettre par voie de succession, con formément aux dispositionsduCodedespersonnesetdelafamilleetd’autres textesenvigueur.

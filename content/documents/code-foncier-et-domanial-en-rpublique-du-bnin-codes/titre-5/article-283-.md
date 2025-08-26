@@ -1,0 +1,2 @@
+‐l'autorisationd’occuperunbienimmeubledudomainepublic n’estdélivrée qu’aprèsuneenquêtedecommodoetincommodo.
+l'autorisation d’occuper un bien immeuble peut être soumise au paiement d’une redevancefixéedegréàgréou pararrêtéduMinistreencharg edesdomaines.

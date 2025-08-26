@@ -1,0 +1,3 @@
+‐ Les copropriétaires sont tenus de participer aux charges ent raînées par les servicescollectifsetlesélémentsd’équipementcommunenfonc tiondel’utilitéqueces servicesetélémentsprésenten tàl’égarddechaquelot.
+Ils sont tenus de participer aux charges relatives à la conserv ation,à l’entretien et à l’administrationdespartiesco mmunesproportionnellementauxv aleursrelativesdes parties privatives comprises dans leurs lots, telles que ces va leurs résultent des dispositionsdel’article79duprésentCode.
+Lerèglementdecopropriétéfixelaquote‐partafférenteàchaq uelotdanschacunedes catégoriesdecharges.

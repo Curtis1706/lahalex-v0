@@ -1,0 +1,7 @@
+‐l'Agencenationaledudomaineetdufonciertient,pardépar tement,letableau généraldespropriétésimmobilièr esdel’Etatquifaitressorti rchaqueannée:
+· lesterresetbiensimmeublesdu domaineprivéaffectésauxser vicespublics;
+· lesterresetbiensimmeublesdudomaineprivénonaffectéset destinésenprincipe,
+àêtredonnésenconcession,cédé soulouésàdespersonnesphy siquesetmoralesde droitprivéoumisenréservepourlesbesoinséventuelsdesse rvicespublics;
+· lesterresimmatriculéesounonfaisantpartiedudomainefores tierclassé;
+· les constructions et éventuellement les terres immatriculées fa isant partie du
+domaineprivédel’Etat.

@@ -1,0 +1,1 @@
+‐Tousfaitsoutoutesconventionsportantsurunimmeubledon tlesdroitsont étéconfirmés,ayantpoureffetdeconstituer,transmettre,déc larer,modifierouéteindre undroitréelimmobilier,doiventêtreconstatésparactenotar iéouparactesousseing privé déposé au rang des minutes d’un notaire, quel que soit le lieu de situation de l’immeuble,sousréservedesdis positionsprévuesàl’article1 58duprésentCode.

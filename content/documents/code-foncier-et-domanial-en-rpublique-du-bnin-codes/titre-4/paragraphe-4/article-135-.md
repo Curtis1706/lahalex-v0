@@ -1,0 +1,1 @@
+‐Aucasoùlejugestatueendéfaveurd’unrequérant,ledoss ierdel’affaireest retourné au régisseur avec une expédition de la décision rendue . Le régisseur invite alors le requérant à retirer la demande de confirmation des dro its fonciers contre remisedurécépisséetlespièces parluidéposéespourlaproc édurejudiciaire.

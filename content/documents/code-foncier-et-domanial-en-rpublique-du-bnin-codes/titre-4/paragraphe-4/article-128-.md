@@ -1,0 +1,3 @@
+‐Danslecasoùl’examenduregistredesoppositionsfaitres sortirl’existence d’opposition, la confirmation de droits fonciers n’est accordée qu’autant que le requérantrapporteparexploitd’huissier,lapreuvedelamain levéedesoppositionset del’acquiescementdesdemandesd’inscription.
+Unefoisl’oppositionreçueparl erégisseur,illaporteàla connaissancedurequérant.
+Aceteffet,unecopiedechacunedesmentionsinscritesaureg istredesoppositionslui estnotifiéeparlessoinsdurégisseur,aufuretàmesurede leurinscription.

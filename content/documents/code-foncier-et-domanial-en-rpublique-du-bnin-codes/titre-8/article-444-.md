@@ -1,0 +1,1 @@
+‐ En cas de démission, le régisseur ne peut abandonner ses fon ctions avant l’installation de son successeur, sous peine de répondre de tou s dommages‐intérêts auxquelslavacancemomentanéedu Bureaupourraitdonnerlieu.

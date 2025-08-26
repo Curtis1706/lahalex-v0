@@ -1,0 +1,1 @@
+‐ Lorsque la prescription est acquise, l’action en revendication du présumé propriétairepréexistantestirrecevable.

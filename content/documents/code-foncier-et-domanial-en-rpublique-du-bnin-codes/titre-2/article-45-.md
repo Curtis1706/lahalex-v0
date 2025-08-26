@@ -1,0 +1,1 @@
+‐ Les droits et obligations de l’usufruitier sont régis par le titre constitutif de l’usufruit,parleprésentCod eetautrestextesenvigueur.

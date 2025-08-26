@@ -1,0 +1,2 @@
+‐Ladivisionoulafusiond’immeublesestenregistréeauregi strefoncierune fois que les nouveaux lots ont fait l’objet d’un nouveau levé topographique et d’un réenregistrementaucadastre.
+Pourtoutedivisionoufusionde parcelle,desplansetautres documentationsrelatifsàla configurationinitiale,deslotsdevrontêtreconservésparle serviceducadastreavecles archivesadéquates.Denouveaux numérosdecadastreserontdéli vréspourlesparcelles nouvellementcréées.

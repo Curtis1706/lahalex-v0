@@ -1,0 +1,3 @@
+‐Leplanfoncierruralconstitueunedocumentationfoncièrepubliquepouvant servir de référence à tout acte ainsi qu’à toute décision judic iaire portant reconnaissance, création, mutation ou extinction de droit réel immobilier établi ou acquisselonlacoutume.
+Ilesttenudanschaquecommune,unregistrecommunalinformati séduplanfoncier rural devant retracer tous les actes intervenus sur chaque parc elle de terrain enregistréeauditplan.
+Ceregistrecommunalestcomposédel’ensembledesoriginauxde sregistresvillageois. Lecontenuetlesmodalitésdef onctionnementduregistredupl anfoncierruralsont fixésparlestextesd’applicationduprésentCode.

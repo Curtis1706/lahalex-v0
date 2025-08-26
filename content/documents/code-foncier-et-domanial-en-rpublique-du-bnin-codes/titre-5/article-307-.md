@@ -1,0 +1,1 @@
+‐ (Loi n°2017‐15) Touteportiondudomaineprivéimmobilierdel’Etatetdes collectivités territoriales devant faire l’objet d’une concessi on doit préalablement disposerdetitrefoncierconform émentàlaprocédureprévuepa rleprésentCodeetses textesd’application.

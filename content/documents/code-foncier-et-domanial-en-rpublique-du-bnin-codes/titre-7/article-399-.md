@@ -1,0 +1,2 @@
+‐Lademandeenrevendicationouenconfirmationdudroitdep ropriétéest adresséeauprésidentdelajurid ictiondulieudesituationde l’immeublequerellé.
+Lacompétencedelajuridiction prévueàl’alinéaprécédentest d’ordrepublic.

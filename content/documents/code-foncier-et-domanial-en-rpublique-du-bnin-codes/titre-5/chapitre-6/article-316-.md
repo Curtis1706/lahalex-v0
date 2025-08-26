@@ -1,0 +1,1 @@
+‐TouslesBéninoisontuneégalevocationàaccéderauxresso urcesnaturelles engénéraletauxterresagricolesenparticulier,sansdiscrim inationdesexeoud’origine socialedanslesconditionsprév uesparlaConstitution,leslo isetlesrèglements.

@@ -1,0 +1,2 @@
+‐Ledomaineimmobilierdel’Et atetdescollectivitésterrito rialescomprend: · ledomainepublicetledomaine privéimmobiliersdel’Etat;
+· ledomainepublicetledomaine privéimmobiliersdescollectiv itésterritoriales.

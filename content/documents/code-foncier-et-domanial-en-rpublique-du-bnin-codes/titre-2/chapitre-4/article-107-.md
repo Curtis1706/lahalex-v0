@@ -1,0 +1,1 @@
+‐Ladécisionpriseobligelescopropriétairesàparticiper,d anslesproportions fixéesparl’assembléegénérale,aupaiementdestravaux,àla chargedesindemnités prévues à l’article 110 du présent Code ainsi qu’aux dépenses d e fonctionnement, d’administration, d’entretien et de remplacement des parties co mmunes ou des élémentstransformésoucréés.

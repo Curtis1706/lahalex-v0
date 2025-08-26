@@ -1,0 +1,1 @@
+‐Lebailemphytéotiqueadministratifconclupourunelongued uréeconfèreun droitréelaupreneursurlebienimmobilierappartenantàl’Et at,sesdémembrements ouauxcollectivitésterritoriales.

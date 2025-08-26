@@ -1,0 +1,1 @@
+‐ Les parties se font obligatoirement assister chacune au moin s d’un témoin pendantledéroulementdelatentativederèglementamiable.

@@ -1,0 +1,2 @@
+‐Toutcitoyenaledroitd’esterenjusticepourrevendicatio nouconfirmation desondroitdepropriétéoupourfairevaloirsesprétentions portantsurunimmeuble.
+Toutefois, l’action en contestation par un ascendant, un descen dant ou un collatéral direct ou indirect, d’une transaction effectuée par le propriét aire ou le présumé propriétairesurunimmeublelui appartenantestirrecevable.

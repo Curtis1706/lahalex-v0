@@ -1,0 +1,1 @@
+‐Ledomaineprivéimmobilierdel’Etatestgéréparl’organe enchargedela confirmationdedroitsfonciers.

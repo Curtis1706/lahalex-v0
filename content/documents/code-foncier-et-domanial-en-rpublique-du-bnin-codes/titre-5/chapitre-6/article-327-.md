@@ -1,0 +1,1 @@
+‐Leslimitesdescoursd’eauquisontdesdépendancesdudoma inepublicsont matérialisées,encasdebesoin,soitpardesbalises,soitpar lesarbres,oupartoutautre moyen approprié. Elles sont fixées par arrêté conjoint des Mini stres chargés des domaines,del’eau,desforêtsetdelapêche.

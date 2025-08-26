@@ -1,0 +1,1 @@
+‐ l'Etat met à la dispositiondel’Agencenationaledudomaine etdufoncier, ainsiqu’àsesBureauxlocaux,leslocaux,infrastructureseté quipementsremplissantles conditionsrequisesafindegarantirlasécuritédel’informati onfoncière,l’intégritédes archivesetdeséquipementstechniques.

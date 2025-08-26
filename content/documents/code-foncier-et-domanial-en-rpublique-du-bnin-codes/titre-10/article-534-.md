@@ -1,0 +1,3 @@
+‐Lamesuredeprotectionportantoffred’indemnisationoude rachatnepeut couvrirl’occupantdemauvaisef oi.Ellecouvreuniquementlav ictimed’uneexpulsion illégaleet/arbitraire(offred’ indemnisation)oul’occupantde bonnefoi(offrederachat).
+Encasd’expulsionillégaleet/ouarbitraire,lemontantdesin demnitéscompensatrices, laduréeetlemodedepaiementdoiventêtrejustesetéquitabl es,reflétantunéquilibre adéquat entre l’intérêt public e t l’intérêt de ceux qui sont af fectés par la mesure d’expulsion.
+Ilssontdéterminésetapprouvésparlacour.

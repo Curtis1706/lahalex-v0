@@ -1,0 +1,3 @@
+‐ Toute personne peut, en produisant les pièces nécessaires, r equérir l’inscription,lamodificationo ularectificationdel’inscrip tiond’undroitréelimmobilier.
+Toutefois,pourquelademandesoitrecevable,ilestnécessair equel’acteoulefaitsur lequel elle est basée émane du titulaire d’une inscription anté rieure et qu’aucune inscription postérieure à l’inscription à modifier ne s’oppose à la demande de modificationdelademandeantérieure.
+Toutedemandevisantl’inscription,lamodificationoularecti ficationd’uneinscription existantedoit,enoutre,conteniruneélectiondedomiciledan sleressortjudiciaireoùse trouve situé l’immeuble, domicile auquelpourrontêtrevalablement effectuées par la suitetoutesnotificationsetsignificationsdesactesdeprocé dure.

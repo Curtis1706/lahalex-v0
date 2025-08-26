@@ -1,0 +1,20 @@
+‐ (Loi n°2017‐15) Lorsquedeuxouplusieursimmeublescontigüssontréunis parsuited’uneacquisitionoup arl’effetdetoutautrecontra touévénemententreles mainsd’unmêmepropriétaire,celui‐cipeutdemanderlafusion desdeuxtitresenun seul, soit au moment de l’inscription du faitjuridiquegénérat eurdudroitfoncierde chaqueparcelle,soitàunedateultérieure.
+Pour obtenir la réunion de deux ou plusieurs immeubles ayant fa it l’objet de confirmation de droits fonciers, le requérant saisit le régisse ur d’une demande accompagnéedespiècessuivantes:
+· leplanfusionnédesimmeubles;
+· lescopiesdesdifférentstitresfoncierspréexistantsàfusion ner;
+· lespiècesnécessairesàl’instr uctionultérieuredel’actede fusionet;
+· laquittanceattestantdelacons titutiond’uneprovisionarbit réeparlerégisseur.
+Code foncier et domanial 39
+Bénin!
+Cettefusions’effectuedel’unedesmanièressuivantes:
+· aumoyendel’annulationdestitresanciensetdelacréationd
+lequelsontreportéeslesinscriptionsnonradiéesdestitresa · parl’annulationdetouslestitressaufunseuldesditstitres
+restantdelanouvellesuperficie,laconsistanceetlavaleur
+desinscriptionsdetouteslesparcellesquinesontpasradiée
+Cetteopérationn’estcependantadmisequ’autantqu’ellenepré droitdepropriétéenregistréexistant.
+’untitrenouveau,sur nnulés;
+etlereportsurletitre del’immeuble,enplus
+sàladatedelafusion.
+judicieenrienàaucun
+Code foncier et domanial 40
+Bénin!

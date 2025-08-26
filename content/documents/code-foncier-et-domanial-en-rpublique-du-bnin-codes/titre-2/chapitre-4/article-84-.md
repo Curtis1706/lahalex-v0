@@ -1,0 +1,1 @@
+‐Lescloisonsoumursséparantdespartiesprivativesetnon comprisdansle grosœuvresontprésumésmitoyen sentreleslocauxqu’ilssépar ent.

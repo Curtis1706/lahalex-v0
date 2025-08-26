@@ -1,0 +1,1 @@
+‐ La gestion des terres et biens immeubles de la commune relèv e de la compétencedumaire.

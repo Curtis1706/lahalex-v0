@@ -1,0 +1,5 @@
+‐ (Loi n°2017‐15) Leplanfoncierruralestétabliàlademandeduchefdevillag e aprèsdélibérationduconseildevillage,etselonuneprocédur edéfinieparlestextes d’applicationduprésentCode.
+l'établissementduplanfoncierruralestdelacompétencedub ureaulocaldel’organe en charge de la confirmation de droits fonciers qui s’assure de la collaboration des structurestechniquesappropriées,publiquesouprivées.
+l'Agence nationale du domaine et du foncier (ANDF)peutdonner délégationàtoute personnemoralepubliqueouprivée.
+LesmodalitésdedélégationsontfixéesparundécretprisenC onseildesMinistres. l'ouverturedesopérationspourl’établissementduplanfoncier ruralestprononcéepar
+arrêtédumaire.Ellessontclôturéessouslamêmeforme.

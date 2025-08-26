@@ -1,0 +1,1 @@
+‐ Les propriétaires de terres rurales exercent sur leurs terre s toutes les prérogativesattachéesàleursdroitsdepropriétéetce,confo rmémentauxdispositions légalesenvigueur,ainsiqu’àl’ordrepublic.

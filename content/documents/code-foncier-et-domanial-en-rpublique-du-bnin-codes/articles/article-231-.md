@@ -1,0 +1,2 @@
+‐Lacommissionestassistéed’ungéomètreexpertagrééchargé dedélimiter sur le plan d’ensemble, chacune des propriétés ou portions de p ropriétés privées intéresséesparlestravauxprojetés,ycompriscellesnonimma triculéesnicadastrées quifontl’objetd’unerevendicationquelconque,saufsiunpla nparcellaireaétéétabliau préalable.
+Sous paragraphe 2 : De la tentative de cession amiable et de l’indemnité d’expropriation

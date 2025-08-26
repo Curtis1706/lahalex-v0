@@ -1,0 +1,2 @@
+‐ Sont considérés comme carrières, les gîtes naturels de matér iaux de construction,d’empierrementet deviabilité,dematériauxpour l’industriecéramique, dematériauxd’amendementdessolsetautressubstancesanalogu es,àl’exceptiondes phosphates,nitrates,selsalcalinsetautresselsassociésdan slesmêmesgisements.
+Les tourbières et sablières sont également classées parmi les c arrières. Toutes ces substancessontditessubstancesdecarrière.

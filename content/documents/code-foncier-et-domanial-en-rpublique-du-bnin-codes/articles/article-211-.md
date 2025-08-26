@@ -1,0 +1,1 @@
+‐l'expropriationd’immeubles,entoutoupartie,oudedroits réelsimmobiliers pourcaused’utilitépubliques’opère,àdéfautd’accordamiabl e,pardécisiondejustice etcontrelepaiementd’unjus teetpréalabledédommagement.

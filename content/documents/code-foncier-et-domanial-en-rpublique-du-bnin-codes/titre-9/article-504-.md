@@ -1,0 +1,2 @@
+‐ Constitue une déclaration mensongère dans le cadre de la pro cédure contradictoire de constatation de droit foncier, toute déclarat ion faite intentionnellementdanslebutdesefairereconnaîtredesdroi tsfonciersoudefaire reconnaîtredetelsdroitsàunetiercepersonne.
+Cesfaitssontpunisd’uneamendedeunmillion(1.000.000)àd euxmillions(2.000.000) FCFA,sanspréjudicedesdommagesetintérêts.

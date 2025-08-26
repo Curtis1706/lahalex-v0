@@ -1,0 +1,4 @@
+‐Toutepersonnephysiqueoumoralepeutdemanderaumaire,l’ autorisation d’exploiteruneparcellesusceptibled’unemiseenvaleurrural equisetrouvedansl’un descasprévusàl’article368ci‐dessus.
+Lemairesaisitlacommissiondegestionfoncièredelacommune quiseprononceaprès enquête contradictoire sur l’état de non mise en valeur ou d’in suffisance de mise en valeurdufondsdeterreconcerné,ainsiquesurlespossibilit ésdemiseenvaleurrurale decelui‐ci.
+Ledéfautdemiseenvaleurest constatépararrêtédumairede lacommune.
+Cet arrêté notifié au présumé propriétaire doit être publié par voie d’affichage à la mairiependantdeuxmois,parannonceàlaradiolocaleetpar lescrieurspublics.

@@ -1,0 +1,2 @@
+‐ Toute vente d’un fonds de terre ou d’un immeuble doit être p récédée de la confirmationdedroitsfoncier sdétenussurleditimmeuble.
+Adéfautdelaconfirmationdesdroits,levendeurdevra,préal ablementàlatransaction, obtenirauprèsdel’Agencenationaledudomainefoncier,unCer tificatd’appartenance dontledélaidevaliditémentionnéaubasduditdocumentestd ’unannonrenouvelable.

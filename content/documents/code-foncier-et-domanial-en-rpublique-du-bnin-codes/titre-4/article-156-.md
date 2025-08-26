@@ -1,0 +1,1 @@
+‐ Tous faits, conventions ou sentences relatifs à des biens im meubles et postérieurs à la confirmation des droits fonciers y afférents s ont inscrits dans les registres fonciers dans les formes prévues à la présente sectio n, sous peine d’inopposabilité.

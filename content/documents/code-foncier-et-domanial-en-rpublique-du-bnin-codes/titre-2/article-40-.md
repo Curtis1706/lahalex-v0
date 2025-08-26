@@ -1,0 +1,1 @@
+‐LesdispositionsduprésentC odeetduCodecivilsontappli cablesaurégimedes différentsdroitsréelsimmobiliersénumérésci‐dessus.

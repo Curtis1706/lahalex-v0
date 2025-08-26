@@ -1,0 +1,2 @@
+‐Unearchivecontenuedanslecadastreenformatnumériquea lamêmeforce etlemêmeeffetjuridiquequel’ archivesurpapiercorresponda nt.
+Encasdediscordanceentreunearchivesurpapieretunearchi venumérique,l’archive surpapierl’emporte.

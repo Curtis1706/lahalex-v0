@@ -1,0 +1,1 @@
+‐Touteinscriptiondéposéemaisquin’apasencoreétéportée auregistre,ne peut être infirmée ni annulée par une inscription ultérieure ef fectuée avant l’enregistrementdelapremièreinscriptiondansleregistre.

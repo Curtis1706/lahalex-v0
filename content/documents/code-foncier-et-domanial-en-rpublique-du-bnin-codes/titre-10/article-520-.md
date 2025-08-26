@@ -1,0 +1,1 @@
+‐ (Loi n°2017‐15) Les certificats fonciers ruraux délivrés avant l’entrée en vigueurduprésentCodesont,sursimpleprésentationparleti tulaire,transformésen titrefoncierconformémentaux dispositionsdel’article116de laloin°2013‐01du14 août2013portantCodefoncieret domanialenRépubliqueduBénin.

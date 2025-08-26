@@ -1,0 +1,3 @@
+‐ Dans le respect des garanties des droits au logement, l’exéc ution d’une décisiond’expulsionpeutfaire l’objetd’unaccordderachatentrelesparties.
+l'offrederachatestinitiéeparlapartieperdante.
+Elleestassortiedemodalitésdepaiementarrêtéesdecommuna ccordparlesparties sousl’arbitrageduConseilconsultatiffoncier

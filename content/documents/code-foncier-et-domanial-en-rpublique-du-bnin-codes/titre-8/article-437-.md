@@ -1,0 +1,1 @@
+‐ Le régisseur de la propriété foncière doit s’assurer que la réquisition présentéeàl’appuid’uneinscriptionsurunregistrecontient lesmentionsprescriteset qu’elle satisfait aux dispositions de la loi et des règlements pris en application du présentCodeet,lecaséchéant,quelesdocumentsquidoivent l’accompagnersontaussi présentés.
