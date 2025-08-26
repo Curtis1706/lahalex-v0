@@ -203,12 +203,6 @@ export default function DictionaryPage() {
                         <p className="text-gray-700 leading-relaxed text-base whitespace-pre-line">
                           {term.definition}
                         </p>
-                        
-                        {term.source && (
-                          <p className="text-sm text-gray-500 mt-3 italic">
-                            Source : {term.source}
-                          </p>
-                        )}
                       </div>
                     </div>
                   ))}
