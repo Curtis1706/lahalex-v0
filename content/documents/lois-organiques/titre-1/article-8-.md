@@ -1,1 +1,0 @@
-Tout manquement à ce serment constitue un acte de forfaiture et sera puni conformément à la législation en vigueur.

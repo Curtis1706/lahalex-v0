@@ -1,1 +1,0 @@
-La Cour des comptes assure la vérification des dépenses de campagne électorale et des comptes annuels des partis politiques dans les conditions édictées par la charte des partis politiques et les lois électorales.

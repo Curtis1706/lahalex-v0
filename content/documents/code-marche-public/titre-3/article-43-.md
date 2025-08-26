@@ -1,4 +1,4 @@
-Article 43 : Mise en œuvre de l'enchère électronique
+
 Tous les soumissionnaires qui ont présenté des offres qui n'ont pas été
 écartées sont invités simultanément, par des moyens électroniques
 (plateforme des enchères électroniques), à participer à l'enchère

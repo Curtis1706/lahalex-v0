@@ -1,8 +1,0 @@
-Le président de la Cour est chargé de l'administration et de la discipline de la Cour. Il en assure la direction générale, l'organisation et la coordination des travaux. À ce titre, il préside l'audience plénière solennelle, les chambres réunies et le bureau. Il peut, en outre, présider les audiences des chambres et les séances des autres organes consultatifs.
-Il arrête le programme annuel d'activités préalablement délibéré en comité des rapports et programmes.
-Il fait connaître, par voie de référé, au ministre chargé des finances et aux ministres concernés, les observations formulées par la Cour à l'issue de ses contrôles.
-Il exerce les prérogatives qui lui sont dévolues par la présente loi organique, par décision, ordonnance, ordonnance prise en chambres réunies, note ou référé.
-Il est chargé, après délibération des chambres réunies, de la mise en place et du suivi du règlement intérieur et du règlement financier de la Cour.
-Il remet le rapport annuel au président de la République et le dépose au président de l'Assemblée nationale.
-Il adresse le rapport sur l'exécution des lois de finances et une déclaration générale de conformité ou le rapport sur la certification des comptes au président de l'Assemblée nationale et en transmet copies au ministre chargé des Finances.
-Il représente la Cour auprès des autorités des États étrangers et des organisations internationales. Il a en charge les relations avec les institutions supérieures de contrôle des finances publiques des pays étrangers et leur groupement associatif. Il peut contracter avec toutes les organisations internationales qui peuvent confier à la Cour, des missions entrant dans les domaines de compétences de l'institution et les capacités de ses membres.

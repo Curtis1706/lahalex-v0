@@ -1,4 +1,4 @@
-Article 12 : Commission d'ouverture et d'évaluation (COE)
+
 Une commission d'ouverture et d'évaluation (COE) des offres est mise en
 place pour assister la personne responsable des marchés publics dans la
 conduite de chaque procédure de passation des marchés.

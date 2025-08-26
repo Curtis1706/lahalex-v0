@@ -1,1 +1,0 @@
-La Cour des comptes siège en audience plénière, notamment pour procéder à l'installation des magistrats dans leurs fonctions, pour approuver le rapport annuel, pour l'ouverture de son activité annuelle ou pour d'autres motifs, sur un ordre du jour particulier arrêté par le président.

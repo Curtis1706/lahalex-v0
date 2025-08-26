@@ -1,4 +1,4 @@
-Article 3 : Personnes et opérations assujetties
+
 Les dispositions de la présente loi s'appliquent aux marchés passés par
 :
 1.   les personnes morales de droit public que sont :
@@ -12,7 +12,7 @@ par l'Etat ou qui bénéficient du concours financier ou de la
 garantie de l'Etat, d'une collectivité publique ou d'une
 association formée par ces personnes morales de droit public ;
 <!
-2.   les personnes morales de droit privé que sont :
+1.   les personnes morales de droit privé que sont :
 <!
 a)  les personnes morales de droit privé agissant pour le compte d'une
 ou plusieurs personnes morales de droit public ;

@@ -1,4 +1,4 @@
-Article 112 : Paiement d'acomptes
+
 Sauf dérogation prévue dans le cahier des clauses administratives
 particulières, le cocontractant de l'administration peut obtenir le
 paiement d'acomptes périodiques.

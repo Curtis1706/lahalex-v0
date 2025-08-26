@@ -1,2 +1,0 @@
-La Cour constitutionnelle complète par son règlement intérieur les règles de procédure édictées par la présente loi organique.
-Elle précise notamment les principes, les conditions et la procédure d’instruction et d’examen des recours, ainsi que la surveillance des opérations du référendum prévues aux articles 67, 72 et 76 de la présente loi.

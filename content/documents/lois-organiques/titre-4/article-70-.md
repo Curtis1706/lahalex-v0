@@ -1,2 +1,0 @@
-Dès l'installation de la Cour des comptes, les affaires en cours d'instruction à la chambre des comptes de la Cour suprême lui sont dévolues de plein droit.
-En attendant l'installation des cours régionales des comptes, les finances des collectivités territoriales sont contrôlées par la Cour des comptes.

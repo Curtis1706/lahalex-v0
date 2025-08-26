@@ -1,1 +1,0 @@
-Les fonctions de membre du Conseil supérieur des comptes sont incompatibles avec l'exercice d'un mandat parlementaire.

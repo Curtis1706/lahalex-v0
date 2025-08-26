@@ -1,4 +1,4 @@
-Article 70 : Ouverture des plis
+
 Sous réserve des dispositions spécifiques applicables aux marchés de
 prestations intellectuelles, la séance d'ouverture des plis est
 publique.

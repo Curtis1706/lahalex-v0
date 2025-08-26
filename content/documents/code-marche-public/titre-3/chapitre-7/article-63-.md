@@ -1,4 +1,4 @@
-Article 63 : Attestation de catégorisation
+
 L'autorité contractante peut demander aux entreprises candidates de
 produire une attestation de catégorisation selon les objectifs et les
 besoins du marché. L'attestation de catégorisation est délivrée suivant

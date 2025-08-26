@@ -1,4 +1,4 @@
-Article 15 : Cellule de contrôle des marchés publics
+
 Il est créé auprès de chaque autorité contractante une cellule de
 contrôle des marchés publics (CCMP).
 Pour chaque autorité contractante, l'ensemble des opérations de

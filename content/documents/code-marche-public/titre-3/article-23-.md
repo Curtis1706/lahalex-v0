@@ -1,4 +1,4 @@
-Article 23 : Détermination des besoins à satisfaire
+
 La nature et l'étendue des besoins doivent être déterminées avec
 précision par l'autorité contractante avant tout appel à concurrence ou
 toute procédure de négociation par entente directe. Les marchés publics

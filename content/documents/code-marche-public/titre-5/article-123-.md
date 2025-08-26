@@ -1,5 +1,4 @@
-Article 123 : Sanctions applicables aux violations commises par les
-soumissionnaires
+
 Tout candidat, soumissionnaire, attributaire ou titulaire de marché,
 encourt sur décision de l'Autorité de régulation des marchés publics,
 les sanctions énumérées au présent article.

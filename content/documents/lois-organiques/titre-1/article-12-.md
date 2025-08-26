@@ -1,1 +1,0 @@
-Conformément aux dispositions de l'article 117 de la Constitution, les membres de la Cour constitutionnelle font de droit, partie de la Haute Cour de Justice à l'exception de son président.

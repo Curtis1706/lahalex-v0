@@ -1,1 +1,0 @@
-La Cour des comptes reçoit, pour contrôle et appréciation, la déclaration écrite de patrimoine des personnes assujetties à lui adresser cette déclaration, lors de leur entrée en fonction et à la fin de celle-ci.

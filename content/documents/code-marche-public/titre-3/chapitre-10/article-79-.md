@@ -1,4 +1,4 @@
-Article 79 : Notification de l'attribution provisoire
+
 L'autorité contractante doit notifier par écrit ou par tout moyen
 électronique officiel à tous les soumissionnaires les résultats de
 l'évaluation en précisant les motifs de rejet des offres n'ayant pas

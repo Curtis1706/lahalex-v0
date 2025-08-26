@@ -1,1 +1,0 @@
-Le droit à l'avancement et à la promotion de tout magistrat membre du Conseil supérieur des comptes ne doit subir aucune restriction ni retard du fait de cette appartenance.

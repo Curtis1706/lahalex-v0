@@ -1,2 +1,0 @@
-Les résultats définitifs des élections législatives sont arrêtés et proclamés par la Cour constitutionnelle au plus tard dans les soixante-douze (72) heures de la date de réception des résultats certifiés par l'organe en charge de la gestion des élections.
-La Cour constitutionnelle communique sans délai à l'Assemblée nationale, les noms des personnes proclamées élues.

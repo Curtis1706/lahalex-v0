@@ -1,1 +1,0 @@
-Les crédits nécessaires au fonctionnement du Conseil supérieur des comptes sont inscrits au budget de l'État, au titre du Conseil supérieur des comptes.

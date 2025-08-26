@@ -1,1 +1,0 @@
-Les membres du Conseil supérieur des comptes et le Secrétaire général ont droit à des indemnités et avantages fixés par décret pris en Conseil des ministres.

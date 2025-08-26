@@ -1,5 +1,4 @@
-Article 84 : Examen juridique et technique préalable à
-l'approbation
+
 Avant son introduction à l'autorité approbatrice, le projet de marché
 est soumis à l'organe de contrôle compétent pour examen juridique et
 technique avant la phase d'approbation quel que soit le financement.

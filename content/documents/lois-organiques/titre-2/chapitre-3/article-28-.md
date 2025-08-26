@@ -1,1 +1,0 @@
-En cas d'empêchement ou d'absence du président de la Cour, il est remplacé par un président de chambre de son choix.

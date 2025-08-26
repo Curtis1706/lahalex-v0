@@ -1,1 +1,0 @@
-Des ordonnances du président de la Cour des comptes, le bureau entendu, fixent en tant que de besoin, les modalités d'organisation de la Cour des comptes non prévues par la présente loi organique.

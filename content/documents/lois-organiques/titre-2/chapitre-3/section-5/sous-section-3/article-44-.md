@@ -1,1 +1,0 @@
-En cas d'empêchement ou d'absence d'un président de chambre, il est pourvu à son intérim par le président de la Cour des comptes.

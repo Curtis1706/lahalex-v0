@@ -1,4 +1,4 @@
-Article 67 : Obligation de confidentialité
+
 Sans préjudice des dispositions de la présente loi, notamment celles
 relatives aux obligations en matière de publicité sur les marchés
 attribués et d'information des candidats et des soumissionnaires, il

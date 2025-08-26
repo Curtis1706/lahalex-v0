@@ -1,1 +1,0 @@
-L'élection du nouveau président de la Cour constitutionnelle a lieu dans les huit (08) jours au moins avant l'expiration des fonctions du président en exercice.

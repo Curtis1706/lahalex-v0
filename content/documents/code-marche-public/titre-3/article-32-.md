@@ -1,4 +1,4 @@
-Article 32 : Appel d'offres avec concours
+
 L'appel d'offres ouvert peut donner lieu à la procédure de l'appel
 d'offres avec concours lorsque des motifs d'ordre technique,
 esthétique ou financier justifient des études ou des recherches

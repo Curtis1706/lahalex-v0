@@ -1,6 +1,0 @@
-Tout citoyen peut, par une lettre comportant ses nom, prénoms et adresse précise, saisir directement la Cour constitutionnelle sur la constitutionnalité des lois.
-Il peut également, dans une affaire qui le concerne, invoquer devant une juridiction, l'exception d'inconstitutionnalité.
-L'exception est présentée devant la juridiction concernée qui doit saisir immédiatement et au plus tard dans les huit (08) jours, la Cour constitutionnelle et susseoir à statuer jusqu'à la décision de la Cour.
-Le sursis à statuer prévu à l'article 122 de la Constitution et à l'alinéa précédent ne suspend pas l'instruction de l'affaire qui se poursuit sans discontinuité devant la juridiction concernée.
-Toutefois, l'affaire ne peut être mise en délibéré pour y être statué sans le règlement de l'exception par décision de la Cour constitutionnelle.
-Dans une même instance, la partie qui entend invoquer plusieurs moyens d'exception d'inconstitutionnalité doit le faire en une fois, dans la même requête. Lorsqu’une partie invoque au cours de la même instance, une autre exception d’inconstitutionnalité, fondée sur le même moyen ou sur des moyens différents de la première, la demande de sursis sera écartée, la juridiction saisie devant passer outre cette exception.

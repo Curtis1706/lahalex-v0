@@ -1,1 +1,0 @@
-À l'exception de celles prévues par décret, les nominations aux fonctions administratives à la Cour des comptes sont faites, après avis du bureau, par ordonnance du président de la Cour et publiées au Journal officiel.

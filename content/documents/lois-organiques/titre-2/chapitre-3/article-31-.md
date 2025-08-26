@@ -1,2 +1,0 @@
-Le secrétaire général assure, sous l'autorité du président de la Cour des comptes, la coordination administrative des activités judiciaires et juridiques de la Cour. Il coordonne, en outre, les activités des directions techniques.
-Il est secrétaire du Conseil supérieur des comptes.

@@ -1,4 +1,4 @@
-Article 57 : Intégrité des données et confidentialité
+
 Les communications, les échanges et le stockage d'informations sont
 faits de manière à assurer que l'intégrité des données et la
 confidentialité des offres et des demandes de participation soient

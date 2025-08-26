@@ -1,4 +1,4 @@
-Article 109 : Ajournement
+
 L'autorité contractante, après avis de la direction nationale de
 contrôle des marchés publics, peut ordonner l'ajournement des travaux,
 des fournitures, ou des services, objet du marché avant leur achèvement.

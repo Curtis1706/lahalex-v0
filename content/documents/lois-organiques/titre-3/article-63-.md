@@ -1,1 +1,0 @@
-Le Conseil supérieur des comptes siège à la Cour des comptes.

@@ -1,6 +1,4 @@
-Article 128 : Sanctions applicables aux violations commises par les
-agents de l'Etat en matière de corruption, de toute infraction connexe
-et de toute autre infraction
+
 Sans préjudice des sanctions pénales auxquelles ils s'exposent, les
 représentants et membres des autorités contractantes, les autorités
 chargées du contrôle et de la régulation des marchés publics et de

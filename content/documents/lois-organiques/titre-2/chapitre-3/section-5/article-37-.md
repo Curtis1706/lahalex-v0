@@ -1,2 +1,0 @@
-Les chambres réunies sont composées du président de la Cour, des présidents de chambre, du procureur général, des conseillers et des avocats généraux.
-Les affaires sont rapportées par un conseiller membre de la formation.

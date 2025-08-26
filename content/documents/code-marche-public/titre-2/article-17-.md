@@ -1,5 +1,4 @@
-Article 17 : Mission et statut de l'Autorité de régulation des marchés
-publics
+
 Il est créé une autorité administrative indépendante dénommée Autorité
 de régulation des marchés publics (ARMP).
 Elle est l'organe de régulation de la commande publique et est rattachée

@@ -1,1 +1,0 @@
-Les règlements intérieurs et les modifications aux règlements adoptés par l'Assemblée nationale, la Haute autorité de l'audiovisuel et de la communication et par le Conseil économique et social sont, avant leur mise en application, obligatoirement soumis à la Cour constitutionnelle par le président de chacun des organes concernés.

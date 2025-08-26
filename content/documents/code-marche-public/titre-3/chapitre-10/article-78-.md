@@ -1,4 +1,4 @@
-Article 78 : Attribution provisoire
+
 Sous réserve des dispositions spécifiques applicables aux marchés qui
 peuvent donner lieu à la technique de l'enchère électronique,
 l'attribution du marché se fait sur la base de l'offre conforme pour

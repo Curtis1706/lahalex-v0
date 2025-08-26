@@ -1,4 +1,4 @@
-Article 36 : Procédure spécifique des prestations intellectuelles
+
 Le marché de prestations intellectuelles est relatif aux activités qui
 ont pour objet des prestations à caractère principalement intellectuel,
 dont l'élément prédominant n'est pas physiquement quantifiable. Il

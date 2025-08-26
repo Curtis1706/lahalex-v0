@@ -1,4 +1,4 @@
-Article 106 : Maîtrise d'œuvre
+
 Pour les marchés dont les montants sont égaux ou supérieurs aux seuils
 déterminés par voie réglementaire, la maîtrise d'œuvre est exercée par
 une personne physique ou une personne morale de droit public ou de droit

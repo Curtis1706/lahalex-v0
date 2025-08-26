@@ -1,2 +1,0 @@
-La Cour peut recourir, pour des travaux à caractère spécifique, à l'expertise externe.
-Les experts ainsi désignés sont assujettis au secret professionnel. Leur rémunération est fixée par ordonnance du président de la Cour, conformément au barème établi par voie réglementaire en matière d'expertise judiciaire ou suivant le barème de la profession de l'expert.

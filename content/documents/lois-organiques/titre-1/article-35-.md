@@ -1,1 +1,0 @@
-De même, la Cour constitutionnelle est saisie soit par le président de la République, soit par tout citoyen, toute association ou organisation de défense des droits de l'Homme, des lois et actes réglementaires censés porter atteinte aux droits fondamentaux de la personne humaine et aux libertés publiques et en général, de la violation des droits de la personne humaine.

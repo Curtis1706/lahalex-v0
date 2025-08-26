@@ -1,4 +1,4 @@
-Article 83 : Principales mentions des marchés
+
 La rédaction de tous les documents définitifs constitutifs du marché est
 assurée par l'autorité contractante et, le cas échéant, par le maître
 d'œuvre.

@@ -1,4 +1,4 @@
-Article 59 : Capacité technique
+
 L'autorité contractante doit inviter les candidats et soumissionnaires
 à justifier de leur capacité technique en fournissant les documents qui
 comprennent :

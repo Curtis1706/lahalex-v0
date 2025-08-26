@@ -1,4 +1,4 @@
-Article 98 : Prestations exécutées en régie
+
 Lorsqu'un marché comporte des prestations exécutées en régie, cellesci
 sont réalisées à la diligence et sous la responsabilité de l'autorité
 contractante.

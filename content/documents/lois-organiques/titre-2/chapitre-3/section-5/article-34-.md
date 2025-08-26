@@ -1,1 +1,0 @@
-À l'exception des audiences plénières solennelles, des audiences statuant à titre définitif en matière d'amende et celles que la Cour décide de rendre publiques, les audiences des différentes formations de la Cour se déroulent à huis clos.

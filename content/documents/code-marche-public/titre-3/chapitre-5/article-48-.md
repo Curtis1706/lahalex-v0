@@ -1,10 +1,10 @@
-Article 48 : Contenu de l'avis d'appel à concurrence
+
 L'avis d'appel à concurrence fait connaître au moins :
 1.  la référence de l'appel d'offres comprenant le numéro,
 l'identification de l'autorité contractante, l'objet du marché et
 la date de signature ;
-2.  la source de financement ;
-3.  le type d'appel d'offres ;
+1.  la source de financement ;
+2.  le type d'appel d'offres ;
 4.  le ou les lieux où l'on peut consulter ou retirer le dossier
 d'appel à concurrence ;
 5.  la qualification des candidats et les conditions de retrait du

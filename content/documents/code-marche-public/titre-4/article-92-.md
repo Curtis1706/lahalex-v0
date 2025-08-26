@@ -1,4 +1,4 @@
-Article 92 : Garantie de restitution de l'avance de démarrage
+
 Lorsque le marché prévoit des avances, le titulaire d'un marché est tenu
 de fournir une garantie de restitution couvrant la totalité du montant
 des avances.

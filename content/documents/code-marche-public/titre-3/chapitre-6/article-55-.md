@@ -1,4 +1,4 @@
-Article 55 : Communication électronique
+
 Les échanges d'informations intervenant en application des dispositions
 de la présente loi peuvent faire l'objet d'une transmission par voie
 électronique dans les conditions définies dans la présente loi.

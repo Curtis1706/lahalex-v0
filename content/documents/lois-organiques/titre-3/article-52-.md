@@ -1,2 +1,0 @@
-Le Conseil supérieur des comptes assiste le président de la République dans sa mission de garant de l'indépendance de la Cour des comptes et des cours régionales des comptes. À ce titre, il est consulté sur toute question concernant l'indépendance de la cour des comptes et la sécurité des juges financiers.
-Il est habilité à faire au président de la République, toute proposition de nature à garantir aux magistrats des juridictions financières, de bonnes conditions de travail.

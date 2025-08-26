@@ -1,4 +1,4 @@
-Article 116 : Recours administratifs préalables
+
 Les candidats et soumissionnaires peuvent introduire un recours devant
 la personne responsable des marchés publics ou son supérieur
 hiérarchique dans le cadre des procédures de passation des marchés à

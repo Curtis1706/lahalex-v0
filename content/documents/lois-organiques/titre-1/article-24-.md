@@ -1,1 +1,0 @@
-Lorsqu’elle est saisie par le président de l’Assemblée nationale, dans le cas prévu à l’article 86 de la Constitution, pour constater que les séances de l’Assemblée nationale ne peuvent pas se dérouler au lieu ordinaire de ses sessions, la Cour constitutionnelle se prononce à la majorité absolue de ses membres, dans un délai de trois (03) jours.

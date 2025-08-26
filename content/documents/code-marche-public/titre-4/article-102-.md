@@ -1,4 +1,4 @@
-Article 102 : Cotraitance ou groupement d'entreprises
+
 Les candidats ou soumissionnaires peuvent présenter leur candidature ou
 leur offre sous forme de groupement solidaire ou de groupement conjoint,
 sous réserve du respect des règles relatives à la liberté de prix et à

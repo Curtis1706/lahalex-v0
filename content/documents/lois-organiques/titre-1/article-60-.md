@@ -1,2 +1,0 @@
-Dans le cas prévu à l'article 77 alinéa 2 de la Constitution, la Cour constitutionnelle statue dans les trois (03) jours, à la majorité de cinq (05) de ses membres.
-CHAPITRE VII : ATTRIBUTIONS DE LA COUR CONSTITUTIONNELLE EN CE QUI CONCERNE L'ELECTION DES MEMBRES DE L'ASSEMBLEE NATIONALE

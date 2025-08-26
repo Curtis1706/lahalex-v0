@@ -1,4 +1,4 @@
-Article 66 : Signature des offres et soumission
+
 Les offres déposées par les soumissionnaires doivent être signées par
 eux ou par leurs mandataires dûment habilités sans que ces mêmes
 mandataires ne puissent représenter plus d'un soumissionnaire dans la

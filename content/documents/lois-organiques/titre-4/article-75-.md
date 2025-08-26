@@ -1,1 +1,0 @@
-La présente loi organique abroge les dispositions de la loi organique n° 2020-38 du 11 février 2021 ainsi que toutes autres dispositions contraires.

@@ -1,1 +1,0 @@
-Si la Cour constitutionnelle constate qu’une décision est entachée d’erreur matérielle, elle peut la rectifier d’office et procéder à toutes corrections matérielles nécessaires.

@@ -1,4 +1,4 @@
-Article 49 : Contenu du règlement particulier d'appel à concurrence
+
 Le règlement particulier d'appel à concurrence doit préciser entre
 autres :
 1.  la présentation et la constitution des offres ;

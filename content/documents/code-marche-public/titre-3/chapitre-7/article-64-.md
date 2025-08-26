@@ -1,4 +1,4 @@
-Article 64 : Inexactitude ou fausseté des mentions
+
 Constitue une inexactitude délibérée, la production de toute fausse
 pièce, toute fausse mention contenue dans une offre ou chèque sans
 provision à titre de garantie de soumission.

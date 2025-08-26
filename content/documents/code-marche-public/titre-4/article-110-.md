@@ -1,4 +1,4 @@
-Article 110 : Modalités de paiement
+
 Sous réserve des dispositions découlant des accords ou conventions de
 prêt ou des conventions internationales, tout règlement relatif à un
 marché public intervient par transfert bancaire sur un établissement

@@ -1,1 +1,0 @@
-La Cour constitutionnelle doit rendre sa décision dans un délai de trente (30) jours.

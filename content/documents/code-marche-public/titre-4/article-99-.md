@@ -1,4 +1,4 @@
-Article 99 : Régime fiscal
+
 Les marchés publics sont soumis aux régimes fiscal et douanier en
 vigueur en République du Bénin, sauf dérogations expresses prévues par
 les textes législatifs ou réglementaires et sous réserve des

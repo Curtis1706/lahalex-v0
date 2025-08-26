@@ -1,1 +1,0 @@
-Dans les cas prévus aux articles 3, 4 et 17 de la présente loi, les membres sont tenus de participer directement au vote. Aucune procuration n'est admise.

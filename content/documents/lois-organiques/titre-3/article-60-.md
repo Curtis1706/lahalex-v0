@@ -1,2 +1,0 @@
-Le secrétaire général a pour mission, notamment, de gérer toutes documentations et archives du Conseil supérieur des comptes.
-Il veille, en outre, en liaison avec toutes autres administrations, à la mise à jour et à la bonne tenue des dossiers personnels des magistrats ainsi qu'au suivi rigoureux de l'évolution de leur carrière.

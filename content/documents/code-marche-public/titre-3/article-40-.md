@@ -1,4 +1,4 @@
-Article 40 : Accordcadre, principe et condition de validité
+
 Les autorités contractantes peuvent recourir, lorsque l'objet du marché
 s'y prête, à des accordscadres conformément aux dispositions de la
 présente loi.

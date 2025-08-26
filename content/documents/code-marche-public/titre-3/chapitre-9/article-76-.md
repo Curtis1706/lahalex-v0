@@ -1,5 +1,4 @@
-Article 76 : Préférence spécifique aux marchés des collectivités
-locales
+
 Par dérogation aux dispositions visées à l'article précédent et dans le
 cas d'un marché d'une collectivité locale ou de l'un de ses
 établissements publics, le candidat étranger qui n'est pas une

@@ -1,4 +1,4 @@
-Article 108 : Mise en régie
+
 La mise en régie permet à l'autorité contractante de poursuivre
 l'exécution d'office du marché avec les moyens installés sur le site
 par le titulaire.

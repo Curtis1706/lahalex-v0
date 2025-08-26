@@ -1,4 +1,4 @@
-Article 88 : Obligations du titulaire
+
 Le titulaire du marché est tenu d'ouvrir et de tenir à jour :
 un document comptable spécifique au marché faisant ressortir les
 différentes sources de financement, les états des sommes facturées et

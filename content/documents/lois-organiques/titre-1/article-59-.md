@@ -1,1 +1,0 @@
-Lorsqu'elle est saisie par le gouvernement dans le cas prévu à l'article 52 alinéa 1er de la Constitution, la Cour constitutionnelle se prononce dans un délai de quinze (15) jours, à la majorité absolue de ses membres.

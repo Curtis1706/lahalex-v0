@@ -1,4 +1,4 @@
-Article 7 : Principes fondamentaux
+
 Les marchés publics, quel qu'en soit le montant, sont soumis aux
 principes suivants :
 1.  économie et efficacité du processus d'acquisition ;

@@ -1,4 +1,4 @@
-Article 81 : Offre anormalement basse (OAB)
+
 Une offre est réputée anormalement basse si son prix ne correspond pas à
 une réalité économique compte tenu des prix du marché.
 L'offre anormalement basse peut être déterminée à partir d'une formule

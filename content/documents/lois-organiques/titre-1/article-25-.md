@@ -1,1 +1,0 @@
-Un décret pris en Conseil des ministres sur proposition de la Cour constitutionnelle détermine l’organisation du secrétariat général.

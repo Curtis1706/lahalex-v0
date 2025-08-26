@@ -9,8 +9,53 @@ export class DocumentManager {
     await fs.mkdir(DOCUMENTS_DIR, { recursive: true })
   }
 
+  // Générer un ID unique basé sur le titre
+  private static generateUniqueId(title: string, type: string): string {
+    // Créer un slug de base à partir du titre
+    let baseId = title
+      .toLowerCase()
+      .replace(/[^a-z0-9\s-]/g, '')
+      .replace(/\s+/g, '-')
+      .replace(/-+/g, '-')
+      .trim()
+      .replace(/^-|-$/g, '')
+    
+    // Ajouter le type pour éviter les conflits entre catégories
+    baseId = `${baseId}-${type}`
+    
+    return baseId
+  }
+
+  // Vérifier si un ID existe déjà et générer une variante si nécessaire
+  private static async ensureUniqueId(baseId: string): Promise<string> {
+    let finalId = baseId
+    let counter = 1
+    
+    while (true) {
+      const documentDir = join(DOCUMENTS_DIR, finalId)
+      try {
+        await fs.access(documentDir)
+        // Le dossier existe, essayer avec un suffixe numérique
+        finalId = `${baseId}-${counter}`
+        counter++
+      } catch {
+        // Le dossier n'existe pas, cet ID est unique
+        break
+      }
+    }
+    
+    return finalId
+  }
+
   static async saveDocument(parsedDocument: ParsedDocument) {
     await this.ensureDirectories()
+    
+    // Générer un ID unique basé sur le titre et le type
+    const baseId = this.generateUniqueId(parsedDocument.metadata.title, parsedDocument.metadata.type)
+    const uniqueId = await this.ensureUniqueId(baseId)
+    
+    // Mettre à jour l'ID du document
+    parsedDocument.metadata.id = uniqueId
     
     console.log(`🔍 Saving document with ID: ${parsedDocument.metadata.id}`)
     
@@ -59,10 +104,10 @@ export class DocumentManager {
       try {
         const fichesDir = join(process.cwd(), 'content', 'documents', 'fiches-synthese')
         const metadataPath = join(fichesDir, documentId, 'metadata.json')
-        const content = await fs.readFile(metadataPath, 'utf-8')
-        return JSON.parse(content)
-      } catch {
-        return null
+      const content = await fs.readFile(metadataPath, 'utf-8')
+      return JSON.parse(content)
+    } catch {
+      return null
       }
     }
   }
@@ -153,10 +198,10 @@ export class DocumentManager {
          }
        }
        
-       const articles: Array<{ metadata: ArticleMetadata; content: string }> = []
-       
-       // Fonction récursive pour parcourir tous les dossiers
-       const scanDirectory = async (dir: string) => {
+      const articles: Array<{ metadata: ArticleMetadata; content: string }> = []
+      
+      // Fonction récursive pour parcourir tous les dossiers
+      const scanDirectory = async (dir: string) => {
         try {
           const entries = await fs.readdir(dir, { withFileTypes: true })
           
@@ -245,7 +290,7 @@ export class DocumentManager {
     return { dir, pathParts }
   }
 
-     private static async findArticlePath(documentId: string, articleId: string): Promise<string | null> {
+  private static async findArticlePath(documentId: string, articleId: string): Promise<string | null> {
      // Essayer d'abord dans le dossier principal
      let documentDir = join(DOCUMENTS_DIR, documentId)
      
@@ -262,9 +307,9 @@ export class DocumentManager {
          return null
        }
      }
-     
-     // Recherche récursive de l'article
-     const searchInDir = async (dir: string): Promise<string | null> => {
+    
+    // Recherche récursive de l'article
+    const searchInDir = async (dir: string): Promise<string | null> => {
       try {
         const entries = await fs.readdir(dir, { withFileTypes: true })
         
@@ -312,7 +357,7 @@ export class DocumentManager {
         }
       }
       
-             // Inclure aussi les fiches de méthode créées via l'admin
+      // Inclure aussi les fiches de méthode créées via l'admin
       try {
         const fichesDir = join(process.cwd(), 'content', 'documents', 'fiches-synthese')
         const fichesEntries = await fs.readdir(fichesDir, { withFileTypes: true })
@@ -331,7 +376,7 @@ export class DocumentManager {
         }
       } catch (error) {
         // Le dossier fiches-synthese n'existe pas encore, c'est normal
-                 console.log('Dossier fiches-methode non trouvé, ignoré')
+        console.log('Dossier fiches-methode non trouvé, ignoré')
       }
       
       return documents.sort((a, b) => 
@@ -344,6 +389,14 @@ export class DocumentManager {
     }
   }
 }
+
+
+
+
+
+
+
+
 
 
 

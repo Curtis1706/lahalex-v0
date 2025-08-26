@@ -1,1 +1,0 @@
-Les membres de la Cour Constitutionnelle reçoivent un traitement ainsi que des avantages et indemnités fixés par décret pris en Conseil des ministres et équivalant aux traitements, avantages et indemnités accordés aux membres de l'Assemblée nationale.

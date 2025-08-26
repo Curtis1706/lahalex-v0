@@ -1,4 +1,4 @@
-Article 9 : Principes de séparation des fonctions
+
 La fonction de passation, la fonction de contrôle et la fonction de
 régulation des marchés publics sont assurées par des organes distincts.
 Elles sont également garanties par des procédures et des mécanismes qui

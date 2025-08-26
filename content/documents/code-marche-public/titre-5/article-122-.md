@@ -1,4 +1,4 @@
-Article 122 : Violations commises par les soumissionnaires
+
 Sont passibles de sanctions sur décision de l'Autorité de régulation
 des marchés publics, tout candidat, soumissionnaire, attributaire ou
 titulaire de marché, coupable des incriminations ciaprès :

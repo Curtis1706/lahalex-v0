@@ -1,4 +1,4 @@
-Article 14 : Direction nationale de contrôle des marchés publics
+
 Il est créé, en application de la présente loi, une direction nationale
 de contrôle des marchés publics (DNCMP), placée sous la tutelle du
 ministre en charge des Finances. Elle est l'organe central de contrôle

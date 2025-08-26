@@ -1,4 +1,4 @@
-Article 58 : Capacité des candidats
+
 Tout candidat qui possède des capacités techniques et des capacités
 financières nécessaires à l'exécution d'un marché public ainsi que
 l'expérience de l'exécution de contrat analogue peut participer aux

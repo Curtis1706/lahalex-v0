@@ -1,4 +1,4 @@
-Article 1 : Définitions
+
 Au sens de la présente loi, les termes ciaprès se comprennent comme
 suit :
 accordcadre : accord conclu en matière de travaux, fournitures,

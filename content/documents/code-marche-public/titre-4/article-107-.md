@@ -1,4 +1,4 @@
-Article 107 : Résiliation
+
 Les marchés publics peuvent faire l'objet d'une résiliation dans les
 conditions stipulées au cahier des clauses administratives générales par
 une décision de résiliation dans les cas suivants :

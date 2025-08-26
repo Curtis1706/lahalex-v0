@@ -1,1 +1,0 @@
-Lorsque le Conseil supérieur des comptes siège comme conseil de discipline, le ministre chargé de la Justice ne participe pas aux délibérations. Il peut toutefois être entendu.

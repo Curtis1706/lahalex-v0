@@ -1,4 +1,4 @@
-Article 37 : Méthodes de sélection des consultants
+
 Les méthodes de sélection de consultants pour les marchés de prestations
 intellectuelles comprennent les méthodes applicables à la sélection de
 consultants personnes morales, la méthode applicable aux consultants
@@ -77,7 +77,7 @@ l'issue d'un avis à manifestation d'intérêt.
 Dans ce cas, seul le cabinet qui présente le meilleur niveau de
 qualification et d'expérience est invité à soumettre une proposition
 technique et financière aux fins de négociation.
-2.  Sélection des consultants individuels
+1.  Sélection des consultants individuels
 L'autorité contractante fait appel à des consultants individuels dans
 le cadre des missions pour lesquelles :
 une équipe d'experts n'est pas nécessaire ;
@@ -103,7 +103,7 @@ L'autorité contractante négocie le marché avec le consultant individuel
 sélectionné, après avoir obtenu un accord satisfaisant sur les termes et
 conditions du marché, y compris des honoraires et autres dépenses à prix
 raisonnable.
-3.  Sélection des consultants par la procédure d'entente directe
+1.  Sélection des consultants par la procédure d'entente directe
 Lorsque les prestations à fournir le requièrent, la sélection d'un
 consultant, à raison de sa qualification unique ou de la nécessité de
 continuer avec le même prestataire, peut intervenir par entente directe.

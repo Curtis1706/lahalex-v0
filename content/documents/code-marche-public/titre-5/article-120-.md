@@ -1,4 +1,4 @@
-Article 120 : Modes de règlement des litiges
+
 Les parties peuvent choisir le recours aux modes de règlement des
 litiges, différends ou contentieux suivants :
 règlement à l'amiable ;

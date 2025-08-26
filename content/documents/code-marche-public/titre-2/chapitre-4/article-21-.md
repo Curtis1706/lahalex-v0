@@ -1,4 +1,4 @@
-Article 21 : Autorité signataire
+
 Le pouvoir de signer un marché public appartient à la personne
 responsable des marchés publics.
 Elle représente l'autorité contractante pour le compte de laquelle le

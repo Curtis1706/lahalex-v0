@@ -1,5 +1,4 @@
-Article 131 : Gestion des procédures de marchés en cours avant
-l'entrée en vigueur de la présente loi
+
 Les marchés publics notifiés avant l'entrée en vigueur de la présente
 loi demeurent soumis aux règles en vigueur au moment de leur
 notification.

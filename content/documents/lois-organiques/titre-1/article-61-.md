@@ -1,1 +1,0 @@
-Conformément aux dispositions de l'article 81 alinéa 2 de la Constitution, la Cour constitutionnelle statue souverainement sur la validité de l'élection des membres de l'Assemblée nationale, ainsi que sur la régularité des élections législatives en cas de contestation comme il est prévu à l'article 117 alinéas 1, 5ème point et 3 de la Constitution.

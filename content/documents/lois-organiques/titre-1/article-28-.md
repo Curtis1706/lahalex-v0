@@ -1,1 +1,0 @@
-La Cour constitutionnelle est saisie par requête, dans les formes et suivant les modalités fixées au règlement intérieur.

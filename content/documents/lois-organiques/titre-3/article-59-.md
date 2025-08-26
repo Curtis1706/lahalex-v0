@@ -1,1 +1,0 @@
-Le secrétariat du Conseil supérieur des comptes est assuré par le secrétaire général de la Cour des comptes.

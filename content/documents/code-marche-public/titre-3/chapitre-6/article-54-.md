@@ -1,4 +1,4 @@
-Article 54 : Délai de remise des offres
+
 Sous réserve des dispositions applicables aux marchés passés par
 sollicitation de prix, le délai de réception des propositions ou des
 offres dans les procédures ouvertes et restreintes ne peut être

@@ -1,1 +1,0 @@
-La décision portant déclaration de la Cour constitutionnelle est motivée. Elle est publiée au Journal officiel.

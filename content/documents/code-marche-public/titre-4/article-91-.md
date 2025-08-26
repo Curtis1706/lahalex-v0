@@ -1,4 +1,4 @@
-Article 91 : Garantie de bonne exécution : champ d'application
+
 Sans préjudice de l'application des dispositions des lois et règlements
 en vigueur en matière de garantie des travaux, des fournitures et des
 services, les titulaires d'un marché sont tenus de fournir une garantie

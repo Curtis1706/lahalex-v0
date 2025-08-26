@@ -1,1 +1,0 @@
-Le procureur général veille à la mise en œuvre des dispositions des textes législatifs et réglementaires, au respect des normes professionnelles et des textes et instructions internes.
