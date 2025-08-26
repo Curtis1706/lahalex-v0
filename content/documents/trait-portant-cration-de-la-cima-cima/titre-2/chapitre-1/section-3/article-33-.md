@@ -1,0 +1,1 @@
+Le Secrétaire Général exerce en pleine indépendance les pouvoirs propres qui lui sont dévolus.

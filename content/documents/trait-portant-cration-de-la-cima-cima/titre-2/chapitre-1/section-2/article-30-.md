@@ -1,0 +1,1 @@
+Les dispositions du présent titre relatives à l'organisation de la Commission et à l'exécution de ses missions sont complétées et précisées par les statuts de celle-ci ou par la législation unique des assurances mentionnée à l'article 3 du présent Traité.

@@ -1,0 +1,2 @@
+Le Secrétaire Général et les Secrétaires Généraux Adjoints s'abstiennent de tout acte incompatible avec les devoirs d'honnêteté et de délicatesse attachés à l'exercice de leurs fonctions.
+En dehors des renouvellements réguliers et des décès, les fonctions de Secrétaire Général et celles de Secrétaires Généraux Adjoints prennent fin par la démission ou par la décision de révocation prononcée par le Conseil en cas de faute grave ou si les conditions nécessaires à l'exercice des fonctions ne sont plus remplies.

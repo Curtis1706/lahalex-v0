@@ -1,0 +1,1 @@
+Sans préjudice des dispositions figurant à l'article 44 supra, l'exécution juridique et matérielle des actes établis par les organes de la Conférence est assurée par les États membres.

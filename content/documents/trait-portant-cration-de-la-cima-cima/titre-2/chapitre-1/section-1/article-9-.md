@@ -1,0 +1,1 @@
+Le Conseil se réunit et délibère valablement si les trois quarts au moins de ses membres sont présents ou représentés.

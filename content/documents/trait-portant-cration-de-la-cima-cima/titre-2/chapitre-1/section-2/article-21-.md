@@ -1,0 +1,1 @@
+Les décisions et avis de la Commission de Contrôle sont notifiés aux entreprises intéressées et au Ministre chargé du secteur des assurances dans l'État membre concerné. Les décisions sont exécutoires dès leur notification.

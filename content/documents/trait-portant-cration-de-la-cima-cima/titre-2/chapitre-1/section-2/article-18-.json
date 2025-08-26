@@ -1,0 +1,16 @@
+{
+  "id": "article-18-",
+  "title": "Article 18 :",
+  "numero": "18 ",
+  "document": "traite-CIMA",
+  "path": [
+    "titre-2",
+    "chapitre-1",
+    "section-2"
+  ],
+  "navigation": {
+    "parent": "section-2",
+    "previous": "article-17-",
+    "next": "article-19-"
+  }
+}

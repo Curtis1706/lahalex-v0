@@ -1,0 +1,2 @@
+Le premier exercice financier s'étendra de la date d'entrée en vigueur du présent Traité jusqu'au 31 décembre suivant. Toutefois, cet exercice s'étendra jusqu'au 31 décembre de l'année suivant celle de l'entrée en vigueur du Traité, si celle-ci se situe au cours du deuxième semestre.
+Les contributions prévues aux articles 51 et 54 du présent Traité pourront être perçues dès l'établissement du budget applicable au premier exercice.

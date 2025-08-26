@@ -1,0 +1,16 @@
+{
+  "id": "article-32-",
+  "title": "Article 32 :",
+  "numero": "32 ",
+  "document": "traite-CIMA",
+  "path": [
+    "titre-2",
+    "chapitre-1",
+    "section-3"
+  ],
+  "navigation": {
+    "parent": "section-3",
+    "previous": "article-31-",
+    "next": "article-33-"
+  }
+}

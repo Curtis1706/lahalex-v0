@@ -1,0 +1,15 @@
+{
+  "id": "article-17-",
+  "title": "Article 17 : Des publications de l’Organisation",
+  "numero": "17 ",
+  "document": "acccord-de-bangui",
+  "path": [
+    "titre-1",
+    "section-3"
+  ],
+  "navigation": {
+    "parent": "section-3",
+    "previous": "article-16-",
+    "next": "article-18-"
+  }
+}

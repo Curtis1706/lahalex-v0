@@ -1,0 +1,15 @@
+{
+  "id": "article-5-",
+  "title": "Article 5 : De la portée de l’Accord",
+  "numero": "5 ",
+  "document": "acccord-de-bangui",
+  "path": [
+    "titre-1",
+    "section-2"
+  ],
+  "navigation": {
+    "parent": "section-2",
+    "previous": "article-4-",
+    "next": "article-6-"
+  }
+}

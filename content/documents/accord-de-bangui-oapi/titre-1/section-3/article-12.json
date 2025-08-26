@@ -1,0 +1,15 @@
+{
+  "id": "article-12",
+  "title": "Article 12: De l’enregistrement, du maintien en vigueur",
+  "numero": "12",
+  "document": "acccord-de-bangui",
+  "path": [
+    "titre-1",
+    "section-3"
+  ],
+  "navigation": {
+    "parent": "section-3",
+    "previous": "article-11-",
+    "next": "article-13-"
+  }
+}

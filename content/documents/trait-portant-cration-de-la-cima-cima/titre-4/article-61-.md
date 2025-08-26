@@ -1,0 +1,1 @@
+La langue de travail de la Conférence et des institutions spécialisées est le français.

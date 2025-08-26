@@ -1,0 +1,2 @@
+Le Conseil désigne deux Secrétaires Généraux Adjoints.
+Les Secrétaires Généraux Adjoints sont nommés pour une durée de cinq ans renouvelable une fois. Ils doivent justifier d'une compétence technique et avoir assuré des responsabilités dans le domaine des assurances. Ils peuvent recevoir délégation de pouvoir de la part du Secrétaire Général.

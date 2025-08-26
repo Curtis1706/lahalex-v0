@@ -1,0 +1,3 @@
+Les organes et institutions autonomes mentionnés par le présent Traité prennent la suite de ceux établis par les conventions du 27 novembre 1973 et du 20 septembre 1990. A ce titre, l'Institut International des Assurances (IIA) et la Compagnie Commune de Réassurance des États Membres de la CICA (CICA-RE) continuent à bénéficier des mêmes droits et à assumer les mêmes charges et obligations. Ils conservent la propriété de tous leurs biens.
+Le Secrétariat Général de la Conférence bénéficie des droits et assure les charges et obligations précédemment dévolues à la Conférence Internationale des Contrôles d'Assurances des États Africains (CICA).
+Il acquiert la propriété de tous les biens de cette organisation.

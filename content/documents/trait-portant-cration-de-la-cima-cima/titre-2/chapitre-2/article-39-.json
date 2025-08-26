@@ -1,0 +1,15 @@
+{
+  "id": "article-39-",
+  "title": "Article 39 :",
+  "numero": "39 ",
+  "document": "traite-CIMA",
+  "path": [
+    "titre-2",
+    "chapitre-2"
+  ],
+  "navigation": {
+    "parent": "chapitre-2",
+    "previous": "article-38-",
+    "next": "article-40-"
+  }
+}

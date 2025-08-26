@@ -1,0 +1,1 @@
+Les statuts du Secrétariat Général fixent les incompatibilités attachées à l'exercice des fonctions du Secrétaire Général, des Secrétaires Généraux Adjoints et des Commissaires Contrôleurs.

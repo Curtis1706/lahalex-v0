@@ -1,0 +1,2 @@
+La Conférence et les institutions autonomes peuvent faire appel à l'aide technique ou financière de tout autre État qui l'accepte, des organisations internationales et de tout autre organisme susceptible de leur apporter un concours.
+Des accords de coopération et d'assistance peuvent être signés avec les États ou les organisations internationales.

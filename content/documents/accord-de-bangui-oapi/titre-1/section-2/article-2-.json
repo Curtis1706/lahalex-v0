@@ -1,0 +1,15 @@
+{
+  "id": "article-2-",
+  "title": "Article 2 : Des missions",
+  "numero": "2 ",
+  "document": "acccord-de-bangui",
+  "path": [
+    "titre-1",
+    "section-2"
+  ],
+  "navigation": {
+    "parent": "section-2",
+    "previous": "article-1-",
+    "next": "article-3-"
+  }
+}

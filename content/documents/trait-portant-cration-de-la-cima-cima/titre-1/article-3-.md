@@ -1,0 +1,1 @@
+Le Code des assurances figurant à l'annexe I du présent Traité définit la législation unique des assurances.

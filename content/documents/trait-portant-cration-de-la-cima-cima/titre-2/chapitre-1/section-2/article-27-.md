@@ -1,0 +1,1 @@
+Tout membre de la Commission ayant manqué à ses obligations peut être déclaré démissionnaire par le Conseil.

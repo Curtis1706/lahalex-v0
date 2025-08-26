@@ -1,0 +1,1 @@
+Le Conseil arrête le budget de l'Institut International des Assurances (IIA) dans les conditions prévues par les statuts et par le règlement financier de celui-ci.

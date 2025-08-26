@@ -1,0 +1,4 @@
+Le Conseil fixe, avant la fin de chaque année civile, les contributions au titre des États membres au fonctionnement des organes de la Conférence et de l'IIA au titre de l'année suivante.
+Les contributions visées à l'alinéa précédent sont calculées suivant les modalités fixées par le Conseil.
+Le Ministre en charge du secteur des assurances de chaque État membre notifie aux sociétés, avant le 31 Mars de chaque année, le montant des contributions qui leur reviennent, au titre de l'année courante, en distinguant les parts affectées aux organes de la Conférence, à l'IIA et aux charges de fonctionnement des Directions Nationales des Assurances.
+Simultanément, le Ministre en charge du secteur des assurances de chaque État membre informe le Secrétaire Général de la Conférence et le Directeur Général de l'IIA des appels de contributions effectués à leur bénéfice et incombant à chaque société.

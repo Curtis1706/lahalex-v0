@@ -1,0 +1,8 @@
+1°) Dès son entrée en fonction, après avis du Comité des Experts mentionné à l'article 15 du présent Traité, le Secrétaire Général établit l'organigramme du Secrétariat Général de la Conférence ;
+2°) Pour pourvoir aux postes du corps de contrôle des assurances constitué au sein du Secrétariat Général de la Conférence, le Secrétaire Général réunit un comité de sélection composé :
+– du Président de la Commission ;
+– du Directeur Général de l’IIA ;
+– d'une personnalité ayant exercé des responsabilités dans le secteur des assurances, choisie pour son expérience du marché africain des assurances, nommée par le Conseil ;
+– d'une personnalité ayant acquis une expérience des problèmes du contrôle des assurances en Afrique dans le cadre de l'aide technique fournie par les États tiers ou les organisations internationales, nommée par le Conseil.
+Le Secrétaire Général de la Conférence est membre du comité de sélection, le Président de la Commission en assure la présidence ;
+3°) Les modalités de sélection des candidats au recrutement dans le corps de contrôle des assurances sont établies en annexe des statuts du Secrétariat Général de la Conférence après avis du comité de sélection. Seuls les titulaires du diplôme de l'IIA ou d'un diplôme équivalent, les titulaires d'un diplôme universitaire de troisième cycle et les personnes justifiant d'une expérience dans le domaine des assurances sont admis à présenter leur candidature.

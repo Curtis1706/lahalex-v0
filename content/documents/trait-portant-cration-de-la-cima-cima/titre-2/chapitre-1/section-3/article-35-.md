@@ -1,0 +1,1 @@
+Le Secrétaire Général établit l'organigramme des services du Secrétariat Général et pourvoit aux emplois dans la limite des effectifs autorisés par le budget de la Conférence.

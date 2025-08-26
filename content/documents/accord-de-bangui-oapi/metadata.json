@@ -1,0 +1,1328 @@
+{
+  "id": "accord-de-bangui-oapi",
+  "title": "Accord de Bangui",
+  "type": "oapi",
+  "description": "Accord de Bangui régissant l'Organisation Africaine de la Propriété Intellectuelle (OAPI), couvrant les aspects de la propriété industrielle et littéraire dans les États membres.",
+  "structure": {
+    "sections": [
+      {
+        "id": "titre-1",
+        "title": "TITRE 1: DES DISPOSITIONS GÉNÉRALES",
+        "type": "titre",
+        "level": 2,
+        "order": 0,
+        "path": [
+          "titre-1"
+        ],
+        "children": [
+          "section-1",
+          "section-2",
+          "section-3"
+        ]
+      },
+      {
+        "id": "section-1",
+        "title": "SECTION 1 : DEFINITIONS",
+        "type": "section",
+        "level": 4,
+        "order": 1,
+        "path": [
+          "titre-1",
+          "section-1"
+        ],
+        "children": [
+          "article-1-"
+        ]
+      },
+      {
+        "id": "article-1-",
+        "title": "Article 1 : Définitions",
+        "type": "article",
+        "level": 1,
+        "order": 609,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "section-2",
+        "title": "SECTION 2 : PRINCIPES FONDAMENTAUX",
+        "type": "section",
+        "level": 4,
+        "order": 3,
+        "path": [
+          "titre-1",
+          "section-2"
+        ],
+        "children": [
+          "article-2-",
+          "article-3-",
+          "article-4-",
+          "article-5-",
+          "article-6-",
+          "article-7-"
+        ]
+      },
+      {
+        "id": "article-2-",
+        "title": "Article 2 : Certificat d’obtention végétale",
+        "type": "article",
+        "level": 1,
+        "order": 610,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-3-",
+        "title": "Article 3 : Taxons botaniques susceptibles d’être protégés",
+        "type": "article",
+        "level": 1,
+        "order": 611,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-4-",
+        "title": "Article 4 : Critères de protection d’une variété végétale",
+        "type": "article",
+        "level": 1,
+        "order": 613,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-5-",
+        "title": "Article 5 : Nouveauté",
+        "type": "article",
+        "level": 1,
+        "order": 614,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-6-",
+        "title": "Article 6 : Distinction",
+        "type": "article",
+        "level": 1,
+        "order": 615,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-7-",
+        "title": "Article 7 : Homogénéité",
+        "type": "article",
+        "level": 1,
+        "order": 616,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "section-3",
+        "title": "SECTION 3 : DES PROCEDURES ET DES REGLES DE FONCTIONNEMENT",
+        "type": "section",
+        "level": 4,
+        "order": 10,
+        "path": [
+          "titre-1",
+          "section-3"
+        ],
+        "children": [
+          "article-8-",
+          "article-9-",
+          "article-10-",
+          "article-11-",
+          "article-12",
+          "article-13-",
+          "article-14-",
+          "article-15-",
+          "article-16-",
+          "article-17-",
+          "article-18-",
+          "article-19-",
+          "article-20-"
+        ]
+      },
+      {
+        "id": "article-8-",
+        "title": "Article 8 : Stabilité",
+        "type": "article",
+        "level": 1,
+        "order": 617,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-9-",
+        "title": "Article 9 : Droit au certificat d’obtention végétale",
+        "type": "article",
+        "level": 1,
+        "order": 618,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-10-",
+        "title": "Article 10 : Copropriété du certificat d’obtention végétale",
+        "type": "article",
+        "level": 1,
+        "order": 619,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-11-",
+        "title": "Article 11 : Variétés végétales obtenues sur commande",
+        "type": "article",
+        "level": 1,
+        "order": 620,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-12",
+        "title": "Article 12: De l’enregistrement, du maintien en vigueur",
+        "type": "article",
+        "level": 3,
+        "order": 15,
+        "path": [
+          "titre-1",
+          "section-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-13-",
+        "title": "Article 13 : Dépôt de la demande",
+        "type": "article",
+        "level": 1,
+        "order": 623,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-14-",
+        "title": "Article 14 : Revendication de priorité",
+        "type": "article",
+        "level": 1,
+        "order": 624,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-15-",
+        "title": "Article 15 : Irrecevabilité pour défaut de paiement",
+        "type": "article",
+        "level": 1,
+        "order": 625,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-16-",
+        "title": "Article 16 : Conditions de recevabilité et date de dépôt",
+        "type": "article",
+        "level": 1,
+        "order": 626,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-17-",
+        "title": "Article 17 : Publication de la demande",
+        "type": "article",
+        "level": 1,
+        "order": 627,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-18-",
+        "title": "Article 18 : Objections à la délivrance du certificat",
+        "type": "article",
+        "level": 1,
+        "order": 628,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-19-",
+        "title": "Article 19 : Revendication de propriété devant l’Organisation",
+        "type": "article",
+        "level": 1,
+        "order": 629,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-20-",
+        "title": "Article 20 : Examen de la demande du certificat d’obtention végétale et",
+        "type": "article",
+        "level": 1,
+        "order": 630,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "titre-2",
+        "title": "TITRE 2 : DES ETATS MEMBRES",
+        "type": "titre",
+        "level": 2,
+        "order": 24,
+        "path": [
+          "titre-2"
+        ],
+        "children": [
+          "article-21-",
+          "article-22-",
+          "article-23-",
+          "article-24-"
+        ]
+      },
+      {
+        "id": "article-21-",
+        "title": "Article 21 : Renseignements, documents et matériel",
+        "type": "article",
+        "level": 1,
+        "order": 631,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-22-",
+        "title": "Article 22 : Confidentialité de la demande",
+        "type": "article",
+        "level": 1,
+        "order": 632,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-23-",
+        "title": "Article 23 : Règles applicables au rejet",
+        "type": "article",
+        "level": 1,
+        "order": 633,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-24-",
+        "title": "Article 24 : Délivrance du certificat d’obtention",
+        "type": "article",
+        "level": 1,
+        "order": 634,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "titre-3",
+        "title": "TITRE 3 : DES ORGANES DE L’ORGANISATION",
+        "type": "titre",
+        "level": 2,
+        "order": 31,
+        "path": [
+          "titre-3"
+        ],
+        "children": [
+          "article-25-",
+          "article-26-",
+          "article-27-",
+          "article-28-",
+          "article-29-",
+          "article-30-",
+          "article-31-",
+          "article-32-",
+          "article-33-",
+          "article-34-"
+        ]
+      },
+      {
+        "id": "article-25-",
+        "title": "Article 25 : Publication",
+        "type": "article",
+        "level": 1,
+        "order": 635,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-26-",
+        "title": "Article 26 : Objet de la dénomination et signes susceptibles de",
+        "type": "article",
+        "level": 1,
+        "order": 637,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-27-",
+        "title": "Article 27 : Motifs de refus d’une dénomination",
+        "type": "article",
+        "level": 1,
+        "order": 638,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-28-",
+        "title": "Article 28 : Procédure d’enregistrement d’une dénomination",
+        "type": "article",
+        "level": 1,
+        "order": 639,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-29-",
+        "title": "Article 29 : Opposition à l’enregistrement d’une dénomination",
+        "type": "article",
+        "level": 1,
+        "order": 640,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-30-",
+        "title": "Article 30 : Radiation d’une dénomination et enregistrement",
+        "type": "article",
+        "level": 1,
+        "order": 641,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-31-",
+        "title": "Article 31 : Généralités",
+        "type": "article",
+        "level": 1,
+        "order": 643,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-32-",
+        "title": "Article 32 : Etendue des droits conférés par le certificat",
+        "type": "article",
+        "level": 1,
+        "order": 644,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-33-",
+        "title": "Article 33 : Exceptions aux droits conférés par le certificat",
+        "type": "article",
+        "level": 1,
+        "order": 645,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-34-",
+        "title": "Article 34 : Epuisement des droits conférés par le certificat",
+        "type": "article",
+        "level": 1,
+        "order": 646,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "titre-4",
+        "title": "TITRE 4 : DES RESSOURCES FINANCIERES DE L’ORGANISATION",
+        "type": "titre",
+        "level": 2,
+        "order": 45,
+        "path": [
+          "titre-4"
+        ],
+        "children": [
+          "article-35-",
+          "article-36-"
+        ]
+      },
+      {
+        "id": "article-35-",
+        "title": "Article 35 : Réglementation économique",
+        "type": "article",
+        "level": 1,
+        "order": 647,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-36-",
+        "title": "Article 36 : Durée du certificat d’obtention végétale ; maintien",
+        "type": "article",
+        "level": 1,
+        "order": 648,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "titre-5",
+        "title": "TITRE 5 : DES DISPOSITIONS DIVERSES ET FINALES",
+        "type": "titre",
+        "level": 2,
+        "order": 48,
+        "path": [
+          "titre-5"
+        ],
+        "children": [
+          "article-37-",
+          "article-38-",
+          "article-39-",
+          "article-40-",
+          "article-41-",
+          "article-42-",
+          "article-43-",
+          "article-44-",
+          "article-45-",
+          "article-46-",
+          "article-47-",
+          "article-48-"
+        ]
+      },
+      {
+        "id": "article-37-",
+        "title": "Article 37 : Protection provisoire",
+        "type": "article",
+        "level": 1,
+        "order": 649,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-38-",
+        "title": "Article 38 : Restauration",
+        "type": "article",
+        "level": 1,
+        "order": 650,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-39-",
+        "title": "Article 39 : Exploitation par les pouvoirs publics ou par",
+        "type": "article",
+        "level": 1,
+        "order": 651,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-40-",
+        "title": "Article 40 : Maintien de la variété",
+        "type": "article",
+        "level": 1,
+        "order": 653,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-41-",
+        "title": "Article 41 : Fourniture d’échantillons",
+        "type": "article",
+        "level": 1,
+        "order": 654,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-42-",
+        "title": "Article 42 : Changement et démembrement de propriété",
+        "type": "article",
+        "level": 1,
+        "order": 656,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-43-",
+        "title": "Article 43 : Déchéance du titulaire",
+        "type": "article",
+        "level": 1,
+        "order": 657,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-44-",
+        "title": "Article 44 : Prorogation des délais",
+        "type": "article",
+        "level": 1,
+        "order": 659,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-45-",
+        "title": "Article 45 : Juridictions compétentes",
+        "type": "article",
+        "level": 2,
+        "order": 661,
+        "path": [
+          "titre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-46-",
+        "title": "Article 46 : Annulation du certificat d’obtention végétale",
+        "type": "article",
+        "level": 2,
+        "order": 662,
+        "path": [
+          "titre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-47-",
+        "title": "Article 47 : Revendication de propriété devant le Tribunal",
+        "type": "article",
+        "level": 2,
+        "order": 663,
+        "path": [
+          "titre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-48-",
+        "title": "Article 48 : Contrefaçon",
+        "type": "article",
+        "level": 2,
+        "order": 664,
+        "path": [
+          "titre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-12-",
+        "title": "Article 12 : Variétés végétales obtenues par des salariés",
+        "type": "article",
+        "level": 1,
+        "order": 621,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "section-4",
+        "title": "SECTION 4 : DE LA COMMUNICATION ET DE",
+        "type": "section",
+        "level": 4,
+        "order": 101,
+        "path": [
+          "section-4"
+        ],
+        "children": [
+          "article-33-",
+          "article-34-",
+          "article-35-"
+        ]
+      },
+      {
+        "id": "section-5",
+        "title": "SECTION 5 : DE LA TRANSMISSION, DE LA CESSION DES BREVETS ET DES LICENCES CONTRACTUELLES",
+        "type": "section",
+        "level": 4,
+        "order": 105,
+        "path": [
+          "section-5"
+        ],
+        "children": [
+          "article-36-",
+          "article-37-",
+          "article-38-",
+          "article-39-",
+          "article-40-",
+          "article-41-",
+          "article-42-"
+        ]
+      },
+      {
+        "id": "article-49-",
+        "title": "Article 49 : Prévention des atteintes",
+        "type": "article",
+        "level": 2,
+        "order": 665,
+        "path": [
+          "titre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-50-",
+        "title": "Article 50 : Saisie-contrefaçon",
+        "type": "article",
+        "level": 2,
+        "order": 666,
+        "path": [
+          "titre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-51-",
+        "title": "Article 51 : Délai pour engager la procédure au fond",
+        "type": "article",
+        "level": 2,
+        "order": 667,
+        "path": [
+          "titre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-52-",
+        "title": "Article 52 : Recherches d’informations",
+        "type": "article",
+        "level": 2,
+        "order": 668,
+        "path": [
+          "titre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-53-",
+        "title": "Article 53 : Fixation des dommages-intérêts",
+        "type": "article",
+        "level": 2,
+        "order": 669,
+        "path": [
+          "titre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-54-",
+        "title": "Article 54 : Peines",
+        "type": "article",
+        "level": 2,
+        "order": 670,
+        "path": [
+          "titre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-55-",
+        "title": "Article 55 : Autres sanctions",
+        "type": "article",
+        "level": 2,
+        "order": 671,
+        "path": [
+          "titre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-56-",
+        "title": "Article 56 : Usurpation",
+        "type": "article",
+        "level": 2,
+        "order": 672,
+        "path": [
+          "titre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-57-",
+        "title": "Article 57 : Circonstances atténuantes",
+        "type": "article",
+        "level": 2,
+        "order": 673,
+        "path": [
+          "titre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-58-",
+        "title": "Article 58 : Conditions de mise en mouvement de l’action publique",
+        "type": "article",
+        "level": 2,
+        "order": 674,
+        "path": [
+          "titre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-6",
+        "title": "TITRE 6 : DES AUTRES ACTIONS EN JUSTICE ET DE LA PROCEDURE",
+        "type": "titre",
+        "level": 2,
+        "order": 135,
+        "path": [
+          "titre-6"
+        ],
+        "children": [
+          "article-59-",
+          "article-60-",
+          "article-61-",
+          "article-62-",
+          "article-63-",
+          "article-64-",
+          "article-65-",
+          "article-66-",
+          "article-67-",
+          "article-68-",
+          "article-69-",
+          "article-70-",
+          "article-71-",
+          "article-72-",
+          "article-73-",
+          "article-74-",
+          "article-75-",
+          "article-76-",
+          "article-77-",
+          "article-78-"
+        ]
+      },
+      {
+        "id": "article-59-",
+        "title": "Article 59 : Fraudes liées aux dénominations variétales",
+        "type": "article",
+        "level": 2,
+        "order": 675,
+        "path": [
+          "titre-9"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-60-",
+        "title": "Article 60 : Mesure à la demande",
+        "type": "article",
+        "level": 2,
+        "order": 677,
+        "path": [
+          "titre-10"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-61-",
+        "title": "Article 61 : Action menée d’office",
+        "type": "article",
+        "level": 2,
+        "order": 678,
+        "path": [
+          "titre-10"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-62-",
+        "title": "Article 62 : Maintien en vigueur des certificats d’obtentions végétales",
+        "type": "article",
+        "level": 2,
+        "order": 680,
+        "path": [
+          "titre-11"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-63-",
+        "title": "Article 63 : Libre utilisation par des organismes de radiodiffusion",
+        "type": "article",
+        "level": 1,
+        "order": 513,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-64-",
+        "title": "Article 64 : Durée de protection pour les interprétations",
+        "type": "article",
+        "level": 1,
+        "order": 515,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-65-",
+        "title": "Article 65 : Durée de protection pour les phonogrammes et les",
+        "type": "article",
+        "level": 1,
+        "order": 516,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-66-",
+        "title": "Article 66 : Durée de protection pour les émissions de radiodiffusion",
+        "type": "article",
+        "level": 1,
+        "order": 517,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-67-",
+        "title": "Article 67 : Rémunération pour copie privée des",
+        "type": "article",
+        "level": 1,
+        "order": 520,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-68-",
+        "title": "Article 68 : Domaine public payant",
+        "type": "article",
+        "level": 1,
+        "order": 522,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-69-",
+        "title": "Article 69 : Gestion collective",
+        "type": "article",
+        "level": 1,
+        "order": 524,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-70-",
+        "title": "Article 70 : Actes constitutifs de contrefaçon",
+        "type": "article",
+        "level": 1,
+        "order": 527,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-71-",
+        "title": "Article 71 : Actes assimilés à la contrefaçon",
+        "type": "article",
+        "level": 1,
+        "order": 528,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-72-",
+        "title": "Article 72 : Information sur le régime des droits",
+        "type": "article",
+        "level": 1,
+        "order": 529,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-73-",
+        "title": "Article 73 : Sanctions pénales",
+        "type": "article",
+        "level": 1,
+        "order": 531,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-74-",
+        "title": "Article 74 : Circonstances aggravantes",
+        "type": "article",
+        "level": 1,
+        "order": 532,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-75-",
+        "title": "Article 75 : Sanctions pénales complémentaires",
+        "type": "article",
+        "level": 1,
+        "order": 533,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-76-",
+        "title": "Article 76 : Sanctions civiles",
+        "type": "article",
+        "level": 1,
+        "order": 534,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-77-",
+        "title": "Article 77 : Détermination des personnes ayant qualité à agir",
+        "type": "article",
+        "level": 1,
+        "order": 536,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-78-",
+        "title": "Article 78 : Agents assermentés des organismes",
+        "type": "article",
+        "level": 1,
+        "order": 537,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "titre-7",
+        "title": "TITRE 7 : DES DISPOSITIONS DIVERSES,",
+        "type": "titre",
+        "level": 2,
+        "order": 159,
+        "path": [
+          "titre-7"
+        ],
+        "children": [
+          "article-79-",
+          "article-80-"
+        ]
+      },
+      {
+        "id": "article-79-",
+        "title": "Article 79 : Obligation des Pouvoirs publics",
+        "type": "article",
+        "level": 1,
+        "order": 538,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-80-",
+        "title": "Article 80 : Saisie-contrefaçon",
+        "type": "article",
+        "level": 1,
+        "order": 539,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "titre-8",
+        "title": "TITRE 8 : DES DISPOSITIONS TRANSITOIRES ET FINALES",
+        "type": "titre",
+        "level": 2,
+        "order": 244,
+        "path": [
+          "titre-8"
+        ],
+        "children": [
+          "article-71-"
+        ]
+      },
+      {
+        "id": "article-65",
+        "title": "Article 65: Peines en matière de marques collectives ou des marques collectives de certification",
+        "type": "article",
+        "level": 1,
+        "order": 322,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-1",
+        "title": "Article 1: Définitions",
+        "type": "article",
+        "level": 1,
+        "order": 402,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "chapitre-1",
+        "title": "CHAPITRE 1 : DISPOSITIONS GENERALES",
+        "type": "chapitre",
+        "level": 3,
+        "order": 432,
+        "path": [
+          "chapitre-1"
+        ],
+        "children": [
+          "article-1-",
+          "article-qui-remplit-une-fonction-utilitaire-intrins-que-ne-consistant-pa",
+          "article-2-"
+        ]
+      },
+      {
+        "id": "article-qui-remplit-une-fonction-utilitaire-intrins-que-ne-consistant-pa",
+        "title": "article qui remplit une fonction utilitaire intrinsèque ne consistant pas",
+        "type": "article",
+        "level": 2,
+        "order": 434,
+        "path": [
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-2",
+        "title": "CHAPITRE 2 : OBJET DE LA PROTECTION",
+        "type": "chapitre",
+        "level": 3,
+        "order": 436,
+        "path": [
+          "chapitre-2"
+        ],
+        "children": [
+          "article-3-",
+          "article-4-",
+          "article-5-",
+          "article-6-"
+        ]
+      },
+      {
+        "id": "chapitre-3",
+        "title": "CHAPITRE 3 :DES DROITS PROTEGES",
+        "type": "chapitre",
+        "level": 3,
+        "order": 441,
+        "path": [
+          "chapitre-3"
+        ],
+        "children": [
+          "article-7-",
+          "article-8-",
+          "article-9-"
+        ]
+      },
+      {
+        "id": "chapitre-4",
+        "title": "CHAPITRE 4 : DES LIMITATIONS DES DROITS PATRIMONIAUX",
+        "type": "chapitre",
+        "level": 3,
+        "order": 445,
+        "path": [
+          "chapitre-4"
+        ],
+        "children": [
+          "article-10-",
+          "article-11-",
+          "article-12-",
+          "article-13-",
+          "article-14-",
+          "article-15-",
+          "article--conomique--politique-ou-religieux-publi--dans-des-journau",
+          "article-16-",
+          "article-17-",
+          "article-18-",
+          "article-19-",
+          "article-20-",
+          "article-21-",
+          "article-22-",
+          "article-23-",
+          "article-24-",
+          "article-25-"
+        ]
+      },
+      {
+        "id": "article--conomique--politique-ou-religieux-publi--dans-des-journau",
+        "title": "article économique, politique ou religieux publié dans des journaux",
+        "type": "article",
+        "level": 2,
+        "order": 452,
+        "path": [
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-5",
+        "title": "CHAPITRE 5 : DE LA DUREE DE PROTECTION",
+        "type": "chapitre",
+        "level": 3,
+        "order": 463,
+        "path": [
+          "chapitre-5"
+        ],
+        "children": [
+          "article-26-",
+          "article-27-",
+          "article-28-",
+          "article-29-",
+          "article-30-",
+          "article-31-"
+        ]
+      },
+      {
+        "id": "chapitre-6",
+        "title": "CHAPITRE 6 : DE LA TITULARITE DES DROITS",
+        "type": "chapitre",
+        "level": 3,
+        "order": 470,
+        "path": [
+          "chapitre-6"
+        ],
+        "children": [
+          "article-32-",
+          "article-33-",
+          "article-34-",
+          "article-35-",
+          "article-36-",
+          "article-37-",
+          "article-38-"
+        ]
+      },
+      {
+        "id": "chapitre-7",
+        "title": "CHAPITRE 7 : DE LA CESSION DES DROITS ET LICENCES",
+        "type": "chapitre",
+        "level": 3,
+        "order": 478,
+        "path": [
+          "chapitre-7"
+        ],
+        "children": [
+          "article-39-",
+          "article-40-",
+          "article-41-",
+          "article-42-",
+          "article-43-",
+          "article-44-",
+          "article-45-",
+          "article-46-",
+          "article-47-",
+          "article-48-",
+          "article-49-",
+          "article-50-"
+        ]
+      },
+      {
+        "id": "article-81-",
+        "title": "Article 81 : Voies de recours contre la saisie-contrefaçon",
+        "type": "article",
+        "level": 1,
+        "order": 540,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-82-",
+        "title": "Article 82 : Saisine du juge du fond",
+        "type": "article",
+        "level": 1,
+        "order": 541,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-83-",
+        "title": "Article 83 : Mesures à la demande",
+        "type": "article",
+        "level": 1,
+        "order": 543,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-84-",
+        "title": "Article 84 : Action menée d’office",
+        "type": "article",
+        "level": 1,
+        "order": 544,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-85-",
+        "title": "Article 85 : Effet rétroactif",
+        "type": "article",
+        "level": 1,
+        "order": 546,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-86-",
+        "title": "Article 86 : Dispositions finales",
+        "type": "article",
+        "level": 1,
+        "order": 547,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "article-incorporant-un-tel-circuit-int-gr---lorsque-la-personn",
+        "title": "article incorporant un tel circuit intégré, lorsque la personne",
+        "type": "article",
+        "level": 1,
+        "order": 566,
+        "path": [],
+        "children": []
+      },
+      {
+        "id": "titre-9",
+        "title": "TITRE 9 : DES ACTIONS EN JUSTICE",
+        "type": "titre",
+        "level": 2,
+        "order": 660,
+        "path": [
+          "titre-9"
+        ],
+        "children": [
+          "article-45-",
+          "article-46-",
+          "article-47-",
+          "article-48-",
+          "article-49-",
+          "article-50-",
+          "article-51-",
+          "article-52-",
+          "article-53-",
+          "article-54-",
+          "article-55-",
+          "article-56-",
+          "article-57-",
+          "article-58-",
+          "article-59-"
+        ]
+      },
+      {
+        "id": "titre-10",
+        "title": "TITRE 10 : DES MESURES AUX FRONTIERES",
+        "type": "titre",
+        "level": 2,
+        "order": 676,
+        "path": [
+          "titre-10"
+        ],
+        "children": [
+          "article-60-",
+          "article-61-"
+        ]
+      },
+      {
+        "id": "titre-11",
+        "title": "TITRE 11 : DES DISPOSITIONS TRANSITOIRES ET FINALES",
+        "type": "titre",
+        "level": 2,
+        "order": 679,
+        "path": [
+          "titre-11"
+        ],
+        "children": [
+          "article-62-",
+          "article-63"
+        ]
+      },
+      {
+        "id": "article-63",
+        "title": "Article 63: Droits acquis",
+        "type": "article",
+        "level": 2,
+        "order": 682,
+        "path": [
+          "titre-11"
+        ],
+        "children": []
+      }
+    ],
+    "totalArticles": 565
+  },
+  "source": "internationale"
+}

@@ -1,0 +1,1 @@
+La Commission Régionale de Contrôle des Assurances, ci-après dénommée la Commission, est l'organe régulateur de la Conférence. Elle est chargée du contrôle des sociétés, elle assure la surveillance générale et concourt à l'organisation des marchés nationaux d'assurances.

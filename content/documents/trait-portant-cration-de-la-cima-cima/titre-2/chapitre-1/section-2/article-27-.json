@@ -1,0 +1,16 @@
+{
+  "id": "article-27-",
+  "title": "Article 27 :",
+  "numero": "27 ",
+  "document": "traite-CIMA",
+  "path": [
+    "titre-2",
+    "chapitre-1",
+    "section-2"
+  ],
+  "navigation": {
+    "parent": "section-2",
+    "previous": "article-26-",
+    "next": "article-28-"
+  }
+}

@@ -1,0 +1,2 @@
+Les délibérations de la Commission sont acquises à la majorité simple des membres présents ou représentés. Le Président détient une voix prépondérante en cas de partage.
+La Commission ne peut siéger valablement que si neuf des membres la composant sont présents ou représentés par leur suppléant.

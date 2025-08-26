@@ -1,0 +1,15 @@
+{
+  "id": "article-8-",
+  "title": "Article 8 : Du dépôt des demandes",
+  "numero": "8 ",
+  "document": "acccord-de-bangui",
+  "path": [
+    "titre-1",
+    "section-3"
+  ],
+  "navigation": {
+    "parent": "section-3",
+    "previous": "article-7-",
+    "next": "article-9-"
+  }
+}

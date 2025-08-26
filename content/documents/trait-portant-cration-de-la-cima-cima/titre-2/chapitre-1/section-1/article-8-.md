@@ -1,0 +1,1 @@
+Le Conseil est composé des Ministres chargés du secteur des assurances dans les États membres. Chaque État membre est représenté par un Ministre.

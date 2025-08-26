@@ -1,0 +1,2 @@
+Dans le cadre de l'instruction des propositions et des dossiers qui seront soumis au Conseil, le Secrétaire Général de la Conférence prend l'avis technique d'un comité des experts qui a en outre pour tâche de préparer les travaux du Conseil et de donner l'avis prévu à l'article 50 alinéa 1 du présent Traité.
+Chaque membre du Conseil désigne un expert national du secteur des assurances pour siéger au comité des experts. Celui-ci comprend par ailleurs le Directeur Général de l'IIA, le Directeur Général de la CICA-RE et deux représentants de la FANAF.

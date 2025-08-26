@@ -1,0 +1,1 @@
+Les juridictions nationales appliquent les dispositions du présent Traité et les actes établis par les organes de la Conférence nonobstant toute disposition nationale contraire antérieure ou postérieure à ces textes.

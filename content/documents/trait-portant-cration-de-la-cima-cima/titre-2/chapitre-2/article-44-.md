@@ -1,0 +1,1 @@
+Les États membres s'abstiennent de toute intervention normative dans les domaines de compétence de la Conférence.

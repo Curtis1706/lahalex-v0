@@ -1,0 +1,1 @@
+Lorsque le Conseil prend un acte en application des articles 6 alinéa e, 22, 23, 32, 34, 36, 37, 39 alinéa b, 46 alinéas 3, 48, 50, 55, 57 et 58, du présent Traité, ses délibérations sont acquises à la majorité qualifiée des deux tiers des membres présents ou représentés.

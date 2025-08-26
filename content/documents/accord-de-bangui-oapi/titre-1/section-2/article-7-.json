@@ -1,0 +1,15 @@
+{
+  "id": "article-7-",
+  "title": "Article 7 : De la mise en œuvre des",
+  "numero": "7 ",
+  "document": "acccord-de-bangui",
+  "path": [
+    "titre-1",
+    "section-2"
+  ],
+  "navigation": {
+    "parent": "section-2",
+    "previous": "article-6-",
+    "next": "article-8-"
+  }
+}

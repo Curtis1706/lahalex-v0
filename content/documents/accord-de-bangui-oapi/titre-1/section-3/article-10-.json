@@ -1,0 +1,15 @@
+{
+  "id": "article-10-",
+  "title": "Article 10 : De la délivrance et de la publication",
+  "numero": "10 ",
+  "document": "acccord-de-bangui",
+  "path": [
+    "titre-1",
+    "section-3"
+  ],
+  "navigation": {
+    "parent": "section-3",
+    "previous": "article-9-",
+    "next": "article-11-"
+  }
+}

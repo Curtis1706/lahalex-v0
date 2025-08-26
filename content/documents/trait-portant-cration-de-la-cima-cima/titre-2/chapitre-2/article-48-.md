@@ -1,0 +1,1 @@
+La validité des actes établis par les organes de la Conférence ne peut être mise en cause que devant le Conseil par voie d'action dans un délai de deux mois à compter de leur publication ou de leur notification.

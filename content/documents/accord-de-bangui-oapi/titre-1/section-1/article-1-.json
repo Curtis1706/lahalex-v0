@@ -1,0 +1,14 @@
+{
+  "id": "article-1-",
+  "title": "Article 1 : Définitions",
+  "numero": "1 ",
+  "document": "acccord-de-bangui",
+  "path": [
+    "titre-1",
+    "section-1"
+  ],
+  "navigation": {
+    "parent": "section-1",
+    "next": "article-2-"
+  }
+}

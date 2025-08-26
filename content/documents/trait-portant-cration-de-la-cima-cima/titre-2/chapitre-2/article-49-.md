@@ -1,0 +1,2 @@
+Le Conseil statue sur l'interprétation du présent Traité et des actes établis par les organes de la Conférence à la demande d'un État membre, ou de sua propre initiative s'il apparaît que des divergences d'interprétation dans les décisions des juridictions nationales sont susceptibles de faire obstacle à l'application uniforme du droit de la Conférence.
+Les interprétations établies par le Conseil s'imposent à toutes les autorités nationales administratives et judiciaires.

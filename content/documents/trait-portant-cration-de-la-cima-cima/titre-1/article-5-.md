@@ -1,0 +1,1 @@
+Le Conseil des Ministres de la Conférence a la faculté de créer de nouvelles institutions autonomes.

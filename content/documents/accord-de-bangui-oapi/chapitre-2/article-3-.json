@@ -1,0 +1,14 @@
+{
+  "id": "article-3-",
+  "title": "Article 3 : Généralités",
+  "numero": "3 ",
+  "document": "acccord-de-bangui",
+  "path": [
+    "chapitre-2"
+  ],
+  "navigation": {
+    "parent": "chapitre-2",
+    "previous": "article-2-",
+    "next": "article-4-"
+  }
+}

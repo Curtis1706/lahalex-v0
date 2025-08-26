@@ -1,0 +1,1 @@
+La mise en vigueur d'un acte rendu obligatoire par le présent Traité ou selon les procédures instituées par lui entraîne le transfert à la Conférence de la compétence correspondante.

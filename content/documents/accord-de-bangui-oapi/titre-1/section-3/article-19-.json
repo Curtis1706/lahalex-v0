@@ -1,0 +1,15 @@
+{
+  "id": "article-19-",
+  "title": "Article 19 : Des dispositions divergentes",
+  "numero": "19 ",
+  "document": "acccord-de-bangui",
+  "path": [
+    "titre-1",
+    "section-3"
+  ],
+  "navigation": {
+    "parent": "section-3",
+    "previous": "article-18-",
+    "next": "article-20-"
+  }
+}

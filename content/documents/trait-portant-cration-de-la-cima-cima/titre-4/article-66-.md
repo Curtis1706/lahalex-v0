@@ -1,0 +1,4 @@
+Le corps de contrôle constitué en application de l'article 65 supra comprend un effectif initial de cinq membres.
+Dans un délai d'un an à compter de l'entrée en vigueur du présent Traité, le Conseil réexaminera l'effectif du corps de contrôle à la lumière de l'expérience initiale.
+Aux termes du statut du personnel prévu à l'article 6 alinéa e) du présent Traité, les membres du corps de contrôle seront recrutés pour une période de trois ans renouvelable en ce qui concerne les contrôleurs et cinq ans renouvelable en ce qui concerne les chefs de brigade.
+Le statut du personnel prévu à l'article 6 alinéa e) du présent Traité précisera la nature et la portée des obligations d'indépendance et de secret professionnel auxquelles les membres du corps de contrôle seront tenus dans l'exercice de leurs fonctions.

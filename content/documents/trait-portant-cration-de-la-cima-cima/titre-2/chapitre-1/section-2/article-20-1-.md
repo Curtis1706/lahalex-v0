@@ -1,0 +1,3 @@
+L'octroi par le Ministre en charge du secteur des assurances de l'agrément demandé par une société d'assurances est subordonné à l'avis conforme de la Commission.
+La Commission dispose d'un délai maximum de deux mois pour se prononcer. L'absence de réponse à l'expiration de ce délai vaut acceptation.
+Les agréments prononcés par les autorités nationales avant l'entrée en vigueur des présentes dispositions demeurent valables.

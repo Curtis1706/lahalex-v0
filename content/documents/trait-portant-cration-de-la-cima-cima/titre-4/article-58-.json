@@ -1,0 +1,14 @@
+{
+  "id": "article-58-",
+  "title": "Article 58 :",
+  "numero": "58 ",
+  "document": "traite-CIMA",
+  "path": [
+    "titre-4"
+  ],
+  "navigation": {
+    "parent": "titre-4",
+    "previous": "article-57-",
+    "next": "article-59-"
+  }
+}

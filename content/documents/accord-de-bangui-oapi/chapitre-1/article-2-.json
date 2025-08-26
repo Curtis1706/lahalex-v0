@@ -1,0 +1,14 @@
+{
+  "id": "article-2-",
+  "title": "Article 2 : Champ d’application",
+  "numero": "2 ",
+  "document": "acccord-de-bangui",
+  "path": [
+    "chapitre-1"
+  ],
+  "navigation": {
+    "parent": "chapitre-1",
+    "previous": "article-qui-remplit-une-fonction-utilitaire-intrins-que-ne-consistant-pa",
+    "next": "article-3-"
+  }
+}

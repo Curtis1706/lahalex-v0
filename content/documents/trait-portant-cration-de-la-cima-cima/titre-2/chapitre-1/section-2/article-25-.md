@@ -1,0 +1,3 @@
+Dans l'exercice de leurs fonctions, les membres de la Commission ne sollicitent ni n'acceptent d'instructions d'aucun gouvernement ni d'aucun organisme.
+Les membres de la Commission ayant voix délibérative s'abstiennent de tout acte incompatible avec les devoirs d'honnêteté et de délicatesse attachés à l'exercice de leurs fonctions. A l'exception du Directeur Général de la CICA-RE, ils ne peuvent, pendant la durée de leur mandat et dans les deux ans qui suivent l'expiration de celui-ci, recevoir de rétribution d'une entreprise d'assurance.
+Les membres de la Commission ainsi que les personnalités y siégeant sans voix délibérative sont tenus au secret professionnel.

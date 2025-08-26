@@ -1,0 +1,3 @@
+La Conférence a la personnalité juridique. Les institutions autonomes ont leur propre personnalité juridique.
+La Conférence et les institutions autonomes bénéficient dans les États membres des droits, immunités et privilèges octroyés aux organisations internationales. Leurs sièges sont établis dans les capitales des États membres ayant signé un accord de siège avec chacune d'entre elles.
+Le Conseil peut décider du transfert de siège dans tout État membre.

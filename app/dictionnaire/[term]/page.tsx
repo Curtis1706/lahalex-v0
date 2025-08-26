@@ -6,7 +6,7 @@ import { LahalexHeaderResponsive } from "@/components/lahalex-header-responsive"
 import { LahalexBreadcrumbResponsive } from "@/components/lahalex-breadcrumb-responsive"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
-import { Search } from "lucide-react"
+import { Search, ArrowLeft } from "lucide-react"
 
 import { DictionaryTerm } from "@/types/dictionary"
 
@@ -104,9 +104,14 @@ export default function TermDefinitionPage() {
           <p className="text-gray-600 mb-6">
             Le terme "{decodeURIComponent(term)}" n'existe pas dans notre dictionnaire.
           </p>
-          <Button onClick={() => router.push("/dictionnaire")}>
-            Retour au dictionnaire
-          </Button>
+          <div className="flex gap-4 justify-center">
+            <Button onClick={() => router.push("/dictionnaire")}>
+              Retour au dictionnaire
+            </Button>
+            <Button variant="outline" onClick={() => router.push("/")}>
+              Retour à l'accueil
+            </Button>
+          </div>
         </div>
         
       </div>
@@ -126,7 +131,7 @@ export default function TermDefinitionPage() {
       <LahalexBreadcrumbResponsive items={breadcrumbItems} />
 
       <div className="flex h-screen">
-        {/* Sidebar gauche - Navigation alphabétique */}
+                {/* Sidebar gauche - Navigation alphabétique */}
         <div className="w-80 bg-amber-50 border-r border-amber-200 p-6 overflow-y-auto">
           <h1 className="text-2xl font-bold text-gray-900 mb-6">
             Dictionnaire juridique
@@ -156,7 +161,7 @@ export default function TermDefinitionPage() {
         </div>
 
         {/* Zone principale - Définition du terme */}
-        <div className="flex-1 bg-white p-8 overflow-y-auto">
+        <div className="flex-1 bg-white p-8 overflow-y-auto relative">
           {/* En-tête avec grande lettre */}
           <div className="flex items-start gap-8 mb-8">
             <div className="text-9xl font-bold text-gray-200 leading-none">
@@ -194,6 +199,25 @@ export default function TermDefinitionPage() {
             </div>
           </div>
         </div>
+      </div>
+
+      {/* Bouton de retour fixe en bas à gauche */}
+      <div className="fixed bottom-4 left-4 lg:bottom-6 lg:left-6 z-50">
+        <Button
+          onClick={() => router.push("/dictionnaire")}
+          className="flex items-center gap-2 text-white shadow-lg hover:shadow-xl transition-all duration-200 hover:scale-105 text-sm lg:text-base px-3 py-2 lg:px-4 lg:py-2"
+          style={{ backgroundColor: "#770D28" }}
+          onMouseEnter={(e) => {
+            e.currentTarget.style.backgroundColor = "#9a1a3a";
+          }}
+          onMouseLeave={(e) => {
+            e.currentTarget.style.backgroundColor = "#770D28";
+          }}
+        >
+          <ArrowLeft className="w-3 h-3 lg:w-4 lg:h-4" />
+          <span className="hidden sm:inline">Retour au dictionnaire</span>
+          <span className="sm:hidden">Retour</span>
+        </Button>
       </div>
 
     </div>

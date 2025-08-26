@@ -1,0 +1,5 @@
+1°) Tout État peut demander à devenir membre de la Conférence. Il adresse sa demande au Conseil lequel se prononce à l'unanimité sur le rapport du Secrétaire Général.
+Tout État adhérent est réputé signataire à compter de la date à laquelle prend effet son admission ;
+2°) Le présent Traité peut être dénoncé par tout Etat signataire. Il cesse d'avoir effet à l'égard de celui-ci le dernier jour du sixième mois suivant la date de réception de la dénonciation par les États dépositaires ;
+3°) Tout État membre ou le président du Conseil peut soumettre au Conseil des projets tendant à la révision du présent Traité. La modification est adoptée à l'unanimité des membres du Conseil.
+Les modifications entreront en vigueur après avoir été ratifiées par tous les États membres en conformité avec leurs règles constitutionnelles respectives.

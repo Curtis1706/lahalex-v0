@@ -1,0 +1,1 @@
+En dehors des renouvellements réguliers et des décès, les fonctions de membre de la Commission prennent fin par démission volontaire ou d'office.

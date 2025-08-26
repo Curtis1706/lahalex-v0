@@ -1,0 +1,15 @@
+{
+  "id": "article-9-",
+  "title": "Article 9 : Du dépôt et de l’enregistrement de demandes",
+  "numero": "9 ",
+  "document": "acccord-de-bangui",
+  "path": [
+    "titre-1",
+    "section-3"
+  ],
+  "navigation": {
+    "parent": "section-3",
+    "previous": "article-8-",
+    "next": "article-10-"
+  }
+}

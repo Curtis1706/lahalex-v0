@@ -1,0 +1,2 @@
+La présidence du Conseil est exercée à tour de rôle par chaque État membre pour une durée d'un an selon l'ordre suivant : Congo, Centrafrique, Sénégal, Côte d'Ivoire, Mali, Niger, Gabon, Bénin, Burkina, Cameroun, Togo, Tchad, les Comores, Guinée Equatoriale.
+En cas d'absence ou d'empêchement du président en exercice lors d'une réunion du Conseil, la présidence est exercée par le doyen d'âge des membres présents.

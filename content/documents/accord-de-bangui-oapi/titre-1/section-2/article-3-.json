@@ -1,0 +1,15 @@
+{
+  "id": "article-3-",
+  "title": "Article 3 : De l’OAPI en tant qu’Office de la propriété industrielle",
+  "numero": "3 ",
+  "document": "acccord-de-bangui",
+  "path": [
+    "titre-1",
+    "section-2"
+  ],
+  "navigation": {
+    "parent": "section-2",
+    "previous": "article-2-",
+    "next": "article-4-"
+  }
+}

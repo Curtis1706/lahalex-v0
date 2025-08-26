@@ -1,0 +1,1 @@
+Les règlements et les décisions sont motivés.

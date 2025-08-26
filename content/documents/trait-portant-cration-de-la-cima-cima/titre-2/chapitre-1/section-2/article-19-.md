@@ -1,0 +1,1 @@
+Les injonctions et les sanctions prononcées par la Commission prennent la forme de décisions.

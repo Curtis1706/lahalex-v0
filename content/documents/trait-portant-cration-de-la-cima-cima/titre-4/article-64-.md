@@ -1,0 +1,2 @@
+Les dispositions des accords et conventions signés antérieurement et relatifs à l'appui apporté par le Gouvernement de la République Française à l'IIA restent en vigueur.
+Les dispositions des accords et conventions signés antérieurement et relatifs à l'appui apporté par le Gouvernement de la République Française à la CICA seront transférés au Secrétariat Général de la Conférence.

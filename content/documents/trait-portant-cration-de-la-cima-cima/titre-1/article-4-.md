@@ -1,0 +1,2 @@
+La Conférence pourra ultérieurement être investie de nouvelles compétences.
+L'extension de ses compétences et les modifications concomitantes de son système institutionnel seront réalisées conformément à la procédure instituée à l'article 60 paragraphe 3 du présent Traité.

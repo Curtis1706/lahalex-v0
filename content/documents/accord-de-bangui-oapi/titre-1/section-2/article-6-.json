@@ -1,0 +1,15 @@
+{
+  "id": "article-6-",
+  "title": "Article 6 : Des Annexes",
+  "numero": "6 ",
+  "document": "acccord-de-bangui",
+  "path": [
+    "titre-1",
+    "section-2"
+  ],
+  "navigation": {
+    "parent": "section-2",
+    "previous": "article-5-",
+    "next": "article-7-"
+  }
+}

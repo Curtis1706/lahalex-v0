@@ -1,0 +1,3 @@
+Le Conseil se réunit deux fois par an en session ordinaire en marge de la réunion des Ministres de la zone franc. Il se réunit en session extraordinaire sur convocation de son Président à l'initiative de celui-ci ou à la demande d'au moins deux de ses membres.
+Dans l'intervalle des réunions du Conseil, une procédure écrite de décision peut être mise en œuvre par son président à l'initiative de celui-ci ou à la demande d'au moins deux États membres.
+La procédure écrite ne peut pas être mise en œuvre pour l'adoption ou la modification de la législation unique des assurances, pour l'exercice du recours contre les décisions de la Commission, pour l'application des dispositions de l'article 7 du présent Traité.

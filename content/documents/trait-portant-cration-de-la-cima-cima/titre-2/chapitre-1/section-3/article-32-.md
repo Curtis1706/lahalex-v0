@@ -1,0 +1,1 @@
+Le Secrétaire Général est désigné par le Conseil pour une durée de cinq ans renouvelable une fois. Il doit justifier d'une compétence technique et avoir assuré des responsabilités dans le domaine des assurances. Le Conseil peut mettre fin, à tout moment, au mandat du Secrétaire Général.

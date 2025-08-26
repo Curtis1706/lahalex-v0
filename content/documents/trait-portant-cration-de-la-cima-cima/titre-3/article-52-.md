@@ -1,0 +1,1 @@
+Le Secrétaire Général exécute le budget de la Conférence conformément aux dispositions du règlement financier pris en application de l'article 57 du présent Traité.

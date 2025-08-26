@@ -1,0 +1,1 @@
+L'exécution des contrôles sur place et la mise en œuvre des sanctions mentionnées à l'article 17 alinéa c supra revêtent un caractère contradictoire selon les modalités déterminées par la législation unique des assurances.

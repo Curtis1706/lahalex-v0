@@ -1,0 +1,2 @@
+L'ordre du jour des réunions du Conseil est fixé par son Président en tenant compte des propositions transmises par les États membres.
+L'ordre du jour des réunions du Conseil comprend de plein droit l'examen des propositions et avis transmis par le Secrétaire Général de la Conférence.

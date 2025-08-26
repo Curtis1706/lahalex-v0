@@ -1,0 +1,1 @@
+Le Secrétaire Général transmet au Conseil pour information, les projets de règlements d'application mentionnés à l'article 31 alinéa c du présent Traité. Leur adoption définitive ne peut avoir lieu que dans un délai de trois mois à compter de la date de transmission au Conseil.

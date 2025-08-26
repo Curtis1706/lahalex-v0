@@ -1,0 +1,2 @@
+Le Conseil arrête, après avis du comité des experts, le budget de la Conférence sur proposition du Secrétaire Général avant l'ouverture de l'exercice budgétaire.
+Le budget de la Conférence comprend toutes les dépenses des organes mentionnés à l'article 2 du présent Traité à l'exception de la CICA-RE. Il doit être équilibré en recettes et en dépenses.

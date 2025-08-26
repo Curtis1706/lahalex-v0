@@ -1,0 +1,7 @@
+Dans chaque État membre, les sociétés redevables de la contribution visée à l'article 55 effectuent leur versement sur un compte ouvert auprès d'une banque centrale de la zone franc au nom de la Direction Nationale des Assurances.
+Le Directeur National transfère aux organes de la Conférence et à l'IIA la part de contribution qui leur revient dès paiement et leur adresse chaque fin de semestre un état récapitulatif, par société, des appels de contributions et des règlements effectués en leur faveur.
+Les sociétés ne s'étant pas acquittées de leurs contributions un mois après l'approbation de leurs comptes et au plus tard le 1er août de chaque année sont passibles de poursuites et de sanctions.
+Les poursuites contre les sociétés sont menées par le Ministre en charge du secteur des assurances de chaque État membre, conformément à la réglementation nationale.
+Les sanctions contre les sociétés sont prononcées par la Commission, conformément aux dispositions de l'article 17) alinéa c, à la demande soit du Ministre chargé des assurances, soit du Secrétaire Général de la Conférence, soit du Directeur Général de l'IIA.
+L'État n'ayant pas effectué les notifications prévues à l'article 55 ou n'ayant pas respecté les dispositions de l'alinéa 2 du présent article, au plus tard le 1er septembre de l'année courante fait l'objet d'un rappel lors du prochain Conseil des Ministres.
+L'État qui ne se sera pas acquitté de ces obligations au 31 décembre de l'année courante verra son droit de vote suspendu jusqu'à l'apurement de son passif.

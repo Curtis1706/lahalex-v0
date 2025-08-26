@@ -1,0 +1,2 @@
+Les délibérations du Conseil sont acquises à l'unanimité des membres présents ou représentés, l'abstention des membres présents ou représentés ne faisant pas obstacle à la manifestation de l'unanimité sauf si le nombre des abstentions est supérieur à celui des votants.
+Si l'unanimité des membres présents ou représentés n'a pas été réunie sur un ou plusieurs points figurant à l'ordre du jour d'une session du Conseil, les délibérations reprennent sur ces points lors de la session suivante et sont alors acquises à la majorité qualifiée des deux tiers.

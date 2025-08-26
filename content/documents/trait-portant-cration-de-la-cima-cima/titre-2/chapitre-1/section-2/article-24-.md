@@ -1,0 +1,1 @@
+Le mandat des membres de la Commission ne siégeant pas es quality est fixé à trois ans renouvelable, à l'exception de ceux visés à l'article 23 alinéa d) dont le mandat est renouvelable par rotation.
