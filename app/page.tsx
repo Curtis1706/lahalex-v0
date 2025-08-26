@@ -17,7 +17,7 @@ import type { DocumentMetadata } from "@/types/document"
 interface Document {
   id: string
   title: string
-  description: string
+  subject: string
   document_type: string
   filename: string
   created_at: string
@@ -608,8 +608,8 @@ export default function HomePage() {
                             <Link href={`/documents/${document.id}`} className="text-base lg:text-lg font-semibold text-gray-900 hover:text-[#770D28]">
                               {document.title}
                             </Link>
-                            {document.description && (
-                              <p className="text-sm text-gray-600 mt-1">{document.description}</p>
+                             {document.subject && (
+                              <p className="text-sm text-gray-600 mt-1">{document.subject}</p>
                             )}
                           </li>
                         ))}
@@ -668,9 +668,9 @@ export default function HomePage() {
                             <Link href={`/documents/${document.id}`} className="text-base lg:text-lg font-semibold text-gray-900 hover:text-[#770D28]">
                               {document.title}
                             </Link>
-                             {document.description && (
-                              <p className="text-sm text-gray-600 mt-1">{document.description}</p>
-                            )}
+                                                          {document.subject && (
+                               <p className="text-sm text-gray-600 mt-1">{document.subject}</p>
+                             )}
                           </li>
                         ))}
                       </ul>
