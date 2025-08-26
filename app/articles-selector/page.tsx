@@ -5,7 +5,7 @@ import { LahalexHeaderResponsive } from "@/components/lahalex-header-responsive"
 import { LahalexBreadcrumbResponsive } from "@/components/lahalex-breadcrumb-responsive"
 import { ArticleSelector } from "@/components/article-selector"
 import { ArticleDisplay } from "@/components/article-display"
-import { Footer } from "@/components/footer"
+
 import { StructuredArticle } from '@/lib/text-processor'
 import { Button } from '@/components/ui/button'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
@@ -78,7 +78,6 @@ export default function ArticlesSelectorPage() {
             </div>
           </div>
         </div>
-        <Footer />
       </div>
     )
   }
@@ -98,7 +97,6 @@ export default function ArticlesSelectorPage() {
             </Button>
           </div>
         </div>
-        <Footer />
       </div>
     )
   }
@@ -240,7 +238,6 @@ export default function ArticlesSelectorPage() {
         )}
       </main>
       
-      <Footer />
     </div>
   )
 }

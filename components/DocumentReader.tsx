@@ -23,7 +23,7 @@ import { ScrollArea } from "@/components/ui/scroll-area";
 import { useIsMobile } from "@/hooks/use-mobile";
 import { LahalexHeaderResponsive } from "@/components/lahalex-header-responsive";
 import { LahalexBreadcrumbResponsive } from "@/components/lahalex-breadcrumb-responsive";
-import { Footer } from "@/components/footer";
+
 import { processMarkdownContent } from "@/lib/text-processor";
 
 interface DocumentReaderProps {
@@ -76,8 +76,8 @@ const getDocumentSource = (document: any, currentPath?: string) => {
   console.log('Document type:', docType); // Debug log
 
   if (docType === "ceeac" || docType === "cemac" || docType === "cedeao" || docType === "uemoa") {
-    console.log('Document type is regional organization - returning Source régionale');
-    return "Source régionale";
+    console.log('Document type is regional organization - returning Sources régionales');
+    return "Sources régionales";
   }
 
   // 2. Vérifier la catégorie du document
@@ -91,24 +91,24 @@ const getDocumentSource = (document: any, currentPath?: string) => {
     category.includes("uemoa")
   ) {
     console.log('Detected regional organization from category'); // Debug log
-    return "Source régionale";
+    return "Sources régionales";
   } else if (
     category.includes("ohada") ||
     category.includes("union-africaine") ||
     category.includes("conventions-internationales")
   ) {
     console.log('Detected international organization from category'); // Debug log
-    return "Source internationale";
+    return "Sources internationales";
   }
 
   // 3. Vérifier l'URL actuelle pour déterminer la source
   if (currentPath) {
     if (currentPath.startsWith('/source-regional')) {
-      console.log('Detected source from URL: régionale'); // Debug log
-      return "Source régionale";
+      console.log('Detected source from URL: régionales'); // Debug log
+      return "Sources régionales";
     } else if (currentPath.startsWith('/source-international')) {
-      console.log('Detected source from URL: internationale'); // Debug log
-      return "Source internationale";
+      console.log('Detected source from URL: internationales'); // Debug log
+      return "Sources internationales";
     }
   }
 
@@ -117,22 +117,22 @@ const getDocumentSource = (document: any, currentPath?: string) => {
   if (source) {
     console.log('Source property found:', source); // Debug log
     if (source.toLowerCase().includes('regional')) {
-      console.log('Detected source from document: régionale'); // Debug log
-      return "Source régionale";
+      console.log('Detected source from document: régionales'); // Debug log
+      return "Sources régionales";
     } else if (source.toLowerCase().includes('international')) {
-      console.log('Detected source from document: internationale'); // Debug log
-      return "Source internationale";
+      console.log('Detected source from document: internationales'); // Debug log
+      return "Sources internationales";
     } else if (source.toLowerCase().includes('national')) {
-      console.log('Detected source from document: nationale'); // Debug log
-      return "Source nationale";
+      console.log('Detected source from document: nationales'); // Debug log
+      return "Sources nationales";
     }
   } else {
     console.log('No source property found in document'); // Debug log
   }
 
   // 5. Fallback par défaut
-  console.log('Using default fallback: nationale'); // Debug log
-  return "Source nationale";
+  console.log('Using default fallback: nationales'); // Debug log
+  return "Sources nationales";
 };
 
 export function DocumentReader({
@@ -1103,7 +1103,6 @@ export function DocumentReader({
         )}
       </div>
 
-      <Footer />
     </div>
   );
 }

@@ -5,7 +5,7 @@ import { LahalexHeaderResponsive } from "@/components/lahalex-header-responsive"
 import { LahalexBreadcrumbResponsive } from "@/components/lahalex-breadcrumb-responsive"
 import { ChevronRight, ChevronDown } from "lucide-react"
 import Link from "next/link"
-import { Footer } from "@/components/footer"
+
 
 export default function TextesPage() {
   const [searchValue, setSearchValue] = useState("")
@@ -190,7 +190,7 @@ export default function TextesPage() {
         </div>
       </div>
 
-      <Footer />
+      
     </div>
   )
 }

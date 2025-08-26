@@ -10,7 +10,7 @@ import { Menu, X, ChevronRight, FileText, Clock, BookOpen, ChevronLeft, Search }
 import { Button } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"
 import { Input } from "@/components/ui/input"
-import { Footer } from "@/components/footer"
+
 
 interface Document {
   id: string
@@ -42,7 +42,7 @@ export default function SourceInternationalPage() {
 
   // Fonction pour générer le fil d'ariane selon la source
   const getBreadcrumbSource = () => {
-    return "Source internationale"
+    return "Sources internationales"
   }
 
   // Pagination
@@ -195,7 +195,7 @@ const internationalCategories = [
           <h1 className="text-2xl font-bold text-gray-900 mb-6 lg:mb-8">Textes</h1>
         )}
 
-        {/* Source internationale */}
+        {/* Sources internationales */}
         <div className="mb-6 lg:mb-8">
           <h2 className="text-base lg:text-lg font-semibold text-gray-800 mb-3 lg:mb-4">
             Sources internationales
@@ -530,7 +530,7 @@ const internationalCategories = [
           )}
         </div>
       </div>
-      <Footer />
+      
     </div>
   )
 }
