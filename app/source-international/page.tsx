@@ -183,7 +183,7 @@ export default function SourceInternationalPage() {
           </h2>
           <div className="space-y-1 lg:space-y-2">
             {/* Organisations internationales */}
-            {internationalCategories.filter(cat => [ 'union-africaine', 'conventions-internationales'].includes(cat.key)).map((category) => {
+            {internationalCategories.filter(cat => ['conventions-internationales'].includes(cat.key)).map((category) => {
               const IconComponent = category.icon
               const count = categoryCounts[category.key] || 0
               return (
