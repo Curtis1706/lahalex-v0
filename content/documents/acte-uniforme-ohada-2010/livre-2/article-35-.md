@@ -13,7 +13,7 @@ de toute personne physique exerçant une activité professionnelle que la loi so
 l’immatriculation audit Registre ;
 des établissements publics ayant une activité économique et bénéficiant de l’autonomie
 juridique et financière.
-50’immatriculation donne lieu à l’attribution dès le dépôt de sa demande par l’assujetti d’un
+l'immatriculation donne lieu à l’attribution dès le dépôt de sa demande par l’assujetti d’un
 numéro d’immatriculation qui est personnel à chaque personne immatriculée.
 2) De recevoir la déclaration d’activité de l’entreprenant, de lui délivrer, dès le dépôt de sa
 déclaration, son numéro de déclaration d’activité, de recevoir ses déclarations modificatives et

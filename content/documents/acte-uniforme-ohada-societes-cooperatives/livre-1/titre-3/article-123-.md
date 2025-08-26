@@ -1,1 +1,1 @@
-50’action individuelle en réparation du dommage subi par un tiers ou un coopérateur se prescrit par trois ans à compter du fait dommageable ou de la découverte de ce fait en cas de dissimulation.
+l'action individuelle en réparation du dommage subi par un tiers ou un coopérateur se prescrit par trois ans à compter du fait dommageable ou de la découverte de ce fait en cas de dissimulation.

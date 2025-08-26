@@ -6,7 +6,7 @@ d’huissier ou par tout moyen permettant d’en établir la réception effectiv
 tre du Commerce et du Crédit Mobilier auquel est inscrit le vendeur, à charge pour le gref-
 fe ou l’organe compétent dans l’Etat Partie de procéder à l’inscription de cette opposition
 sur le Registre du Commerce et du Crédit Mobilier.
-50’acte d’opposition doit énoncer, outre les mentions d’identification du créancier opposant, le
+l'acte d’opposition doit énoncer, outre les mentions d’identification du créancier opposant, le
 montant et les causes de la créance, et contenir élection de domicile dans le ressort de la juri-
 diction où est tenu le Registre du Commerce et du Crédit Mobilier.
 Les formalités ainsi mises à la charge du créancier opposant par le présent Article sont édictées

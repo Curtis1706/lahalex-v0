@@ -21,12 +21,12 @@ d’enregistrement ou certificat de modification ou de radiation portant la date
 tion et le numéro d’ordre.
 Les autres documents prévus dans le cadre des dispositions du présent Acte uniforme et émis
 par voie électronique ont les mêmes dénominations que celles prévues dans la procédure par
-usage du papier sous réserve des dispositions des Article s 82 à 85 ci-dessus. 50’accusé
+usage du papier sous réserve des dispositions des Article s 82 à 85 ci-dessus. l'accusé
 d’enregistrement avec les mentions prévues par le présent Acte uniforme, ou par tout autre
 Acte uniforme ou toute autre disposition légale, indique que les formulaires, documents, actes
 ou les informations attendus ont bien été reçus par le destinataire et sont exploitables, notam-
 ment par des traitements électroniques.
-50’accusé d’enregistrement est délivré par le greffier ou le responsable de l’organe compétent
+l'accusé d’enregistrement est délivré par le greffier ou le responsable de l’organe compétent
 dans l’Etat Partie en charge du Registre du Commerce et du Crédit Mobilier dès réception de
 la demande ou de la déclaration par voie électronique conformément aux dispositions du pré-
 sent Acte uniforme.

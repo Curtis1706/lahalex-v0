@@ -4,7 +4,7 @@ ou partiel du prix, de la soulte de l’échange ou des créances résultant du 
 stipulation d’hypothèque conventionnelle, le vendeur, l’échangiste ou le copartageant peu-
 vent, en vertu d’une décision de la juridiction compétente, obtenir l’hypothèque forcée sur
 lesdits immeubles.
-50’action en résolution de l’acte de vente, d’échange ou de partage pour défaut
+l'action en résolution de l’acte de vente, d’échange ou de partage pour défaut
 de paiement du prix ou de la soulte appartient au vendeur, à l’échangiste, ou au
 copartageant titulaire d’une hypothèque conventionnelle ou forcée régulièrement
 publiée du fait même de l’obtention de cette garantie et concurremment avec

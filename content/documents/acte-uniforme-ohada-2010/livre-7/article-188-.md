@@ -6,5 +6,5 @@ par la révocation à l’initiative du représenté ;
 par la renonciation de l’intermédiaire.
 Le représenté qui révoque de manière abusive le mandat confié à l’intermédiaire doit
 l’indemniser des dommages causés.
-50’intermédiaire qui renonce de manière abusive à l’exécution de son mandat doit indemniser
+l'intermédiaire qui renonce de manière abusive à l’exécution de son mandat doit indemniser
 le représenté des dommages causés.

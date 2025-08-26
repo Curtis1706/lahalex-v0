@@ -1,4 +1,4 @@
-50’exercice d’une activité commerciale est incompatible avec l’exercice des fonctions
+l'exercice d’une activité commerciale est incompatible avec l’exercice des fonctions
 ou professions suivantes : fonctionnaires et personnels des collectivités publiques et des entreprises à participation
 publique ;
 officiers ministériels et auxiliaires de justice : avocat, huissier, commissaire priseur, agent

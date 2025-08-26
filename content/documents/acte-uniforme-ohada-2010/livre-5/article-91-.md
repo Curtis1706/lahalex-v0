@@ -1,6 +1,6 @@
 La conservation de la déclaration ou de la demande établies sur support électronique
 est assurée dans des conditions de nature à en préserver la durabilité, l’intégrité et la lisibilité.
-50’ensemble des informations concernant la déclaration ou la demande dès son établissement,
+l'ensemble des informations concernant la déclaration ou la demande dès son établissement,
 telles que les données permettant de l’identifier, de déterminer ses propriétés, notamment les
 signatures électroniques qualifiées, et d’en assurer la traçabilité, est également conservé.
 Les opérations successives justifiées par sa conservation, notamment les migrations d’un sup-

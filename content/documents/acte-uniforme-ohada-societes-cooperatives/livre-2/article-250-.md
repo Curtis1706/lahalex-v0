@@ -1,2 +1,2 @@
 Les conventions non approuvées par l’assemblée générale produisent néanmoins leurs effets, à charge pour les membres du comité de gestion ou le coopérateur contractant, de supporter individuellement ou solidairement, selon le cas, les conséquences du contrat préju- diciables à la société coopérative.
-50’action en responsabilité se prescrit par trois ans à compter de la conclusion de la convention ou, si elle a été dissimulée, de sa révélation.
+l'action en responsabilité se prescrit par trois ans à compter de la conclusion de la convention ou, si elle a été dissimulée, de sa révélation.

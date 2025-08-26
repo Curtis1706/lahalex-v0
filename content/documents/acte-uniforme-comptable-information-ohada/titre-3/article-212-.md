@@ -2,10 +2,10 @@ Les architectes, entrepreneurs et autres personnes employées pour édifier, ré
 ou reconstruire des bâtiments peuvent, avant le commencement des travaux, se faire consentir
 une hypothèque conventionnelle ou obtenir, par décision judiciaire, une hypothèque forcée sur
 l’immeuble ayant fait l’objet des travaux.
-50’hypothèque est inscrite provisoirement pour le montant de la somme qui sera
+l'hypothèque est inscrite provisoirement pour le montant de la somme qui sera
 estimée due. Cette inscription prend rang à sa date mais pour une période
 n’excédant pas un mois après l’achèvement des travaux constaté par huissier.
-50’hypothèque conserve sa date si, dans le même délai, par accord des parties ou
+l'hypothèque conserve sa date si, dans le même délai, par accord des parties ou
 par décision judiciaire, l’inscription devient définitive, pour le tout ou
 partie seulement de la somme estimée due.
 Acte uniforme OHADA portant organisation des sûretés

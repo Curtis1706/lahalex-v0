@@ -1,7 +1,7 @@
 {
   "id": "cedh",
   "title": "Convention européenne des droits de l'homme",
-  "type": "conventions-internationales",
+  "type": "cedh",
   "description": "La Convention européenne des droits de l'homme, adoptée par le Conseil de l'Europe en 1950, garantit la protection des droits fondamentaux et des libertés individuelles pour tous les citoyens des États membres.",
   "structure": {
     "sections": [
@@ -252,7 +252,7 @@
       },
       {
         "id": "titre-2",
-        "title": "TITRE 2 : COUR EUROPÉENNE DES DROITS DE 50’HOMME",
+        "title": "TITRE 2 : COUR EUROPÉENNE DES DROITS DE l'HOMME",
         "type": "titre",
         "level": 1,
         "order": 19,

@@ -1,4 +1,4 @@
-50’acte de commerce par nature est celui par lequel une personne s’entremet dans lacirculation des biens qu’elle produit ou achète ou par lequel elle fournit des prestations de
+l'acte de commerce par nature est celui par lequel une personne s’entremet dans lacirculation des biens qu’elle produit ou achète ou par lequel elle fournit des prestations de
 service avec l’intention d’en tirer un profit pécuniaire. Ont, notamment, le caractère d’actes decommerce par nature :
 l’achat de biens, meubles ou immeubles, en vue de leur revente ;
 les opérations de banque, de bourse, de change, de courtage, d’assurance et de transit ;

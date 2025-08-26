@@ -1,4 +1,4 @@
-50’assemblée générale constitutive :
+l'assemblée générale constitutive :
 · 1° constate que le capital est entièrement souscrit ;
 · 2° adopte les statuts de la société coopérative avec conseil d’administration ;
 · 3° nomme les premiers administrateurs ;

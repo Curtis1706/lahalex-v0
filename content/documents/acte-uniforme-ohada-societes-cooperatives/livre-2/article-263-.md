@@ -1,1 +1,1 @@
-Les fonctions de membre du comité de gestion et de la commission de surveillance ne sont pas rémunérées. 50’assemblée générale peut, toutefois, prévoir le remboursement des frais exposés dans l’exercice de ces fonctions.
+Les fonctions de membre du comité de gestion et de la commission de surveillance ne sont pas rémunérées. l'assemblée générale peut, toutefois, prévoir le remboursement des frais exposés dans l’exercice de ces fonctions.

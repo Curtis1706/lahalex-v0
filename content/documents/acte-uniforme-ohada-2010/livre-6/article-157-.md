@@ -1,4 +1,4 @@
-50’acheteur doit payer le prix, aux jour et lieu fixés dans l’acte de vente, entre les
+l'acheteur doit payer le prix, aux jour et lieu fixés dans l’acte de vente, entre les
 mains du notaire ou de tout établissement bancaire désigné d’un commun accord entre les
 parties à l’acte.
 Le notaire ou l’établissement bancaire ainsi désigné doit conserver les fonds en qualité de

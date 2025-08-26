@@ -7,7 +7,7 @@ principale ne peut être invoqué par la caution de celle-ci que si l’obligati
 principale n’est pas valablement constituée, sauf lorsque la personne morale
 débitrice principale a confirmé cette obligation et que la caution a
 expressément renoncé à se prévaloir de la nullité de ladite obligation.
-50’engagement de la caution ne peut être contracté à des conditions plus
+l'engagement de la caution ne peut être contracté à des conditions plus
 onéreuses que l’obligation principale, sous peine de réduction à concurrence de
 celle-ci, ni excéder ce qui est dû par le débiteur principal au moment des
 poursuites.

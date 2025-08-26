@@ -1,5 +1,5 @@
 formations dispensées
-50’ERSUMA a compétence pour assurer :
+l'ERSUMA a compétence pour assurer :
 - la formation initiale des magistrats des pays membres ;
 - un complément de formation pour les auditeurs de justice des pays membres ;
 - la formation au droit harmonise et au droit des affaires des magistrats et auxiliaires de justice des pays membres ;

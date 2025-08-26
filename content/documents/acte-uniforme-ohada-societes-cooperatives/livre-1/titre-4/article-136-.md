@@ -1,2 +1,2 @@
-50’union des sociétés coopératives peut exercer toutes activités économiques. Toute- fois, ces activités économiques s’exercent dans le respect du principe de subsidiarité par rap- port aux activités des sociétés coopératives affiliées.
+l'union des sociétés coopératives peut exercer toutes activités économiques. Toute- fois, ces activités économiques s’exercent dans le respect du principe de subsidiarité par rap- port aux activités des sociétés coopératives affiliées.
 En concertation avec sa fédération ou sa confédération ou à défaut de ces dernières, l’union exerce toutes ou partie des missions assignées à la fédération et à la confédération à l’égard de sociétés coopératives qui lui sont affiliées.

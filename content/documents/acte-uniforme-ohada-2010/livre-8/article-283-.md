@@ -4,6 +4,6 @@ uniforme un défaut de conformité des marchandises livrées, le vendeur a la fa
 par des marchandises conformes.
 En outre, l’acheteur peut convenir avec le vendeur d’un délai supplémentaire pour le rempla-
 cement, aux frais exclusifs du vendeur, des marchandises défectueuses par des marchandises
-conformes. 50’acheteur ne peut, avant le terme de ce nouveau délai, invoquer l’inexécution des
+conformes. l'acheteur ne peut, avant le terme de ce nouveau délai, invoquer l’inexécution des
 obligations du vendeur et si le vendeur exécute ses obligations dans ce délai, l’acheteur ne
 peut prétendre à des dommages-intérêts.

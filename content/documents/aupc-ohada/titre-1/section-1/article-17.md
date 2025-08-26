@@ -6,7 +6,7 @@ Le défaut de pouvoir du représentant pour engager la personne morale débitric
 peut être invoqué par la caution de celle-ci que si l’obligation principale n’est pas valablement
 constituée, sauf lorsque la personne morale débitrice principale a confirmé cette obligation et
 que la caution a expressément renoncé à se prévaloir de la nullité de ladite obligation.
-50’engagement de la caution ne peut être contracté à des conditions plus onéreuses que
+l'engagement de la caution ne peut être contracté à des conditions plus onéreuses que
 l’obligation principale, sous peine de réduction à concurrence de celle-ci, ni excéder ce qui est
 dû par le débiteur principal au moment des poursuites.
 Le débiteur principal ne peut aggraver l’engagement de la caution par une convention posté-

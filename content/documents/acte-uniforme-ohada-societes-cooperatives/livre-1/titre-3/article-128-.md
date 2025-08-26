@@ -1,2 +1,2 @@
-50’action sociale est l’action en réparation du dommage subi par la société coopéra- tive du fait de la faute commise par un ou des dirigeants sociaux dans l’exercice de leurs fonc- tions.
+l'action sociale est l’action en réparation du dommage subi par la société coopéra- tive du fait de la faute commise par un ou des dirigeants sociaux dans l’exercice de leurs fonc- tions.
 Cette action est intentée par les autres dirigeants sociaux, dans les conditions prévues par le présent Acte uniforme pour chaque forme de société coopérative.

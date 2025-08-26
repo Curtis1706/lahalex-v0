@@ -1,4 +1,4 @@
-50’indemnité compensatrice prévue à l’Article précédent n’est pas due :
+l'indemnité compensatrice prévue à l’Article précédent n’est pas due :
 1° en cas de cessation du contrat provoquée par la faute grave de l’agent commercial ;
 2° en cas de cessation du contrat résultant de l’initiative de l’agent, à moins que cette ces-
 sation ne soit justifiée par des circonstances imputables au mandant ou ne soit due à l’âge,

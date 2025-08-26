@@ -9,5 +9,5 @@ inscrit au Registre du Commerce et du Crédit Mobilier.
 Le propriétaire du fonds, s’il est commerçant, est tenu de faire modifier à ses frais son inscrip-
 tion au Registre du Commerce et du Crédit Mobilier par la mention de la mise en location-
 gérance de son fonds.
-50’expiration au terme prévu ou anticipé du contrat de location-gérance donne lieu aux mêmes
+l'expiration au terme prévu ou anticipé du contrat de location-gérance donne lieu aux mêmes
 mesures de publicité aux frais du locataire-gérant.

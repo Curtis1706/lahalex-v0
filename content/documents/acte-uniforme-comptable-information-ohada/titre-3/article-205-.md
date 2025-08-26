@@ -1,4 +1,4 @@
-50’hypothèque conventionnelle est consentie, selon la loi nationale du lieu de situa-
+l'hypothèque conventionnelle est consentie, selon la loi nationale du lieu de situa-
 tion de l’immeuble :
 par acte authentique établi par le notaire territorialement compétent ou l’autorité adminis-
 trative ou judiciaire habilitée à faire de tels actes ;

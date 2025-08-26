@@ -1,7 +1,7 @@
-50’entreprenant est un entrepreneur individuel, personne physique qui, sur simple
+l'entreprenant est un entrepreneur individuel, personne physique qui, sur simple
 déclaration prévue dans le présent Acte uniforme, exerce une activité professionnelle civile,
 commerciale, artisanale ou agricole.
-50’entreprenant conserve son statut si le chiffre d’affaires annuel généré par son activité pen-
+l'entreprenant conserve son statut si le chiffre d’affaires annuel généré par son activité pen-
 dant deux exercices successifs n’excède pas les seuils fixés dans l’Acte uniforme portant or-
 ganisation et harmonisation des comptabilités des entreprises au titre du système minimal de
 trésorerie.
@@ -16,7 +16,7 @@ de respecter toutes les charges et obligations applicables à l’entrepreneur i
 il perd sa qualité d’entreprenant et ne bénéficie plus de la législation spéciale applicable à
 l’entreprenant.
 Il doit en conséquence se conformer à la réglementation applicable à ses activités.
-50’entreprenant, qui est dispensé d’immatriculation au Registre du Commerce et du Crédit
+l'entreprenant, qui est dispensé d’immatriculation au Registre du Commerce et du Crédit
 Mobilier, est tenu de déclarer son activité tel qu’il est prévu dans le présent Acte uniforme.
 Chaque État partie fixe les mesures incitatives pour l’activité de l’entreprenant notamment en
 matière d’imposition fiscale et d’assujettissement aux charges sociales.

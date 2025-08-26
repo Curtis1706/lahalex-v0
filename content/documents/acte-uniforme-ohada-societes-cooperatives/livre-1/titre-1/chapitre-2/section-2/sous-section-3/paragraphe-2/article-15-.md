@@ -1,4 +1,4 @@
 Le coopérateur exclu par résolution du conseil d’administration ou du comité de ges- tion peut saisir l’assemblée générale des coopérateurs d’un recours en annulation de cette dé- cision.
-50’effet de la décision spéciale du conseil d’administration ou du comité de gestion est sus- pendu jusqu’à la résolution spéciale prise par l’assemblée générale.
-50’assemblée générale statue par résolution spéciale sur ce recours dans les conditions prévues par les statuts, en annulant ou en confirmant l’exclusion.
-50’exclusion prononcée par l’assemblée générale est, dans tous les cas, faite sans préjudice des voies de recours de droit commun dont dispose le coopérateur contre la décision d’exclusion.
+l'effet de la décision spéciale du conseil d’administration ou du comité de gestion est sus- pendu jusqu’à la résolution spéciale prise par l’assemblée générale.
+l'assemblée générale statue par résolution spéciale sur ce recours dans les conditions prévues par les statuts, en annulant ou en confirmant l’exclusion.
+l'exclusion prononcée par l’assemblée générale est, dans tous les cas, faite sans préjudice des voies de recours de droit commun dont dispose le coopérateur contre la décision d’exclusion.

@@ -1,4 +1,4 @@
-50’assemblée générale ordinaire prend toutes les décisions autres que celles qui sont expressément réservées par l’article 366 ci-après, pour les assemblées générales extraordinai- res.
+l'assemblée générale ordinaire prend toutes les décisions autres que celles qui sont expressément réservées par l’article 366 ci-après, pour les assemblées générales extraordinai- res.
 Elle est notamment compétente pour :
 · statuer sur les états financiers de synthèse de l’exercice ;
 · décider de l’affectation du résultat ;

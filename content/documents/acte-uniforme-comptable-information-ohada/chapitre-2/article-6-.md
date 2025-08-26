@@ -1,4 +1,4 @@
-50’acte désignant l’agent des sûretés mentionne, à peine de nullité :
+l'acte désignant l’agent des sûretés mentionne, à peine de nullité :
 1° la ou les obligations garanties ou, si elles sont futures, les éléments de nature à permet-
 tre leur individualisation, tels que l’indication de leur débiteur, de leur lieu de paiement,
 de leur montant ou l’évaluation de ce dernier, et de leur échéance ;

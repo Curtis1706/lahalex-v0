@@ -1,4 +1,4 @@
-50’hypothèque conventionnelle ne peut être consentie que par celui qui est titulaire
+l'hypothèque conventionnelle ne peut être consentie que par celui qui est titulaire
 du droit réel immobilier régulièrement inscrit et capable d’en disposer.
 Par exception à l’alinéa précédent, l’hypothèque peut être consentie sur des immeubles à venir
 dans les cas et conditions ci-après :

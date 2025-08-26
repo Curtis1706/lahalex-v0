@@ -1,4 +1,4 @@
-50’acte désignant l’agent des sûretés peut prévoir les conditions dans lesquelles
+l'acte désignant l’agent des sûretés peut prévoir les conditions dans lesquelles
 l’agent des sûretés peut, sous sa responsabilité, se substituer un tiers pour accomplir sa mis-
 sion. En ce cas, les créanciers de la ou des obligations garanties peuvent agir directement
 contre la personne que l’agent des sûretés s’est substituée.

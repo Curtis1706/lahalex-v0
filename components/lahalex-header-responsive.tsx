@@ -98,32 +98,6 @@ export function LahalexHeaderResponsive({ searchValue = "", onSearchChange, onSe
               >
                 <Search className="w-4 h-4 sm:w-5 sm:h-5" />
               </Button>
-
-              {/* Pays - Tablet et Desktop */}
-              <Button
-                variant="ghost"
-                size="sm"
-                className="text-accent-lahalex hover:bg-white/10 hidden sm:flex items-center space-x-1 px-2 sm:px-3"
-              >
-                <span className="text-xs sm:text-sm">🇧🇯</span>
-                <span className="text-xs sm:text-sm hidden lg:inline">Pays</span>
-                <ChevronDown className="w-3 h-3 sm:w-4 sm:h-4" />
-              </Button>
-
-              {/* Notifications */}
-              <Button variant="ghost" size="sm" className="text-accent-lahalex hover:bg-white/10 p-1.5 sm:p-2">
-                <Bell className="w-4 h-4 sm:w-5 sm:h-5" />
-              </Button>
-
-              {/* Déconnexion */}
-              <Button
-                variant="ghost"
-                size="sm"
-                className="text-accent-lahalex hover:bg-white/10 hidden sm:flex items-center space-x-1 px-2 sm:px-3"
-              >
-                <span className="text-xs sm:text-sm hidden lg:inline">Déconnexion</span>
-                <User className="w-4 h-4 sm:w-5 sm:h-5" />
-              </Button>
             </div>
           </div>
 

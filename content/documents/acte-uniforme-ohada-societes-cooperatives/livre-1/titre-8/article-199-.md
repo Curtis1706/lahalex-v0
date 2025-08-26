@@ -1,1 +1,1 @@
-50’action en nullité est éteinte lorsque la cause de nullité a cessé d’exister le jour où le tribunal statue sur le fond en 1 instance, sauf si cette nullité est fondée sur le carac- tère illicite de l’objet social.
+l'action en nullité est éteinte lorsque la cause de nullité a cessé d’exister le jour où le tribunal statue sur le fond en 1 instance, sauf si cette nullité est fondée sur le carac- tère illicite de l’objet social.

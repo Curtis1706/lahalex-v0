@@ -1,9 +1,9 @@
 :
 :
 :
-1°) 50’expéditeur fournit au transporteur les informations et les instructions prévues à l’article 4 alinéa 1 de c) à h)
+1°) l'expéditeur fournit au transporteur les informations et les instructions prévues à l’article 4 alinéa 1 de c) à h)
 ci-dessus et, le cas échéant, celles prévues à l’alinéa 2 du même article.
-2°) 50’expéditeur est tenu de réparer le préjudice subi par le transporteur ou toute autre personne aux services de
+2°) l'expéditeur est tenu de réparer le préjudice subi par le transporteur ou toute autre personne aux services de
 laquelle ce dernier recourt pour l’exécution du contrat de transport, lorsque ce préjudice a pour origine soit le vice
 propre de la marchandise, soit l’omission, l’insuffisance ou l’inexactitude de ses déclarations ou instructions
 relativement à la marchandise transportée.

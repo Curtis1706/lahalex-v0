@@ -1,7 +1,7 @@
 {
   "id": "convention-geneve-1949",
   "title": "Convention de Geneve relative a la protection des personnes civiles en temps de guerre (1949)",
-  "type": "conventions-collectives",
+  "type": "cij",
   "description": "Texte fondamental du droit international humanitaire adopté en 1949, visant à protéger les personnes civiles en temps de guerre, à définir les droits et obligations des parties au conflit, et à établir les bases de la protection humanitaire.",
   "structure": {
     "sections": [
@@ -2376,5 +2376,5 @@
     ],
     "totalArticles": 485
   },
-  "source": "nationale"
+  "source": "internationale"
 }

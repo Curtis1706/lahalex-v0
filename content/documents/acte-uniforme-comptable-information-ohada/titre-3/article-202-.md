@@ -1,4 +1,4 @@
-50’hypothèque est radiée selon les règles de publicité de l’Etat Partie où est situé le
+l'hypothèque est radiée selon les règles de publicité de l’Etat Partie où est situé le
 bien grevé.
 En cas de refus du créancier d’y consentir ou du conservateur de procéder à la
 radiation de l’hypothèque, le débiteur ou l’ayant-droit de celui-ci peut obtenir

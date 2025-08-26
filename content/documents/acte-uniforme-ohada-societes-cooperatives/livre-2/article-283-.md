@@ -1,2 +1,2 @@
-50’assemblée générale est soumise aux dispositions non contraires des articles 342 et suivants ci-dessous pour sa tenue, notamment pour la constitution de son bureau et les règles de représentation et de participation à l’assemblée.
-50’assemblée désigne son président et son secrétaire de séance.
+l'assemblée générale est soumise aux dispositions non contraires des articles 342 et suivants ci-dessous pour sa tenue, notamment pour la constitution de son bureau et les règles de représentation et de participation à l’assemblée.
+l'assemblée désigne son président et son secrétaire de séance.

@@ -1,4 +1,4 @@
-50’inscription régulièrement prise d’une sûreté mobilière soumise à publicité est op-
+l'inscription régulièrement prise d’une sûreté mobilière soumise à publicité est op-
 posable aux tiers à la date de son inscription au registre chronologique des dépôts du Registre
 du Commerce et du Crédit Mobilier.
 Si les inscriptions de sûretés concurrentes grevant un même bien sont requises

@@ -1,1 +1,1 @@
-50’objet de la société coopérative détermine le caractère civil ou commercial de celle- ci.
+l'objet de la société coopérative détermine le caractère civil ou commercial de celle- ci.

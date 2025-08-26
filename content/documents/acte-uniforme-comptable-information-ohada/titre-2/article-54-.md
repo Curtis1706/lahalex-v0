@@ -4,7 +4,7 @@ de la tenue du Registre du Commerce et du Crédit Mobilier, ou le responsable de
 compétent dans l’Etat Partie, procède immédiatement à l’inscription sur un registre chronolo-
 gique des dépôts. Il délivre immédiatement au requérant un accusé d’inscription avec mention
 de la date, de la désignation de la formalité effectuée et du numéro d’ordre porté au registre
-chronologique des dépôts. 50’inscription ou le refus d’inscription est également notifié par le
+chronologique des dépôts. l'inscription ou le refus d’inscription est également notifié par le
 Greffe, ou par l’organe compétent dans l’Etat Partie, au débiteur ou au constituant de la sûreté
 s’il n’est pas le débiteur. Cette inscription ou ce refus d’inscription peut, dans un délai de huit
 jours à compter de sa notification, faire l’objet d’un recours du débiteur ou du constituant se-

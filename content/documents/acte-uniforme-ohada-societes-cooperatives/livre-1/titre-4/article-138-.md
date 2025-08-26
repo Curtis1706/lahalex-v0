@@ -1,1 +1,1 @@
-50’union des sociétés coopératives peut prévoir dans ses statuts et règlement inté- rieur la possibilité de vote plural pour certains de ses membres et en déterminer les critères.
+l'union des sociétés coopératives peut prévoir dans ses statuts et règlement inté- rieur la possibilité de vote plural pour certains de ses membres et en déterminer les critères.

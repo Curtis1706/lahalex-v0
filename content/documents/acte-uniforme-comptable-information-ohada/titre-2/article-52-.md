@@ -1,4 +1,4 @@
-50’inscription a lieu au Registre du Commerce et du Crédit Mobilier dans le respect
+l'inscription a lieu au Registre du Commerce et du Crédit Mobilier dans le respect
 des règles de compétence territoriale ci-après :
 le Registre du Commerce et du Crédit Mobilier compétent pour recevoir
 l’inscription des sûretés mobilières est celui dans le ressort duquel est

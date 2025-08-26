@@ -1,7 +1,7 @@
 {
   "id": "omc",
   "title": "Les accord de l'Organisation mondiale du commerce",
-  "type": "conventions-internationales",
+  "type": "omc",
   "description": "Les accords de l'OMC établissent les règles du commerce international entre les pays membres, couvrant la circulation des marchandises, des services et de la propriété intellectuelle. Ils visent à faciliter les échanges, réduire les barrières commerciales et résoudre les différends.",
   "structure": {
     "sections": [

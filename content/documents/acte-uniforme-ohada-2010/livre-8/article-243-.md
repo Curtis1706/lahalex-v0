@@ -1,4 +1,4 @@
-50’offre doit être acceptée dans le délai stipulé par l’auteur de l’offre ou, à défaut
+l'offre doit être acceptée dans le délai stipulé par l’auteur de l’offre ou, à défaut
 d’une telle stipulation, dans un délai raisonnable, compte tenu des circonstances, notamment
 de la rapidité des moyens de communication utilisés par l’auteur de l’offre. Une offre verbale
 doit être acceptée immédiatement, à moins que les circonstances n’indiquent le contraire.

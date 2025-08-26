@@ -112,46 +112,65 @@ export default function SourceInternationalPage() {
   }
 
   const getCategoryTitle = () => {
-    const categoryTitles: { [key: string]: string } = {
-      "textes-constitutionnels": "Textes constitutionnels et fondamentaux",
-      codes: "Codes",
-      "conventions-collectives": "Conventions collectives",
-      "lois-organiques": "Lois organiques",
-      "lois-ordinaires": "Lois ordinaires",
-      decrets: "Décrets",
-      arretes: "Arrêtés",
-      "fiche-synthese": "Fiches méthode",
-      "fiche-methode": "Fiches méthode",
-      ohada: "OHADA",
-      "union-africaine": "Union Africaine",
-      cemac: "CEMAC",
-      ceeac: "CEEAC",
-      cedeao: "CEDEAO",
-      "conventions-internationales": "Conventions internationales",
-    }
+   const categoryTitles: { [key: string]: string } = {
+  "textes-constitutionnels": "Textes constitutionnels et fondamentaux",
+  codes: "Codes",
+  "conventions-collectives": "Conventions collectives",
+  "lois-organiques": "Lois organiques",
+  "lois-ordinaires": "Lois ordinaires",
+  decrets: "Décrets",
+  arretes: "Arrêtés",
+  "fiche-synthese": "Fiches méthode",
+  "fiche-methode": "Fiches méthode",
+  ohada: "OHADA",
+  "union-africaine": "Union Africaine",
+  cemac: "CEMAC",
+  ceeac: "CEEAC",
+  cedeao: "CEDEAO",
+  uemoa: "UEMOA",
+  "conventions-internationales": "Conventions internationales",
 
-    return categoryTitles[selectedCategory] || selectedCategory
-  }
+  // Nouveaux ajouts
+  omc: "Organisation Mondiale du Commerce (OMC)",
+  cedh: "Convention européenne des droits de l’homme (CEDH)",
+  dudh: "Déclaration universelle des droits de l’homme (DUDH)",
+  cij: "Cour internationale de justice (CIJ)",
+  tidm: "Tribunal International du Droit de la Mer (TIDM)",
+  cpi: "Cour Pénale Internationale (CPI)",
+  "cour-europeenne": "Cour européenne des droits de l’homme",
+}
 
-  const categories = [
-    { key: "textes-constitutionnels", label: "Textes constitutionnels et fondamentaux", icon: FileText },
-    { key: "codes", label: "Codes", icon: BookOpen },
-    { key: "conventions-collectives", label: "Conventions collectives", icon: FileText },
-    { key: "lois-organiques", label: "Lois organiques", icon: FileText },
-    { key: "lois-ordinaires", label: "Lois ordinaires", icon: FileText },
-    { key: "decrets", label: "Décrets", icon: FileText },
-    { key: "arretes", label: "Arrêtés", icon: FileText },
-  ]
+return categoryTitles[selectedCategory] || selectedCategory
+}
 
-  const internationalCategories = [
-    { key: "ohada", label: "OHADA", icon: FileText },
-    { key: "union-africaine", label: "Union Africaine", icon: FileText },
-    { key: "cemac", label: "CEMAC", icon: FileText },
-    { key: "ceeac", label: "CEEAC", icon: FileText },
-    { key: "cedeao", label: "CEDEAO", icon: FileText },
-    { key: "conventions-internationales", label: "Conventions internationales", icon: FileText },
-    { key: "uemoa", label: "UEMOA", icon: FileText },
-  ]
+const categories = [
+  { key: "textes-constitutionnels", label: "Textes constitutionnels et fondamentaux", icon: FileText },
+  { key: "codes", label: "Codes", icon: BookOpen },
+  { key: "conventions-collectives", label: "Conventions collectives", icon: FileText },
+  { key: "lois-organiques", label: "Lois organiques", icon: FileText },
+  { key: "lois-ordinaires", label: "Lois ordinaires", icon: FileText },
+  { key: "decrets", label: "Décrets", icon: FileText },
+  { key: "arretes", label: "Arrêtés", icon: FileText },
+]
+
+const internationalCategories = [
+  { key: "ohada", label: "OHADA", icon: FileText },
+  { key: "union-africaine", label: "Union Africaine", icon: FileText },
+  { key: "cemac", label: "CEMAC", icon: FileText },
+  { key: "ceeac", label: "CEEAC", icon: FileText },
+  { key: "cedeao", label: "CEDEAO", icon: FileText },
+  { key: "uemoa", label: "UEMOA", icon: FileText },
+
+  // Nouveaux ajouts
+  { key: "omc", label: "Organisation Mondiale du Commerce (OMC)", icon: FileText },
+  { key: "cedh", label: "Convention européenne des droits de l’homme (CEDH)", icon: FileText },
+  { key: "dudh", label: "Déclaration universelle des droits de l’homme (DUDH)", icon: FileText },
+  { key: "cij", label: "Cour internationale de justice (CIJ)", icon: FileText },
+  { key: "tidm", label: "Tribunal International du Droit de la Mer (TIDM)", icon: FileText },
+  { key: "cpi", label: "Cour Pénale Internationale (CPI)", icon: FileText },
+  { key: "cour-europeenne", label: "Cour européenne des droits de l’homme", icon: FileText },
+]
+
 
   const SidebarContent = () => (
     <div className="h-full flex flex-col">
@@ -183,7 +202,7 @@ export default function SourceInternationalPage() {
           </h2>
           <div className="space-y-1 lg:space-y-2">
             {/* Organisations internationales */}
-            {internationalCategories.filter(cat => ['conventions-internationales'].includes(cat.key)).map((category) => {
+            {internationalCategories.filter(cat => ['omc','cedh','dudh','cij','cour-europeenne-droits-homme',].includes(cat.key)).map((category) => {
               const IconComponent = category.icon
               const count = categoryCounts[category.key] || 0
               return (

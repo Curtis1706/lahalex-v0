@@ -1,1 +1,1 @@
-50’amortissement des parts sociales par voie de tirage au sort est interdit.
+l'amortissement des parts sociales par voie de tirage au sort est interdit.

@@ -11,6 +11,6 @@ forme électronique ainsi que leur intégrité au cours de leurs traitements et 
 sions électroniques sont reconnus valables par le présent Acte uniforme ou par le Comité
 technique de normalisation des procédures électroniques prévu à l’Article 81 du présent Acte
 uniforme.
-50’usage d’une signature électronique qualifiée est un procédé technique fiable et garantissant,
+l'usage d’une signature électronique qualifiée est un procédé technique fiable et garantissant,
 à tout moment, l’origine des documents sous forme électronique, leur intégrité au cours de
 leurs traitements et de leurs transmissions électroniques.

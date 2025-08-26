@@ -1,4 +1,4 @@
-50’acheteur doit examiner les marchandises ou les faire examiner dans un délai aussi
+l'acheteur doit examiner les marchandises ou les faire examiner dans un délai aussi
 bref que possible. Lorsque le contrat de vente prévoit la remise des marchandises à un trans-
 porteur, l’examen peut être différé jusqu’à l’arrivée de ces marchandises à leur destination.
 Si les marchandises sont déroutées ou réexpédiées par l’acheteur sans que celui-ci ait eu rai-

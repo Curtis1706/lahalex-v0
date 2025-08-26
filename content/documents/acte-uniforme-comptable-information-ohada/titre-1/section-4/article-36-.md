@@ -1,4 +1,4 @@
-50’extinction partielle ou totale de l’obligation principale entraîne, dans la même me-
+l'extinction partielle ou totale de l’obligation principale entraîne, dans la même me-
 sure, celle de l’engagement de la caution.
 La dation en paiement libère définitivement la caution, même si le créancier est
 ensuite évincé de la chose acceptée par lui. Toute clause contraire est réputée

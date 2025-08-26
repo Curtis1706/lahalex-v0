@@ -1,3 +1,3 @@
-50’assemblée ne peut réduire la valeur des apports en nature qu’à l’unanimité des souscripteurs et avec le consentement exprès de l’apporteur.
+l'assemblée ne peut réduire la valeur des apports en nature qu’à l’unanimité des souscripteurs et avec le consentement exprès de l’apporteur.
 Le consentement de l’apporteur doit être mentionné au procès-verbal lorsque la valeur attri- buée aux biens apportés est différente de celle retenue par le commissaire aux apports ou la société coopérative faîtière.
 Les coopérateurs et les administrateurs sont solidairement responsables à l’égard des tiers pendant cinq ans, de la valeur attribuée aux apports.

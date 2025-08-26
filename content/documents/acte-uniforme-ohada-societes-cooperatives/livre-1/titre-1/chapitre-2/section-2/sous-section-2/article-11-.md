@@ -1,5 +1,5 @@
 Le coopérateur ne peut se retirer de la société coopérative qu’après avoir avisé par écrit cette dernière. Le retrait prend effet à la date indiquée dans l’avis ou à la date de sa ré- ception, si celle-ci est postérieure.
-50’organe d’administration de la société coopérative constate par écrit le retrait du coopérateur.
+l'organe d’administration de la société coopérative constate par écrit le retrait du coopérateur.
 Au cours de l’année suivant la date de prise d’effet du retrait, la société coopérative rembour- se, au prix fixé conformément aux statuts, toutes les parts sociales détenues par le coopérateur qui se retire.
 La coopérative rembourse également au coopérateur tous les prêts et les autres sommes por- tées à son crédit, le solde des prêts qu’elle lui a consentis ainsi que les intérêts courus sur ces sommes jusqu’à la date du paiement.
 Lorsqu’il estime que le remboursement des parts sociales ou des prêts du coopérateur qui se retire est de nature à nuire à la santé financière de la coopérative, le comité de gestion ou le conseil d’administration peut porter le délai de remboursement à deux ans par décision moti- vée susceptible de recours devant la juridiction compétente.

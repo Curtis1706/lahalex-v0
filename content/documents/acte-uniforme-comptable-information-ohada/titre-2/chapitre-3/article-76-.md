@@ -1,4 +1,4 @@
-50’incorporation d’un meuble faisant l’objet d’une réserve de propriété à un autre
+l'incorporation d’un meuble faisant l’objet d’une réserve de propriété à un autre
 bien ne fait pas obstacle aux droits du créancier lorsque ces biens peuvent être séparés sans
 subir de dommage.
 Acte uniforme OHADA portant organisation des sûretés

@@ -1,3 +1,3 @@
 Les statuts de la société coopérative simplifiée doivent nécessairement contenir l’évaluation de chaque apport en nature. Cette évaluation est faite sous le contrôle de la socié- té faîtière s’il en existe.
-En cas de nécessité, tout coopérateur peut saisir la juridiction compétente et, à défaut, l’autorité chargée des sociétés coopératives, aux fins de désigner un expert chargé d’évaluer les apports en nature. 50’expert ainsi désigné établit un rapport annexé aux statuts.
+En cas de nécessité, tout coopérateur peut saisir la juridiction compétente et, à défaut, l’autorité chargée des sociétés coopératives, aux fins de désigner un expert chargé d’évaluer les apports en nature. l'expert ainsi désigné établit un rapport annexé aux statuts.
 La rémunération de cet expert incombe aux coopérateurs, sauf reprise par la société coopéra- tive des dépenses ainsi engagées.

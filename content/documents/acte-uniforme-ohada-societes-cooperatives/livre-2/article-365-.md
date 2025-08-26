@@ -1,1 +1,1 @@
-50’assemblée générale ordinaire statue à la majorité des voix exprimées. Dans les cas où il est procédé à un scrutin, il n’est pas tenu compte des bulletins blancs.
+l'assemblée générale ordinaire statue à la majorité des voix exprimées. Dans les cas où il est procédé à un scrutin, il n’est pas tenu compte des bulletins blancs.

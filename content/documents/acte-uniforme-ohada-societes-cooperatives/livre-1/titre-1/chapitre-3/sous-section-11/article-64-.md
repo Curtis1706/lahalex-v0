@@ -1,1 +1,1 @@
-50’action aux fins de régularisation se prescrit par trois ans à compter de l’immatriculation de la société coopérative ou de la publication de l’acte modifiant les statuts.
+l'action aux fins de régularisation se prescrit par trois ans à compter de l’immatriculation de la société coopérative ou de la publication de l’acte modifiant les statuts.

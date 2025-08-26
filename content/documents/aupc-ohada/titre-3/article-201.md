@@ -3,7 +3,7 @@ subrogation, renonciation, extinction, est établi, selon la loi nationale du li
 l’immeuble, par acte notarié ou par acte sous seing privé suivant un modèle conforme aux
 règles de l’Etat Partie concerné et publié comme l’acte par lequel cette hypothèque est
 consentie ou constituée.
-50’extinction de l’hypothèque conventionnelle ou judiciaire résulte :
+l'extinction de l’hypothèque conventionnelle ou judiciaire résulte :
 de l’extinction de l’obligation principale ;
 de la renonciation du créancier à l’hypothèque ;
 de la péremption de l’inscription attestée, sous sa responsabilité, par le conservateur du
