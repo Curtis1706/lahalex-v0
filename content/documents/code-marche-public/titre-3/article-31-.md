@@ -1,4 +1,4 @@
-Article 31 : Appel d'offres ouvert en deux étapes
+
 L'appel d'offres ouvert ne peut donner lieu à la procédure de l'appel
 d'offres en deux étapes que dans le cas d'un marché d'une grande
 complexité, ou dans le cas d'un marché qui doit être attribué sur la

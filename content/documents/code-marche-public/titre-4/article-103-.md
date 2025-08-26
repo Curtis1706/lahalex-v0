@@ -1,5 +1,4 @@
-Article 103 : Nantissement et cession : principes et champs
-d'application
+
 Tout marché public conclu conformément aux dispositions de la présente
 loi peut être donné en nantissement. Les créances détenues par le
 titulaire d'un marché public peuvent également faire l'objet de

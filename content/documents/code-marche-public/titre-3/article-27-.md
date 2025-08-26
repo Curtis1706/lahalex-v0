@@ -1,4 +1,4 @@
-Article 27 : Allotissement
+
 Lorsque l'allotissement est susceptible de présenter des avantages
 financiers ou techniques, les travaux, fournitures ou services sont
 répartis en lots pouvant donner lieu chacun à un marché distinct.

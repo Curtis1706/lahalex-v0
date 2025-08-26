@@ -1,5 +1,4 @@
-Article 51 : Interdiction des normes, agréments techniques ou
-spécifications discriminatoires
+
 A moins que de telles spécifications ne soient justifiées par l'objet
 du marché, l'autorité contractante ne peut introduire dans les clauses
 contractuelles propres à un marché, de spécifications techniques

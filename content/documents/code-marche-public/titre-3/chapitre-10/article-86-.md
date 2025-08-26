@@ -1,4 +1,4 @@
-Article 86 : Enregistrement et notification des marchés
+
 Les marchés doivent être soumis aux formalités d'enregistrement prévues
 par la réglementation en vigueur avant tout commencement d'exécution.
 La notification consiste en un envoi par l'autorité contractante du

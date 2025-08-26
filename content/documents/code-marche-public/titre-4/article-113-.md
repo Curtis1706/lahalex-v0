@@ -1,4 +1,4 @@
-Article 113 : Pénalité de retard
+
 En cas de dépassement des délais contractuels fixés par le marché, le
 titulaire du marché est passible de pénalités après mise en demeure
 préalable.

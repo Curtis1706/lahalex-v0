@@ -1,4 +1,4 @@
-Article 95 : Retenue de garantie
+
 Lorsque le marché comporte un délai de garantie, une partie de chaque
 paiement peut être retenue par l'autorité contractante au titre de
 "retenue de garantie" pour couvrir l'obligation de parfait achèvement

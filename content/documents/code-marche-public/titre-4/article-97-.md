@@ -1,4 +1,4 @@
-Article 97 : Actualisation et révision des prix
+
 Que le prix soit forfaitaire, unitaire ou sur dépenses contrôlées, les
 marchés sont conclus à prix ferme ou à prix révisable.
 Le prix est ferme lorsqu'il ne peut être modifié en cours d'exécution

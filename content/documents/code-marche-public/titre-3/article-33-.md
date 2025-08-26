@@ -1,4 +1,4 @@
-Article 33 : Appel d'offres restreint
+
 L'appel d'offres est restreint lorsque seuls les candidats que
 l'autorité contractante a décidé de consulter peuvent remettre des
 offres.

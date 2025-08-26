@@ -1,5 +1,4 @@
-Article 42 : Enchère électronique, principes et conditions de
-validité
+
 La technique de l'enchère électronique a pour but de finaliser la
 sélection des offres, par voie électronique, en permettant aux candidats
 de réviser leur prix à la baisse ou de modifier la valeur de certains

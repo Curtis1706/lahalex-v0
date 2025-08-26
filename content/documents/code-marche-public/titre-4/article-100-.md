@@ -1,4 +1,4 @@
-Article 100 : Avenants
+
 Les stipulations relatives au montant d'un marché public ne peuvent
 être modifiées que par voie d'avenant et dans la limite d'une
 augmentation de trente pour cent (30%) de la valeur totale du marché de

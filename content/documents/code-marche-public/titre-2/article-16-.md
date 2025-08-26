@@ -1,5 +1,4 @@
-Article 16 : Délais impartis aux organes de contrôle des marchés
-publics
+
 Les délais impartis aux cellules de contrôle des marchés publics, à la
 direction nationale de contrôle des marchés publics et aux Directions
 départementales de contrôle des marchés publics pour examiner les

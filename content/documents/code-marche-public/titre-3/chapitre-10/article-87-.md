@@ -1,4 +1,4 @@
-Article 87 : Entrée en vigueur des marchés et attribution définitive
+
 Le marché entre en vigueur dès sa notification au titulaire ou à une
 date ultérieure si le marché le prévoit. L'entrée en vigueur du marché
 marque le début des obligations juridiques d'exécution et, sauf

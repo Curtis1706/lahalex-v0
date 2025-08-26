@@ -1,4 +1,4 @@
-Article 34 : Entente directe ou gré à gré
+
 Un marché est dit de gré à gré ou marché par entente directe lorsqu'il
 est passé sans appel d'offres, après autorisation spéciale de l'organe
 compétent. La demande d'autorisation de recours à cette procédure doit

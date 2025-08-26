@@ -1,4 +1,4 @@
-Article 30 : Appel d'offres ouvert précédé de pré qualification
+
 L'appel d'offres ouvert peut être précédé d'une préqualification
 dans le cas des travaux ou d'équipements importants ou complexes ou de
 services spécialisés. Le recours à cette procédure est exceptionnel et

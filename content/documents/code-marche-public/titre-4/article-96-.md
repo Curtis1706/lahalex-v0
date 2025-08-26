@@ -1,4 +1,4 @@
-Article 96 : Contenu et types de prix
+
 Le prix du marché rémunère le titulaire du marché. Il est réputé lui
 assurer un bénéfice et couvrir toutes les dépenses qui sont la
 conséquence nécessaire et directe des travaux, des fournitures ou des

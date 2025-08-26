@@ -1,5 +1,4 @@
-Article 117 : Recours devant l'Autorité de régulation des marchés
-publics
+
 Les décisions rendues au titre de l'article précédent peuvent faire
 l'objet d'un recours devant l'Autorité de régulation des marchés
 publics chargée du règlement des différends dans un délai de deux (02)

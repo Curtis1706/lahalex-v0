@@ -1,4 +1,4 @@
-Article 114 : Pénalités particulières
+
 Indépendamment des pénalités pour dépassement du délai contractuel, le
 marché peut prévoir des pénalités particulières pour inobservance de
 toutes dispositions autres que techniques.

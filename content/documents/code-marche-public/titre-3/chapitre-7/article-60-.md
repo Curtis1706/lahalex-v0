@@ -1,4 +1,4 @@
-Article 60 : Capacité financière
+
 La justification de la capacité financière du candidat est constituée
 par une ou plusieurs des références suivantes :
 1.  la présentation des bilans ou d'extraits des bilans, dans les cas

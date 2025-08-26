@@ -1,4 +1,4 @@
-Article 75 : Préférence communautaire
+
 Lors de la passation d'un marché, une préférence communautaire doit
 être attribuée à l'offre présentée par une entreprise ressortissante de
 l'espace de l'Union économique et monétaire ouest africaine.

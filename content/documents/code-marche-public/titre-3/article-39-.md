@@ -1,4 +1,4 @@
-Article 39 : Groupement de commandes
+
 Les autorités contractantes peuvent décider de la création d'un
 groupement de commandes afin de coordonner et de regrouper leurs achats
 en matière de travaux, fournitures, services ou prestations

@@ -1,4 +1,4 @@
-Article 10 : Personne responsable des marchés publics
+
 La personne responsable des marchés publics (PRMP) est chargée de mettre
 en œuvre les procédures de passation et d'exécution des marchés,
 notamment :

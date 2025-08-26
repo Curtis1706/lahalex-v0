@@ -1,5 +1,4 @@
-Article 127 : Sanctions applicables aux violations commises par les
-agents de l'Etat en matière de règles de contrôle a priori
+
 Sans préjudice des sanctions disciplinaires prononcées en application de
 la réglementation en vigueur, les représentants et membres des autorités
 contractantes et de l'administration, des autorités chargées du

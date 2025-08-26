@@ -1,4 +1,4 @@
-Article 90 : Cahiers des charges
+
 Le cahier des charges détermine les conditions dans lesquelles les
 marchés sont exécutés. Ils comprennent les documents généraux et les
 documents particuliers suivants dont le contenu est précisé par décret

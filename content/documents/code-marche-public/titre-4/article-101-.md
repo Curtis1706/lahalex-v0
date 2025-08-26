@@ -1,4 +1,4 @@
-Article 101 : Soustraitance
+
 Le titulaire d'un marché peut soustraiter l'exécution de certaines
 parties de son marché, à condition que cette possibilité soit prévue
 dans le dossier d'appel à concurrence.

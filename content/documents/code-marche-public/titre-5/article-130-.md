@@ -1,4 +1,4 @@
-Article 130 : Annulation des contrats irréguliers
+
 Tout contrat obtenu ou renouvelé au moyen de pratiques frauduleuses ou
 d'actes de corruption, ou à l'occasion de l'exécution duquel des
 pratiques frauduleuses et des actes de corruption ont été perpétrés, est

@@ -1,4 +1,4 @@
-Article 24 : Plan de passation des marchés publics
+
 Les autorités contractantes sont tenues, dans un délai maximal de dix
 (10) jours calendaires à compter de l'approbation de leur budget par
 l'autorité compétente, d'élaborer et de soumettre à la cellule de

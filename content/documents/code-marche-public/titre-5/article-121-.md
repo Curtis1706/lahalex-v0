@@ -1,5 +1,4 @@
-Article 121 : Incompatibilités des
-soumissionnaires
+
 Ne sont pas admises à participer aux procédures de passation des marchés
 publics en raison des règles relatives aux conflits d'intérêt :
 les entreprises dans lesquelles les membres de l'autorité

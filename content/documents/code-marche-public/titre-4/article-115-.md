@@ -1,4 +1,4 @@
-Article 115 : Paiement des soustraitants
+
 Les dispositions des articles cidessus portant sur le régime des
 paiements s'appliquent également aux soustraitants bénéficiant d'un
 paiement direct. Dans le cas où le titulaire soustraite une part du

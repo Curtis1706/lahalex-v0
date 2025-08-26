@@ -1,4 +1,4 @@
-Article 8 : Conditions de la validité des marchés
+
 Tout marché public doit être conclu, signé et approuvé avant tout début
 d'exécution.
 Tout marché public dont la passation est soumise à une autorisation

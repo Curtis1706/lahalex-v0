@@ -1,4 +1,4 @@
-Article 71 : Appel d'offres infructueux
+
 Un appel d'offres est déclaré infructueux par la personne responsable
 des marchés publics après avis de l'organe de contrôle de la commande
 publique compétent, soit en l'absence d'offres, soit lorsqu'il n'a pas

@@ -1,4 +1,4 @@
-Article 38 : Négociation des marchés de prestations intellectuelles
+
 Quelle que soit la procédure de sélection utilisée, les marchés de
 prestations intellectuelles peuvent faire l'objet de négociations entre
 l'autorité contractante et le candidat dont la proposition est retenue.

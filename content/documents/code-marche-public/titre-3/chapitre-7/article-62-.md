@@ -1,5 +1,4 @@
-Article 62 : Restrictions liées à la situation administrative des
-attributaires
+
 Ne peuvent être déclarées attributaires d'un marché public, les
 personnes physiques ou morales :
 qui sont en état de liquidation des biens ou de faillite personnelle ;

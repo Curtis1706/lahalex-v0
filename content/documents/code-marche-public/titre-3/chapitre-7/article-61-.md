@@ -1,4 +1,4 @@
-Article 61 : Conflits d'intérêts
+
 En matière de marchés de fournitures, de travaux ou de services est
 réputé être en conflit d'intérêts, tout candidat, entreprise ou société
 :

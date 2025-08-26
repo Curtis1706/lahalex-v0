@@ -1,5 +1,4 @@
-Article 77 : Préférence spécifique au profit des micros, petites et
-moyennes entreprises (MPME)
+
 Tout candidat à un marché public, qui aura prévu de soustraiter au
 moins trente pour cent (30 %) de la valeur globale dudit marché à une ou
 plusieurs micros, petites et moyennes entreprises bénéficie d'une marge

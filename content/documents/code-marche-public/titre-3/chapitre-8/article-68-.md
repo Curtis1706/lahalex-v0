@@ -1,4 +1,4 @@
-Article 68 : Garantie de soumission
+
 Pour être admis à présenter une offre, les soumissionnaires aux marchés
 passés par appel d'offres sont tenus de fournir une garantie de
 l'offre, lorsque la nature des prestations le requiert.
@@ -9,7 +9,7 @@ du marché.
 La garantie de soumission peut prendre les formes ciaprès :
 1.  un chèque ordinaire encaissable sur la durée de validité de l'offre
 ;
-2.  une garantie bancaire inconditionnelle émise par une banque ou une
+1.  une garantie bancaire inconditionnelle émise par une banque ou une
 institution financière habilitée ;
 3toute autre garantie mentionnée, le cas échéant ; dans le dossier
 d'appel à concurrence.

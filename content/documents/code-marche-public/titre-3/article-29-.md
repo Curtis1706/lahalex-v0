@@ -1,4 +1,4 @@
-Article 29 : Appel d'offres ouvert
+
 L'appel d'offres est dit ouvert lorsque tout candidat répondant aux
 conditions fixées au présent code peut déposer une offre.
 Il est procédé au lancement d'un avis d'appel d'offres dans les

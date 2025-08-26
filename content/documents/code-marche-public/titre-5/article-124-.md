@@ -1,4 +1,4 @@
-Article 124 : Violations commises par les agents de l'Etat
+
 Sans préjudice des sanctions pénales du chef de corruption et délits
 assimilés, les représentants et membres des autorités contractantes et
 de l'administration, des autorités chargées du contrôle et de la

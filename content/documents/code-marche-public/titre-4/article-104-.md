@@ -1,5 +1,4 @@
-Article 104 : Modalités de mise en œuvre du nantissement de marché et
-de la cession de créance
+
 Le nantissement ou la cession s'opère sous forme d'un acte
 synallagmatique entre le titulaire du marché et le tiers bénéficiaire.
 Le créancier nanti ou le cessionnaire notifie par tout moyen laissant

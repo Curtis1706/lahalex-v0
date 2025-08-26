@@ -1,4 +1,4 @@
-Article 28 : Appel d'offres
+
 L'appel d'offres est la procédure par laquelle l'autorité
 contractante choisit, après mise en concurrence, l'offre conforme aux
 spécifications techniques, évaluée économiquement la plus avantageuse et

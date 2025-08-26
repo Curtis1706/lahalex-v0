@@ -1,4 +1,4 @@
-Article 73 : Offre conforme économiquement la plus avantageuse
+
 Sous réserve des dispositions spécifiques applicables aux marchés de
 prestations intellectuelles, l'attribution du marché se fait sur la
 base de critères économiques, financiers et techniques, et le cas
@@ -77,7 +77,7 @@ environnementales respecte l'ensemble des conditions suivantes :
 discriminatoires. En particulier, lorsqu'elle n'a pas été prévue
 pour une application répétée ou continue, elle ne favorise ni ne
 défavorise indûment certains opérateurs économiques ;
-2.  elle est accessible à toutes les parties intéressées ;
-3.  elle implique que les données requises puissent être fournies
+1.  elle est accessible à toutes les parties intéressées ;
+2.  elle implique que les données requises puissent être fournies
 moyennant un effort raisonnable consenti par des opérateurs
 économiques normalement diligents.

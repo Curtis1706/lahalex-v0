@@ -1,4 +1,4 @@
-Article 46 : Contenu des dossiers types d'appel à concurrence
+
 Les marchés sont passés sur la base des dossiers types d'appel à
 concurrence élaborés par l'Autorité de régulation des marchés publics.
 Les éléments constitutifs du dossier d'appel à concurrence sont

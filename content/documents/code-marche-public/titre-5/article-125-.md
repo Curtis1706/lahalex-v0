@@ -1,6 +1,4 @@
-Article 125 : Sanctions applicables aux violations commises par les
-agents de l'Etat en matière de liberté d'accès et l'égalité des
-candidats
+
 Est puni d'une peine d'emprisonnement de cinq (05) ans à dix (10) ans,
 tout agent public qui intentionnellement n'aura pas respecté une ou
 plusieurs dispositions législatives ou réglementaires ayant pour objet

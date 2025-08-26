@@ -1,4 +1,4 @@
-Article 72 : Evaluation des offres
+
 La commission d'ouverture et d'évaluation des offres, dès l'ouverture
 des plis, établit un rapport d'analyse dans un délai fixé par voie
 réglementaire.

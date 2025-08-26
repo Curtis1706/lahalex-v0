@@ -1,4 +1,4 @@
-Article 6 : Exclusions
+
 Les dispositions de la présente loi ne sont pas applicables :
 1.  aux besoins de défense et de sécurité nationale exigeant le secret
 ou pour lesquels la protection des intérêts essentiels de l'Etat
@@ -18,7 +18,7 @@ fonctionnement courant de l'administration dans le domaine de la
 défense, de la sécurité publique et assimilées. Un décret pris en
 Conseil des ministres détermine les modalités et les procédures
 applicables à ces marchés ainsi que le champ d'application ;
-2.  aux autres cas spécifiques d'opérations d'achat ou d'entités dont
+1.  aux autres cas spécifiques d'opérations d'achat ou d'entités dont
 l'exclusion est motivée par le besoin de tenir compte de la nature
 de l'achat ou du contexte de l'entité qui font que le respect d'une
 procédure de publicité et de mise en concurrence préalable s'avère

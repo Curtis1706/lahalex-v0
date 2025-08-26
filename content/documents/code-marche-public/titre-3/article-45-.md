@@ -1,4 +1,4 @@
-Article 45 : Centrale d'achat
+
 Une centrale d'achat est une personne morale de droit public ou privé
 qui acquiert des fournitures et services destinés à des autorités
 contractantes ou qui passe, suivant ses propres procédures, des marchés

@@ -1,4 +1,4 @@
-Article 80 : Arrêt de procédure
+
 Toute autorité contractante qui, pour des raisons autres que celles
 relatives à l'intérêt national, ressent la nécessité d'arrêter la
 procédure de passation d'un marché public, doit solliciter l'avis

@@ -1,4 +1,4 @@
-Article 69 : Réception des offres
+
 Sous réserve des dispositions de la présente loi relative à la
 dématérialisation, les offres sont adressées sous pli fermé, portant le
 numéro et l'objet de l'appel d'offres.

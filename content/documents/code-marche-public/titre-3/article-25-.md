@@ -1,4 +1,4 @@
-Article 25 : Avis général de passation de marchés
+
 Pour chaque exercice budgétaire, l'autorité contractante fait connaître
 au public au moyen d'un avis général de passation de marchés à titre
 indicatif, les caractéristiques essentielles des marchés de travaux, de

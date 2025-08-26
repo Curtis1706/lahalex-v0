@@ -1,4 +1,4 @@
-Article 65 : Présentation des offres
+
 Sous réserve des dispositions spécifiques applicables aux marchés de
 prestations intellectuelles, les offres du soumissionnaire doivent être
 contenues dans une seule enveloppe comprenant les renseignements

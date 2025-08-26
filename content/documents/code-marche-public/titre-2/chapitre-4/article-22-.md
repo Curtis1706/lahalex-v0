@@ -1,4 +1,4 @@
-Article 22 : Autorité approbatrice
+
 L'approbation des marchés est organisée comme suit :
 tous les marchés publics, qui relèvent du seuil de compétence de
 contrôle a priori de la direction nationale de contrôle des marchés

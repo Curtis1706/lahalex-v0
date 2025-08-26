@@ -1,4 +1,4 @@
-Article 44 : Modalités de clôture de l'enchère électronique
+
 L'autorité contractante clôt l'enchère électronique selon une ou
 plusieurs des modalités suivantes
 la date et l'heure fixées dans l'invitation à participer à l'enchère

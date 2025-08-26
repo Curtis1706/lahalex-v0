@@ -1,4 +1,4 @@
-Article 53 : Obligation de publicité des avis
+
 Sauf dans le cas des marchés publics passés par la sollicitation de prix
 ou par le régime du seuil de dispense et sous réserve d'exceptions
 évoquées aux chapitres 2 et 3 du titre II de la présente loi, les

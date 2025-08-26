@@ -1,4 +1,4 @@
-Article 41 : Mise en œuvre de l'accordcadre
+
 L'accordcadre peut être mis en œuvre à travers trois (03) modalités :
 rémission de bons de commande au fur et à mesure, lorsque
 l'accordcadre fixe toutes les stipulations contractuelles ;
@@ -33,12 +33,12 @@ et les conditions objectives permettant de déterminer quel opérateur
 économique partie à l'accordcadre est chargé de l'exécution. Les
 documents de marché relatifs à l'accordcadre précisent ces
 dernières conditions ;
-2.  par une remise en concurrence des opérateurs économiques parties à
+1.  par une remise en concurrence des opérateurs économiques parties à
 l'accord cadre, lorsque celuici ne définit pas toutes les
 conditions d'exécution des travaux, des services ou des fournitures
 concernés. Cette mise en concurrence se fait conformément aux
 dispositions de la présente loi ;
-3.  lorsque l'accordcadre prévoit à la fois les modalités d'exécution
+1.  lorsque l'accordcadre prévoit à la fois les modalités d'exécution
 des travaux, des services ou des fournitures telles que définies aux
 points 1 et 2, cellesci sont exécutées selon les critères objectifs
 qui sont énoncés dans les documents de marché relatifs à

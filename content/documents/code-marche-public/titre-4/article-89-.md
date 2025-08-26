@@ -1,4 +1,4 @@
-Article 89 : Typologie des réceptions
+
 Au terme de l'exécution d'un marché public et/ou de l'expiration du
 délai de garantie, les travaux ou les fournitures ayant fait l'objet
 dudit marché, sont réceptionnés avant leur mise en consommation.

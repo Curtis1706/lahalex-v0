@@ -1,4 +1,4 @@
-Article 35 : Autres règles spécifiques au gré à gré
+
 Le marché de gré à gré ne peut être passé qu'avec des entrepreneurs,
 des fournisseurs ou des prestataires de services qui acceptent de se
 soumettre à un contrôle des prix spécifiques durant l'exécution des
