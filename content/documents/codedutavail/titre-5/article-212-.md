@@ -1,0 +1,1 @@
+La rémunération d’un travail à la tâche ou aux pièces doit être calculée de telle sorte qu’elle procure au travailleur, de capacité moyenne et travaillant normalement, un salaire au moins égal à celui du travailleur rémunéré à temps effectuant un travail analogue.

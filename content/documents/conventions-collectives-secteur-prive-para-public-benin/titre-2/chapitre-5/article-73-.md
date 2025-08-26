@@ -1,0 +1,3 @@
+Consultations et soins médicaux
+Les salariés et les membres de leurs familles bénéficient gratuitement de consultations en cas d'urgence suivies de soins dans les services de santé au travail des entreprises ou dans les formations sanitaires agréées ;
+En dehors des services de santé au travail d'entreprise, le travailleur et les membres de sa famille bénéficient des remboursements par l'employeur et dans la limite de 60% des frais occasionnés par une hospitalisation et facturés par les hôpitaux publics ou les formations sanitaires agréées par l'entreprise.

@@ -1,0 +1,3 @@
+La Commission de Contrôle des Investissements est chargée de vérifier la conformité des investissements, le respect des engagements de l’investisseur et d’attester la fin de la période d’installation de l’investisseur.
+A cet effet et pour toutes autres vérifications, elle peut recourir à l’expertise de consultants avérés.
+Les attributions, l’organisation et le fonctionnement de ladite Commission sont précisés par décret pris en Conseil des Ministres.

@@ -1,4 +1,0 @@
-Article 39 : Le régime d’incitation sectorielle vise à accorder des avantages supplémentaires aux investisseurs éligibles aux régimes « A » ou « B » qui investissent dans les secteurs ou activités définis par décret pris en Conseil des Ministres.
-Les avantages supplémentaires accordés aux investisseurs éligibles au régime d’incitation sectorielle ne peuvent excéder les avantages prévus par la présente loi.
-Les investisseurs éligibles au régime « A » qui investissent dans les secteurs ou activités éligibles au régime d’incitation sectorielle peuvent bénéficier des avantages prévus par le régime « B ».
-Les investisseurs éligibles au régime « B » qui investissent dans les secteurs ou activités éligibles au régime d’incitation sectorielle peuvent bénéficier des avantages prévus par le régime « C ».

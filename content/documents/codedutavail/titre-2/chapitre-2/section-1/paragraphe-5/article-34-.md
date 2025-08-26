@@ -1,0 +1,1 @@
+Des décrets pris après avis du conseil national du travail prévu par le code, déterminent en tant que de besoin, les modalités d’application des présentes dispositions.

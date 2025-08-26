@@ -1,0 +1,3 @@
+Toute entreprise qui sollicite l’octroi d’un régime privilégié formule la demande auprès de l’Agence nationale en charge de la promotion des investissements.
+l'Agence nationale en charge de la promotion des investissements tient à la disposition des investisseurs des formulaires adaptés aux différents types d’investissements prévus par le présent Code.
+Le dépôt du dossier complet par l’investisseur est constaté par la délivrance d’une attestation de recevabilité délivrée par l’Agence nationale en charge de la promotion des investissements.

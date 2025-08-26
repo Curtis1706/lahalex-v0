@@ -1,0 +1,1 @@
+Toute contestation de pénalité est sou- mise à l’appréciation du procureur de la République près le tribunal de dernière instance du ressort de l’inspection du travail. Toutefois, le procureur de la République peut décider de la saisine de la chambre correctionnelle.

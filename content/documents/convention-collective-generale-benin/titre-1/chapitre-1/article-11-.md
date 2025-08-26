@@ -1,0 +1,8 @@
+EMBAUCHAGE ET REEMBAUCHAGE
+Les employeurs font connaître obligatoirement leurs besoins en main-d’œuvre à la Direction Générale du Travail, de la Main d’œuvre et des Lois Sociales et affichent, pour information du personnel, les demandes ainsi faites qui précisent les emplois vacants et les catégories professionnelles de ces emplois.
+L’embauchage direct ne peut être fait qu’après l’autorisation des services du travail, lorsque ceux-ci se trouvent dans l’impossibilité de fournir la main-d’œuvre demandée.
+Les engagements peuvent être effectués à titre permanent, saisonnier, temporaire ou occasionnel.
+Sont travailleurs à titre saisonnier ou temporaire les travailleurs engagés d’accord parties pour une tâche déterminée dont l’exécution n’excède pas six mois. Sont travailleurs à titre occasionnel les travailleurs engagés à l’heure ou à la journée.
+Le travailleur congédié par suite de suppression d’emploi ou de compression de personnel conserve pendant deux ans la priorité d’embauchage dans la même catégorie d’emploi.
+Passé ce délai, il continue à bénéficier de la même priorité pendant une année sous réserve d’un essai professionnel durant cette dernière période.
+Pour bénéficier de ces dispositions, les travailleurs intéressés devront, à leur licenciement, faire connaître l’adresse de leur domicile faire une demande de réembauchage et répondre à l’offre d’emploi qui pourrait leur être faite et se présenter dans les délais impartis par l’employeur.

@@ -1,0 +1,2 @@
+A l’issue de la tentative de conciliation, le service du travail établit séance tenante un procès-verbal constatant soit l’accord, soit le désaccord partiel ou total des parties. Celles-ci contresignent le procès-verbal et en reçoivent copie.
+L’accord de conciliation devient exécutoire par les parties au jour du dépôt au greffier du tribunal du ressort. Cet accord produit effet, sauf stipulation contraire, à dater du jour de la notification du conflit au service compétent du travail.

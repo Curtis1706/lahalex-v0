@@ -1,0 +1,15 @@
+{
+  "id": "article-98-",
+  "title": "Article 98 :",
+  "numero": "98 ",
+  "document": "codedelinformation",
+  "path": [
+    "titre-3",
+    "section-5"
+  ],
+  "navigation": {
+    "parent": "section-5",
+    "previous": "article-97-",
+    "next": "article-99-"
+  }
+}

@@ -1,0 +1,2 @@
+La publicité ne peut ni représenter une personne aussi bien dans ses activités publiques que privées, ni s’y référer sans autorisation préalable.
+l'utilisation des mineurs, à des fins publicitaires, est subordonnée à l’autorisation préalable de la personne qui exerce l’autorité parentale. Cette personne a le droit de donner son avis sur le produit final avant sa mise à la disposition du public.

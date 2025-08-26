@@ -1,0 +1,5 @@
+PRÉCONCILIATION
+Tout conflit collectif qui surgit au sein d’une entreprise ou d’un établissement fera l’objet en premier lieu d’une concertation entre la Direction et les représentants du Personnel.
+En cas de désaccord le conflit sera porté devant une commission. Cette commission en principe paritaire composée de 8 membres au maximum est constituée dans l’entreprise et siège en son sein. Elle est présidée par le Directeur de l’établissement ou son représentant et comporte des représentants de la Direction et du Personnel.
+Si cette commission parvient à un accord celui-ci s’impose aux parties, procès-verbal en est dressé et transmis à l’Inspecteur du Travail du ressort. En cas de désaccord, il est dressé un procès-verbal de non-conciliation adressé à l’Inspecteur du Travail qui entame sans délai la procédure prévue au Chapitre II du Titre IX du Code du Travail.
+TITRE X : RETRAITE

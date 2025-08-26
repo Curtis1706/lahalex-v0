@@ -1,0 +1,13 @@
+{
+  "id": "article-1-",
+  "title": "Article 1 :",
+  "numero": "1 ",
+  "document": "codedutavail",
+  "path": [
+    "titre-1"
+  ],
+  "navigation": {
+    "parent": "titre-1",
+    "next": "article-2-"
+  }
+}

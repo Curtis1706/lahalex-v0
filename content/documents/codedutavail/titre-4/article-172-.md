@@ -1,0 +1,1 @@
+Tout licenciement prononcé ou maintenu par l’employeur en violation des dispositions de l’article précédent ouvre droit, au profit de la sala- riée, à des dommages et intérêts qui ne peuvent être inférieurs à douze mois de salaire. Ces dommages et intérêts sont dus sans préjudice de toutes autres indemnités ou dommages et intérêts auxquels le licenciement peut donner naissance.

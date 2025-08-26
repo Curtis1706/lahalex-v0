@@ -1,0 +1,2 @@
+Nonobstant les dispositions de l’article 13 du présent code, sont travailleurs à titre saisonnier ou temporaire, les travailleurs engagés pour une tâche déterminée dont l’exécution n’excède pas six mois.
+Sont travailleurs à titre occasionnel, les travailleurs engagés à l’heure ou à la journée.

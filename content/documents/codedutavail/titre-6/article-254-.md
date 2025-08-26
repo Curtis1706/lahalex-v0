@@ -1,0 +1,1 @@
+Le service compétent du travail ainsi saisi convoque les parties aux fins de procéder à leur conciliation.

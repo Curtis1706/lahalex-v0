@@ -1,0 +1,2 @@
+Le congé doit être effectivement pris dans les douze mois suivants. L’ordre et les dates de départ en congé sont fixés par l’employeur compte tenu des nécessités de service et, dans la mesure du possible, des désirs du salarié. Chaque salarié doit être informé au moins quinze jours à l’avance de la date de ses congés.
+Pour tenir compte des variations saisonnières d’activité, les conventions et accords collectifs peuvent déterminer les périodes de l’année pendant lesquelles les travailleurs doivent prendre leurs congés.

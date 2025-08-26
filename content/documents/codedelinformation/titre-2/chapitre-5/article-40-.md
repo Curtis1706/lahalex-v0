@@ -1,0 +1,2 @@
+l'Etat accorde des facilités aux entreprises de presse privée à travers un régime fiscal spécial favorable. Il peut s’agir d’allègement, de diminution ou d’exonération des impôts, taxes ou redevances.
+Pour bénéficier desdites facilités, l’entreprise doit fournir la preuve de l’application par elle des dispositions de la convention collective applicable au personnel de la presse privée en République du Bénin.

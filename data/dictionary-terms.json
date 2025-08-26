@@ -1,96 +1,668 @@
 {
   "A": [
     {
-      "id": "a1",
+      "id": "mesd2zw5e8g9f3z16rl",
+      "term": "Ab intestat",
+      "definition": "Locution juridique latine signifiant qu'une succession est ouverte en l'absence de testament, soit parce que le défunt n'en a jamais rédigé, soit parce que le testament est nul, inefficace ou caduc. Elle désigne à la fois ce mode légal de transmission des biens selon l’ordre successoral fixé par le droit civil, et les héritiers qui en bénéficient sans avoir été expressément désignés par le défunt.",
+      "category": "droit-civil",
+      "synonyms": [
+        "Succession légale",
+        "Héritage sans testament"
+      ],
+      "examples": [
+        "Après le décès soudain de M. Bio, qui n’avait laissé aucun testament, ses deux enfants ont été déclarés héritiers ab intestat et ont reçu chacun une part égale des biens successoraux conformément aux règles de la dévolution légale."
+      ],
+      "relatedTerms": [],
+      "source": "Code civil, articles 720 et suivants",
+      "createdAt": "2025-08-26T09:46:30.581Z",
+      "updatedAt": "2025-08-26T09:46:30.581Z"
+    },
+    {
+      "id": "mesd30b3xseqh9m8aap",
+      "term": "Ab irato",
+      "definition": "Locution latine désignant un acte accompli sous l’effet d’un accès de colère ou d’une vive émotion. En droit, un acte ab irato comme un testament fait dans un moment de fureur n’est pas nul en soi du seul fait de l’émotion. Il ne peut être annulé que si la colère a altéré gravement la lucidité de son auteur, au point d’abolir sa volonté ou de révéler un trouble mental invalidant l’acte.",
+      "category": "droit-civil",
+      "synonyms": [
+        "Acte sous l’emprise de la colère"
+      ],
+      "examples": [
+        "Après avoir découvert une trahison de son fils, Mme K. a rédigé un testament excluant ce dernier de la succession. Les autres héritiers ont contesté le testament en invoquant qu’il avait été rédigé ab irato, et qu’à cause de la colère, Mme K. n’était plus en état de discernement suffisant pour exprimer une volonté éclairée."
+      ],
+      "relatedTerms": [],
+      "source": "Jurisprudence civile – vices du consentement",
+      "createdAt": "2025-08-26T09:46:31.119Z",
+      "updatedAt": "2025-08-26T09:46:31.119Z"
+    },
+    {
+      "id": "mesd30g8f8yqfjz1lsk",
       "term": "Abandon",
-      "definition": "Très anc. comp.; issu de la locution a bandon, dans laisser, mettre a bandon: à la discrétion, à la merci. Bandon: anc. terme jurid. signifiant pouvoir, dér. du germ. banda: étendard, d'où signe d'autorité auquel se rattache aussi bande: troupe.",
-      "category": "droit-civil",
-      "source": "Code civil, article 227"
+      "definition": "Tout acte volontaire par lequel une personne cesse d’exercer ou d’assumer un droit, une obligation ou une charge légale. Il peut s’agir d’une renonciation juridique (à un droit réel, à une prétention), d’un désengagement matériel ou moral (vis-à-vis d’un enfant, d’un conjoint, d’un poste), ou d’un désintérêt manifeste à l’égard d’un bien ou d’une activité. L’abandon implique une volonté délibérée et se distingue de la perte qui est involontaire.",
+      "category": "droit-civil, droit-pénal, droit-du-travail",
+      "synonyms": [
+        "Renonciation",
+        "Délaissement"
+      ],
+      "examples": [
+        "Un débiteur surendetté peut abandonner certains de ses biens à ses créanciers pour leur permettre de se rembourser. Il s’agit d’un abandon aux créanciers, qui ne prive pas le débiteur de tout droit sur l’éventuel reliquat."
+      ],
+      "relatedTerms": [],
+      "source": "Code civil, Code pénal, Code du travail",
+      "createdAt": "2025-08-26T09:46:31.304Z",
+      "updatedAt": "2025-08-26T09:46:31.304Z"
     },
     {
-      "id": "a2",
+      "id": "mesd30ih04kk0598wjz8",
       "term": "Abandonnataire",
-      "definition": "Subst. – De *abandon; dér., fait au XIXe siècle, d'après donataire. Celui au profit duquel est fait l'*abandonnement ou l'*abandon du navire.",
-      "category": "droit-commercial",
-      "source": "Code de commerce maritime"
+      "definition": "Personne physique ou morale qui reçoit un bien abandonné dans un cadre légal, notamment en matière maritime ou d’assurance. Cette qualité résulte de l’abandonnement, acte par lequel le propriétaire renonce à ses droits sur un bien (navire, cargaison) au profit d’un tiers, généralement un assureur, à la suite d’un sinistre ou d’un événement couvert par contrat. Cette opération transfère la propriété et met fin aux obligations de l’abandonnant.",
+      "category": "droit-maritime, droit-des-assurances",
+      "synonyms": [
+        "Bénéficiaire de l’abandonnement"
+      ],
+      "examples": [
+        "Après le naufrage d’un navire, l’armateur a déclaré l’abandonnement total du bâtiment à son assureur. Celui-ci, en qualité d’abandonnataire, est devenu propriétaire de l’épave afin d’en assurer la récupération et la revente."
+      ],
+      "relatedTerms": [],
+      "source": "Code des assurances, Droit maritime",
+      "createdAt": "2025-08-26T09:46:31.385Z",
+      "updatedAt": "2025-08-26T09:46:31.385Z"
     },
     {
-      "id": "a3",
-      "term": "Acte authentique",
-      "definition": "Document rédigé par un officier public (notaire, huissier, officier d'état civil) qui confère une force probante particulière et une exécutoire.",
+      "id": "mesd30prllsipnerrx",
+      "term": "Abandonner",
+      "definition": "Action par laquelle une personne renonce volontairement à un droit, un bien ou une procédure, sans qu’il y ait nécessairement transfert à autrui. En procédure civile, il peut s’agir de la renonciation à une instance ou à une demande en cours. En droit des biens, l’abandon consiste à renoncer à la possession ou à la propriété d’un bien.",
+      "category": "droit-civil, procédure-civile",
+      "synonyms": [
+        "Renoncer",
+        "Délaisser"
+      ],
+      "examples": [
+        "Le demandeur a expressément abandonné son action en dommages-intérêts avant la clôture des débats, entraînant la radiation de l’affaire du rôle par le juge."
+      ],
+      "relatedTerms": [],
+      "source": "Code de procédure civile",
+      "createdAt": "2025-08-26T09:46:31.647Z",
+      "updatedAt": "2025-08-26T09:46:31.647Z"
+    },
+    {
+      "id": "mesd315ikjgpwkw8pma",
+      "term": "Abattage",
+      "definition": "Action réglementée de mettre à mort des animaux ou de couper des végétaux. En droit rural et sanitaire, l’abattage des animaux vise principalement des objectifs alimentaires, sanitaires ou sécuritaires. En droit forestier et environnemental, l’abattage d’arbres consiste en la coupe réglementée des arbres sur pied.",
+      "category": "droit-rural, droit-sanitaire, droit-environnemental",
+      "synonyms": [
+        "Mise à mort réglementée",
+        "Coupe d’arbres"
+      ],
+      "examples": [
+        "Un éleveur qui procède à l’abattage d’un cheptel bovin en raison d’une suspicion de fièvre aphteuse doit le faire dans un abattoir agréé, sous le contrôle des services vétérinaires."
+      ],
+      "relatedTerms": [],
+      "source": "Code rural et forestier",
+      "createdAt": "2025-08-26T09:46:32.214Z",
+      "updatedAt": "2025-08-26T09:46:32.214Z"
+    },
+    {
+      "id": "mesd31er2dfyx01by6y",
+      "term": "Abattement",
+      "definition": "Réduction appliquée à une base de calcul, généralement en matière fiscale, sociale ou salariale, avant la détermination du montant final à payer ou à percevoir.",
+      "category": "droit-fiscal, droit-social",
+      "synonyms": [
+        "Déduction",
+        "Réduction d’assiette"
+      ],
+      "examples": [
+        "Un héritier en ligne directe bénéficie d’un abattement de 50 millions de francs CFA sur la part reçue, ce qui signifie que seuls les montants excédant cette somme seront pris en compte pour le calcul des droits de succession."
+      ],
+      "relatedTerms": [],
+      "source": "Code général des impôts",
+      "createdAt": "2025-08-26T09:46:32.547Z",
+      "updatedAt": "2025-08-26T09:46:32.547Z"
+    },
+    {
+      "id": "mesd31ipt6oq2upaff",
+      "term": "Abdicatif, ive",
+      "definition": "Adjectif juridique qualifiant un acte ou une démarche qui entraîne l'abandon volontaire d'une fonction, d'un pouvoir ou d'un droit.",
+      "category": "droit-constitutionnel",
+      "synonyms": [
+        "Renonciatif",
+        "Démissionnaire (selon contexte)"
+      ],
+      "examples": [
+        "La signature d'un acte abdicatif par le monarque devant notaire pour renoncer formellement au trône."
+      ],
+      "relatedTerms": [],
+      "source": "Doctrine de droit constitutionnel",
+      "createdAt": "2025-08-26T09:46:32.689Z",
+      "updatedAt": "2025-08-26T09:46:32.689Z"
+    },
+    {
+      "id": "mesd31qskblw9wclf8f",
+      "term": "Abdication",
+      "definition": "Acte juridique solennel par lequel un souverain ou un dirigeant suprême renonce définitivement et irrévocablement à l'exercice de ses prérogatives souveraines. Cette renonciation volontaire se distingue de la démission utilisée pour les autres fonctions publiques.",
+      "category": "droit-constitutionnel",
+      "synonyms": [
+        "Renonciation au trône",
+        "Démission royale"
+      ],
+      "examples": [
+        "L'abdication du roi Édouard VIII en 1936 pour épouser Wallis Simpson, formalisée par un acte constitutionnel."
+      ],
+      "relatedTerms": [],
+      "source": "Histoire constitutionnelle, Royaume-Uni",
+      "createdAt": "2025-08-26T09:46:32.981Z",
+      "updatedAt": "2025-08-26T09:46:32.981Z"
+    },
+    {
+      "id": "mesd325cbiomytz083j",
+      "term": "Abolitif, ive",
+      "definition": "Adjectif juridique qualifiant un acte normatif qui supprime définitivement un état de droit, une institution ou un régime juridique antérieur. Se distingue par son caractère solennel d’une simple abrogation technique.",
+      "category": "droit-général",
+      "synonyms": [
+        "Suppressif",
+        "Extinctif (selon contexte)"
+      ],
+      "examples": [
+        "La loi abolitive de 1981 supprimant la peine de mort en France, marquant une rupture fondamentale avec le système pénal antérieur."
+      ],
+      "relatedTerms": [],
+      "source": "Loi n°81-908 du 9 octobre 1981, France",
+      "createdAt": "2025-08-26T09:46:33.504Z",
+      "updatedAt": "2025-08-26T09:46:33.504Z"
+    },
+    {
+      "id": "mesd32dy81yu8xg5kgk",
+      "term": "Abolition",
+      "definition": "Suppression solennelle et définitive d'un état de droit, d'une institution ou d'un régime juridique antérieur, motivée par l'évolution des principes fondamentaux du droit et des mœurs. L'abolition se distingue de l'abrogation par sa portée symbolique et son caractère de rupture.",
+      "category": "droit-général",
+      "synonyms": [
+        "Suppression définitive",
+        "Éradication"
+      ],
+      "examples": [
+        "L'abolition de l'esclavage par décret du 27 avril 1848, qui ne se contentait pas d'abroger les textes existants mais proclamait solennellement la fin d'un système contraire à la dignité humaine."
+      ],
+      "relatedTerms": [],
+      "source": "Décret du 27 avril 1848, France",
+      "createdAt": "2025-08-26T09:46:33.814Z",
+      "updatedAt": "2025-08-26T09:46:33.814Z"
+    },
+    {
+      "id": "mesd32idwsqa0a0dcml",
+      "term": "Abondement",
+      "definition": "Contribution financière versée par l'employeur en complément des sommes que le salarié place volontairement dans un dispositif collectif d'épargne salariale. Mécanisme incitatif destiné à encourager l'épargne des salariés.",
+      "category": "droit-du-travail / droit-social",
+      "synonyms": [
+        "Complément employeur",
+        "Participation complémentaire"
+      ],
+      "examples": [
+        "Un salarié qui verse 50 000 FCFA dans son plan d’épargne d’entreprise peut bénéficier d’un abondement de 25 % par son employeur."
+      ],
+      "relatedTerms": [],
+      "source": "Code du travail, dispositifs d’épargne salariale",
+      "createdAt": "2025-08-26T09:46:33.973Z",
+      "updatedAt": "2025-08-26T09:46:33.973Z"
+    },
+    {
+      "id": "mesd32rpepfkmpwphq",
+      "term": "Abonder",
+      "definition": "Verbe signifiant verser un complément de fonds dans un dispositif existant (usage financier) ou partager l'opinion d’autrui (usage figuré/juridique). Peut aussi indiquer la manifestation fréquente d’un phénomène.",
+      "category": "droit-financier / droit-des-affaires",
+      "synonyms": [
+        "Contribuer",
+        "Ajouter",
+        "Renforcer"
+      ],
+      "examples": [
+        "Une collectivité peut abonder un fonds d’indemnisation en y ajoutant une contribution exceptionnelle. En réunion, un membre peut abonder dans le sens d’un autre."
+      ],
+      "relatedTerms": [],
+      "source": "Droit financier et pratique des fonds collectifs",
+      "createdAt": "2025-08-26T09:46:34.309Z",
+      "updatedAt": "2025-08-26T09:46:34.309Z"
+    },
+    {
+      "id": "mesd33iy50axth61or",
+      "term": "Abonnement",
+      "definition": "Modalité contractuelle par laquelle une personne s'engage à recevoir régulièrement un service en contrepartie d’un prix forfaitaire. En droit fiscal, mode de perception d’impôt forfaitaire.",
+      "category": "droit-des-contrats / droit-fiscal",
+      "synonyms": [
+        "Souscription",
+        "Contrat forfaitaire"
+      ],
+      "examples": [
+        "Un abonnement annuel d’électricité inclut une part fixe et une part variable selon la consommation."
+      ],
+      "relatedTerms": [],
+      "source": "Code civil et Code général des impôts",
+      "createdAt": "2025-08-26T09:46:35.291Z",
+      "updatedAt": "2025-08-26T09:46:35.291Z"
+    },
+    {
+      "id": "mesd341imyzwystbbo",
+      "term": "Abordage",
+      "definition": "Collision volontaire ou accidentelle entre deux navires (ou aéronefs) entraînant un régime spécifique de responsabilité en droit maritime, fluvial ou aérien.",
+      "category": "droit-maritime / droit-international",
+      "synonyms": [
+        "Collision navale",
+        "Heurt"
+      ],
+      "examples": [
+        "Lors d’un abordage entre un cargo et un navire de plaisance, la responsabilité est régie par les règles spécifiques du droit maritime."
+      ],
+      "relatedTerms": [],
+      "source": "Code des transports, conventions internationales",
+      "createdAt": "2025-08-26T09:46:35.958Z",
+      "updatedAt": "2025-08-26T09:46:35.958Z"
+    },
+    {
+      "id": "mesd346bl51ngk60vmh",
+      "term": "Abornement",
+      "definition": "Acte consistant à matérialiser les limites d’un terrain par des marques visibles (bornes, piquets, jalons) après une décision de bornage.",
+      "category": "droit-immobilier / droit-foncier",
+      "synonyms": [
+        "Délimitation matérielle",
+        "Implantation de bornes"
+      ],
+      "examples": [
+        "Après un bornage signé entre deux copropriétaires, un géomètre procède à l’abornement en plaçant des bornes sur le terrain."
+      ],
+      "relatedTerms": [],
+      "source": "Code civil, articles relatifs au bornage",
+      "createdAt": "2025-08-26T09:46:36.131Z",
+      "updatedAt": "2025-08-26T09:46:36.131Z"
+    },
+    {
+      "id": "mesd34wbldz6tztm4en",
+      "term": "Aboutissants",
+      "definition": "Fonds voisins qui jouxtent une propriété sur ses petits côtés, généralement opposés aux « tenants ». Terme utilisé dans les actes notariés.",
+      "category": "droit-immobilier",
+      "synonyms": [
+        "Confronts latéraux",
+        "Limites courtes"
+      ],
+      "examples": [
+        "Le notaire mentionne les aboutissants du terrain : à l’Est par le champ de M. Agossa et à l’Ouest par le chemin communal."
+      ],
+      "relatedTerms": [],
+      "source": "Actes notariés, terminologie foncière",
+      "createdAt": "2025-08-26T09:46:37.067Z",
+      "updatedAt": "2025-08-26T09:46:37.067Z"
+    },
+    {
+      "id": "mesd34zq1rn8mumwypz",
+      "term": "Aboutissement",
+      "definition": "Résultat final d’un processus ou d’une procédure juridique, administrative ou judiciaire, marqué par une décision officielle.",
+      "category": "droit-administratif / procédure",
+      "synonyms": [
+        "Issue",
+        "Résultat",
+        "Achèvement"
+      ],
+      "examples": [
+        "L’aboutissement de la procédure d’adoption a été possible après l’accord du tribunal."
+      ],
+      "relatedTerms": [],
+      "source": "Jurisprudence et pratiques administratives",
+      "createdAt": "2025-08-26T09:46:37.190Z",
+      "updatedAt": "2025-08-26T09:46:37.190Z"
+    },
+    {
+      "id": "mesd35xq8tcz7mcmup5",
+      "term": "Abrogatif, ive (ou Abrogatoire)",
+      "definition": "Adjectif qualifiant un texte ou un acte ayant pour effet de supprimer une règle de droit en vigueur.",
+      "category": "droit-législatif",
+      "synonyms": [
+        "Suppressif",
+        "Extinctif"
+      ],
+      "examples": [
+        "La loi de finances abrogative adoptée en 2025 a supprimé plusieurs exonérations fiscales prévues par la loi précédente."
+      ],
+      "relatedTerms": [],
+      "source": "Loi de finances 2025, France",
+      "createdAt": "2025-08-26T09:46:38.414Z",
+      "updatedAt": "2025-08-26T09:46:38.414Z"
+    },
+    {
+      "id": "mesd3595nksqcois6rs",
+      "term": "Abrogation",
+      "definition": "Acte par lequel une règle de droit cesse de produire ses effets pour l’avenir. Peut être expresse ou implicite. Diffère du retrait qui a un effet rétroactif.",
+      "category": "droit-constitutionnel / droit-législatif",
+      "synonyms": [
+        "Suppression de loi",
+        "Annulation pour l’avenir"
+      ],
+      "examples": [
+        "Un décret interdisant les véhicules thermiques en 2025 abroge implicitement un arrêté municipal de 2018 incompatible."
+      ],
+      "relatedTerms": [],
+      "source": "Doctrine de droit public",
+      "createdAt": "2025-08-26T09:46:37.529Z",
+      "updatedAt": "2025-08-26T09:46:37.529Z"
+    },
+    {
+      "id": "mesd365ufdprkmlabzs",
+      "term": "Abroger",
+      "definition": "Supprimer une règle de droit en la rendant inapplicable pour l’avenir. L’abrogation est décidée par une autorité compétente.",
+      "category": "droit-législatif",
+      "synonyms": [
+        "Supprimer",
+        "Retirer (avec nuance)"
+      ],
+      "examples": [
+        "Le gouvernement a abrogé le décret du 15 mars 2018, rendant inapplicables ses dispositions."
+      ],
+      "relatedTerms": [],
+      "source": "Code civil et jurisprudence administrative",
+      "createdAt": "2025-08-26T09:46:38.706Z",
+      "updatedAt": "2025-08-26T09:46:38.706Z"
+    },
+    {
+      "id": "mesd36rrf102n4trgsw",
+      "term": "Absence",
+      "definition": "Situation juridique d’une personne dont on ignore si elle est vivante, permettant une présomption ou une déclaration d’absence, avec effets successoraux et matrimoniaux.",
       "category": "droit-civil",
-      "source": "Code civil, article 1317"
+      "synonyms": [
+        "Disparition juridique",
+        "Présomption d’absence"
+      ],
+      "examples": [
+        "Une déclaration d’absence a été prononcée concernant un homme disparu depuis 22 ans, permettant l’ouverture de sa succession."
+      ],
+      "relatedTerms": [],
+      "source": "Code civil, articles 112 et suivants",
+      "createdAt": "2025-08-26T09:46:39.495Z",
+      "updatedAt": "2025-08-26T09:46:39.495Z"
     },
     {
-      "id": "a4",
-      "term": "Action en justice",
-      "definition": "Droit reconnu à une personne de s'adresser aux tribunaux pour faire valoir ses prétentions.",
-      "category": "droit-procedural",
-      "source": "Code de procédure civile"
+      "id": "mesd371p4kpezhylpcj",
+      "term": "Absentéisme",
+      "definition": "Comportement professionnel caractérisé par l’absence répétée ou prolongée d’un salarié, qu’elle soit justifiée ou non. Sert d’indicateur en droit du travail.",
+      "category": "droit-du-travail",
+      "synonyms": [
+        "Non-présence",
+        "Désertion professionnelle"
+      ],
+      "examples": [
+        "Un taux d’absentéisme de 22 % a conduit à un audit interne dans l’administration."
+      ],
+      "relatedTerms": [],
+      "source": "Code du travail",
+      "createdAt": "2025-08-26T09:46:39.853Z",
+      "updatedAt": "2025-08-26T09:46:39.853Z"
+    },
+    {
+      "id": "mesd37bkuhjyfve6qzq",
+      "term": "Absentéisme scolaire",
+      "definition": "Fait, pour un élève soumis à l’obligation scolaire, de s’absenter de manière répétée et injustifiée, engageant la responsabilité des parents.",
+      "category": "droit-administratif / droit-pénal",
+      "synonyms": [
+        "Absence injustifiée",
+        "Décrochage scolaire"
+      ],
+      "examples": [
+        "Un élève de 12 ans absent quatre semaines sans justification a fait l’objet d’un signalement aux services sociaux."
+      ],
+      "relatedTerms": [],
+      "source": "Code de l’éducation",
+      "createdAt": "2025-08-26T09:46:40.209Z",
+      "updatedAt": "2025-08-26T09:46:40.209Z"
+    },
+    {
+      "id": "mesd3806yt5bko0xus",
+      "term": "Absolu",
+      "definition": "Qualifie un droit, une qualité ou une nullité qui ne souffre aucune exception ni condition. S’oppose à « relatif ».",
+      "category": "droit-général / droit-civil",
+      "synonyms": [
+        "Inconditionnel",
+        "Universel"
+      ],
+      "examples": [
+        "La nullité absolue d’un contrat illégal peut être invoquée par toute personne y ayant intérêt."
+      ],
+      "relatedTerms": [],
+      "source": "Code civil, doctrine des nullités",
+      "createdAt": "2025-08-26T09:46:41.094Z",
+      "updatedAt": "2025-08-26T09:46:41.094Z"
+    },
+    {
+      "id": "mesd389alk9pmymf8ma",
+      "term": "Absolution",
+      "definition": "Décision pénale reconnaissant un individu coupable mais le dispensant de peine en raison de circonstances particulières. N’efface pas la culpabilité.",
+      "category": "droit-pénal",
+      "synonyms": [
+        "Dispense de peine",
+        "Excuse légale"
+      ],
+      "examples": [
+        "Un prévenu ayant réparé le préjudice peut bénéficier d’une absolution par le tribunal correctionnel."
+      ],
+      "relatedTerms": [],
+      "source": "Jurisprudence pénale",
+      "createdAt": "2025-08-26T09:46:41.422Z",
+      "updatedAt": "2025-08-26T09:46:41.422Z"
+    },
+    {
+      "id": "mesd39axpql1mlmf5ls",
+      "term": "Absolutisme",
+      "definition": "Régime politique concentrant tous les pouvoirs entre les mains d’un seul individu, sans contre-pouvoirs institutionnels.",
+      "category": "droit-constitutionnel / histoire-du-droit",
+      "synonyms": [
+        "Pouvoir absolu",
+        "Monarchie absolue"
+      ],
+      "examples": [
+        "Sous l’Ancien Régime, la monarchie française était un exemple d’absolutisme."
+      ],
+      "relatedTerms": [],
+      "source": "Histoire constitutionnelle française",
+      "createdAt": "2025-08-26T09:46:42.777Z",
+      "updatedAt": "2025-08-26T09:46:42.777Z"
+    },
+    {
+      "id": "mesd39za9bpolpyi6gt",
+      "term": "Absolutoire",
+      "definition": "Qualifie un jugement ou une règle juridique exonérant une personne de responsabilité pénale (acquittement ou excuse absolutoire).",
+      "category": "droit-pénal",
+      "synonyms": [
+        "Exonératoire",
+        "Dispensatoire"
+      ],
+      "examples": [
+        "Le tribunal a rendu un jugement absolutoire estimant que l’acte était justifié par la force majeure."
+      ],
+      "relatedTerms": [],
+      "source": "Code pénal et jurisprudence",
+      "createdAt": "2025-08-26T09:46:43.654Z",
+      "updatedAt": "2025-08-26T09:46:43.654Z"
+    },
+    {
+      "id": "mesd38x087exhctz01b",
+      "term": "Absorption",
+      "definition": "Opération juridique par laquelle une société est dissoute sans liquidation et intégrée dans une autre, mode particulier de fusion.",
+      "category": "droit-des-sociétés",
+      "synonyms": [
+        "Fusion-absorption",
+        "Intégration"
+      ],
+      "examples": [
+        "La société Alpha a disparu par absorption au profit de Beta, qui a repris actifs et passifs."
+      ],
+      "relatedTerms": [],
+      "source": "Code des sociétés commerciales",
+      "createdAt": "2025-08-26T09:46:42.276Z",
+      "updatedAt": "2025-08-26T09:46:42.276Z"
+    },
+    {
+      "id": "mesd391bm2vaxjp7jc",
+      "term": "Absous, Absoute",
+      "definition": "Personne reconnue coupable mais dispensée de peine par décision d’absolution. Reste coupable mais non condamnée.",
+      "category": "droit-pénal",
+      "synonyms": [
+        "Exonéré de peine",
+        "Bénéficiaire d’absolution"
+      ],
+      "examples": [
+        "Le prévenu ayant réparé le dommage a été déclaré absous par le tribunal correctionnel."
+      ],
+      "relatedTerms": [],
+      "source": "Jurisprudence pénale",
+      "createdAt": "2025-08-26T09:46:42.431Z",
+      "updatedAt": "2025-08-26T09:46:42.432Z"
+    },
+    {
+      "id": "mesd3a8syobt4atb56",
+      "term": "Abstention",
+      "definition": "Attitude volontaire consistant à ne pas exercer un droit ou une obligation. Peut être neutre, fautive ou réglementée.",
+      "category": "droit-général",
+      "synonyms": [
+        "Non-exercice",
+        "Inaction volontaire"
+      ],
+      "examples": [
+        "Un juge peut déclarer son abstention pour préserver son impartialité."
+      ],
+      "relatedTerms": [],
+      "source": "Code de procédure civile",
+      "createdAt": "2025-08-26T09:46:43.996Z",
+      "updatedAt": "2025-08-26T09:46:43.996Z"
+    },
+    {
+      "id": "mesd3aw99jtjyrwi79d",
+      "term": "Abstention délictueuse",
+      "definition": "Infraction pénale consistant à s’abstenir de porter assistance à une personne en péril immédiat, alors qu’on pouvait le faire sans risque.",
+      "category": "droit-pénal",
+      "synonyms": [
+        "Non-assistance à personne en danger"
+      ],
+      "examples": [
+        "Un automobiliste qui refuse d’alerter les secours après un accident peut être poursuivi pour abstention délictueuse."
+      ],
+      "relatedTerms": [],
+      "source": "Code pénal, article 223-6",
+      "createdAt": "2025-08-26T09:46:44.841Z",
+      "updatedAt": "2025-08-26T09:46:44.841Z"
+    },
+    {
+      "id": "mesd3ba2u9uoacj3li9",
+      "term": "Abstentionnisme",
+      "definition": "Tendance à l’abstention, notamment électorale, pouvant être une stratégie politique ou un phénomène sociologique.",
+      "category": "droit-constitutionnel / sciences-politiques",
+      "synonyms": [
+        "Boycott électoral",
+        "Retrait civique"
+      ],
+      "examples": [
+        "L’abstentionnisme des jeunes électeurs a atteint un niveau record lors des municipales."
+      ],
+      "relatedTerms": [],
+      "source": "Études sociopolitiques",
+      "createdAt": "2025-08-26T09:46:45.338Z",
+      "updatedAt": "2025-08-26T09:46:45.338Z"
+    },
+    {
+      "id": "mesd3azujwpka2u8by",
+      "term": "Abstentionnisme électoral",
+      "definition": "Comportement d’un électeur inscrit qui ne participe pas à une élection, pouvant refléter indifférence ou protestation.",
+      "category": "droit-constitutionnel / droit-électoral",
+      "synonyms": [
+        "Non-vote",
+        "Démobilisation électorale"
+      ],
+      "examples": [
+        "Un taux d’abstentionnisme électoral de 65 % soulève des inquiétudes sur la légitimité démocratique."
+      ],
+      "relatedTerms": [],
+      "source": "Analyses constitutionnelles et électorales",
+      "createdAt": "2025-08-26T09:46:44.970Z",
+      "updatedAt": "2025-08-26T09:46:44.970Z"
+    },
+    {
+      "id": "mesd3c3m1ejsr6urngh",
+      "term": "Abstrait, -e",
+      "definition": "Qualifie un acte ou une cause juridique considéré indépendamment des circonstances concrètes. En droit commercial, un engagement abstrait est détaché de sa cause.",
+      "category": "droit-des-obligations / droit-commercial",
+      "synonyms": [
+        "Détaché",
+        "Indépendant"
+      ],
+      "examples": [
+        "La lettre de change est un engagement abstrait : le bénéficiaire n’a pas à prouver la cause de la dette."
+      ],
+      "relatedTerms": [],
+      "source": "Code de commerce",
+      "createdAt": "2025-08-26T09:46:46.402Z",
+      "updatedAt": "2025-08-26T09:46:46.402Z"
+    },
+    {
+      "id": "mesd3cd8ica5miuey1f",
+      "term": "Abstrat",
+      "definition": "Résumé synthétique accompagnant un arrêt de jurisprudence, permettant d’identifier les problématiques traitées.",
+      "category": "droit-jurisprudentiel / documentation-juridique",
+      "synonyms": [
+        "Résumé juridique",
+        "Fiche d’arrêt"
+      ],
+      "examples": [
+        "L’abstrat de l’arrêt mentionnait « vice du consentement – erreur sur la substance – annulation du contrat »."
+      ],
+      "relatedTerms": [],
+      "source": "Recueil Dalloz, Revues juridiques",
+      "createdAt": "2025-08-26T09:46:46.748Z",
+      "updatedAt": "2025-08-26T09:46:46.748Z"
+    },
+    {
+      "id": "mesd3d15n9l8kd22cog",
+      "term": "Abus",
+      "definition": "Comportement consistant à dépasser les limites d’un droit, d’un pouvoir ou d’une fonction, causant un préjudice. L’abus est sanctionné en cas de mauvaise foi ou disproportion manifeste.",
+      "category": "droit-civil / droit-pénal / droit-commercial",
+      "synonyms": [
+        "Excès de droit",
+        "Détournement"
+      ],
+      "examples": [
+        "L’action d’un copropriétaire empêchant volontairement l’accès aux parties communes est un abus de droit."
+      ],
+      "relatedTerms": [],
+      "source": "Jurisprudence civile",
+      "createdAt": "2025-08-26T09:46:47.609Z",
+      "updatedAt": "2025-08-26T09:46:47.609Z"
+    },
+    {
+      "id": "mesd3d9q1ng8jatfv4j",
+      "term": "Abus d’autorité",
+      "definition": "Comportement illégal d’une personne investie d’un pouvoir (juridique ou moral) qui outrepasse ses limites pour contraindre autrui.",
+      "category": "droit-pénal / droit-administratif",
+      "synonyms": [
+        "Excès de pouvoir",
+        "Autoritarisme illégal"
+      ],
+      "examples": [
+        "Un officier retenant un citoyen sans motif légal pour extorquer des aveux commet un abus d’autorité."
+      ],
+      "relatedTerms": [],
+      "source": "Code pénal et jurisprudence administrative",
+      "createdAt": "2025-08-26T09:46:47.918Z",
+      "updatedAt": "2025-08-26T09:46:47.918Z"
     }
   ],
-  "B": [
+  "À": [
     {
-      "id": "b1",
-      "term": "Bail",
-      "definition": "Contrat par lequel une personne (le bailleur) met à la disposition d'une autre personne (le preneur) un bien immobilier ou mobilier pour une durée déterminée, moyennant un prix (loyer ou fermage).",
-      "category": "droit-civil",
-      "source": "Code civil, articles 1708 et suivants"
-    },
-    {
-      "id": "b2",
-      "term": "Bande organisée",
-      "definition": "Groupement formé ou association établie en vue de la préparation, caractérisée par une ou plusieurs tentatives d'escroquerie, d'extorsion, de chantage, d'organisation de jeux clandestins.",
-      "category": "droit-penal",
-      "source": "Code pénal, article 132-71"
-    },
-    {
-      "id": "b3",
-      "term": "Banqueroute",
-      "definition": "Délit commis par un commerçant qui, dans l'impossibilité de faire face à ses engagements, dissimule une partie de son actif ou reconnaît des dettes fictives.",
-      "category": "droit-commercial",
-      "source": "Code de commerce"
-    }
-  ],
-  "C": [
-    {
-      "id": "c1",
-      "term": "Contrat",
-      "definition": "Accord de volontés entre deux ou plusieurs personnes destiné à créer, modifier, transmettre ou éteindre des obligations.",
-      "category": "droit-civil",
-      "source": "Code civil, article 1101"
-    },
-    {
-      "id": "c2",
-      "term": "Contrat synallagmatique",
-      "definition": "Un contrat synallagmatique est un contrat qui crée des obligations réciproques entre les parties. Chacune d'elles s'engage envers l'autre, de sorte que l'obligation de l'une est la cause de l'obligation de l'autre.",
-      "category": "droit-civil",
-      "synonyms": ["Contrat bilatéral", "convention réciproque"],
-      "source": "Code civil, article 1106"
-    },
-    {
-      "id": "c3",
-      "term": "Code civil",
-      "definition": "Ensemble des règles juridiques qui régissent les rapports entre particuliers.",
-      "category": "droit-civil",
-      "source": "Code civil"
-    }
-  ],
-  "D": [
-    {
-      "id": "d1",
-      "term": "Décret",
-      "definition": "Acte réglementaire ou individuel pris par le Président de la République ou le Premier ministre dans l'exercice de leurs pouvoirs.",
-      "category": "droit-administratif",
-      "source": "Constitution de 1958"
-    },
-    {
-      "id": "d2",
-      "term": "Délit",
-      "definition": "Infraction pénale de gravité moyenne, punie d'une peine d'emprisonnement ou d'une amende.",
-      "category": "droit-penal",
-      "source": "Code pénal, article 111-1"
+      "id": "mesd33dg3oxp1dep3qn",
+      "term": "À bon droit",
+      "definition": "Locution employée par la Cour de cassation pour marquer son adhésion à la solution juridique retenue par une juridiction inférieure. Indique que la règle de droit a été correctement interprétée et appliquée.",
+      "category": "procédure-civile",
+      "synonyms": [
+        "Légalement fondé",
+        "Juridiquement exact"
+      ],
+      "examples": [
+        "La Cour de cassation déclare que la cour d’appel a, à bon droit, retenu la clause limitative de responsabilité."
+      ],
+      "relatedTerms": [],
+      "source": "Jurisprudence de la Cour de cassation",
+      "createdAt": "2025-08-26T09:46:35.092Z",
+      "updatedAt": "2025-08-26T09:46:35.092Z"
     }
   ]
 }
-

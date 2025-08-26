@@ -1,0 +1,2 @@
+Le permis de travail est temporaire. Il est délivré pour une durée de douze mois ; il peut être renouvelé plusieurs fois ; il doit être présenté à toute réquisition des services du travail.
+La perte de l’emploi n’affecte pas par elle-même la validité du titre antérieurement délivré.

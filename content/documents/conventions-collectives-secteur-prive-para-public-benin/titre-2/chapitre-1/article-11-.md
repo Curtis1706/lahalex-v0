@@ -1,0 +1,3 @@
+Modification aux clauses du contrat
+Toute modification à caractère individuel apporté à l'un des éléments du contrat de travail doit, au préalable, faire l'objet d'une notification écrite au travailleur dans un délai équivalent à la période de préavis.
+Lorsque la modification doit entraîner pour le travailleur une diminution des avantages dont il bénéficie et qu'elle n'est pas acceptée, la rupture du contrat est réputée être à la charge de l'employeur.

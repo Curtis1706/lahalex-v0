@@ -1,0 +1,3 @@
+La personne qui désire faire usage de son droit de réponse précise la date et l’heure de l’émission ainsi que le nom de la station incriminée. Elle indique également les passages contestés.
+l'organe en cause informe le demandeur du jour et de l’heure où est diffusée sa réponse. Celle-ci est annoncée comme s’inscrivant dans le cadre de l’exercice du droit de réponse et il y est fait mention de l’émission incriminée.
+La réponse est diffusée dans les mêmes conditions de temps et de forme que l’imputation incriminée.

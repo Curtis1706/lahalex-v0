@@ -1,2 +1,2 @@
 Toute expression outrageante, tous termes de mépris ou invectives qui ne renferment l’imputation d’aucun fait, est une injure.
-L’injure commise par les mêmes moyens envers les corps ou les personnes désignés par les articles 269 et 270 de la présente loi, sera punie d’une amende de un million (1 000 000) à cinq millions (5 000 000) de francs CFA.
+l'injure commise par les mêmes moyens envers les corps ou les personnes désignés par les articles 269 et 270 de la présente loi, sera punie d’une amende de un million (1 000 000) à cinq millions (5 000 000) de francs CFA.

@@ -1,0 +1,15 @@
+{
+  "id": "article-83-",
+  "title": "Article 83 :",
+  "numero": "83 ",
+  "document": "codedelinformation",
+  "path": [
+    "titre-3",
+    "section-4"
+  ],
+  "navigation": {
+    "parent": "section-4",
+    "previous": "article-82-",
+    "next": "article-84-"
+  }
+}

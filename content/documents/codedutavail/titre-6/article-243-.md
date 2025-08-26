@@ -1,0 +1,3 @@
+Le tribunal du travail saisi par le procès- verbal de non-conciliation convoque les parties à comparaître à la prochaine audience utile.
+La convocation doit contenir les noms, prénoms et profession du destinataire, l’indication de l’affaire, le jour et l’heure de la comparution.
+La convocation est faite à personne ou à domicile par voie d’agent spécialement commis à cet effet. Elle peut valablement être faite par lettre recommandée avec accusé de réception ou par toute autre voie utile.

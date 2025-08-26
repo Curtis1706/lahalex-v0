@@ -1,0 +1,1 @@
+Les administrateurs, inspecteurs et contrôleurs du travail et de la main-d’œuvre doivent tenir pour confidentielle toute plainte leur signalant un défaut dans l’installation ou une infraction aux dispositions légales ou réglementaires.

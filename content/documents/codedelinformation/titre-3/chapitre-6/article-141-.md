@@ -1,0 +1,2 @@
+Le président du tribunal de 1 instance rend une ordonnance à pied de requête dans un délai de soixante-douze (72) heures à compter de la 1 audience sur la demande en insertion.
+En cas de résistance à l’exécution de l’ordonnance, le demandeur saisit le juge des référés.

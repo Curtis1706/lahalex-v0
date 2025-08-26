@@ -1,0 +1,2 @@
+En cas de vacance de poste, l’employeur est tenu d’aviser le travailleur par lettre recommandée avec accusé de réception envoyée à la dernière adresse connue du travailleur.
+Ce dernier doit se présenter à l’établissement ou à l’entreprise dans un délai maximum de huit jours suivant la date de réception de la lettre.

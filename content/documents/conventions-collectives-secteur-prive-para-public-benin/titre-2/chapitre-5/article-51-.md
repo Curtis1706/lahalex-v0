@@ -1,0 +1,3 @@
+Date de départ en congé
+La date de départ en congé de chaque travailleur est fixée par l'employeur compte tenu des nécessités de service et, dans la mesure du possible, des désirs du travailleur.
+Cette date étant fixée, le départ ne peut être avancé ni retardé d'une période supérieure à trois mois. L'ordre de départ en congé devra être communiqué à chaque ayant droit avant son départ et affiché dans les bureaux, ateliers et chantiers.

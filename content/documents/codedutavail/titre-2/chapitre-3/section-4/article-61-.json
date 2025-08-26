@@ -1,0 +1,16 @@
+{
+  "id": "article-61-",
+  "title": "Article 61 :",
+  "numero": "61 ",
+  "document": "codedutavail",
+  "path": [
+    "titre-2",
+    "chapitre-3",
+    "section-4"
+  ],
+  "navigation": {
+    "parent": "section-4",
+    "previous": "article-60-",
+    "next": "article-62-"
+  }
+}

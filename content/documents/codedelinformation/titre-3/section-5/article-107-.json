@@ -1,0 +1,15 @@
+{
+  "id": "article-107-",
+  "title": "Article 107 :",
+  "numero": "107 ",
+  "document": "codedelinformation",
+  "path": [
+    "titre-3",
+    "section-5"
+  ],
+  "navigation": {
+    "parent": "section-5",
+    "previous": "article-106-",
+    "next": "article-108-"
+  }
+}

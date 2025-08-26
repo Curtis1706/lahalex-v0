@@ -1,0 +1,14 @@
+{
+  "id": "article-45-",
+  "title": "Article 45 :",
+  "numero": "45 ",
+  "document": "codeinvestissementbenin",
+  "path": [
+    "titre-4"
+  ],
+  "navigation": {
+    "parent": "titre-4",
+    "previous": "article-44-",
+    "next": "article-46-"
+  }
+}

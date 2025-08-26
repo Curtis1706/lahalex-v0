@@ -1,0 +1,1 @@
+Les employeurs sont civilement responsables des condamnations prononcées contre leurs directeurs, préposés ou gérants pour fautes commises dans l’exercice ou à l’occasion de l’exercice de leurs fonctions.

@@ -1,0 +1,2 @@
+Les commissaires aux comptes ont le droit de prendre communication des livres et d’examiner les opérations financières du syndicat. Ils établissent le rapport par lequel ils rendent compte de l’exécution de leur mission et doivent signaler toutes les irrégularités et inexactitudes qu’ils auraient relevées.
+Ils peuvent toujours, en cas d’urgence, convoquer l’organe du syndicat habilité à prendre des décisions en matière financière.

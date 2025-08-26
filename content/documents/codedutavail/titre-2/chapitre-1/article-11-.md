@@ -1,0 +1,1 @@
+Quel que soit le lieu de la conclusion du contrat et de la résidence de l’une ou l’autre partie, tout contrat de travail conclu pour être exécuté en République du Bénin est soumis aux dispositions du présent code.

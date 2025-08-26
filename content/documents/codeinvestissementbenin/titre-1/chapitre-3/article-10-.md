@@ -1,0 +1,3 @@
+Le Comité interministériel de Promotion des Investissements (CIPI) est l’organe chargé du suivi et de l’évaluation de tous les investissements ayant bénéficié des avantages prévus par le présent Code.
+Le Comité Interministériel de Promotion des Investissements, à travers sa cellule d’appui supervise les activités de l’Agence nationale en charge de la promotion des investissements et celles de la Commission de Contrôle des Investissements.
+Les attributions, l’organisation et le fonctionnement dudit Comité sont précisés par décret pris en Conseil des ministres.

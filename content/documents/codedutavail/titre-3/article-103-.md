@@ -1,0 +1,1 @@
+Les listes des candidats sont portées à la connaissance des électeurs au moins dix jours avant le vote, lequel doit être annoncé par l’employeur au moins quinze jours à l’avance. Ces informations sont communiquées, dans les mêmes délais, à l’inspecteur du travail

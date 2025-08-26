@@ -1,0 +1,1 @@
+Pour l’exercice de leurs attributions, les membres du comité d’hygiène et de sécurité disposent d’un crédit annuel de quinze heures payées comme temps de travail. Le temps de réunions est également payé comme temps de travail et n’est pas imputable au crédit d’heures.

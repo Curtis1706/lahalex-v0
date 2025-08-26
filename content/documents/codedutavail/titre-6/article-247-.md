@@ -1,0 +1,2 @@
+En cas de jugement par défaut, signification est faite dans les formes de l’article 243 du présent code, sans frais à la partie défaillante par le greffier du tribunal ou par un agent commis spécialement à cet effet par le président.
+Le délai d’opposition est de 15 jours à compter de la date de signification.

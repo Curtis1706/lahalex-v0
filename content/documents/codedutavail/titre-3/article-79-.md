@@ -1,0 +1,3 @@
+Les salariés ou les employeurs, sans distinction d’aucune sorte, ont le droit de constituer librement des syndicats dans des secteurs d’activité et des secteurs géographiques qu’ils déterminent. Ils ont le droit d’y adhérer et de se retirer librement, de même que les anciens travailleurs et les anciens employeurs ayant exercé leur activité pendant un an au moins.
+Les mineurs âgés de plus de quinze ans peuvent adhérer aux syndicats.
+Des syndicats peuvent également être constitués librement par des exploitants indépendants qui n’emploient aucun personnel.

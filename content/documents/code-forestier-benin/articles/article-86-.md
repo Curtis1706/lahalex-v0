@@ -1,1 +1,0 @@
-Article 86 : La présente loi sera exécutée comme loi de l'Etat

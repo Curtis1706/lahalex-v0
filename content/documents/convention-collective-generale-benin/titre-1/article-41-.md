@@ -1,0 +1,6 @@
+DURÉE DU TRAVAIL - RÉCUPÉRATION HEURES SUPPLEMENTAIRES
+Les jours et heures de travail sont fixés par le Chef d’Entreprise ou d’Etablissement dans le cadre des dispositions réglementaires et légales en vigueur et compte tenu des particularités de la profession.
+Toute modification aux horaires normaux de travail donnera lieu à consultation préalable des délégués du personnel et sera transmise à l’Inspection du Travail du ressort avant sa mise en application.
+Pour tenir compte du caractère intermittent de certains travaux (heures creuses, coupures, etc…), une durée effective de travail plus longue que la durée légale peut être considérée comme équivalente à la durée légale payée sans majoration. Ces équivalences seront définies pour chaque profession par la réglementation en vigueur.
+Les heures de travail autorisées au-delà de la durée légale et non effectuées ne donnent pas lieu à récupération. Seules sont susceptibles d’être récupérées les heures perdues dans la limite de la durée légale du travail.
+Les heures supplémentaires réglementairement autorisées ainsi que les heures de récupération ont le même caractère obligatoire que les heures légales de travail.

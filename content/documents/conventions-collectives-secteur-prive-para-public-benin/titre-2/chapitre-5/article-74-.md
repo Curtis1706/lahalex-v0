@@ -1,0 +1,2 @@
+Repos sanitaire
+Lorsque l'état de santé du travailleur requiert un repos sanitaire, seul le médecin du travail ou le médecin agréé peut en décider. Ce repos médical ne peut excéder 4 jours renouvelable une fois lorsque l'état de santé du travailleur ne nécessite pas une hospitalisation.

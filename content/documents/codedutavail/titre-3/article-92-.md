@@ -1,0 +1,1 @@
+Les infractions, malversations et détournements constatés dans la gestion du trésorier et de tout autre membre du syndicat sont punis conformément au code pénal.

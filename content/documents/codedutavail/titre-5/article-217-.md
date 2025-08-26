@@ -1,0 +1,1 @@
+L’autorité compétente fixe les plafonds des retenues à opérer au titre de la cotisation du travailleur aux institutions obligatoires ou autorisées de sécurité sociale, ainsi que les modalités pratiques de versement de ces cotisations par l’employeur aux institutions intéressées.

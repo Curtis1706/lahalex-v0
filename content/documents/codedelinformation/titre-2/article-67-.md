@@ -1,3 +1,0 @@
-Les directeurs de radiodiffusion sonore ou de télévision et les exploitants de services de communication audiovisuelle sont tenus de déposer au procureur de la République territorialement compétent et auprès de la Haute Autorité de l’Audiovisuel et de la Communication, les copies des enregistrements des productions cinématographiques et de fiction, soumises à la formalité du dépôt légal.
-S’agissant plus particulièrement des exploitants de site internet, le dépôt légal consiste à donner connaissance à l’autorité compétente des informations, publications, expositions et œuvres publiées ou diffusées sur ledit site ouvert au public.
-Ce dépôt légal est effectué dès l’achèvement de la production ou de l’enregistrement.

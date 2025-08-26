@@ -1,0 +1,16 @@
+{
+  "id": "article-32-",
+  "title": "Article 32 :",
+  "numero": "32 ",
+  "document": "codedelinformation",
+  "path": [
+    "titre-2",
+    "chapitre-4",
+    "section-2"
+  ],
+  "navigation": {
+    "parent": "section-2",
+    "previous": "article-31-",
+    "next": "article-33-"
+  }
+}

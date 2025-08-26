@@ -1,0 +1,7 @@
+FOURNITURE DU LOGEMENT
+Lorsque le travailleur est déplacé de son lieu de recrutement par le fait de l’employeur et ne peut, par ses propres moyens, se procurer au nouveau lieu d’emploi un logement suffisant pour lui-même et sa famille, l’employeur mettra à sa disposition un logement ou lui versera une indemnité compensatrice.
+La consistance du logement fourni doit répondre aux besoins du travailleur et de sa famille. Il sera tenu compte des usages et des possibilités de logement offertes au lieu d’emploi, ainsi que de la catégorie professionnelle du travailleur à loger.
+L’employeur qui loge un travailleur a le droit d’opérer une retenue de logement sur le salaire de celui-ci.
+Le montant de la retenue ne peut dépasser le maximum fixé en la matière par la réglementation du travail.
+Lorsqu’un logement est affecté à un emploi déterminé, le travailleur qui assume cet emploi ne peut pas refuser d’occuper le logement en question, sauf s’il ne répondait pas aux conditions définies ci-dessus.
+En cas de rupture du contrat, l’évacuation du logement est fonction des délais réciproques de préavis.

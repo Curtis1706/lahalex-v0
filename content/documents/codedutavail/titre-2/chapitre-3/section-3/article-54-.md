@@ -1,0 +1,8 @@
+Pendant la durée du préavis, l’employeur et le travailleur sont tenus au respect réciproque de toutes les obligations qui leur incombent.
+En vue de la recherche d’un nouvel emploi, le travailleur bénéficiera, pendant la durée du préavis, de deux jours de liberté par semaine, pris à son choix globalement ou heure par heure, payés à plein salaire.
+Les jours ou heures de liberté sont pris à l’initiative du travailleur qui doit aviser son employeur avant son absence.
+En cas de licenciement, le travailleur qui a trouvé un nouvel emploi peut, après en avoir avisé son employeur, quitter l’établissement ou l’entreprise avant l’expiration du délai de préavis sans avoir à payer une indemnité pour inobservation de ce délai.
+Si, à la demande de l’employeur, le travailleur n’utilise pas tout ou partie du temps de liberté au- quel il peut prétendre pour la recherche d’un nouvel emploi, il perçoit à son départ une indemnité supplémentaire correspondant au nombre d’heures non utilisées.
+Article. 55 :
+Toute rupture du contrat de travail à durée indéterminée intervenant sans préavis, entraîne, pour la partie responsable, l’obligation de verser à l’autre partie une indemnité dont le montant correspond à la rémunération et aux avantages de toute nature dont aurait bénéficié le travailleur durant le préavis qui n’a pas été effectivement respecté.
+Cependant, la rupture du contrat peut intervenir sans préavis en cas de faute lourde, sous réserve de l’appréciation de la juridiction compétente, en ce qui concerne la gravité de la faute.

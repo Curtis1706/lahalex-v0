@@ -1,0 +1,837 @@
+{
+  "id": "convention-collective-presse-benin",
+  "title": "Convention collective de la presse",
+  "type": "conventions-collectives",
+  "description": "Convention collective fixant les règles relatives au travail, aux droits et aux avantages sociaux des professionnels du secteur de la presse au Bénin.",
+  "structure": {
+    "sections": [
+      {
+        "id": "titre-1-dispositions-generales",
+        "title": "TITRE I : DISPOSITIONS GÉNÉRALES",
+        "type": "titre",
+        "level": 1,
+        "order": 0,
+        "path": [
+          "titre-1-dispositions-generales"
+        ],
+        "children": [
+          "article-1-",
+          "article-2-",
+          "article-3-",
+          "article-4-",
+          "article-5-",
+          "article-6-",
+          "article-7-",
+          "article-8-"
+        ]
+      },
+      {
+        "id": "titre-2-relations-travail",
+        "title": "TITRE II : RELATIONS DE TRAVAIL",
+        "type": "titre",
+        "level": 1,
+        "order": 1,
+        "path": [
+          "titre-2-relations-travail"
+        ],
+        "children": [
+          "article-9-",
+          "article-10-",
+          "article-11-",
+          "article-12-",
+          "article-13-",
+          "article-14-",
+          "article-15-",
+          "article-16-",
+          "article-17-",
+          "article-18-",
+          "article-19-",
+          "article-20-"
+        ]
+      },
+      {
+        "id": "titre-3-remuneration-avantages",
+        "title": "TITRE III : RÉMUNÉRATION ET AVANTAGES SOCIAUX",
+        "type": "titre",
+        "level": 1,
+        "order": 2,
+        "path": [
+          "titre-3-remuneration-avantages"
+        ],
+        "children": [
+          "article-21-",
+          "article-22-",
+          "article-23-",
+          "article-24-",
+          "article-25-",
+          "article-26-",
+          "article-27-",
+          "article-28-",
+          "article-29-",
+          "article-30-",
+          "article-31-",
+          "article-32-",
+          "article-33-",
+          "article-34-",
+          "article-35-"
+        ]
+      },
+      {
+        "id": "titre-4-conditions-travail",
+        "title": "TITRE IV : CONDITIONS DE TRAVAIL",
+        "type": "titre",
+        "level": 1,
+        "order": 3,
+        "path": [
+          "titre-4-conditions-travail"
+        ],
+        "children": [
+          "article-36-",
+          "article-37-",
+          "article-38-",
+          "article-39-",
+          "article-40-",
+          "article-41-",
+          "article-42-",
+          "article-43-",
+          "article-44-",
+          "article-45-",
+          "article-46-",
+          "article-47-",
+          "article-48-",
+          "article-49-",
+          "article-50-"
+        ]
+      },
+      {
+        "id": "titre-5-representation-dialogue",
+        "title": "TITRE V : REPRÉSENTATION ET DIALOGUE SOCIAL",
+        "type": "titre",
+        "level": 1,
+        "order": 4,
+        "path": [
+          "titre-5-representation-dialogue"
+        ],
+        "children": [
+          "article-51-",
+          "article-52-",
+          "article-53-",
+          "article-54-",
+          "article-55-",
+          "article-56-",
+          "article-57-",
+          "article-58-"
+        ]
+      },
+      {
+        "id": "titre-6-dispositions-finales",
+        "title": "TITRE VI : DISPOSITIONS FINALES",
+        "type": "titre",
+        "level": 1,
+        "order": 5,
+        "path": [
+          "titre-6-dispositions-finales"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-1-",
+        "title": "ARTICLE 1 : OBJET ET CHAMP D’APPLICATION",
+        "type": "article",
+        "level": 3,
+        "order": 0,
+        "path": [
+          "titre-1-dispositions-generales",
+          "article-1-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-2-",
+        "title": "ARTICLE 2 : DUREE, DENONCIATION ET REVISION",
+        "type": "article",
+        "level": 3,
+        "order": 1,
+        "path": [
+          "titre-1-dispositions-generales",
+          "article-2-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-3-",
+        "title": "ARTICLE 3 : MAINTIEN DES AVANTAGES ACQUIS",
+        "type": "article",
+        "level": 3,
+        "order": 2,
+        "path": [
+          "titre-1-dispositions-generales",
+          "article-3-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-4-",
+        "title": "ARTICLE 4 : ADHESIONS ULTERIEURES",
+        "type": "article",
+        "level": 3,
+        "order": 3,
+        "path": [
+          "titre-1-dispositions-generales",
+          "article-4-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-5-",
+        "title": "ARTICLE 5 : DROIT ET LIBERTE D’OPINION",
+        "type": "article",
+        "level": 3,
+        "order": 4,
+        "path": [
+          "titre-1-dispositions-generales",
+          "article-5-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-6-",
+        "title": "ARTICLE 6 : ABSENCE POUR ACTIVITES SYNDICALES",
+        "type": "article",
+        "level": 3,
+        "order": 5,
+        "path": [
+          "titre-1-dispositions-generales",
+          "article-6-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-7-",
+        "title": "ARTICLE 7 : DELEGUES DU PERSONNEL",
+        "type": "article",
+        "level": 3,
+        "order": 6,
+        "path": [
+          "titre-1-dispositions-generales",
+          "article-7-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-8-",
+        "title": "ARTICLE 8 : PANNEAUX D’AFFICHAGE",
+        "type": "article",
+        "level": 3,
+        "order": 7,
+        "path": [
+          "titre-1-dispositions-generales",
+          "article-8-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-9-",
+        "title": "ARTICLE 9 : FORME ET DUREE DU CONTRAT",
+        "type": "article",
+        "level": 3,
+        "order": 8,
+        "path": [
+          "titre-2-relations-travail",
+          "article-9-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-10-",
+        "title": "ARTICLE 10 : PERIODE D’ESSAI",
+        "type": "article",
+        "level": 3,
+        "order": 9,
+        "path": [
+          "titre-2-relations-travail",
+          "article-10-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-11-",
+        "title": "ARTICLE 11 : CONTRAT DEFINITIF",
+        "type": "article",
+        "level": 3,
+        "order": 10,
+        "path": [
+          "titre-2-relations-travail",
+          "article-11-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-12-",
+        "title": "ARTICLE 12 : MODIFICATIONS AUX CLAUSES DU CONTRAT",
+        "type": "article",
+        "level": 3,
+        "order": 11,
+        "path": [
+          "titre-2-relations-travail",
+          "article-12-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-13-",
+        "title": "ARTICLE 13 : CHANGEMENT D’EMPLOI",
+        "type": "article",
+        "level": 3,
+        "order": 12,
+        "path": [
+          "titre-2-relations-travail",
+          "article-13-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-14-",
+        "title": "ARTICLE 14 : DISCIPLINE",
+        "type": "article",
+        "level": 3,
+        "order": 13,
+        "path": [
+          "titre-2-relations-travail",
+          "article-14-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-15-",
+        "title": "ARTICLE 15 : OBLIGATIONS DU TRAVAILLEUR ET CLAUSE DE NON-CONCURRENCE",
+        "type": "article",
+        "level": 3,
+        "order": 14,
+        "path": [
+          "titre-2-relations-travail",
+          "article-15-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-16-",
+        "title": "ARTICLE 16 : ETHIQUE ET DEONTOLOGIE",
+        "type": "article",
+        "level": 3,
+        "order": 15,
+        "path": [
+          "titre-2-relations-travail",
+          "article-16-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-17-",
+        "title": "ARTICLE 17 : INTEGRITE MORALE",
+        "type": "article",
+        "level": 3,
+        "order": 16,
+        "path": [
+          "titre-2-relations-travail",
+          "article-17-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-18-",
+        "title": "ARTICLE 18 : COLLABORATION FORTUITE",
+        "type": "article",
+        "level": 3,
+        "order": 17,
+        "path": [
+          "titre-2-relations-travail",
+          "article-18-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-19-",
+        "title": "ARTICLE 19 : DROIT DE REPRODUCTION",
+        "type": "article",
+        "level": 3,
+        "order": 18,
+        "path": [
+          "titre-2-relations-travail",
+          "article-19-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-20-",
+        "title": "ARTICLE 20 : CLAUSE DE CONSCIENCE",
+        "type": "article",
+        "level": 3,
+        "order": 19,
+        "path": [
+          "titre-2-relations-travail",
+          "article-20-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-21-",
+        "title": "ARTICLE 21 : SUSPENSION PENDANT LA DUREE DU CONGE DE MALADIE DU TRAVAILLEUR",
+        "type": "article",
+        "level": 3,
+        "order": 20,
+        "path": [
+          "titre-3-remuneration-avantages",
+          "article-21-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-22-",
+        "title": "ARTICLE 22 : INDEMNISATION DU TRAVAILLEUR MALADE",
+        "type": "article",
+        "level": 3,
+        "order": 21,
+        "path": [
+          "titre-3-remuneration-avantages",
+          "article-22-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-23-",
+        "title": "ARTICLE 23 : RUPTURE DU CONTRAT : MODALITES",
+        "type": "article",
+        "level": 3,
+        "order": 22,
+        "path": [
+          "titre-3-remuneration-avantages",
+          "article-23-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-24-",
+        "title": "ARTICLE 24 : DUREE ET DEROULEMENT DU PREAVIS",
+        "type": "article",
+        "level": 3,
+        "order": 23,
+        "path": [
+          "titre-3-remuneration-avantages",
+          "article-24-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-25-",
+        "title": "ARTICLE 25 : INDEMNITE COMPENSATRICE DE PREAVIS",
+        "type": "article",
+        "level": 3,
+        "order": 24,
+        "path": [
+          "titre-3-remuneration-avantages",
+          "article-25-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-26-",
+        "title": "ARTICLE 26 : PREAVIS EN CAS DE DEPART EN CONGE",
+        "type": "article",
+        "level": 3,
+        "order": 25,
+        "path": [
+          "titre-3-remuneration-avantages",
+          "article-26-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-27-",
+        "title": "ARTICLE 27 : REDUCTION PROVISOIRE D’ACTIVITES ET COMPRESSION DES EFFECTIFS DU PERSONNEL",
+        "type": "article",
+        "level": 3,
+        "order": 26,
+        "path": [
+          "titre-3-remuneration-avantages",
+          "article-27-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-28-",
+        "title": "ARTICLE 28 : INDEMNITE DE LICENCIEMENT",
+        "type": "article",
+        "level": 3,
+        "order": 27,
+        "path": [
+          "titre-3-remuneration-avantages",
+          "article-28-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-29-",
+        "title": "ARTICLE 29 : DECES DU TRAVAILLEUR",
+        "type": "article",
+        "level": 3,
+        "order": 28,
+        "path": [
+          "titre-3-remuneration-avantages",
+          "article-29-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-30-",
+        "title": "ARTICLE 30 : DUREE DU TRAVAIL",
+        "type": "article",
+        "level": 3,
+        "order": 29,
+        "path": [
+          "titre-3-remuneration-avantages",
+          "article-30-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-31-",
+        "title": "ARTICLE 31 : JOURS FERIES",
+        "type": "article",
+        "level": 3,
+        "order": 30,
+        "path": [
+          "titre-3-remuneration-avantages",
+          "article-31-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-32-",
+        "title": "ARTICLE 32 : INTERRUPTION COLLECTIVE DU TRAVAIL",
+        "type": "article",
+        "level": 3,
+        "order": 31,
+        "path": [
+          "titre-3-remuneration-avantages",
+          "article-32-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-33-",
+        "title": "ARTICLE 33 : TRAVAIL DES FEMMES",
+        "type": "article",
+        "level": 3,
+        "order": 32,
+        "path": [
+          "titre-3-remuneration-avantages",
+          "article-33-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-34-",
+        "title": "ARTICLE 34 : CONGES ANNUELS PAYES",
+        "type": "article",
+        "level": 3,
+        "order": 33,
+        "path": [
+          "titre-3-remuneration-avantages",
+          "article-34-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-35-",
+        "title": "ARTICLE 35 : CONGES DE MATERNITE",
+        "type": "article",
+        "level": 3,
+        "order": 34,
+        "path": [
+          "titre-3-remuneration-avantages",
+          "article-35-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-36-",
+        "title": "ARTICLE 36 : ABSENCES ET PERMISSIONS EXCEPTIONNELLES",
+        "type": "article",
+        "level": 3,
+        "order": 35,
+        "path": [
+          "titre-4-conditions-travail",
+          "article-36-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-37-",
+        "title": "ARTICLE 37 : DISPOSITIONS GENERALES",
+        "type": "article",
+        "level": 3,
+        "order": 36,
+        "path": [
+          "titre-4-conditions-travail",
+          "article-37-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-38-",
+        "title": "ARTICLE 38 : PRINCIPE DE REMUNERATION",
+        "type": "article",
+        "level": 3,
+        "order": 37,
+        "path": [
+          "titre-4-conditions-travail",
+          "article-38-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-39-",
+        "title": "ARTICLE 39 : STRUCTURE DE LA REMUNERATION",
+        "type": "article",
+        "level": 3,
+        "order": 38,
+        "path": [
+          "titre-4-conditions-travail",
+          "article-39-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-40-",
+        "title": "ARTICLE 40 : MODALITÉS DE PAIEMENT DE LA RÉMUNÉRATION",
+        "type": "article",
+        "level": 3,
+        "order": 39,
+        "path": [
+          "titre-4-conditions-travail",
+          "article-40-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-41-",
+        "title": "ARTICLE 41 : EMPLOIS MULTIPLES",
+        "type": "article",
+        "level": 3,
+        "order": 40,
+        "path": [
+          "titre-4-conditions-travail",
+          "article-41-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-42-",
+        "title": "ARTICLE 42 : STAGES ET FORMATIONS PROFESSIONNELLES",
+        "type": "article",
+        "level": 3,
+        "order": 41,
+        "path": [
+          "titre-4-conditions-travail",
+          "article-42-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-43-",
+        "title": "ARTICLE 43 : RÉVISION DES SALAIRES",
+        "type": "article",
+        "level": 3,
+        "order": 42,
+        "path": [
+          "titre-4-conditions-travail",
+          "article-43-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-44-",
+        "title": "ARTICLE 44 : AUGMENTATION POUR AVANCEMENT PAR PROMOTION",
+        "type": "article",
+        "level": 3,
+        "order": 43,
+        "path": [
+          "titre-4-conditions-travail",
+          "article-44-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-45-",
+        "title": "ARTICLE 45 : INDEMNITÉS POUR HEURES SUPPLÉMENTAIRES",
+        "type": "article",
+        "level": 3,
+        "order": 44,
+        "path": [
+          "titre-4-conditions-travail",
+          "article-45-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-46-",
+        "title": "ARTICLE 46 : INDEMNITÉS DE DÉPLACEMENT",
+        "type": "article",
+        "level": 3,
+        "order": 45,
+        "path": [
+          "titre-4-conditions-travail",
+          "article-46-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-47-",
+        "title": "ARTICLE 47 : PRIME D’ANCIENNETÉ",
+        "type": "article",
+        "level": 3,
+        "order": 46,
+        "path": [
+          "titre-4-conditions-travail",
+          "article-47-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-48-",
+        "title": "ARTICLE 48 : AUTRES PRIMES ET INDEMNITÉS",
+        "type": "article",
+        "level": 3,
+        "order": 47,
+        "path": [
+          "titre-4-conditions-travail",
+          "article-48-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-49-",
+        "title": "ARTICLE 49 : CLASSIFICATION",
+        "type": "article",
+        "level": 3,
+        "order": 48,
+        "path": [
+          "titre-4-conditions-travail",
+          "article-49-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-50-",
+        "title": "ARTICLE 50 : SOINS MÉDICAUX ET HOSPITALISATION",
+        "type": "article",
+        "level": 3,
+        "order": 49,
+        "path": [
+          "titre-4-conditions-travail",
+          "article-50-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-51-",
+        "title": "ARTICLE 51 : HYGIÈNE ET SÉCURITÉ SUR LES LIEUX DE TRAVAIL",
+        "type": "article",
+        "level": 3,
+        "order": 50,
+        "path": [
+          "titre-5-representation-dialogue",
+          "article-51-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-52-",
+        "title": "ARTICLE 52 : ÂGE D’ADMISSION",
+        "type": "article",
+        "level": 3,
+        "order": 51,
+        "path": [
+          "titre-5-representation-dialogue",
+          "article-52-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-53-",
+        "title": "ARTICLE 53 : INDEMNITÉ DE DÉPART À LA RETRAITE",
+        "type": "article",
+        "level": 3,
+        "order": 52,
+        "path": [
+          "titre-5-representation-dialogue",
+          "article-53-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-54-",
+        "title": "ARTICLE 54 : COMPOSITION",
+        "type": "article",
+        "level": 3,
+        "order": 53,
+        "path": [
+          "titre-5-representation-dialogue",
+          "article-54-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-55-",
+        "title": "ARTICLE 55 : PROCÉDURE ET RÈGLEMENT",
+        "type": "article",
+        "level": 3,
+        "order": 54,
+        "path": [
+          "titre-5-representation-dialogue",
+          "article-55-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-56-",
+        "title": "ARTICLE 56 : MODALITÉS DE FONCTIONNEMENT",
+        "type": "article",
+        "level": 3,
+        "order": 55,
+        "path": [
+          "titre-5-representation-dialogue",
+          "article-56-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-57-",
+        "title": "ARTICLE 57 : AUTRES DISPOSITIONS",
+        "type": "article",
+        "level": 3,
+        "order": 56,
+        "path": [
+          "titre-5-representation-dialogue",
+          "article-57-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-58-",
+        "title": "ARTICLE 58 : PRISE D’EFFET",
+        "type": "article",
+        "level": 3,
+        "order": 58,
+        "path": [
+          "titre-5-representation-dialogue",
+          "article-58-"
+        ],
+        "children": []
+      }
+    ],
+    "totalArticles": 58
+  },
+  "source": "nationale"
+}

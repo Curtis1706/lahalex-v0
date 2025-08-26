@@ -1,0 +1,4 @@
+Le travailleur licencié pour un motif économique conserve pendant deux ans la priorité d’embauche dans la même catégorie d’emploi.
+Toutefois, passé un délai de douze mois, son embauche peut être subordonnée à un essai professionnel dont la durée ne peut excéder celle de la période d’essai prévue à l’article 21 du présent code.
+Le travailleur est tenu de communiquer à son employeur tout changement de son adresse survenant après son départ de l’entreprise ou de l’établissement.
+Passé ce délai, il continue de bénéficier de la même priorité pendant une année, mais son embauche peut être subordonnée à un essai professionnel dont la durée ne peut excéder celle de la période d’essai prévu à l’article 21 du présent code.

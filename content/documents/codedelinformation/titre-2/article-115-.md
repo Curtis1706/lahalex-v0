@@ -1,1 +1,0 @@
-L’ouverture des sessions ordinaires de l’Assemblée nationale bénéficie d’une couverture intégrale en direct.

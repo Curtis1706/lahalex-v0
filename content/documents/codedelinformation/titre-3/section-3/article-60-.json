@@ -1,0 +1,15 @@
+{
+  "id": "article-60-",
+  "title": "Article 60 :",
+  "numero": "60 ",
+  "document": "codedelinformation",
+  "path": [
+    "titre-3",
+    "section-3"
+  ],
+  "navigation": {
+    "parent": "section-3",
+    "previous": "article-59-",
+    "next": "article-61-"
+  }
+}

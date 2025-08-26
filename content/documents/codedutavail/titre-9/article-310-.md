@@ -1,0 +1,1 @@
+Est puni de peines prévues à l’article 408 du code pénal tout employeur qui aurait retenu ou utilisé, dans son intérêt personnel, ou pour les besoins de son entreprise, les sommes ou titres remis en cautionnement

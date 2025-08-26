@@ -1,0 +1,1 @@
+Tout employeur qui enfreint les dispositions des articles 210, 211 et 222 du présent code est puni d’une amende de 14.000 à 70.000 FCFA appliquée autant de fois qu’il y a d’infractions constatées.

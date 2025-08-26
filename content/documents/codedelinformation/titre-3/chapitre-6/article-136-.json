@@ -1,0 +1,15 @@
+{
+  "id": "article-136-",
+  "title": "Article 136 :",
+  "numero": "136 ",
+  "document": "codedelinformation",
+  "path": [
+    "titre-3",
+    "chapitre-6"
+  ],
+  "navigation": {
+    "parent": "chapitre-6",
+    "previous": "article-135-",
+    "next": "article-137-"
+  }
+}

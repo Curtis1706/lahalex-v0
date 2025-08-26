@@ -1,0 +1,1 @@
+Les conditions d’organisation et de fonctionnement de la commission nationale paritaire des conventions collectives et des salaires sont fixées par décret pris en conseil des ministres.

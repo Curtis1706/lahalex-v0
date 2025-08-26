@@ -1,0 +1,2 @@
+Tout membre de la Cour constitutionnelle peut faire, à tout moment, des commentaires et publications sur les décisions et avis de la Cour.
+Toutefois, ces travaux doivent être conformes au sens et à l’esprit actuels des décisions et avis rendus par la Cour.

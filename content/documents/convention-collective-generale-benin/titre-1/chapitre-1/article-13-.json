@@ -1,0 +1,15 @@
+{
+  "id": "article-13-",
+  "title": "Article 13 : CONTRAT DEFINITIF",
+  "numero": "13 ",
+  "document": "convention-collective-generale-benin",
+  "path": [
+    "titre-1",
+    "chapitre-1"
+  ],
+  "navigation": {
+    "parent": "chapitre-1",
+    "previous": "article-12-",
+    "next": "article-14-"
+  }
+}

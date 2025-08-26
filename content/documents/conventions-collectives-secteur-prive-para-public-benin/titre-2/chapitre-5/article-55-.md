@@ -1,0 +1,4 @@
+Travail des femmes et des jeunes travailleurs
+Les conditions de travail des femmes et des jeunes travailleurs de moins de dix-huit ans sont réglées conformément aux dispositions du code du travail.
+Lorsque la femme en état de grossesse est exposée à des facteurs de risques particuliers pouvant entraver le développement harmonieux du fœtus, l'employeur doit procéder à sa mutation. Dans ce cas, l'intéressée conserve à son nouveau poste la garantie du salaire qu'elle percevait avant sa mutation. En tout état de cause, la grossesse ne peut être par elle-même un motif de licenciement.
+#### CHAPITRE 3 : DE LA FORMATION, DES ŒUVRES SOCIALES ET DE LA SÉCURITÉ SOCIALE

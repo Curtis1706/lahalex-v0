@@ -1,0 +1,3 @@
+INDEMNITE COMPENSATRICE DE PREAVIS
+Chacune des parties peut se dégager de l’obligation de préavis en versant à l’autre une indemnité compensatrice dont le montant correspond au salaire et aux avantages de toute nature dont aurait bénéficié le travailleur pendant la durée du préavis restant à courir s’il avait travaillé.
+En cas de rupture du contrat par l’employé, il peut être dispensé du paiement de l’indemnité de préavis après en avoir reçu l’accord de son employeur.

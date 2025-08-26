@@ -1,3 +1,1 @@
-Il est établi un procèsverbal des opérations de la
-commission. Ce procèsverbal est introduit pour décision en Conseil
-Exécutif National par le Ministre chargé des Eaux et forêts.
+Il est établi un procès-verbal des opérations de la commission. Ce procès-verbal est introduit pour décision en Conseil Exécutif National par le Ministre chargé des Eaux et forêts.

@@ -1,0 +1,1 @@
+Tous les actes établis en exécution de la présente section sont exempts des droits de timbre.

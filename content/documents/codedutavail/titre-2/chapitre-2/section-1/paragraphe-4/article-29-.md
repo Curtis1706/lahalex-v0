@@ -1,0 +1,2 @@
+Le ministre chargé du travail peut refuser la délivrance ou le renouvellement du permis de travail lorsque la qualification professionnelle du travailleur ne répond pas aux besoins de l’économie nationale.
+Le refus opposé par le ministre du travail peut faire l’objet des recours ouverts par le droit commun contre les décisions administratives.

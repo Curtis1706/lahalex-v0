@@ -1,0 +1,1 @@
+Aucun employeur ne peut, pour arrêter les décisions prévues à l’article précédent, prendre en considération l’origine sociale, l’appartenance ou la non appartenance à un syndicat, l’activité syndicale, l’origine ou les opinions, notamment religieuses et politiques du travailleur.

@@ -1,2 +1,2 @@
 Dans chaque circonscription administrative, l’autorité administrative territorialement compétente fixe, par arrêté, les lieux exclusivement destinés à recevoir les affiches, les lois et autres actes de l’autorité publique.
-L’affichage et l’implantation de panneaux sont interdits dans les aires et espaces protégés.
+l'affichage et l’implantation de panneaux sont interdits dans les aires et espaces protégés.

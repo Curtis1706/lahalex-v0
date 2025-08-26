@@ -1,0 +1,3 @@
+Dans les quinze jours du prononcé du jugement, l’appel peut être interjeté dans les formes réglementaires.
+Le recours est transmis dans la huitaine de sa déclaration à la cour d’appel avec une expédition du jugement, lettres, mémoires et documents déposés par les parties ou l’inspecteur du travail.
+L’appel est jugé sur pièces. Toutefois, les parties peuvent demander à être entendues. Dans ce cas, la représentation des parties obéit aux règles fixées par l’article 244 ci-dessus.

@@ -1,0 +1,2 @@
+Le travail de nuit est interdit pour les jeunes travailleurs âgés de moins de 18 ans.
+Des dérogations peuvent toutefois être accordées par décret pris en conseil des ministres après avis du conseil national du travail.

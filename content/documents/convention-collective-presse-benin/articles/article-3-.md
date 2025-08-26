@@ -1,0 +1,4 @@
+MAINTIEN DES AVANTAGES ACQUIS
+La présente convention collective ne peut en aucun cas entraîner la réduction des avantages de toute nature, qu’ils soient individuels ou collectifs, acquis par les travailleurs antérieurement à sa date de signature.
+Le bénéfice de ces avantages est reconduit en cas de modification de la situation juridique de l’employeur conformément aux dispositions du code du travail.
+Les conditions de travail, de rémunération, d’intéressement en nature plus avantageuses que celles prévues par la présente convention collective peuvent être offertes par les employeurs aux journalistes et autres agents exerçant dans le secteur de la presse.

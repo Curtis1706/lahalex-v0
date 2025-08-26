@@ -1,2 +1,0 @@
-Les directeurs de publication de journaux et de périodiques sont tenus de déposer, contre récépissé ou décharge auprès de la Haute Autorité de l’Audiovisuel et de la Communication et au parquet près le tribunal de première instance territorialement compétent, leurs publications.
-Dans les villes où il n’existe pas d’annexe de la Haute Autorité de l’Audiovisuel et de la Communication et de tribunal, ces publications sont déposées à la mairie ou au bureau du chef de la circonscription administrative pour être acheminées vers les structures compétentes.

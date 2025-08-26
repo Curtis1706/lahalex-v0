@@ -1,0 +1,4 @@
+Toute personne physique ou morale ayant fait l’objet d’une information contenant des faits erronés ou des assertions malveillantes de nature à lui causer un préjudice moral, matériel ou financier ou des imputations dommageables susceptibles de porter atteinte à son honneur ou à sa réputation dispose d’un droit de réponse.
+Toute personne interpellée ou mise en cause dans une intervention dispose d’un droit de réponse.
+` `Les réponses concernent les démentis ou protestations, les précisions ou les explications a posteriori à propos des allégations ou imputations dommageables susceptibles de porter atteinte à l’honneur ou à la réputation.
+l'expression de toutes autres informations ou opinions n’est recevable que si elle est en rapport explicite avec l’information d’origine.

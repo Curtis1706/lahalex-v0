@@ -1,0 +1,4 @@
+Si au jour fixé par la convocation, le demandeur ne comparaît pas et ne justifie pas d’un cas de force majeure, la cause est radiée du rôle. Elle ne peut être reprise qu’une seule fois à l’initiative du demandeur.
+Si le défendeur ne comparaît pas et ne justifie pas d’un cas de force majeure, ou s’il n’a pas présenté ses moyens, défaut est donné contre lui et le tribunal statue sur le mérite de la demande.
+Si le défendeur a comparu une fois ou s’il est rapporté qu’il a été régulièrement touché, la décision du tribunal est à son encontre, réputée contradictoire.
+Les mesures prévues au présent article ne peuvent être prises que s’il a été établi que l’intéressé a été régulièrement touché par la convocation.

@@ -1,0 +1,1 @@
+Sous réserve du respect du préavis prévu à l’article 53 du présent code, le salarié peut démissionner librement sans avoir à justifier des motifs de son acte.

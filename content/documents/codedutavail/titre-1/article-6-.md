@@ -1,0 +1,1 @@
+Aucun employeur ne peut user de moyens de pression à l’encontre ou en faveur d’une organisation syndicale de salariés quelle qu’elle soit.

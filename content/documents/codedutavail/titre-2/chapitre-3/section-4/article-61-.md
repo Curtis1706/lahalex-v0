@@ -1,0 +1,2 @@
+Le travailleur doit toute son activité professionnelle à l’entreprise sauf dérogation stipulée au contrat.
+Est nulle de plein droit toute clause d’un contrat portant interdiction pour le travailleur d’exercer une activité quelconque à l’expiration du contrat.

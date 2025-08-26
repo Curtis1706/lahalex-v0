@@ -1,0 +1,15 @@
+{
+  "id": "article-39-",
+  "title": "Article 39 :",
+  "numero": "39 ",
+  "document": "codeinvestissementbenin",
+  "path": [
+    "titre-3",
+    "chapitre-5"
+  ],
+  "navigation": {
+    "parent": "chapitre-5",
+    "previous": "article-38-",
+    "next": "article-40-"
+  }
+}

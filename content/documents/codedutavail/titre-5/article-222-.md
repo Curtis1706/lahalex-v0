@@ -1,0 +1,4 @@
+Les paiements mensuels doivent être effectués au plus tard huit jours après la fin du mois de travail qui donne droit au salaire.
+En cas de résiliation ou rupture de contrat, le salaire et les indemnités doivent être payés dès la cessation de service. Toutefois, en cas de litige l’employeur peut obtenir l’immobilisation provisoire entre ses mains de tout ou partie de la fraction saisissable de sommes dues par ordonnance du président du tribunal.
+Les travailleurs absents le jour de la paie peuvent retirer leur salaire aux heures normales d’ouverture de la caisse, et conformément au règlement intérieur de l’entreprise.
+Le paiement du salaire doit être effectué les jours ouvrables seulement et au lieu de travail ou à proximité de celui-ci. Il ne peut être fait dans un débit de boissons ou dans un magasin de vente, sauf pour les travailleurs qui y sont normalement occupés.

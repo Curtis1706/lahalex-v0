@@ -1,0 +1,3 @@
+Les administrateurs, inspecteurs et contrôleurs du travail et de la main-d’œuvre prêtent serment de bien et fidèlement remplir leur charge et de ne pas révéler, même après avoir quitté leur service, les secrets de fabrication et en général les procédés d’exploitation dont ils pourraient avoir connaissance dans l’exercice de leurs fonctions.
+Ce serment est prêté devant la cour d’appel. Il peut être prêté par écrit lorsque l’intéressé ne réside pas au siège de ladite cour.
+Toute violation de ce serment est punie conformé- ment au code pénal

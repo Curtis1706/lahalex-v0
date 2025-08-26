@@ -1,0 +1,2 @@
+Dans le cas où l’amende prévue pour la première infraction est applicable autant de fois qu’il y a d’infractions constatées ou de travailleurs ou apprentis concernés, l’amende prévue pour la récidive est imposée autant de fois qu’il y a de nouvelles contraventions relevées.
+Il y a récidive lorsque, dans les douze mois antérieurs au fait poursuivi, le contrevenant a déjà subi une condamnation pour une infraction identique.

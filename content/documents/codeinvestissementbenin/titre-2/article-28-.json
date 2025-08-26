@@ -1,0 +1,14 @@
+{
+  "id": "article-28-",
+  "title": "Article 28 :",
+  "numero": "28 ",
+  "document": "codeinvestissementbenin",
+  "path": [
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-27-",
+    "next": "article-29-"
+  }
+}

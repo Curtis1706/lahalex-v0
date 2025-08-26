@@ -1,0 +1,1 @@
+L’article 463 du code pénal et la loi relative au sursis sont applicables à toutes les infractions prévues et réprimées au présent titre.

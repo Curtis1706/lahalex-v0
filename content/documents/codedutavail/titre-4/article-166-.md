@@ -1,0 +1,1 @@
+Les enfants ne peuvent être employés dans aucune entreprise avant l’âge de 14 ans.

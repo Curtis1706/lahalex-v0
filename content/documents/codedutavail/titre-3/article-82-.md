@@ -1,0 +1,2 @@
+Les syndicats élisent librement leurs représentants sous réserve des règles ci-après :
+Les membres chargés, à un titre quelconque, de la direction ou de l’organisation d’un syndicat doivent être de nationalité béninoise ou travailleur migrant régulièrement établi sur le territoire national et jouissant de leurs droits civiques.

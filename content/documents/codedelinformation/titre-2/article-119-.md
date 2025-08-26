@@ -1,2 +1,0 @@
-Les partis politiques ou alliances de partis politiques régulièrement déclarés bénéficient, dans le cadre de l’animation de la vie politique nationale, de la couverture et de la retransmission de leurs activités, par les média de service public.
-La demande est faite par lettre missive, adressée au plus tard cinq (05) jours avant l’événement, au premier responsable de l’organe de presse compétent.

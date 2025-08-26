@@ -1,0 +1,2 @@
+Des copies certifiées conformes des conventions ainsi que des modifications, adhésions ou dénonciations sont délivrées par le ministre chargé du travail ou ses services compétents sur papier libre.
+Des traductions verbales peuvent être demandées par tout intéressé aux services compétents du ministère chargé du travail.

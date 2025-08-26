@@ -1,0 +1,1 @@
+Un arrêté conjoint du ministre chargé du travail et du ministre de la santé, pris après avis du conseil national du travail fixe la nature des travaux et les catégories d’entreprises interdites aux femmes, aux femmes enceintes et aux jeunes gens, et l’âge limite auquel s’applique l’interdiction.

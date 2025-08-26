@@ -1,0 +1,2 @@
+A défaut de convention contraire, le travailleur qui use d’une voie et de moyens de transport moins rapides que ceux régulièrement choisis par l’employeur ne peut prétendre, de ce fait, à des délais de route plus longs que ceux prévus pour la voie et les moyens normaux.
+S’il use de moyens plus rapides, il continue à bénéficier, en plus de la durée du congé proprement dit, des délais qui auraient été nécessaires avec l’usage de la voie et des moyens choisis par l’employeur.

@@ -1,0 +1,15 @@
+{
+  "id": "article-165-",
+  "title": "Article 165 :",
+  "numero": "165 ",
+  "document": "codedelinformation",
+  "path": [
+    "titre-3",
+    "chapitre-7"
+  ],
+  "navigation": {
+    "parent": "chapitre-7",
+    "previous": "article-164-",
+    "next": "article-166-"
+  }
+}

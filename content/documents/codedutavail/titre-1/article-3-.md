@@ -1,0 +1,2 @@
+Le travail forcé est interdit de façon absolue.
+Le travail forcé est un travail ou service exigé d’un individu sous la menace d’une peine quelconque et pour lequel ledit individu ne s’est pas offert de plein gré.

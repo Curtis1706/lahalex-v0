@@ -1,0 +1,3 @@
+CONTRAT DEFINITIF
+Lorsque l’engagement est définitif, il est constaté par un contrat écrit établi en trois exemplaires signés par chacune des deux parties et visé par l’inspection du travail du ressort. Un exemplaire est remis au travailleur. Le contrat prend effet à la date du début de l’essai. Il spécifie l’emploi, le classement du travailleur et sa rémunération.
+Tout travailleur est soumis à une visite médicale d’embauchage et périodique conformément à la réglementation en vigueur.

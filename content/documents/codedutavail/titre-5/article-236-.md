@@ -1,0 +1,3 @@
+L’ouverture d’un économat dans les conditions prévues à l’article 235 est subordonnée à l’autorisation de l’inspecteur du travail du ressort.
+Le fonctionnement est contrôlé par 1 inspecteur du travail qui, en cas d’abus constaté, peut prescrire la fermeture provisoire pour une durée maximum d’un mois.
+Le ministre chargé du travail peut ordonner la fermeture définitive du ou des économats de l’entreprise sur rapport de l’inspecteur du travail.

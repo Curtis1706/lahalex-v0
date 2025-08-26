@@ -1,0 +1,1 @@
+Un exemplaire du présent code est tenu par l’employeur à la disposition des délégués du personnel.

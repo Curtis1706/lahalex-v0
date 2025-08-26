@@ -1,0 +1,5 @@
+REVISION
+Chaque partie signataire peut demander la révision partielle ou totale de la présente Convention et, le cas échéant de ses annexes. Toute demande de révision devra être portée par lettre recommandée avec accusé de réception, à la connaissance des autres parties contractantes ; elle devra porter l’indication des points dont la révision est demandée et des propositions formulées en remplacement.
+Les discussions devront commencer au plus tard dans les 30 jours suivant la date d’envoi de la lettre de notification.
+Pendant toute la durée de la discussion paritaire, les parties s’engagent à ne procéder à aucune fermeture d’établissement par lock out ou cessation de travail motivées par les points, sujets à révision.
+Pendant toute la durée de la discussion paritaire, les parties s’engagent à ne pas dénoncer la présente Convention.

@@ -1,0 +1,2 @@
+Le repos hebdomadaire est obligatoire, il est au minimum de vingt-quatre heures consécutives, il a lieu en principe le dimanche.
+Un arrêté du ministre chargé du travail, pris après avis du conseil national du travail, fixe les modalités d’exécution de l’alinéa précédent à certaines professions et détermine les conditions d’aménagement du repos hebdomadaire à prendre un jour autre que le dimanche ou repos par roulement individuel ou collectif ou par deux demi-journées ou pour une durée supérieure à vingt-quatre heures.

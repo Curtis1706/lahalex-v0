@@ -1,0 +1,1 @@
+Toute rupture du contrat d’apprentissage est subordonnée à l’autorisation préalable de l’inspecteur du travail territorialement compétent.

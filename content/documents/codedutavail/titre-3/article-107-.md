@@ -1,0 +1,1 @@
+Lorsqu’un délégué titulaire cesse, provisoirement ou définitivement, ses fonctions en cours de mandat, il est remplacé par un délégué suppléant élu sur une liste présentée par le même syndicat. Lorsque cela est impossible, il est remplacé par celui des délégués suppléants qui a obtenu le plus de voix.

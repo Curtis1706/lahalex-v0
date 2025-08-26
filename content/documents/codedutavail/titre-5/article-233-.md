@@ -1,0 +1,1 @@
+Le travailleur auquel la prescription est opposée peut déférer le serment à l’employeur ou à son représentant sur la question de savoir si le salaire qu’il a réclamé a été payé. Le serment peut aussi être déféré aux veuves et héritiers de l’employeur ou aux tuteurs de ces derniers, s’ils sont mineurs.

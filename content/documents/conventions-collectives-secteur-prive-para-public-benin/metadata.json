@@ -1,0 +1,998 @@
+{
+  "id": "conventions-collectives-secteur-prive-para-public-benin",
+  "title": "Conventions collectives du secteur privé et parapublic",
+  "type": "conventions-collectives",
+  "description": "Ensemble des conventions collectives applicables aux entreprises et travailleurs du secteur privé et parapublic au Bénin.",
+  "structure": {
+    "sections": [
+      {
+        "id": "titre-1",
+        "title": "TITRE 1 : DES DISPOSITIONS GENERALES",
+        "type": "titre",
+        "level": 1,
+        "order": 0,
+        "path": [
+          "titre-1"
+        ],
+        "children": [
+          "article-1-",
+          "article-2-",
+          "article-3-",
+          "article-4-",
+          "article-5-",
+          "article-6-"
+        ]
+      },
+      {
+        "id": "article-1-",
+        "title": "Article 1 : Objet et champ d'application",
+        "type": "article",
+        "level": 3,
+        "order": 1,
+        "path": [
+          "titre-1",
+          "article-1-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-2-",
+        "title": "Article 2 : Abrogation",
+        "type": "article",
+        "level": 3,
+        "order": 2,
+        "path": [
+          "titre-1",
+          "article-2-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-3-",
+        "title": "Article 3 : Maintien des avantages acquis",
+        "type": "article",
+        "level": 3,
+        "order": 3,
+        "path": [
+          "titre-1",
+          "article-3-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-4-",
+        "title": "Article 4 : Durée de la convention",
+        "type": "article",
+        "level": 3,
+        "order": 4,
+        "path": [
+          "titre-1",
+          "article-4-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-5-",
+        "title": "Article 5 : Dénonciation de la convention",
+        "type": "article",
+        "level": 3,
+        "order": 5,
+        "path": [
+          "titre-1",
+          "article-5-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-6-",
+        "title": "Article 6 : Adhésions ultérieures",
+        "type": "article",
+        "level": 3,
+        "order": 6,
+        "path": [
+          "titre-1",
+          "article-6-"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-2",
+        "title": "TITRE 2 : DES RAPPORTS INDIVIDUELS DE TRAVAIL",
+        "type": "titre",
+        "level": 1,
+        "order": 7,
+        "path": [
+          "titre-2"
+        ],
+        "children": [
+          "article-7-",
+          "article-8-",
+          "article-9-",
+          "article-10-",
+          "article-11-",
+          "article-12-",
+          "article-13-",
+          "article-14-",
+          "article-15-",
+          "article-16-",
+          "article-17-",
+          "article-18-",
+          "article-19-",
+          "article-20-",
+          "article-21-",
+          "article-22-",
+          "article-23-",
+          "article-24-",
+          "article-25-",
+          "article-26-",
+          "article-27-",
+          "article-28-",
+          "article-29-",
+          "article-30-",
+          "article-31-",
+          "article-32-",
+          "article-33-",
+          "article-34-",
+          "article-35-",
+          "article-36-",
+          "article-38-",
+          "article-39-",
+          "article-40-",
+          "article-41-",
+          "article-42-",
+          "article-43-",
+          "article-44-",
+          "article-45-",
+          "article-46-",
+          "article-47-",
+          "article-48-",
+          "article-49-",
+          "article-50-",
+          "article-51-",
+          "article-52-",
+          "article-53-",
+          "article-54-",
+          "article-55-",
+          "article-56-",
+          "article-57-",
+          "article-58-",
+          "article-59-",
+          "article-60-",
+          "article-61-",
+          "article-62-",
+          "article-63-",
+          "article-64-",
+          "article-65-",
+          "article-66-",
+          "article-67-",
+          "article-68-",
+          "article-69-",
+          "article-70-",
+          "article-71-",
+          "article-72-",
+          "article-73-",
+          "article-74-",
+          "article-75-"
+        ]
+      },
+      {
+        "id": "article-7-",
+        "title": "Article 7 : Forme du contrat",
+        "type": "article",
+        "level": 3,
+        "order": 9,
+        "path": [
+          "titre-2",
+          "article-7-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-8-",
+        "title": "Article 8 : Embauchage",
+        "type": "article",
+        "level": 3,
+        "order": 10,
+        "path": [
+          "titre-2",
+          "article-8-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-9-",
+        "title": "Article 9 : Période d'essai",
+        "type": "article",
+        "level": 3,
+        "order": 11,
+        "path": [
+          "titre-2",
+          "article-9-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-10-",
+        "title": "Article 10 : Contrat définitif",
+        "type": "article",
+        "level": 3,
+        "order": 12,
+        "path": [
+          "titre-2",
+          "article-10-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-11-",
+        "title": "Article 11 : Modification aux clauses du contrat",
+        "type": "article",
+        "level": 3,
+        "order": 13,
+        "path": [
+          "titre-2",
+          "article-11-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-12-",
+        "title": "Article 12 : Promotion",
+        "type": "article",
+        "level": 3,
+        "order": 14,
+        "path": [
+          "titre-2",
+          "article-12-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-13-",
+        "title": "Article 13 : Mutation d'emploi dans une catégorie inférieure",
+        "type": "article",
+        "level": 3,
+        "order": 15,
+        "path": [
+          "titre-2",
+          "article-13-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-14-",
+        "title": "Article 14 : Changement d'emploi ou intérim d'un emploi supérieur",
+        "type": "article",
+        "level": 3,
+        "order": 16,
+        "path": [
+          "titre-2",
+          "article-14-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-15-",
+        "title": "Article 15 : Mutation des femmes travailleuses en état de grossesse",
+        "type": "article",
+        "level": 3,
+        "order": 17,
+        "path": [
+          "titre-2",
+          "article-15-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-16-",
+        "title": "Article 16 : Mutation à la suite d'accident du travail ou de maladie professionnelle",
+        "type": "article",
+        "level": 3,
+        "order": 18,
+        "path": [
+          "titre-2",
+          "article-16-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-17-",
+        "title": "Article 17 : Sanction",
+        "type": "article",
+        "level": 3,
+        "order": 20,
+        "path": [
+          "titre-2",
+          "article-17-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-18-",
+        "title": "Article 18 : Pouvoir disciplinaire",
+        "type": "article",
+        "level": 3,
+        "order": 21,
+        "path": [
+          "titre-2",
+          "article-18-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-19-",
+        "title": "Article 19 : Licenciement pour fautes",
+        "type": "article",
+        "level": 3,
+        "order": 22,
+        "path": [
+          "titre-2",
+          "article-19-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-20-",
+        "title": "Article 20 : Obligations du travailleur",
+        "type": "article",
+        "level": 3,
+        "order": 24,
+        "path": [
+          "titre-2",
+          "article-20-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-21-",
+        "title": "Article 21 : Clause de non concurrence",
+        "type": "article",
+        "level": 3,
+        "order": 25,
+        "path": [
+          "titre-2",
+          "article-21-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-22-",
+        "title": "Article 22 : Suspension pendant la durée du congé de maladie du travailleur",
+        "type": "article",
+        "level": 3,
+        "order": 27,
+        "path": [
+          "titre-2",
+          "article-22-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-23-",
+        "title": "Article 23 : Indemnisation du travailleur malade",
+        "type": "article",
+        "level": 3,
+        "order": 28,
+        "path": [
+          "titre-2",
+          "article-23-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-24-",
+        "title": "Article 24 : Situation du travailleur à l'expiration du congé de maladie",
+        "type": "article",
+        "level": 3,
+        "order": 29,
+        "path": [
+          "titre-2",
+          "article-24-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-25-",
+        "title": "Article 25 : Accident du travail et maladie professionnelle",
+        "type": "article",
+        "level": 3,
+        "order": 30,
+        "path": [
+          "titre-2",
+          "article-25-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-26-",
+        "title": "Article 26 : Suspension du contrat de travail du travailleur appelé sous les drapeaux",
+        "type": "article",
+        "level": 3,
+        "order": 31,
+        "path": [
+          "titre-2",
+          "article-26-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-27-",
+        "title": "Article 27 : Suspension du contrat de travail pendant la durée d'un mandat parlementaire",
+        "type": "article",
+        "level": 3,
+        "order": 32,
+        "path": [
+          "titre-2",
+          "article-27-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-28-",
+        "title": "Article 28 : Suspension du contrat de travail pendant détention préventive",
+        "type": "article",
+        "level": 3,
+        "order": 33,
+        "path": [
+          "titre-2",
+          "article-28-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-29-",
+        "title": "Article 29 : Suspension du contrat de travail sur demande du travailleur",
+        "type": "article",
+        "level": 3,
+        "order": 34,
+        "path": [
+          "titre-2",
+          "article-29-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-30-",
+        "title": "Article 30 : Modalités",
+        "type": "article",
+        "level": 3,
+        "order": 36,
+        "path": [
+          "titre-2",
+          "article-30-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-31-",
+        "title": "Article 31 : Durée et déroulement du préavis",
+        "type": "article",
+        "level": 3,
+        "order": 37,
+        "path": [
+          "titre-2",
+          "article-31-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-32-",
+        "title": "Article 32 : Indemnité compensatrice de préavis",
+        "type": "article",
+        "level": 3,
+        "order": 38,
+        "path": [
+          "titre-2",
+          "article-32-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-33-",
+        "title": "Article 33 : Préavis en cas de départ en congé",
+        "type": "article",
+        "level": 3,
+        "order": 39,
+        "path": [
+          "titre-2",
+          "article-33-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-34-",
+        "title": "Article 34 : Rupture du contrat du travailleur malade",
+        "type": "article",
+        "level": 3,
+        "order": 40,
+        "path": [
+          "titre-2",
+          "article-34-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-35-",
+        "title": "Article 35 : Licenciement collectifs",
+        "type": "article",
+        "level": 3,
+        "order": 41,
+        "path": [
+          "titre-2",
+          "article-35-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-36-",
+        "title": "Article 36 : Indemnité de licenciement",
+        "type": "article",
+        "level": 3,
+        "order": 42,
+        "path": [
+          "titre-2",
+          "article-36-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-38-",
+        "title": "Article 38 : Respect réciproque des libertés syndicales",
+        "type": "article",
+        "level": 3,
+        "order": 43,
+        "path": [
+          "titre-2",
+          "article-38-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-39-",
+        "title": "Article 39 : Absences pour activités syndicales",
+        "type": "article",
+        "level": 3,
+        "order": 44,
+        "path": [
+          "titre-2",
+          "article-39-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-40-",
+        "title": "Article 40 : Traitement de représentants syndicaux",
+        "type": "article",
+        "level": 3,
+        "order": 45,
+        "path": [
+          "titre-2",
+          "article-40-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-41-",
+        "title": "Article 41 : Panneaux d'affichage",
+        "type": "article",
+        "level": 3,
+        "order": 46,
+        "path": [
+          "titre-2",
+          "article-41-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-42-",
+        "title": "Article 42 : Mise en place des délégués du personnel",
+        "type": "article",
+        "level": 3,
+        "order": 47,
+        "path": [
+          "titre-2",
+          "article-42-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-43-",
+        "title": "Article 43 : Élection des délégués du personnel",
+        "type": "article",
+        "level": 3,
+        "order": 48,
+        "path": [
+          "titre-2",
+          "article-43-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-44-",
+        "title": "Article 44 : Protection des délégués du personnel",
+        "type": "article",
+        "level": 3,
+        "order": 49,
+        "path": [
+          "titre-2",
+          "article-44-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-45-",
+        "title": "Article 45 : Traitement du délégué du personnel",
+        "type": "article",
+        "level": 3,
+        "order": 50,
+        "path": [
+          "titre-2",
+          "article-45-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-46-",
+        "title": "Article 46 : Compétence du délégué du personnel",
+        "type": "article",
+        "level": 3,
+        "order": 51,
+        "path": [
+          "titre-2",
+          "article-46-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-47-",
+        "title": "Article 47 : Horaires de travail",
+        "type": "article",
+        "level": 3,
+        "order": 52,
+        "path": [
+          "titre-2",
+          "article-47-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-48-",
+        "title": "Article 48 : Interruption collective de travail",
+        "type": "article",
+        "level": 3,
+        "order": 53,
+        "path": [
+          "titre-2",
+          "article-48-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-49-",
+        "title": "Article 49 : Jours fériés",
+        "type": "article",
+        "level": 3,
+        "order": 54,
+        "path": [
+          "titre-2",
+          "article-49-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-50-",
+        "title": "Article 50 : Congés annuels payés",
+        "type": "article",
+        "level": 3,
+        "order": 55,
+        "path": [
+          "titre-2",
+          "article-50-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-51-",
+        "title": "Article 51 : Date de départ en congé",
+        "type": "article",
+        "level": 3,
+        "order": 56,
+        "path": [
+          "titre-2",
+          "article-51-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-52-",
+        "title": "Article 52 : Allocation de congé",
+        "type": "article",
+        "level": 3,
+        "order": 57,
+        "path": [
+          "titre-2",
+          "article-52-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-53-",
+        "title": "Article 53 : Détermination du congé payé",
+        "type": "article",
+        "level": 3,
+        "order": 58,
+        "path": [
+          "titre-2",
+          "article-53-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-54-",
+        "title": "Article 54 : Permissions d'absence",
+        "type": "article",
+        "level": 3,
+        "order": 59,
+        "path": [
+          "titre-2",
+          "article-54-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-55-",
+        "title": "Article 55 : Travail des femmes et des jeunes travailleurs",
+        "type": "article",
+        "level": 3,
+        "order": 60,
+        "path": [
+          "titre-2",
+          "article-55-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-56-",
+        "title": "Article 56 : Stage de formation et de perfectionnement",
+        "type": "article",
+        "level": 3,
+        "order": 61,
+        "path": [
+          "titre-2",
+          "article-56-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-57-",
+        "title": "Article 57 : Prise en charge de la formation",
+        "type": "article",
+        "level": 3,
+        "order": 62,
+        "path": [
+          "titre-2",
+          "article-57-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-58-",
+        "title": "Article 58 : Œuvres sociales",
+        "type": "article",
+        "level": 3,
+        "order": 63,
+        "path": [
+          "titre-2",
+          "article-58-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-59-",
+        "title": "Article 59 : Sécurité Sociale",
+        "type": "article",
+        "level": 3,
+        "order": 64,
+        "path": [
+          "titre-2",
+          "article-59-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-60-",
+        "title": "Article 60 : Dispositions générales",
+        "type": "article",
+        "level": 3,
+        "order": 65,
+        "path": [
+          "titre-2",
+          "article-60-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-61-",
+        "title": "Article 61 : Principe de rémunération",
+        "type": "article",
+        "level": 3,
+        "order": 66,
+        "path": [
+          "titre-2",
+          "article-61-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-62-",
+        "title": "Article 62 : Emplois multiples",
+        "type": "article",
+        "level": 3,
+        "order": 67,
+        "path": [
+          "titre-2",
+          "article-62-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-63-",
+        "title": "Article 63 : Bulletins de paye",
+        "type": "article",
+        "level": 3,
+        "order": 68,
+        "path": [
+          "titre-2",
+          "article-63-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-64-",
+        "title": "Article 64 : Salaires des jeunes travailleurs",
+        "type": "article",
+        "level": 3,
+        "order": 69,
+        "path": [
+          "titre-2",
+          "article-64-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-65-",
+        "title": "Article 65 : Prime d'ancienneté",
+        "type": "article",
+        "level": 3,
+        "order": 70,
+        "path": [
+          "titre-2",
+          "article-65-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-66-",
+        "title": "Article 66 : Indemnités pour heures supplémentaires",
+        "type": "article",
+        "level": 3,
+        "order": 71,
+        "path": [
+          "titre-2",
+          "article-66-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-67-",
+        "title": "Article 67 : Indemnité de déplacement",
+        "type": "article",
+        "level": 3,
+        "order": 72,
+        "path": [
+          "titre-2",
+          "article-67-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-68-",
+        "title": "Article 68 : Autres indemnités et primes",
+        "type": "article",
+        "level": 3,
+        "order": 73,
+        "path": [
+          "titre-2",
+          "article-68-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-69-",
+        "title": "Article 69 : Fourniture du logement",
+        "type": "article",
+        "level": 3,
+        "order": 74,
+        "path": [
+          "titre-2",
+          "article-69-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-70-",
+        "title": "Article 70 : Fournitures alimentaires",
+        "type": "article",
+        "level": 3,
+        "order": 75,
+        "path": [
+          "titre-2",
+          "article-70-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-71-",
+        "title": "Article 71 : Principe général",
+        "type": "article",
+        "level": 3,
+        "order": 76,
+        "path": [
+          "titre-2",
+          "article-71-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-72-",
+        "title": "Article 72 : Visite médicale en santé au travail",
+        "type": "article",
+        "level": 3,
+        "order": 77,
+        "path": [
+          "titre-2",
+          "article-72-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-73-",
+        "title": "Article 73 : Consultations et soins médicaux",
+        "type": "article",
+        "level": 3,
+        "order": 78,
+        "path": [
+          "titre-2",
+          "article-73-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-74-",
+        "title": "Article 74 : Repos sanitaire",
+        "type": "article",
+        "level": 3,
+        "order": 79,
+        "path": [
+          "titre-2",
+          "article-74-"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-75-",
+        "title": "Article 75 : Mutation pour maladie et accident de travail",
+        "type": "article",
+        "level": 3,
+        "order": 80,
+        "path": [
+          "titre-2",
+          "article-75-"
+        ],
+        "children": []
+      }
+    ],
+    "totalArticles": 75
+  },
+  "source": "nationale"
+}

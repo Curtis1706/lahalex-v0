@@ -224,19 +224,19 @@ export function DictionaryImportExport({ onImportComplete, className }: Dictiona
   }
 
   const downloadTemplate = () => {
-    const template = `Terme: Acte authentique
-Définition: Document rédigé par un officier public qui confère une force probante particulière.
-Catégorie: droit-civil
-Synonymes: Document authentique, Acte notarié
-Exemples: Le contrat de mariage doit être établi par acte authentique.
-Source: Code civil, article 1317
+    const template = `Terme: [Nom du terme juridique]
+Définition: [Définition complète du terme]
+Catégorie: [Catégorie juridique]
+Synonymes: [Synonyme 1, Synonyme 2]
+Exemples: [Exemple d'utilisation du terme]
+Source: [Source légale de référence]
 
-Terme: Bail commercial
-Définition: Contrat de location d'un local commercial.
-Catégorie: droit-commercial
-Synonymes: Location commerciale, Bail professionnel
-Exemples: Le bail commercial est conclu pour une durée minimale de 9 ans.
-Source: Code de commerce, articles L.145-1 et suivants`
+Terme: [Autre terme juridique]
+Définition: [Définition complète du terme]
+Catégorie: [Catégorie juridique]
+Synonymes: [Synonyme 1, Synonyme 2]
+Exemples: [Exemple d'utilisation du terme]
+Source: [Source légale de référence]`
 
     const blob = new Blob([template], { type: "text/plain" })
     const url = URL.createObjectURL(blob)

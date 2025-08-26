@@ -1,0 +1,1 @@
+La durée et l’horaire du travail sont fixés par l’employeur dans le respect des règles édictées par le présent code et les textes pris pour son application. La durée et l’horaire sont affichés sur les lieux du travail et communiqués à l’inspecteur du travail

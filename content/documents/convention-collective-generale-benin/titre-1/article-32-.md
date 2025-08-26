@@ -1,0 +1,3 @@
+PROMOTION
+Les parties contractantes étant animées du désir de voir favoriser le plus possible la promotion dans l’entreprise, les employeurs, en cas de vacance ou de création de postes s’efforceront, dans la mesure des possibilités de faire appel de préférence aux salariés travaillant dans l’entreprise.
+Ce n’est qu’au cas où ils estimeraient ne pouvoir procéder à la nomination d’un salarié déjà en place qu’ils auront recours à l’embauchage d’une personne étrangère à l’entreprise.

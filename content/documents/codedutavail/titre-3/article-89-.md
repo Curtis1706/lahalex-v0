@@ -1,0 +1,1 @@
+Les ressources financières des organisations syndicales sont constituées par les droits d’adhésion et les cotisations, les recettes provenant des manifestations culturelles et sportives, les dons et legs, emprunts et autres ressources extraordinaires décidées par l’assemblée générale.

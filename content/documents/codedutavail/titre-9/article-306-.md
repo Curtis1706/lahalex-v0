@@ -1,0 +1,1 @@
+Toute infraction aux dispositions d’une sentence arbitrale est punie d’une amende de 14.000 à 70.000 FCFA imposée autant de fois qu’il y a de travailleurs concernés.

@@ -1,8 +1,2 @@
-Le montant des transactions consenties doit être
-acquitté ou les travaux forestiers tenant lieu, de transaction doivent
-être effectués dans les délais fixés par l'acte de transaction, faute de
-quoi il sera procédé aux poursuites judiciaires.
-La transaction suspend provisoirement les poursuites judi­ciaires, la
-suspension ne devenant définitive qu'après payement : espèce du montant
-de la transaction ou exécution des travaux forestiers, dans les délais
-fixés.
+Le montant des transactions consenties doit être acquitté ou les travaux forestiers tenant lieu, de transaction doivent être effectués dans les délais fixés par l’acte de transaction, faute de quoi il sera procédé aux poursuites judiciaires.
+La transaction suspend provisoirement les poursuites judiciaires, la suspension ne devenant définitive qu’après payement : espèce du montant de la transaction ou exécution des travaux forestiers, dans les délais fixés.

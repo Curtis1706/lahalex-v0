@@ -1,0 +1,1 @@
+l'Etat garantit à tout bénéficiaire du Code la liberté de désignation des membres du Conseil d’Administration, du Directeur Général ou du Gérant, selon le cas.

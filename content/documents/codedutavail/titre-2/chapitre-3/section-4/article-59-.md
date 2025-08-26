@@ -1,0 +1,4 @@
+Lorsqu’un travailleur, ayant rompu un contrat de travail sans respecter les conditions prévues au présent code, engage à nouveau ses services, le nouvel employeur est solidairement responsable du dommage causé à l’employeur précédent dans les deux cas suivants :
+1. quand il est démontré qu’il est intervenu dans le débauchage ;
+2. quand il a continué à occuper un travailleur après avoir appris que ce dernier était encore lié par un contrat de travail.
+Dans le deuxième cas, la responsabilité du nouvel employeur cesse d’être engagée si, au moment où il a été averti, le contrat de travail irrégulièrement rompu par le travailleur était venu à expiration.

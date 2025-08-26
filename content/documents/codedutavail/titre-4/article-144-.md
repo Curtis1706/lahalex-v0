@@ -1,0 +1,2 @@
+Les règles d’équivalence sont fixées par décret pris après avis du conseil national du travail Ces règles déterminent le nombre d’heures de présence au poste de travail qui équivaut à quarante heures ou à deux mille quatre cents heures de travail effectif.
+En l’absence de tout texte réglementaire, toute heure de présence au poste de travail est considérée comme heure de travail effectif.

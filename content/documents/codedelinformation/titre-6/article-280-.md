@@ -1,4 +1,4 @@
-Il est interdit de rendre compte d’un procès en diffamation dans les cas prévus à l’alinéa 1 de l’article 275 de la présente loi ainsi que des débats de procès en déclaration de paternité, de divorce, en séparation de corps et de procès d’avortement.
+Il est interdit de rendre compte d’un procès en diffamation dans les cas prévus à l’alinéa 1er de l’article 275 de la présente loi ainsi que des débats de procès en déclaration de paternité, de divorce, en séparation de corps et de procès d’avortement.
 Cette interdiction ne s’applique pas aux jugements qui peuvent toujours être publiés.
 Dans toutes les affaires pendantes, les cours et les tribunaux peuvent interdire le compte rendu du procès.
 Il est également interdit de rendre compte des délibérations des jurys des cours et tribunaux.

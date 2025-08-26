@@ -1,0 +1,15 @@
+{
+  "id": "article-139-",
+  "title": "Article 139 :",
+  "numero": "139 ",
+  "document": "codedelinformation",
+  "path": [
+    "titre-3",
+    "chapitre-6"
+  ],
+  "navigation": {
+    "parent": "chapitre-6",
+    "previous": "article-138-",
+    "next": "article-140-"
+  }
+}

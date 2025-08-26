@@ -1,0 +1,2 @@
+Toutes contestations relatives à l’électorat, à l’éligibilité des délégués du personnel ainsi qu’à la régularité des opérations électorales sont portées, dans un délai de trois jours francs, devant l’inspecteur du travail qui tente une conciliation dans les deux jours ouvrables.
+En cas d’irrégularité constatée, les élections ne peuvent être annulées que si cette irrégularité était de nature à en modifier les résultats.

@@ -1,0 +1,1 @@
+Le repos des jeunes travailleurs âgés de moins de 18 ans doit avoir une durée minimale de douze heures consécutives, comprenant la période de nuit.

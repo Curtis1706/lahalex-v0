@@ -1,0 +1,4 @@
+DROIT ET LIBERTE D’OPINION
+Les parties contractantes reconnaissent la liberté de chacune d’elles de se constituer en syndicat. Elles reconnaissent également la pleine liberté pour les syndicats d’exercer leurs actions dans le cadre réglementaire en vigueur.
+Aucun licenciement ne peut être fait en violation des règles du droit syndical. Le cas échéant, les parties s’emploient, par voie de négociation à la réintégration pure et simple du travailleur concerné dans l’entreprise. Cette négociation ne fait pas obstacle au droit pour les parties d’obtenir judiciairement la réparation du préjudice causé.
+La participation des travailleurs de la presse aux séances des organismes et commissions associatives est régie par la réglementation et la législation en vigueur.

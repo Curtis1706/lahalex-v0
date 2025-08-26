@@ -1,0 +1,2 @@
+Sauf dispositions particulières expressément prévues au contrat, l’engagement à l’essai peut, à tout moment, cesser sans préavis par la volonté de l’une des parties sous réserve d’abus.
+Le montant des dommages et intérêts dû en cas d’abus est fixé, en fonction du préjudice subi, par la juridiction compétente.

@@ -124,14 +124,16 @@ export function DictionaryAdmin({ className }: DictionaryAdminProps) {
     if (!confirm("Êtes-vous sûr de vouloir supprimer ce terme ?")) return
 
     try {
-      const response = await fetch(`/api/dictionary/terms/${id}`, {
+      const response = await fetch(`/api/dictionary/terms?id=${id}`, {
         method: "DELETE"
       })
 
       if (response.ok) {
         await fetchTerms()
+        alert("Terme supprimé avec succès")
       } else {
-        alert("Erreur lors de la suppression")
+        const errorData = await response.json()
+        alert(`Erreur lors de la suppression : ${errorData.error || 'Erreur inconnue'}`)
       }
     } catch (error) {
       console.error("Erreur lors de la suppression:", error)

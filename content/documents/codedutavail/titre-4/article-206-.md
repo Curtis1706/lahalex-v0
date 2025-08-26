@@ -1,0 +1,1 @@
+Un arrêté du ministre chargé du travail pris après avis du conseil national du travail fixe, en tant que de besoin, les modalités d’application de la présente section et notamment les qualifications professionnelles requises du conseiller ou de la conseillère social(e) d’entreprise.

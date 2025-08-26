@@ -1,0 +1,1 @@
+Le conseiller ou la conseillère social(e) d’entreprise collabore avec le service médical. Il doit être convoqué aux réunions du comité d’hygiène et de sécurité ; il peut y prendre la parole.

@@ -1,0 +1,1 @@
+Les personnes handicapées ne doivent faire l’objet d’aucune discrimination en matière d’emploi.

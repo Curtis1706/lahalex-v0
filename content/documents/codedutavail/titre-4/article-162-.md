@@ -1,0 +1,2 @@
+Avec l’accord du salarié, le congé peut être fractionné à condition que le salarié bénéficie d’un repos d’au moins quatorze jours consécutifs, jours de repos hebdomadaire ou jours fériés éventuels compris.
+Pour les salariés employés hors de leur lieu de recrutement, les délais de route ne sont pas pris en compte dans la durée minimale de repos ininterrompu. Sauf accord des parties, ces délais ne viennent augmenter que la plus longue des périodes ainsi fractionnées. Sauf accord des parties, les frais de voyage ne sont dus que pour cette même période.

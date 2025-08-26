@@ -1,0 +1,1 @@
+Tout contrat de travail qui ne répond pas aux exigences du contrat à durée déterminée est considéré comme un contrat à durée indéterminée.

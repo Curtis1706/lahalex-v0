@@ -1,0 +1,1 @@
+le travailleur est maintenu en service à l’expiration de la période d’essai renouvelée ou non, les parties sont définitivement liées par le contrat de travail et la période d’essai, renouvellement compris, est prise en compte pour la détermination des droits et avantages attachés à la durée du service dans l’entreprise.

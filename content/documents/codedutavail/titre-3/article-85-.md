@@ -1,0 +1,4 @@
+Les syndicats jouissent de la personnalité civile. Ils peuvent ester en justice et acquérir, à titre gratuit ou à titre onéreux, des biens meubles et immeubles.
+Les syndicats peuvent, en se conformant aux dispositions des lois en vigueur, constituer entre leurs membres des caisses spéciales de secours mutuels et de retraites.
+Les fonds de ces caisses spéciales sont insaisissables dans les limites déterminées par la loi. Toute personne qui se retire d’un syndicat conserve le droit d’être membre des sociétés de secours mutuels et de retraites pour la vieillesse à l’actif desquelles elle a contribué par des cotisations ou versements de fonds.
+Les syndicats peuvent, devant toutes les juridictions, exercer tous les droits réservés à la partie civile relativement aux faits portant préjudice à l’intérêt collectif de la profession qu’ils représentent.

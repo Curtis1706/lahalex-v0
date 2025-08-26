@@ -1,0 +1,1 @@
+Le contrat de travail est un accord de volonté par lequel une personne physique s’engage à mettre son activité professionnelle sous la direction et l’autorité d’une autre personne physique ou morale moyennant rémunération.

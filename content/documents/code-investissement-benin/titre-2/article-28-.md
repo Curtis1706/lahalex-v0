@@ -1,2 +1,0 @@
-Article 28 : La période d’exploitation agréée prend effet à compter de la date de délivrance de l’attestation constatant la fin de la réalisation du programme d’investissement.
-En tout état de cause, quinze jours ouvrables après la notification de l’achèvement du programme d’investissement par l’entreprise agréée, et en cas de silence de la Commission de Contrôle des Investissements, l’exploitation de l’unité sous régime privilégié est autorisée provisoirement en attendant l’achèvement du contrôle des investissements et la délivrance de ladite attestation.

@@ -1,0 +1,1 @@
+Le litige individuel du travail est celui qui oppose, en cours d’emploi ou à l’occasion de la rupture du contrat de travail, un travailleur à son employeur.

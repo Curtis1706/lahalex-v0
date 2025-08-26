@@ -1,0 +1,1 @@
+Dans toute la mesure du possible, dans les établissements ou entreprises employant plus de cent salariés, un local doit être mis à la disposition des délégués.

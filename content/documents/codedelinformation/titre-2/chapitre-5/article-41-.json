@@ -1,0 +1,15 @@
+{
+  "id": "article-41-",
+  "title": "Article 41 :",
+  "numero": "41 ",
+  "document": "codedelinformation",
+  "path": [
+    "titre-2",
+    "chapitre-5"
+  ],
+  "navigation": {
+    "parent": "chapitre-5",
+    "previous": "article-40-",
+    "next": "article-42-"
+  }
+}

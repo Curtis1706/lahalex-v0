@@ -1,2 +1,0 @@
-L’exercice de la profession de journaliste est libre. Tout journaliste, dans l’exercice de sa fonction, est détenteur de la carte de presse.
-Les organes de presse déclarent à la Haute Autorité de l’Audiovisuel et de la Communication et auprès des services compétents du ministère en charge du travail, tout journaliste en activité dans leur entreprise.

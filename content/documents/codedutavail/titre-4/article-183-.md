@@ -1,0 +1,3 @@
+Tout employeur est tenu d’organiser une formation pratique et appropriée en matière d’hygiène et de sécurité au bénéfice des salariés nouvellement embauchés, de ceux qui changent de poste de travail ou de technique et de ceux qui reprennent leur activité après un arrêt de travail d’une durée de plus de six mois.
+Cette formation doit être actualisée au profit de l’ensemble du personnel en cas de changement de la législation, de la réglementation ou des procédés de travail.
+Dans chaque atelier ou sur chaque chantier où travaillent en permanence plus de vingt-cinq personnes, deux ou trois travailleurs doivent être formés pour donner les soins de premier secours.

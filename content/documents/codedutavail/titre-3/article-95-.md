@@ -1,0 +1,2 @@
+L’établissement s’entend d’un groupe de personnes travaillant en commun de façon habituelle en un même lieu tel que usine, chantier, local, point de rassemblement, sous une même autorité directrice.
+L’entreprise s’entend de toute organisation quelle qu’en soit la forme juridique, propriété individuelle ou propriété collective ayant une activité de production, distribution ou fourniture de biens ou services. Une entreprise peut donc comporter un seul établissement avec lequel elle se confond ou plusieurs établissements distincts les uns des autres.

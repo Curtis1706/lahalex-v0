@@ -1,0 +1,1 @@
+l'agent et l’institution publique concernés facilitent l’enquête de la Haute Autorité de l’Audiovisuel et de la Communication en mettant à sa disposition toutes les informations demandées.

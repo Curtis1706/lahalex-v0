@@ -6,5 +6,5 @@ Pour être autorisée, une télévision privée commerciale diffusant des émiss
 - conclure, avec des personnes physiques ou morales installées en République du Bénin ou à l’étranger, des accords de coproduction ou des contrats de prestation extérieure représentant au moins cinq pour cent (5%) de sa programmation.
 - La Haute Autorité de l’Audiovisuel et de la Communication peut fixer un pourcentage supérieur ;
 - compter parmi les membres de son personnel au moins cinquante pour cent (50%) de Béninois ;
-- présenter à la Haute Autorité de l’Audiovisuel et de la Communication un rapport annuel d’activités déposé au plus tard à la fin du premier trimestre de l’année suivante ;
+- présenter à la Haute Autorité de l’Audiovisuel et de la Communication un rapport annuel d’activités déposé au plus tard à la fin du 1 trimestre de l’année suivante ;
 - s’engager à respecter les dispositions de la présente loi.

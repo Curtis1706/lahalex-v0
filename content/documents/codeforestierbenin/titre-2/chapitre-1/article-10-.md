@@ -1,4 +1,1 @@
-Tout terrain sur lequel est réalisée une forêt
-artifi­cielle par l'Etat en dehors du domaine classé est incorporé audit
-domaine. S'il n'avait pas fait l'objet ultérieurement d'un texte de
-classement, l'acte d'incorporation porte classement dudit domaine.
+Tout terrain sur lequel est réalisée une forêt artificielle par l'Etat en dehors du domaine classé est incorporé audit domaine. S'il n’avait pas fait l'objet ultérieurement d'un texte de classement, l'acte d'incorporation porte classement dudit domaine.

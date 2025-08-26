@@ -1,0 +1,2 @@
+Le procès-verbal de non conciliation signé des parties, sauf défaillance de ces dernières, est transmis au président du tribunal du travail compétent dans un délai de quinze jours à compter de la date de la non-conciliation.
+Le tribunal compétent est celui du lieu du travail. Toutefois, pour les litiges nés de la résiliation du contrat de travail le travailleur, dont la résidence habituelle est située en République du Bénin en un lieu autre que le lieu du travail, aura le choix entre le tribunal de sa résidence et celui de son lieu de travail

@@ -1,0 +1,2 @@
+La protection de la propriété privée des biens est garantie par les lois et règlements en vigueur en République du Bénin.
+Cette protection s’étend à tous les aspects juridiques et commerciaux de la propriété, à ses éléments et démembrements, à sa transmission et aux contrats dont ils font l’objet. Les actifs mobiliers ou immobiliers détenus en République du Bénin par l’investisseur ne peuvent faire l’objet de mesures d’expropriation ou de nationalisation que dans le strict respect de la législation en vigueur en République du Bénin.

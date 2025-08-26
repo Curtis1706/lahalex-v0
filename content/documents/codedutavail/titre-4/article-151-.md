@@ -1,0 +1,1 @@
+Les conventions et accords de modulation ne portant que sur les heures normales de travail ne font pas obstacle à la pratique combinée des heures de récupération, des heures supplémentaires et des heures d’équivalence.

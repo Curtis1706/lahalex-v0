@@ -1,0 +1,2 @@
+Dans le même cas, le travailleur logé par l’employeur avant la mise en liquidation judiciaire ou la faillite, continue à bénéficier de cette prestation dans les limites de l’article 211 ci-dessus.
+L’assistance judiciaire lui sera acquise d’office pour toute demande d’autorisation de saisie-arrêt qu’il jugerait opportun de présenter devant le tribunal compétent.

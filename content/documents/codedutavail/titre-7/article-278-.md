@@ -1,0 +1,1 @@
+Tout chef d’entreprise, d’établissement ou tout autre employeur dispose de la faculté de recruter directement la main-d’œuvre nationale ou de recourir aux services compétents du ministère chargé du travail.

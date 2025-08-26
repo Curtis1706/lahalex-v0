@@ -1,0 +1,10 @@
+CLAUSE DE CONSCIENCE
+L’employeur s’engage à respecter la clause de conscience, à ne pas confier au journaliste, assimilé ou technicien, un travail incompatible avec sa dignité d’homme ou avec les exigences de sa conscience.
+Le journaliste ou assimilé ne peut être contraint d’accomplir un acte professionnel, de diffuser des informations qui seraient contraires à la réalité, ou d’exprimer une opinion qui serait contraire à son intime conviction.
+Le journaliste assigné à un travail de caractère publicitaire ou de publicité rédactionnelle est rétribué suivant un accord particulier.
+L’employeur ne peut exiger d’un journaliste ou assimilé un travail de publicité rédactionnelle signé.
+En aucun cas, un journaliste ou assimilé ne peut faire sous sa signature l’éloge d’un produit ou d’une structure à laquelle il est directement ou indirectement lié.
+L’employeur, à l’instar de la ligne éditoriale qu’il doit faire connaître au personnel, s’engage à respecter la fonction première de la presse qui est d’informer correctement et de véhiculer sans distorsion les divers courants de la nation.
+Lorsque l’organe de presse ou de communication qui emploie le journaliste, assimilé ou technicien de l’audiovisuel change de ligne éditoriale, celui-ci, s’il se trouve en désaccord de fond avec la nouvelle orientation, peut constater la rupture du contrat de travail du fait de l’employeur en invoquant la clause de conscience. Dans ce cas, le travailleur perçoit une indemnité de rupture de contrat égale à l’indemnité à laquelle il aurait pu prétendre en cas de licenciement individuel.
+A cet égard, obligation est faite à l’employeur ainsi qu’au journaliste et assimilé, de respecter la rigueur dans la relation des faits ainsi que la liberté de l’information et du commentaire, ces deux fonctions étant distinctes.
+En cas de différend, les parties doivent saisir la commission paritaire d’arbitrage et d’interprétation prévue à larticle 50 de la présente convention collective.

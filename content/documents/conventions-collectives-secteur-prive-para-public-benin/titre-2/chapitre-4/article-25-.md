@@ -1,0 +1,5 @@
+Accident du travail et maladie professionnelle
+En cas d'accident de travail ou de maladie professionnelle dûment constatés, les délais prévus à l'article 22 ci-dessus sont prorogés jusqu'à la consolidation de la blessure ou la guérison de la maladie.
+Les avantages prévus à l'article 23 ci-dessus en matière d'indemnisation du travailleur malade s'appliquent également au travailleur victime d'un accident de travail ou d'une maladie professionnelle.
+Dans ce cas, l'employeur alloue à l'intéressé la différence entre les avantages prévus à l'article 23 et les allocations qui sont dues au travailleur par la Sécurité Sociale en vertu de la réglementation sur les accidents de travail.
+Les dispositions de l'article 24 de la présente convention s'appliquent également aux travailleurs victimes d'un accident de travail ou d'une maladie professionnelle après la consolidation de la blessure ou la guérison de la maladie.

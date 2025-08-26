@@ -1,1 +1,0 @@
-Article 12 : Sans préjudice de la politique de promotion de l’entreprenariat national, les personnes morales de nationalité étrangère ne reçoivent pas un traitement moins favorable que celui accordé aux personnes morales de nationalité béninoise.

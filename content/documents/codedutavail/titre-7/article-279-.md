@@ -1,0 +1,2 @@
+Tout chef d’établissement ou d’entreprise peut recruter librement son personnel.
+Toutefois, il est tenu de faire connaître aux services compétents du ministère chargé du travail les pos- tes de travail pour lesquels le recrutement a été opéré. Il est également tenu de déclarer son existence et les travailleurs à la caisse de sécurité sociale.

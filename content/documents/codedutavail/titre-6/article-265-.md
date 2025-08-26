@@ -1,0 +1,1 @@
+En dehors des points spécifiés au présent code, le déroulement de la procédure s’effectue comme il est prévu au code de procédure civile.

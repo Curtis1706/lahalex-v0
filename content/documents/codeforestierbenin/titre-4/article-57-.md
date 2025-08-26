@@ -1,4 +1,1 @@
-Les infractions aux dispositions de la récente Loi sont
-de la compétence des Tribunaux de simple police, à l'exemption de
-celles prévues par les articles 44, 60, 62, 64, 67 et 72 qui seront
-déférées devant les tribunaux correctionnels.
+Les infractions aux dispositions de la récente Loi sont de la compétence des Tribunaux de simple police, à l'exemption de celles prévues par les articles 44, 60, 62, 64, 67 et 72 qui seront déférées devant les tribunaux correctionnels.

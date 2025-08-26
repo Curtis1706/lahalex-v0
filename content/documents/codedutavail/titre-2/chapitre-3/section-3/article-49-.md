@@ -1,0 +1,2 @@
+Si, à l’expiration des délais et formalités prévus à l’article précédent, l’employeur décide de licencier, il doit notifier par écrit sa décision à chaque salarié concerné. La lettre de licenciement comporte toutes les mentions visées à l’article 46 du présent code.
+L’employeur informe l’inspecteur du travail des licenciements économiques qu’il a prononcés et des observations des délégués du personnel.

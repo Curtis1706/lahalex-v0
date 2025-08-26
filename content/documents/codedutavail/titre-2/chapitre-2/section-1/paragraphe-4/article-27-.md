@@ -1,0 +1,1 @@
+Le visa du contrat du travailleur étranger ou immigrant est subordonné à la présentation d’un permis de travail délivré par le ministre chargé du travail.

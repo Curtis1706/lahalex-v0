@@ -1,0 +1,4 @@
+Sans préjudice des dispositions spéciales prises dans le cadre de l’hygiène et de la prévention de certaines maladies professionnelles ou dans ce- lui de la protection de certaines catégories de travailleurs, tout salarié doit faire l’objet d’un examen médical avant la mise au travail ou au plus tard dans les huit jours qui suivent son embauche :
+c’est la visite médicale d’embauche.
+La visite systématique annuelle pour l’ensemble des travailleurs, toutes catégories confondues, est obligatoire.
+Des arrêtés du ministre du travail fixent les conditions dans lesquelles sont effectuées les visites médicales d’embauchage, les visites périodiques, les visites de reprise du travail et les visites systématiques annuelles.

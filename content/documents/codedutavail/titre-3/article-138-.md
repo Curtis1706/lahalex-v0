@@ -1,0 +1,1 @@
+L’inspecteur du travail délivre un visa dans le délai d’un mois, mais peut, à tout moment, exiger le retrait ou la modification des dispositions contraires aux lois et règlements en vigueur.

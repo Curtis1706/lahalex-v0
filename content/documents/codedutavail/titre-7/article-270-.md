@@ -1,0 +1,1 @@
+Les administrateurs, inspecteurs et contrôleurs du travail ou leurs préposés ne peuvent avoir un intérêt quelconque direct ou indirect dans les entreprises placées sous leur contrôle.

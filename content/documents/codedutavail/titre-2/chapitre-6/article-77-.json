@@ -1,0 +1,15 @@
+{
+  "id": "article-77-",
+  "title": "Article 77 :",
+  "numero": "77 ",
+  "document": "codedutavail",
+  "path": [
+    "titre-2",
+    "chapitre-6"
+  ],
+  "navigation": {
+    "parent": "chapitre-6",
+    "previous": "article-76-",
+    "next": "article-78-"
+  }
+}

@@ -1,0 +1,2 @@
+Les parties sont tenues de se rendre au jour et à l’heure fixés devant le tribunal. Elles peuvent se faire assister ou représenter soit par un travailleur ou un employeur appartenant à la même branche d’activités, soit par un avocat de leur choix ou toute personne habilitée par la loi.
+Sauf en ce qui concerne les avocats, le mandataire doit être porteur d’une procuration.

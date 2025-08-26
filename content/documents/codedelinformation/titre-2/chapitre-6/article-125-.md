@@ -1,2 +1,0 @@
-Lorsque la personne nommément visée par l’information, l’imputation, la publication ou la diffusion est décédée, incapable ou empêchée pour cause légitime, la réponse peut être faite en ses lieu et place par son représentant légal ou dans l’ordre de priorité, par les héritiers en ligne directe, les légataires universels ou le conjoint, ses ascendants ou collatéraux au premier degré.
-Les personnes morales exercent leur droit de réponse par l’intermédiaire de leur représentant légal.

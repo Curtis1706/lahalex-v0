@@ -1,0 +1,1 @@
+Les textes législatifs particuliers accordant le bénéfice de l’action directe ou certains privilèges spéciaux en faveur de certaines catégories de travailleurs s’appliquent à la créance de salaire.

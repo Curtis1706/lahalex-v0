@@ -1,0 +1,6 @@
+Rupture du contrat du travailleur malade
+Si à l'expiration des délais pour congé de maladie prévus à l'article 22 de la présente convention, le travailleur dont le contrat de travail a été suspendu pour cause de maladie, se trouve dans l'incapacité de reprendre son travail, l'employeur peut le remplacer définitivement après lui avoir notifié par lettre recommandée qu'il prend acte de la rupture du contrat de travail.
+Dans tous les cas, la rupture du contrat de travail pour cause de maladie ouvre droit, au profit du travailleur ayant au moins un an de service, à une indemnité dont le montant est égal à celui de l'indemnité de licenciement sans que celui-ci puisse être inférieur à un mois de salaire.
+Le travailleur qui n'a pas un an d'ancienneté perçoit une indemnité égale à un mois de salaire.
+Cette indemnité ne saurait être cumulée avec les indemnités qui seraient accordées au travailleur dans l'hypothèse où la rupture du contrat de travail pour cause de maladie serait assimilée dans ses effets au licenciement du fait de l'employeur.
+Le travailleur remplacé dans les conditions indiquées au premier alinéa du présent article, conserve pendant un délai de deux ans, un droit de priorité au réembauchage s'il présente les conditions d'aptitude physique ou mentales requises, attestées par un médecin agréé.

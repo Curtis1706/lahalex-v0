@@ -1,0 +1,1 @@
+La commission nationale paritaire des conventions collectives et des salaires est présidée par le ministre chargé du travail ou son représentant. Elle est composée en nombre égal des représentants des organisations syndicales nationales de travailleurs et d’employeurs les plus représentatives.

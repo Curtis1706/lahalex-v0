@@ -1,0 +1,4 @@
+Suspension du contrat de travail pendant détention préventive
+La détention préventive constitue une cause de suspension du contrat de travail lorsqu'elle est connue de l'employeur.
+Pendant cette période, le travailleur n'a droit à aucun salaire.
+Lorsque la détention débouche sur un non-lieu ou une décision de relaxe, l'employeur doit verser au travailleur, une allocation équivalente au moins au salaire correspondant à la période de détention si elle est intervenue du fait du chef d'entreprise ou d'établissement. Le travailleur est repris dans son emploi et la période de détention est prise en compte pour l'évaluation de l'ancienneté.

@@ -1,0 +1,2 @@
+MAINTIEN DES AVANTAGES ACQUIS
+La présente Convention ne peut entraîner la réduction des avantages de toute nature, individuels ou collectifs, acquis antérieurement à sa signature. Les avantages reconnus par la présente Convention ne peuvent, en aucun cas s’interpréter comme s’ajoutant à ceux déjà accordés pour le même objet dans certaines entreprises.

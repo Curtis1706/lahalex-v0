@@ -1,0 +1,1 @@
+L’octroi d’une indemnité compensatrice en lieu et place du congé en dehors du cas visé à l’article précédent est formellement interdit.

@@ -1,0 +1,2 @@
+La créance de salaire bénéficie d’un privilège préférable à tous les autres privilèges généraux ou spéciaux en ce qui concerne la fraction insaisissable dudit salaire.
+Le privilège s’étend aux diverses indemnités et dommages et intérêts liés à la rupture du contrat de travail.

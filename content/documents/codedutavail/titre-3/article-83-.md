@@ -1,0 +1,5 @@
+L’existence légale des syndicats est subordonnée au dépôt de leurs statuts auprès des autorités suivantes avec l’indication des noms, nationalité, profession, domicile et qualité des membres chargés de leur direction ou de leur administration :
+un exemplaire au greffe du tribunal de première instance, deux exemplaires au ministère de l’intérieur, deux exemplaires au ministère chargé du travail, et un exemplaire à l’autorité administrative du ressort. Toutes modifications statutaires intervenues dans les statuts ou dans la direction du syndicat sont soumises aux mêmes formalités.
+Les dépôts doivent s’effectuer dans les trois mois à compter de l’événement y donnant lieu, un récépissé est délivré dans un délai d’un mois.
+Le caractère représentatif des organisations syndicales est déterminé par les résultats des élections professionnelles.
+Le classement des organisations syndicales issu des résultats des élections professionnelles est constaté par arrêté du ministre chargé du travail.

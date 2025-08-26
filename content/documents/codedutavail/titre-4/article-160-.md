@@ -1,0 +1,2 @@
+Le droit de jouissance au congé est acquis après une période minimale de service effectif égale à un an appelé période de référence.
+Toutefois, les conventions et accords collectifs ou les contrats individuels de travail allouant un congé d’une durée supérieure à celle fixée à l’article 158 peuvent prévoir, pour le supplément de congé qu’ils accordent, une durée plus longue de service effectif sans que cette dernière puisse excéder deux ans.

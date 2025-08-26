@@ -1,0 +1,1 @@
+Le travail exécuté pendant la période d’essai doit être payé au taux de la catégorie dans laquelle a été engagé le travailleur, conformément aux classifications professionnelles de la convention ou de l’accord collectif applicable à l’entreprise.

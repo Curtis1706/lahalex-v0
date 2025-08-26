@@ -1,0 +1,2 @@
+Les sentences arbitrales qui ont acquis force exécutoire peuvent faire l’objet d’un recours pour excès de pouvoir ou violation de la loi. Ce recours est introduit devant la cour suprême et jugé dans les délais, formes et conditions des pouvoirs en cassation en matière civile.
+Les procédures de conciliation et d’arbitrage sont gratuites.

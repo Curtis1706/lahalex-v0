@@ -1,0 +1,5 @@
+FORME ET DUREE DU CONTRAT
+L’engagement individuel des travailleurs a lieu, soit verbalement soit par écrit, conformément aux dispositions légales en vigueur.
+Sauf dispositions contraires stipulées par écrit, le contrat est réputé à durée indéterminée.
+L’employé congédié par suite de suppression d’emploi ou de compression du personnel conserve pendant deux (02) ans la priorité d’embauchage dans la même catégorie d’emploi. L’employé jouit de cette disposition au cours de la troisième année. Toutefois, durant cette dernière période, le réembauchage peut être subordonné à un essai professionnel de quinze (15) jours calendaires.
+En cas de vacance de poste, l’employeur avise l’intéressé par lettre recommandée avec accusé de réception envoyée à la dernière adresse connue. Le travailleur doit se présenter dans l’entreprise dans un délai maximum de huit (08) jours ouvrables après la réception de la lettre.

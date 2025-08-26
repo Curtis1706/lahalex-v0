@@ -1,0 +1,1 @@
+Les institutions et procédures existantes, en application des règlements antérieurement en vigueur en matière de travail, demeurent en vigueur jusqu’à la mise en place des institutions et procédures prévues par le présent code.

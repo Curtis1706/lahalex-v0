@@ -1,0 +1,3 @@
+Un comité d’hygiène et de sécurité est obligatoirement créé dans tout établissement ou entreprise assujetti au présent code.
+Les comités d’hygiène et de sécurité sont obligatoires dans tous les établissements occupant habituellement au moins trente salariés, temporaires et occasionnels compris.
+L’inspecteur du travail peut, en fonction de la na- ture des travaux et des risques particuliers auxquels sont exposés les travailleurs, imposer à l’employeur, la création d’un comité d’hygiène et de sécurité dans tout établissement, entreprise ou chantier même si leur effectif est inférieur à celui prévu ci-dessus.

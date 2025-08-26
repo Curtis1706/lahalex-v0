@@ -1,2 +1,1 @@
-Le siège de la Cour des comptes est fixé à Porto-Novo.
-Toutefois, en cas de nécessité, les activités de la Cour peuvent être transférées dans toute autre localité du territoire national, sur ordonnance du président, le bureau entendu.
+Le président de la Cour constitutionnelle est assisté d'un vice-président élu par ses pairs à la majorité absolue des membres présents et votants.

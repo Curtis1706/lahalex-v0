@@ -1,0 +1,1 @@
+Les jours chômés et payés sont déterminés par une loi spécifique.

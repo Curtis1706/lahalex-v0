@@ -1,0 +1,1 @@
+La cour suprême connaît des recours en cassation contre les jugements rendus en dernier ressort dans les formes et conditions fixées par le code de procédure civile, mais sans qu’une consignation puisse être exigée.

@@ -1,0 +1,2 @@
+SÉCURITÉ SOCIALE – ALLOCATIONS FAMILIALES
+L’employeur doit obligatoirement s’affilier à l’Office Béninois de Sécurité Sociale pour permettre aux travailleurs de bénéficier des avantages découlant de cette affiliation. Toutefois, les travailleurs qui se trouvent placés sous un régime plus favorable continuent à en bénéficier à titre personnel.

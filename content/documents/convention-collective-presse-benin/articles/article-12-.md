@@ -1,0 +1,2 @@
+MODIFICATIONS AUX CLAUSES DU CONTRAT
+Toute modification de caractère individuel ayant trait à l’un des éléments du contrat de travail doit, au préalable, faire l’objet d’une notification écrite au travailleur.

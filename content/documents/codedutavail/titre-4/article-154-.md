@@ -1,0 +1,2 @@
+Les heures pendant lesquelles le travail est considéré comme travail de nuit se situent dans la période comprise entre 21 heures et 05 heures.
+Toutefois, les heures de commencement et de fin de nuit peuvent varier selon les saisons.

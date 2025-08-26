@@ -1,0 +1,3 @@
+La sentence arbitrale est notifiée immédiatement aux parties par le président du conseil d’arbitrage.
+Si à l’expiration d’un délai de quatre jours à compter de la notification, aucune des parties n’a manifesté son opposition, la sentence acquiert force exécutoire dans les conditions fixées à l’article 261 du présent code.
+L’opposition est formée, à peine de nullité, par lettre recommandée avec accusé de réception adressée au président du conseil d’arbitrage.

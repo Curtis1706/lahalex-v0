@@ -1,0 +1,3 @@
+Pour l’exercice de ses attributions, chaque délégué du personnel titulaire dispose, sauf circonstances exceptionnelles justifiant le dépasse- ment ou conventions et accords collectifs prévoyant un crédit supérieur, de quinze heures par mois prises sur le temps de travail et rémunérées au taux normal.
+Pendant les heures de délégation, les délégués du personnel peuvent circuler librement dans l’entreprise sous réserve des règles de sécurité ou se déplacer à l’extérieur de l’entreprise dans le cadre de leur mission.
+Le temps passé à la réunion mensuelle, ou à toute autre réunion dont le chef d’établissement ou son représentant prend ou doit prendre l’initiative, est payé comme temps de travail mais n’est pas imputable sur le crédit d’heures de délégation.

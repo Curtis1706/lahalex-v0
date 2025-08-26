@@ -1,0 +1,1 @@
+Le règlement intérieur fixe la date à partir de laquelle il entre en vigueur. Cette date doit être postérieure d’au moins deux mois à la date du dépôt auprès de l’inspecteur du travail.

@@ -1,0 +1,1 @@
+Les conditions d’organisation et de fonctionnement du conseil national du travail sont fixées par décret pris en conseil des ministres.

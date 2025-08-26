@@ -1,0 +1,3 @@
+DÉLÉGUÉS DU PERSONNEL
+Des délégués du personnel sont obligatoirement élus par établissement dans les conditions fixées par la loi et les règlements en vigueur. Leurs attributions sont celles prévues par ces mêmes textes.
+Toutefois, lorsque plusieurs établissements d’une même entreprise situés dans un même localité et dans un rayon maximum de 20 kilomètres, ne comportent pas, pris séparément, le nombre réglementaire de travailleurs imposant des élections de délégués du personnel, les effectifs de ces établissements seront totalisés en vue de la constitution d’un collège électoral, qui élira son ou ses délégués.

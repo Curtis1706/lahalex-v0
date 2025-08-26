@@ -1,0 +1,6 @@
+Horaires de travail
+Les jours et heures de travail sont fixés par le Chef d'Entreprise ou d'Etablissement dans le cadre des dispositions législatives et réglementaires en vigueur et compte tenu des particularités de la profession.
+Toute modification aux horaires normaux de travail donne lieu à une consultation préalable des délégués du personnel et est transmise à l'inspection du travail du ressort.
+Pour tenir compte du caractère intermittent de certains travaux (heures creuses, coupures, etc) une durée effective de travail plus longue que la durée légale peut être considérée comme équivalente à la durée légale et payée sans majoration. Ces équivalences sont définies pour chaque profession par la réglementation en vigueur.
+Les heures de travail autorisées au-delà de la durée légale et non effectuées ne donnent pas lieu à récupération. Seules sont susceptibles d'être récupérées les heures perdues dans la limite de la durée légale du travail.
+Les heures supplémentaires autorisées ainsi que les heures de récupération ont le même caractère obligatoire que les heures légales de travail.

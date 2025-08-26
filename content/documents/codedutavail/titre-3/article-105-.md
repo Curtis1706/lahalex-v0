@@ -1,0 +1,2 @@
+L’inspecteur du travail, informé des élections dans les conditions prévues à l’article 103, peut, à tout moment, intervenir pour en surveiller les préparatifs et le bon déroulement. Il peut assis- ter à la rédaction du procès-verbal qui en rapporte les résultats :
+il en est attributaire d’une copie.

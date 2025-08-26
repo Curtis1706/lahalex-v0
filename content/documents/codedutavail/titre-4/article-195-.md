@@ -1,0 +1,5 @@
+Ce service est assuré par des médecins recrutés en priorité parmi les praticiens diplômés de médecine de travail et qui sont assistés d’un personnel paramédical qualifié.
+A cet effet, les uns et les autres doivent avoir fait au préalable l’objet d’une décision d’agrément du ministre chargé du travail, prise après avis du ministre chargé de la santé.
+Selon l’importance et la nature des entreprises, leur situation géographique, l’infrastructure médicale existante, le service de santé au travail est organisé :
+1. soit sous la forme d’un service autonome propre à une seule entreprise, ou d’un service interentreprises commun à plusieurs d’entre el- les :
+2. soit sur les bases d’une convention passée avec un établissement hospitalier public ou privé. Dans ce cas, l’établissement doit justifier en son sein d’un service de santé au travail bénéficiant du personnel et de l’équipement requis et ayant les attributions d’un service de santé au travail telles que décrites à l’article 194 ci-dessus.

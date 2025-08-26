@@ -1,0 +1,1 @@
+Le service social a pour mission, par une action sur les lieux mêmes du travail, de suivre et de faciliter la vie personnelle des travailleurs et notamment de ceux qui souffrent d’un handicap social durable ou temporaire. Il est assuré par un conseiller ou une conseillère social(e) d’entreprise.

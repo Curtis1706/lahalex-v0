@@ -1,0 +1,2 @@
+Mutation des femmes travailleuses en état de grossesse
+Les femmes travailleuses en état de grossesse peuvent être mutées à un autre poste en raison de leur état. Elles conservent le bénéfice de leur salaire et de tous autres avantages pendant la durée de leur mutation même si le poste tenu est inférieur à l'emploi occupé habituellement.

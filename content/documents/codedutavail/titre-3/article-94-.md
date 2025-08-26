@@ -1,0 +1,3 @@
+Les délégués du personnel doivent être mis en place dans les entreprises occupant au moins onze salariés ou dans les établissements distincts sous la même condition d’effectif.
+L’effectif à prendre en considération s’entend du nombre moyen, compte tenu des éventuelles variations saisonnières, des salariés et apprentis, quel que soit la nature de leur contrat ou leur mode de rémunération.
+L’initiative et l’organisation matérielle des élections incombent à l’employeur. Tant qu’une entre- prise qui emploie l’effectif requis ne dispose pas de délégués du personnel, l’employeur doit, tous les douze mois, prendre l’initiative d’organiser des élections.

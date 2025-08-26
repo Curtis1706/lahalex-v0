@@ -1,3 +1,3 @@
 Toute personne a droit à l’information.
-L’Etat s’oblige, à travers ses différentes structures et institutions, à garantir à toute personne, l’accès aux sources d’informations notamment publiques.
+l'Etat s’oblige, à travers ses différentes structures et institutions, à garantir à toute personne, l’accès aux sources d’informations notamment publiques.
 Les services de l’Etat chargés de cette mission s’engagent par conséquent à fournir tout renseignement, à communiquer tout document et à veiller à faire constituer, au besoin, un dossier de presse à mettre à la disposition des professionnels sur tout sujet intéressant légitimement le public.

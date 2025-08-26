@@ -1,0 +1,3 @@
+Le mandat de délégué de personnel ne fait pas obstacle à l’échéance du terme dans le contrat à durée déterminée. Toutefois, si le contrat est renouvelable et si cette possibilité a été prévue dans le contrat initial, l’employeur qui n’entend pas le renouveler doit procéder comme s’il s’agissait d’un licenciement.
+Il en est de même de l’employeur qui entend mettre fin au contrat avant le terme prévu sur la base des prévisions des points 2 et 3 de l’article 42 du présent code.
+L’ensemble de ces dispositions bénéficie également aux personnes visées à l’alinéa 2 de l’article 115.

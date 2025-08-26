@@ -1,3 +1,0 @@
-L’agent ou le responsable public donne à la personne qui lui a fait une demande écrite, un avis de la date de réception de sa demande, sous peine d’être déchu du droit d’invoquer un délai insuffisant devant la Haute Autorité de l’Audiovisuel et de la Communication et les juridictions.
-L’avis peut consister à écrire sur une copie de la demande, les date et heure de dépôt avec les nom, prénoms, qualité et signature de l’agent qui a reçu la demande.
-Le requérant peut déposer copie de sa demande auprès de la Haute Autorité de l’Audiovisuel et de la Communication.

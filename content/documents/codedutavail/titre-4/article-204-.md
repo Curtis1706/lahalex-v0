@@ -1,0 +1,1 @@
+Le conseiller ou la conseillère social(e) d’entreprise doit consacrer une demi-journée par semaine par groupe entier de 100 salariés d’une même entreprise. Pour cela, un bureau doit être tenu à sa disposition, les jours et heures de permanence devant être affichés sur la porte.

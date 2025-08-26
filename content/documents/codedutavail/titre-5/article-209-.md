@@ -1,0 +1,1 @@
+Le salaire étant la contrepartie du travail fourni, aucun salaire n’est dû en cas d’absence, sauf dans les cas prévus par la réglementation, les conventions et accords collectifs et le contrat individuel de travail.

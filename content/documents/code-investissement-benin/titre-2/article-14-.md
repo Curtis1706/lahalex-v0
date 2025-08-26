@@ -1,2 +1,0 @@
-Article 14 : Conformément aux accords et traités Internationaux auxquels il est partie, l’Etat protège les droits de propriété intellectuelle, notamment les brevets, marques et noms commerciaux.
-La propriété privée, individuelle ou collective est protégée en tous ses aspects, ses éléments et ses démembrements, sa transmission et les contrats dont elle fait l’objet, conformément aux dispositions réglementaires en vigueur.

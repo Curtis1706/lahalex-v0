@@ -54,3 +54,5 @@ async function addExampleTerm() {
 // Exécuter le script
 addExampleTerm();
 
+
+

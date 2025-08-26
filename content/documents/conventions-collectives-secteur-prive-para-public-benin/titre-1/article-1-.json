@@ -1,0 +1,13 @@
+{
+  "id": "article-1-",
+  "title": "Article 1 : Objet et champ d'application",
+  "numero": "1 ",
+  "document": "conventions-collectives-secteur-prive-para-public-benin",
+  "path": [
+    "titre-1"
+  ],
+  "navigation": {
+    "parent": "titre-1",
+    "next": "article-2-"
+  }
+}

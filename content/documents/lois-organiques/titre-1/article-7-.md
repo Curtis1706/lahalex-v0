@@ -1,0 +1,3 @@
+Avant d'entrer en fonction, les membres de la Cour constitutionnelle prêtent serment devant le bureau de l'Assemblée nationale et le président de la République en ces termes :
+« Je jure de bien et fidèlement remplir mes fonctions, de les exercer en toute impartialité dans le respect de la Constitution, de garder le secret des délibérations et des votes, de ne prendre aucune position publique, de ne donner aucune consultation sur les questions relevant de la compétence de la Cour ».
+Acte est dressé de la prestation de serment.

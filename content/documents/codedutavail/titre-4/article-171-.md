@@ -1,0 +1,4 @@
+En dehors du cas de faute lourde non liée à la grossesse et du cas d’impossibilité dans lequel il se trouve de maintenir le contrat, aucun employeur ne peut licencier une femme en état de grossesse apparente ou médicalement constatée.
+Lorsque le licenciement est prononcé dans l’ignorance de la grossesse, la salariée dispose d’un délai de quinze jours pour justifier de son état. Le licenciement est alors annulé, sauf s’il est prononcé pour l’un des motifs prévus à l’alinéa ci-dessus.
+En tout état de cause, aucun employeur ne peut licencier une femme pendant les périodes de suspension prévues aux alinéas 2 et 3 de l’article 170.
+Ces mêmes périodes suspendent le déroulement du préavis résultant d’un éventuel licenciement antérieurement notifié.

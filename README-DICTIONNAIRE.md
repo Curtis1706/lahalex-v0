@@ -1,190 +1,204 @@
-# Dictionnaire Juridique LAHALEX
+# 📚 Dictionnaire Juridique LAHALEX
 
-## Vue d'ensemble
+Ce dictionnaire juridique permet de stocker, rechercher et gérer des termes juridiques avec leurs définitions, exemples et sources.
 
-Le dictionnaire juridique LAHALEX est un système complet de gestion et de consultation de termes juridiques, conçu pour aider les utilisateurs à comprendre les concepts juridiques du droit béninois et africain.
+## 🚀 Fonctionnalités
 
-## Fonctionnalités
+- **Recherche alphabétique** : Navigation par lettre de l'alphabet
+- **Recherche textuelle** : Recherche dans les termes et définitions
+- **Structure hiérarchique** : Organisation par catégories juridiques
+- **Persistance des données** : Sauvegarde automatique dans un fichier JSON
+- **API REST** : Endpoints pour créer, modifier, supprimer et rechercher des termes
 
-### 🔍 Recherche avancée
-- Recherche textuelle dans les termes, définitions et synonymes
-- Filtrage par catégorie juridique
-- Historique des recherches récentes
-- Résultats triés par pertinence
+## 🛠️ Installation et démarrage
 
-### 📚 Gestion des termes
-- Ajout, modification et suppression de termes
-- Catégorisation automatique
-- Gestion des synonymes et termes liés
-- Exemples d'utilisation
-- Sources légales référencées
+1. **Démarrer le serveur Next.js** :
+   ```bash
+   npm run dev
+   ```
 
-### 📁 Import/Export
-- Import depuis JSON, CSV, TXT ou MD
-- Export au format JSON
-- Validation automatique des données
-- Modèles d'import fournis
+2. **Accéder au dictionnaire** :
+   - URL : `http://localhost:3000/dictionnaire`
+   - Interface : Navigation alphabétique + recherche
 
-### 🎨 Interface utilisateur
-- Design responsive et moderne
-- Navigation intuitive
-- Catégories colorées
-- Recherche en temps réel
+## 📝 Ajout de nouveaux termes
 
-## Structure des données
+### Méthode 1 : Interface web
+- Aller sur `/admin/dictionnaire`
+- Utiliser l'interface d'administration pour ajouter des termes
 
-### Terme du dictionnaire
-```typescript
-interface DictionaryTerm {
-  id: string                    // Identifiant unique
-  term: string                  // Nom du terme (obligatoire)
-  definition: string            // Définition (obligatoire)
-  category?: string             // Catégorie juridique
-  synonyms?: string[]           // Synonymes
-  examples?: string[]           // Exemples d'utilisation
-  relatedTerms?: string[]       // Termes liés
-  source?: string               // Source légale
-  createdAt: string             // Date de création
-  updatedAt: string             // Date de modification
-}
+### Méthode 2 : Script interactif
+```bash
+node scripts/add-dictionary-term.js
+```
+Le script vous guidera pour saisir :
+- Terme juridique
+- Informations grammaticales
+- Définition
+- Catégorie
+- Synonymes
+- Exemples
+- Termes liés
+- Source
+
+### Méthode 3 : Import en masse
+```bash
+# Import des termes d'exemple
+node scripts/import-dictionary-terms.js
+
+# Import depuis un fichier JSON
+node scripts/import-dictionary-terms.js chemin/vers/termes.json
+
+# Import depuis un fichier CSV
+node scripts/import-dictionary-terms.js chemin/vers/termes.csv
 ```
 
-### Catégorie
-```typescript
-interface DictionaryCategory {
-  id: string                    // Identifiant unique
-  name: string                  // Nom de la catégorie
-  description?: string          // Description
-  color: string                 // Couleur d'affichage
-  termCount: number             // Nombre de termes
-}
-```
+## 📊 Structure des données
 
-## Utilisation
-
-### Pour les utilisateurs finaux
-
-1. **Accéder au dictionnaire** : Naviguez vers `/dictionnaire`
-2. **Rechercher un terme** : Utilisez la barre de recherche
-3. **Filtrer les résultats** : Utilisez les filtres par catégorie
-4. **Consulter un terme** : Cliquez sur un résultat pour voir les détails
-5. **Naviguer entre les termes** : Utilisez les liens vers les termes liés
-
-### Pour les administrateurs
-
-1. **Accéder à l'administration** : Naviguez vers `/admin/dictionnaire`
-2. **Gérer les termes** : Ajouter, modifier ou supprimer des termes
-3. **Importer des données** : Utilisez l'onglet Import/Export
-4. **Exporter les données** : Téléchargez le dictionnaire complet
-
-## Formats d'import supportés
-
-### JSON
+### Format JSON pour l'import
 ```json
 [
   {
     "term": "Acte authentique",
+    "grammaticalInfo": "locution nominale, masculin",
     "definition": "Document rédigé par un officier public...",
     "category": "droit-civil",
-    "synonyms": ["Document authentique", "Acte notarié"],
-    "examples": ["Le contrat de mariage doit être établi..."],
-    "source": "Code civil, article 1317"
+    "synonyms": ["Document officiel", "Acte notarié"],
+    "examples": ["Le contrat de vente immobilière..."],
+    "relatedTerms": ["Notaire", "Huissier", "Preuve"],
+    "source": "Code civil, article 1319"
   }
 ]
 ```
 
-### CSV
+### Format CSV pour l'import
 ```csv
-term,definition,category,synonyms,examples,source
-"Acte authentique","Document rédigé par un officier public...","droit-civil","Document authentique;Acte notarié","Le contrat de mariage doit être établi...","Code civil, article 1317"
+term,grammaticalInfo,definition,category,synonyms,examples,relatedTerms,source
+"Acte authentique","locution nominale, masculin","Document rédigé...","droit-civil","Document officiel;Acte notarié","Le contrat de vente...","Notaire;Huissier;Preuve","Code civil, article 1319"
 ```
 
-### TXT/MD
-```text
-Terme: Acte authentique
-Définition: Document rédigé par un officier public...
-Catégorie: droit-civil
-Synonymes: Document authentique, Acte notarié
-Exemples: Le contrat de mariage doit être établi...
-Source: Code civil, article 1317
+## 🔧 API Endpoints
 
-Terme: Bail commercial
-Définition: Contrat de location d'un local commercial...
+### GET `/api/dictionary/terms`
+Récupérer tous les termes ou filtrer
+- `?id=term-id` : Terme spécifique
+- `?category=droit-civil` : Par catégorie
+- `?search=mot-clé` : Recherche textuelle
+
+### POST `/api/dictionary/terms`
+Créer un nouveau terme
+
+### PUT `/api/dictionary/terms`
+Mettre à jour un terme existant
+
+### DELETE `/api/dictionary/terms?id=term-id`
+Supprimer un terme
+
+## 🧪 Tests et maintenance
+
+### Tester l'API de suppression
+```bash
+node scripts/test-delete-term.js
 ```
 
-## API Endpoints
+### Restaurer un terme supprimé par erreur
+```bash
+node scripts/restore-deleted-term.js
+```
 
-### Recherche
-- `GET /api/dictionary/search?query=...&category=...&limit=...`
+## 📁 Organisation des fichiers
 
-### Catégories
-- `GET /api/dictionary/categories`
+```
+data/
+├── dictionary-terms.json          # Stockage principal des termes
+└── example-term-format.md        # Format d'exemple
 
-### Gestion des termes
-- `GET /api/dictionary/terms` - Lister tous les termes
-- `POST /api/dictionary/terms` - Créer un terme
-- `PUT /api/dictionary/terms` - Modifier un terme
-- `DELETE /api/dictionary/terms?id=...` - Supprimer un terme
+scripts/
+├── add-dictionary-term.js        # Ajout interactif de termes
+├── import-dictionary-terms.js    # Import en masse
+├── add-example-term.js          # Ajout d'un terme d'exemple
+├── test-delete-term.js          # Test de l'API de suppression
+└── restore-deleted-term.js      # Restauration d'un terme supprimé
 
-## Installation et configuration
+app/
+├── dictionnaire/                 # Page principale du dictionnaire
+│   ├── page.tsx                 # Liste alphabétique
+│   └── [term]/page.tsx          # Définition d'un terme
+└── api/dictionary/               # API REST
+    └── terms/route.ts           # Gestion des termes
+```
 
-### Prérequis
-- Node.js 18+
-- Next.js 13+
-- Base de données (optionnel, stockage en mémoire par défaut)
+## 🎯 Catégories juridiques recommandées
 
-### Étapes d'installation
-1. Clonez le repository
-2. Installez les dépendances : `npm install`
-3. Lancez le serveur de développement : `npm run dev`
-4. Accédez à l'application : `http://localhost:3000`
+- `droit-civil` : Droit civil, contrats, responsabilité
+- `droit-pénal` : Droit pénal, infractions, procédure
+- `droit-commercial` : Droit des affaires, sociétés
+- `droit-administratif` : Droit public, administration
+- `droit-constitutionnel` : Constitution, institutions
+- `droit-du-travail` : Relations de travail, droit social
+- `droit-international` : Droit international public/privé
+- `droit-fiscal` : Fiscalité, impôts
+- `droit-immobilier` : Droit de la propriété, baux
+- `droit-financier` : Droit bancaire, marchés financiers
 
-### Configuration de la base de données
-Pour une utilisation en production, remplacez le stockage en mémoire par une vraie base de données :
+## 🔍 Recherche et navigation
 
-1. Configurez votre base de données (PostgreSQL, MySQL, MongoDB)
-2. Modifiez les fichiers API pour utiliser votre ORM/ODM
-3. Ajoutez les variables d'environnement nécessaires
+### Navigation alphabétique
+- Cliquer sur une lettre pour voir tous les termes commençant par cette lettre
+- Utiliser "Voir plus..." pour afficher tous les termes d'une lettre
+- Utiliser "Voir moins..." pour revenir à l'affichage limité
 
-## Personnalisation
+### Recherche textuelle
+- Barre de recherche dans la sidebar
+- Recherche dans : termes, définitions, synonymes, exemples
+- Recherche globale depuis le header principal
 
-### Ajouter de nouvelles catégories
-Modifiez le fichier `app/api/dictionary/categories/route.ts` pour ajouter de nouvelles catégories juridiques.
+## 💾 Persistance des données
 
-### Modifier le design
-Les composants utilisent Tailwind CSS. Modifiez les classes CSS dans les composants pour personnaliser l'apparence.
+- **Sauvegarde automatique** : Chaque modification est immédiatement sauvegardée
+- **Fichier JSON** : Stockage dans `data/dictionary-terms.json`
+- **Organisation par lettre** : Structure automatiquement maintenue
+- **Tri alphabétique** : Maintien de l'ordre alphabétique
 
-### Étendre les fonctionnalités
-Le système est modulaire. Vous pouvez facilement ajouter :
-- Système de favoris
-- Historique des consultations
-- Export vers d'autres formats
-- Intégration avec d'autres systèmes
+## 🚨 Résolution des problèmes
 
-## Support et maintenance
+### Les termes disparaissent au rechargement
+- ✅ **Résolu** : L'API charge maintenant depuis le fichier JSON
+- ✅ **Persistant** : Les données sont sauvegardées automatiquement
 
-### Logs
-Les erreurs sont loggées dans la console du serveur. Surveillez les logs pour détecter les problèmes.
+### La suppression des termes ne fonctionne pas
+- ✅ **Résolu** : URL de l'API corrigée dans l'interface d'administration
+- ✅ **Testé** : Script de test disponible pour vérifier l'API
+- ✅ **Sécurisé** : Confirmation demandée avant suppression
 
-### Sauvegarde
-Exportez régulièrement le dictionnaire via l'interface d'administration pour créer des sauvegardes.
+### Erreur lors de l'ajout de termes
+- Vérifier que le serveur Next.js est démarré
+- Vérifier le format des données (term et definition obligatoires)
+- Consulter les logs de la console
 
-### Mise à jour
-Le système est conçu pour être facilement mis à jour. Vérifiez régulièrement les nouvelles fonctionnalités et corrections de bugs.
+### Problème de performance avec beaucoup de termes
+- La pagination est gérée côté client (20 termes par défaut)
+- Utiliser "Voir plus..." pour afficher tous les termes
+- La recherche est optimisée pour de grandes quantités de données
 
-## Contribution
+## 🔮 Améliorations futures
 
-Pour contribuer au développement du dictionnaire :
+- [ ] Interface d'administration avancée
+- [ ] Export des données (PDF, Word)
+- [ ] Historique des modifications
+- [ ] Système de tags et étiquettes
+- [ ] Intégration avec d'autres modules LAHALEX
+- [ ] API de recherche avancée
+- [ ] Système de suggestions automatiques
 
-1. Forkez le repository
-2. Créez une branche pour votre fonctionnalité
-3. Développez et testez votre code
-4. Soumettez une pull request
+## 📞 Support
 
-## Licence
+Pour toute question ou problème :
+1. Vérifier ce README
+2. Consulter les logs de la console
+3. Vérifier la structure des fichiers JSON
+4. Tester avec les scripts d'exemple
 
-Ce projet est sous licence [votre licence]. Voir le fichier LICENSE pour plus de détails.
+---
 
-## Contact
-
-Pour toute question ou suggestion concernant le dictionnaire juridique LAHALEX, contactez l'équipe de développement.
+**Développé pour LAHALEX** - Plateforme juridique complète

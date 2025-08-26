@@ -1,0 +1,2 @@
+Les jeunes travailleurs âgés de 14 à 21 ans ont les mêmes droits que les travailleurs de leur catégorie professionnelle. Les jeunes travailleurs ne peuvent en aucun cas subir des abattements de salaires ou déclassements professionnels du fait de leur âge.
+L’employeur tient un registre de toutes les personnes de moins de 18 ans employées dans son entreprise, avec pour chacune d’elles, l’indication de sa date de naissance.

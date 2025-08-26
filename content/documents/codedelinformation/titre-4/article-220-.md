@@ -1,4 +1,4 @@
-L’octroi d’une licence d’exploitation est subordonné à la signature d’une convention avec la Haute Autorité de l’Audiovisuel et de la Communication.
+l'octroi d’une licence d’exploitation est subordonné à la signature d’une convention avec la Haute Autorité de l’Audiovisuel et de la Communication.
 La convention fixe les règles particulières applicables au service, compte tenu de l’étendue de la zone desservie et du respect de l’égalité de traitement entre les différents services.
 La convention porte notamment, sur la durée de la concession, les caractéristiques générales du programme propre, le temps maximum consacré à la publicité, aux émissions parrainées, ainsi que les modalités de leur insertion dans les programmes, la diffusion de programmes éducatifs et culturels ainsi que d’émissions destinées à faire connaître les différentes formes d’expression culturelle et artistique de la République du Bénin.
 Toutes les informations relatives à la licence d’exploitation ainsi que les conditions et délais de réalisation du projet y figurent également.

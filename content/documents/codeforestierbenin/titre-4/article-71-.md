@@ -1,8 +1,1 @@
-Les membres des Organes Locaux du Pouvoir d'Etat à
-l'échelon du village ou du quartier de ville et les membres des comités
-locaux de lutte contre les feux de brousse peuvent être déclarés
-solidairement ou pécuniairement responsables des dommages occasionnés
-par les Feux de brousse délictuels ou criminels qui sont commis sur leur
-territoire ou dans une zone du domaine forestier réputée soumise à leur
-surveillance, à moins qu'il soit établi la preuve que l'infraction a été
-commise par un étranger à la collecti­vité.
+Les membres des Organes Locaux du Pouvoir d'Etat à l’échelon du village ou du quartier de ville et les membres des comités locaux de lutte contre les feux de brousse peuvent être déclarés solidairement ou pécuniairement responsables des dommages occasionnés par les Feux de brousse délictuels ou criminels qui sont commis sur leur territoire ou dans une zone du domaine forestier réputée soumise à leur surveillance, à moins qu’il soit établi la preuve que l’infraction a été commise par un étranger à la collectivité.

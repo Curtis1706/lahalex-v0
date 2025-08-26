@@ -1,0 +1,4 @@
+EFFET SUR LE CONTRAT ET INDEMNISATION
+En cas d’accident de travail ou de maladie professionnelle dûment constatés, les délais prévus à l’article 18 ci-dessus sont prorogés jusqu’à la consolidation de la blessure ou la guérison de la maladie.
+Les avantages prévus à l’article 19 ci avant en matière d’indemnisation du travailleur malade s’appliquent au travailleur victime d’un accident du travail ou d’une maladie professionnelle.
+Dans ce cas l’employeur alloue à l’intéressé la différence entre les avantages prévus à l’article 19 et les allocations qui sont dues au travailleur par la Sécurité Sociale en vertu de la réglementation sur les accidents du travail.

@@ -1,1 +1,1 @@
-L’exercice de la profession de colporteur, de vendeur ou de distributeur est organisé par voie réglementaire.
+l'exercice de la profession de colporteur, de vendeur ou de distributeur est organisé par voie réglementaire.

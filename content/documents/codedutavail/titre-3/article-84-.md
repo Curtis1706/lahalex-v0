@@ -1,0 +1,2 @@
+Les syndicats ne peuvent faire l’objet de suspension ou de dissolution administrative.
+En cas de dissolution volontaire, statutaire ou prononcée par décision de justice, les biens du syndicat sont dévolus conformément aux statuts ou, à défaut de dispositions statutaires, suivant les règles déterminées par l’assemblée générale. En cas de carence de celle-ci, la dévolution des biens du syndicat est réglée par décision judiciaire. En aucun cas, ces biens ne peuvent être répartis entre les membres adhérents.

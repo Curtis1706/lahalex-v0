@@ -1,0 +1,7 @@
+DECES DU TRAVAILLEUR
+En cas du décès du travailleur, le salaire de présence, l’allocation de congé, ainsi que les indemnités de toute nature acquise à la date du décès reviennent de plein droit à ses héritiers.
+Si le travailleur compte au jour du décès une année au moins d’ancienneté en qualité de travailleur titulaire, l’employeur est tenu de verser aux héritiers un capital décès calculé sur les bases prévues pour l’indemnité de licenciement qui serait revenue au travailleur en cas de licenciement individuel abondé de un mois de salaire de base par année de présence.
+Le montant de cet abondement est limité à 6 mois de salaire quelle que soit l’ancienneté du travailleur.
+Ne peuvent prétendre au paiement de ces sommes que les héritiers en ligne directe du travailleur qui étaient effectivement à sa charge ou l’administrateur des biens de cujus désigné par le Conseil de famille et reconnu par le Tribunal compétent.
+Au cas où l’Office Béninoise de Sécurité Sociale accorderait certains avantages pécuniaires concernant le cas de décès, l’employeur conserverait à sa charge la différence entre les dispositions ci-dessus et les avantages octroyés par l’Office Béninois de Sécurité Sociale. Si le travailleur avait été déplacé par le fait de l’employeur, ce dernier assurera à ses frais le transport du corps du défunt au lieu de résidence habituelle à condition que les ayants droits en formulent la demande dans le délai maximum de deux ans.
+TITRE IV  : REMUNERATIONS  CLASSIFICATIONS

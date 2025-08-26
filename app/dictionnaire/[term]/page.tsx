@@ -6,7 +6,7 @@ import { LahalexHeaderResponsive } from "@/components/lahalex-header-responsive"
 import { LahalexBreadcrumbResponsive } from "@/components/lahalex-breadcrumb-responsive"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
-import { Search, Bell, ChevronLeft, ChevronRight, RotateCcw } from "lucide-react"
+import { Search } from "lucide-react"
 import { Footer } from "@/components/footer"
 import { DictionaryTerm } from "@/types/dictionary"
 
@@ -15,8 +15,6 @@ export default function TermDefinitionPage() {
   const router = useRouter()
   const term = params.term as string
   const [searchValue, setSearchValue] = useState("")
-  const [currentPage, setCurrentPage] = useState(69)
-  const [totalPages] = useState(77)
   const [termData, setTermData] = useState<DictionaryTerm | null>(null)
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
@@ -65,6 +63,7 @@ export default function TermDefinitionPage() {
 
   const breadcrumbItems = [
     { label: "Accueil", href: "/" },
+    { label: "Autres outils", href: "/" },
     { label: "Dictionnaire", href: "/dictionnaire" },
     { label: decodeURIComponent(term), isActive: true }
   ]
@@ -201,31 +200,6 @@ export default function TermDefinitionPage() {
                 )}
               </div>
             </div>
-          </div>
-
-          {/* Pagination */}
-          <div className="flex justify-center mb-6">
-            <div className="bg-gray-700 text-white px-6 py-2 rounded-full flex items-center gap-4">
-              <button className="hover:text-gray-300">
-                <ChevronLeft className="w-5 h-5" />
-              </button>
-              <span className="font-medium">{currentPage} / {totalPages}</span>
-              <button className="hover:text-gray-300">
-                <ChevronRight className="w-5 h-5" />
-              </button>
-            </div>
-          </div>
-
-          {/* Bouton retour en haut */}
-          <div className="flex justify-end">
-            <Button 
-              variant="outline" 
-              size="sm"
-              className="bg-gray-700 text-white border-gray-700 hover:bg-gray-800"
-            >
-              <RotateCcw className="w-4 h-4 mr-2" />
-              Restart
-            </Button>
           </div>
         </div>
       </div>

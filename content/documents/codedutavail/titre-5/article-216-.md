@@ -1,0 +1,2 @@
+Les prélèvements obligatoires, les remboursements et les consignations qui peuvent être prévus par les lois, les conventions ou accords collectifs et les contrats individuels de travail peuvent faire l’objet de retenues sur salaire.
+L’employeur doit prélever d’office sur les salaires les cotisations des travailleurs et les verser aux institutions de sécurité sociale dans les conditions fixées par la réglementation en vigueur ou par les statuts desdites institutions.

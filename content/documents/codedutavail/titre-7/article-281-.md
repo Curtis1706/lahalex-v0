@@ -1,0 +1,2 @@
+Toute personne qui se propose d’ouvrir une entreprise ou un établissement de quelque na- ture que ce soit doit, au préalable, en faire la déclaration à l’inspection du travail du ressort.
+Un arrêté du ministre chargé du travail, pris après avis du conseil national du travail, détermine les modalités de cette déclaration.

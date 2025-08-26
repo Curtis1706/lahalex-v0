@@ -1,0 +1,2 @@
+Aucun salaire ne peut être inférieur au salaire minimum interprofessionnel garanti (SMIG) fixé par décret pria en conseil des ministres sur rapport du ministre chargé du travail après avis motivé du conseil national du travail.
+Le salaire minimum interprofessionnel garanti peut être révisé tous les 3 ans ou en cas de besoin.

@@ -1,0 +1,414 @@
+{
+  "id": "codeinvestissementbenin",
+  "title": "Code des Investissements  République du Bénin",
+  "type": "codes",
+  "description": "Loi n°202002 du 20 mars 2020 portant Code des investissements en République du Bénin, fixant les conditions, avantages et règles générales applicables aux investissements directs nationaux et étrangers, ainsi que les régimes privilégiés, les garanties, obligations, procédures d’agrément, mesures d’exonération, sanctions et dispositions finales.",
+  "structure": {
+    "sections": [
+      {
+        "id": "titre-1",
+        "title": "TITRE 1 : DISPOSITIONS GENERALES",
+        "type": "titre",
+        "level": 1,
+        "order": 0,
+        "path": [
+          "titre-1"
+        ],
+        "children": [
+          "chapitre-1",
+          "chapitre-2",
+          "chapitre-3"
+        ]
+      },
+      {
+        "id": "chapitre-1",
+        "title": "Chapitre 1 : Définitions",
+        "type": "chapitre",
+        "level": 2,
+        "order": 1,
+        "path": [
+          "titre-1",
+          "chapitre-1"
+        ],
+        "children": [
+          "article-1-"
+        ]
+      },
+      {
+        "id": "article-1-",
+        "title": "Article 1 :",
+        "type": "article",
+        "level": 4,
+        "order": 2,
+        "path": [
+          "titre-1",
+          "chapitre-1"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-2",
+        "title": "Chapitre 2 : Objectifs et champ d’application de la loi",
+        "type": "chapitre",
+        "level": 2,
+        "order": 3,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": [
+          "article-2-",
+          "article-3-",
+          "article-4-",
+          "article-5-",
+          "article-6-"
+        ]
+      },
+      {
+        "id": "article-2-",
+        "title": "Article 2 :",
+        "type": "article",
+        "level": 4,
+        "order": 4,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-3-",
+        "title": "Article 3 :",
+        "type": "article",
+        "level": 4,
+        "order": 5,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-4-",
+        "title": "Article 4 :",
+        "type": "article",
+        "level": 4,
+        "order": 6,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-5-",
+        "title": "Article 5 :",
+        "type": "article",
+        "level": 4,
+        "order": 7,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-6-",
+        "title": "Article 6 :",
+        "type": "article",
+        "level": 4,
+        "order": 8,
+        "path": [
+          "titre-1",
+          "chapitre-2"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-3",
+        "title": "Chapitre 3 : Cadre institutionnel",
+        "type": "chapitre",
+        "level": 2,
+        "order": 9,
+        "path": [
+          "titre-1",
+          "chapitre-3"
+        ],
+        "children": [
+          "article-7-",
+          "article-8-",
+          "article-9-",
+          "article-10-"
+        ]
+      },
+      {
+        "id": "article-7-",
+        "title": "Article 7 :",
+        "type": "article",
+        "level": 4,
+        "order": 10,
+        "path": [
+          "titre-1",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-8-",
+        "title": "Article 8 :",
+        "type": "article",
+        "level": 4,
+        "order": 11,
+        "path": [
+          "titre-1",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-9-",
+        "title": "Article 9 :",
+        "type": "article",
+        "level": 4,
+        "order": 12,
+        "path": [
+          "titre-1",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-10-",
+        "title": "Article 10 :",
+        "type": "article",
+        "level": 4,
+        "order": 13,
+        "path": [
+          "titre-1",
+          "chapitre-3"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-2",
+        "title": "TITRE 2 : DISPOSITIONS COMMUNES",
+        "type": "titre",
+        "level": 1,
+        "order": 14,
+        "path": [
+          "titre-2"
+        ],
+        "children": [
+          "article-11-",
+          "article-12-",
+          "article-13-",
+          "article-14-",
+          "article-15-",
+          "article-16-",
+          "article-17-",
+          "article-18-",
+          "article-19-",
+          "article-20-",
+          "article-21-",
+          "article-22-",
+          "article-23-",
+          "article-24-",
+          "article-25-",
+          "article-26-",
+          "article-27-",
+          "article-28-",
+          "article-29-",
+          "article-30-",
+          "chapitre-4"
+        ]
+      },
+      {
+        "id": "chapitre-4",
+        "title": "Chapitre 4 : Procédure d’octroi des régimes privilégiés",
+        "type": "chapitre",
+        "level": 2,
+        "order": 15,
+        "path": [
+          "titre-2",
+          "chapitre-4"
+        ],
+        "children": [
+          "article-31-",
+          "article-32-",
+          "article-33-",
+          "article-34-"
+        ]
+      },
+      {
+        "id": "article-31-",
+        "title": "Article 31 :",
+        "type": "article",
+        "level": 4,
+        "order": 16,
+        "path": [
+          "titre-2",
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-32-",
+        "title": "Article 32 :",
+        "type": "article",
+        "level": 4,
+        "order": 17,
+        "path": [
+          "titre-2",
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-33-",
+        "title": "Article 33 :",
+        "type": "article",
+        "level": 4,
+        "order": 18,
+        "path": [
+          "titre-2",
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "article-34-",
+        "title": "Article 34 :",
+        "type": "article",
+        "level": 4,
+        "order": 19,
+        "path": [
+          "titre-2",
+          "chapitre-4"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-3",
+        "title": "TITRE 3 : DIFFERENTS REGIMES ET LEURS AVANTAGES",
+        "type": "titre",
+        "level": 1,
+        "order": 20,
+        "path": [
+          "titre-3"
+        ],
+        "children": [
+          "article-35-",
+          "article-36-",
+          "article-37-",
+          "article-38-",
+          "chapitre-5",
+          "chapitre-6"
+        ]
+      },
+      {
+        "id": "chapitre-5",
+        "title": "Chapitre 5 : Régime d’incitation sectorielle",
+        "type": "chapitre",
+        "level": 2,
+        "order": 21,
+        "path": [
+          "titre-3",
+          "chapitre-5"
+        ],
+        "children": [
+          "article-39-"
+        ]
+      },
+      {
+        "id": "article-39-",
+        "title": "Article 39 :",
+        "type": "article",
+        "level": 4,
+        "order": 22,
+        "path": [
+          "titre-3",
+          "chapitre-5"
+        ],
+        "children": []
+      },
+      {
+        "id": "chapitre-6",
+        "title": "Chapitre 6 : Régime des investissements spécifiques",
+        "type": "chapitre",
+        "level": 2,
+        "order": 23,
+        "path": [
+          "titre-3",
+          "chapitre-6"
+        ],
+        "children": [
+          "article-40-"
+        ]
+      },
+      {
+        "id": "article-40-",
+        "title": "Article 40 :",
+        "type": "article",
+        "level": 4,
+        "order": 24,
+        "path": [
+          "titre-3",
+          "chapitre-6"
+        ],
+        "children": []
+      },
+      {
+        "id": "titre-4",
+        "title": "TITRE 4 : SANCTIONS ET REGLEMENT DES DIFFERENDS",
+        "type": "titre",
+        "level": 1,
+        "order": 25,
+        "path": [
+          "titre-4"
+        ],
+        "children": [
+          "article-41-",
+          "article-42-",
+          "article-43-",
+          "article-44-",
+          "article-45-"
+        ]
+      },
+      {
+        "id": "titre-5",
+        "title": "TITRE 5 : DISPOSITIONS DIVERSES",
+        "type": "titre",
+        "level": 1,
+        "order": 26,
+        "path": [
+          "titre-5"
+        ],
+        "children": [
+          "article-46-",
+          "article-47-",
+          "article-48-",
+          "article-49-",
+          "article-50-",
+          "article-51-"
+        ]
+      },
+      {
+        "id": "titre-6",
+        "title": "TITRE 6 : DISPOSITIONS TRANSITOIRES ET FINALES",
+        "type": "titre",
+        "level": 1,
+        "order": 27,
+        "path": [
+          "titre-6"
+        ],
+        "children": [
+          "article-52-",
+          "article-53-",
+          "article-54-"
+        ]
+      }
+    ],
+    "totalArticles": 54
+  },
+  "source": "nationale"
+}

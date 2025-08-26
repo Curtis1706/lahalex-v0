@@ -1,0 +1,3 @@
+Dans le cas où le contrat aurait été rompu ou aurait expiré avant que le travailleur n’ait exercé ses droits au congé, ce dernier bénéficie, aux lieu et place du congé, d’une indemnité calculée sur la base des droits acquis d’après les articles 158 et suivants ci-dessus.
+Le droit au congé se prescrit par trois ans à compter du jour de la cessation du travail.
+Ce droit est également prescrit par trois ans pour le travailleur en activité lorsqu’il est démontré que l’employeur avait offert la possibilité au salarié de jouir de son congé.

@@ -1,0 +1,1 @@
+Le licenciement économique prononcé sans respect de la procédure d’information administrative prévue aux articles 47 et 48 du présent Code est puni d’une amende de 14.000 à 84.000 FCFA appliquée autant de fois qu’il y a de travailleurs irrégulièrement licenciés.

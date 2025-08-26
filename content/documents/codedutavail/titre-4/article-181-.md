@@ -1,0 +1,1 @@
+En cas de décès du travailleur expatrié ou déplacé, ou d’un membre de sa famille dont le voyage était à la charge de l’employeur, le rapatriement du corps du défunt au lieu de sa résidence habituelle est à la charge de l’employeur.

@@ -1,0 +1,14 @@
+{
+  "id": "article-77-",
+  "title": "Article 77 :",
+  "numero": "77 ",
+  "document": "lois-organiques",
+  "path": [
+    "titre-1"
+  ],
+  "navigation": {
+    "parent": "titre-1",
+    "previous": "article-76-",
+    "next": "article-78-"
+  }
+}

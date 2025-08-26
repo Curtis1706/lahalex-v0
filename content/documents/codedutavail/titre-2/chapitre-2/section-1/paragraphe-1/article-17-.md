@@ -1,0 +1,1 @@
+Les travailleurs visés à l’article 16 ci-dessus bénéficient de plein droit, en cas de non renouvellement exprès, d’un contrat à durée indéterminée après une période d’emploi continue de plus de six (6) mois.

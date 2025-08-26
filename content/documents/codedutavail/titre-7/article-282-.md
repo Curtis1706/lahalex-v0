@@ -1,0 +1,1 @@
+Tout chef d’entreprise ou d’établissement ou tout autre employeur est tenu de fournir tous les ans, en triple exemplaire, une déclaration sur la situation de la main-d’œuvre utilisée conformément au modèle établi par le ministère chargé du travail

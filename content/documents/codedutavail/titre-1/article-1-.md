@@ -1,0 +1,1 @@
+La présente loi est applicable aux travailleurs et aux employeurs exerçant leur activité professionnelle en République du Bénin. Elle s’applique également aux apprentis.

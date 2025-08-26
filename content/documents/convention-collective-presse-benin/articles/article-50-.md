@@ -1,0 +1,2 @@
+SOINS MÉDICAUX ET HOSPITALISATION
+En cas de maladie, le travailleur et les membres de sa famille (conjoint + enfants de moins de 21 ans) sont pris en charge par l’employeur conformément à la Convention Collective Générale du Travail.

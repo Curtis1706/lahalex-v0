@@ -1,0 +1,2 @@
+Tout licenciement d’un délégué du personnel, titulaire ou suppléant, doit être soumis à l’autorisation préalable de l’inspecteur du travail
+Il en est de même du licenciement d’un ancien délégué du personnel pendant les douze mois suivant l’expiration de son mandat ainsi que du licenciement des salariés candidats non élus pendant une durée couvrant la période où l’employeur a eu connaissance de leur candidature jusqu’à trois (3) mois après le scrutin.

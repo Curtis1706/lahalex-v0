@@ -1,0 +1,2 @@
+La convention collective doit être écrite en langue officielle. Elle est établie sur papier libre et signée par les représentants autorisés des parties contractantes. Elle doit être déposée au ministère chargé du travail et à ses services compétents qui l’enregistrent et en délivrent récépissé. Elle entre en application dès sa signature à moins que les parties n’en décident autrement.
+Les modifications apportées à la convention collective initiale doivent être établies, déposées, notifiées et publiées dans les mêmes formes et conditions que ci-dessus.

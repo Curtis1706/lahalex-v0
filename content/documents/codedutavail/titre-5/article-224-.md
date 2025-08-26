@@ -1,0 +1,1 @@
+Les employeurs sont tenus de délivrer au travailleur au moment du paiement soit un bulletin de paie individuel, soit tout autre document établi selon les procédés modernes de comptabilité et dont la contexture est, dans l’un et l’autre cas, fixée par arrêté du ministre chargé du travail.

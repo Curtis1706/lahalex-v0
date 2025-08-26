@@ -1,0 +1,2 @@
+Le nombre et 1a composition des établissements distincts font l’objet d’un accord entre l’employeur et les organisations syndicales représentatives des salariés. A défaut, ils sont fixés par l’employeur. En cas de contestation, le litige est soumis à l’inspecteur du travail qui tente de trouver une solution amiable. A défaut d’une telle solution, il est porté devant le tribunal de première instance du ressort qui statue d’urgence.
+La décision du tribunal de première instance est susceptible d’appel dans les formes et délais prévus par les lois et règlements.

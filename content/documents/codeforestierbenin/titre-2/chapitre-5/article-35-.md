@@ -1,4 +1,1 @@
-L'exploitation du domaine forestier de l'Etat par les
-services publics ou par des particuliers peut être faite soit en régie,
-soit par vente de coupe, soit par permis de coupon d'un nombre limité
-d'arbres, de pièces, de mètres cubes et de stères.
+50'exploitation du domaine forestier de l'Etat par les services publics ou par des particuliers peut être faite soit en régie, soit par vente de coupe, soit par permis de coupon d'un nombre limité d'arbres, de pièces, de mètres cubes et de stères.

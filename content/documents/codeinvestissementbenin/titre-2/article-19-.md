@@ -1,0 +1,1 @@
+l'Etat facilite l’accès des investisseurs aux zones industrielles aménagées, aux terres agricoles, aux zones d’intérêt touristique ou à toutes autres zones aménagées pour des investissements selon la réglementation en vigueur. Il contribue à sécuriser et à protéger les entreprises implantées dans ces zones sans que cela puisse constituer une obligation de résultat.

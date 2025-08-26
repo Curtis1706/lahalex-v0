@@ -1,0 +1,4 @@
+Protection des délégués du personnel
+Est considéré comme nul et de nul effet tout licenciement d'un délégué du personnel intervenu contrairement aux dispositions du Code du Travail, même dans le cas de fermeture de l'établissement ou de licenciement collectif. Le travailleur objet d'une telle mesure, continue d'appartenir à l'entreprise et à exercer ses fonctions de délégué jusqu'à la décision de la juridiction compétente.
+Toutefois, en cas de faute lourde de l'intéressé, l'employeur peut prononcer immédiatement sa mise à pied conservatoire en attendant la décision définitive de l'inspecteur du Travail ou de la juridiction compétente.
+La même procédure est applicable au licenciement des anciens délégués du personnel pendant une durée de douze mois à partir de l'expiration de leur mandat et des candidats aux fonctions de délégués du personnel pendant la période comprise entre la date de remise des listes au chef d'établissement et celle du scrutin.

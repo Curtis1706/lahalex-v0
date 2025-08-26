@@ -1,3 +1,1 @@
-Tout défrichement de bois et broussailles est interdit
-le long des rives des cours et plans d'eau sauf sur autorisation
-spécia­le et motivés du servie forestier.
+Tout défrichement de bois et broussailles est interdit le long des rives des cours et plans d'eau sauf sur autorisation spéciale et motivés du servie forestier.

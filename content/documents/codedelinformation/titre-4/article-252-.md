@@ -1,2 +1,2 @@
-L’exploitation directe ou indirecte en République du Bénin à titre gratuit ou onéreux, d’un site internet fournissant des services de communication audiovisuelle et de presse écrite destinés au public est subordonnée à l’autorisation de la Haute Autorité de l’Audiovisuel et de la Communication.
-Toutefois, la création ou l’animation des blogs n’est soumise à aucune autorisation préalable.
+l'exploitation directe ou indirecte en République du Bénin à titre gratuit ou onéreux, d’un site internet fournissant des services de communication audiovisuelle et de presse écrite destinés au public est subordonnée à l’autorisation de la Haute Autorité de l’Audiovisuel et de la Communication.
+` `Toutefois, la création ou l’animation des blogs n’est soumise à aucune autorisation préalable.

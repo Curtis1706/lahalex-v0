@@ -1,0 +1,1 @@
+Les groupements capables d’ester en justice, liés par une convention ou un accord collectif peuvent, en leur nom propre, intenter une action en dommages et intérêts à tous autres groupements, à leurs propres membres ou à toute per- sonne liée par la convention ou l’accord qui violerait les engagements contractés.

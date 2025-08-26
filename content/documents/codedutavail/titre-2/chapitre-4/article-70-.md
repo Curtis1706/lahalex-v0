@@ -1,0 +1,1 @@
+Les autres conditions de fond et les effets de ce contrat, ainsi que les mesures de contrôle de son exécution, sont déterminés par décret pris en conseil des ministres.

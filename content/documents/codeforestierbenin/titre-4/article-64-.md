@@ -1,10 +1,1 @@
-Quiconque aura contrefait ou falsifié les marques
-régulièrement déposées des marteaux particuliers, quiconque aura fait
-usage de ces marteaux particuliers, quiconque aura fait usage de ces
-marteaux contrefaits ou falsifiés, quiconque s'étant indûment procuré
-les marteaux véritables et en aura fait frauduleusement usage, quiconque
-aura enlevé ou tente d'enlever des marques de ces marteaux sera puni
-d'un emprisonnement d'un mois à deux ans et d'une amenda de 50 000 à
-500 000 francs ou de l'une de ces deux peines seulement. Si ces marteaux
-servent aux marques de l'administration forestière, les peines seront
-portées au double.
+Quiconque aura contrefait ou falsifié les marques régulièrement déposées des marteaux particuliers, quiconque aura fait usage de ces marteaux particuliers, quiconque aura fait usage de ces marteaux contrefaits ou falsifiés, quiconque s'étant indûment procuré les marteaux véritables et en aura fait frauduleusement usage, quiconque aura enlevé ou tente d’enlever des marques de ces marteaux sera puni d’un emprisonnement d'un mois à deux ans et d’une amenda de 50 000 à 500 000 francs ou de l’une de ces deux peines seulement. Si ces marteaux servent aux marques de l’administration forestière, les peines seront portées au double.

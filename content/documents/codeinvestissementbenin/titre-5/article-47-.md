@@ -1,0 +1,2 @@
+Les opérations réalisées par l’entreprise agréée qui ne relèveraient pas expressément des activités énumérées dans le certificat d’agrément, demeurent soumises aux dispositions du droit commun.
+La cession, dans le cas où elle est autorisée, entraîne le paiement des droits dont les biens avaient été exonérés, calculés sur leur valeur déterminée conformément à la réglementation douanière et aux taux en vigueur au jour du dépôt de la déclaration.

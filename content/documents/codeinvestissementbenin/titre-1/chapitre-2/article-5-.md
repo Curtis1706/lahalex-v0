@@ -1,0 +1,1 @@
+A l’ occasion d’une extension de leurs activités, les avantages des régimes privilégiés prévus pour la phase d’installation ne peuvent être accordés aux entreprises existantes que si l’extension ne concerne pas une activité qui avait précédemment bénéficié d’un agrément au Code des investissements.

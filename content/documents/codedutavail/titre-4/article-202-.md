@@ -1,0 +1,1 @@
+Toute entreprise ou établissement occupant au moins 100 salariés doit organiser un service social au bénéfice des travailleurs qu’elle emploie.

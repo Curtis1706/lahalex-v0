@@ -1,0 +1,3 @@
+Indemnité compensatrice de préavis
+Chacune des parties peut se dégager de l'obligation de préavis en versant à l'autre partie, une indemnité compensatrice dont le montant correspond à la rémunération et aux avantages de toute nature dont aurait bénéficié le travailleur pendant la durée du préavis.
+Toutefois, en cas de licenciement, le travailleur qui a trouvé un nouvel emploi peut, après en avoir avisé l'employeur, quitter son emploi avant l'expiration du délai de préavis sans avoir à payer une indemnité pour inobservation de ce délai.

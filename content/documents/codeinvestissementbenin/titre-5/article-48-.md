@@ -1,0 +1,1 @@
+Le bénéfice d’un régime accordé à une entreprise conformément aux dispositions du présent Code n’est pas transmissible.

@@ -1,0 +1,1 @@
+A travail de valeur égale, le salaire est égal pour tous les travailleurs quels que soient leur origine, leur sexe, leur âge, leur statut et leur confession, dans les conditions prévues au présent code.

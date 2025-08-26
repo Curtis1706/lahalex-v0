@@ -1,0 +1,1 @@
+Lorsque le contrat de travail est résilié pour des causes autres que celles visées à l’article précédent ou par la faute lourde du travailleur, le montant des frais de transport aller et retour incombant à l’entreprise est proportionnel au temps de service du travailleur.

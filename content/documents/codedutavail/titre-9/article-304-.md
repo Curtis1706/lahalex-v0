@@ -1,0 +1,1 @@
+Sont punis d’une amende de 70.000 à 350..000 FCFA et, en cas de récidive, d’une amende de 210.000 à 420.000 FCFA, les auteurs d’infractions aux dispositions de l’article 235, sauf en matière d’affichage.

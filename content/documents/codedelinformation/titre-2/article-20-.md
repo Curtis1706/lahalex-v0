@@ -1,0 +1,2 @@
+Tout manquement aux dispositions du présent chapitre fait l’objet de rappel à l’ordre écrit ou de mise en demeure adressé par la Haute Autorité de l’Audiovisuel et de la Communication au directeur de l’organe de radiodiffusion et de télévision mis en cause.
+` `En cas de récidive, les sanctions prévues par la loi organique relative à la Haute Autorité de l’Audiovisuel et de la Communication et par la présente loi sont applicables.

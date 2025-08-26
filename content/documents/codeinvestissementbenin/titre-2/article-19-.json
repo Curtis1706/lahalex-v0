@@ -1,0 +1,14 @@
+{
+  "id": "article-19-",
+  "title": "Article 19 :",
+  "numero": "19 ",
+  "document": "codeinvestissementbenin",
+  "path": [
+    "titre-2"
+  ],
+  "navigation": {
+    "parent": "titre-2",
+    "previous": "article-18-",
+    "next": "article-20-"
+  }
+}

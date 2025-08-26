@@ -1,4 +1,4 @@
-L’autorisation accordée par la Haute Autorité de l’Audiovisuel et de la Communication devient caduque :
+l'autorisation accordée par la Haute Autorité de l’Audiovisuel et de la Communication devient caduque :
 - lorsque le bénéficiaire renonce à poursuivre ses activités ;
 - lorsque la Haute Autorité de l’Audiovisuel et de la Communication décide de sa révocation pour inobservance des dispositions législatives ou réglementaires et des prescriptions contractuelles.
 Les candidatures pour les concessions mises au concours selon l’article 218 sont déposées dans les délais fixés par la Haute Autorité de l’Audiovisuelle et de la Communication.

@@ -1,1 +1,0 @@
-Article 23 : Toute entreprise qui sollicite l’un des régimes privilégiés visés à l’article 4 de la présente loi s’engage à contribuer à accroître la qualification de ses collaborateurs locaux, notamment par la formation continue, le développement de leurs compétences et le transfert de technologies.

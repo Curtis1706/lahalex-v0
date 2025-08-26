@@ -1,0 +1,1 @@
+L’obligation imposée à l’article précédent subsiste après le décès du travailleur au profit de ses ayants droit.

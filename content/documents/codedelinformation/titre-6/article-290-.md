@@ -1,1 +1,1 @@
-L’exercice de la profession de colporteur, de vendeur ou de distributeur sans déclaration préalable, la fausseté de la déclaration et le défaut de présentation de toute réquisition du récépissé, seront sanctionnés par une amende de vingt mille (20 000) à cent mille (100 000) francs CFA.
+l'exercice de la profession de colporteur, de vendeur ou de distributeur sans déclaration préalable, la fausseté de la déclaration et le défaut de présentation de toute réquisition du récépissé, seront sanctionnés par une amende de vingt mille (20 000) à cent mille (100 000) francs CFA.

@@ -1,2 +1,2 @@
 En cas de non respect des dispositions des articles 63, 70 et 72 de la présente loi, les contrevenants seront punis d’une amende de deux cent mille (200 000) à cinq cent mille (500 000) francs CFA.
-Sera punie de la même peine, la mise en vente, la distribution ou la reproduction de publications étrangères interdites.
+` `Sera punie de la même peine, la mise en vente, la distribution ou la reproduction de publications étrangères interdites.

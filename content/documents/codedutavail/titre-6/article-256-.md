@@ -1,0 +1,1 @@
+En cas d’échec de la conciliation, le différend est obligatoirement soumis dans le délai de huit jours francs par l’inspecteur ou le directeur du travail au conseil d’arbitrage prévu au présent code.

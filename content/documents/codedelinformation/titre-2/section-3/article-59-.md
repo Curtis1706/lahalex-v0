@@ -1,3 +1,0 @@
-L’imitation de la voix d’une personne est libre.
-Toutefois, toute personne a le droit à ce que sa voix ne soit utilisée à des fins commerciales ou dans des conditions susceptibles de créer une confusion de personnes, de la désigner comme l’auteur des propos tenus ou s’il en est l’auteur d’en dévoyer le sens, le contexte et la portée.
-L’utilisation ou l’imitation de la voix de toute personne ayant acquis une notoriété publique par le fait de sa vie professionnelle, administrative ou politique, ne saurait être faite qu’à des fins d’information, à des fins scientifiques, didactiques ou culturelles.

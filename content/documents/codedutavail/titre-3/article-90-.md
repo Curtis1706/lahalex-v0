@@ -1,0 +1,2 @@
+Deux commissaires aux comptes désignés par l’assemblée générale sont investis de la mission de contrôle et de vérification. Ils vérifient les livres, la caisse, les portefeuilles et les valeurs du syndicat
+Ils contrôlent la régularité et la sincérité des inventaires et des bilans ainsi que l’exactitude des informations données par le trésorier.

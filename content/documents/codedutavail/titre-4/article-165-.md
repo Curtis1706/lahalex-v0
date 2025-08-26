@@ -1,0 +1,3 @@
+L’employeur doit verser au travailleur, pendant toute la durée du congé, une allocation qui sera au moins égale au douzième des salaires et indemnités dont le travailleur a bénéficié au cours des douze mois ayant précédé la date de départ en congé.
+Seront exclues de calcul de l’allocation de congé, les primes de rendement, les indemnités constituant un remboursement de frais professionnels et l’indemnité de sujétion particulière éventuellement versée aux expatriés.
+En cas de fractionnement, l’allocation est fraction- née proportionnellement à la durée de chaque période de congé.

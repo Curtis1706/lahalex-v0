@@ -1,0 +1,2 @@
+Le contrat de travail à durée indéterminée peut être écrit, verbal ou tacite.
+Toutefois, lorsqu’il nécessite l’installation du travailleur hors de sa résidence habituelle, il doit être constaté par écrit et enregistré comme il est prévu à l’article 13 du présent code.

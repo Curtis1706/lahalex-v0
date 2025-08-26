@@ -1,0 +1,3 @@
+Dans tous les établissements soumis au présent code, à l’exception des établissements agricoles, la durée légale du travail des salariés, quels que soient leur sexe et leur mode de rémunération, est fixée à quarante heures par semaine.
+Cette durée peut être dépassée par application des règles relatives aux équivalences, aux heures supplémentaires, à la récupération des heures de travail perdues et à la modulation.
+Des décrets pris après avis du conseil national du travail fixent les modalités de la répartition de la durée du travail sur les différents jours de la semaine ainsi que l’amplitude maximale journalière du travail.

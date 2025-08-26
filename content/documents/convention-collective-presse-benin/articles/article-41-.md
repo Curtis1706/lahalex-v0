@@ -1,0 +1,2 @@
+EMPLOIS MULTIPLES
+Dans le cas où un travailleur est appelé à assurer de façon habituelle des emplois différents comportant des salaires différents, le salaire de l’intéressé est celui de l’emploi le mieux rémunéré.

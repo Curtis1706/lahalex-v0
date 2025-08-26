@@ -1,0 +1,4 @@
+Sauf stipulations contraires, les voyages et les transports sont effectués par une voie et des moyens normaux au choix de l’employeur.
+Le travailleur qui use d’une voie et de moyens de transport plus coûteux que ceux régulièrement choisis ou agréés par l’employeur, n’est défrayé par l’entreprise qu’à concurrence des frais occasionnés par la voie et les moyens régulièrement choisis.
+S’il use d’une voie ou d’un moyen plus économique, il ne peut prétendre qu’au remboursement des frais engagés.
+Les délais de transport ne sont pas compris dans la durée maximum du contrat de travail à durée déterminée.

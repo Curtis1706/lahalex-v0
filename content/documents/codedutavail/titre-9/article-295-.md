@@ -1,0 +1,2 @@
+Les infractions aux dispositions du présent code sont poursuivies devant le tribunal conformément aux dispositions du code de procédure pénale.
+Toutefois, le tribunal nonobstant toutes dispositions contraires, peut se prononcer d’office sur les réparations civiles auxquelles peuvent donner lieu éventuellement ces infractions.

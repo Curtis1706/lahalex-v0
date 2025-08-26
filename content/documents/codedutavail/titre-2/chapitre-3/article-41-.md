@@ -1,0 +1,1 @@
+Le contrat de travail à durée déterminée prend fin à l’échéance du terme.

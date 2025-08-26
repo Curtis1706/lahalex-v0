@@ -1,0 +1,1 @@
+Les travailleurs immigrants résidant en République du Bénin à la date de la mise en vigueur du présent code doivent, dans le délai maximum de trois (3) mois, régulariser leur situation en se faisant délivrer un permis de travail dans les conditions définies par décret.

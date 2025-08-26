@@ -1,0 +1,14 @@
+{
+  "id": "article-79-",
+  "title": "Article 79 :",
+  "numero": "79 ",
+  "document": "codedelinformation",
+  "path": [
+    "titre-3"
+  ],
+  "navigation": {
+    "parent": "titre-3",
+    "previous": "article-78-",
+    "next": "article-80-"
+  }
+}

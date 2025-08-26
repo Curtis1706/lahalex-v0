@@ -1,5 +1,0 @@
-Aux fins d’exercer le droit de réponse, la personne mise en cause peut demander à l’auteur de la diffusion ou de la publication concernée ou à toute personne qui en a la détention, la communication d’un exemplaire du journal ou d’un enregistrement de l’émission.
-La demande d’exercice du droit de réponse est présentée par lettre missive, par lettre recommandée ou par les voies les plus rapides avec accusé de réception dans les huit (08) jours suivant la diffusion du message contenant l’imputation qui la fonde.
-La communication est obligatoire et ne saurait être refusée ni altérée.
-Le demandeur précise les imputations sur lesquelles il souhaite répondre.
-En cas de refus ou de silence gardé sur la demande par son destinataire dans les quatre (04) jours suivant sa réception, le demandeur peut saisir le juge des référés.

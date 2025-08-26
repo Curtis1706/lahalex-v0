@@ -1,0 +1,2 @@
+L’inspecteur du travail peut requérir l’examen des femmes et des jeunes travailleurs par un médecin agréé en vue de vérifier si le travail dont ils sont chargés n’excède pas leurs forces. Cette réquisition est de droit à la demande des intéressés.
+La femme ou le jeune travailleur ne peut être main- tenu dans un emploi ainsi reconnu au-dessus de ses forces et doit être affecté dans un autre emploi convenable. Si cela n’est pas possible, le contrat doit être résolu avec une indemnisation comme en cas de rupture normale du contrat de travail.

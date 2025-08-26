@@ -1,1 +1,0 @@
-Article 44 : En cas de retrait du bénéfice d’un régime du présent Code, l’entreprise en cause est tenue de rembourser à l’Etat béninois, la valeur ou l’équivalent en valeur des avantages induits qu’elle a obtenus pendant la durée d’agrément.

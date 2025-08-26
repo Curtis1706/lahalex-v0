@@ -1,0 +1,1 @@
+Les lois organiques adoptées par l’Assemblée nationale sont transmis à la Cour constitutionnelle par le président de la République pour contrôle de constitutionnalité. La lettre de transmission indique, le cas échéant, qu’il y a urgence.

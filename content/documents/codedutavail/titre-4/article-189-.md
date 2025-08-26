@@ -1,0 +1,12 @@
+Le comité d’hygiène et de sécurité est chargé de :
+- étudier les conditions d’hygiène et de sécurité de travail ;
+- veiller à l’application des dispositions législatives et réglementaires et des consignes concernant l’hygiène et la sécurité ;
+- procéder aux enquêtes en cas d’accidents de travail graves et de maladies professionnelles en vue d’en déterminer les causes et de proposer des mesures propres à y remédier ;
+- établir et exécuter un programme d’amélioration des conditions d’hygiène et de sécurité en rapport avec les activités de l’entreprise ;
+- établir les statistiques d’accidents de travail et de maladies professionnelles ;
+- diffuser auprès de tous les travailleurs les in- formations relatives à la protection de la santé des travailleurs et au bon déroulement du travail ;
+- susciter, entretenir et développer l’esprit de sécurité parmi les travailleurs ;
+- entreprendre toute action en vue de la promotion des méthodes et des procédés de travail plus sûrs ;
+- assurer l’éducation des travailleurs dans les domaines de l’hygiène, de la sécurité et de la santé au travail ;
+- s’assurer de l’organisation et de l’instruction des équipes d’incendie et de sauvetage et veiller à ce que les exercices de sauvetage et de lutte contre l’incendie soient régulièrement effectués ;
+- participer à l’identification des facteurs de nuisance et à l’élaboration d’un plan d’intervention d’urgence.

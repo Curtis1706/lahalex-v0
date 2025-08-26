@@ -1,0 +1,1 @@
+Après réception du visa, le chef d’entreprise dépose le règlement intérieur en double exemplaire au greffe du tribunal de première instance du siège de l’entreprise. Il l’affiche sur les lieux où le travail est effectué à une place aisément accessible et le tient constamment en bon état de lisibilité.

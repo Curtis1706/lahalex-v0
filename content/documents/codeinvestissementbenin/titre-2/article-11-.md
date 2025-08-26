@@ -1,0 +1,1 @@
+Les investissements visés par les dispositions du présent Code sont réalisés librement dans le respect des lois et règlements en vigueur en République du Bénin.

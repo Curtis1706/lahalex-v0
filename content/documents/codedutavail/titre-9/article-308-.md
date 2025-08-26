@@ -1,0 +1,1 @@
+L’omission des formalités prévues aux articles 65 et 68 ci-dessus est punie d’une amende de 1000 à 10.000 FCFA.

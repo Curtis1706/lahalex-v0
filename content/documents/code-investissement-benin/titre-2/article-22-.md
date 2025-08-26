@@ -1,1 +1,0 @@
-Article 22 : L’investisseur bénéficiant d’avantages prévus par le présent Code est tenu de se conformer aux normes techniques, sociales, sanitaires et environnementales, nationales ou, à défaut, internationales applicables à ses produits, services et environnement de travail. Il doit se conformer, en outre, aux normes relatives aux systèmes de management de la qualité.

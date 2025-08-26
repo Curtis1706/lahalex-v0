@@ -1,0 +1,2 @@
+INTEGRITE MORALE
+Les journalistes et assimilés doivent faire preuve d’intégrité morale en s’interdisant toute forme de rémunération illicite directe ou indirecte. Il leur est interdit de répondre à une invitation adressée à la rédaction sans autorisation expresse de la hiérarchie.

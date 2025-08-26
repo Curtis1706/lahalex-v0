@@ -1,0 +1,1 @@
+Les textes réglementaires déterminent, en tant que de besoin, les modalités d’application du présent code. Les dispositions réglementaires antérieures restent en vigueur en ce qu’elles ne sont pas contraires au présent code.

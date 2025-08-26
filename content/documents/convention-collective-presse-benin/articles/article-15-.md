@@ -1,0 +1,4 @@
+OBLIGATIONS DU TRAVAILLEUR ET CLAUSE DE NON-CONCURRENCE
+Le travailleur doit son activité professionnelle à l’entreprise.
+Sauf autorisation expresse de l’employeur, il est formellement interdit de communiquer à des personnes qui n’ont pas qualité pour les connaître, et sous quelque forme que ce soit, tous renseignements, documents, indications concernant le fonctionnement des services de l’entreprise et les affaires en cours ou à l’étude dans lesdits services.
+Il est également interdit à tout travailleur d’exercer même en dehors des heures de travail une activité à caractère professionnel, susceptible de concurrencer l’entreprise ou de nuire à l’exécution des services convenus.

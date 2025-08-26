@@ -1,1 +1,0 @@
-Article 6 : Lorsque coexistent au sein d’une entreprise des activités bénéficiant d’un régime privilégié et d’autres soumises au droit commun, les premières doivent obligatoirement être sujettes à une comptabilité séparée permettant d’isoler clairement leurs résultats de ceux de toute l’entreprise.

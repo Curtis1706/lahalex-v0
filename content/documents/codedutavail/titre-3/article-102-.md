@@ -1,0 +1,3 @@
+Toute organisation syndicale représentative des salariés peut présenter une liste de candidats. A défaut de toute liste syndicale, les salariés peuvent eux-mêmes composer des listes de candidats.
+Les listes sont établies séparément pour chaque collège et, au sein de chaque collège, pour les délégués titulaires et pour les délégués suppléants.
+Elles ne doivent pas comporter un nombre de candidats supérieur au nombre de sièges à pourvoir.

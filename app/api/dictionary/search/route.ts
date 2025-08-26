@@ -15,38 +15,7 @@ async function fetchDictionaryTerms(): Promise<DictionaryTerm[]> {
   }
   
   // Fallback vers des données statiques si l'API échoue
-  return [
-    {
-      id: "1",
-      term: "Acte authentique",
-      definition: "Document rédigé par un officier public (notaire, huissier, officier d'état civil) qui confère une force probante particulière et une exécutoire.",
-      category: "droit-civil",
-      synonyms: ["Document authentique", "Acte notarié"],
-      examples: [
-        "Le contrat de mariage doit être établi par acte authentique.",
-        "L'acte authentique fait foi jusqu'à inscription de faux."
-      ],
-      relatedTerms: ["Notaire", "Huissier", "Force probante"],
-      source: "Code civil, article 1317",
-      createdAt: "2024-01-01T00:00:00Z",
-      updatedAt: "2024-01-01T00:00:00Z"
-    },
-    {
-      id: "2",
-      term: "Bail commercial",
-      definition: "Contrat par lequel le propriétaire d'un local commercial met celui-ci à la disposition d'un locataire pour l'exercice d'une activité commerciale, artisanale ou libérale.",
-      category: "droit-commercial",
-      synonyms: ["Location commerciale", "Bail professionnel"],
-      examples: [
-        "Le bail commercial est conclu pour une durée minimale de 9 ans.",
-        "Le locataire commercial bénéficie d'un droit au renouvellement."
-      ],
-      relatedTerms: ["Locataire", "Propriétaire", "Droit au renouvellement"],
-      source: "Code de commerce, articles L.145-1 et suivants",
-      createdAt: "2024-01-01T00:00:00Z",
-      updatedAt: "2024-01-01T00:00:00Z"
-    }
-  ]
+  return []
 }
 
 export async function GET(request: NextRequest) {

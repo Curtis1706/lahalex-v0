@@ -1,0 +1,17 @@
+{
+  "id": "article-30-",
+  "title": "Article 30 :",
+  "numero": "30 ",
+  "document": "codedutavail",
+  "path": [
+    "titre-2",
+    "chapitre-2",
+    "section-1",
+    "paragraphe-4"
+  ],
+  "navigation": {
+    "parent": "paragraphe-4",
+    "previous": "article-29-",
+    "next": "article-31-"
+  }
+}

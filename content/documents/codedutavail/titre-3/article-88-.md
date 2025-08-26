@@ -1,0 +1,2 @@
+Les syndicats peuvent être consultés sur tous les différends et toutes les questions se rattachant à leur spécialité.
+Les avis dans les affaires contentieuses sont tenus à la disposition des parties qui peuvent en prendre communication ou copie.

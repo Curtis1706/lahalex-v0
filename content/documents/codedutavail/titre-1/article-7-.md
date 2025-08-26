@@ -1,0 +1,1 @@
+Les travailleurs définis à l’article 2 conservent les droits consentis par décision unilatérale patronale, convention collective, contrat individuel de travail ou usage lorsque ces droits sont supérieurs à ceux que leur reconnaît le présent code.

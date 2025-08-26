@@ -1,0 +1,3 @@
+Les déclarations annuelles établies en trois exemplaires sont, soit expédiées sous pli recommandé le récépissé de la poste faisant foi de la date de l’expédition, soit remises contre récépissé à l’inspection départementale du travail du ressort.
+Les imprimés nécessaires accompagnés de notices explicatives sont tenus à la disposition des intéressés dans les inspections départementales du travail.
+Les déclarations doivent être faites au plus tard le 31 mars de l’année suivante.

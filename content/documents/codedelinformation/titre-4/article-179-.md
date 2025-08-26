@@ -1,1 +1,1 @@
-L’imprimerie, l’édition et la librairie sont libres.
+l'imprimerie, l’édition et la librairie sont libres.

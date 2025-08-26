@@ -1,0 +1,1 @@
+Un décret pris après avis du conseil national du travail détermine la quotité des fractions du salaire soumise à prélèvements progressifs et les taux y afférents. La retenue visée à l’article précédent ne peut, pour chaque paie, excéder la quotité fixée par ce décret pris en conseil des ministres.

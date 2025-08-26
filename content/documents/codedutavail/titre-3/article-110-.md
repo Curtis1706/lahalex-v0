@@ -1,0 +1,1 @@
+Les délégués doivent être reçus collectivement par le chef d’établissement ou son représentant au moins une fois par mois. En cas d’urgence absolue, ils sont également reçus, à leur demande, individuellement ou collectivement.

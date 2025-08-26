@@ -1,0 +1,1 @@
+Si le serment déféré n’est pas prêté, ou s’il est reconnu, même implicitement, que les sommes ou prestations réclamées n’ont pas été payées, fournies ou remboursées, l’action en paie- ment devient purement civile et se prescrit conformément à la réglementation en vigueur en la matière.

@@ -1,0 +1,4 @@
+Principe de rémunération
+A travail de valeur égale, le salaire est égal pour tous les travailleurs quels que soient leur origine, leur sexe, leur âge, leur statut et leur confession, dans les conditions prévues par la présente convention.
+Le salaire étant la contrepartie du travail fourni, aucun salaire n'est dû en cas d'absence, sauf dans les cas prévus par la réglementation, les conventions et accords collectifs ou le contrat individuel de travail.
+Aucun salaire ne peut être inférieur au salaire Minimum Interprofessionnel Garanti (SMIG) fixé par décret pris en conseil des ministres sur rapport du ministre chargé du travail après avis motivé du Conseil National du Travail.

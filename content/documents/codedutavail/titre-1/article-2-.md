@@ -1,0 +1,3 @@
+Est considéré comme travailleur au sens du code du travail, quels que soient son sexe et sa nationalité, toute personne qui s’est engagée à mettre son activité professionnelle, moyennant rémunération, sous la direction et l’autorité d’une personne physique ou morale, publique ou privée. Pour la détermination de la qualité de travailleur, il ne doit être tenu compte ni du statut juridique de l’employeur, ni de celui du travailleur.
+Sont exclues du champ d’application du présent code, les personnes nommées dans un emploi permanent d’un cadre d’une administration publique.
+Les travailleurs de la marine marchande et des pêches maritimes restent régis par les dispositions du code de la marine marchande et les textes législatifs et réglementaires subséquents.

@@ -1,2 +1,0 @@
-La réponse n’est exigible que dans l’édition ou les éditions où est paru l’article. Est assimilé au refus d’insertion et puni comme tel, sans préjudice de l’action en dommages et intérêts, le fait de publier la réponse dans les régions non desservies par l’édition ou les éditions concernée(s).
-Est également assimilé au refus d’insertion et puni comme tel, le fait de publier une édition spéciale d’où est retranchée la réponse que le numéro correspondant du journal est tenu de reproduire.

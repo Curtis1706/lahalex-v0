@@ -1,0 +1,6 @@
+Avant la diffusion de chaque feuille de journal ou de périodique, il est déposé, par le directeur de publication ou son fondé de pouvoir, sous forme de dépôt légal :
+- trois (03) exemplaires signés, au bas de la publication, auprès de la Haute Autorité de l’Audiovisuel et de la Communication ;
+- deux (02) exemplaires signés au bas de la publication, au parquet près le tribunal de 1 instance territorialement compétent.
+Ce dépôt est effectué sous bordereau signé par le directeur de publication ou son fondé de pouvoir, l’éditeur, l’imprimeur, chacun en ce qui le concerne.
+l'envoi de l’exemplaire peut se faire par courrier électronique. Mais le directeur de publication est tenu de déposer les exemplaires requis sur support papier au plus tard vingt-quatre (24) heures après publication.
+Pour le dépôt légal des journaux électroniques à chaque parution, un exemplaire est envoyé par courrier à l’adresse électronique de la Haute Autorité de l’Audiovisuel et de la Communication et du parquet territorialement compétent. Toute correspondance relative au dépôt légal telle que prévue ci-dessus bénéficie de la franchise postale.

@@ -1,0 +1,2 @@
+Le procès-verbal de conciliation, totale ou partielle, est immédiatement transmis par l’inspecteur du travail au président du tribunal du travail qui y appose la formule exécutoire.
+L’exécution du procès-verbal est ensuite poursuivie comme celle d’un jugement.

@@ -1,0 +1,14 @@
+{
+  "id": "article-36-",
+  "title": "Article 36 :",
+  "numero": "36 ",
+  "document": "codeinvestissementbenin",
+  "path": [
+    "titre-3"
+  ],
+  "navigation": {
+    "parent": "titre-3",
+    "previous": "article-35-",
+    "next": "article-37-"
+  }
+}

@@ -5,4 +5,4 @@ Conformément aux dispositions de la loi organique relative à la Haute Autorit�
 - au moins le tiers (1/3) du capital social ou des titres participatifs appartient à des personnes physiques ou morales béninoises ;
 - ces personnes disposent, à l’assemblée générale, du nombre de voix correspondant à la proportion des parts qu’elles détiennent ;
 - au moins le tiers (1/3) des membres de la direction est de nationalité béninoise.
-Aucun propriétaire de parts sociales ou d’actions ne peut détenir plus de 51% du capital social.
+` `Aucun propriétaire de parts sociales ou d’actions ne peut détenir plus de 51% du capital social.

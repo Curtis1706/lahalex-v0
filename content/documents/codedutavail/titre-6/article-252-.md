@@ -1,0 +1,1 @@
+Le différend collectif est celui qui oppose une collectivité de salariés organisées ou non en groupement professionnel à un employeur ou à un groupe d’employeurs. Il est caractérisé par la nature collective de l’intérêt en jeu.

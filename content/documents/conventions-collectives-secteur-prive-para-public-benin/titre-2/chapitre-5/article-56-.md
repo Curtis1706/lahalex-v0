@@ -1,0 +1,3 @@
+Stage de formation et de perfectionnement
+L'employeur prend les mesures nécessaires pour permettre à ses travailleurs, de suivre des stages de formation professionnelle, de recyclage, de perfectionnement ou de participer à des voyages d'études, séminaires et conférences d'ordre professionnel présentant un intérêt réel pour les postes et emplois actuels et futurs.
+Toute formation d'une durée d'au moins neuf (09) mois donne droit au changement de catégorie.

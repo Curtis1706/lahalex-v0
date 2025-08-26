@@ -1,0 +1,3 @@
+L’employeur doit tenir constamment à jour au lieu d’exploitation, un registre dit « registre d’employeur » destiné à recueillir toutes les mentions permettant l’exercice du contrôle des services compétents du travail.
+Un arrêté du ministre chargé du travail fixe le modèle et le contenu de ce registre et les conditions dans lesquelles il doit être tenu à la disposition des services de l’inspection du travail.
+Cet arrêté précise en outre les conditions dans lesquelles certaines entreprises ou catégories d’entreprises peuvent être dispensées de la tenue dudit registre.

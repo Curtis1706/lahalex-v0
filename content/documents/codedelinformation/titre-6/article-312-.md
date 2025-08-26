@@ -1,2 +1,2 @@
 Le délai entre la citation et la comparution devant la juridiction saisie est de huit (08) jours, outre un (01) jour supplémentaire par cinquante (50) kilomètres de distance.
-L’inobservance de cette prescription n’emporte pas nullité de la citation. La juridiction saisie veille à ce que le prévenu bénéficie d’un temps suffisant pour préparer sa défense.
+l'inobservance de cette prescription n’emporte pas nullité de la citation. La juridiction saisie veille à ce que le prévenu bénéficie d’un temps suffisant pour préparer sa défense.

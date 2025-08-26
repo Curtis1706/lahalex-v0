@@ -6,7 +6,7 @@ Les affiches sont particulières ou privées lorsqu’elles sont apposées, fix�
 - antenne collective : dispositif de captage d’émissions de radiodiffusion sonore et télévisuelle auquel sont reliés plusieurs appareils récepteurs de ces émissions ;
 - catégorie de média : organe de presse utilisant les mêmes moyens de diffusion collective à un large public ;
 - chantiers communs à la corporation : activités ou structures instaurées au bénéfice de l’ensemble de la corporation des médias, dans le but d’accompagner ou de faciliter l’exercice du métier notamment la centrale d’achat des médias, la messagerie.
-Communication :
+` 	`Communication :
 - processus d’échanges de messages entre individus et groupes d’individus plus ou moins importants ;
 - processus de persuasion du public ou processus visant à changer les comportements, les attitudes et les perceptions du public grâce à des messages élaborés sous une certaine forme et diffusés par les médias ;
 - transmission d’informations entre un émetteur et un récepteur par le biais d’un canal.
@@ -21,7 +21,7 @@ Communication :
 - entreprise de presse :
 - toute société ou association de presse écrite, audiovisuelle ou en ligne ou toute société regroupant au moins deux organes de presse, structurée en une unité économique de production à but commercial, social ou culturel ;
 - toute maison d’édition ou d’imprimerie qui édite, à titre principal et/ou exclusif, des journaux ou autres publications d’information ou d’opinion.
-- exploitant de système d’accès sous condition : toute personne, physique ou morale, exploitant ou fournissant un système d’accès sous condition ;
+- ` `exploitant de système d’accès sous condition : toute personne, physique ou morale, exploitant ou fournissant un système d’accès sous condition ;
 - fréquence radioélectrique : rythme de répétition ou de propagation des ondes radioélectriques dans l’espace ;
 - fournisseur d’accès internet : personne physique ou morale qui dispose de serveurs connectés à internet et qui permet à ses utilisateurs d’accéder aux services internet ;
 - information :
@@ -37,15 +37,15 @@ Communication :
 - ensemble de dispositions juridiques, politiques, économiques, morales et socioculturelles qui régissent l’organisation d’un pays et le fonctionnement d’un
 Etat ;
 - caractère de ces dispositions qui, pour des raisons diverses, s’imposent à tous.
-- organe de presse ou organe d’information : moyens de diffusion collective d’informations destinées à un large public, tels que :
+- ` `organe de presse ou organe d’information : moyens de diffusion collective d’informations destinées à un large public, tels que :
 - presse écrite :
-▪ tout écrit imprimé ou en ligne, à parution régulière, disposant d’un siège et d’un comité de rédaction permanents et renfermant dans chaque livraison des informations générales et spécialisées d’ordre politique, économique, scientifique, culturel et confessionnel, destinées à la consommation d’un public très divers et très étendu ;
-▪ toute publication à parution journalière ou périodique, ayant pour objet le traitement de l’information à caractère politique, économique, scientifique, social, culturel ou ludique, appartenant à des personnes physiques ou morales, qu’elles soient vendues ou distribuées gratuitement ;
-▪ publications périodiques destinées aux enfants et adolescents.
+` `▪ tout écrit imprimé ou en ligne, à parution régulière, disposant d’un siège et d’un comité de rédaction permanents et renfermant dans chaque livraison des informations générales et spécialisées d’ordre politique, économique, scientifique, culturel et confessionnel, destinées à la consommation d’un public très divers et très étendu ;
+` `▪ toute publication à parution journalière ou périodique, ayant pour objet le traitement de l’information à caractère politique, économique, scientifique, social, culturel ou ludique, appartenant à des personnes physiques ou morales, qu’elles soient vendues ou distribuées gratuitement ;
+` `▪ publications périodiques destinées aux enfants et adolescents.
 - radiodiffusion sonore : médium qui diffuse, par voie électronique et numérique des informations générales et spécialisées destinées à être reçues simultanément par une partie ou l’ensemble du public ;
 - télévision : médium qui diffuse, par voie électronique et numérique des images, des écrits et des sons destinés à être reçus simultanément par une partie ou l’ensemble du public ;
 - publications multimédia en ligne : toute publication grâce à un média qui, pour produire, recevoir et diffuser l’information via les Technologies de l’Information et de la Communication (TIC), associe sur un même support au moins deux modes de communication tels que le texte, le son et l’image.
-- organe de presse de service public : outil étatique d’information, d’éducation, de développement et de promotion des valeurs morales et culturelles qui n’est ni gouvernemental, ni privé, ni commercial, ni communautaire. Il est accessible à tous et s’adresse à tous, indépendamment du sexe, de la religion, de l’âge, de l’appartenance politique, du statut social ou économique des uns et des autres. Il offre une information impartiale et des émissions d’intérêt général ayant un contenu national. L’Etat assure son financement. Tout comme l’Etat, la HAAC garantit son autonomie et son indépendance ;
+- organe de presse de service public : outil étatique d’information, d’éducation, de développement et de promotion des valeurs morales et culturelles qui n’est ni gouvernemental, ni privé, ni commercial, ni communautaire. Il est accessible à tous et s’adresse à tous, indépendamment du sexe, de la religion, de l’âge, de l’appartenance politique, du statut social ou économique des uns et des autres. Il offre une information impartiale et des émissions d’intérêt général ayant un contenu national. l'Etat assure son financement. Tout comme l’Etat, la HAAC garantit son autonomie et son indépendance ;
 - organisme de radiodiffusion et de télévision : toute personne morale autorisée à fournir un service de radiodiffusion sonore ou de télévision au public en général ou à une partie du public ;
 - périodique spécialisé : toute publication se rapportant à des thèmes spécifiques ou à des personnes morales spécifiques ;
 - personne physique ou personne morale établie en République du Bénin : toute personne physique ou personne morale dont le domicile ou le siège social effectif est sur le territoire de la République du Bénin ou dont les décisions relatives à l’exploitation sont effectivement prises en République du Bénin ;
@@ -63,8 +63,8 @@ Il n’y a pas de production propre lorsque l’organe de presse transmet de man
 - les programmes musicaux présentent une variété de genre ;
 - les programmes sont financés au moins à 60% par la publicité.
 - radio sonore privée non commerciale : radio locale, associative, communautaire, confessionnelle, culturelle, universitaire ou scolaire. Elles sont par vocation des radiodiffusions sonores de proximité.
-Elles peuvent éventuellement faire appel, pour une part non prépondérante de leur temps d’antenne, soit à :
-- - des banques de programmes ;
+` `Elles peuvent éventuellement faire appel, pour une part non prépondérante de leur temps d’antenne, soit à :
+- des banques de programmes ;
 - un fournisseur de programmes identifié, à condition que ce dernier ne poursuive pas d’objectif commercial, qu’il ait un statut associatif et que cette fourniture soit sa spécificité et particulièrement celle de ses programmes.
 - service de radiodiffusion : moyen de communication sonore de masse destiné à être reçu, par le public par l’intermédiaire d’un récepteur ;
 - service de radiodiffusion par satellite : moyen de communication électronique de masse dans lequel des signaux émis ou retransmis par des stations spatiales sont destinés à être reçus directement par le public en général.
@@ -77,7 +77,7 @@ Dans le service de radiodiffusion par satellite, l’expression « reçu directe
 - les programmes font une large part à l’information, aux émissions de services, aux émissions à vocation culturelle et aux jeux ;
 - une partie musicale présente une variété de genre ;
 - les programmes sont financés au moins à 60% par la publicité.
-- télévision privée non commerciale : télévision locale et communautaire à but non lucratif. Elle peut éventuellement faire appel, pour une part non prépondérante de son temps d’antenne, soit à :
+- ` `télévision privée non commerciale : télévision locale et communautaire à but non lucratif. Elle peut éventuellement faire appel, pour une part non prépondérante de son temps d’antenne, soit à :
 - des banques de programmes ;
 - un fournisseur de programmes identifiés, à condition que ce dernier ne poursuive pas d’objectif commercial, qu’il ait un statut associatif et que cette fourniture soit sa spécificité et particulièrement celle de ses programmes ;
 - vie privée : s’entend de l’intimité, de la vie familiale, de la vie au foyer, de la vie sentimentale, de la maternité, de l’état de santé, des pratiques religieuses, de la correspondance privée. Elle s’arrête là où commencent la vie publique et la vie professionnelle ;

@@ -1,1 +1,0 @@
-Article 18 : Tout expatrié, membre du personnel d’une entreprise bénéficiant des dispositions du présent Code, est autorisé à transférer librement, conformément aux dispositions de la réglementation des changes, tout ou partie de sa rémunération, quels qu’en soient la nature juridique et le montant exprimé en monnaie locale ou en devises.

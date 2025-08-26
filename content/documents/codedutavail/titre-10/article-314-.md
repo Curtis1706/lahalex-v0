@@ -1,0 +1,1 @@
+Aussi longtemps que de nouvelles conventions collectives n’auront pas été établies dans le cadre du présent code, les conventions collectives antérieurement conclues restent en vigueur dans celles des dispositions qui ne lui sont pas contraires.

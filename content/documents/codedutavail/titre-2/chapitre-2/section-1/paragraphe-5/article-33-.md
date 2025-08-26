@@ -1,0 +1,1 @@
+Les employeurs qui utilisent des handicapés, bénéficient pour chaque unité employée, d’une exonération de la part patronale de l’impôt progressif sur les traitements, salaires, pensions et rentes viagères.

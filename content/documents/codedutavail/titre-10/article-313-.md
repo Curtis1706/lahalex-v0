@@ -1,0 +1,3 @@
+Les dispositions du code sont de plein droit applicables aux contrats individuels de travail en cours d’exécution.
+Elles peuvent constituer une cause de rupture des- dits contrats. Les employeurs sont tenus, dans un délai de six mois à compter de la publication du présent code au Journal officiel, de procéder à la révision des contrats susvisés en vue de les adapter aux exigences du présent code.
+En cas de refus de l’une des parties, la juridiction compétente peut ordonner de procéder aux modifications jugées nécessaires.

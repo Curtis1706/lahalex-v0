@@ -1,0 +1,1 @@
+Les conditions d’organisation et de fonctionnement de cette commission sont fixées par décret pris en conseil des ministres.

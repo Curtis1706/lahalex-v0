@@ -1,3 +1,3 @@
 Le délit d’offense au Président de la République est constitué par toutes allégations diffamatoires tant dans sa vie publique que privée et qui sont de nature à l’atteindre dans son honneur ou dans sa dignité.
-L’offense commise publiquement envers le Président de la République sera punie d’une amende de un million (1 000 000) à dix millions (10 000 000) de francs CFA.
-L’offense commise publiquement envers les Chefs d’Etats étrangers, les chefs de Gouvernements étrangers et les ministres des affaires étrangères des Gouvernements étrangers sera punie des mêmes peines.
+` 	`l'offense commise publiquement envers le Président de la République sera punie d’une amende de un million (1 000 000) à dix millions (10 000 000) de francs CFA.
+l'offense commise publiquement envers les Chefs d’Etats étrangers, les chefs de Gouvernements étrangers et les ministres des affaires étrangères des Gouvernements étrangers sera punie des mêmes peines.

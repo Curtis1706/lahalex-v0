@@ -1,0 +1,2 @@
+La classe de passage et le poids des bagages sont déterminés par la situation occupée par l’employé dans l’entrepris suivant les stipulations de la convention collective ou, à défaut, suivant les règles adoptées par l’employeur à l’égard de son personnel ou suivant les usages locaux.
+Il est tenu compte, dans tous les cas, des charges de famille pour le calcul du poids des bagages.

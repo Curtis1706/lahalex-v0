@@ -1,2 +1,1 @@
-Les périmètres de reboisement et les plantations d'Etat
-sont exempts de tous droits d'usage.
+Les périmètres de reboisement et les plantations d’Etat sont exempts de tous droits d’usage.

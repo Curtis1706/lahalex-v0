@@ -1,0 +1,2 @@
+Lorsqu’elle est saisie d’une contestation relative au bien-fondé de la rupture d’un engagement à l’essai, d’un contrat de travail à durée déterminée ou, sous réserve des dispositions de l’article 44 d’un contrat de travail à durée indéterminée, la juridiction compétente procède à une enquête sur les causes et les circonstances de la rupture.
+Le jugement mentionne expressément le motif allégué par la partie qui a rompu les relations contractuelles.

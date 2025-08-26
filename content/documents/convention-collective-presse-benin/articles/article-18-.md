@@ -1,0 +1,2 @@
+COLLABORATION FORTUITE
+En cas de collaboration fortuite, le journaliste ou le technicien informe au préalable son employeur ou son représentant même si cette collaboration ne porte aucun préjudice à l’entreprise.

@@ -1,0 +1,3 @@
+INTERRUPTION COLLECTIVE DU TRAVAIL
+En cas d’interruption collective de travail résultant soit de cause accidentelle ou de force majeure, soit d’intempérie, les récupérations des heures de travail perdues sont effectuées conformément à la réglementation en vigueur.
+Le travailleur qui, sur l’ordre du chef d’entreprise ou de son représentant, s’est tenu à la disposition de l’entreprise, doit recevoir son salaire calculé au tarif normal, même s’il n’a pas effectivement travaillé.

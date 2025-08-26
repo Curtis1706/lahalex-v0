@@ -1,0 +1,1 @@
+Les taux minima de salaires, les conditions dans lesquelles les retenues sur salaire peu- vent être pratiquées ainsi que les conditions de rémunération du travail à la tâche ou aux pièces sont affichés aux bureaux des employeurs et sur les lieux de paie du personnel.

@@ -1,8 +1,2 @@
-Les tribunaux pourront prononcer la confiscation des
-bois et produits régulièrement achetés ou provenant d'exploitation
-autorisées mais qui auront été exploités ou transportés en dehors des
-conditions fixées par la présente loi ou par les décrets ou arrêtés
-d'application.
-Les tribunaux pourront prononcer également la confiscation des moyens de
-transports, des outils ou des animaux domestiques ayant servi à
-commettre l'acte délicteux.
+Les tribunaux pourront prononcer la confiscation des bois et produits régulièrement achetés ou provenant d’exploitation autorisées mais qui auront été exploités ou transportés en dehors des conditions fixées par la présente loi ou par les décrets ou arrêtés d’application.
+Les tribunaux pourront prononcer également la confiscation des moyens de transports, des outils ou des animaux domestiques ayant servi à commettre l’acte délicteux.

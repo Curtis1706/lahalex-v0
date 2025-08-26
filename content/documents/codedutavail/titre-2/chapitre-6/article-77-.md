@@ -1,0 +1,1 @@
+Le tâcheron est tenu d’indiquer sa qualité de tâcheron, le nom et l’adresse de l’entrepreneur par voie d’affiche apposée de façon permanente dans chacun des ateliers, magasins ou chantiers utilisés dans des conditions fixées par arrêté du ministre chargé du travail pris après avis du conseil national du travail.

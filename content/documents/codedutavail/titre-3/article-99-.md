@@ -1,0 +1,2 @@
+Sont électeurs tous les salariés de l’entreprise ou de l’établissement ayant au moins trois mois d’ancienneté.
+Sont éligibles, à l’exception des ascendants, descendants, frères ou sœurs ou alliés au même degré du chef d’entreprise, les électeurs ayant au moins un an d’ancienneté.

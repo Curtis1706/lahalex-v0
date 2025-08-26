@@ -1,0 +1,1 @@
+Un arrêté du ministre chargé du travail, pris après avis du conseil national du travail, détermine les conditions dans lesquelles les employeurs sont obligatoirement tenus d’installer et d’approvisionner en médicaments et accessoires les services médicaux du travail.

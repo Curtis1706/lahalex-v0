@@ -1,0 +1,2 @@
+Lorsque le nombre de délégués à élire le permet, un accord entre l’employeur et les organisations syndicales représentatives peut augmenter le nombre de collèges afin de permettre séparément la représentation des employés, des ouvriers et manœuvres, des agents de maîtrise, des cadres et assimilés.
+A défaut d’un tel accord, les dispositions de l’article précédent sont applicables.

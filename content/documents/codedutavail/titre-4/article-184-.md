@@ -1,0 +1,3 @@
+Il est interdit à toute personne d’introduire ou de distribuer, de laisser introduire ou de laisser distribuer, dans les établissements ou entreprises, des boissons alcoolisées et du tabac de toutes sortes.
+La distribution de l’eau et des boissons non alcoolisées aux lieux et pendant les heures de travail est assurée par l’employeur. Ces boissons doivent faire l’objet de contrôles périodiques par l’inspecteur du travail.
+Des arrêtés du ministre chargé du travail fixent en tant que de besoin les modalités d’application des dispositions ci-dessus énoncées.

@@ -1,3 +1,0 @@
-L’accès à un document ou renseignement public est gratuit.
-Toutefois, en cas de besoin de leur transcription, de leur reproduction ou photocopie ou encore de leur envoi par la poste ou par courrier électronique, le coût de ces actes est imputable au requérant.
-Le montant et les modalités de paiement de ces frais sont fixés par décision de la Haute Autorité de l’Audiovisuel et de la Communication après avis du ministre en charge des finances.

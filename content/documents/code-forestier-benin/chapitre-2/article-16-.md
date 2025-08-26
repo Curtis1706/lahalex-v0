@@ -1,9 +1,0 @@
-Article 16 : Cette commission est chargée d'examiner les
-réclamations formulées par les habitants des localités concernées.
-Si elle juge l'affaire insuffisamment instruite, elle peut la renvoyer
-à une date ultérieure par décision motivée. La nouvelle réunion fixée
-dans la quinzaine après la première, pourra être suivie de renvois
-successifs prononcés par décision motivée, Toutefois la clôture du
-procès-verbal général de la commission devra être prononcée au plus tard
-dans un délai de trois mois à compter de l'expiration du délai
-d'affichage.

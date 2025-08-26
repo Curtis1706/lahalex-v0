@@ -1,0 +1,3 @@
+Aucun demandeur d’emploi ne peut être recruté s’il n’est muni d’une carte de présentation délivrée par les services compétents du ministère chargé du travail.
+Sous réserve des dispositions relatives aux travail- leurs étrangers, la carte de présentation est délivrée de plein droit.
+Les modalités de délivrance et le contenu de la carte de présentation sont déterminés par arrêté du ministre chargé du travail.

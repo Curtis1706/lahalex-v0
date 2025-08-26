@@ -1,0 +1,1 @@
+La représentation des salariés dans les établissements ou entreprises est assurée par des délégués du personnel élus par les salariés de ces établissements ou entreprises.

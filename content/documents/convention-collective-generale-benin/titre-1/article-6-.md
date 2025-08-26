@@ -1,0 +1,3 @@
+DENONCIATION
+La dénonciation de la présente Convention par l’une des parties contractantes ne pourra intervenir avant un an et devra être portée à la connaissance des autres parties par lettre recommandée avec accusé de réception.
+Elle sera effectuée avec un préavis de trois mois, à l’expiration duquel la Convention cessera d’avoir effet. De toute façon, la présente Convention restera en vigueur jusqu’à l’application de la nouvelle Convention signée à la suite de la dénonciation ou de la demande de révision formulée par l’une des parties.

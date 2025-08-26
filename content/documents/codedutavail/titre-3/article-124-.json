@@ -1,0 +1,14 @@
+{
+  "id": "article-124-",
+  "title": "Article 124 :",
+  "numero": "124 ",
+  "document": "codedutavail",
+  "path": [
+    "titre-3"
+  ],
+  "navigation": {
+    "parent": "titre-3",
+    "previous": "article-123-",
+    "next": "article-125-"
+  }
+}

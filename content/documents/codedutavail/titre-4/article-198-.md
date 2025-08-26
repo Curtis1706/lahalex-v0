@@ -1,0 +1,1 @@
+En cas de maladie d’un travailleur ou de ses enfants logés avec lui par l’employeur, ce der- nier est tenu de leur fournir gratuitement les soins ainsi que, dans la limite des moyens définis par arrêté du ministre chargé du travail, pris après accord du ministre chargé de la santé et sur avis du conseil national du travail, les médicaments et accessoires nécessaires.

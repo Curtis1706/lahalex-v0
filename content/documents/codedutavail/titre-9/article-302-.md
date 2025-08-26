@@ -1,0 +1,3 @@
+Sont punis d’une amende de 14.000 à 70.000 FCFA et en cas de récidive, d’une amende de 70.000 à 140.000 FCFA et d’un emprisonne- ment de quinze jours à deux mois :
+1. les auteurs d’infractions aux dispositions des articles 71, 72, 142, 143 144, 145, 146, 147, 153, 155, 194, 202, 208, 218 et 220 ;
+2. les auteurs d’infractions aux dispositions des décrets prévus par les articles 142, 143 et 210 ainsi que des arrêtés prévus par les articles 148, 206 et 211.

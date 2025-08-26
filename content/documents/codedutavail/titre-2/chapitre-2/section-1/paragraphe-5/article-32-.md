@@ -1,0 +1,2 @@
+Est considérée comme personne handicapée, toute personne dont les possibilités d’obtenir ou de conserver un emploi, sont effectivement réduites par suite d’une insuffisance ou d’une diminution de ses capacités physiques ou mentales.
+La qualité de personne handicapée est constatée par une commission placée sous l’autorité du ministre chargé des affaires sociales. Cette qualité est matérialisée par une carte.

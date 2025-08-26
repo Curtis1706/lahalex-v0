@@ -1,2 +1,0 @@
-Tout média de service public qui reçoit des dons et legs de quelque donateur que ce soit, en informe la Haute Autorité de l’Audiovisuel et de la Communication.
-Les dons et legs d’une personne physique ou d’une personne morale à un média de service public ne peuvent induire une contrepartie sous forme de faveurs exceptionnelles au donateur au mépris des textes législatifs et réglementaires, du code de déontologie et d’éthique et des prescriptions de la Haute Autorité de l’Audiovisuel et de la Communication.

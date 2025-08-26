@@ -1,0 +1,1 @@
+En application des dispositions de l’article 29 de la présente loi, le territoire béninois est divisé en trois (03) zones 1, 2 et 3 qui sont définies par décret pris en Conseil des ministres.

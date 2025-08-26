@@ -1,0 +1,2 @@
+Pour garantir une bonne administration des régimes d’agrément, la Direction Générale des Douanes et Droits Indirects crée pour chaque investisseur un sommier de gestion et de suivi des importations de biens éligibles.
+La liste des biens, matériels et équipements bénéficiant des réductions de droit est fixée par arrêté conjoint du Ministre chargé de l’Industrie, du Ministre chargé de l’Economie et des Finances et du Ministre du secteur d’activité concernée, sur proposition de l’Agence nationale en charge de la promotion des investissements.

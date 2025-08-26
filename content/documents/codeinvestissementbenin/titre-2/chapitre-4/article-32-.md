@@ -1,0 +1,5 @@
+l'Agence nationale en charge de la promotion des investissements examine l’adéquation du projet aux objectifs de ce Code, sur la base d’un plan d’investissement soumis par l’investisseur. Toute demande d’agrément jugée acceptable à l’issue des études techniques donne lieu à la délivrance au profit du requérant d’un certificat d’acceptabilité technique par l’Agence nationale en charge de la promotion des investissements.
+La décision finale d’agrément à un régime privilégié du Code des investissements est prise en Conseil des Ministres et appelle la prise subséquente d’un arrêté interministériel. Les demandes d’agrément qui n’ont pas bénéficié de certificat d’acceptabilité technique ne sont pas soumises pour décision en Conseil des Ministres.
+l'Agence nationale en charge de la promotion des investissements dispose de vingt (20) jours ouvrables à compter de la date de dépôt du dossier pour formuler sa décision technique.
+Toute décision de l’Agence doit être motivée par écrit.
+Un décret pris en Conseil des Ministres précise les formalités à accomplir par les investisseurs et les modalités d’étude des dossiers d’agrément au présent Code.

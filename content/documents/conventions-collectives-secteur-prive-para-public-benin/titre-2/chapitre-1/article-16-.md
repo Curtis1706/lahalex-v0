@@ -1,0 +1,2 @@
+Mutation à la suite d'accident du travail ou de maladie professionnelle
+En cas d'inaptitude du travailleur médicalement constatée à la suite d'un accident de travail ou d'une maladie professionnelle, un déclassement peut être proposé par l'employeur au travailleur sur avis du Médecin d'entreprise. Si le travailleur s'y oppose, le contrat est réputé rompu du fait de l'employeur.

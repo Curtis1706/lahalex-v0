@@ -1,1 +1,2 @@
 La Haute Autorité de l’Audiovisuel et de la Communication a pour rôle de protéger et de promouvoir la liberté de presse et de communication. Elle veille au respect de la déontologie en matière d’information et à l’accès équitable des partis politiques, des associations et des citoyens aux moyens officiels d’information et de communication.
+` `

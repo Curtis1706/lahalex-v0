@@ -1,0 +1,3 @@
+Dans les établissements agricoles, la durée légale du travail des salariés, quels que soient leur sexe et leur mode de rémunération, est fixée à deux mille quatre cents heures par an.
+Cette durée peut être dépassée par application des règles relatives aux équivalences, aux heures supplémentaires ou à la récupération des heures de travail perdues.
+Des décrets pris après avis du conseil national du travail fixent, par catégorie de culture et par saison, le maximum du nombre d’heures de travail pouvant être effectuées par semaine.

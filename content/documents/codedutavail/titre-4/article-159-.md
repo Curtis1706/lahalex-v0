@@ -1,0 +1,9 @@
+Dans la limite annuelle de dix jours, ne peuvent être déduites de la durée du congé les permissions exceptionnelles qui auront été accordées au travailleur à l’occasion d’événements familiaux touchant directement son foyer.
+Dans la limite annuelle de quinze jours ouvrables non déductibles de la durée du congé payé, des autorisations d’absence sans solde pourront être accordées au travailleur afin de lui permettre :
+- soit de suivre un stage officiel de perfectionnement, d’éducation physique et sportive ;
+- soit de représenter la République du Bénin dans une compétition sportive internationale ;
+- soit d’assister à des congrès syndicaux ou à des séances de formation syndicale auxquelles il est délégué en vertu d’un mandat régulier.
+La demande est obligatoirement présentée par le travailleur sauf cas exceptionnel, au moins un mois avant la date de sa prise d’effet.
+Elle doit porter le visa du ministre compétent en ce qui concerne les stages officiels de perfectionne- ment, d’éducation physique et sportive ou les compétitions sportives internationales, et du ministre chargé du travail en ce qui concerne les congés syndicaux.
+Par contre, les congés spéciaux autres que ceux définis ci-dessus, accordés en sus des jours fériés, pourront être déduits s’ils n’ont pas fait l’objet d’une compensation ou récupération des journées ainsi accordées.
+Un arrêté du ministre chargé du travail pris après avis du conseil national du travail détermine, en tant que| de besoin, les dispositions relatives au régime des congés payés, notamment en ce qui concerne l’aménagement du congé et le calcul de l’allocation de congé.

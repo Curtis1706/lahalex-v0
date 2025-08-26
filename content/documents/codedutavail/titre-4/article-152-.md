@@ -1,0 +1,1 @@
+Pour être applicables, les conventions et accords relatifs à la modulation doivent faire l’objet d’un agrément par le ministre chargé du travail qui s’assure notamment du respect des conditions fixées à l’article 150.

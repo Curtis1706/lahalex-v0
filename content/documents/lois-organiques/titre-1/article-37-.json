@@ -1,0 +1,14 @@
+{
+  "id": "article-37-",
+  "title": "Article 37 :",
+  "numero": "37 ",
+  "document": "lois-organiques",
+  "path": [
+    "titre-1"
+  ],
+  "navigation": {
+    "parent": "titre-1",
+    "previous": "article-36-",
+    "next": "article-38-"
+  }
+}

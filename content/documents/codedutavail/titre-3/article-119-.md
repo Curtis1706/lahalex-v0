@@ -1,0 +1,2 @@
+En cas d’autorisation expresse ou implicite de licenciement, l’employeur doit notifier le licenciement dans les formes prévues à l’article 46 du présent code, mention devant être faite de l’autorisation expressément ou implicitement accordée par l’inspecteur du travail
+Le salarié ainsi licencié conserve le droit de contester son licenciement devant la juridiction compétente.

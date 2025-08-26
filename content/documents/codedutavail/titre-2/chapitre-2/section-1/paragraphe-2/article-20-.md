@@ -1,0 +1,1 @@
+L’engagement à l’essai doit être constaté par écrit A défaut, le contrat est réputé définitif dès son origine. Dans les cas prévus aux alinéas b), c) et d) de l’article 10, l’essai ne peut résulter que d’une clause incluse dans le corps du contrat appelé à devenir définitif.

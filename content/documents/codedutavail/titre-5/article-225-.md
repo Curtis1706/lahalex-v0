@@ -1,0 +1,1 @@
+N’est pas opposable au travailleur la mention « pour solde de tout compte » ou toute mention équivalente souscrite par lui soit au cours de l’exécution, soit après résiliation de son contrat de travail, et par laquelle le travailleur renonce à tout ou partie des droits qu’il tient de son contrat de travail.

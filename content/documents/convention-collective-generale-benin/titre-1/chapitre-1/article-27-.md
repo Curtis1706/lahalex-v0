@@ -1,0 +1,4 @@
+LICENCIEMENTS COLLECTIFS
+Si en raison d’une diminution d’activité de l’Entreprise ou de l’Etablissement, ou d’une réorganisation intérieure, l’employeur est amené à procéder à des licenciements collectifs, il doit se conformer à la procédure légale prescrite à l’article 33 du Code du Travail. Il établit l’ordre des licenciements en tenant compte des qualifications professionnelles, de l’ancienneté dans l’établissement et des charges de famille des travailleurs.
+La liste portant l’ordre des licenciements est ensuite transmise pour avis à l’Inspecteur du Travail du ressort avec un rapport motivé de l’employeur. Ce dernier ne peut prendre une décision définitive que 15 jours après notification par lettre recommandée avec accusé de réception de cette liste aux intéressés.
+Les travailleurs conservent pendant un délai de deux ans un droit de priorité de réengagement dans l’établissement, dans l’ordre inverse de leur classement, sur la liste de licenciement.

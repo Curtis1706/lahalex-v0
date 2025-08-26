@@ -1,0 +1,1 @@
+Toutes les autorités civiles et les autorités compétentes en matière de police judiciaire doivent collaborer avec les administrateurs, inspecteurs et contrôleurs du travail et de la main-d’œuvre et leur prêter sur leur demande, aide et assistance dans l’exercice de leurs fonctions.

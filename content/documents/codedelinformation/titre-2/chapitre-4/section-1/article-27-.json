@@ -1,0 +1,16 @@
+{
+  "id": "article-27-",
+  "title": "Article 27 :",
+  "numero": "27 ",
+  "document": "codedelinformation",
+  "path": [
+    "titre-2",
+    "chapitre-4",
+    "section-1"
+  ],
+  "navigation": {
+    "parent": "section-1",
+    "previous": "article-26-",
+    "next": "article-28-"
+  }
+}

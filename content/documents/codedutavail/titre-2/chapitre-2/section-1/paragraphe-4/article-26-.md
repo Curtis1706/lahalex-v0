@@ -1,0 +1,1 @@
+Pendant les deux premières années de sa résidence régulière sur le territoire et sous réserve des dispositions contraires d’un accord ou d’une convention passée par la République du Bénin, tout étranger ou immigrant ne peut exercer une activité salariée qu’en vertu d’un contrat de travail à durée déterminée.

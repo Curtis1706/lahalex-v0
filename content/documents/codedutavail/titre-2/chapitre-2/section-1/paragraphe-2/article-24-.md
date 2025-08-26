@@ -1,0 +1,2 @@
+Les délais de recrutement et de route ne sont pas compris dans la durée maximum de l’essai. En cas de résiliation du contrat pendant la période d’essai par l’une ou l’autre des parties, le retour du travailleur au lieu de sa résidence habituelle est supportée par l’employeur.
+Les parties peuvent se délier au cours de la période d’essai sans préavis.

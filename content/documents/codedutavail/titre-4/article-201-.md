@@ -1,0 +1,4 @@
+L’employeur est tenu de déclarer simultanément à l’inspecteur du travail du ressort et à la caisse de sécurité sociale, dans un délai de quarante-huit heures, tout accident du travail ou toute maladie professionnelle constatée dans l’entreprise ou l’établissement.
+La déclaration est faite sur un formulaire fourni gratuitement par la caisse de sécurité sociale sur simple demande de l’employeur.
+La déclaration peut être faite par le travailleur ou ses représentants jusqu’à l’expiration de la deuxième année suivant la date de l’accident ou de la première constatation médicale de la maladie professionnelle.
+En ce qui concerne les maladies professionnelles, la date de la première constatation médicale de la maladie est assimilée à la date de l’accident.

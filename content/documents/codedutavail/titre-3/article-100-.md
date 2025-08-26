@@ -1,0 +1,4 @@
+Lorsque l’ensemble du corps électoral comporte plus de vingt et un électeurs, ceux-ci sont répartis en deux collèges à condition qu’un de ces collèges ne comprenne pas moins de onze électeurs. Le premier collège comprend les employés et manœuvres :
+le second, les agents de maîtrise, cadres et assimilés.
+Le personnel est réparti entre les collèges par accord entre l’employeur et les organisations syndicales représentatives. Les sièges sont répartis entre les collèges de la même façon, chaque collège élisant au moins un délégué titulaire et un délégué suppléant.
+A défaut d’accord, le personnel et les sièges sont répartis par l’inspecteur du travail.

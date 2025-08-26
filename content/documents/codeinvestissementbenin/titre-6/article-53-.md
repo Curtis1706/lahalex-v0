@@ -1,0 +1,1 @@
+Des décrets pris en Conseil des Ministres précisent les modalités d’application de la présente loi.

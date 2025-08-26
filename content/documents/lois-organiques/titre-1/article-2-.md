@@ -1,3 +1,1 @@
-La Cour des comptes est la plus haute juridiction de l'État en matière de contrôle des comptes publics. Elle est l'institution supérieure de contrôle des finances publiques.
-Elle est indépendante des pouvoirs exécutif et législatif.
-Les décisions de la Cour des comptes ne sont susceptibles d'aucun recours. Elles s'imposent au pouvoir exécutif, au pouvoir législatif ainsi qu'à toutes les juridictions.
+Il est pourvu au renouvellement des membres de la Cour, vingt (20) jours au moins avant l'expiration de leurs fonctions.

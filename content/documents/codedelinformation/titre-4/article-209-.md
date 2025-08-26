@@ -4,4 +4,4 @@ Le service privé de la radiodiffusion sonore et de la télévision a pour missi
 - favoriser la communication sociale et notamment l’expression, la formation et l’information des diverses communautés culturelles, sociales, professionnelles et des familles spirituelles, philosophiques et politiques ;
 - assurer la promotion de la création artistique béninoise ;
 - contribuer à la production et à la diffusion des œuvres de l’esprit.
-L’ensemble des programmes offerts dans une zone de diffusion n’est pas conçu pour servir la cause exclusive des groupes d’intérêts politiques, ethniques, économiques, financiers, idéologiques ou philosophiques y résidant.
+l'ensemble des programmes offerts dans une zone de diffusion n’est pas conçu pour servir la cause exclusive des groupes d’intérêts politiques, ethniques, économiques, financiers, idéologiques ou philosophiques y résidant.

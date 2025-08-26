@@ -1,0 +1,1 @@
+En cas de non‐respect de l’une des obligations prescrites aux articles 20 à 25 ci‐ avant, dûment constaté par la Commission de Contrôle des Investissements, l’Entreprise est passible d’une amende dont le montant est défini dans un décret d’application de la présente loi.

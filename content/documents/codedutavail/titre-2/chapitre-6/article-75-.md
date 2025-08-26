@@ -1,0 +1,2 @@
+Le tâcheron est un sous-entrepreneur recrutant lui-même la main-d’œuvre nécessaire, qui passe avec un entrepreneur un contrat écrit pour l’exécution d’un travail déterminé ou la fourniture de certains services moyennant un prix négocié.
+Ce contrat doit être remis contre décharge par l’entrepreneur dans les quarante-huit heures en deux exemplaires à l’inspecteur du travail.

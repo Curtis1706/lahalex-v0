@@ -1,0 +1,1 @@
+Les biens meubles et immeubles définitivement acquis et qui sont nécessaires aux activités des syndicats sont insaisissables.

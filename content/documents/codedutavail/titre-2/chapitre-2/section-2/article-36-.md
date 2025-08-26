@@ -1,0 +1,2 @@
+Ne sont pas considérées comme temps de service pour la détermination de l’ancienneté du travailleur dans l’entreprise, les périodes de sus- pension visées aux alinéas 1, 2, 3, 8, 9 et 12 ci-dessus.
+Ces mêmes périodes de suspension visées aux alinéas 1, 2, 3, 8, 9 et 12 ne sont pas considérées comme temps de service pour la détermination du droit aux congés payés.

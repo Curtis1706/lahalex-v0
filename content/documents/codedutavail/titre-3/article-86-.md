@@ -1,0 +1,2 @@
+Les syndicats peuvent passer des contrats ou conventions avec tous autres syndicats, sociétés, entreprises ou personnes.
+Les conventions et accords collectifs du travail sont passés dans les conditions déterminées par le pré- sent code.

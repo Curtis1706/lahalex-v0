@@ -1,3 +1,3 @@
 Lorsque l’intégrité du territoire national et la sécurité de l’Etat sont menacées, en cas de catastrophe, d’épidémie ou de crise grave, le Gouvernement peut faire publier, programmer et diffuser, à tout moment, sur les organes d’information de service public ou du secteur privé, des communiqués d’intérêt général et des interventions solennelles du Chef de l’Etat jugés nécessaires, sans qu’il soit besoin d’en justifier l’opportunité.
-Les publications et les diffusions visées à l’alinéa précédent s’imposent aux organes de presse écrite, aux chaînes de radiodiffusion et de télévision, aux exploitants de service de communication audiovisuelle comme étant des obligations de service public.
-Elles sont annoncées comme émanant du Gouvernement conformément aux dispositions de la Constitution.
+` `Les publications et les diffusions visées à l’alinéa précédent s’imposent aux organes de presse écrite, aux chaînes de radiodiffusion et de télévision, aux exploitants de service de communication audiovisuelle comme étant des obligations de service public.
+` `Elles sont annoncées comme émanant du Gouvernement conformément aux dispositions de la Constitution.

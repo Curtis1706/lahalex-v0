@@ -1,0 +1,2 @@
+AUTRES INDEMNITÉS ET PRIMES
+Des conventions annexes à la présente Convention fixeront ultérieurement par branche d’activités ; par entreprise ou établissement des diverses indemnités et primes relatives aux conditions d’emploi et à la nature du poste de travail occupé.

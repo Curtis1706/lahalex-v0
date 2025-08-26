@@ -1,0 +1,2 @@
+Pendant une période de quinze mois à compter de sa reprise de travail la mère a droit à des repos pour allaitement.
+La durée totale de ce repos ne peut dépasser une heure par journée de travail. La mère peut, pendant cette période, quitter son travail sans préavis et sans avoir, de ce fait, à payer une indemnité de rupture.

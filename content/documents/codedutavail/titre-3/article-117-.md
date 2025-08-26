@@ -1,0 +1,2 @@
+A compter de la réception de la demande d’autorisation du licenciement, l’inspecteur du travail dispose d’un délai de vingt et un jours pour, après enquête contradictoire, prendre sa décision.
+L’absence de réponse dans ce délai vaut autorisation implicite de licenciement.

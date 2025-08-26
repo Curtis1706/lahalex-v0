@@ -1,0 +1,1 @@
+Nul ne peut être apprenti s’il n’est âgé de 14 ans révolus. Nul ne peut recevoir des apprentis mineurs s’il n’est âgé de 25 ans au moins.
