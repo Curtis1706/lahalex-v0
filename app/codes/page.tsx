@@ -1,5 +1,5 @@
 import { LahalexHeaderResponsive } from "@/components/lahalex-header-responsive"
-import { Footer } from "@/components/footer"
+
 import Link from "next/link"
 import { DocumentManager } from "@/lib/document-manager"
 
@@ -40,7 +40,7 @@ export default async function CodesPage() {
         </div>
       </div>
 
-      <Footer />
+      
     </div>
   )
 }
