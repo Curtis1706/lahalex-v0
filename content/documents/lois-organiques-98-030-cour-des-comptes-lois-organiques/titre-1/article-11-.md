@@ -1,0 +1,1 @@
+Les dispositions de l'article 10 alinéa 2 sont applicables lorsqu'un membre de la Cour constitutionnelle est définitivement empêché suite à une incapacité physique permanente.

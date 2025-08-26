@@ -1,0 +1,1 @@
+Dès l'installation de la Cour des comptes, le personnel en service à la Chambre des comptes de la Cour suprême est reversé à la Cour des comptes.

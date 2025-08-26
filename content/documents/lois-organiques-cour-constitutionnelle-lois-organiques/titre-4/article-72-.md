@@ -1,0 +1,1 @@
+Sont nommés auditeurs à la Cour des comptes, les agents qui y ont été reversés en cette qualité.

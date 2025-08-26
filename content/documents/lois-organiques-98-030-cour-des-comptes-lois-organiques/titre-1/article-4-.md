@@ -1,0 +1,1 @@
+Le président de la Cour constitutionnelle est assisté d'un vice-président élu par ses pairs à la majorité absolue des membres présents et votants.

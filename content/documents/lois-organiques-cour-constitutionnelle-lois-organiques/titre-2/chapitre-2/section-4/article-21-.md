@@ -1,0 +1,2 @@
+Le greffier en chef est nommé par décret pris en Conseil des ministres, sur proposition du ministre chargé de la justice, parmi les officiers de justice ou les greffiers ayant au moins quinze (15) ans d'expérience professionnelle dans les juridictions et dans l'administration centrale.
+Les greffiers sont nommés par ordonnance du président de la Cour.

@@ -1,0 +1,1 @@
+Il est pourvu au renouvellement des membres de la Cour, vingt (20) jours au moins avant l'expiration de leurs fonctions.

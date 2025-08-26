@@ -1,0 +1,7 @@
+La Cour des comptes est composée de trois chambres, à savoir :
+- la chambre du contrôle et du jugement des comptes de l'État ;
+- la chambre du contrôle et du jugement des comptes des collectivités locales ;
+- la chambre du contrôle des comptes des entreprises publiques.
+La chambre du contrôle et du jugement des comptes de l'État est compétente pour vérifier, contrôler la gestion et juger les comptes de l'État ainsi que les comptes des organismes à participation financière ou bénéficiant de fonds publics et soumis aux règles de la comptabilité publique.
+La chambre du contrôle et du jugement des comptes des collectivités locales est compétente pour vérifier, contrôler la gestion et juger les comptes des collectivités territoriales ainsi que les comptes des organismes à participation financière de ces collectivités ou bénéficiant de leurs fonds et soumis aux règles de la comptabilité publique.
+La chambre du contrôle des comptes des entreprises publiques est compétente pour contrôler la gestion des entreprises publiques soumises aux règles de comptabilité de droit privé ainsi que la gestion des entreprises privées délégataires de services publics ou bénéficiant de fonds publics. Ces entreprises ne sont pas soumises au contrôle juridictionnel de la Cour. Leurs comptes sont certifiés conformément aux règles de comptabilité de droit privé.

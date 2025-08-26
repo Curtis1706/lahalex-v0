@@ -1,0 +1,1 @@
+La publication d’une décision portant déclaration de la Cour constitutionnelle constatant qu’une disposition n’est pas contraire à la Constitution met fin à la suspension du délai de promulgation suivant les dispositions de l’article 120 de la Constitution.

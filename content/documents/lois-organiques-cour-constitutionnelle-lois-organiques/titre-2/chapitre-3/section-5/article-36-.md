@@ -1,0 +1,1 @@
+Les magistrats de la Cour des comptes assistent aux audiences publiques en costume d'audience.

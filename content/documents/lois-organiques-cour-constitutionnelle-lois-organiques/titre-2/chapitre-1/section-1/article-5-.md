@@ -1,0 +1,2 @@
+La Cour des comptes vérifie les comptes publics et contrôle la gestion des entreprises publiques et des organismes à participation financière ou bénéficiant de fonds publics.
+Elle veille au bon emploi des fonds publics.

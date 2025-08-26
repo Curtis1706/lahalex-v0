@@ -1,0 +1,16 @@
+{
+  "id": "article-22-",
+  "title": "Article 22 :",
+  "numero": "22 ",
+  "document": "lois-organiques",
+  "path": [
+    "titre-2",
+    "chapitre-2",
+    "section-4"
+  ],
+  "navigation": {
+    "parent": "section-4",
+    "previous": "article-21-",
+    "next": "article-23-"
+  }
+}

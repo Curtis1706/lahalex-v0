@@ -1,0 +1,2 @@
+Chaque chambre est composée d'un président de chambre et de conseillers.
+50'affectation des magistrats, la division des chambres en sections et les compétences respectives des sections sont décidées par ordonnance du président de la Cour des comptes, prise en chambres réunies.

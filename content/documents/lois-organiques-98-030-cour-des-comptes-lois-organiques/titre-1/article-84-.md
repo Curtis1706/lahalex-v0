@@ -1,0 +1,1 @@
+Les modalités d’application de la présente loi organique sont déterminées par décret pris en Conseil des ministres, après consultation de la Cour constitutionnelle.

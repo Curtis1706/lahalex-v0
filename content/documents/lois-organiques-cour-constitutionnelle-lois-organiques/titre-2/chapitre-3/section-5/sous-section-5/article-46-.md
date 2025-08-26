@@ -1,0 +1,2 @@
+Le comité des rapports et programmes est chargé de la préparation et de la présentation des rapports prévus à l'article 8 de la présente loi organique.
+Il est composé du président de la Cour, du procureur général, des présidents de chambres, du rapporteur général désigné pour chaque rapport et du secrétaire général de la Cour. Le président de la Cour peut y désigner d'autres magistrats de la Cour en fonction des insertions proposées par les chambres.

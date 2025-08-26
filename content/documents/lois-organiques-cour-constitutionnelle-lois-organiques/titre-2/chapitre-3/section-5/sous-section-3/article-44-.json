@@ -1,0 +1,17 @@
+{
+  "id": "article-44-",
+  "title": "Article 44 :",
+  "numero": "44 ",
+  "document": "lois-organiques",
+  "path": [
+    "titre-2",
+    "chapitre-3",
+    "section-5",
+    "sous-section-3"
+  ],
+  "navigation": {
+    "parent": "sous-section-3",
+    "previous": "article-43-",
+    "next": "article-45-"
+  }
+}

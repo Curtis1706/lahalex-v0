@@ -1,0 +1,2 @@
+La Cour des comptes établit un rapport annuel par lequel elle expose les principales observations qu'elle a faites, les conclusions qu'elle a tirées et les recommandations qu'elle a formulées.
+La Cour publie son rapport annuel dans le Journal officiel et sur son site web.
