@@ -190,12 +190,6 @@ export default function TermDefinitionPage() {
                     ))}
                   </div>
                 )}
-                
-                {termData.source && (
-                  <p className="text-sm text-gray-500 mt-6 italic">
-                    Source : {termData.source}
-                  </p>
-                )}
               </div>
             </div>
           </div>
