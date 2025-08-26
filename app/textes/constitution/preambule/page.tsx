@@ -7,7 +7,7 @@ import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Search, PrinterIcon as Print, Download, Share2 } from "lucide-react"
 import { ConstitutionSidebar } from "@/components/constitution-sidebar"
-import { Footer } from "@/components/footer"
+
 
 export default function ConstitutionPreambulePage() {
   const [searchValue, setSearchValue] = useState("")
@@ -141,7 +141,7 @@ export default function ConstitutionPreambulePage() {
         </div>
       </div>
 
-      <Footer />
+      
     </div>
   )
 }

@@ -10,7 +10,7 @@ import { Menu, X, ChevronRight, FileText, Clock, BookOpen, ChevronLeft, Search }
 import { Button } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"
 import { Input } from "@/components/ui/input"
-import { Footer } from "@/components/footer"
+
 
 interface Document {
   id: string
@@ -512,7 +512,7 @@ export default function SourceRegionalPage() {
           )}
         </div>
       </div>
-      <Footer />
+      
     </div>
   )
 }

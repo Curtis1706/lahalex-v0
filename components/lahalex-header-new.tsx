@@ -16,7 +16,15 @@ export function LahalexHeaderNew({ searchValue = "", onSearchChange }: LahalexHe
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
 
   return (
-    <header className="bg-primary-lahalex text-white relative z-50">
+    <header className="bg-[#770D28] text-white relative z-50" style={{
+      backgroundImage: `
+        linear-gradient(45deg, transparent 40%, rgba(255,255,255,0.03) 50%, transparent 60%),
+        linear-gradient(135deg, transparent 40%, rgba(255,255,255,0.02) 50%, transparent 60%),
+        radial-gradient(circle at 20% 50%, rgba(255,255,255,0.05) 0%, transparent 50%),
+        radial-gradient(circle at 80% 20%, rgba(255,255,255,0.03) 0%, transparent 50%)
+      `,
+      backgroundSize: '20px 20px, 15px 15px, 10px 10px, 8px 8px'
+    }}>
       <div className="px-4 py-3">
         <div className="flex items-center justify-between max-w-7xl mx-auto">
           {/* Logo et menu mobile */}
@@ -24,7 +32,7 @@ export function LahalexHeaderNew({ searchValue = "", onSearchChange }: LahalexHe
             <Button
               variant="ghost"
               size="sm"
-              className="text-accent-lahalex hover:bg-white/10 p-2 lg:hidden"
+              className="text-white hover:bg-white/10 p-2 lg:hidden"
               onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
             >
               {mobileMenuOpen ? <X className="w-5 h-5" /> : <Menu className="w-5 h-5" />}
@@ -53,18 +61,18 @@ export function LahalexHeaderNew({ searchValue = "", onSearchChange }: LahalexHe
             </Link>
           </div>
 
-          {/* Barre de recherche centrale */}
-          <div className="flex-1 max-w-2xl mx-8 hidden md:block">
+          {/* Barre de recherche centrale - Plus longue */}
+          <div className="flex-1 max-w-4xl mx-8 hidden md:block">
             <div className="relative">
               <Input
                 type="text"
-                placeholder="Tapez votre mot clé"
+                placeholder="Tapez des mots clés"
                 value={searchValue}
                 onChange={(e) => onSearchChange?.(e.target.value)}
-                className="w-full bg-white text-gray-900 border-0 rounded-md pr-12 placeholder:text-gray-500 focus:ring-2 focus:ring-accent-lahalex"
+                className="w-full bg-white text-gray-900 border-0 rounded-md pr-24 placeholder:text-gray-500 focus:ring-2 focus:ring-white/30 h-12"
               />
-              <Button className="absolute right-1 top-1/2 transform -translate-y-1/2 bg-primary-lahalex hover:bg-primary-lahalex/90 px-3 h-8">
-                <Search className="w-4 h-4" />
+              <Button className="absolute right-1 top-1/2 transform -translate-y-1/2 bg-[#770D28] hover:bg-[#8a0f2e] border border-white/20 px-4 h-10 text-white font-medium">
+                Rechercher
               </Button>
             </div>
           </div>
@@ -75,7 +83,7 @@ export function LahalexHeaderNew({ searchValue = "", onSearchChange }: LahalexHe
             <Button
               variant="ghost"
               size="sm"
-              className="text-accent-lahalex hover:bg-white/10 hidden lg:flex items-center space-x-1"
+              className="text-white hover:bg-white/10 hidden lg:flex items-center space-x-1"
             >
               <span className="text-sm">🇧🇯</span>
               <span className="text-sm">Pays</span>
@@ -83,7 +91,7 @@ export function LahalexHeaderNew({ searchValue = "", onSearchChange }: LahalexHe
             </Button>
 
             {/* Notifications */}
-            <Button variant="ghost" size="sm" className="text-accent-lahalex hover:bg-white/10 p-2">
+            <Button variant="ghost" size="sm" className="text-white hover:bg-white/10 p-2">
               <Bell className="w-4 h-4" />
             </Button>
 
@@ -91,14 +99,14 @@ export function LahalexHeaderNew({ searchValue = "", onSearchChange }: LahalexHe
             <Button
               variant="ghost"
               size="sm"
-              className="text-accent-lahalex hover:bg-white/10 hidden sm:flex items-center space-x-1"
+              className="text-white hover:bg-white/10 hidden sm:flex items-center space-x-1"
             >
               <span className="text-sm">Déconnexion</span>
-              <div className="w-2 h-2 bg-accent-lahalex rounded-full"></div>
+              <div className="w-2 h-2 bg-white rounded-full"></div>
             </Button>
 
             {/* Menu mobile */}
-            <Button variant="ghost" size="sm" className="text-accent-lahalex hover:bg-white/10 p-2 lg:hidden">
+            <Button variant="ghost" size="sm" className="text-white hover:bg-white/10 p-2 lg:hidden">
               <Menu className="w-5 h-5" />
             </Button>
           </div>
@@ -106,24 +114,24 @@ export function LahalexHeaderNew({ searchValue = "", onSearchChange }: LahalexHe
 
         {/* Menu mobile */}
         {mobileMenuOpen && (
-          <div className="mt-4 lg:hidden bg-primary-lahalex/90 rounded-lg p-4">
+          <div className="mt-4 lg:hidden bg-[#770D28]/90 rounded-lg p-4">
             <div className="mb-4">
               <Input
                 type="text"
-                placeholder="Tapez votre mot clé"
+                placeholder="Tapez des mots clés"
                 value={searchValue}
                 onChange={(e) => onSearchChange?.(e.target.value)}
-                className="w-full bg-white text-gray-900 border-0 rounded-md placeholder:text-gray-500"
+                className="w-full bg-white text-gray-900 border-0 rounded-md placeholder:text-gray-500 h-12"
               />
             </div>
             <div className="flex flex-col space-y-2">
-              <Link href="/" className="block py-2 px-3 text-accent-lahalex hover:bg-white/10 rounded-md">
+              <Link href="/" className="block py-2 px-3 text-white hover:bg-white/10 rounded-md">
                 Veille juridique
               </Link>
-              <Link href="/" className="block py-2 px-3 text-accent-lahalex hover:bg-white/10 rounded-md">
+              <Link href="/" className="block py-2 px-3 text-white hover:bg-white/10 rounded-md">
                 Textes
               </Link>
-              <Link href="/codes" className="block py-2 px-3 text-accent-lahalex hover:bg-white/10 rounded-md">
+              <Link href="/codes" className="block py-2 px-3 text-white hover:bg-white/10 rounded-md">
                 Codes
               </Link>
             </div>

@@ -62,7 +62,10 @@ const config: Config = {
   				'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
   				border: 'hsl(var(--sidebar-border))',
   				ring: 'hsl(var(--sidebar-ring))'
-  			}
+  			},
+  			// Couleurs LAHALEX
+  			'primary-lahalex': '#770D28',
+  			'accent-lahalex': '#b4ab6b'
   		},
   		borderRadius: {
   			lg: 'var(--radius)',

@@ -7,7 +7,7 @@ import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { PrinterIcon as Print, Download, Share2, Search } from "lucide-react"
 import { ConstitutionSidebar } from "@/components/constitution-sidebar"
-import { Footer } from "@/components/footer"
+
 
 // Données des articles constitutionnels
 const articlesData = {
@@ -165,7 +165,7 @@ export default function ConstitutionArticlePage({ params }: { params: { article:
         </div>
       </div>
 
-      <Footer />
+      
     </div>
   )
 }

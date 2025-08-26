@@ -76,11 +76,11 @@ export default function HomeResponsivePage() {
                 >
                   <IconComponent className="w-6 h-6 sm:w-7 sm:h-7 lg:w-8 lg:h-8" />
                 </div>
-                <h3 className="text-lg sm:text-xl font-semibold text-gray-900 mb-2 sm:mb-3 group-hover:text-primary-lahalex leading-tight">
+                <h3 className="text-lg sm:text-xl font-semibold text-gray-900 mb-2 sm:mb-3 group-hover:text-[#770D28] leading-tight">
                   {section.title}
                 </h3>
                 <p className="text-sm sm:text-base text-gray-600 leading-relaxed mb-3 sm:mb-4">{section.description}</p>
-                <div className="flex items-center text-primary-lahalex text-sm sm:text-base font-medium">
+                <div className="flex items-center text-[#770D28] text-sm sm:text-base font-medium">
                   <span>Accéder</span>
                   <ArrowRight className="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform" />
                 </div>
@@ -110,19 +110,19 @@ export default function HomeResponsivePage() {
         {/* Stats Section - Optional */}
         <div className="mt-8 sm:mt-12 lg:mt-16 grid grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-6 lg:gap-8">
           <div className="text-center">
-            <div className="text-2xl sm:text-3xl lg:text-4xl font-bold text-primary-lahalex mb-1 sm:mb-2">1000+</div>
+            <div className="text-2xl sm:text-3xl lg:text-4xl font-bold text-[#770D28] mb-1 sm:mb-2">1000+</div>
             <div className="text-xs sm:text-sm text-gray-600">Documents</div>
           </div>
           <div className="text-center">
-            <div className="text-2xl sm:text-3xl lg:text-4xl font-bold text-primary-lahalex mb-1 sm:mb-2">50+</div>
+            <div className="text-2xl sm:text-3xl lg:text-4xl font-bold text-[#770D28] mb-1 sm:mb-2">50+</div>
             <div className="text-xs sm:text-sm text-gray-600">Codes</div>
           </div>
           <div className="text-center">
-            <div className="text-2xl sm:text-3xl lg:text-4xl font-bold text-primary-lahalex mb-1 sm:mb-2">24/7</div>
+            <div className="text-2xl sm:text-3xl lg:text-4xl font-bold text-[#770D28] mb-1 sm:mb-2">24/7</div>
             <div className="text-xs sm:text-sm text-gray-600">Disponible</div>
           </div>
           <div className="text-center">
-            <div className="text-2xl sm:text-3xl lg:text-4xl font-bold text-primary-lahalex mb-1 sm:mb-2">IA</div>
+            <div className="text-2xl sm:text-3xl lg:text-4xl font-bold text-[#770D28] mb-1 sm:mb-2">IA</div>
             <div className="text-xs sm:text-sm text-gray-600">Assistée</div>
           </div>
         </div>

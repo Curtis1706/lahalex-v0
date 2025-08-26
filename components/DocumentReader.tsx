@@ -23,7 +23,7 @@ import { ScrollArea } from "@/components/ui/scroll-area";
 import { useIsMobile } from "@/hooks/use-mobile";
 import { LahalexHeaderResponsive } from "@/components/lahalex-header-responsive";
 import { LahalexBreadcrumbResponsive } from "@/components/lahalex-breadcrumb-responsive";
-import { Footer } from "@/components/footer";
+
 import { processMarkdownContent } from "@/lib/text-processor";
 
 interface DocumentReaderProps {
@@ -1103,7 +1103,6 @@ export function DocumentReader({
         )}
       </div>
 
-      <Footer />
     </div>
   );
 }

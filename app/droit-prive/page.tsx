@@ -2,7 +2,7 @@
 
 import { useState } from "react"
 import { LahalexHeaderResponsive } from "@/components/lahalex-header-responsive"
-import { Footer } from "@/components/footer"
+
 import { Input } from "@/components/ui/input"
 import { ChevronDown, Search } from "lucide-react"
 import Link from "next/link"
@@ -211,7 +211,7 @@ export default function DroitPrivePage() {
         </div>
       </div>
 
-      <Footer />
+      
     </div>
   )
 }

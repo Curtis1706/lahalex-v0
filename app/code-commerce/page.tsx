@@ -4,7 +4,7 @@ import { useState } from 'react'
 import { LahalexHeaderResponsive } from "@/components/lahalex-header-responsive"
 import { LahalexBreadcrumbResponsive } from "@/components/lahalex-breadcrumb-responsive"
 import { ArticleTree } from "@/components/article-tree"
-import { Footer } from "@/components/footer"
+
 import { buildArticleTree, getAllArticles } from "@/lib/articles-data"
 import { Button } from '@/components/ui/button'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
@@ -302,7 +302,7 @@ export default function CodeCommercePage() {
         </button>
       </div>
       
-      <Footer />
+      
     </div>
   )
 }
