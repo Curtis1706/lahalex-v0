@@ -269,7 +269,7 @@ export default function HomePage() {
           <h1 className="text-2xl font-bold text-gray-900 mb-6 lg:mb-8">Textes</h1>
         )}
 
-        {/* Source nationale */}
+        {/* Sources nationales */}
         <div className="mb-6 lg:mb-8">
           <h2 className="text-base lg:text-lg font-semibold text-gray-800 mb-3 lg:mb-4">
             Sources nationales

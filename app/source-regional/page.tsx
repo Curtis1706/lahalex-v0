@@ -42,7 +42,7 @@ export default function SourceRegionalPage() {
 
   // Fonction pour générer le fil d'ariane selon la source
   const getBreadcrumbSource = () => {
-    return "Source régionale"
+    return "Sources régionales"
   }
 
   // Pagination
@@ -176,10 +176,10 @@ export default function SourceRegionalPage() {
           <h1 className="text-2xl font-bold text-gray-900 mb-6 lg:mb-8">Textes</h1>
         )}
 
-        {/* Source régionale */}
+        {/* Sources régionales */}
         <div className="mb-6 lg:mb-8">
           <h2 className="text-base lg:text-lg font-semibold text-gray-800 mb-3 lg:mb-4">
-            Source régionale
+            Sources régionales
           </h2>
           <div className="space-y-1 lg:space-y-2">
             {/* Organisations régionales */}
@@ -217,7 +217,7 @@ export default function SourceRegionalPage() {
               className="w-full flex items-center justify-between px-3 py-2.5 lg:py-2 rounded-md text-sm transition-all duration-200 text-gray-700 hover:bg-gray-100 hover:text-gray-900"
             >
               <div className="flex items-center space-x-2 lg:space-x-3 min-w-0">
-                <span className="truncate text-left font-bold">Source nationale</span>
+                <span className="truncate text-left font-bold">Sources nationales</span>
               </div>
               <div className="flex items-center space-x-2 flex-shrink-0">
                 <ChevronRight className="w-4 h-4" />
@@ -228,7 +228,7 @@ export default function SourceRegionalPage() {
               className="w-full flex items-center justify-between px-3 py-2.5 lg:py-2 rounded-md text-sm transition-all duration-200 text-gray-700 hover:bg-gray-100 hover:text-gray-900"
             >
               <div className="flex items-center space-x-2 lg:space-x-3 min-w-0">
-                <span className="truncate text-left font-bold">Source internationale</span>
+                <span className="truncate text-left font-bold">Sources internationales</span>
               </div>
               <div className="flex items-center space-x-2 flex-shrink-0">
                 <ChevronRight className="w-4 h-4" />
