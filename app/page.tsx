@@ -677,15 +677,7 @@ export default function HomePage() {
                 <p className="text-gray-600 text-base lg:text-lg mb-6">
                   Sélectionnez une catégorie {isMobile ? "en appuyant sur le bouton Catégories" : "dans le menu de gauche"} pour voir les documents disponibles.
                 </p>
-                {isMobile && (
-                  <Button
-                    onClick={() => setSidebarOpen(true)}
-                    className="bg-blue-600 hover:bg-blue-700"
-                  >
-                    <Menu className="w-4 h-4 mr-2" />
-                    Voir les catégories
-                  </Button>
-                )}
+
               </div>
             </div>
           )}

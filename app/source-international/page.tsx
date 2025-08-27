@@ -1,16 +1,13 @@
 "use client"
+
 import { useState, useEffect } from "react"
 import { LahalexHeaderResponsive } from "@/components/lahalex-header-responsive"
 import { LahalexBreadcrumbResponsive } from "@/components/lahalex-breadcrumb-responsive"
 import { useIsMobile } from "@/hooks/use-mobile"
 import Link from "next/link"
-import { format } from "date-fns"
-import { fr } from "date-fns/locale"
-import { Menu, X, ChevronRight, FileText, Clock, BookOpen, ChevronLeft, Search } from "lucide-react"
+import { Menu, X, ChevronRight, FileText, ChevronLeft, Search } from "lucide-react"
 import { Button } from "@/components/ui/button"
-import { Badge } from "@/components/ui/badge"
 import { Input } from "@/components/ui/input"
-
 
 interface Document {
   id: string
@@ -112,65 +109,50 @@ export default function SourceInternationalPage() {
   }
 
   const getCategoryTitle = () => {
-   const categoryTitles: { [key: string]: string } = {
-  "textes-constitutionnels": "Textes constitutionnels et fondamentaux",
-  codes: "Codes",
-  "conventions-collectives": "Conventions collectives",
-  "lois-organiques": "Lois organiques",
-  "lois-ordinaires": "Lois ordinaires",
-  decrets: "Décrets",
-  arretes: "Arrêtés",
-  "fiche-synthese": "Fiches méthode",
-  "fiche-methode": "Fiches méthode",
-  ohada: "OHADA",
-  "union-africaine": "Union Africaine",
-  cemac: "CEMAC",
-  ceeac: "CEEAC",
-  cedeao: "CEDEAO",
-  uemoa: "UEMOA",
-  "conventions-internationales": "Conventions internationales",
+    const categoryTitles: { [key: string]: string } = {
+      "textes-constitutionnels": "Textes constitutionnels et fondamentaux",
+      codes: "Codes",
+      "conventions-collectives": "Conventions collectives",
+      "lois-organiques": "Lois organiques",
+      "lois-ordinaires": "Lois ordinaires",
+      decrets: "Décrets",
+      arretes: "Arrêtés",
+      "fiche-synthese": "Fiches méthode",
+      "fiche-methode": "Fiches méthode",
+      ohada: "OHADA",
+      "union-africaine": "Union Africaine",
+      cemac: "CEMAC",
+      ceeac: "CEEAC",
+      cedeao: "CEDEAO",
+      uemoa: "UEMOA",
+      "conventions-internationales": "Conventions internationales",
+      omc: "Organisation Mondiale du Commerce (OMC)",
+      cedh: "Convention européenne des droits de l'homme (CEDH)",
+      dudh: "Déclaration universelle des droits de l'homme (DUDH)",
+      cij: "Cour internationale de justice (CIJ)",
+      tidm: "Tribunal International du Droit de la Mer (TIDM)",
+      cpi: "Cour Pénale Internationale (CPI)",
+      "cour-europeenne": "Cour européenne des droits de l'homme",
+    }
 
-  // Nouveaux ajouts
-  omc: "Organisation Mondiale du Commerce (OMC)",
-  cedh: "Convention européenne des droits de l’homme (CEDH)",
-  dudh: "Déclaration universelle des droits de l’homme (DUDH)",
-  cij: "Cour internationale de justice (CIJ)",
-  tidm: "Tribunal International du Droit de la Mer (TIDM)",
-  cpi: "Cour Pénale Internationale (CPI)",
-  "cour-europeenne": "Cour européenne des droits de l’homme",
-}
+    return categoryTitles[selectedCategory] || selectedCategory
+  }
 
-return categoryTitles[selectedCategory] || selectedCategory
-}
-
-const categories = [
-  { key: "textes-constitutionnels", label: "Textes constitutionnels et fondamentaux", icon: FileText },
-  { key: "codes", label: "Codes", icon: BookOpen },
-  { key: "conventions-collectives", label: "Conventions collectives", icon: FileText },
-  { key: "lois-organiques", label: "Lois organiques", icon: FileText },
-  { key: "lois-ordinaires", label: "Lois ordinaires", icon: FileText },
-  { key: "decrets", label: "Décrets", icon: FileText },
-  { key: "arretes", label: "Arrêtés", icon: FileText },
-]
-
-const internationalCategories = [
-  { key: "ohada", label: "OHADA", icon: FileText },
-  { key: "union-africaine", label: "Union Africaine", icon: FileText },
-  { key: "cemac", label: "CEMAC", icon: FileText },
-  { key: "ceeac", label: "CEEAC", icon: FileText },
-  { key: "cedeao", label: "CEDEAO", icon: FileText },
-  { key: "uemoa", label: "UEMOA", icon: FileText },
-
-  // Nouveaux ajouts
-  { key: "omc", label: "Organisation Mondiale du Commerce (OMC)", icon: FileText },
-  { key: "cedh", label: "Convention européenne des droits de l’homme (CEDH)", icon: FileText },
-  { key: "dudh", label: "Déclaration universelle des droits de l’homme (DUDH)", icon: FileText },
-  { key: "cij", label: "Cour internationale de justice (CIJ)", icon: FileText },
-  { key: "tidm", label: "Tribunal International du Droit de la Mer (TIDM)", icon: FileText },
-  { key: "cpi", label: "Cour Pénale Internationale (CPI)", icon: FileText },
-  { key: "cour-europeenne", label: "Cour européenne des droits de l’homme", icon: FileText },
-]
-
+  const internationalCategories = [
+    { key: "ohada", label: "OHADA", icon: FileText },
+    { key: "union-africaine", label: "Union Africaine", icon: FileText },
+    { key: "cemac", label: "CEMAC", icon: FileText },
+    { key: "ceeac", label: "CEEAC", icon: FileText },
+    { key: "cedeao", label: "CEDEAO", icon: FileText },
+    { key: "uemoa", label: "UEMOA", icon: FileText },
+    { key: "omc", label: "Organisation Mondiale du Commerce (OMC)", icon: FileText },
+    { key: "cedh", label: "Convention européenne des droits de l'homme (CEDH)", icon: FileText },
+    { key: "dudh", label: "Déclaration universelle des droits de l'homme (DUDH)", icon: FileText },
+    { key: "cij", label: "Cour internationale de justice (CIJ)", icon: FileText },
+    { key: "tidm", label: "Tribunal International du Droit de la Mer (TIDM)", icon: FileText },
+    { key: "cpi", label: "Cour Pénale Internationale (CPI)", icon: FileText },
+    { key: "cour-europeenne", label: "Cour européenne des droits de l'homme", icon: FileText },
+  ]
 
   const SidebarContent = () => (
     <div className="h-full flex flex-col">
@@ -201,8 +183,7 @@ const internationalCategories = [
             Sources internationales
           </h2>
           <div className="space-y-1 lg:space-y-2">
-            {/* Organisations internationales */}
-            {internationalCategories.filter(cat => ['omc','cedh','dudh','cij','cour-europeenne-droits-homme',].includes(cat.key)).map((category) => {
+            {internationalCategories.map((category) => {
               const IconComponent = category.icon
               const count = categoryCounts[category.key] || 0
               return (
@@ -252,27 +233,6 @@ const internationalCategories = [
                 <ChevronRight className="w-4 h-4" />
               </div>
             </Link>
-          </div>
-        </div>
-
-        {/* Autres */}
-        <div>
-          <div className="space-y-1 lg:space-y-2">
-                         <button
-               onClick={() => handleCategoryClick("fiche-methode", "")}
-               className={`w-full flex items-center justify-between px-3 py-2.5 lg:py-2 rounded-md text-sm transition-all duration-200 ${
-                 selectedCategory === "fiche-methode"
-                   ? "bg-blue-100 text-blue-700 shadow-sm"
-                   : "text-gray-700 hover:bg-gray-100 hover:text-gray-900"
-               }`}
-             >
-              <div className="flex items-center space-x-2 lg:space-x-3 min-w-0">
-                <span className="truncate text-left font-bold">Fiches méthode</span>
-              </div>
-              <div className="flex items-center space-x-2 flex-shrink-0">
-                <ChevronRight className="w-4 h-4" />
-              </div>
-            </button>
           </div>
         </div>
 
@@ -516,21 +476,12 @@ const internationalCategories = [
                 <p className="text-gray-600 text-base lg:text-lg mb-6">
                   Sélectionnez une catégorie {isMobile ? "en appuyant sur le bouton Catégories" : "dans le menu de gauche"} pour voir les documents disponibles.
                 </p>
-                {isMobile && (
-                  <Button
-                    onClick={() => setSidebarOpen(true)}
-                    className="bg-blue-600 hover:bg-blue-700"
-                  >
-                    <Menu className="w-4 h-4 mr-2" />
-                    Voir les catégories
-                  </Button>
-                )}
               </div>
             </div>
           )}
         </div>
       </div>
-      
     </div>
   )
 }
+

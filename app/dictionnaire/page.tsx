@@ -6,19 +6,23 @@ import { LahalexHeaderResponsive } from "@/components/lahalex-header-responsive"
 import { LahalexBreadcrumbResponsive } from "@/components/lahalex-breadcrumb-responsive"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
-import { Search } from "lucide-react"
+import { Search, Menu, X } from "lucide-react"
+import { useIsMobile } from "@/hooks/use-mobile"
 
 import { DictionaryTerm } from "@/types/dictionary"
 
 export default function DictionaryPage() {
   const router = useRouter()
   const [searchValue, setSearchValue] = useState("")
+  const [sidebarOpen, setSidebarOpen] = useState(false)
 
   const [selectedLetter, setSelectedLetter] = useState("A")
   const [terms, setTerms] = useState<DictionaryTerm[]>([])
   const [loading, setLoading] = useState(true)
   const [filteredTerms, setFilteredTerms] = useState<DictionaryTerm[]>([])
   const [showAllTerms, setShowAllTerms] = useState(false)
+  
+  const isMobile = useIsMobile()
 
   useEffect(() => {
     fetchTerms()
@@ -31,6 +35,13 @@ export default function DictionaryPage() {
     )
     setFilteredTerms(filtered)
   }, [selectedLetter, terms])
+
+  // Fermer la sidebar mobile quand on sélectionne une lettre
+  useEffect(() => {
+    if (isMobile && selectedLetter) {
+      setSidebarOpen(false)
+    }
+  }, [selectedLetter, isMobile])
 
   const fetchTerms = async () => {
     try {
@@ -88,6 +99,84 @@ export default function DictionaryPage() {
   // Générer l'alphabet
   const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("")
 
+  const SidebarContent = () => (
+    <div className="h-full flex flex-col">
+      {/* Header mobile */}
+      {isMobile && (
+        <div className="flex items-center justify-between p-4 border-b border-amber-200 bg-amber-50">
+          <h1 className="text-xl font-bold text-gray-900">Dictionnaire juridique</h1>
+          <Button
+            variant="ghost"
+            size="sm"
+            onClick={() => setSidebarOpen(false)}
+            className="p-2"
+          >
+            <X className="w-5 h-5" />
+          </Button>
+        </div>
+      )}
+
+      <div className="flex-1 overflow-y-auto p-4 lg:p-6">
+        {/* Title desktop */}
+        {!isMobile && (
+          <h1 className="text-2xl font-bold text-gray-900 mb-6">
+            Dictionnaire juridique
+          </h1>
+        )}
+        
+        {/* Barre de recherche dans la sidebar */}
+        <div className="relative mb-6">
+          <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 w-4 h-4" />
+          <Input
+            type="text"
+            placeholder="Rechercher dans le dictionnaire"
+            className="pl-10 pr-4 bg-white border-amber-300 focus:border-amber-500"
+            onChange={(e) => handleSidebarSearch(e.target.value)}
+          />
+        </div>
+
+        {/* Navigation alphabétique */}
+        <div className="space-y-4">
+          {alphabet.map(letter => (
+            <div key={letter}>
+              <button
+                onClick={() => setSelectedLetter(letter)}
+                className={`text-xl font-bold text-gray-900 mb-2 w-full text-left hover:text-blue-600 ${
+                  selectedLetter === letter ? 'text-blue-600' : ''
+                }`}
+              >
+                {letter}
+              </button>
+              
+              {selectedLetter === letter && (
+                <div className="space-y-1 ml-4">
+                  {(showAllTerms ? filteredTerms : filteredTerms.slice(0, 20)).map((term, index) => (
+                    <button
+                      key={term.id}
+                      onClick={() => handleTermSelect(term)}
+                      className="block w-full text-left text-gray-700 hover:text-blue-600 hover:bg-amber-100 px-2 py-1 rounded text-sm"
+                    >
+                      {term.term}
+                    </button>
+                  ))}
+                  
+                  {filteredTerms.length > 20 && (
+                    <button 
+                      onClick={() => setShowAllTerms(!showAllTerms)}
+                      className="block w-full text-left text-blue-600 hover:text-blue-800 px-2 py-1 rounded text-sm font-medium"
+                    >
+                      {showAllTerms ? "Voir moins..." : "Voir plus..."}
+                    </button>
+                  )}
+                </div>
+              )}
+            </div>
+          ))}
+        </div>
+      </div>
+    </div>
+  )
+
   if (loading) {
     return (
       <div className="min-h-screen bg-gray-50">
@@ -102,8 +191,6 @@ export default function DictionaryPage() {
           <div className="animate-spin rounded-full h-12 w-12 border-b-4 border-blue-600 mx-auto mb-4"></div>
           <p className="text-gray-600">Chargement du dictionnaire...</p>
         </div>
-        
-
       </div>
     )
   }
@@ -117,82 +204,53 @@ export default function DictionaryPage() {
       />
       <LahalexBreadcrumbResponsive items={breadcrumbItems} />
 
-      <div className="flex h-screen">
-        {/* Sidebar gauche - Navigation alphabétique */}
-        <div className="w-80 bg-amber-50 border-r border-amber-200 p-6 overflow-y-auto">
-          <h1 className="text-2xl font-bold text-gray-900 mb-6">
-            Dictionnaire juridique
-          </h1>
-          
-          {/* Barre de recherche dans la sidebar */}
-          <div className="relative mb-6">
-            <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 w-4 h-4" />
-            <Input
-              type="text"
-              placeholder="Rechercher dans le dictionnaire"
-              className="pl-10 pr-4 bg-white border-amber-300 focus:border-amber-500"
-              onChange={(e) => handleSidebarSearch(e.target.value)}
-            />
-          </div>
-
-          {/* Navigation alphabétique */}
-          <div className="space-y-4">
-            {alphabet.map(letter => (
-              <div key={letter}>
-                <button
-                  onClick={() => setSelectedLetter(letter)}
-                  className={`text-xl font-bold text-gray-900 mb-2 w-full text-left hover:text-blue-600 ${
-                    selectedLetter === letter ? 'text-blue-600' : ''
-                  }`}
-                >
-                  {letter}
-                </button>
-                
-                {selectedLetter === letter && (
-                  <div className="space-y-1 ml-4">
-                    {(showAllTerms ? filteredTerms : filteredTerms.slice(0, 20)).map((term, index) => (
-                      <button
-                        key={term.id}
-                        onClick={() => handleTermSelect(term)}
-                        className="block w-full text-left text-gray-700 hover:text-blue-600 hover:bg-amber-100 px-2 py-1 rounded text-sm"
-                      >
-                        {term.term}
-                      </button>
-                    ))}
-                    
-                    {filteredTerms.length > 20 && (
-                      <button 
-                        onClick={() => setShowAllTerms(!showAllTerms)}
-                        className="block w-full text-left text-blue-600 hover:text-blue-800 px-2 py-1 rounded text-sm font-medium"
-                      >
-                        {showAllTerms ? "Voir moins..." : "Voir plus..."}
-                      </button>
-                    )}
-                  </div>
-                )}
-              </div>
-            ))}
-          </div>
+      <div className="flex min-h-[calc(100vh-64px)] lg:min-h-[calc(100vh-80px)]">
+        {/* Sidebar Desktop */}
+        <div className="hidden lg:block w-80 xl:w-96 bg-amber-50 border-r border-amber-200">
+          <SidebarContent />
         </div>
 
+        {/* Mobile Menu Button */}
+        {isMobile && (
+          <Button
+            variant="outline"
+            size="sm"
+            onClick={() => setSidebarOpen(true)}
+            className="fixed bottom-4 left-4 z-40 shadow-lg bg-white border-amber-300"
+          >
+            <Menu className="w-4 h-4 mr-2" />
+            Dictionnaire
+          </Button>
+        )}
+
+        {/* Mobile Sidebar Overlay */}
+        {isMobile && sidebarOpen && (
+          <div className="fixed inset-0 z-50 lg:hidden">
+            <div className="absolute inset-0 bg-black/50" onClick={() => setSidebarOpen(false)} />
+            <div className="absolute left-0 top-0 h-full w-80 bg-amber-50 shadow-xl">
+              <SidebarContent />
+            </div>
+          </div>
+        )}
+
         {/* Zone principale - Affichage des termes */}
-        <div className="flex-1 bg-white p-8 overflow-y-auto">
+        <div className="flex-1 bg-white p-4 lg:p-8 overflow-y-auto">
           {/* En-tête avec grande lettre */}
-          <div className="flex items-start gap-8 mb-8">
-            <div className="text-9xl font-bold text-gray-200 leading-none">
+          <div className="flex flex-col lg:flex-row lg:items-start gap-4 lg:gap-8 mb-6 lg:mb-8">
+            <div className="text-6xl lg:text-9xl font-bold text-gray-200 leading-none text-center lg:text-left">
               {selectedLetter}
             </div>
             
             <div className="flex-1">
               {/* Affichage des termes de la lettre sélectionnée */}
               {filteredTerms.length > 0 ? (
-                <div className="space-y-8">
+                <div className="space-y-6 lg:space-y-8">
                   {filteredTerms.map((term, index) => (
-                    <div key={term.id} className="border-b border-gray-100 pb-6 last:border-b-0">
-                      <h2 className="text-2xl font-bold text-gray-900 mb-3">
+                    <div key={term.id} className="border-b border-gray-100 pb-4 lg:pb-6 last:border-b-0">
+                      <h2 className="text-xl lg:text-2xl font-bold text-gray-900 mb-2 lg:mb-3">
                         {term.term}
                         {term.grammaticalInfo && (
-                          <span className="text-lg font-normal text-gray-500 ml-3">
+                          <span className="text-base lg:text-lg font-normal text-gray-500 ml-2 lg:ml-3">
                             ({term.grammaticalInfo})
                           </span>
                         )}
@@ -200,7 +258,7 @@ export default function DictionaryPage() {
                       
                       {/* Définition */}
                       <div className="prose max-w-none">
-                        <p className="text-gray-700 leading-relaxed text-base whitespace-pre-line">
+                        <p className="text-gray-700 leading-relaxed text-sm lg:text-base whitespace-pre-line">
                           {term.definition}
                         </p>
                       </div>
@@ -208,20 +266,16 @@ export default function DictionaryPage() {
                   ))}
                 </div>
               ) : (
-                <div className="text-center py-12">
-                  <p className="text-gray-500 text-lg">
+                <div className="text-center py-8 lg:py-12">
+                  <p className="text-gray-500 text-base lg:text-lg">
                     Aucun terme trouvé pour la lettre "{selectedLetter}"
                   </p>
                 </div>
               )}
             </div>
           </div>
-
-
         </div>
       </div>
-
-      
     </div>
   )
 }
