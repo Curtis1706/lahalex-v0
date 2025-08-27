@@ -214,7 +214,7 @@ export default function HomePage() {
       "lois-ordinaires": "Lois ordinaires",
       decrets: "Décrets",
       arretes: "Arrêtés",
-      "fiche-synthese": "Fiches méthodes",
+      "fiche-synthese": "Fiches de synthèse",
       "fiche-methode": "Fiches méthodes",
       ohada: "OHADA",
       "union-africaine": "Union Africaine",
@@ -328,44 +328,59 @@ export default function HomePage() {
           </div>
         </div>
 
-        {/* Autres */}
-        <div>
+        {/* Autres outils */}
+        <div className="mt-6 lg:mt-8">
+          <h2 className="text-base lg:text-lg font-semibold text-gray-800 mb-3 lg:mb-4">
+            Autres outils
+          </h2>
           <div className="space-y-1 lg:space-y-2">
-                         <button
-               onClick={() => handleCategoryClick("fiche-methode", "")}
-               className={`w-full flex items-center justify-between px-3 py-2.5 lg:py-2 rounded-md text-sm transition-all duration-200 ${
-                 selectedCategory === "fiche-methode"
-                   ? "bg-blue-100 text-blue-700 shadow-sm"
-                   : "text-gray-700 hover:bg-gray-100 hover:text-gray-900"
-               }`}
-             >
+            <button
+              onClick={() => handleCategoryClick("fiche-methode", "")}
+              className={`w-full flex items-center justify-between px-3 py-2.5 lg:py-2 rounded-md text-sm transition-all duration-200 ${
+                selectedCategory === "fiche-methode"
+                  ? "bg-blue-100 text-blue-700 shadow-sm"
+                  : "text-gray-700 hover:bg-gray-100 hover:text-gray-900"
+              }`}
+            >
               <div className="flex items-center space-x-2 lg:space-x-3 min-w-0">
-                <span className="truncate text-left font-bold">Fiches méthodes</span>
+                <span className="truncate text-left">Fiches méthodes</span>
               </div>
               <div className="flex items-center space-x-2 flex-shrink-0">
                 <ChevronRight className="w-4 h-4" />
               </div>
             </button>
-          </div>
-        </div>
-
-        {/* Autres outils */}
-        <div>
-          <div className="space-y-1 lg:space-y-2">
+            
+            <button
+              onClick={() => handleCategoryClick("fiche-synthese", "")}
+              className={`w-full flex items-center justify-between px-3 py-2.5 lg:py-2 rounded-md text-sm transition-all duration-200 ${
+                selectedCategory === "fiche-synthese"
+                  ? "bg-blue-100 text-blue-700 shadow-sm"
+                  : "text-gray-700 hover:bg-gray-100 hover:text-gray-900"
+              }`}
+            >
+              <div className="flex items-center space-x-2 lg:space-x-3 min-w-0">
+                <span className="truncate text-left">Fiches de synthèse</span>
+              </div>
+              <div className="flex items-center space-x-2 flex-shrink-0">
+                <ChevronRight className="w-4 h-4" />
+              </div>
+            </button>
+            
             <Link
               href="/dictionnaire"
               className="w-full flex items-center justify-between px-3 py-2.5 lg:py-2 rounded-md text-sm transition-all duration-200 text-gray-700 hover:bg-gray-100 hover:text-gray-900"
             >
-                <div className="flex items-center space-x-2 lg:space-x-3 min-w-0">
-                 
-                 <span className="truncate text-left font-bold">Autres outils</span>
-               </div>
+              <div className="flex items-center space-x-2 lg:space-x-3 min-w-0">
+                <span className="truncate text-left">Dictionnaire juridique</span>
+              </div>
               <div className="flex items-center space-x-2 flex-shrink-0">
                 <ChevronRight className="w-4 h-4" />
               </div>
             </Link>
           </div>
         </div>
+
+        {/* Autres outils */}
       </div>
     </div>
   )
@@ -445,7 +460,7 @@ export default function HomePage() {
       <LahalexHeaderResponsive
         searchValue={searchValue}
         onSearchChange={setSearchValue}
-        onSearchSubmit={handleSearchSubmit}
+
       />
 
       <div className="flex min-h-[calc(100vh-64px)] lg:min-h-[calc(100vh-80px)]">
@@ -593,8 +608,8 @@ export default function HomePage() {
                             <Link href={`/documents/${document.id}`} className="text-base lg:text-lg font-semibold text-gray-900 hover:text-[#770D28]">
                               {document.title}
                             </Link>
-                            {document.description && (
-                              <p className="text-sm text-gray-600 mt-1">{document.description}</p>
+                             {document.subject && (
+                              <p className="text-sm text-gray-600 mt-1">{document.subject}</p>
                             )}
                           </li>
                         ))}
@@ -653,9 +668,9 @@ export default function HomePage() {
                             <Link href={`/documents/${document.id}`} className="text-base lg:text-lg font-semibold text-gray-900 hover:text-[#770D28]">
                               {document.title}
                             </Link>
-                             {document.subject && (
-                              <p className="text-sm text-gray-600 mt-1">{document.subject}</p>
-                            )}
+                                                          {document.subject && (
+                               <p className="text-sm text-gray-600 mt-1">{document.subject}</p>
+                             )}
                           </li>
                         ))}
                       </ul>

@@ -2,7 +2,7 @@ export interface DocumentMetadata {
   id: string
   title: string
   type: 'constitution' | 'code' | 'loi' | 'decret' | 'fiche-synthese' | 'other'
-  description: string
+  subject: string
   publishedDate?: string
   source?: string
   structure: DocumentStructure

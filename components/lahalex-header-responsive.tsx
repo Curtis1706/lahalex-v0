@@ -1,7 +1,9 @@
 "use client"
 
+import type React from "react"
+
 import { useState } from "react"
-import { Search, Menu, X, Bell, ChevronDown, User } from "lucide-react"
+import { Search, Menu, X, ChevronDown, MoreVertical } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import Link from "next/link"
@@ -33,15 +35,15 @@ export function LahalexHeaderResponsive({ searchValue = "", onSearchChange, onSe
   return (
     <>
       <header className="bg-primary-lahalex text-white relative z-50">
-        <div className="container-responsive py-2 sm:py-3">
+        <div className="w-full px-2 sm:px-4 py-2 sm:py-3">
           <div className="flex items-center justify-between">
-            {/* Logo et menu mobile */}
-            <div className="flex items-center space-x-2 sm:space-x-4">
+            {/* Logo et menu mobile - Collé à gauche */}
+            <div className="flex items-center space-x-2 sm:space-x-3 flex-shrink-0">
               {/* Menu hamburger mobile */}
               <Button
                 variant="ghost"
                 size="sm"
-                className="text-accent-lahalex hover:bg-white/10 p-1.5 sm:p-2 lg:hidden"
+                className="text-accent-lahalex hover:bg-white/10 p-1 sm:p-1.5 lg:hidden -ml-1"
                 onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
               >
                 {mobileMenuOpen ? <X className="w-5 h-5" /> : <Menu className="w-5 h-5" />}
@@ -60,7 +62,7 @@ export function LahalexHeaderResponsive({ searchValue = "", onSearchChange, onSe
                 </div>
                 <div className="h-6 sm:h-8 flex-shrink-0">
                   <Image
-                    src="/images/lahalex-logo-text.png"
+                    src="/images/logo-text.png"
                     alt="LAHALEX"
                     width={120}
                     height={32}
@@ -71,11 +73,12 @@ export function LahalexHeaderResponsive({ searchValue = "", onSearchChange, onSe
             </div>
 
             {/* Barre de recherche centrale - Desktop */}
-            <div className="flex-1 max-w-2xl mx-4 sm:mx-8 hidden md:block">
+<<<<<<< HEAD
+            <div className="flex-1 max-w-2xl mx-4 sm:mx-6 hidden md:block">
               <form onSubmit={handleSearchSubmit} className="relative">
                 <Input
                   type="text"
-                  placeholder="Tapez votre mot clé"
+                  placeholder="Rechercher un terme juridique..."
                   className="w-full bg-white text-gray-900 border-0 rounded-md pr-12 placeholder:text-gray-500 focus:ring-2 focus:ring-accent-lahalex text-sm sm:text-base"
                 />
                 <Button
@@ -87,8 +90,7 @@ export function LahalexHeaderResponsive({ searchValue = "", onSearchChange, onSe
               </form>
             </div>
 
-            {/* Actions droite */}
-            <div className="flex items-center space-x-1 sm:space-x-2">
+            <div className="flex items-center space-x-0 sm:space-x-1 flex-shrink-0 -mr-1">
               {/* Recherche mobile */}
               <Button
                 variant="ghost"
@@ -105,24 +107,18 @@ export function LahalexHeaderResponsive({ searchValue = "", onSearchChange, onSe
                 size="sm"
                 className="text-accent-lahalex hover:bg-white/10 hidden sm:flex items-center space-x-1 px-2 sm:px-3"
               >
-                <span className="text-xs sm:text-sm">🇧🇯</span>
-                <span className="text-xs sm:text-sm hidden lg:inline">Pays</span>
+                <Image src="/images/Vector.png" alt="Drapeau" width={20} height={20} className="rounded-sm" />
+                <span className="text-xs text-white sm:text-sm hidden lg:inline">Pays</span>
                 <ChevronDown className="w-3 h-3 sm:w-4 sm:h-4" />
               </Button>
-
-              {/* Notifications */}
-              <Button variant="ghost" size="sm" className="text-accent-lahalex hover:bg-white/10 p-1.5 sm:p-2">
-                <Bell className="w-4 h-4 sm:w-5 sm:h-5" />
-              </Button>
-
               {/* Déconnexion */}
               <Button
                 variant="ghost"
                 size="sm"
-                className="text-accent-lahalex hover:bg-white/10 hidden sm:flex items-center space-x-1 px-2 sm:px-3"
+                className="text-white hover:bg-white/10 hidden sm:flex items-center space-x-1 px-2 sm:px-3"
               >
-                <span className="text-xs sm:text-sm hidden lg:inline">Déconnexion</span>
-                <User className="w-4 h-4 sm:w-5 sm:h-5" />
+                <span className="text-xs sm:text-sm hidden lg:inline">Se déconnecter</span>
+                <MoreVertical className="w-4 h-4 sm:w-5 sm:h-5" />
               </Button>
             </div>
           </div>
@@ -133,7 +129,7 @@ export function LahalexHeaderResponsive({ searchValue = "", onSearchChange, onSe
               <form onSubmit={handleSearchSubmit} className="relative">
                 <Input
                   type="text"
-                  placeholder="Tapez votre mot clé"
+                  placeholder="Rechercher un terme juridique..."
                   value={searchValue}
                   onChange={(e) => onSearchChange?.(e.target.value)}
                   className="w-full bg-white text-gray-900 border-0 rounded-md pr-12 placeholder:text-gray-500 text-sm"
@@ -175,7 +171,7 @@ export function LahalexHeaderResponsive({ searchValue = "", onSearchChange, onSe
             <nav className="p-4">
               <div className="space-y-3">
                 <Link
-                  href="/" // Updated link
+                  href="/"
                   className="block py-2 px-3 text-gray-700 hover:bg-gray-100 rounded-md"
                   onClick={() => setMobileMenuOpen(false)}
                 >

@@ -667,8 +667,7 @@ export function DocumentReader({
       <LahalexBreadcrumbResponsive items={breadcrumbItems} />
 
       <div className="flex min-h-[calc(100vh-200px)]">
-        {/* Sidebar Gauche - Masquée pour les fiches de méthode */}
-        {document.type !== 'fiche-synthese' && document.type !== 'fiche-methode' && (
+        {/* Sidebar Gauche - Toujours visible, adaptée selon le type */}
         <div
           className="hidden lg:block w-80 border-r border-gray-200 flex flex-col h-[calc(100vh-200px)] overflow-y-auto"
           style={{ backgroundColor: "#F8F3F4" }}
@@ -684,30 +683,38 @@ export function DocumentReader({
 
           <ScrollArea className="flex-1 h-full" ref={sidebarRef}>
             <div className="p-2 space-y-1">
-              {document.structure.sections
-                .filter((section: any) => {
-                  // Afficher les sections de niveau 1 et 2, ou les titres et articles principaux
-                  const isLevel1Or2 = section.level === 1 || section.level === 2;
-                  const isTitreOrArticle = section.type === 'titre' || section.type === 'article';
-                  
-                  // Vérifier si cette section est un enfant d'une autre section
-                  const isChildOfAnotherSection = document.structure.sections.some((parentSection: any) => 
-                    parentSection.children && parentSection.children.includes(section.id)
-                  );
-                  
-                  // Afficher si c'est un niveau 1/2 OU un titre/article, MAIS pas si c'est un enfant
-                  return (isLevel1Or2 || isTitreOrArticle) && !isChildOfAnotherSection;
-                })
-                .map((section: any) => renderSection(section))}
+              {/* Gestion spéciale pour les fiches méthodes */}
+              {document.type === 'fiche-methode' ? (
+                // Pour les fiches méthodes, afficher la section principale
+                document.structure.sections
+                  .filter((section: any) => section.id === 'section-principale')
+                  .map((section: any) => renderSection(section))
+              ) : (
+                // Pour les autres documents, utiliser la logique normale
+                document.structure.sections
+                  .filter((section: any) => {
+                    // Afficher les sections de niveau 1 et 2, ou les titres et articles principaux
+                    const isLevel1Or2 = section.level === 1 || section.level === 2;
+                    const isTitreOrArticle = section.type === 'titre' || section.type === 'article';
+                    
+                    // Vérifier si cette section est un enfant d'une autre section
+                    const isChildOfAnotherSection = document.structure.sections.some((parentSection: any) => 
+                      parentSection.children && parentSection.children.includes(section.id)
+                    );
+                    
+                    // Afficher si c'est un niveau 1/2 OU un titre/article, MAIS pas si c'est un enfant
+                    return (isLevel1Or2 || isTitreOrArticle) && !isChildOfAnotherSection;
+                  })
+                  .map((section: any) => renderSection(section))
+              )}
             </div>
           </ScrollArea>
         </div>
-        )}
 
         {/* Contenu Principal - Milieu - Ajusté pour les fiches de méthode */}
-        <div className={`flex-1 min-w-0 overflow-y-auto h-[calc(100vh-200px)] ${document.type === 'fiche-synthese' || document.type === 'fiche-methode' ? 'mx-auto' : ''}`}>
+        <div className="flex-1 min-w-0 overflow-y-auto h-[calc(100vh-200px)]">
           <div
-            className={`max-w-4xl mx-auto p-4 lg:p-8 bg-white ${document.type === 'fiche-synthese' || document.type === 'fiche-methode' ? 'max-w-6xl' : ''}`}
+            className="max-w-4xl mx-auto p-4 lg:p-8 bg-white"
             style={{ backgroundColor: "#FFFFFF" }}
           >
             {/* En-tête simplifié pour les fiches de synthèse */}
@@ -921,8 +928,8 @@ export function DocumentReader({
           </div>
         </div>
 
-        {/* Mobile: Boutons flottants - Masqués pour les fiches de synthèse */}
-        {isMobile && document.type !== 'fiche-synthese' && document.type !== 'fiche-methode' && (
+        {/* Mobile: Boutons flottants - Toujours visibles */}
+        {isMobile && (
           <>
             <Button
               variant="outline"
@@ -963,21 +970,30 @@ export function DocumentReader({
 
                   <ScrollArea className="flex-1" ref={sidebarMobileRef}>
                     <div className="p-2 space-y-1">
-                      {document.structure.sections
-                        .filter((section: any) => {
-                          // Afficher les sections de niveau 1 et 2, ou les titres et articles principaux
-                          const isLevel1Or2 = section.level === 1 || section.level === 2;
-                          const isTitreOrArticle = section.type === 'titre' || section.type === 'article';
-                          
-                          // Vérifier si cette section est un enfant d'une autre section
-                          const isChildOfAnotherSection = document.structure.sections.some((parentSection: any) => 
-                            parentSection.children && parentSection.children.includes(section.id)
-                          );
-                          
-                          // Afficher si c'est un niveau 1/2 OU un titre/article, MAIS pas si c'est un enfant
-                          return (isLevel1Or2 || isTitreOrArticle) && !isChildOfAnotherSection;
-                        })
-                        .map((section: any) => renderSection(section))}
+                      {/* Gestion spéciale pour les fiches méthodes */}
+                      {document.type === 'fiche-methode' ? (
+                        // Pour les fiches méthodes, afficher la section principale
+                        document.structure.sections
+                          .filter((section: any) => section.id === 'section-principale')
+                          .map((section: any) => renderSection(section))
+                      ) : (
+                        // Pour les autres documents, utiliser la logique normale
+                        document.structure.sections
+                          .filter((section: any) => {
+                            // Afficher les sections de niveau 1 et 2, ou les titres et articles principaux
+                            const isLevel1Or2 = section.level === 1 || section.level === 2;
+                            const isTitreOrArticle = section.type === 'titre' || section.type === 'article';
+                            
+                            // Vérifier si cette section est un enfant d'une autre section
+                            const isChildOfAnotherSection = document.structure.sections.some((parentSection: any) => 
+                              parentSection.children && parentSection.children.includes(section.id)
+                            );
+                            
+                            // Afficher si c'est un niveau 1/2 OU un titre/article, MAIS pas si c'est un enfant
+                            return (isLevel1Or2 || isTitreOrArticle) && !isChildOfAnotherSection;
+                          })
+                          .map((section: any) => renderSection(section))
+                      )}
                     </div>
                   </ScrollArea>
 
