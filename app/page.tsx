@@ -371,7 +371,7 @@ export default function HomePage() {
               className="w-full flex items-center justify-between px-3 py-2.5 lg:py-2 rounded-md text-sm transition-all duration-200 text-gray-700 hover:bg-gray-100 hover:text-gray-900"
             >
               <div className="flex items-center space-x-2 lg:space-x-3 min-w-0">
-                <span className="truncate text-left">Dictionnaire</span>
+                <span className="truncate text-left">Dictionnaire juridique</span>
               </div>
               <div className="flex items-center space-x-2 flex-shrink-0">
                 <ChevronRight className="w-4 h-4" />

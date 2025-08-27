@@ -3,7 +3,7 @@
 import type React from "react"
 
 import { useState } from "react"
-import { Search, Menu, X } from "lucide-react"
+import { Search, Menu, X, ChevronDown, MoreVertical } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import Link from "next/link"
@@ -34,22 +34,16 @@ export function LahalexHeaderResponsive({ searchValue = "", onSearchChange, onSe
 
   return (
     <>
-      <header
-        className="bg-[#770D28] text-white relative z-50"
-        style={{
-          backgroundImage: `linear-gradient(45deg, transparent 40%, rgba(255,255,255,0.03) 50%, transparent 60%), linear-gradient(135deg, transparent 40%, rgba(255,255,255,0.02) 50%, transparent 60%), radial-gradient(circle at 20% 50%, rgba(255,255,255,0.05) 0%, transparent 50%), radial-gradient(circle at 80% 20%, rgba(255,255,255,0.03) 0%, transparent 50%)`,
-          backgroundSize: "20px 20px, 15px 15px, 10px 10px, 8px 8px",
-        }}
-      >
-        <div className="container-responsive py-2 sm:py-3">
+      <header className="bg-primary-lahalex text-white relative z-50">
+        <div className="w-full px-2 sm:px-4 py-2 sm:py-3">
           <div className="flex items-center justify-between">
-            {/* Logo et menu mobile */}
-            <div className="flex items-center space-x-2 sm:space-x-4">
+            {/* Logo et menu mobile - Collé à gauche */}
+            <div className="flex items-center space-x-2 sm:space-x-3 flex-shrink-0">
               {/* Menu hamburger mobile */}
               <Button
                 variant="ghost"
                 size="sm"
-                className="text-white hover:bg-white/10 p-1.5 sm:p-2 lg:hidden"
+                className="text-accent-lahalex hover:bg-white/10 p-1 sm:p-1.5 lg:hidden -ml-1"
                 onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
               >
                 {mobileMenuOpen ? <X className="w-5 h-5" /> : <Menu className="w-5 h-5" />}
@@ -68,7 +62,7 @@ export function LahalexHeaderResponsive({ searchValue = "", onSearchChange, onSe
                 </div>
                 <div className="h-6 sm:h-8 flex-shrink-0">
                   <Image
-                    src="/images/lahalex-logo-text.png"
+                    src="/images/logo-text.png"
                     alt="LAHALEX"
                     width={120}
                     height={32}
@@ -78,55 +72,73 @@ export function LahalexHeaderResponsive({ searchValue = "", onSearchChange, onSe
               </Link>
             </div>
 
-            {/* Barre de recherche centrale - Desktop - Plus longue */}
-            <div className="flex-1 max-w-4xl mx-4 sm:mx-8 hidden md:block">
+            {/* Barre de recherche centrale - Desktop */}
+            <div className="flex-1 max-w-2xl mx-4 sm:mx-6 hidden md:block">
               <form onSubmit={handleSearchSubmit} className="relative">
                 <Input
                   type="text"
-                  placeholder="Tapez des mots clés"
-                  value={searchValue}
-                  onChange={(e) => onSearchChange?.(e.target.value)}
-                  className="w-full bg-white text-gray-900 border-0 rounded-md pr-24 placeholder:text-gray-500 focus:ring-2 focus:ring-white/30 text-sm sm:text-base h-12"
+                  placeholder="Rechercher un terme juridique..."
+                  className="w-full bg-white text-gray-900 border-0 rounded-md pr-12 placeholder:text-gray-500 focus:ring-2 focus:ring-accent-lahalex text-sm sm:text-base"
                 />
                 <Button
                   type="submit"
-                  className="absolute right-1 top-1/2 transform -translate-y-1/2 bg-[#770D28] hover:bg-[#8a0f2e] border border-white/20 px-4 h-10 text-white font-medium"
+                  className="absolute right-1 top-1/2 transform -translate-y-1/2 bg-primary-lahalex hover:bg-primary-lahalex/90 px-2 sm:px-3 h-7 sm:h-8"
                 >
-                  <Search className="w-4 h-4" />
+                  <Search className="w-3 h-3 sm:w-4 sm:h-4" />
                 </Button>
               </form>
             </div>
 
-            {/* Actions droite */}
-            <div className="flex items-center space-x-1 sm:space-x-2">
+            <div className="flex items-center space-x-0 sm:space-x-1 flex-shrink-0 -mr-1">
               {/* Recherche mobile */}
               <Button
                 variant="ghost"
                 size="sm"
-                className="text-white hover:bg-white/10 p-1.5 sm:p-2 md:hidden"
+                className="text-accent-lahalex hover:bg-white/10 p-1.5 sm:p-2 md:hidden"
                 onClick={() => setMobileSearchOpen(!mobileSearchOpen)}
               >
                 <Search className="w-4 h-4 sm:w-5 sm:h-5" />
               </Button>
+
+              {/* Pays - Tablet et Desktop */}
+              <Button
+                variant="ghost"
+                size="sm"
+                className="text-accent-lahalex hover:bg-white/10 hidden sm:flex items-center space-x-1 px-2 sm:px-3"
+              >
+                <Image src="/images/Vector.png" alt="Drapeau" width={20} height={20} className="rounded-sm" />
+                <span className="text-xs text-white sm:text-sm hidden lg:inline">Pays</span>
+                <ChevronDown className="w-3 h-3 sm:w-4 sm:h-4" />
+              </Button>
+
+              {/* Déconnexion */}
+              <Button
+                variant="ghost"
+                size="sm"
+                className="text-white hover:bg-white/10 hidden sm:flex items-center space-x-1 px-2 sm:px-3"
+              >
+                <span className="text-xs sm:text-sm hidden lg:inline">Se déconnecter</span>
+                <MoreVertical className="w-4 h-4 sm:w-5 sm:h-5" />
+              </Button>
             </div>
           </div>
 
-          {/* Barre de recherche mobile - Plus longue */}
+          {/* Barre de recherche mobile */}
           {mobileSearchOpen && (
             <div className="mt-3 md:hidden">
               <form onSubmit={handleSearchSubmit} className="relative">
                 <Input
                   type="text"
-                  placeholder="Tapez des mots clés"
+                  placeholder="Rechercher un terme juridique..."
                   value={searchValue}
                   onChange={(e) => onSearchChange?.(e.target.value)}
-                  className="w-full bg-white text-gray-900 border-0 rounded-md pr-24 placeholder:text-gray-500 text-sm h-12"
+                  className="w-full bg-white text-gray-900 border-0 rounded-md pr-12 placeholder:text-gray-500 text-sm"
                 />
                 <Button
                   type="submit"
-                  className="absolute right-1 top-1/2 transform -translate-y-1/2 bg-[#770D28] hover:bg-[#8a0f2e] border border-white/20 px-4 h-10 text-white font-medium"
+                  className="absolute right-1 top-1/2 transform -translate-y-1/2 bg-primary-lahalex hover:bg-primary-lahalex/90 px-2 h-7"
                 >
-                  <Search className="w-4 h-4" />
+                  <Search className="w-3 h-3" />
                 </Button>
               </form>
             </div>
@@ -159,7 +171,7 @@ export function LahalexHeaderResponsive({ searchValue = "", onSearchChange, onSe
             <nav className="p-4">
               <div className="space-y-3">
                 <Link
-                  href="/" // Updated link
+                  href="/"
                   className="block py-2 px-3 text-gray-700 hover:bg-gray-100 rounded-md"
                   onClick={() => setMobileMenuOpen(false)}
                 >
@@ -192,13 +204,6 @@ export function LahalexHeaderResponsive({ searchValue = "", onSearchChange, onSe
                   onClick={() => setMobileMenuOpen(false)}
                 >
                   Droit public
-                </Link>
-                <Link
-                  href="/dictionnaire"
-                  className="block py-2 px-3 text-gray-700 hover:bg-gray-100 rounded-md"
-                  onClick={() => setMobileMenuOpen(false)}
-                >
-                  Dictionnaire
                 </Link>
               </div>
             </nav>
