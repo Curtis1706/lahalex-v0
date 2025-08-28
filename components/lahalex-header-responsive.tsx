@@ -51,21 +51,21 @@ export function LahalexHeaderResponsive({ searchValue = "", onSearchChange, onSe
 
               {/* Logo LAHALEX */}
               <Link href="/" className="flex items-center space-x-2 sm:space-x-3">
-                <div className="w-8 h-8 sm:w-10 sm:h-10 flex-shrink-0">
+                <div className="w-12 h-12 sm:w-16 sm:h-16 flex-shrink-0">
                   <Image
                     src="/images/lahalex-logo-icon.png"
                     alt="LAHALEX Logo"
-                    width={40}
-                    height={40}
+                    width={64}
+                    height={64}
                     className="w-full h-full object-contain"
                   />
                 </div>
-                <div className="h-6 sm:h-8 flex-shrink-0">
+                <div className="h-8 sm:h-12 flex-shrink-0">
                   <Image
                     src="/images/logo-text.png"
                     alt="LAHALEX"
-                    width={120}
-                    height={32}
+                    width={160}
+                    height={48}
                     className="h-full w-auto object-contain"
                   />
                 </div>
@@ -73,17 +73,16 @@ export function LahalexHeaderResponsive({ searchValue = "", onSearchChange, onSe
             </div>
 
             {/* Barre de recherche centrale - Desktop */}
-<<<<<<< HEAD
             <div className="flex-1 max-w-2xl mx-4 sm:mx-6 hidden md:block">
               <form onSubmit={handleSearchSubmit} className="relative">
                 <Input
                   type="text"
                   placeholder="Rechercher un terme juridique..."
-                  className="w-full bg-white text-gray-900 border-0 rounded-md pr-12 placeholder:text-gray-500 focus:ring-2 focus:ring-accent-lahalex text-sm sm:text-base"
+                  className="w-full bg-white text-gray-900 border-0 rounded-full pr-12 placeholder:text-gray-500 focus:ring-2 focus:ring-accent-lahalex text-sm sm:text-base"
                 />
                 <Button
                   type="submit"
-                  className="absolute right-1 top-1/2 transform -translate-y-1/2 bg-primary-lahalex hover:bg-primary-lahalex/90 px-2 sm:px-3 h-7 sm:h-8"
+                  className="absolute right-1 top-1/2 transform -translate-y-1/2 bg-primary-lahalex hover:bg-primary-lahalex/90 px-2 sm:px-3 h-7 sm:h-8 rounded-full"
                 >
                   <Search className="w-3 h-3 sm:w-4 sm:h-4" />
                 </Button>
@@ -132,11 +131,11 @@ export function LahalexHeaderResponsive({ searchValue = "", onSearchChange, onSe
                   placeholder="Rechercher un terme juridique..."
                   value={searchValue}
                   onChange={(e) => onSearchChange?.(e.target.value)}
-                  className="w-full bg-white text-gray-900 border-0 rounded-md pr-12 placeholder:text-gray-500 text-sm"
+                  className="w-full bg-white text-gray-900 border-0 rounded-full pr-12 placeholder:text-gray-500 text-sm"
                 />
                 <Button
                   type="submit"
-                  className="absolute right-1 top-1/2 transform -translate-y-1/2 bg-primary-lahalex hover:bg-primary-lahalex/90 px-2 h-7"
+                  className="absolute right-1 top-1/2 transform -translate-y-1/2 bg-primary-lahalex hover:bg-primary-lahalex/90 px-2 h-7 rounded-full"
                 >
                   <Search className="w-3 h-3" />
                 </Button>

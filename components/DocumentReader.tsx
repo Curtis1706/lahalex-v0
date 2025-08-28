@@ -645,6 +645,7 @@ export function DocumentReader({
   const currentSource = getDocumentSource(document, pathname);
   console.log('Final source for breadcrumb:', currentSource); // Debug log
 
+  // Construire le breadcrumb en évitant les répétitions
   const breadcrumbItems = [
     { label: "Accueil", href: "/" },
     { label: "Textes", href: "/documents" },
@@ -653,9 +654,16 @@ export function DocumentReader({
       label: getDocumentTypeLabel(document.type),
       href: `/documents?type=${document.type}`,
     },
-    { label: document.title, href: `/documents/${document.id}` },
-    { label: article.metadata.title, isActive: true },
   ];
+
+  // Ajouter le titre du document seulement s'il est différent du titre de l'article
+  // ou s'il s'agit d'une fiche méthode (pour éviter la répétition)
+  if (document.type !== 'fiche-methode' || document.title !== article.metadata.title) {
+    breadcrumbItems.push({ label: document.title, href: `/documents/${document.id}` });
+  }
+
+  // Ajouter le titre de l'article comme élément actif
+  breadcrumbItems.push({ label: article.metadata.title, isActive: true });
 
   return (
     <div className="min-h-screen bg-white">
@@ -797,6 +805,32 @@ export function DocumentReader({
         background-color: #9a1a3a !important;
         box-shadow: 0 0 0 2px rgba(119, 13, 40, 0.5);
         font-weight: 600;
+      }
+      
+      /* Styles pour les listes numérotées */
+      .prose ol {
+        list-style-type: decimal;
+        margin-left: 1.5em;
+        margin-bottom: 1em;
+      }
+      .prose ol li {
+        margin-bottom: 0.5em;
+        padding-left: 0.5em;
+      }
+      .prose ol li::marker {
+        font-weight: 600;
+        color: #374151;
+      }
+      
+      /* Styles pour les listes à puces */
+      .prose ul {
+        list-style-type: disc;
+        margin-left: 1.5em;
+        margin-bottom: 1em;
+      }
+      .prose ul li {
+        margin-bottom: 0.5em;
+        padding-left: 0.5em;
       }
     `}
               </style>

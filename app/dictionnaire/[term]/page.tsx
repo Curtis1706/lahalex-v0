@@ -166,7 +166,7 @@ export default function TermDefinitionPage() {
           </p>
           <div className="flex gap-4 justify-center">
             <Button onClick={() => router.push("/dictionnaire")}>
-              Retour au dictionnaire
+              Retour
             </Button>
             <Button variant="outline" onClick={() => router.push("/")}>
               Retour à l'accueil
@@ -277,7 +277,7 @@ export default function TermDefinitionPage() {
           }}
         >
           <ArrowLeft className="w-3 h-3 lg:w-4 lg:h-4" />
-          <span className="hidden sm:inline">Retour au dictionnaire</span>
+          <span className="hidden sm:inline">Retour</span>
           <span className="sm:hidden">Retour</span>
         </Button>
       </div>

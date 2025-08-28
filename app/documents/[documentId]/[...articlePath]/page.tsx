@@ -35,6 +35,8 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   const { documentId, articlePath } = await params
   const articleId = articlePath[articlePath.length - 1]
   
+  console.log('🔍 Article page accessed:', { documentId, articlePath, articleId })
+  
   const [document, article, allArticles] = await Promise.all([
     DocumentManager.loadDocument(documentId),
     DocumentManager.loadArticle(documentId, articleId),
@@ -42,8 +44,11 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   ])
 
   if (!document || !article) {
+    console.log('🔍 Document or article not found:', { documentId, articleId })
     notFound()
   }
+
+  console.log('🔍 Article loaded successfully:', article.metadata.title)
 
   const processedContent = await processMarkdownContent(article.content)
 
