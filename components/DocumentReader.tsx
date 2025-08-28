@@ -641,6 +641,97 @@ export function DocumentReader({
     );
   };
 
+  // Fonction pour générer un sommaire intelligent pour les fiches méthodes
+  const generateIntelligentTOC = (content: string) => {
+    if (!content) return [];
+    
+    const tocItems: Array<{id: string, title: string, type: 'bold' | 'question', level: number}> = [];
+    const seenTitles = new Set<string>();
+    
+    // Détecter les éléments en gras (**texte**) dans le contenu Markdown
+    const boldPattern = /\*\*(.*?)\*\*/g;
+    let boldMatch;
+    let boldIndex = 0;
+    
+    while ((boldMatch = boldPattern.exec(content)) !== null) {
+      const title = boldMatch[1].trim();
+      if (title && title.length > 3 && !seenTitles.has(title.toLowerCase())) {
+        seenTitles.add(title.toLowerCase());
+        tocItems.push({
+          id: `bold-${boldIndex++}`,
+          title: title,
+          type: 'bold',
+          level: 1
+        });
+      }
+    }
+    
+    // Détecter les questions (lignes se terminant par ?)
+    const lines = content.split('\n');
+    let questionIndex = 0;
+    
+    lines.forEach((line, lineIndex) => {
+      const trimmedLine = line.trim();
+      if (trimmedLine.endsWith('?') && trimmedLine.length > 10) {
+        const title = trimmedLine;
+        if (!seenTitles.has(title.toLowerCase())) {
+          seenTitles.add(title.toLowerCase());
+          tocItems.push({
+            id: `question-${questionIndex++}`,
+            title: title,
+            type: 'question',
+            level: 2
+          });
+        }
+      }
+    });
+    
+    return tocItems;
+  };
+
+  // Fonction pour rendre le sommaire intelligent des fiches méthodes
+  const renderIntelligentTOC = (tocItems: Array<{id: string, title: string, type: 'bold' | 'question', level: number}>) => {
+    return (
+      <div className="space-y-1">
+        <div className="px-3 py-2 text-xs font-semibold text-gray-500 uppercase tracking-wide">
+          Sommaire intelligent
+        </div>
+        {tocItems.map((item) => (
+          <div key={item.id} className="w-full">
+            <div
+              className="flex items-start w-full px-3 py-2 text-sm transition-all duration-200 group hover:bg-gray-50 cursor-pointer"
+              style={{ paddingLeft: `${12 + item.level * 16}px` }}
+              onClick={() => {
+                // Naviguer vers l'ancre créée automatiquement
+                if (typeof window !== 'undefined') {
+                  const anchorId = `toc-${item.id}`;
+                  const element = document.getElementById(anchorId);
+                  if (element) {
+                    element.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                    // Ajouter un effet visuel temporaire
+                    element.style.backgroundColor = '#fef3c7';
+                    element.style.transition = 'background-color 0.3s ease';
+                    setTimeout(() => {
+                      element.style.backgroundColor = '';
+                    }, 2000);
+                  }
+                }
+              }}
+            >
+              <div className="w-4 mr-2 flex-shrink-0" />
+              <div className="flex-1 text-left leading-relaxed">
+                <span className="block break-words" style={{ color: "rgba(16, 130, 201, 1)" }}>
+                  {item.type === 'bold' ? '🔹 ' : '❓ '}
+                  {item.title}
+                </span>
+              </div>
+            </div>
+          </div>
+        ))}
+      </div>
+    );
+  };
+
   // Calcul de la source pour le fil d'ariane
   const currentSource = getDocumentSource(document, pathname);
   console.log('Final source for breadcrumb:', currentSource); // Debug log
@@ -693,9 +784,10 @@ export function DocumentReader({
             <div className="p-2 space-y-1">
               {/* Gestion spéciale pour les fiches méthodes */}
               {document.type === 'fiche-methode' ? (
-                // Pour les fiches méthodes, afficher la section principale
+                // Pour les fiches méthodes, afficher toutes les sections comme des articles
                 document.structure.sections
-                  .filter((section: any) => section.id === 'section-principale')
+                  .filter((section: any) => section.type === 'section-synthese')
+                  .sort((a: any, b: any) => a.order - b.order)
                   .map((section: any) => renderSection(section))
               ) : (
                 // Pour les autres documents, utiliser la logique normale
@@ -768,9 +860,34 @@ export function DocumentReader({
                 ref={articleContentRef}
                 className="overflow-auto"
                 dangerouslySetInnerHTML={{ 
-                  __html: (document.type === 'fiche-synthese' || document.type === 'fiche-methode') && processedFullContent 
-                    ? processedFullContent 
-                    : processedContent 
+                  __html: (() => {
+                    let content = (document.type === 'fiche-synthese' || document.type === 'fiche-methode') && processedFullContent 
+                      ? processedFullContent 
+                      : processedContent;
+                    
+                    // Pour les fiches méthodes, créer des ancres intelligentes
+                    if (document.type === 'fiche-methode' && content) {
+                      const markdownContent = fullFicheContent || processedContent;
+                      const tocItems = generateIntelligentTOC(markdownContent);
+                      
+                      tocItems.forEach((item) => {
+                        if (item.type === 'bold') {
+                          const anchorId = `toc-${item.id}`;
+                          // Pour le texte en gras, chercher les balises <strong>
+                          const boldRegex = new RegExp(`<strong>${item.title.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}</strong>`, 'gi');
+                          content = content.replace(boldRegex, `<strong id="${anchorId}">${item.title}</strong>`);
+                        } else if (item.type === 'question') {
+                          // Créer une ancre pour la question
+                          const anchorId = `toc-${item.id}`;
+                          // Chercher la ligne contenant la question et ajouter une ancre
+                          const questionRegex = new RegExp(`(${item.title.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
+                          content = content.replace(questionRegex, `<span id="${anchorId}">$1</span>`);
+                        }
+                      });
+                    }
+                    
+                    return content;
+                  })()
                 }}
               />
               <style>
@@ -1004,13 +1121,14 @@ export function DocumentReader({
 
                   <ScrollArea className="flex-1" ref={sidebarMobileRef}>
                     <div className="p-2 space-y-1">
-                      {/* Gestion spéciale pour les fiches méthodes */}
-                      {document.type === 'fiche-methode' ? (
-                        // Pour les fiches méthodes, afficher la section principale
-                        document.structure.sections
-                          .filter((section: any) => section.id === 'section-principale')
-                          .map((section: any) => renderSection(section))
-                      ) : (
+                                                                    {/* Gestion spéciale pour les fiches méthodes */}
+                        {document.type === 'fiche-methode' ? (
+                          // Pour les fiches méthodes, afficher toutes les sections comme des articles
+                          document.structure.sections
+                            .filter((section: any) => section.type === 'section-synthese')
+                            .sort((a: any, b: any) => a.order - b.order)
+                            .map((section: any) => renderSection(section))
+                        ) : (
                         // Pour les autres documents, utiliser la logique normale
                         document.structure.sections
                           .filter((section: any) => {
