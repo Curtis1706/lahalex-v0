@@ -40,6 +40,50 @@ function generateId(title: string): string {
   return baseId
 }
 
+// Fonction pour analyser le contenu et extraire les sections
+function extractSections(content: string): Array<{id: string, title: string, content: string, order: number}> {
+  const sections: Array<{id: string, title: string, content: string, order: number}> = []
+  
+  // Détecter les sections basées sur les titres en gras (**Titre**)
+  // Pattern plus flexible pour capturer tous les titres en gras
+  const boldPattern = /\*\*([^*]+?)\*\*/g
+  let match
+  let order = 0
+  
+  while ((match = boldPattern.exec(content)) !== null) {
+    const title = match[1].trim()
+    if (title && title.length > 3) {
+      // Créer un ID unique pour la section
+      const id = title
+        .toLowerCase()
+        .replace(/[^a-z0-9\s-]/g, '')
+        .replace(/\s+/g, '-')
+        .replace(/-+/g, '-')
+        .trim()
+        .replace(/^-|-$/g, '')
+      
+      // Extraire le contenu de cette section (jusqu'au prochain titre)
+      const startIndex = match.index
+      const nextMatch = boldPattern.exec(content)
+      const endIndex = nextMatch ? nextMatch.index : content.length
+      
+      let sectionContent = content.substring(startIndex, endIndex).trim()
+      
+      // Nettoyer le contenu (enlever le titre en gras)
+      sectionContent = sectionContent.replace(/^\*\*[^*]+?\*\*\s*/, '').trim()
+      
+      sections.push({
+        id,
+        title,
+        content: sectionContent,
+        order: order++
+      })
+    }
+  }
+  
+  return sections
+}
+
 export async function GET(request: NextRequest) {
   try {
     // Vérifier l'authentification admin
@@ -105,38 +149,32 @@ export async function POST(request: NextRequest) {
     const id = generateId(title)
     const now = new Date().toISOString()
 
-    // Créer la structure de document compatible avec le système existant
+    // Extraire les sections du contenu
+    const sections = extractSections(content)
+    
+    if (sections.length === 0) {
+      return NextResponse.json({ error: "Aucune section détectée dans le contenu" }, { status: 400 })
+    }
+
+    // Créer la structure de document avec toutes les sections
     const documentMetadata = {
       id,
       title: title.trim(),
-             type: "fiche-methode",
+      type: "fiche-methode",
       description: description.trim(),
       publishedDate: now,
       structure: {
-        sections: [
-          {
-            id: "section-principale",
-            title: title.trim(),
-            type: "section-synthese",
-            level: 1,
-            order: 0,
-            path: ["section-principale"],
-            children: []
-          }
-        ],
-        totalArticles: 1
+        sections: sections.map(section => ({
+          id: section.id,
+          title: section.title,
+          type: "section-synthese",
+          level: 1,
+          order: section.order,
+          path: [section.id],
+          children: []
+        })),
+        totalArticles: sections.length
       }
-    }
-
-    // Créer l'article principal
-    const articleMetadata = {
-      id: "section-principale",
-      title: title.trim(),
-      type: "section-synthese",
-      level: 1,
-      order: 0,
-      path: ["section-principale"],
-      children: []
     }
 
     // Créer le dossier du document
@@ -149,14 +187,26 @@ export async function POST(request: NextRequest) {
       JSON.stringify(documentMetadata, null, 2)
     )
 
-    // Sauvegarder l'article principal
-    await fs.writeFile(
-      join(documentDir, 'section-principale.json'),
-      JSON.stringify({
-        metadata: articleMetadata,
-        content: content.trim()
-      }, null, 2)
-    )
+    // Créer un fichier pour chaque section
+    for (const section of sections) {
+      const articleMetadata = {
+        id: section.id,
+        title: section.title,
+        type: "section-synthese",
+        level: 1,
+        order: section.order,
+        path: [section.id],
+        children: []
+      }
+
+      await fs.writeFile(
+        join(documentDir, `${section.id}.json`),
+        JSON.stringify({
+          metadata: articleMetadata,
+          content: section.content
+        }, null, 2)
+      )
+    }
 
     // Créer l'objet fiche pour la réponse
     const fiche: FicheSynthese = {
@@ -171,10 +221,11 @@ export async function POST(request: NextRequest) {
     return NextResponse.json({ 
       success: true, 
       fiche,
-             message: "Fiche de méthode créée avec succès" 
+      message: `Fiche de méthode créée avec succès (${sections.length} sections détectées)`,
+      sections: sections.map(s => ({ id: s.id, title: s.title }))
     })
   } catch (error) {
-         console.error("Erreur lors de la création de la fiche de méthode:", error)
+    console.error("Erreur lors de la création de la fiche de méthode:", error)
     return NextResponse.json({ error: "Erreur serveur" }, { status: 500 })
   }
 }

@@ -1,0 +1,100 @@
+{
+  "id": "matriser-la-dissertation-universitaire-mevypru9",
+  "title": "Maîtriser la dissertation universitaire",
+  "type": "fiche-methode",
+  "description": "Guide stratégique de préparation aux examens",
+  "publishedDate": "2025-08-28T22:15:23.697Z",
+  "structure": {
+    "sections": [
+      {
+        "id": "introduction",
+        "title": "Introduction",
+        "type": "section-synthese",
+        "level": 1,
+        "order": 0,
+        "path": [
+          "introduction"
+        ],
+        "children": []
+      },
+      {
+        "id": "objectifs",
+        "title": "Objectifs pédagogiques",
+        "type": "section-synthese",
+        "level": 1,
+        "order": 1,
+        "path": [
+          "objectifs"
+        ],
+        "children": []
+      },
+      {
+        "id": "phase-prparatoire",
+        "title": "Phase préparatoire",
+        "type": "section-synthese",
+        "level": 1,
+        "order": 2,
+        "path": [
+          "phase-prparatoire"
+        ],
+        "children": []
+      },
+      {
+         "id": "construction",
+        "title": "Construction de la problématique et du plan",
+        "type": "section-synthese",
+        "level": 1,
+        "order": 3,
+        "path": [
+          "construction"
+        ],
+        "children": []
+      },
+     {
+      "id" : "rdaction-structure",
+      "title": "Rédaction structurée",
+      "type": "section-synthese",
+      "level": 1,
+      "order": 4,
+      "path": [
+        "rdaction-structure"
+      ],
+      "children": []
+     },
+      {
+        "id": "techniques",
+        "title": "Techniques d’argumentation",
+        "type": "section-synthese",
+        "level": 1,
+        "order": 5,
+        "path": [
+          "techniques"
+        ],
+        "children": []
+      },
+      {
+        "id" :"conseils-pratiques",
+        "title": "Conseils pratiques",
+        "type": "section-synthese",
+        "level": 1,
+        "order": 6,
+        "path": [
+          "conseils-pratiques"
+        ],        
+        "children": []
+      },
+      {
+        "id": "conclusion",
+        "title": "Conclusion",
+        "type": "section-synthese",
+        "level": 1,
+        "order": 7,
+        "path": [
+          "conclusion"
+        ],
+        "children": []
+      }
+    ],
+    "totalArticles": 8
+  }
+}

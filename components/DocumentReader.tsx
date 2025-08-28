@@ -702,10 +702,19 @@ export function DocumentReader({
               className="flex items-start w-full px-3 py-2 text-sm transition-all duration-200 group hover:bg-gray-50 cursor-pointer"
               style={{ paddingLeft: `${12 + item.level * 16}px` }}
               onClick={() => {
-                // Faire défiler vers l'élément dans le contenu
-                const element = document.querySelector(`[data-toc-id="${item.id}"]`);
-                if (element) {
-                  element.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                // Naviguer vers l'ancre créée automatiquement
+                if (typeof window !== 'undefined') {
+                  const anchorId = `toc-${item.id}`;
+                  const element = document.getElementById(anchorId);
+                  if (element) {
+                    element.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                    // Ajouter un effet visuel temporaire
+                    element.style.backgroundColor = '#fef3c7';
+                    element.style.transition = 'background-color 0.3s ease';
+                    setTimeout(() => {
+                      element.style.backgroundColor = '';
+                    }, 2000);
+                  }
                 }
               }}
             >
@@ -767,20 +776,11 @@ export function DocumentReader({
             <div className="p-2 space-y-1">
               {/* Gestion spéciale pour les fiches méthodes */}
               {document.type === 'fiche-methode' ? (
-                // Pour les fiches méthodes, générer un sommaire intelligent basé sur le contenu Markdown
-                (() => {
-                  // Utiliser le contenu Markdown brut au lieu du HTML traité
-                  const markdownContent = fullFicheContent || processedContent;
-                  const tocItems = generateIntelligentTOC(markdownContent);
-                  if (tocItems.length > 0) {
-                    return renderIntelligentTOC(tocItems);
-                  } else {
-                    // Fallback : afficher la section principale si pas de contenu intelligent
-                    return document.structure.sections
-                      .filter((section: any) => section.id === 'section-principale')
-                      .map((section: any) => renderSection(section));
-                  }
-                })()
+                // Pour les fiches méthodes, afficher toutes les sections comme des articles
+                document.structure.sections
+                  .filter((section: any) => section.type === 'section-synthese')
+                  .sort((a: any, b: any) => a.order - b.order)
+                  .map((section: any) => renderSection(section))
               ) : (
                 // Pour les autres documents, utiliser la logique normale
                 document.structure.sections
@@ -852,9 +852,34 @@ export function DocumentReader({
                 ref={articleContentRef}
                 className="overflow-auto"
                 dangerouslySetInnerHTML={{ 
-                  __html: (document.type === 'fiche-synthese' || document.type === 'fiche-methode') && processedFullContent 
-                    ? processedFullContent 
-                    : processedContent 
+                  __html: (() => {
+                    let content = (document.type === 'fiche-synthese' || document.type === 'fiche-methode') && processedFullContent 
+                      ? processedFullContent 
+                      : processedContent;
+                    
+                    // Pour les fiches méthodes, créer des ancres intelligentes
+                    if (document.type === 'fiche-methode' && content) {
+                      const markdownContent = fullFicheContent || processedContent;
+                      const tocItems = generateIntelligentTOC(markdownContent);
+                      
+                      tocItems.forEach((item) => {
+                        if (item.type === 'bold') {
+                          const anchorId = `toc-${item.id}`;
+                          // Pour le texte en gras, chercher les balises <strong>
+                          const boldRegex = new RegExp(`<strong>${item.title.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}</strong>`, 'gi');
+                          content = content.replace(boldRegex, `<strong id="${anchorId}">${item.title}</strong>`);
+                        } else if (item.type === 'question') {
+                          // Créer une ancre pour la question
+                          const anchorId = `toc-${item.id}`;
+                          // Chercher la ligne contenant la question et ajouter une ancre
+                          const questionRegex = new RegExp(`(${item.title.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
+                          content = content.replace(questionRegex, `<span id="${anchorId}">$1</span>`);
+                        }
+                      });
+                    }
+                    
+                    return content;
+                  })()
                 }}
               />
               <style>
@@ -1062,23 +1087,14 @@ export function DocumentReader({
 
                   <ScrollArea className="flex-1" ref={sidebarMobileRef}>
                     <div className="p-2 space-y-1">
-                                             {/* Gestion spéciale pour les fiches méthodes */}
-                       {document.type === 'fiche-methode' ? (
-                         // Pour les fiches méthodes, générer un sommaire intelligent basé sur le contenu Markdown
-                         (() => {
-                           // Utiliser le contenu Markdown brut au lieu du HTML traité
-                           const markdownContent = fullFicheContent || processedContent;
-                           const tocItems = generateIntelligentTOC(markdownContent);
-                           if (tocItems.length > 0) {
-                             return renderIntelligentTOC(tocItems);
-                           } else {
-                             // Fallback : afficher la section principale si pas de contenu intelligent
-                             return document.structure.sections
-                               .filter((section: any) => section.id === 'section-principale')
-                               .map((section: any) => renderSection(section));
-                           }
-                         })()
-                       ) : (
+                                                                    {/* Gestion spéciale pour les fiches méthodes */}
+                        {document.type === 'fiche-methode' ? (
+                          // Pour les fiches méthodes, afficher toutes les sections comme des articles
+                          document.structure.sections
+                            .filter((section: any) => section.type === 'section-synthese')
+                            .sort((a: any, b: any) => a.order - b.order)
+                            .map((section: any) => renderSection(section))
+                        ) : (
                         // Pour les autres documents, utiliser la logique normale
                         document.structure.sections
                           .filter((section: any) => {
