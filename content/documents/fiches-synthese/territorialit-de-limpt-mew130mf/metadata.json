@@ -1,0 +1,100 @@
+{
+  "id": "territorialit-de-limpt-mew130mf",
+  "title": "TERRITORIALITÉ DE L'IMPÔT",
+  "type": "fiche-synthese",
+  "description": "Le document présente le principe de territorialité de l'impôt au Bénin, qui impose uniquement les revenus ayant un lien avec le territoire national, en détaillant les critères pour les personnes physiques et morales ainsi que les notions d'établissement stable et de domicile fiscal. Il illustre l'application par des exemples, souligne les avantages et limites, et met en garde contre les pièges liés aux conventions fiscales et aux seuils temporels.",
+  "publishedDate": "2025-08-28T23:21:40.839Z",
+  "structure": {
+    "sections": [
+      {
+        "id": "dfinition-et-principe-gnral",
+        "title": "DÉFINITION ET PRINCIPE GÉNÉRAL",
+        "type": "section-synthese",
+        "level": 1,
+        "order": 0,
+        "path": [
+          "dfinition-et-principe-gnral"
+        ],
+        "children": []
+      },
+      {
+        "id": "fondements-juridiques-au-bnin",
+        "title": "FONDEMENTS JURIDIQUES AU BÉNIN",
+        "type": "section-synthese",
+        "level": 1,
+        "order": 1,
+        "path": [
+          "fondements-juridiques-au-bnin"
+        ],
+        "children": []
+      },
+      {
+        "id": "critres-dapplication-pour-les-personnes-physiques",
+        "title": "CRITÈRES D'APPLICATION POUR LES PERSONNES PHYSIQUES",
+        "type": "section-synthese",
+        "level": 1,
+        "order": 2,
+        "path": [
+          "critres-dapplication-pour-les-personnes-physiques"
+        ],
+        "children": []
+      },
+      {
+        "id": "critres-dapplication-pour-les-personnes-morales",
+        "title": "CRITÈRES D'APPLICATION POUR LES PERSONNES MORALES",
+        "type": "section-synthese",
+        "level": 1,
+        "order": 3,
+        "path": [
+          "critres-dapplication-pour-les-personnes-morales"
+        ],
+        "children": []
+      },
+      {
+        "id": "exemples-pratiques",
+        "title": "EXEMPLES PRATIQUES",
+        "type": "section-synthese",
+        "level": 1,
+        "order": 4,
+        "path": [
+          "exemples-pratiques"
+        ],
+        "children": []
+      },
+      {
+        "id": "avantages-et-inconvnients",
+        "title": "AVANTAGES ET INCONVÉNIENTS",
+        "type": "section-synthese",
+        "level": 1,
+        "order": 5,
+        "path": [
+          "avantages-et-inconvnients"
+        ],
+        "children": []
+      },
+      {
+        "id": "retenir-absolument",
+        "title": "RETENIR ABSOLUMENT",
+        "type": "section-synthese",
+        "level": 1,
+        "order": 6,
+        "path": [
+          "retenir-absolument"
+        ],
+        "children": []
+      },
+      {
+        "id": "piges-viter",
+        "title": "PIÈGES À ÉVITER",
+        "type": "section-synthese",
+        "level": 1,
+        "order": 7,
+        "path": [
+          "piges-viter"
+        ],
+        "children": []
+      }
+    ],
+    "totalArticles": 8
+  }
+}

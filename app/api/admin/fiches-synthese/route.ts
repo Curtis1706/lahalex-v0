@@ -115,7 +115,7 @@ export async function GET(request: NextRequest) {
           }
           fiches.push(fiche)
         } catch (error) {
-                     console.error(`Erreur lecture fiche de méthode ${entry.name}:`, error)
+                     console.error(`Erreur lecture fiche de synthèse ${entry.name}:`, error)
         }
       }
     }
@@ -125,7 +125,7 @@ export async function GET(request: NextRequest) {
 
     return NextResponse.json({ fiches })
   } catch (error) {
-         console.error("Erreur lors de la récupération des fiches de méthode:", error)
+         console.error("Erreur lors de la récupération des fiches de synthèse:", error)
     return NextResponse.json({ error: "Erreur serveur" }, { status: 500 })
   }
 }
@@ -160,7 +160,7 @@ export async function POST(request: NextRequest) {
     const documentMetadata = {
       id,
       title: title.trim(),
-      type: "fiche-methode",
+      type: "fiche-synthese",
       description: description.trim(),
       publishedDate: now,
       structure: {
@@ -221,11 +221,11 @@ export async function POST(request: NextRequest) {
     return NextResponse.json({ 
       success: true, 
       fiche,
-      message: `Fiche de méthode créée avec succès (${sections.length} sections détectées)`,
+      message: `Fiche de synthèse créée avec succès (${sections.length} sections détectées)`,
       sections: sections.map(s => ({ id: s.id, title: s.title }))
     })
   } catch (error) {
-    console.error("Erreur lors de la création de la fiche de méthode:", error)
+    console.error("Erreur lors de la création de la fiche de synthèse:", error)
     return NextResponse.json({ error: "Erreur serveur" }, { status: 500 })
   }
 }

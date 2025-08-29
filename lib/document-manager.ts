@@ -117,8 +117,8 @@ export class DocumentManager {
       const document = await this.loadDocument(documentId)
       if (!document) return null
 
-      // Pour les fiches de méthode créées via l'admin, utiliser un seul fichier JSON
-      if (document.type === 'fiche-methode') {
+      // Pour les fiches de méthode et de synthèse créées via l'admin, utiliser un seul fichier JSON
+      if (document.type === 'fiche-methode' || document.type === 'fiche-synthese') {
         try {
           // Essayer d'abord dans le dossier principal
           let articlePath = join(DOCUMENTS_DIR, documentId, `${articleId}.json`)

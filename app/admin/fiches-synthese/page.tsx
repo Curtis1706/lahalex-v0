@@ -49,7 +49,7 @@ export default function FichesSynthesePage() {
       }
     } catch (error) {
       console.error("Erreur lors du chargement des fiches:", error)
-             toast.error("Erreur lors du chargement des fiches de méthode")
+             toast.error("Erreur lors du chargement des fiches de synthèse")
     } finally {
       setIsLoading(false)
     }
@@ -74,7 +74,7 @@ export default function FichesSynthesePage() {
       })
 
       if (response.ok) {
-        toast.success("Fiche de méthode créée avec succès")
+        toast.success("Fiche de synthèse créée avec succès")
         setFormData({ title: "", description: "", content: "" })
         setShowForm(false)
         fetchFiches() // Recharger la liste
@@ -91,7 +91,7 @@ export default function FichesSynthesePage() {
   }
 
   const handleDelete = async (id: string) => {
-         if (!confirm("Êtes-vous sûr de vouloir supprimer cette fiche de méthode ?")) {
+    if (!confirm("Êtes-vous sûr de vouloir supprimer cette fiche de synthèse ?")) {
       return
     }
 
@@ -101,7 +101,7 @@ export default function FichesSynthesePage() {
       })
 
       if (response.ok) {
-        toast.success("Fiche de méthode supprimée")
+        toast.success("Fiche de synthèse supprimée")
         fetchFiches() // Recharger la liste
       } else {
         toast.error("Erreur lors de la suppression")
@@ -129,8 +129,8 @@ export default function FichesSynthesePage() {
               <Image src="/images/lahalex-logo-text.png" alt="LAHALEX" width={120} height={32} className="h-8 w-auto" />
             </div>
             <div>
-              <h1 className="text-3xl font-bold text-gray-900">Gestion des fiches de méthode</h1>
-              <p className="text-gray-600">Créer et gérer les fiches de méthode</p>
+              <h1 className="text-3xl font-bold text-gray-900">Gestion des fiches de synthèse</h1>
+              <p className="text-gray-600">Créer et gérer les fiches de synthèse</p>
             </div>
           </div>
 
@@ -158,7 +158,7 @@ export default function FichesSynthesePage() {
             onClick={() => setShowForm(!showForm)}
             className="flex items-center space-x-2"
           >
-            <span>{showForm ? "❌ Annuler" : "➕ Créer une fiche de méthode"}</span>
+            <span>{showForm ? "❌ Annuler" : "➕ Créer une fiche de synthèse"}</span>
           </Button>
         </div>
 
@@ -166,9 +166,9 @@ export default function FichesSynthesePage() {
         {showForm && (
           <Card className="mb-8">
             <CardHeader>
-              <CardTitle>Créer une nouvelle fiche de méthode</CardTitle>
+              <CardTitle>Créer une nouvelle fiche de synthèse</CardTitle>
               <CardDescription>
-                Remplissez les champs ci-dessous pour créer une fiche de méthode
+                Remplissez les champs ci-dessous pour créer une fiche de synthèse
               </CardDescription>
             </CardHeader>
             <CardContent>
@@ -182,7 +182,7 @@ export default function FichesSynthesePage() {
                     type="text"
                     value={formData.title}
                     onChange={(e) => setFormData(prev => ({ ...prev, title: e.target.value }))}
-                                         placeholder="Titre de la fiche de méthode"
+                                         placeholder="Titre de la fiche de synthèse"
                     required
                   />
                 </div>
@@ -195,7 +195,7 @@ export default function FichesSynthesePage() {
                     id="description"
                     value={formData.description}
                     onChange={(e) => setFormData(prev => ({ ...prev, description: e.target.value }))}
-                                         placeholder="Description courte de la fiche de méthode"
+                                         placeholder="Description courte de la fiche de synthèse"
                     rows={3}
                     required
                   />
@@ -209,7 +209,7 @@ export default function FichesSynthesePage() {
                     id="content"
                     value={formData.content}
                     onChange={(e) => setFormData(prev => ({ ...prev, content: e.target.value }))}
-                                         placeholder="Contenu complet de la fiche de méthode (Markdown supporté)"
+                                         placeholder="Contenu complet de la fiche de synthèse (Markdown supporté)"
                     rows={15}
                     required
                   />
@@ -231,7 +231,7 @@ export default function FichesSynthesePage() {
                     type="submit"
                     disabled={isCreating}
                   >
-                                         {isCreating ? "Création en cours..." : "Créer la fiche de méthode"}
+                                         {isCreating ? "Création en cours..." : "Créer la fiche de synthèse"}
                   </Button>
                 </div>
               </form>
@@ -242,20 +242,20 @@ export default function FichesSynthesePage() {
         {/* Liste des fiches existantes */}
         <Card>
           <CardHeader>
-                          <CardTitle>Fiches de méthode existantes</CardTitle>
+                          <CardTitle>Fiches de synthèse existantes</CardTitle>
               <CardDescription>
-                {fiches.length} fiche{fiches.length > 1 ? 's' : ''} de méthode
+                {fiches.length} fiche{fiches.length > 1 ? 's' : ''} de synthèse
               </CardDescription>
           </CardHeader>
           <CardContent>
             {isLoading ? (
               <div className="text-center py-8">
                 <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-blue-600 mx-auto mb-4"></div>
-                                       <p className="text-gray-500">Chargement des fiches de méthode...</p>
+                                       <p className="text-gray-500">Chargement des fiches de synthèse...</p>
               </div>
             ) : fiches.length === 0 ? (
               <div className="text-center py-8">
-                                     <p className="text-gray-500">Aucune fiche de méthode créée</p>
+                                     <p className="text-gray-500">Aucune fiche de synthèse créée</p>
               </div>
             ) : (
               <div className="space-y-4">

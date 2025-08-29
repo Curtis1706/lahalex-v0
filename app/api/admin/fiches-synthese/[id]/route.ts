@@ -22,7 +22,7 @@ export async function DELETE(
     try {
       await fs.access(documentDir)
     } catch {
-      return NextResponse.json({ error: "Fiche de méthode non trouvée" }, { status: 404 })
+      return NextResponse.json({ error: "Fiche de synthèse non trouvée" }, { status: 404 })
     }
 
     // Supprimer le dossier et tout son contenu
@@ -30,10 +30,10 @@ export async function DELETE(
 
     return NextResponse.json({ 
       success: true, 
-      message: "Fiche de méthode supprimée avec succès" 
+      message: "Fiche de synthèse supprimée avec succès" 
     })
   } catch (error) {
-    console.error("Erreur lors de la suppression de la fiche de méthode:", error)
+    console.error("Erreur lors de la suppression de la fiche de synthèse:", error)
     return NextResponse.json({ error: "Erreur serveur" }, { status: 500 })
   }
 }

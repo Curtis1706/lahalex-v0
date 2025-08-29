@@ -6,6 +6,8 @@ import { useDropzone } from "react-dropzone"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
+import { Input } from "@/components/ui/input"
+import { Textarea } from "@/components/ui/textarea"
 import { toast } from "sonner"
 import Image from "next/image"
 
@@ -30,6 +32,16 @@ export default function AdminPage() {
     totalArticles: 0,
     categories: [] as Array<{ name: string; count: number }>
   })
+  
+  // État pour les fiches de synthèse
+  const [showFicheForm, setShowFicheForm] = useState(false)
+  const [isCreatingFiche, setIsCreatingFiche] = useState(false)
+  const [ficheFormData, setFicheFormData] = useState({
+    title: "",
+    description: "",
+    content: ""
+  })
+  
   const router = useRouter()
 
   // Charger les statistiques
@@ -195,6 +207,41 @@ export default function AdminPage() {
     setFilesPair({ markdownFile: null, metadataFile: null })
   }
 
+  // Fonction pour créer une fiche de synthèse
+  const handleCreateFiche = async (e: React.FormEvent) => {
+    e.preventDefault()
+    
+    if (!ficheFormData.title.trim() || !ficheFormData.description.trim() || !ficheFormData.content.trim()) {
+      toast.error("Tous les champs sont obligatoires")
+      return
+    }
+
+    setIsCreatingFiche(true)
+    try {
+      const response = await fetch("/api/admin/fiches-synthese", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(ficheFormData),
+      })
+
+      if (response.ok) {
+        toast.success("Fiche de synthèse créée avec succès")
+        setFicheFormData({ title: "", description: "", content: "" })
+        setShowFicheForm(false)
+      } else {
+        const error = await response.json()
+        toast.error(error.error || "Erreur lors de la création")
+      }
+    } catch (error) {
+      console.error("Erreur lors de la création:", error)
+      toast.error("Erreur lors de la création")
+    } finally {
+      setIsCreatingFiche(false)
+    }
+  }
+
   const { getRootProps, getInputProps, isDragActive } = useDropzone({
     onDrop,
     accept: {
@@ -232,7 +279,7 @@ export default function AdminPage() {
               onClick={() => router.push("/admin/fiches-synthese")}
               className="flex items-center space-x-2"
             >
-                             <span>📋 Fiches de méthode</span>
+                             <span>📋 Fiches de synthèse</span>
             </Button>
             <Button
               variant="outline"
@@ -391,6 +438,92 @@ export default function AdminPage() {
                   </Button>
                 )}
               </div>
+            )}
+          </CardContent>
+        </Card>
+
+        {/* Création de fiches de synthèse */}
+        <Card className="mb-8">
+          <CardHeader>
+            <CardTitle>Création de fiches de synthèse</CardTitle>
+            <CardDescription>
+              Créez rapidement des fiches de synthèse avec un formulaire simple
+            </CardDescription>
+          </CardHeader>
+          <CardContent>
+            <div className="mb-4">
+              <Button
+                onClick={() => setShowFicheForm(!showFicheForm)}
+                className="flex items-center space-x-2"
+              >
+                <span>{showFicheForm ? "❌ Annuler" : "📝 Créer une fiche de synthèse"}</span>
+              </Button>
+            </div>
+
+            {showFicheForm && (
+              <form onSubmit={handleCreateFiche} className="space-y-4">
+                <div>
+                  <label htmlFor="fiche-title" className="block text-sm font-medium text-gray-700 mb-2">
+                    Titre *
+                  </label>
+                  <Input
+                    id="fiche-title"
+                    type="text"
+                    value={ficheFormData.title}
+                    onChange={(e) => setFicheFormData(prev => ({ ...prev, title: e.target.value }))}
+                    placeholder="Titre de la fiche de synthèse"
+                    required
+                  />
+                </div>
+
+                <div>
+                  <label htmlFor="fiche-description" className="block text-sm font-medium text-gray-700 mb-2">
+                    Description *
+                  </label>
+                  <Textarea
+                    id="fiche-description"
+                    value={ficheFormData.description}
+                    onChange={(e) => setFicheFormData(prev => ({ ...prev, description: e.target.value }))}
+                    placeholder="Description courte de la fiche de synthèse"
+                    rows={2}
+                    required
+                  />
+                </div>
+
+                <div>
+                  <label htmlFor="fiche-content" className="block text-sm font-medium text-gray-700 mb-2">
+                    Contenu *
+                  </label>
+                  <Textarea
+                    id="fiche-content"
+                    value={ficheFormData.content}
+                    onChange={(e) => setFicheFormData(prev => ({ ...prev, content: e.target.value }))}
+                    placeholder="Contenu complet avec sections en gras (**Titre**)"
+                    rows={8}
+                    required
+                  />
+                  <p className="text-sm text-gray-500 mt-1">
+                    Utilisez <code>**Titre de section**</code> pour créer des sections automatiquement
+                  </p>
+                </div>
+
+                <div className="flex justify-end space-x-4">
+                  <Button
+                    type="button"
+                    variant="outline"
+                    onClick={() => setShowFicheForm(false)}
+                    disabled={isCreatingFiche}
+                  >
+                    Annuler
+                  </Button>
+                  <Button
+                    type="submit"
+                    disabled={isCreatingFiche}
+                  >
+                    {isCreatingFiche ? "Création en cours..." : "Créer la fiche de synthèse"}
+                  </Button>
+                </div>
+              </form>
             )}
           </CardContent>
         </Card>
