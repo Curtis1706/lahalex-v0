@@ -208,6 +208,12 @@ export async function POST(request: NextRequest) {
       )
     }
 
+    // Sauvegarder le contenu original complet pour les fiches méthodes
+    await fs.writeFile(
+      join(documentDir, 'content-complet.md'),
+      content
+    )
+
     // Créer l'objet fiche pour la réponse
     const fiche: FicheSynthese = {
       id,

@@ -141,6 +141,7 @@ export function DocumentReader({
   processedContent,
   allArticles,
 }: DocumentReaderProps) {
+  console.log('DocumentReader rendered with allArticles length:', allArticles?.length);
   const [sidebarOpen, setSidebarOpen] = useState(false);
   const [searchValue, setSearchValue] = useState("");
   const [documentSearch, setDocumentSearch] = useState("");
@@ -164,16 +165,67 @@ export function DocumentReader({
 
   // Fonction pour charger tout le contenu d'une fiche de synthèse
   const loadFullFicheContent = useCallback(async () => {
-    if ((document.type === 'fiche-synthese' || document.type === 'fiche-methode') && allArticles && allArticles.length > 0) {
+    console.log('loadFullFicheContent called');
+    console.log('Document type:', document.type);
+    console.log('All articles length:', allArticles?.length);
+    
+    if (document.type === 'fiche-methode') {
+      console.log('Processing fiche-methode content');
+      
       try {
-        // Trier les articles par ordre pour maintenir la structure logique
-        const sortedArticles = allArticles.sort((a, b) => {
-          const aOrder = a.metadata.order || 0;
-          const bOrder = b.metadata.order || 0;
-          return aOrder - bOrder;
-        });
+        // Pour les fiches méthodes, charger le contenu réel de chaque section
+        let fullContent = '';
+        
+        // Ajouter le titre principal du document
+        fullContent += `**${document.title}**\n\n`;
+        
+        // Ajouter la description
+        if (document.description) {
+          fullContent += `${document.description}\n\n`;
+        }
 
-        // Construire le contenu complet
+        // Ajouter le contenu de chaque section dans l'ordre
+        const sortedSections = document.structure.sections.sort((a, b) => a.order - b.order);
+        
+        for (const section of sortedSections) {
+          if (section.title) {
+            // Ajouter le titre de la section en gras
+            fullContent += `**${section.title}**\n\n`;
+            
+            // Charger le contenu réel de cette section
+            try {
+              const response = await fetch(`/api/documents/${document.id}/${section.id}`);
+              if (response.ok) {
+                const articleData = await response.json();
+                if (articleData.content) {
+                  fullContent += `${articleData.content}\n\n`;
+                }
+              } else {
+                fullContent += `*Contenu de la section ${section.title} non disponible*\n\n`;
+              }
+            } catch (error) {
+              console.error(`Erreur lors du chargement de la section ${section.id}:`, error);
+              fullContent += `*Erreur lors du chargement de la section ${section.title}*\n\n`;
+            }
+          }
+        }
+
+        console.log('Full content length:', fullContent.length);
+        console.log('Full content preview:', fullContent.substring(0, 200));
+        
+        setFullFicheContent(fullContent);
+      } catch (error) {
+        console.error('Erreur lors du chargement du contenu complet:', error);
+        setFullFicheContent(processedContent); // Fallback au contenu de l'article actuel
+      }
+      return;
+    }
+    
+    if (document.type === 'fiche-synthese') {
+      try {
+        console.log('Loading full content for fiche-synthese via API reconstruction');
+        
+        // Pour les fiches de synthèse, reconstruire le contenu via API comme pour les fiches méthodes
         let fullContent = '';
         
         // Ajouter le titre principal du document
@@ -184,13 +236,26 @@ export function DocumentReader({
           fullContent += `${document.description}\n\n`;
         }
 
-        // Ajouter le contenu de chaque article dans l'ordre
-        for (const articleData of sortedArticles) {
-          if (articleData.metadata.title && articleData.content) {
-            // Ajouter le titre de la section
-            fullContent += `## ${articleData.metadata.title}\n\n`;
-            // Ajouter le contenu de la section
-            fullContent += `${articleData.content}\n\n`;
+        // Reconstruire le contenu en récupérant chaque section via API
+        for (const section of document.structure.sections) {
+          try {
+            console.log(`Fetching content for section: ${section.id}`);
+            const response = await fetch(`/api/documents/${document.id}/${section.id}`);
+            
+            if (response.ok) {
+              const articleData = await response.json();
+              
+              if (articleData.metadata.title && articleData.content) {
+                // Ajouter le titre de la section
+                fullContent += `## ${articleData.metadata.title}\n\n`;
+                // Ajouter le contenu de la section
+                fullContent += `${articleData.content}\n\n`;
+              }
+            } else {
+              console.warn(`Failed to fetch section ${section.id}:`, response.status);
+            }
+          } catch (sectionError) {
+            console.error(`Error fetching section ${section.id}:`, sectionError);
           }
         }
 
@@ -204,10 +269,16 @@ export function DocumentReader({
 
   // Charger le contenu complet au montage du composant pour les fiches de synthèse
   useEffect(() => {
-    if (document.type === 'fiche-synthese' || document.type === 'fiche-methode') {
+    console.log('useEffect for loadFullFicheContent triggered');
+    console.log('Document type:', document.type);
+    console.log('All articles available:', !!allArticles);
+    console.log('All articles length:', allArticles?.length);
+    
+    if (document.type === 'fiche-methode' || document.type === 'fiche-synthese') {
+      console.log(`Calling loadFullFicheContent for ${document.type}`);
       loadFullFicheContent();
     }
-  }, [document.type, loadFullFicheContent]);
+  }, [document.type, loadFullFicheContent, allArticles]);
 
   // État pour le contenu traité complet
   const [processedFullContent, setProcessedFullContent] = useState<string>("");
@@ -282,19 +353,33 @@ export function DocumentReader({
   // Logique de recherche dans tout le document
   const performDocumentSearch = useCallback(async () => {
     if (!documentSearch || documentSearch.trim() === '') {
-      setSearchResults([]);
-      setSearchMatches([]);
-      setCurrentMatchIndex(-1);
-      setUnifiedMatches([]);
-      setCurrentUnifiedIndex(-1);
-      // Restaurer le contenu original
-      if (articleContentRef.current) {
-        const contentToRestore = (document.type === 'fiche-synthese' || document.type === 'fiche-methode') && processedFullContent 
-          ? processedFullContent 
-          : processedContent;
-        articleContentRef.current.innerHTML = contentToRestore;
+          setSearchResults([]);
+    setSearchMatches([]);
+    setCurrentMatchIndex(-1);
+    setUnifiedMatches([]);
+    setCurrentUnifiedIndex(-1);
+    // Restaurer le contenu original
+    if (articleContentRef.current) {
+      let contentToRestore;
+      
+      // Pour les fiches méthodes, restaurer le contenu complet avec les ancres
+      if (document.type === 'fiche-methode' && processedFullContent) {
+        let content = processedFullContent;
+        document.structure.sections.forEach((section: any) => {
+          const anchorId = section.id;
+          const titleRegex = new RegExp(`<strong>${section.title.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}</strong>`, 'gi');
+          content = content.replace(titleRegex, `<strong id="${anchorId}">${section.title}</strong>`);
+        });
+        contentToRestore = content;
+      } else if (document.type === 'fiche-synthese' && processedFullContent) {
+        contentToRestore = processedFullContent;
+      } else {
+        contentToRestore = processedContent;
       }
-      return;
+      
+      articleContentRef.current.innerHTML = contentToRestore;
+    }
+    return;
     }
 
     setIsSearching(true);
@@ -505,9 +590,23 @@ export function DocumentReader({
       setCurrentMatchIndex(-1);
       // Restaurer le contenu original
       if (articleContentRef.current) {
-        const contentToRestore = (document.type === 'fiche-synthese' || document.type === 'fiche-methode') && processedFullContent 
-          ? processedFullContent 
-          : processedContent;
+        let contentToRestore;
+        
+        // Pour les fiches méthodes, restaurer le contenu complet avec les ancres
+        if (document.type === 'fiche-methode' && processedFullContent) {
+          let content = processedFullContent;
+          document.structure.sections.forEach((section: any) => {
+            const anchorId = section.id;
+            const titleRegex = new RegExp(`<strong>${section.title.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}</strong>`, 'gi');
+            content = content.replace(titleRegex, `<strong id="${anchorId}">${section.title}</strong>`);
+          });
+          contentToRestore = content;
+        } else if (document.type === 'fiche-synthese' && processedFullContent) {
+          contentToRestore = processedFullContent;
+        } else {
+          contentToRestore = processedContent;
+        }
+        
         articleContentRef.current.innerHTML = contentToRestore;
       }
     } else {
@@ -599,21 +698,48 @@ export function DocumentReader({
           )}
 
           {isClickable ? (
-            <Link
-              href={`/documents/${document.id}/${section.id}`}
-              className={`flex-1 text-left leading-relaxed ${
-                isCurrentArticle ? colorClass : ""
-              }`}
-              onClick={() => isMobile && setSidebarOpen(false)}
-              title={section.title}
-              style={
-                isCurrentArticle
-                  ? undefined
-                  : { color: "rgba(16, 130, 201, 1)" }
-              }
-            >
-              <span className="block break-words">{section.title}</span>
-            </Link>
+            // Pour les fiches méthodes, utiliser le scroll au lieu de la navigation
+            document.type === 'fiche-methode' ? (
+              <button
+                onClick={(e) => {
+                  e.preventDefault();
+                  e.stopPropagation();
+                  console.log('Button clicked for section:', section.id, section.title);
+                  // Ajouter un délai pour s'assurer que le contenu est rendu
+                  setTimeout(() => {
+                    scrollToSection(section.id);
+                  }, 100);
+                  isMobile && setSidebarOpen(false);
+                }}
+                className={`flex-1 text-left leading-relaxed cursor-pointer ${
+                  isCurrentArticle ? colorClass : ""
+                }`}
+                title={section.title}
+                style={
+                  isCurrentArticle
+                    ? undefined
+                    : { color: "rgba(16, 130, 201, 1)" }
+                }
+              >
+                <span className="block break-words">{section.title}</span>
+              </button>
+            ) : (
+              <Link
+                href={`/documents/${document.id}/${section.id}`}
+                className={`flex-1 text-left leading-relaxed ${
+                  isCurrentArticle ? colorClass : ""
+                }`}
+                onClick={() => isMobile && setSidebarOpen(false)}
+                title={section.title}
+                style={
+                  isCurrentArticle
+                    ? undefined
+                    : { color: "rgba(16, 130, 201, 1)" }
+                }
+              >
+                <span className="block break-words">{section.title}</span>
+              </Link>
+            )
           ) : (
             <button
               onClick={() => hasChildren && toggleSection(section.id)}
@@ -641,95 +767,50 @@ export function DocumentReader({
     );
   };
 
-  // Fonction pour générer un sommaire intelligent pour les fiches méthodes
-  const generateIntelligentTOC = (content: string) => {
-    if (!content) return [];
+  // Fonction pour faire défiler vers une section (pour les fiches méthodes)
+  const scrollToSection = (sectionId: string) => {
+    console.log('scrollToSection called with sectionId:', sectionId);
     
-    const tocItems: Array<{id: string, title: string, type: 'bold' | 'question', level: number}> = [];
-    const seenTitles = new Set<string>();
-    
-    // Détecter les éléments en gras (**texte**) dans le contenu Markdown
-    const boldPattern = /\*\*(.*?)\*\*/g;
-    let boldMatch;
-    let boldIndex = 0;
-    
-    while ((boldMatch = boldPattern.exec(content)) !== null) {
-      const title = boldMatch[1].trim();
-      if (title && title.length > 3 && !seenTitles.has(title.toLowerCase())) {
-        seenTitles.add(title.toLowerCase());
-        tocItems.push({
-          id: `bold-${boldIndex++}`,
-          title: title,
-          type: 'bold',
-          level: 1
-        });
-      }
-    }
-    
-    // Détecter les questions (lignes se terminant par ?)
-    const lines = content.split('\n');
-    let questionIndex = 0;
-    
-    lines.forEach((line, lineIndex) => {
-      const trimmedLine = line.trim();
-      if (trimmedLine.endsWith('?') && trimmedLine.length > 10) {
-        const title = trimmedLine;
-        if (!seenTitles.has(title.toLowerCase())) {
-          seenTitles.add(title.toLowerCase());
-          tocItems.push({
-            id: `question-${questionIndex++}`,
-            title: title,
-            type: 'question',
-            level: 2
-          });
+    // Utiliser un délai pour s'assurer que le DOM est prêt
+    setTimeout(() => {
+      if (typeof window !== 'undefined' && typeof document !== 'undefined' && typeof document.getElementById === 'function') {
+        try {
+          console.log('Looking for element with id:', sectionId);
+          const element = document.getElementById(sectionId);
+          console.log('Element found:', !!element);
+          
+          if (element) {
+            console.log('Scrolling to element');
+            element.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            // Ajouter un effet de surbrillance temporaire
+            element.style.backgroundColor = '#fef3c7';
+            element.style.transition = 'background-color 0.3s ease';
+            setTimeout(() => {
+              if (element && element.style) {
+                element.style.backgroundColor = '';
+              }
+            }, 2000);
+          } else {
+            console.log('Element not found, available elements with IDs:');
+            const allElementsWithId = document.querySelectorAll('[id]');
+            allElementsWithId.forEach(el => {
+              console.log(`- ${el.id}: ${el.tagName}`);
+            });
+          }
+        } catch (error) {
+          console.error('Erreur lors du scroll vers la section:', error);
         }
+      } else {
+        console.log('Window, document, or getElementById not available');
+        // Retry après un délai plus long
+        setTimeout(() => {
+          if (typeof window !== 'undefined' && typeof document !== 'undefined' && typeof document.getElementById === 'function') {
+            console.log('Retry successful, attempting scroll again');
+            scrollToSection(sectionId);
+          }
+        }, 1000);
       }
-    });
-    
-    return tocItems;
-  };
-
-  // Fonction pour rendre le sommaire intelligent des fiches méthodes
-  const renderIntelligentTOC = (tocItems: Array<{id: string, title: string, type: 'bold' | 'question', level: number}>) => {
-    return (
-      <div className="space-y-1">
-        <div className="px-3 py-2 text-xs font-semibold text-gray-500 uppercase tracking-wide">
-          Sommaire intelligent
-        </div>
-        {tocItems.map((item) => (
-          <div key={item.id} className="w-full">
-            <div
-              className="flex items-start w-full px-3 py-2 text-sm transition-all duration-200 group hover:bg-gray-50 cursor-pointer"
-              style={{ paddingLeft: `${12 + item.level * 16}px` }}
-              onClick={() => {
-                // Naviguer vers l'ancre créée automatiquement
-                if (typeof window !== 'undefined') {
-                  const anchorId = `toc-${item.id}`;
-                  const element = document.getElementById(anchorId);
-                  if (element) {
-                    element.scrollIntoView({ behavior: 'smooth', block: 'center' });
-                    // Ajouter un effet visuel temporaire
-                    element.style.backgroundColor = '#fef3c7';
-                    element.style.transition = 'background-color 0.3s ease';
-                    setTimeout(() => {
-                      element.style.backgroundColor = '';
-                    }, 2000);
-                  }
-                }
-              }}
-            >
-              <div className="w-4 mr-2 flex-shrink-0" />
-              <div className="flex-1 text-left leading-relaxed">
-                <span className="block break-words" style={{ color: "rgba(16, 130, 201, 1)" }}>
-                  {item.type === 'bold' ? '🔹 ' : '❓ '}
-                  {item.title}
-                </span>
-              </div>
-            </div>
-          </div>
-        ))}
-      </div>
-    );
+    }, 500); // Délai plus long pour s'assurer que le DOM est prêt
   };
 
   // Calcul de la source pour le fil d'ariane
@@ -861,32 +942,49 @@ export function DocumentReader({
                 className="overflow-auto"
                 dangerouslySetInnerHTML={{ 
                   __html: (() => {
-                    let content = (document.type === 'fiche-synthese' || document.type === 'fiche-methode') && processedFullContent 
-                      ? processedFullContent 
-                      : processedContent;
+                    console.log('Document type:', document.type);
+                    console.log('Processed full content length:', processedFullContent?.length);
+                    console.log('Processed content length:', processedContent?.length);
                     
-                    // Pour les fiches méthodes, créer des ancres intelligentes
-                    if (document.type === 'fiche-methode' && content) {
-                      const markdownContent = fullFicheContent || processedContent;
-                      const tocItems = generateIntelligentTOC(markdownContent);
-                      
-                      tocItems.forEach((item) => {
-                        if (item.type === 'bold') {
-                          const anchorId = `toc-${item.id}`;
-                          // Pour le texte en gras, chercher les balises <strong>
-                          const boldRegex = new RegExp(`<strong>${item.title.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}</strong>`, 'gi');
-                          content = content.replace(boldRegex, `<strong id="${anchorId}">${item.title}</strong>`);
-                        } else if (item.type === 'question') {
-                          // Créer une ancre pour la question
-                          const anchorId = `toc-${item.id}`;
-                          // Chercher la ligne contenant la question et ajouter une ancre
-                          const questionRegex = new RegExp(`(${item.title.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
-                          content = content.replace(questionRegex, `<span id="${anchorId}">$1</span>`);
-                        }
-                      });
+                    // Pour les fiches méthodes, toujours afficher tout le contenu avec les titres
+                    if (document.type === 'fiche-methode') {
+                      // Si on a du contenu complet, l'utiliser
+                      if (processedFullContent) {
+                        let content = processedFullContent;
+                        
+                        console.log('Adding anchors to fiche-methode content');
+                        
+                        // Ajouter des ancres pour chaque section du sommaire
+                        document.structure.sections.forEach((section: any) => {
+                          const anchorId = section.id;
+                          const titleRegex = new RegExp(`<strong>${section.title.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}</strong>`, 'gi');
+                          const replacement = `<strong id="${anchorId}">${section.title}</strong>`;
+                          
+                          console.log(`Looking for: ${section.title}`);
+                          console.log(`Replacing with: ${replacement}`);
+                          
+                          const matches = content.match(titleRegex);
+                          console.log(`Found ${matches ? matches.length : 0} matches for ${section.title}`);
+                          
+                          content = content.replace(titleRegex, replacement);
+                        });
+                        
+                        console.log('Using full content for fiche-methode with anchors');
+                        return content;
+                      } else {
+                        // Fallback : utiliser le contenu de l'article actuel
+                        console.log('Using fallback content for fiche-methode');
+                        return processedContent;
+                      }
                     }
                     
-                    return content;
+                    // Pour les fiches de synthèse, afficher le contenu complet
+                    if (document.type === 'fiche-synthese' && processedFullContent) {
+                      return processedFullContent;
+                    }
+                    
+                    // Pour les autres documents, afficher le contenu de l'article sélectionné
+                    return processedContent;
                   })()
                 }}
               />
