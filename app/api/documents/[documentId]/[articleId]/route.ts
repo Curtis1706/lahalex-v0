@@ -3,10 +3,11 @@ import { DocumentManager } from '@/lib/document-manager'
 
 export async function GET(
   request: NextRequest,
-  { params }: { params: { documentId: string; articleId: string } }
+  { params }: { params: Promise<{ documentId: string; articleId: string }> }
 ) {
   try {
-    const article = await DocumentManager.loadArticle(params.documentId, params.articleId)
+    const { documentId, articleId } = await params
+    const article = await DocumentManager.loadArticle(documentId, articleId)
     
     if (!article) {
       return NextResponse.json({ error: 'Article non trouvé' }, { status: 404 })

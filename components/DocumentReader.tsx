@@ -184,8 +184,8 @@ export function DocumentReader({
           fullContent += `${document.description}\n\n`;
         }
 
-        // Ajouter le contenu de chaque section dans l'ordre
-        const sortedSections = document.structure.sections.sort((a, b) => a.order - b.order);
+                 // Ajouter le contenu de chaque section dans l'ordre
+         const sortedSections = document.structure.sections.sort((a: any, b: any) => a.order - b.order);
         
         for (const section of sortedSections) {
           if (section.title) {
@@ -698,8 +698,8 @@ export function DocumentReader({
           )}
 
           {isClickable ? (
-            // Pour les fiches méthodes, utiliser le scroll au lieu de la navigation
-            document.type === 'fiche-methode' ? (
+            // Pour les fiches méthodes et fiches de synthèse, utiliser le scroll au lieu de la navigation
+            (document.type === 'fiche-methode' || document.type === 'fiche-synthese') ? (
               <button
                 onClick={(e) => {
                   e.preventDefault();
@@ -767,17 +767,30 @@ export function DocumentReader({
     );
   };
 
-  // Fonction pour faire défiler vers une section (pour les fiches méthodes)
+  // Fonction pour faire défiler vers une section (pour les fiches méthodes et fiches de synthèse)
   const scrollToSection = (sectionId: string) => {
     console.log('scrollToSection called with sectionId:', sectionId);
     
     // Utiliser un délai pour s'assurer que le DOM est prêt
     setTimeout(() => {
-      if (typeof window !== 'undefined' && typeof document !== 'undefined' && typeof document.getElementById === 'function') {
+      if (typeof window !== 'undefined' && typeof document !== 'undefined') {
         try {
           console.log('Looking for element with id:', sectionId);
-          const element = document.getElementById(sectionId);
-          console.log('Element found:', !!element);
+          
+          // Pour les fiches de synthèse et fiches de méthode, chercher dans le contenu de l'article
+          let element = null;
+          
+          if (articleContentRef.current) {
+            // Chercher d'abord dans le contenu de l'article
+            element = articleContentRef.current.querySelector(`#${sectionId}`);
+            console.log('Element found in article content:', !!element);
+          }
+          
+          // Si pas trouvé dans le contenu de l'article, essayer dans le document global
+          if (!element) {
+            element = document.getElementById(sectionId);
+            console.log('Element found in global document:', !!element);
+          }
           
           if (element) {
             console.log('Scrolling to element');
@@ -792,8 +805,20 @@ export function DocumentReader({
             }, 2000);
           } else {
             console.log('Element not found, available elements with IDs:');
-            const allElementsWithId = document.querySelectorAll('[id]');
-            allElementsWithId.forEach(el => {
+            
+                         // Lister les éléments avec des IDs dans le contenu de l'article
+             if (articleContentRef.current) {
+               const articleElementsWithId = articleContentRef.current.querySelectorAll('[id]');
+               console.log('Elements with IDs in article content:');
+               articleElementsWithId.forEach((el: any) => {
+                 console.log(`- ${el.id}: ${el.tagName}`);
+               });
+             }
+            
+            // Lister les éléments avec des IDs dans le document global
+            const globalElementsWithId = document.querySelectorAll('[id]');
+            console.log('Elements with IDs in global document:');
+            globalElementsWithId.forEach((el: any) => {
               console.log(`- ${el.id}: ${el.tagName}`);
             });
           }
@@ -801,10 +826,10 @@ export function DocumentReader({
           console.error('Erreur lors du scroll vers la section:', error);
         }
       } else {
-        console.log('Window, document, or getElementById not available');
+        console.log('Window or document not available');
         // Retry après un délai plus long
         setTimeout(() => {
-          if (typeof window !== 'undefined' && typeof document !== 'undefined' && typeof document.getElementById === 'function') {
+          if (typeof window !== 'undefined' && typeof document !== 'undefined') {
             console.log('Retry successful, attempting scroll again');
             scrollToSection(sectionId);
           }
@@ -817,25 +842,40 @@ export function DocumentReader({
   const currentSource = getDocumentSource(document, pathname);
   console.log('Final source for breadcrumb:', currentSource); // Debug log
 
-  // Construire le breadcrumb en évitant les répétitions
-  const breadcrumbItems = [
-    { label: "Accueil", href: "/" },
-    { label: "Textes", href: "/documents" },
-    { label: currentSource, href: "/documents" },
-    {
-      label: getDocumentTypeLabel(document.type),
-      href: `/documents?type=${document.type}`,
-    },
-  ];
+  // Construire le breadcrumb selon le type de document
+  let breadcrumbItems: Array<{ label: string; href?: string; isActive?: boolean }> = [];
+  
+  if (document.type === 'fiche-synthese' || document.type === 'fiche-methode') {
+    // Pour les fiches de synthèse et fiches de méthode
+    breadcrumbItems = [
+      { label: "Accueil", href: "/" },
+      { label: "Autres outils", href: "/" },
+      { 
+        label: document.type === 'fiche-synthese' ? "Fiches de synthèse" : "Fiches de méthode", 
+        href: document.type === 'fiche-synthese' ? "/fiches-synthese" : "/fiches-methode"
+      },
+      { label: document.title, isActive: true }
+    ];
+  } else {
+    // Pour les autres documents (constitution, codes, lois, etc.)
+    breadcrumbItems = [
+      { label: "Accueil", href: "/" },
+      { label: "Textes", href: "/documents" },
+      { label: currentSource, href: "/documents" },
+      {
+        label: getDocumentTypeLabel(document.type),
+        href: `/documents?type=${document.type}`,
+      },
+    ];
 
-  // Ajouter le titre du document seulement s'il est différent du titre de l'article
-  // ou s'il s'agit d'une fiche méthode (pour éviter la répétition)
-  if (document.type !== 'fiche-methode' || document.title !== article.metadata.title) {
-    breadcrumbItems.push({ label: document.title, href: `/documents/${document.id}` });
+    // Ajouter le titre du document seulement s'il est différent du titre de l'article
+    if (document.title !== article.metadata.title) {
+      breadcrumbItems.push({ label: document.title, href: `/documents/${document.id}` });
+    }
+
+    // Ajouter le titre de l'article comme élément actif
+    breadcrumbItems.push({ label: article.metadata.title, isActive: true });
   }
-
-  // Ajouter le titre de l'article comme élément actif
-  breadcrumbItems.push({ label: article.metadata.title, isActive: true });
 
   return (
     <div className="min-h-screen bg-white">
@@ -863,9 +903,9 @@ export function DocumentReader({
 
           <ScrollArea className="flex-1 h-full" ref={sidebarRef}>
             <div className="p-2 space-y-1">
-              {/* Gestion spéciale pour les fiches méthodes */}
-              {document.type === 'fiche-methode' ? (
-                // Pour les fiches méthodes, afficher toutes les sections comme des articles
+              {/* Gestion spéciale pour les fiches méthodes et fiches de synthèse */}
+              {(document.type === 'fiche-methode' || document.type === 'fiche-synthese') ? (
+                // Pour les fiches méthodes et fiches de synthèse, afficher toutes les sections comme des articles
                 document.structure.sections
                   .filter((section: any) => section.type === 'section-synthese')
                   .sort((a: any, b: any) => a.order - b.order)
@@ -946,42 +986,124 @@ export function DocumentReader({
                     console.log('Processed full content length:', processedFullContent?.length);
                     console.log('Processed content length:', processedContent?.length);
                     
-                    // Pour les fiches méthodes, toujours afficher tout le contenu avec les titres
-                    if (document.type === 'fiche-methode') {
-                      // Si on a du contenu complet, l'utiliser
-                      if (processedFullContent) {
-                        let content = processedFullContent;
-                        
-                        console.log('Adding anchors to fiche-methode content');
-                        
-                        // Ajouter des ancres pour chaque section du sommaire
-                        document.structure.sections.forEach((section: any) => {
-                          const anchorId = section.id;
-                          const titleRegex = new RegExp(`<strong>${section.title.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}</strong>`, 'gi');
-                          const replacement = `<strong id="${anchorId}">${section.title}</strong>`;
-                          
-                          console.log(`Looking for: ${section.title}`);
-                          console.log(`Replacing with: ${replacement}`);
-                          
-                          const matches = content.match(titleRegex);
-                          console.log(`Found ${matches ? matches.length : 0} matches for ${section.title}`);
-                          
-                          content = content.replace(titleRegex, replacement);
-                        });
-                        
-                        console.log('Using full content for fiche-methode with anchors');
-                        return content;
-                      } else {
-                        // Fallback : utiliser le contenu de l'article actuel
-                        console.log('Using fallback content for fiche-methode');
-                        return processedContent;
-                      }
-                    }
+                                         // Pour les fiches méthodes, toujours afficher tout le contenu avec les titres en gras
+                     if (document.type === 'fiche-methode') {
+                       // Si on a du contenu complet, l'utiliser
+                       if (processedFullContent) {
+                         let content = processedFullContent;
+                         
+                         console.log('Adding anchors and bold formatting to fiche-methode content');
+                         
+                         // Ajouter des ancres et mettre en gras chaque section du sommaire
+                         document.structure.sections.forEach((section: any) => {
+                           if (section.title) {
+                             const anchorId = section.id;
+                             
+                             // Essayer plusieurs formats de titres possibles
+                             let titleRegex, replacement;
+                             
+                             // Format 1: Titres en <strong> (Markdown **titre**) - Ajouter l'ancre et s'assurer qu'il est en gras
+                             titleRegex = new RegExp(`<strong>${section.title.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}</strong>`, 'gi');
+                             replacement = `<strong id="${anchorId}" style="font-weight: bold; color: #1f2937; font-size: 1.5em; display: block; margin: 1.5em 0 0.5em 0;">${section.title}</strong>`;
+                             
+                             if (content.match(titleRegex)) {
+                               console.log(`Found <strong> format for: ${section.title}, making it bold and adding anchor`);
+                               content = content.replace(titleRegex, replacement);
+                             } else {
+                               // Format 2: Titres en <h2> (Markdown ## titre) - Mettre en gras et ajouter l'ancre
+                               titleRegex = new RegExp(`<h2[^>]*>${section.title.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}</h2>`, 'gi');
+                               replacement = `<h2 id="${anchorId}" style="font-weight: bold; color: #1f2937;">${section.title}</h2>`;
+                               
+                               if (content.match(titleRegex)) {
+                                 console.log(`Found <h2> format for: ${section.title}, making it bold`);
+                                 content = content.replace(titleRegex, replacement);
+                               } else {
+                                 // Format 3: Titres en <h3> (Markdown ### titre) - Mettre en gras et ajouter l'ancre
+                                 titleRegex = new RegExp(`<h3[^>]*>${section.title.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}</h3>`, 'gi');
+                                 replacement = `<h3 id="${anchorId}" style="font-weight: bold; color: #374151;">${section.title}</h3>`;
+                                 
+                                 if (content.match(titleRegex)) {
+                                   console.log(`Found <h3> format for: ${section.title}, making it bold`);
+                                   content = content.replace(titleRegex, replacement);
+                                 } else {
+                                   // Format 4: Ajouter une div avec id et mettre le titre en gras
+                                   const simpleTitleRegex = new RegExp(`(${section.title.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
+                                   if (content.match(simpleTitleRegex)) {
+                                     console.log(`Found simple title for: ${section.title}, adding div and making bold`);
+                                     content = content.replace(simpleTitleRegex, `<div id="${anchorId}"></div><strong style="font-weight: bold; color: #1f2937; font-size: 1.5em; display: block; margin: 1.5em 0 0.5em 0;">$1</strong>`);
+                                   } else {
+                                     console.log(`No title format found for: ${section.title}`);
+                                   }
+                                 }
+                               }
+                             }
+                           }
+                         });
+                         
+                         console.log('Using full content for fiche-methode with anchors and bold titles');
+                         return content;
+                       } else {
+                         // Fallback : utiliser le contenu de l'article actuel
+                         console.log('Using fallback content for fiche-methode');
+                         return processedContent;
+                       }
+                     }
                     
-                    // Pour les fiches de synthèse, afficher le contenu complet
-                    if (document.type === 'fiche-synthese' && processedFullContent) {
-                      return processedFullContent;
-                    }
+                                         // Pour les fiches de synthèse, afficher le contenu complet avec ancres et titres en gras
+                     if (document.type === 'fiche-synthese' && processedFullContent) {
+                       let content = processedFullContent;
+                       
+                       console.log('Adding anchors and bold formatting to fiche-synthese content');
+                       
+                       // Ajouter des ancres et mettre en gras chaque section du sommaire
+                       document.structure.sections.forEach((section: any) => {
+                         if (section.title) {
+                           const anchorId = section.id;
+                           
+                           // Essayer plusieurs formats de titres possibles dans le contenu HTML traité
+                           let titleRegex, replacement;
+                           
+                           // Format 1: Titres en <h2> (Markdown ## titre) - Mettre en gras et ajouter l'ancre
+                           titleRegex = new RegExp(`<h2[^>]*>${section.title.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}</h2>`, 'gi');
+                           replacement = `<h2 id="${anchorId}" style="font-weight: bold; color: #1f2937;">${section.title}</h2>`;
+                           
+                           if (content.match(titleRegex)) {
+                             console.log(`Found <h2> format for: ${section.title}, making it bold`);
+                             content = content.replace(titleRegex, replacement);
+                           } else {
+                             // Format 2: Titres en <h3> (Markdown ### titre) - Mettre en gras et ajouter l'ancre
+                             titleRegex = new RegExp(`<h3[^>]*>${section.title.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}</h3>`, 'gi');
+                             replacement = `<h3 id="${anchorId}" style="font-weight: bold; color: #374151;">${section.title}</h3>`;
+                             
+                             if (content.match(titleRegex)) {
+                               console.log(`Found <h3> format for: ${section.title}, making it bold`);
+                               content = content.replace(titleRegex, replacement);
+                             } else {
+                               // Format 3: Titres en <strong> (Markdown **titre**) - Ajouter l'ancre
+                               titleRegex = new RegExp(`<strong>${section.title.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}</strong>`, 'gi');
+                               replacement = `<strong id="${anchorId}" style="font-weight: bold; color: #1f2937;">${section.title}</strong>`;
+                               
+                               if (content.match(titleRegex)) {
+                                 console.log(`Found <strong> format for: ${section.title}, adding anchor`);
+                                 content = content.replace(titleRegex, replacement);
+                               } else {
+                                 // Format 4: Ajouter une div avec id et mettre le titre en gras
+                                 const simpleTitleRegex = new RegExp(`(${section.title.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
+                                 if (content.match(simpleTitleRegex)) {
+                                   console.log(`Found simple title for: ${section.title}, adding div and making bold`);
+                                   content = content.replace(simpleTitleRegex, `<div id="${anchorId}"></div><strong style="font-weight: bold; color: #1f2937; font-size: 1.25em; display: block; margin: 1.5em 0 0.5em 0;">$1</strong>`);
+                                 } else {
+                                   console.log(`No title format found for: ${section.title}`);
+                                 }
+                               }
+                             }
+                           }
+                         }
+                       });
+                       
+                       console.log('Using full content for fiche-synthese with anchors and bold titles');
+                       return content;
+                     }
                     
                     // Pour les autres documents, afficher le contenu de l'article sélectionné
                     return processedContent;
@@ -1219,14 +1341,14 @@ export function DocumentReader({
 
                   <ScrollArea className="flex-1" ref={sidebarMobileRef}>
                     <div className="p-2 space-y-1">
-                                                                    {/* Gestion spéciale pour les fiches méthodes */}
-                        {document.type === 'fiche-methode' ? (
-                          // Pour les fiches méthodes, afficher toutes les sections comme des articles
-                          document.structure.sections
-                            .filter((section: any) => section.type === 'section-synthese')
-                            .sort((a: any, b: any) => a.order - b.order)
-                            .map((section: any) => renderSection(section))
-                        ) : (
+                      {/* Gestion spéciale pour les fiches méthodes et fiches de synthèse */}
+                      {(document.type === 'fiche-methode' || document.type === 'fiche-synthese') ? (
+                        // Pour les fiches méthodes et fiches de synthèse, afficher toutes les sections comme des articles
+                        document.structure.sections
+                          .filter((section: any) => section.type === 'section-synthese')
+                          .sort((a: any, b: any) => a.order - b.order)
+                          .map((section: any) => renderSection(section))
+                      ) : (
                         // Pour les autres documents, utiliser la logique normale
                         document.structure.sections
                           .filter((section: any) => {

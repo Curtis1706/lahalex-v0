@@ -122,29 +122,68 @@ export function DocumentSidebar({ document, currentArticle, className = '' }: Do
     const indent = level * 16
     const isCurrent = section.id === currentArticle
     const isHighlighted = searchTerm && section.title.toLowerCase().includes(searchTerm.toLowerCase())
+    
+    // Déterminer si cette section doit être cliquable
+    const isClickable = section.type === 'section-synthese' || section.type === 'fiche-methode' || section.type === 'section'
 
     return (
       <div key={section.id} className="select-none">
         <div
           data-article-id={section.type === 'article' ? section.id : undefined}
-          className={`flex items-center py-2 px-3 cursor-pointer transition-colors ${isCurrent ? '' : 'hover:bg-gray-100'} ${isHighlighted ? 'bg-yellow-50' : ''}`}
+          className={`flex items-center py-2 px-3 transition-colors ${isCurrent ? '' : 'hover:bg-gray-100'} ${isHighlighted ? 'bg-yellow-50' : ''}`}
           style={{ paddingLeft: `${12 + indent}px` }}
-          onClick={() => hasChildren && toggleSection(section.id)}
         >
           {hasChildren ? (
-            isExpanded ? (
-              <ChevronDown className="w-4 h-4 mr-2 text-gray-500" />
-            ) : (
-              <ChevronRight className="w-4 h-4 mr-2 text-gray-500" />
-            )
+            <button
+              onClick={() => toggleSection(section.id)}
+              className="flex-shrink-0 mr-2 p-0.5 hover:bg-gray-200 rounded transition-colors"
+            >
+              {isExpanded ? (
+                <ChevronDown className="w-3 h-3 text-gray-500" />
+              ) : (
+                <ChevronRight className="w-3 h-3 text-gray-500" />
+              )}
+            </button>
           ) : (
             <div className="w-6 mr-2" />
           )}
           
           <Folder className="w-4 h-4 mr-2 text-gray-600" />
-          <span className={`text-sm font-medium flex-1 truncate ${isCurrent ? 'text-primary-lahalex' : 'text-gray-700'}`}>
-            {section.title}
-          </span>
+          
+          {isClickable ? (
+            // Pour les fiches de synthèse et fiches méthodes, utiliser le scroll au lieu de la navigation
+            (document.type === 'fiche-synthese' || document.type === 'fiche-methode') ? (
+              <button
+                onClick={() => {
+                  console.log('Button clicked for section:', section.id, section.title);
+                  // Ajouter un délai pour s'assurer que le contenu est rendu
+                  setTimeout(() => {
+                    scrollToElement(sidebarRef.current?.querySelector(`[data-article-id="${section.id}"]`) as HTMLElement, { block: 'nearest' });
+                  }, 100);
+                }}
+                className={`flex-1 text-left text-sm font-medium cursor-pointer ${
+                  isCurrent ? 'text-primary-lahalex' : 'text-gray-700'
+                } hover:text-primary-lahalex transition-colors`}
+                title={section.title}
+              >
+                {section.title}
+              </button>
+            ) : (
+              <Link
+                href={`/documents/${document.id}/${section.id}`}
+                className={`flex-1 text-left text-sm font-medium ${
+                  isCurrent ? 'text-primary-lahalex' : 'text-gray-700'
+                } hover:text-primary-lahalex transition-colors`}
+                title={section.title}
+              >
+                {section.title}
+              </Link>
+            )
+          ) : (
+            <span className={`text-sm font-medium flex-1 truncate ${isCurrent ? 'text-primary-lahalex' : 'text-gray-700'}`}>
+              {section.title}
+            </span>
+          )}
         </div>
 
         {isExpanded && hasChildren && (
