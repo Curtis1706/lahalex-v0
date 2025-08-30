@@ -25,6 +25,7 @@ import { LahalexHeaderResponsive } from "@/components/lahalex-header-responsive"
 import { LahalexBreadcrumbResponsive } from "@/components/lahalex-breadcrumb-responsive";
 
 import { processMarkdownContent } from "@/lib/text-processor";
+import { QCM } from "@/components/QCM";
 
 interface DocumentReaderProps {
   document: any;
@@ -155,6 +156,7 @@ export function DocumentReader({
   const [unifiedMatches, setUnifiedMatches] = useState<UnifiedSearchMatch[]>([]);
   const [currentUnifiedIndex, setCurrentUnifiedIndex] = useState<number>(-1);
   const [fullFicheContent, setFullFicheContent] = useState<string>("");
+  const [qcmQuestions, setQcmQuestions] = useState<any>(null);
 
   const sidebarRef = useRef<HTMLDivElement>(null);
   const sidebarMobileRef = useRef<HTMLDivElement>(null);
@@ -162,6 +164,23 @@ export function DocumentReader({
   const isMobile = useIsMobile();
   const pathname = usePathname();
   const router = useRouter();
+
+  // Fonction pour charger les questions QCM
+  const loadQCMQuestions = useCallback(async () => {
+    if (document.type === 'fiche-synthese' || document.type === 'fiche-methode') {
+      try {
+        const response = await fetch('/qcm-questions.json');
+        if (response.ok) {
+          const qcmData = await response.json();
+          if (qcmData[document.id]) {
+            setQcmQuestions(qcmData[document.id]);
+          }
+        }
+      } catch (error) {
+        console.error('Erreur lors du chargement des questions QCM:', error);
+      }
+    }
+  }, [document.type, document.id]);
 
   // Fonction pour charger tout le contenu d'une fiche de synthèse
   const loadFullFicheContent = useCallback(async () => {
@@ -277,8 +296,9 @@ export function DocumentReader({
     if (document.type === 'fiche-methode' || document.type === 'fiche-synthese') {
       console.log(`Calling loadFullFicheContent for ${document.type}`);
       loadFullFicheContent();
+      loadQCMQuestions();
     }
-  }, [document.type, loadFullFicheContent, allArticles]);
+  }, [document.type, loadFullFicheContent, loadQCMQuestions, allArticles]);
 
   // État pour le contenu traité complet
   const [processedFullContent, setProcessedFullContent] = useState<string>("");
@@ -1259,7 +1279,7 @@ export function DocumentReader({
 
             {/* Outils d'annotation */}
             <div
-              className="space-y-2 rounded-[5px] p-2"
+              className="space-y-2 rounded-[5px] p-2 mb-6"
               style={{ backgroundColor: "rgba(250, 245, 239, 0.5)" }}
             >
               <div
@@ -1296,6 +1316,16 @@ export function DocumentReader({
                 Marquer
               </Button>
             </div>
+
+            {/* QCM - Affiché seulement pour les fiches de synthèse et fiches de méthode */}
+            {(document.type === 'fiche-synthese' || document.type === 'fiche-methode') && qcmQuestions && (
+              <div className="mb-6">
+                <QCM 
+                  documentTitle={qcmQuestions.title}
+                  questions={qcmQuestions.questions}
+                />
+              </div>
+            )}
           </div>
         </div>
 
@@ -1446,7 +1476,7 @@ export function DocumentReader({
                     )}
 
                     <div
-                      className="space-y-2 rounded-[5px] p-2"
+                      className="space-y-2 rounded-[5px] p-2 mb-4"
                       style={{ backgroundColor: "rgba(250, 245, 239, 0.5)" }}
                     >
                       <div
@@ -1483,6 +1513,16 @@ export function DocumentReader({
                         Marquer
                       </Button>
                     </div>
+
+                    {/* QCM Mobile - Affiché seulement pour les fiches de synthèse et fiches de méthode */}
+                    {(document.type === 'fiche-synthese' || document.type === 'fiche-methode') && qcmQuestions && (
+                      <div className="mb-4">
+                        <QCM 
+                          documentTitle={qcmQuestions.title}
+                          questions={qcmQuestions.questions}
+                        />
+                      </div>
+                    )}
                   </div>
                 </div>
               </div>

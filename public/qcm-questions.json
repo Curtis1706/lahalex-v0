@@ -1,0 +1,132 @@
+{
+  "matriser-la-dissertation-universitaire-mevypru9": {
+    "title": "Maîtriser la dissertation universitaire",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Quelle est la première étape de la phase préparatoire d'une dissertation universitaire ?",
+        "options": [
+          "Rédiger l'introduction",
+          "Analyser le sujet et identifier les mots-clés",
+          "Construire le plan détaillé",
+          "Rechercher des exemples"
+        ],
+        "correctAnswer": 1,
+        "explanation": "L'analyse du sujet et l'identification des mots-clés constituent la base de toute dissertation. Cette étape permet de comprendre précisément ce qui est attendu et d'orienter la réflexion."
+      },
+      {
+        "id": 2,
+        "question": "Quelle structure doit respecter une dissertation universitaire ?",
+        "options": [
+          "Introduction, développement en 2 parties, conclusion",
+          "Introduction, développement en 3 parties, conclusion",
+          "Introduction, développement libre, conclusion",
+          "Développement direct sans introduction ni conclusion"
+        ],
+        "correctAnswer": 1,
+        "explanation": "La structure classique d'une dissertation universitaire comprend une introduction, un développement organisé en 2 ou 3 parties équilibrées, et une conclusion qui synthétise et ouvre des perspectives."
+      },
+      {
+        "id": 3,
+        "question": "Qu'est-ce qu'une problématique dans une dissertation ?",
+        "options": [
+          "Un résumé du sujet",
+          "Une question centrale qui guide la réflexion",
+          "La liste des arguments à développer",
+          "La conclusion anticipée"
+        ],
+        "correctAnswer": 1,
+        "explanation": "La problématique est la question centrale qui structure la réflexion. Elle doit être formulée de manière claire et précise pour orienter tout le développement de la dissertation."
+      },
+      {
+        "id": 4,
+        "question": "Comment doit-on présenter les arguments dans une dissertation ?",
+        "options": [
+          "En les énumérant simplement",
+          "En les développant avec des exemples et des explications",
+          "En les résumant en une phrase",
+          "En les laissant à l'appréciation du lecteur"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Chaque argument doit être développé avec des explications détaillées, des exemples concrets et des références appropriées pour convaincre le lecteur et démontrer la maîtrise du sujet."
+      },
+      {
+        "id": 5,
+        "question": "Quelle est la fonction de la conclusion d'une dissertation ?",
+        "options": [
+          "Répéter l'introduction",
+          "Synthétiser les points essentiels et ouvrir des perspectives",
+          "Ajouter de nouveaux arguments",
+          "Faire une critique du sujet"
+        ],
+        "correctAnswer": 1,
+        "explanation": "La conclusion doit faire le bilan des points essentiels développés et ouvrir des perspectives plus larges, montrant ainsi la portée et les limites de la réflexion menée."
+      }
+    ]
+  },
+  "territorialit-de-limpt-mew130mf": {
+    "title": "TERRITORIALITÉ DE L'IMPÔT",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Une société étrangère effectue des travaux de construction au Bénin pendant exactement 2,5 mois avec du personnel permanent sur place. Selon les critères du texte :",
+        "options": [
+          "Elle constitue un établissement stable car elle dispose d'une installation fixe",
+          "Elle ne constitue pas un établissement stable car la durée est inférieure au seuil de 3 mois",
+          "Son statut dépend de la nature des travaux effectués sur le chantier",
+          "Elle bénéficie automatiquement du principe de territorialité béninois"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Le texte précise explicitement dans les cas particuliers : \"Chantier de construction > 3 mois\" constitue un établissement stable. À 2,5 mois, le seuil n'est pas atteint. Dans les pièges à éviter, il est mentionné : \"Piège n°2 : Négliger la durée pour l'établissement stable - Un chantier de 2,5 mois ne constitue pas un établissement stable.\" La durée est le critère déterminant, pas la simple présence d'une installation."
+      },
+      {
+        "id": 2,
+        "question": "Concernant la particularité géographique du principe de territorialité, le texte précise que :",
+        "options": [
+          "Ce principe est appliqué universellement par tous les États modernes",
+          "Seuls les pays développés appliquent ce principe par opposition au principe de mondialité",
+          "En dehors de la France, seuls les pays d'Afrique francophone et quelques rares pays l'appliquent",
+          "Le principe de territorialité est progressivement remplacé par le principe de mondialité"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Le texte indique clairement dans la \"Particularité géographique\" : \"Ce principe n'est pas universel. En dehors de la France, seuls les pays d'Afrique francophone (anciennes colonies françaises) et quelques rares pays l'appliquent.\" Cette spécificité géographique est importante car elle distingue le système béninois de la majorité des systèmes fiscaux mondiaux qui appliquent le principe de mondialité."
+      },
+      {
+        "id": 3,
+        "question": "Un français travaille au Bénin 200 jours par an mais conserve sa résidence principale en France où vivent sa famille et où sont ses principaux investissements. Selon le texte :",
+        "options": [
+          "Son statut dépend de l'analyse de son centre d'intérêts vitaux qui semble rester en France",
+          "Il a automatiquement son domicile fiscal au Bénin car il dépasse 183 jours",
+          "Il est imposable au Bénin uniquement sur ses revenus béninois car il dépasse le seuil",
+          "Les conventions fiscales France-Bénin détermineront automatiquement sa résidence"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Piège sur l'application mécanique du seuil de 183 jours. Bien qu'il dépasse ce seuil, le texte précise que les critères ont une hiérarchie : les critères principaux (foyer permanent et centre d'intérêts vitaux) priment sur le critère subsidiaire (183 jours). Dans les pièges à éviter : \"Mal interpréter la notion de 'centre d'intérêts vitaux' - Il s'agit des intérêts économiques et personnels principaux, pas secondaires.\" Sa famille et ses investissements restant en France, son centre d'intérêts vitaux n'est probablement pas au Bénin."
+      },
+      {
+        "id": 4,
+        "question": "Une société béninoise réalise des bénéfices importants à l'étranger et subit des pertes au Bénin. Dans le cadre du principe de territorialité :",
+        "options": [
+          "Elle peut imputer ses pertes béninoises sur ses bénéfices étrangers pour optimiser sa fiscalité",
+          "Le principe de territorialité ne s'applique qu'aux revenus, pas aux pertes",
+          "Elle doit déclarer ses bénéfices étrangers au Bénin même s'ils ne sont pas imposables",
+          "Elle est exonérée sur ses bénéfices étrangers mais ne peut pas imputer ses déficits étrangers sur ses bénéfices béninois"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Le texte précise dans les \"Inconvénients majeurs\" : \"Non-imputation des déficits étrangers : Les pertes subies à l'étranger ne peuvent pas compenser les bénéfices béninois.\" Dans les \"Avantages\" : \"Exonération des bénéfices étrangers : Les entreprises béninoises ne sont pas imposées sur leurs revenus étrangers.\" Le principe de territorialité fonctionne dans les deux sens : exonération des bénéfices étrangers mais impossibilité d'imputer les déficits étrangers."
+      },
+      {
+        "id": 5,
+        "question": "Une société de conseil américaine fournit des services au Bénin par l'intermédiaire de son personnel pendant 190 jours sur 12 mois pour un même projet. Selon les critères du texte :",
+        "options": [
+          "Elle bénéficie des conventions fiscales États-Unis-Bénin par défaut",
+          "Elle n'est pas imposable au Bénin car elle n'a pas d'installation fixe",
+          "Son imposition dépend de la nature des services fournis",
+          "Elle constitue un établissement stable car elle dépasse le seuil de 183 jours de fourniture de services"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Le texte indique précisément dans les cas particuliers d'établissement stable : \"Fourniture de services par personnel > 183 jours sur 12 mois pour le même projet.\" Avec 190 jours pour un même projet, le seuil est dépassé et constitue un établissement stable. L'absence d'installation fixe n'empêche pas la constitution d'un établissement stable par fourniture de services dépassant le seuil temporel."
+      }
+    ]
+  }
+}
