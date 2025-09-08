@@ -9,7 +9,7 @@ export default async function CodesPage() {
 
   return (
     <div className="min-h-screen bg-white">
-      <LahalexHeaderResponsive searchValue="" onSearchChange={() => {}} />
+      <LahalexHeaderResponsive searchValue="" onSearchChange={undefined} />
 
       <div className="container-responsive py-6">
         <div className="mb-6">

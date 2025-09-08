@@ -2,7 +2,7 @@ import { NextRequest, NextResponse } from "next/server"
 import { promises as fs } from "fs"
 import { join } from "path"
 
-const FICHES_DIR = join(process.cwd(), "content", "documents", "fiches-synthese")
+const FICHES_DIR = join(process.cwd() || '.', "content", "documents", "fiches-synthese")
 
 export async function DELETE(
   request: NextRequest,

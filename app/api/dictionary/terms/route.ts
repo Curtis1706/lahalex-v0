@@ -6,7 +6,7 @@ import path from 'path'
 // Charger les termes depuis le fichier JSON
 const loadDictionaryTerms = (): DictionaryTerm[] => {
   try {
-    const filePath = path.join(process.cwd(), 'data/dictionary-terms.json')
+    const filePath = path.join(process.cwd() || '.', 'data/dictionary-terms.json')
     if (fs.existsSync(filePath)) {
       const fileContent = fs.readFileSync(filePath, 'utf8')
       const data = JSON.parse(fileContent)
@@ -31,7 +31,7 @@ const loadDictionaryTerms = (): DictionaryTerm[] => {
 // Sauvegarder les termes dans le fichier JSON
 const saveDictionaryTerms = (terms: DictionaryTerm[]) => {
   try {
-    const filePath = path.join(process.cwd(), 'data/dictionary-terms.json')
+    const filePath = path.join(process.cwd() || '.', 'data/dictionary-terms.json')
     
     // Organiser les termes par lettre
     const organizedTerms: { [key: string]: DictionaryTerm[] } = {}

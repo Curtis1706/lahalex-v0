@@ -1,0 +1,17 @@
+{
+  "id": "test-simple-sections",
+  "title": "Test Simple Sections",
+  "description": "Fiche de synthèse de test avec des sections simples",
+  "category": "Test",
+  "tags": ["test", "sections"],
+  "createdAt": "2024-01-01T00:00:00.000Z",
+  "updatedAt": "2024-01-01T00:00:00.000Z",
+  "author": {
+    "id": "admin",
+    "name": "Administrateur LAHALEX"
+  },
+  "sections": []
+}
+
+
+

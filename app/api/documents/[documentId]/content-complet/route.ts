@@ -10,7 +10,7 @@ export async function GET(
     const { documentId } = params;
     
     // Chemin vers le fichier content-complet.md
-    const contentPath = join(process.cwd(), 'content', 'documents', 'fiches-synthese', documentId, 'content-complet.md');
+    const contentPath = join(process.cwd() || '.', 'content', 'documents', 'fiches-synthese', documentId, 'content-complet.md');
     
     // Lire le contenu du fichier
     const content = await fs.readFile(contentPath, 'utf-8');

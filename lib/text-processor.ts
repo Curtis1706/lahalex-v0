@@ -15,6 +15,17 @@ export function cleanRawText(text: string): string {
     .replace(/\n\s*\n\s*\n/g, "\n\n")
 }
 
+export interface StructuredArticle {
+  id: string
+  article: string
+  content: string
+  livre?: string
+  titre?: string
+  chapitre?: string
+  section?: string
+  paragraphe?: string
+}
+
 export async function processMarkdownContent(content: string): Promise<string> {
   const result = await remark()
     .use(remarkGfm)         // Support des tableaux et du markdown GitHub
@@ -27,5 +38,27 @@ export async function processMarkdownContent(content: string): Promise<string> {
     .process(content)
   
   return result.toString()
+}
+
+export function parseStructuredArticles(content: string): StructuredArticle[] {
+  // Simple parser for articles - this is a basic implementation
+  // You may need to adjust this based on your actual content structure
+  const articles: StructuredArticle[] = []
+  
+  // Split content by article markers (adjust regex based on your format)
+  const articleMatches = content.match(/Article\s+\d+[^\n]*/g) || []
+  
+  articleMatches.forEach((match, index) => {
+    const articleNumber = match.match(/Article\s+(\d+)/)?.[1] || `${index + 1}`
+    articles.push({
+      id: `article-${articleNumber}`,
+      article: match.trim(),
+      content: `Contenu de l'article ${articleNumber}...`, // Placeholder content
+      livre: "Livre I", // Placeholder
+      titre: "Titre I" // Placeholder
+    })
+  })
+  
+  return articles
 }
 

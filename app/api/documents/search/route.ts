@@ -56,7 +56,7 @@ export async function GET(request: Request) {
       // Only search in content for longer queries (3+ characters) to avoid performance issues
       if (query.length >= 3) {
         try {
-          const documentDir = join(process.cwd(), 'content', 'documents', document.id)
+          const documentDir = join(process.cwd() || '.', 'content', 'documents', document.id)
           const content = await searchInDocumentContent(documentDir, query)
           if (content.found) {
             isMatch = true

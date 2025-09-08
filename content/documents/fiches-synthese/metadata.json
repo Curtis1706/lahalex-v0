@@ -1,0 +1,17 @@
+{
+  "id": "fiches-synthese",
+  "title": "Fiches de Synthèse",
+  "description": "Collection de fiches de synthèse juridiques",
+  "category": "Fiches de synthèse",
+  "tags": ["synthèse", "juridique", "fiches"],
+  "createdAt": "2024-01-01T00:00:00.000Z",
+  "updatedAt": "2024-01-01T00:00:00.000Z",
+  "author": {
+    "id": "admin",
+    "name": "Administrateur LAHALEX"
+  },
+  "sections": []
+}
+
+
+

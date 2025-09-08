@@ -2,7 +2,7 @@ import { promises as fs } from 'fs'
 import { join } from 'path'
 import type { DocumentMetadata, ArticleMetadata, ParsedDocument } from '@/types/document'
 
-const DOCUMENTS_DIR = join(process.cwd(), 'content', 'documents')
+const DOCUMENTS_DIR = join(process.cwd() || '.', 'content', 'documents')
 
 export class DocumentManager {
   static async ensureDirectories() {
@@ -102,7 +102,7 @@ export class DocumentManager {
     } catch {
       // Si pas trouvé, essayer dans le dossier fiches-synthese
       try {
-        const fichesDir = join(process.cwd(), 'content', 'documents', 'fiches-synthese')
+        const fichesDir = join(process.cwd() || '.', 'content', 'documents', 'fiches-synthese')
         const metadataPath = join(fichesDir, documentId, 'metadata.json')
       const content = await fs.readFile(metadataPath, 'utf-8')
       return JSON.parse(content)
@@ -128,7 +128,7 @@ export class DocumentManager {
             articleContent = await fs.readFile(articlePath, 'utf-8')
           } catch {
             // Si pas trouvé, essayer dans le dossier fiches-synthese
-            const fichesDir = join(process.cwd(), 'content', 'documents', 'fiches-synthese')
+            const fichesDir = join(process.cwd() || '.', 'content', 'documents', 'fiches-synthese')
             articlePath = join(fichesDir, documentId, `${articleId}.json`)
             articleContent = await fs.readFile(articlePath, 'utf-8')
           }
@@ -281,9 +281,9 @@ export class DocumentManager {
       throw new Error(`Document directory is undefined for article ${metadata.id}`)
     }
     
-    // Filtrer les valeurs null/undefined du path
-    const pathParts = metadata.path && metadata.path.length > 0 
-      ? metadata.path.filter(p => p != null) 
+    // Filtrer les valeurs null/undefined du path et s'assurer que tous les éléments sont des strings
+    const pathParts = metadata.path && Array.isArray(metadata.path) && metadata.path.length > 0 
+      ? metadata.path.filter(p => p != null && typeof p === 'string').map(p => String(p))
       : ['articles']
     
     const dir = join(documentDir, ...pathParts)
@@ -338,7 +338,7 @@ export class DocumentManager {
 
   static async listAllDocuments(): Promise<DocumentMetadata[]> {
     try {
-      const documentsDir = join(process.cwd(), 'content', 'documents')
+      const documentsDir = join(process.cwd() || '.', 'content', 'documents')
       await fs.mkdir(documentsDir, { recursive: true })
       
       const entries = await fs.readdir(documentsDir, { withFileTypes: true })
@@ -359,7 +359,7 @@ export class DocumentManager {
       
       // Inclure aussi les fiches de méthode créées via l'admin
       try {
-        const fichesDir = join(process.cwd(), 'content', 'documents', 'fiches-synthese')
+        const fichesDir = join(process.cwd() || '.', 'content', 'documents', 'fiches-synthese')
         const fichesEntries = await fs.readdir(fichesDir, { withFileTypes: true })
         
         for (const entry of fichesEntries) {

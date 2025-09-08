@@ -37,7 +37,7 @@ export default async function DocumentsPage() {
 
   return (
     <div className="min-h-screen bg-white">
-      <LahalexHeaderResponsive searchValue="" onSearchChange={() => {}} />
+      <LahalexHeaderResponsive searchValue="" onSearchChange={undefined} />
       
       <div className="container-responsive py-6">
         <div className="mb-8">
@@ -83,7 +83,7 @@ export default async function DocumentsPage() {
                     <div className="flex items-center justify-between text-xs text-gray-500">
                       <div className="flex items-center">
                         <Tag className="w-3 h-3 mr-1" />
-                        {document.structure.totalArticles} articles
+                        {document.structure?.totalArticles || 0} articles
                       </div>
                       
                       {document.publishedDate && (

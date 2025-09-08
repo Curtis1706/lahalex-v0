@@ -2,7 +2,7 @@ import { promises as fs } from 'fs'
 import { join } from 'path'
 import type { ArticleMetadata } from '@/types/article'
 
-const CONTENT_DIR = join(process.cwd(), 'content')
+const CONTENT_DIR = join(process.cwd() || '.', 'content')
 
 export async function ensureDirectories() {
   await fs.mkdir(CONTENT_DIR, { recursive: true })

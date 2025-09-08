@@ -11,6 +11,7 @@ import { ConstitutionSidebar } from "@/components/constitution-sidebar"
 
 export default function ConstitutionPreambulePage() {
   const [searchValue, setSearchValue] = useState("")
+  const [documentSearch, setDocumentSearch] = useState("")
 
   // Fonction pour la recherche globale depuis le header
   const handleSearchSubmit = async (query: string) => {
