@@ -161,14 +161,10 @@ export default function SourceInternationalPage() {
               const IconComponent = category.icon
               const count = categoryCounts[category.key] || 0
               return (
-                <button
+                <Link
                   key={category.key}
-                  onClick={() => handleCategoryClick(category.key, "internationale")}
-                  className={`w-full flex items-center justify-between px-3 py-2.5 lg:py-2 rounded-md text-sm transition-all duration-200 ${
-                    selectedCategory === category.key
-                      ? "bg-blue-100 text-blue-700 shadow-sm"
-                      : "text-gray-700 hover:bg-gray-100 hover:text-gray-900"
-                  }`}
+                  href={`/sources-internationales/${category.key}`}
+                  className="w-full flex items-center justify-between px-3 py-2.5 lg:py-2 rounded-md text-sm transition-all duration-200 text-gray-700 hover:bg-gray-100 hover:text-gray-900"
                 >
                   <div className="flex items-center space-x-2 lg:space-x-3 min-w-0">
                     <span className="truncate text-left">{category.label}</span>
@@ -176,7 +172,7 @@ export default function SourceInternationalPage() {
                   <div className="flex items-center space-x-2 flex-shrink-0">
                     <ChevronRight className="w-4 h-4" />
                   </div>
-                </button>
+                </Link>
               )
             })}
           </div>
