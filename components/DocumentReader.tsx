@@ -880,8 +880,7 @@ export function DocumentReader({
     // Pour les autres documents (constitution, codes, lois, etc.)
     breadcrumbItems = [
       { label: "Accueil", href: "/" },
-      { label: "Textes", href: "/documents" },
-      { label: currentSource, href: "/documents" },
+      { label: currentSource, href: "/" },
       {
         label: getDocumentTypeLabel(document.type),
         href: `/documents?type=${document.type}`,
